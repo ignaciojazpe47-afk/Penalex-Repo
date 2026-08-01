@@ -1,0 +1,26 @@
+{
+  "id": 31044,
+  "numero": "0827",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Abandono del trámite por pérdida de interés procesal",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad por inconstitucionalidad interpuesta contra la Ley de Reforma Parcial de la Ley de Timbre Fiscal del Estado La Guaira. La demanda fue presentada por las ciudadanas Valentina Amundaray Borges y Yuderkis Danibel Petit Porras, representadas por la abogada Gladys María Rodríguez Bogady, alegando que el impuesto de salida del país establecido por el Estado La Guaira vulnera derechos fundamentales y es de competencia exclusiva del Poder Público Nacional.\nLa Sala declaró su competencia para conocer la demanda, pero determinó que existió inactividad procesal por parte de las demandantes, lo que evidenció una falta de interés en continuar con el proceso. Por lo tanto, se declaró el abandono del trámite por pérdida de interés procesal, sin pronunciarse sobre el amparo cautelar solicitado, dado su carácter accesorio respecto de la acción principal.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "acción",
+    "inactividad",
+    "justicia",
+    "constitución",
+    "perención"
+  ],
+  "titulo": "Sentencia sobre nulidad por inconstitucionalidad de la Ley de Timbre Fiscal del Estado La Guaira",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0827_E21-0210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326483-0827-26623-2023-21-0210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.558870"
+}

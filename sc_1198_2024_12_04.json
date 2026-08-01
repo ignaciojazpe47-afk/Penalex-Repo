@@ -1,0 +1,26 @@
+{
+  "id": 28147,
+  "numero": "1198",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de diciembre de 2024, admitió la acción de amparo constitucional interpuesta por Lennys del Carmen Rincón Campos, en su carácter de Directora Gerente de la sociedad mercantil 'Servicios de Grúas Portuarias Sergrupor, C.A.', contra la sentencia del Tribunal Superior del Circuito Judicial Civil, que había declarado con lugar la cuestión previa de cosa juzgada en un juicio de desalojo. La Sala determinó que no existía cosa juzgada, ya que no se cumplían los requisitos de identidad de partes y causa entre los procesos.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "debido proceso",
+    "tutela judicial",
+    "arrendamiento",
+    "tercería",
+    "medidas cautelares",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1198_E24-0291.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340037-1198-41224-2024-24-0291.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.048851"
+}

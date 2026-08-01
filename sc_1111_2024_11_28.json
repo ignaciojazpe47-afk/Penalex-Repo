@@ -1,0 +1,26 @@
+{
+  "id": 28022,
+  "numero": "1111",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Jorge Luis Mogollón, actuando en representación de José Manuel Medina Torres, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte argumentó que existía una vía ordinaria para restablecer la situación jurídica denunciada, lo que constituye una causal de inadmisibilidad según el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala reitera que el amparo no debe ser utilizado como un medio sustitutivo de los recursos ordinarios.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "jurisprudencia",
+    "competencia",
+    "exención",
+    "procedimiento",
+    "vías judiciales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1111_E23-0875.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339691-1111-281124-2024-23-0875.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.475598"
+}

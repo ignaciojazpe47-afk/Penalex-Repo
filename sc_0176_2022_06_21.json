@@ -1,0 +1,25 @@
+{
+  "id": 35108,
+  "numero": "0176",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Incompetente",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por Pércida Melania Mejías Villanueva contra José Antonio Gonzáles Bohórquez, Coordinador de la Oficina de Superintendencia Nacional de Arrendamiento de Vivienda en el Estado Apure. La Sala determina que la competencia corresponde al Juzgado Superior Estadal de la Jurisdicción Contencioso Administrativa del Estado Apure, dado que los actos cuestionados ocurrieron en dicha jurisdicción y están relacionados con la materia contencioso-administrativa.\n\nLa decisión se fundamenta en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que los tribunales de primera instancia en la materia afín son competentes para conocer de las acciones de amparo. La Sala resalta la importancia de garantizar el acceso a la justicia y la tutela judicial efectiva, declinando así la competencia al tribunal correspondiente.\n\nFinalmente, se ordena la remisión del expediente al Juzgado Estadal de la Jurisdicción Contencioso Administrativa para que se dé trámite a la acción de amparo, asegurando que se respeten los derechos de la parte demandante en el proceso administrativo.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "derechos humanos",
+    "constitucional",
+    "SUNAVI",
+    "procedimiento administrativo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0176_E19-0266.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317437-0176-21622-2022-19-0266.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.618212"
+}

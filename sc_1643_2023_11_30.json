@@ -1,0 +1,25 @@
+{
+  "id": 33134,
+  "numero": "1643",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados Francisco Antonio Gil Bravo y Gianni Egidio Piva Torres, en representación del ciudadano Leyder Javier Ardiles Alvarado, contra la decisión de la Corte de Apelaciones que había declarado inadmisible la tutela constitucional. La Sala concluye que el accionante contaba con vías judiciales ordinarias que no fueron agotadas, lo que fundamenta la inadmisibilidad del amparo según el artículo 6.5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa decisión de la Corte de Apelaciones fue confirmada, ya que se consideró que la acción de amparo no era procedente al haberse optado por la vía ordinaria sin justificar la elección del amparo. La Sala Constitucional reafirma que el amparo es un recurso extraordinario que no debe sustituir los medios judiciales ordinarios disponibles para la protección de derechos fundamentales.\n\nFinalmente, se declara sin lugar el recurso de apelación interpuesto, confirmando la decisión de inadmisibilidad de la acción de amparo, y se ordena la publicación y notificación correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "medidas cautelares",
+    "derechos constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1643_E21-0704.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330810-1643-301123-2023-21-0704.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.971256"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 22118,
+  "numero": "1551",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una solicitud de revisión constitucional presentada por el abogado Moisés Abelardo Mijares Terife en nombre de María Teresa Cario Sanoja. La solicitud fue declarada inadmisible debido a la falta de acreditación del poder que lo facultara para actuar en representación de la demandante. La Sala enfatizó la importancia de cumplir con los requisitos de admisibilidad establecidos por la ley para la revisión de sentencias.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "poder judicial",
+    "representación",
+    "tutela constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1551_E25-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348297-1551-61025-2025-25-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.190348"
+}

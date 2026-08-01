@@ -1,0 +1,23 @@
+{
+  "id": 22895,
+  "numero": "1765",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 4 de marzo de 2024, que declaró inadmisible la demanda de tacha de falsedad presentada por Minerva Paola Quintiliani. La Sala encontró que el juzgado de origen incurrió en falta de cualidad al no considerar adecuadamente el reconocimiento de paternidad y el acta de nacimiento de la demandante. En consecuencia, se anuló la sentencia impugnada y se declaró firme la sentencia anterior que había declarado con lugar la tacha de falsedad.",
+  "palabras_clave": [
+    "tacha de falsedad",
+    "revisión constitucional",
+    "herencia",
+    "documento público"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de tacha de falsedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1765_E25-0797.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349737-1765-121125-2025-25-0797.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.072330"
+}

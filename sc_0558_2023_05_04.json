@@ -1,0 +1,23 @@
+{
+  "id": 30340,
+  "numero": "0558",
+  "fecha": "2023-05-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Francisco Javier Romero Aldana contra la decisión del Tribunal Superior Accidental del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Trujillo. La acción se fundamentó en la supuesta violación de derechos constitucionales tras la extinción de un procedimiento de obligación de manutención. Sin embargo, se determinó que el demandante contaba con recursos ordinarios que no fueron ejercidos, lo que llevó a la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "manutención"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0558_E23-0127.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325190-0558-16523-2023-23-0127.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.047265"
+}

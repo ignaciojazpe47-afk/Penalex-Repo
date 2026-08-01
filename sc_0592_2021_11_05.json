@@ -1,0 +1,22 @@
+{
+  "id": 40098,
+  "numero": "0592",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de William José Medina, quien impugnó la sentencia N° 009-17 dictada el 16 de junio de 2017, que confirmó su condena por violencia física. Medina argumentó que la Corte de Apelaciones incurrió en errores en la valoración de pruebas y en la interpretación del principio de presunción de inocencia. La Sala, tras analizar los argumentos, determinó que no se vulneraron derechos constitucionales y que la Corte de Apelaciones actuó conforme a derecho al desestimar las pruebas presentadas por la defensa, confirmando así la decisión de la instancia inferior.",
+  "palabras_clave": [
+    "violencia física",
+    "revisión constitucional",
+    "presunción de inocencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia por violencia física",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0592_E18-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314175-0592-51121-2021-18-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.105066"
+}

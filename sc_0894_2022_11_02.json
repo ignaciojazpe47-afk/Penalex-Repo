@@ -1,0 +1,25 @@
+{
+  "id": 37144,
+  "numero": "0894",
+  "fecha": "2022-11-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la revisión constitucional solicitada por Eduardo José Cisneros Barreto contra la sentencia del 23 de enero de 2019, dictada por el Tribunal Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Miranda. La inadmisibilidad se fundamenta en la falta de presentación de copias certificadas de la sentencia impugnada, lo que es considerado un requisito indispensable para la procedencia de la revisión. La Sala enfatiza la importancia de aportar documentos fehacientes al momento de solicitar la revisión de sentencias firmes.",
+  "palabras_clave": [
+    "sobreseimiento",
+    "defraudación",
+    "acción penal",
+    "incoherencia",
+    "nulidad",
+    "competencia"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-02_S0894_E21-0599.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320496-0894-21122-2022-21-0599.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.415784"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27026,
+  "numero": "0512",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la apelación interpuesta por el abogado Jadalla Charani F. contra la decisión del Juzgado Superior que declaró inadmisible la acción de amparo constitucional. La Sala concluye que el recurso de amparo es inadmisible ya que el demandante había optado por recurrir a vías ordinarias, lo que implica que no se puede utilizar el amparo como un medio alternativo para resolver el conflicto. Finalmente, se declara SIN LUGAR la apelación y se confirma la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "inadmision",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre la apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0512_E22-0312.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338400-0512-301024-2024-22-0312.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.476253"
+}

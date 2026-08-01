@@ -1,0 +1,23 @@
+{
+  "id": 16012,
+  "numero": "0471",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la solicitud de aclaratoria presentada por Gregorio Caravasile Francoyanni respecto a la sentencia n.° 218, dictada el 11 de marzo de 2026. En esta sentencia, se abordó la solicitud de avocamiento interpuesta por Irma Michailos de Frangogiannis en relación a un proceso penal por estafa agravada. La Sala consideró que no existían puntos dudosos ni errores materiales que justificarán la aclaratoria solicitada, ya que los razonamientos de la decisión eran claros y coherentes.",
+  "palabras_clave": [
+    "avocamiento",
+    "estafa",
+    "aclaratoria",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria en el avocamiento de la causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0471_E19-0628.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354922-0471-14426-2026-19-0628.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.585561"
+}

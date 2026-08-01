@@ -1,0 +1,25 @@
+{
+  "id": 29701,
+  "numero": "0233",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por Eucaris Coromoto Morillo Mármol contra una sentencia del Juzgado Superior en lo Civil, que había declarado procedente un recurso de apelación. La Sala determinó que la sentencia apelada no desestimó la alegación de inadmisibilidad de la demanda por falta de legitimación activa, sino que ordenó la integración del litisconsorcio necesario, lo que se consideró ajustado a derecho. Finalmente, se declaró no ha lugar la solicitud de revisión, enfatizando que la revisión no es un medio para corregir errores de juzgamiento, sino para asegurar la uniformidad en la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "litisconsorcio",
+    "constitucional",
+    "jurisprudencia",
+    "decisión",
+    "justicia"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de documentos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0233_E18-0254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324320-0233-10423-2023-18-0254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.053378"
+}

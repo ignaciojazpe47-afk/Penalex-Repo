@@ -1,0 +1,27 @@
+{
+  "id": 1635,
+  "numero": "158",
+  "fecha": null,
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Improcedente",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 158 del 28 de marzo de 2000, declaró improcedente la acción de nulidad por inconstitucionalidad interpuesta por la sociedad mercantil Micro Computers Store, S.A. (Micost) contra el artículo 1 de la Ley Orgánica de la Corte Suprema de Justicia. La acción se fundamentó en la supuesta violación de derechos y garantías constitucionales, alegando que la norma impide la interposición de recursos contra decisiones del Tribunal Supremo de Justicia. La Sala, tras analizar la competencia y la naturaleza de la norma impugnada, concluyó que no existía razón para declarar la inconstitucionalidad, ya que la norma en cuestión garantiza la aplicación de la Constitución y no transgrede derechos fundamentales. Por lo tanto, se desestimó la solicitud de nulidad.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "derechos",
+    "garantías",
+    "Tribunal Supremo",
+    "justicia",
+    "recursos",
+    "normativa",
+    "decisiones"
+  ],
+  "titulo": "Improcedencia de la acción de nulidad por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-03-28_CasacionCivil_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.687394"
+}

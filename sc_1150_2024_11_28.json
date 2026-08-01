@@ -1,0 +1,18 @@
+{
+  "id": 28060,
+  "numero": "1150",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por CHRISTHIAM ISMAEL MARTÍNEZ GUAMÁN, quien impugnó una decisión del Juzgado Décimo de Primera Instancia que declaró sin lugar una cuestión previa relacionada con la falta de caución necesaria para proceder al juicio. La Sala consideró que la decisión del juzgado inferior había vulnerado derechos constitucionales, como el derecho a la defensa y el debido proceso, al no valorar adecuadamente las pruebas presentadas.\n\nEn consecuencia, la Sala declaró con lugar la acción de amparo, revocando la sentencia impugnada y declarando improcedente el amparo interpuesto por el demandante contra la decisión del juzgado de primera instancia. La Sala fundamentó su decisión en la falta de recursos ordinarios para impugnar la sentencia objeto de amparo, lo que justificó la admisión de la acción constitucional.\n\nFinalmente, la Sala ordenó la remisión del expediente al tribunal de origen y dejó sin efecto la decisión del Juzgado Décimo, restableciendo así la tutela judicial efectiva del accionante.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1150_E23-0771.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339746-1150-281124-2024-23-0771.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.479420"
+}

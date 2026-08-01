@@ -1,0 +1,22 @@
+{
+  "id": 23078,
+  "numero": "1846",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la apelación interpuesta por Adrián José Rodríguez Pineda, declaró inadmisible la acción de amparo presentada contra el juez Ángel Betancourt Martínez por la negativa a juramentar a sus abogados defensores. La decisión se fundamentó en la falta de legitimidad de los abogados para actuar en nombre del imputado, quien se encontraba privado de libertad y no había otorgado poder a sus defensores. La Sala consideró que la acción de amparo no era procedente al no tratarse de un habeas corpus y que la negativa del tribunal no constituía una violación irreparable de derechos constitucionales.",
+  "palabras_clave": [
+    "Amparo",
+    "Derecho a la defensa",
+    "Inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1846_E25-0841.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349970-1846-181125-2025-25-0841.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.063204"
+}

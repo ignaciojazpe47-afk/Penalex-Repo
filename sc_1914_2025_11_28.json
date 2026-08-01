@@ -1,0 +1,25 @@
+{
+  "id": 23399,
+  "numero": "1914",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Jorge Luis Socas González, apoderado de Cruz Coromoto Cuba Díaz, debido a la falta de legitimación, ya que no presentó el poder de representación correspondiente. La acción fue ejercida contra un fallo del Tribunal Superior Séptimo que declaró sin lugar un recurso de apelación por incomparecencia de la parte actora a la audiencia preliminar. La Sala resalta que la falta de consignación del documento que acredite la representación judicial es una carga exclusiva de la parte actora.",
+  "palabras_clave": [
+    "apelación",
+    "audiencia preliminar",
+    "incomparecencia",
+    "derecho procesal",
+    "justicia laboral",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1914_E24-1015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350800-1914-281125-2025-24-1015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.796764"
+}

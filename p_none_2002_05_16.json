@@ -1,0 +1,23 @@
+{
+  "id": 2778,
+  "numero": null,
+  "fecha": "2002-05-16",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia desestima el recurso de casación interpuesto por Abelardo Tous Mulkay, quien apelaba contra el sobreseimiento de la investigación preliminar por los delitos de estafa y falsificación documental. La Corte de Apelaciones había confirmado el sobreseimiento, argumentando que no existían elementos probatorios suficientes para demostrar la comisión de los delitos. El Tribunal Supremo concluye que el recurso es inadmisible, ya que el ejercicio de la acción penal corresponde exclusivamente al Ministerio Público.",
+  "palabras_clave": [
+    "casación",
+    "sobreseimiento",
+    "estafa",
+    "falsificación documental"
+  ],
+  "titulo": "Decisión sobre recurso de casación interpuesto por Abelardo Tous Mulkay",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-05-16_CasacionPenal_C020108_Rbethe012.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:08.623052"
+}

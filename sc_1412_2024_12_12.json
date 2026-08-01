@@ -1,0 +1,25 @@
+{
+  "id": 28581,
+  "numero": "1412",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por la abogada Samira Abou Rahal en representación de Amado Jesús Tablante Rondón y Jesús de los Reyes Tablante, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas, dictada el 17 de enero de 2024. La Sala argumentó que el amparo no es un medio para replantear asuntos ya decididos por otro tribunal, y que la acción no cumplía con los requisitos procesales establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "nulidad",
+    "apelación",
+    "derechos_fundamentales",
+    "justicia",
+    "audiencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1412_E24-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340604-1412-121224-2024-24-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.815934"
+}

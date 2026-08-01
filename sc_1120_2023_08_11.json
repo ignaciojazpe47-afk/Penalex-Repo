@@ -1,0 +1,25 @@
+{
+  "id": 34003,
+  "numero": "1120",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de acciones de amparo en contra de la Inspectora General de Tribunales. Se determinó que la falta de actuación de la parte actora por más de seis meses constituye abandono del trámite, lo que llevó a declarar terminado el procedimiento. Además, se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "inactividad",
+    "debido proceso",
+    "interés procesal",
+    "extinción de instancia",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1120_E18-0192.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328266-1120-11823-2023-18-0192.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.325062"
+}

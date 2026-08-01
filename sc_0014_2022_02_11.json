@@ -1,0 +1,25 @@
+{
+  "id": 34335,
+  "numero": "0014",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional en la modalidad de 'Hábeas Corpus' interpuesta por Eraldo Emiro Bracho Espinoza en representación de su menor hijo contra la DGCIM. La Sala, tras analizar el caso, se declaró incompetente para conocer de la acción, ya que la competencia corresponde a los juzgados de Primera Instancia en lo Penal. Además, se homologó el desistimiento de la acción de amparo, dado que el menor fue puesto en libertad el 30 de diciembre de 2020.",
+  "palabras_clave": [
+    "amparo",
+    "hábeas corpus",
+    "desistimiento",
+    "derechos",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de Hábeas Corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0014_E20-0511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315526-0014-11222-2022-20-0511.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.716888"
+}

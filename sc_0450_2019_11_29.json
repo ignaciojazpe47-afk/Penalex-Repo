@@ -1,0 +1,25 @@
+{
+  "id": 44653,
+  "numero": "0450",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de amparo constitucional presentada por Franco Antonio Pérez Basanta, quien alegaba la amenaza de ser sometido a nuevas evaluaciones médicas por parte del Tribunal de Violencia Contra la Mujer del Estado Bolívar. La Sala, tras analizar los argumentos, determinó que la competencia para conocer del amparo correspondía a la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, declarándose incompetente para conocer del caso.",
+  "palabras_clave": [
+    "amparo",
+    "violencia",
+    "mujer",
+    "derechos",
+    "tribunales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0450_E17-0704.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308387-0450-291119-2019-17-0704.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.821857"
+}

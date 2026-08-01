@@ -1,0 +1,25 @@
+{
+  "id": 41730,
+  "numero": "0164",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la revisión solicitada por el abogado Pedro José Rodríguez Ríos, actuando en nombre de Benigno Iglesias Cid, contra la sentencia dictada el 11 de octubre de 2018 por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de Caracas. La revisión se fundamentó en alegaciones de cosa juzgada y caducidad de la acción, las cuales fueron desestimadas por la Sala, considerando que no existió pronunciamiento sobre el fondo de la demanda anterior y que la acción de desalojo era procedente.",
+  "palabras_clave": [
+    "desalojo",
+    "cosa juzgada",
+    "caducidad",
+    "procedimiento civil",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0164_E18-0784.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310769-0164-241120-2020-18-0784.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.416505"
+}

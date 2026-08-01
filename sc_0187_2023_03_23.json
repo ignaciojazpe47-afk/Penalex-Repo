@@ -1,0 +1,25 @@
+{
+  "id": 29448,
+  "numero": "0187",
+  "fecha": "2023-03-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado Marcos Elías Goitia Hernández en representación de varios ciudadanos contra una sentencia del Tribunal Superior Agrario. La acción fue declarada inadmisible por falta de representación, ya que el poder otorgado al abogado solo era válido para el juicio específico y no para la acción de amparo. La Sala se declaró competente para conocer el caso, pero al no evidenciarse un mandato que permitiera al abogado actuar en nombre de los accionantes, se decidió no admitir la acción.",
+  "palabras_clave": [
+    "amparo",
+    "poder",
+    "representación",
+    "legitimidad",
+    "acción autónoma",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-23_S0187_E22-0808.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323848-0187-23323-2023-22-0808.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.074954"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 62589,
+  "numero": "254",
+  "fecha": "2015-03-12",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia planteado entre dos juzgados de la Circunscripción Judicial del Estado Barinas, en relación a una acción de amparo constitucional interpuesta por los ciudadanos Ignacio Scalia Amato y Mirian Josefina Virla Balza. La acción se fundamentó en la presunta vulneración de derechos constitucionales relacionados con la libertad económica y la tutela judicial efectiva, debido a la negativa de los arrendadores a permitir el acceso a los equipos de aire acondicionado necesarios para el funcionamiento de su establecimiento comercial.\n\nLa Sala determinó que la competencia para conocer de la acción de amparo correspondía al Juzgado Primero de Primera Instancia en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Barinas, dado que la naturaleza del derecho presuntamente vulnerado era de carácter civil y no laboral. En consecuencia, se ordenó la remisión del expediente a dicho tribunal para que continúe conociendo de la acción de amparo y se pronuncie sobre su admisibilidad.\n\nLa decisión se fundamentó en la interpretación de las normas pertinentes y en la naturaleza del derecho en cuestión, destacando la importancia de garantizar el acceso a la justicia y la protección de los derechos económicos de los ciudadanos.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "libertad económica",
+    "tutela judicial efectiva",
+    "Estado Barinas"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-12_S254_E15-0013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175367-254-12315-2015-15-0013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.341604"
+}

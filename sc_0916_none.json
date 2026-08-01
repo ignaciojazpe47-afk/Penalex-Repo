@@ -1,0 +1,26 @@
+{
+  "id": 31212,
+  "numero": "0916",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisa la sentencia del Tribunal Superior Cuarto que declaró sin lugar el recurso de apelación interpuesto por la representación de Delfín Jesús Moronta Izarra y Marianella Moreno. Se argumenta que la decisión incurrió en incongruencia omisiva e inmotivación, afectando derechos fundamentales como la tutela judicial efectiva y el derecho a la defensa. La Sala acuerda la suspensión de los efectos de la sentencia impugnada y la medida de prohibición de enajenar sobre el inmueble objeto del juicio.",
+  "palabras_clave": [
+    "inmotivación",
+    "tutela judicial efectiva",
+    "derecho a la defensa",
+    "sentencia",
+    "revisión constitucional",
+    "arrendamientos",
+    "retracto legal"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0916_E22-0999.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326824-0916-12723-2023-22-0999.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.692868"
+}

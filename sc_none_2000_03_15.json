@@ -1,0 +1,27 @@
+{
+  "id": 1611,
+  "numero": null,
+  "fecha": "2000-03-15",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": null,
+  "decision": "INADMISIBLE",
+  "ponente": "JESUS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el Coronel (G.N.) Oscar Silva Hernández contra la decisión de la Corte Marcial que dictó un auto de detención. La Sala argumenta que la posible violación denunciada cesó antes de la decisión, basándose en un hecho comunicacional notorio que fue publicado en varios medios de comunicación, donde se informa que el Coronel fue absuelto de todos los cargos. La decisión se fundamenta en la consideración de que el hecho comunicacional puede ser considerado notorio y, por lo tanto, puede ser fijado como cierto por el juez sin necesidad de prueba adicional. La Sala concluye que la acción de amparo es inadmisible de acuerdo con la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "Corte Marcial",
+    "debido proceso",
+    "hecho notorio",
+    "absolución",
+    "inadmibilidad",
+    "derechos constitucionales",
+    "justicia"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-03-15_CasacionPenal_0146_CabreraRomero.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.678091"
+}

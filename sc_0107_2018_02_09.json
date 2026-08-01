@@ -1,0 +1,24 @@
+{
+  "id": 45443,
+  "numero": "0107",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 316, declaró sin lugar la apelación interpuesta por el abogado Luis Romero Chacón, defensor del ciudadano José Ramón Padrón Morales, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que el accionante no agotó las vías ordinarias de impugnación, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Corte de Apelaciones había señalado que la acción de amparo no era procedente ya que el agraviado contaba con recursos ordinarios para impugnar la medida de privación de libertad decretada en su contra. La Sala Constitucional reafirmó que el uso del amparo constitucional no puede sustituir los recursos ordinarios y que el orden público debe ser respetado en el proceso penal.\n\nFinalmente, la Sala Constitucional confirmó la inadmisibilidad de la acción de amparo, destacando que el derecho a la libertad no es absoluto y puede ser restringido en circunstancias específicas, como en el caso del accionante, quien estaba siendo procesado por delitos graves.",
+  "palabras_clave": [
+    "amparo",
+    "derecho a la defensa",
+    "medida cautelar",
+    "Código Penal",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0107_E16-1092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207666-0107-9218-2018-16-1092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.439322"
+}

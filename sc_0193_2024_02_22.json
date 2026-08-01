@@ -1,0 +1,27 @@
+{
+  "id": 24330,
+  "numero": "0193",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Michel Adriana Velásquez Grillet, decide sobre la solicitud de revisión presentada por Alexander Acosta contra una sentencia que declaró inadmisible su acción de amparo constitucional. La Sala concluye que la revisión no procede, ya que el solicitante debe acudir a las vías ordinarias y no a la acción de amparo para restablecer su situación. La decisión se fundamenta en la falta de error en la interpretación de la norma constitucional por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "jurisprudencia",
+    "competencia",
+    "derechos",
+    "garantías",
+    "sentencia",
+    "vías procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0193_E22-0512.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332736-0193-22224-2024-22-0512.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.659263"
+}

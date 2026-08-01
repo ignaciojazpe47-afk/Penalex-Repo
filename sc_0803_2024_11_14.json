@@ -1,0 +1,26 @@
+{
+  "id": 27539,
+  "numero": "0803",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional interpuesta por Lubín José Aguirre Martínez contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de Carabobo. La solicitud fue desestimada al no evidenciarse violaciones a derechos constitucionales ni desconocimiento de precedentes establecidos por la Sala Constitucional.\n\nEl tribunal argumentó que la revisión no constituye una tercera instancia y que la decisión del juzgado inferior fue adecuada, ya que analizó la acumulación de pretensiones y determinó que no existía conexión entre las acciones demandadas. La Sala reafirmó su competencia para conocer de la solicitud, pero concluyó que no había lugar a la revisión solicitada.\n\nFinalmente, se declaró la competencia para conocer de la solicitud y se resolvió que no ha lugar a la misma, reafirmando la importancia de la uniformidad en la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "acumulación",
+    "procedimiento civil",
+    "posesión",
+    "derecho de propiedad",
+    "litisconsorcio",
+    "acción",
+    "título"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0803_E24-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338976-0803-141124-2024-24-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.021486"
+}

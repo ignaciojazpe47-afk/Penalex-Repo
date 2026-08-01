@@ -1,0 +1,25 @@
+{
+  "id": 36662,
+  "numero": "0744",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La abogada Yamileth Contreras interpuso una acción de amparo constitucional contra la Corte de Apelaciones por no pronunciarse sobre un recurso de apelación. La Sala Constitucional del TSJ determinó su competencia para conocer el caso, pero declaró la acción inadmisible por cesación de la violación de derechos constitucionales, ya que la Corte de Apelaciones había emitido una decisión confirmando la anterior. La sentencia fue firmada el 14 de octubre de 2022.",
+  "palabras_clave": [
+    "amparo",
+    "pandemia",
+    "derechos humanos",
+    "tutela judicial",
+    "tribunales",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0744_E17-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319833-0744-141022-2022-17-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.180349"
+}

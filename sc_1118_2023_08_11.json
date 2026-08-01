@@ -1,0 +1,24 @@
+{
+  "id": 33999,
+  "numero": "1118",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal por abandono del trámite en el recurso de nulidad interpuesto por los ciudadanos Roger José López Mendoza y Zdenko Seligo, en relación a los artículos 374 y 430 del Código Orgánico Procesal Penal. Se argumenta que hubo inacción por parte de los demandantes desde octubre de 2017 hasta enero de 2019, lo que evidencia la falta de interés en continuar con el proceso. La decisión se fundamenta en la jurisprudencia que establece que el interés procesal debe mantenerse a lo largo del juicio.",
+  "palabras_clave": [
+    "interés procesal",
+    "abandonos del trámite",
+    "justicia",
+    "jurisprudencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre nulidad de artículos del Código Orgánico Procesal Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1118_E16-0952.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328262-1118-11823-2023-16-0952.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.333715"
+}

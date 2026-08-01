@@ -1,0 +1,24 @@
+{
+  "id": 68404,
+  "numero": "1695",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Desacato",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la denuncia de desacato interpuesta por Freddy Alex Zambrano Rincones, defensor de Beatriz Martínez Pacheco, contra el Juez Trigésimo de Primera Instancia en función de Control del Circuito Judicial Penal del Área Metropolitana de Caracas. La denuncia se fundamentó en la supuesta inmotivación de la decisión del juez respecto a las excepciones planteadas por la defensa en la audiencia preliminar. La Sala de Apelaciones había declarado improcedente la solicitud de desacato, argumentando que el mandamiento de amparo constitucional había sido cumplido al reponer la causa a otro juez para la celebración de una nueva audiencia preliminar.\n\nLa Sala Constitucional confirmó la decisión de la Sala de Apelaciones, señalando que no se podía analizar el pronunciamiento del juez en la nueva audiencia preliminar a través de la vía del desacato. Se concluyó que el procedimiento de amparo constitucional había restablecido la situación jurídica infringida, y que la denuncia de desacato no era procedente, ya que no existía incumplimiento del mandamiento de amparo.\n\nFinalmente, se declaró sin lugar el recurso de apelación interpuesto por el abogado Zambrano, confirmando la decisión de la Sala N° 6 de la Corte de Apelaciones que había declarado improcedente la solicitud de desacato.",
+  "palabras_clave": [
+    "desacato",
+    "mandamiento de amparo",
+    "Corte de Apelaciones",
+    "audiencia preliminar",
+    "inmotivación"
+  ],
+  "titulo": "Sentencia sobre desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1695_E15-1037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184141-1695-181215-2015-15-1037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.969701"
+}

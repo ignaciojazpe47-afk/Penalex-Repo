@@ -1,0 +1,25 @@
+{
+  "id": 19655,
+  "numero": "0638",
+  "fecha": "2025-05-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Asdrúbal Placeres en representación de Enmanuel José Fuentes Mata, por no demostrar su legitimación activa. La decisión se basa en la falta de un documento que acredite su calidad de defensor privado, lo que es un requisito esencial para la admisión de la acción de amparo. Además, se señala que la acción fue presentada después de que la privación de libertad del demandado había cesado, lo que también contribuye a la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación activa",
+    "derecho a la defensa",
+    "tutela judicial",
+    "debido proceso",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-06_S0638_E22-0272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343574-0638-6525-2025-22-0272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.734201"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 56763,
+  "numero": "237",
+  "fecha": "2016-03-29",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por el Juzgado Superior Primero del Trabajo de Miranda, que había declarado competente a la Inspectoría del Trabajo para conocer sobre el reenganche de Roberto Carlos Rincón Méndez, quien había sido destituido. La Sala concluyó que la Inspectoría no era competente, ya que Rincón Méndez era un funcionario público y su caso debía ser tratado por la jurisdicción contencioso-administrativa. La Sala declaró con lugar la revisión y anuló la sentencia del Juzgado Superior, reafirmando la competencia de la jurisdicción contencioso-administrativa en este tipo de casos.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "reenganche",
+    "funcionario público",
+    "jurisdicción contencioso-administrativa"
+  ],
+  "titulo": "Revisión de sentencia sobre reenganche y pago de salarios caídos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-29_S237_E14-1348.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/186542-237-29316-2016-14-1348.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:23.452574"
+}

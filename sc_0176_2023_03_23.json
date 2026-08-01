@@ -1,0 +1,25 @@
+{
+  "id": 29437,
+  "numero": "0176",
+  "fecha": "2023-03-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por el abogado Leonardo Parra Bustamante en representación de Luz Mariela González Carbillo, respecto a la sentencia número 178 de la Sala de Casación Penal. La Sala declaró inadmisible la solicitud debido a la falta de acreditación de la representación judicial del solicitante, al no presentar el poder correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "defensor privado",
+    "representación",
+    "competencia",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-23_S0176_E21-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323837-0176-23323-2023-21-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.072463"
+}

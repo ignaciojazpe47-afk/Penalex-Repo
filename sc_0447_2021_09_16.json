@@ -1,0 +1,25 @@
+{
+  "id": 39577,
+  "numero": "0447",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Pablo Manuel Cardozo Bermúdez contra vicios en el procedimiento del Juzgado Superior Primero en lo Civil. La acción se fundamentó en la omisión de notificación de una sentencia dictada el 3 de octubre de 2017, que había declarado sin lugar una apelación interpuesta por el demandante. La Sala determinó que hubo abandono del trámite por parte del accionante, ya que transcurrieron más de seis meses sin que se manifestara interés en la causa.",
+  "palabras_clave": [
+    "amparo",
+    "inactividad",
+    "interés procesal",
+    "abandonar trámite",
+    "multa",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0447_E19-0329.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313414-0447-16921-2021-19-0329.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.621390"
+}

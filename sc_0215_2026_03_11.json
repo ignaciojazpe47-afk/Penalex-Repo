@@ -1,0 +1,22 @@
+{
+  "id": 16566,
+  "numero": "0215",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, decidió sobre la solicitud de revisión de una sentencia condenatoria por violencia sexual agravada. El abogado Jairo del Jesús Rodríguez, defensor del ciudadano Luis Antonio Suárez Vivas, argumentó que se habían violado garantías constitucionales durante el juicio, alegando falta de imparcialidad del juez. Sin embargo, la Sala concluyó que la sentencia objeto de revisión no era definitivamente firme, ya que había sido impugnada mediante recursos ordinarios y extraordinarios.",
+  "palabras_clave": [
+    "violencia sexual",
+    "revisión constitucional",
+    "imparcialidad judicial"
+  ],
+  "titulo": "Revisión de sentencia por violencia sexual agravada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0215_E25-1431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353493-0215-11326-2026-25-1431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.580922"
+}

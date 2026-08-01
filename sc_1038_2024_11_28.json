@@ -1,0 +1,27 @@
+{
+  "id": 27925,
+  "numero": "1038",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con una acción de amparo constitucional presentada por José Eloy Rojas Mora, quien impugnó una decisión de la Corte de Apelaciones que confirmó la negativa de devolución de un vehículo incautado. La Sala determinó que la acción de amparo era improcedente debido a la falta de una sentencia definitivamente firme y a la no demostración de la titularidad del vehículo por parte del solicitante. Se concluyó que el mantenimiento de la medida preventiva de incautación era ajustado a derecho hasta que se resolviera la investigación penal en curso.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "incautación",
+    "derecho_de_propiedad",
+    "Código_Orgánico_Procesal_Penal",
+    "Ley_Contra_la_Delincuencia_Organizada",
+    "Ley_de_Drogas",
+    "Ley_para_el_Desarme"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1038_E24-0028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339542-1038-271124-2024-24-0028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.470091"
+}

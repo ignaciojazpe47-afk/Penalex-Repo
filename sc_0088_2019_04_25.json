@@ -1,0 +1,27 @@
+{
+  "id": 42605,
+  "numero": "0088",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión presentada por Nestlé Venezuela, S.A. contra la sentencia N° 536 de la Sala de Casación Civil, que había declarado la nulidad de una sentencia anterior y ordenado dictar una nueva. La decisión se fundamentó en la falta de circunstancias que justificaran el ejercicio de la potestad extraordinaria de revisión, así como en la consideración de que no se habían demostrado los daños reclamados por las demandantes. La Sala reafirmó la importancia del derecho a la defensa y al debido proceso en el contexto de la revisión constitucional.",
+  "palabras_clave": [
+    "responsabilidad civil",
+    "daños materiales",
+    "daño moral",
+    "abuso de posición de dominio",
+    "prueba contable",
+    "incumplimiento",
+    "justicia",
+    "razonabilidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 536",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0088_E18-0011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304634-0088-25419-2019-18-0011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.594266"
+}

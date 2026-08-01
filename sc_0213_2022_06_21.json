@@ -1,0 +1,22 @@
+{
+  "id": 35145,
+  "numero": "0213",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional presentada por Tomás Antonio Graterol Álvarez contra la omisión de pronunciamiento de la Sala 1 de la Corte de Apelaciones del Estado Carabobo. El demandante alegó que no se había emitido decisión sobre un recurso de apelación interpuesto en febrero de 2021, lo que vulneraba sus derechos constitucionales. La Sala Constitucional del TSJ asumió competencia y ordenó a la Corte de Apelaciones informar sobre el estado del recurso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0213_E21-0603.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317474-0213-21622-2022-21-0603.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.632076"
+}

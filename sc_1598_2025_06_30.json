@@ -1,0 +1,23 @@
+{
+  "id": 22258,
+  "numero": "1598",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del TSJ dictó la sentencia número 1050, en la que se admite la acción de amparo constitucional interpuesta por Lisette Balbina Nieto de Capovilla contra las medidas cautelares impuestas por la Jueza Gilhrey Rivero Osorio. La demandante argumentó que no fue notificada de la investigación penal en su contra ni de las medidas que la afectaban, lo que vulneró su derecho a la defensa y al debido proceso. La Sala, tras analizar los argumentos, decidió declarar con lugar la acción de amparo, ordenando dejar sin efecto las medidas cautelares impuestas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1598_E25-0417.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348715-1598-151025-2025-25-0417.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.510297"
+}

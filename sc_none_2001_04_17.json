@@ -1,0 +1,23 @@
+{
+  "id": 6547,
+  "numero": null,
+  "fecha": "2001-04-17",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La ciudadana America del Valle Aguilera Bello interpuso un amparo constitucional contra una sentencia del Juzgado Superior que ordenó el retiro de su kiosco. La Sala Constitucional, tras analizar los argumentos, determinó que la acción de amparo era inadmisible, ya que la parte actora había tenido la oportunidad de defenderse en el proceso original y no se presentaron nuevos agravios constitucionales. La Sala concluyó que el amparo no era la vía adecuada para reabrir el debate sobre la legalidad de la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "kiosco",
+    "propiedad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre la propiedad de un kiosco",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_b6e585d2f2341782ea918faf872d4113_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.706851"
+}

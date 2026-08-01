@@ -1,0 +1,26 @@
+{
+  "id": 41964,
+  "numero": "0260",
+  "fecha": "2020-12-16",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Rosanna Scalera Maracara contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Carabobo, que anuló una decisión anterior y ordenó la reposición del proceso de desalojo. La Sala argumenta que no se vulneraron derechos constitucionales y que la existencia de una cuestión prejudicial fue correctamente identificada por el tribunal inferior. Se concluye que la acción de amparo no cumple con los requisitos necesarios para su admisión.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento",
+    "cosa juzgada",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-16_S0260_E19-0736.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311077-0260-161220-2020-19-0736.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.390244"
+}

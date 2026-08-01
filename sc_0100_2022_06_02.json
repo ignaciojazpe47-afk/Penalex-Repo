@@ -1,0 +1,26 @@
+{
+  "id": 34964,
+  "numero": "0100",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional, propuesta por la representación judicial de la ciudadana MARIELA MARINOVA VASSILEVA.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de junio de 2022, declaró no ha lugar la solicitud de revisión constitucional presentada por Mariela Marinova Vassileva. La solicitud se basaba en la revisión de una sentencia anterior de la Sala de Casación Civil que había declarado sin lugar un recurso de casación relacionado con una demanda de tacha de documento. La Sala Constitucional, tras analizar el caso, determinó que la sentencia de la Sala de Casación Civil había incurrido en errores procesales, pero no encontró motivos suficientes para revocar la decisión anterior.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "sentencia",
+    "motivación",
+    "derechos constitucionales",
+    "Código de Procedimiento Civil",
+    "confesión ficta",
+    "anarquía procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0100_E19-0439.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316857-0100-2622-2022-19-0439.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.419450"
+}

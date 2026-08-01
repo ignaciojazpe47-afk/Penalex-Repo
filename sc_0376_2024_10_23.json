@@ -1,0 +1,25 @@
+{
+  "id": 26775,
+  "numero": "0376",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Luis Alberto Rodríguez Rincones en representación de José Bautista Flores Varela. La acción se dirigía contra la sentencia dictada el 24 de octubre de 2023 por el Juzgado Superior en lo Civil, que había declarado con lugar una apelación en un juicio de desalojo. La inadmisibilidad se fundamenta en la falta de representación adecuada del demandante, ya que el abogado no presentó un poder suficiente que acreditara su condición de apoderado judicial.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "derecho a la defensa",
+    "tutela judicial",
+    "constitución",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0376_E23-1295.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338057-0376-231024-2024-23-1295.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.332133"
+}

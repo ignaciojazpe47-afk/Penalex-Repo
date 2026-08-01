@@ -1,0 +1,22 @@
+{
+  "id": 30250,
+  "numero": "0469",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Gladys Amaya Matos, quien alegaba violaciones a sus derechos constitucionales en un conflicto de custodia. La Sala, tras examinar la solicitud, determinó que no era competente para conocer del caso, ya que se trataba de un asunto que debía ser resuelto por la Sala de Casación Social. En consecuencia, declinó el conocimiento del caso y ordenó remitir las actuaciones a dicha Sala.",
+  "palabras_clave": [
+    "avocamiento",
+    "custodia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0469_E22-0449.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325090-0469-15523-2023-22-0449.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.892330"
+}

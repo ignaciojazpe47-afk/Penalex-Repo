@@ -1,0 +1,27 @@
+{
+  "id": 37152,
+  "numero": "0902",
+  "fecha": "2022-11-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada el 13 de marzo de 2020, que declaró con lugar un recurso de apelación y sin lugar una demanda de extinción de hipoteca. El solicitante argumentó que el juzgado inferior subvaloró las letras de cambio presentadas como prueba de pago. Sin embargo, la Sala concluyó que las letras no estaban causadas y no demostraban la extinción de la obligación principal, por lo que se declaró la solicitud de revisión sin lugar.",
+  "palabras_clave": [
+    "extincion de hipoteca",
+    "perencion",
+    "carga probatoria",
+    "código civil",
+    "código de procedimiento civil",
+    "obligaciones",
+    "demandante",
+    "demandada"
+  ],
+  "titulo": "Revisión de sentencia sobre extinción de hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-03_S0902_E22-0306.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320504-0902-31122-2022-22-0306.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.409790"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30541,
+  "numero": "0587",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por el abogado Héctor José Noguera Mora en nombre de Eduardo Antonio Martínez Zamarripa, debido a la falta de legitimidad del accionante. La decisión se fundamenta en el artículo 133.2 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece que se declarará la inadmisión de la demanda cuando no se acompañen los documentos indispensables para verificar si la demanda es admisible. A pesar de que se alegaron violaciones a derechos constitucionales, la falta de presentación de la sentencia cuestionada fue determinante para la inadmisibilidad.",
+  "palabras_clave": [
+    "Amparo",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0587_E210461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325675-0587-30523-2023-21.0461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.941718"
+}

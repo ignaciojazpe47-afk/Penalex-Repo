@@ -1,0 +1,24 @@
+{
+  "id": 55240,
+  "numero": "1073",
+  "fecha": "2017-12-08",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 514, declaró con lugar la acción de amparo constitucional interpuesta por la abogada Eglé Coromoto Pérez en representación de José Gregorio López Acevedo. Se revisaron las decisiones de la Corte de Apelaciones que habían declarado sin lugar la inhibición planteada por la jueza América Vivas Hidalgo y el recurso de apelación interpuesto por la defensa, confirmando la condena de 18 años de prisión por delitos de violencia sexual agravada y violencia psicológica. La Sala consideró que las decisiones impugnadas vulneraron el derecho al debido proceso y la garantía del juez natural, por lo que se anuló la sentencia condenatoria y se ordenó la reposición del proceso penal a su estado anterior para garantizar un juicio justo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia sexual",
+    "violencia psicológica",
+    "debido proceso",
+    "juez natural"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por José Gregorio López Acevedo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-12-08_S1073_E17-0410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/206284-1073-81217-2017-17-0410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.290737"
+}

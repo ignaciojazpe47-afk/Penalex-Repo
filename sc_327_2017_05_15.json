@@ -1,0 +1,24 @@
+{
+  "id": 51683,
+  "numero": "327",
+  "fecha": "2017-05-15",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del Tribunal Superior Tercero del Trabajo de Carabobo, que había declarado desistida la apelación de la parte accionada y sin lugar el recurso de apelación de la parte actora. La Sala encontró que la decisión impugnada incurrió en incongruencia omisiva al no resolver adecuadamente las alegaciones de la parte apelante, lo que vulneró derechos fundamentales como el debido proceso y la tutela judicial efectiva. Por lo tanto, se declaró con lugar la solicitud de revisión, anulando el fallo y ordenando que otro Juzgado Superior del Trabajo se pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia laboral",
+    "incongruencia",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de fallo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-15_S327_E15-1408.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198935-327-15517-2017-15-1408.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.331902"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31242,
+  "numero": "0923",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de derechos colectivos y difusos presentada por el abogado Wiliem Asskoul Sabb, quien actuó en nombre propio y en defensa de los derechos de los profesionales liberales. La decisión se fundamenta en la falta de representación adecuada para accionar en nombre de un grupo homogéneo, ya que se alega que la omisión del Ejecutivo Nacional afecta a varios sectores profesionales sin un vínculo jurídico previo que justifique la acción colectiva.",
+  "palabras_clave": [
+    "amparo",
+    "derechos colectivos",
+    "inclusión",
+    "ejecutivo nacional",
+    "profesionales liberales"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0923_E20-0217.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326867-0923-13723-2023-20-0217.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.210652"
+}

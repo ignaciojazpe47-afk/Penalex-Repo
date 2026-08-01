@@ -1,0 +1,24 @@
+{
+  "id": 17106,
+  "numero": "0282",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Agraria",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se desaplica el artículo 271 del Código de Procedimiento Civil, argumentando que su aplicación contraviene principios de orden público y afecta la seguridad alimentaria de la Nación. La decisión se fundamenta en la necesidad de garantizar el acceso a la justicia y la protección de los derechos de los ciudadanos en materia agraria. Se establece que la perención no debe ser un obstáculo para la defensa de derechos fundamentales en este ámbito.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "Código de Procedimiento Civil",
+    "seguridad alimentaria",
+    "justicia agraria"
+  ],
+  "titulo": "Desaplicación del artículo 271 del Código de Procedimiento Civil por control difuso",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0282_E16-0398.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353587-0282-11326-2026-16-0398.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.588086"
+}

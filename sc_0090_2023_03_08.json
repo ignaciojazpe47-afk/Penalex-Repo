@@ -1,0 +1,26 @@
+{
+  "id": 29092,
+  "numero": "0090",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión interpuesta por el abogado Carlos Matos Zerpa en representación de Rafael Enrique Noria Ávila, respecto a una decisión de la Sala de Casación Civil. Sin embargo, se determina la inadmisibilidad de la solicitud debido a la falta de presentación de documentos esenciales, como la copia certificada de la sentencia objeto de revisión y el poder que acredite la representación del solicitante.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "Sala Constitucional",
+    "representación judicial",
+    "seguridad jurídica",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0090_E18-0534.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323258-0090-8323-2023-18-0534.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.345228"
+}

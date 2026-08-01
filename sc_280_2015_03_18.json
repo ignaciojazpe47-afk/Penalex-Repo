@@ -1,0 +1,24 @@
+{
+  "id": 62672,
+  "numero": "280",
+  "fecha": "2015-03-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 2012-0294, dictada por la Corte Segunda de lo Contencioso Administrativo, que declaró con lugar un recurso de apelación interpuesto por el INCES, revocando una decisión anterior que había declarado con lugar una querella funcionarial. El solicitante argumentó que la sentencia menoscabó sus derechos a la defensa y a la tutela judicial efectiva, alegando que su cargo no era de confianza y que no se le había dado el debido proceso en la valoración de pruebas.\n\nLa Sala, tras analizar los antecedentes y la fundamentación de la solicitud, concluyó que la Corte Segunda actuó dentro de su competencia y que no se evidenció un error grotesco en la interpretación de la Constitución. Se determinó que el cargo del solicitante era efectivamente de confianza y que la decisión de la Corte Segunda estaba ajustada a derecho, por lo que se declaró sin lugar la solicitud de revisión.\n\nFinalmente, la Sala Constitucional reafirmó su potestad de revisión, destacando que no se había vulnerado ningún principio constitucional y que la revisión solicitada no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "estabilidad laboral",
+    "derechos laborales",
+    "Corte Segunda",
+    "INCES"
+  ],
+  "titulo": "Revisión de sentencia sobre estabilidad laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-18_S280_E14-0361.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175518-280-18315-2015-14-0361.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.335020"
+}

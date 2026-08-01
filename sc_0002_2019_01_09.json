@@ -1,0 +1,25 @@
+{
+  "id": 42035,
+  "numero": "0002",
+  "fecha": "2019-01-09",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una demanda de interpretación del artículo 231 de la Constitución de la República Bolivariana de Venezuela, presentada por Omar Alexander Ávila Hernández. La demanda busca aclarar el lugar de juramentación del Presidente electo, Nicolás Maduro Moros, y si la Asamblea Nacional es la institución encargada de tal acto. La Sala, tras analizar la competencia y admisibilidad de la demanda, decidió declararla inadmisible, argumentando que el Órgano Legislativo se encuentra en desacato, lo que justifica que la juramentación se realice ante el Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "juramentacion",
+    "presidencia",
+    "asamblea nacional",
+    "derecho al sufragio"
+  ],
+  "titulo": "Sentencia sobre interpretación del artículo 231 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-01-09_S0002_E19-0002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/303337-0002-9119-2019-18-0002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.125141"
+}

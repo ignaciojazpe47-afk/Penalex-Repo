@@ -1,0 +1,25 @@
+{
+  "id": 28021,
+  "numero": "1110",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, se pronunció sobre la acción de amparo constitucional interpuesta por los abogados de Pablo Efraín Maurera Carrero, quien alegaba denegación de justicia y privación ilegítima de libertad. La Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas había declarado inadmisible la acción de amparo, argumentando que ya se había emitido un pronunciamiento sobre la solicitud de cambio de sitio de reclusión del accionante, lo que cesaba la presunta violación de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "salud",
+    "detención domiciliaria",
+    "derechos humanos",
+    "justicia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1110_E23-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339690-1110-281124-2024-23-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.477910"
+}

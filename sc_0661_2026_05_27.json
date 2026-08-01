@@ -1,0 +1,23 @@
+{
+  "id": 16420,
+  "numero": "0661",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 10 de mayo de 2024, que había revocado una decisión anterior que declaraba con lugar una demanda de desalojo. La Sala encontró que el Juzgado Superior incurrió en incongruencias y errores de valoración de pruebas, afectando el derecho a la defensa y la tutela judicial efectiva. Se declaró con lugar la revisión y se anuló la sentencia del Juzgado Superior, manteniendo firme la decisión original del Tribunal de Primera Instancia que había declarado con lugar la demanda de desalojo.",
+  "palabras_clave": [
+    "desalojo",
+    "revisión constitucional",
+    "arrendamiento",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión constitucional de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0661_E24-1027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355923-0661-27526-2026-24-1027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.902280"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33733,
+  "numero": "1880",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo interpuesta por María del Rosario Hernández Torrealba contra el Instituto de Salud Pública del Estado Bolívar. Se ordenó al Instituto remitir información sobre el cumplimiento de una sentencia anterior, pero no se ha recibido respuesta hasta la fecha actual. Por lo tanto, la Sala ratifica su decisión y ordena nuevamente al Instituto que cumpla con la solicitud de información en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "salud",
+    "instituciones",
+    "cumplimiento",
+    "sanciones"
+  ],
+  "titulo": "Ratificación de decisión sobre cumplimiento de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1880_E15-0637.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331850-1880-111223-2023-15-0637.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.458524"
+}

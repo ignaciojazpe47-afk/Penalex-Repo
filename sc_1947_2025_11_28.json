@@ -1,0 +1,23 @@
+{
+  "id": 23432,
+  "numero": "1947",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ANULA el acto decisorio objeto de revisión.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por el abogado Tarcisio Rafael Vera Martínez en representación de Max Wulff Mejías y otros, en relación a una sentencia del Juzgado Superior Segundo que había declarado sin lugar un recurso de apelación. La Sala encontró irregularidades en la citación y notificación de las partes, lo que vulneró el derecho a la defensa y al debido proceso. En consecuencia, se declaró la nulidad de la sentencia objeto de revisión y se ordenó la reposición de la causa al estado en que se produzca la contestación de la demanda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal arrendaticio",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1947_E17-0050.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350833-1947-281125-2025-17-0050.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.798302"
+}

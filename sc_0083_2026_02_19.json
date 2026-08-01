@@ -1,0 +1,26 @@
+{
+  "id": 17548,
+  "numero": "0083",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n° 1146, declaró con lugar el recurso de apelación interpuesto por el abogado José Rafael Mata Pérez, actuando como apoderado judicial del ciudadano José Rafael Mata Fuentes, contra la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Corte de Apelaciones había fundamentado su decisión en la supuesta omisión de pronunciamiento del Tribunal de Primera Instancia en Funciones de Control, pero la Sala Constitucional determinó que la situación jurídica alegada había cesado, lo que llevó a declarar inadmisible el amparo interpuesto.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "ministerio publico",
+    "competencia",
+    "celeridad procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0083_E25-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352770-0083-19226-2026-25-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.396716"
+}

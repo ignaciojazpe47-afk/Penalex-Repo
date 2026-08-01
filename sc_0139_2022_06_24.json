@@ -1,0 +1,25 @@
+{
+  "id": 35028,
+  "numero": "0139",
+  "fecha": "2022-06-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Jhonny Mujica Colón contra la sentencia del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario, que confirmó la decisión de no decretar la perención de la instancia. La Sala concluyó que la parte actora no cumplió con las obligaciones procesales necesarias para interrumpir la perención breve, por lo que se declaró sin lugar la solicitud de revisión. La decisión se fundamenta en la interpretación de las normas del Código de Procedimiento Civil relacionadas con la perención y el debido proceso.",
+  "palabras_clave": [
+    "perención",
+    "debido proceso",
+    "citación",
+    "Código de Procedimiento Civil",
+    "demanda",
+    "actuaciones procesales"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre perención de instancia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0139_E18-0813.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317324-0139-14622-2022-18-0813.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.616481"
+}

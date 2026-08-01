@@ -1,0 +1,24 @@
+{
+  "id": 19563,
+  "numero": "0582",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar el recurso de apelación interpuesto por ETERNUS GROUP INC. contra la decisión del Juzgado Décimo Tercero que había declarado improcedente la acción de amparo. La Sala revocó las decisiones del Juzgado que habían autorizado el embargo preventivo y el trasiego de mercancía, considerando que se había vulnerado el debido proceso y el derecho a la defensa. Se ordenó el levantamiento de la medida de embargo sobre el Convoy ANNA 1 y MARÍA, permitiendo a ETERNUS GROUP INC. disponer de su propiedad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "embargo preventivo",
+    "derecho a la defensa",
+    "subversión procesal",
+    "juez natural"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0582_E25-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343440-0582-30425-2025-25-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.028771"
+}

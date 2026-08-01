@@ -1,0 +1,27 @@
+{
+  "id": 35425,
+  "numero": "0311",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Ruth Mary Contreras Morales solicitó la revisión constitucional de un auto dictado por el Juzgado del Municipio Santiago Mariño, que reconoció un documento privado en cuanto a su contenido y firma. La Sala Constitucional, presidida por la magistrada Lourdes Benicia Suárez Anderson, analizó la solicitud y determinó que el procedimiento de reconocimiento se ajustó a derecho, ya que la parte demandante no fue citada ni notificada, lo que vulneró su derecho a la propiedad. Sin embargo, la Sala concluyó que la revisión no encuadra en los supuestos establecidos para su admisión y declaró no ha lugar la solicitud.",
+  "palabras_clave": [
+    "revisión de sentencias",
+    "jurisdicción voluntaria",
+    "derecho a la propiedad",
+    "cosa juzgada",
+    "instrumento privado",
+    "Código de Procedimiento Civil",
+    "discrecionalidad",
+    "interpretación constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0311_E20-0109.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317891-0311-13722-2022-20-0109.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.229808"
+}

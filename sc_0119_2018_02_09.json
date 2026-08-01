@@ -1,0 +1,22 @@
+{
+  "id": 45455,
+  "numero": "0119",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de febrero de 2018, declaró sin lugar la solicitud de revisión constitucional interpuesta por la sociedad mercantil Diagnóstico y Servicio Automotriz Joycar (DISERAUTO) C.A. contra la sentencia del 17 de octubre de 2016, que había confirmado la decisión de desalojo dictada por el Juzgado Tercero de Municipio Ordinario y Ejecutor de Medidas de los Municipios Guaicaipuro y Carrizal. La Sala fundamentó su decisión en la falta de procedencia de la revisión, ya que los argumentos del solicitante ya habían sido considerados y desestimados en instancias anteriores.\n\nLa sentencia revisada se basó en la necesidad del inmueble dado en arrendamiento, conforme a lo previsto en la Ley de Arrendamientos Inmobiliarios. La Sala destacó que la revisión constitucional no debe ser utilizada como un medio para reabrir debates ya decididos, y que la solicitud no cumplía con los requisitos para su admisión. Finalmente, se reafirmó la competencia de la Sala para conocer de la solicitud, pero se determinó que no había lugar a la misma.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "Ley de Arrendamientos Inmobiliarios"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0119_E17-0317.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207678-0119-9218-2018-17-0317.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.440781"
+}

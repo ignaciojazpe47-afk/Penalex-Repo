@@ -1,0 +1,24 @@
+{
+  "id": 50282,
+  "numero": "48",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia dictada el 11 de diciembre de 2015 por la Sala de Casación Civil, que declaró perecido el recurso de casación interpuesto por la demandada Carolina María Lares Betancourt. La parte recurrente alegó violaciones al debido proceso y a la defensa, argumentando que no se consideraron las causas que impidieron la presentación oportuna del recurso de casación. Sin embargo, la Sala Constitucional determinó que existían otros abogados habilitados para actuar en el caso, quienes pudieron haber formalizado el recurso dentro del lapso establecido.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia de casación declarada perecida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S48_E16-1005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196337-48-23217-2017-16-1005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.285603"
+}

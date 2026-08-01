@@ -1,0 +1,27 @@
+{
+  "id": 2296,
+  "numero": null,
+  "fecha": "2001-02-20",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "PARCIALMENTE CON LUGAR",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La sentencia se refiere a un amparo constitucional interpuesto por la sociedad mercantil Refrigeración Master Metropolitana, C.A. (Refrimaster) contra la Dirección General Sectorial de Calidad Ambiental del Ministerio del Ambiente. La acción se basa en la supuesta violación de derechos constitucionales relacionados con la igualdad, el derecho de petición y el derecho a la defensa, debido a la falta de respuesta a solicitudes de importación de gases refrigerantes. La Corte Primera de lo Contencioso Administrativo declaró parcialmente con lugar el amparo, ordenando a la administración dar respuesta a una solicitud específica. La Sala Constitucional confirma esta decisión, reconociendo la violación del derecho a la oportuna respuesta, pero desestimando otras pretensiones del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos constitucionales",
+    "importación",
+    "gases refrigerantes",
+    "discriminación",
+    "derecho de petición",
+    "Corte Contenciosa",
+    "sentencia"
+  ],
+  "titulo": "Amparo Constitucional de Refrimaster contra el Ministerio del Ambiente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-20_PoliticoAdmin_00_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.713288"
+}

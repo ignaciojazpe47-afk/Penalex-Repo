@@ -1,0 +1,24 @@
+{
+  "id": 33513,
+  "numero": "1847",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de avocamiento presentada por el abogado Alfredo Ramón Herrera en nombre de Florentino José Tilve Guilarte, declara inadmisible dicha solicitud. La decisión se basa en la falta de presentación de documentos fundamentales que sustenten la solicitud, lo que impide verificar la admisibilidad de la pretensión. La Sala reafirma su competencia para conocer del caso, pero resalta la importancia de cumplir con las cargas procesales establecidas.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "carga procesal",
+    "documentos",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1847_E23-1033.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331382-1847-81223-2023-23-1033.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.163990"
+}

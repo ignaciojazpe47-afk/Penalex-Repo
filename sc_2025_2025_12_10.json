@@ -1,0 +1,23 @@
+{
+  "id": 23805,
+  "numero": "2025",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la revisión constitucional interpuesta y se anula parcialmente la sentencia.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del TSJ ha decidido a favor de la revisión constitucional solicitada por Ramón Felipe Montoya Romero, anulando parcialmente la sentencia de la Sala de Casación Civil que había declarado con lugar una demanda por cumplimiento de contrato de opción de compraventa. La decisión se fundamenta en la necesidad de garantizar la corrección monetaria del monto adeudado, considerando el contexto inflacionario del país y la protección de los derechos de los adultos mayores involucrados en el caso. Se ordena el cálculo de dicha corrección monetaria por un perito designado por el Tribunal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "corrección monetaria",
+    "adultos mayores",
+    "contrato de opción de compraventa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y corrección monetaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2025_E24-0219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351838-2025-101225-2025-24-0219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.749342"
+}

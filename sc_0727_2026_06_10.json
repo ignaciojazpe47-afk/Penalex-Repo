@@ -1,0 +1,24 @@
+{
+  "id": 49687,
+  "numero": "0727",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por la República Bolivariana de Venezuela contra la sentencia n° 008/2023 del Tribunal Superior Cuarto de lo Contencioso Tributario, que había declarado con lugar un amparo tributario. La Sala consideró que la abogada que representaba a la parte actora carecía de legitimidad para actuar en el juicio de amparo tributario, ya que el poder otorgado era específico para amparo constitucional. En consecuencia, se anuló la sentencia impugnada y se ordenó que un nuevo juzgado superior contencioso tributario conociera del caso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva",
+    "Legitimidad",
+    "Sentencia Anulada"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional contra decisión del Tribunal Superior Cuarto de lo Contencioso Tributario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0727_E24-0156.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356417-0727-10626-2026-24-0156.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.939469"
+}

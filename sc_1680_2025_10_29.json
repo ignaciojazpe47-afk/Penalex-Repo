@@ -1,0 +1,24 @@
+{
+  "id": 22623,
+  "numero": "1680",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Laila Santiago Velandria contra la sentencia de la Sala N° 3 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que declaró con lugar una recusación. La Sala determinó su competencia para conocer el caso y, tras revisar las actuaciones, concluyó que la parte actora había abandonado el trámite al no realizar ninguna actuación procesal durante más de seis meses. Por lo tanto, se declaró terminado el procedimiento por abandono de trámite y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "accion de amparo",
+    "denunciante",
+    "ministerio publico",
+    "investigacion penal",
+    "control judicial"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1680_E22-1016.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349283-1680-291025-2025-22-1016.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.534646"
+}

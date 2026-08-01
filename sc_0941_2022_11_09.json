@@ -1,0 +1,23 @@
+{
+  "id": 37243,
+  "numero": "0941",
+  "fecha": "2022-11-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por José Riera Piñango contra la sentencia del Juzgado Superior Primero del Trabajo que declaró inadmisible su acción de amparo constitucional. La Sala confirmó la decisión del Juzgado, argumentando que el auto de admisión era de mero trámite y no susceptible de amparo. Además, se anularon decisiones previas del Juzgado Segundo de Primera Instancia que habían quebrantado el debido proceso al no solicitar la certificación del cumplimiento de la orden de reenganche.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "derecho al trabajo",
+    "sentencia inadmisible"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0941_E22-0213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320629-0941-91122-2022-22-0213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.363741"
+}

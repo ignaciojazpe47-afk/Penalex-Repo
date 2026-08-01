@@ -1,0 +1,26 @@
+{
+  "id": 21493,
+  "numero": "1353",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia n° 185, del 17 de abril de 2015, interpuesta por la abogada Vestalia Rafaela Tovar en representación del ciudadano Gelvis Ramón Hernández. La decisión se fundamenta en la falta de representación adecuada de la abogada, quien no presentó el acta de juramentación necesaria para ejercer su defensa. La Sala reafirma su competencia para conocer de la revisión, pero establece que la falta de legitimación impide el avance del recurso.",
+  "palabras_clave": [
+    "recurso de casación",
+    "insuficiencia probatoria",
+    "motivación",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "sentencia condenatoria",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1353_E19-0459.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347015-1353-6825-2025-19-0459.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.759314"
+}

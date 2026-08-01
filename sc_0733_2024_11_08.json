@@ -1,0 +1,25 @@
+{
+  "id": 27353,
+  "numero": "0733",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado William Pedrá, en representación de Junior Hernán Betancourt, por no haber agotado la vía ordinaria preexistente. La sentencia de la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que declaró inadmisible la acción de amparo, fue confirmada al considerar que el recurrente no presentó pruebas de haber diligenciado dentro del plazo establecido para la apelación.\n\nSe establece que el recurso de apelación fue interpuesto de manera extemporánea, ya que el plazo para su presentación había vencido. La Sala reitera que el amparo constitucional no puede ser utilizado como un medio para eludir los recursos ordinarios disponibles, y que el derecho a la defensa debe ser garantizado a través de los mecanismos establecidos en la ley.\n\nFinalmente, se declara firme la sentencia apelada, reafirmando la competencia de la Sala para conocer del recurso y la inadmisibilidad del mismo por extemporáneo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "inadmibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0733_E23-1087.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338758-0733-81124-2024-23-1087.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.435910"
+}

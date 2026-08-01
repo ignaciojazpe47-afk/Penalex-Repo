@@ -1,0 +1,24 @@
+{
+  "id": 65522,
+  "numero": "1015",
+  "fecha": "2015-07-29",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 29 de julio de 2015, declaró sin lugar la solicitud de revisión interpuesta por la Junta de Propietarios del Centro Plaza contra la sentencia N° 000617 de la Sala de Casación Civil. La solicitud se fundamentó en la alegación de violaciones al debido proceso y a la propiedad, así como en la consideración de que la reconvención planteada por el demandado no cumplía con los requisitos legales. La Sala, tras analizar los argumentos, concluyó que no se evidenció un error en la interpretación de las normas constitucionales ni en la aplicación de la ley por parte de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "due process",
+    "property rights"
+  ],
+  "titulo": "Solicitud de revisión de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-29_S1015_E14-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/180069-1015-29715-2015-14-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:09.013962"
+}

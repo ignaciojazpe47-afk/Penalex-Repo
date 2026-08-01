@@ -1,0 +1,22 @@
+{
+  "id": 39106,
+  "numero": "0308",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por el ciudadano Celestino Alberto Martínez Pérez contra una sentencia del Juzgado Superior Octavo en lo Civil, Mercantil, Tránsito y Bancario. La decisión impugnada había declarado inadmisibles ciertas pruebas en un juicio por daños y perjuicios morales. La Sala, tras analizar la competencia, decidió declarar con lugar la acción de amparo, permitiendo así el acceso a las pruebas que habían sido inadmitidas anteriormente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "pruebas inadmitidas",
+    "daños y perjuicios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0308_E21-0165.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312762-0308-22721-2021-21-0165.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.771614"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 19908,
+  "numero": "0771",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por María Lourdes Hernández González contra la decisión de la Sala Accidental n.° 231 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua. La decisión recurrida había declarado sin lugar el recurso de apelación interpuesto por la actora, confirmando la decisión del Tribunal Noveno de Primera Instancia en Funciones de Control. La Sala concluye que no se incurrió en usurpación de funciones ni en violación de derechos constitucionales, y que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya resueltas.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "derecho_a_defensa",
+    "motivación_sentencial",
+    "garantías_constitucionales",
+    "acción_penal",
+    "jurisdicción",
+    "control_judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0771_E25-0275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343978-0771-21525-2025-25-0275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.872022"
+}

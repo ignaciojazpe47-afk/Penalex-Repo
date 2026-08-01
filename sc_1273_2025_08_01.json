@@ -1,0 +1,25 @@
+{
+  "id": 21413,
+  "numero": "1273",
+  "fecha": "2025-08-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de las sentencias números 180 del 15 de junio de 2022 y 146 del 11 de abril de 2024, interpuesta por la abogada Rosa María Santaromita Pffannennschmitd en su carácter de defensora privada del ciudadano Luis Franco de Aveiro. La inadmisibilidad se fundamenta en la falta de acreditación de la representación legal de la solicitante, así como en la ausencia de copia certificada de las sentencias objeto de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "legitimación",
+    "representación judicial",
+    "sentencias firmes",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1273_E24-0524.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346928-1273-6825-2025-24-0524.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.776445"
+}

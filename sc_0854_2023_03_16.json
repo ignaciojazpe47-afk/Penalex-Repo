@@ -1,0 +1,24 @@
+{
+  "id": 27607,
+  "numero": "0854",
+  "fecha": "2023-03-16",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Rainer Rollans Rodríguez Parra, quien impugnó la decisión N° 80 de la Sala de Casación Civil. En su solicitud, el demandante alegó que la sentencia de la Sala de Casación Civil había vulnerado sus derechos al no considerar adecuadamente la estimación de la demanda. La Sala Constitucional, tras analizar los argumentos, concluyó que la Sala de Casación Civil actuó conforme a derecho y no incurrió en vicios procesales, declarando sin lugar la solicitud de revisión. Además, se determinó que no existían circunstancias que justificaran la revisión de oficio de la decisión impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "derechos",
+    "estimación",
+    "demanda"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 80 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0854_E23-1005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339044-0854-151124-2024-23-1005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.334032"
+}

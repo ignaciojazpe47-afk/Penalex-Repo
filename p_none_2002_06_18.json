@@ -1,0 +1,23 @@
+{
+  "id": 2817,
+  "numero": null,
+  "fecha": "2002-06-18",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La sentencia se refiere al recurso de casación interpuesto por la defensa de ELIAS RAMON AGÜERO GARCIA, condenado a 29 años y 8 meses de prisión por homicidio agravado y otros delitos. La Sala de Casación Penal del TSJ admitió el recurso, señalando que se habían violado derechos fundamentales del acusado durante el juicio, específicamente en relación con la falta de información sobre medidas alternativas a la prosecución del proceso. Se ordenó la celebración de un nuevo juicio ante un tribunal distinto.",
+  "palabras_clave": [
+    "casación",
+    "homicidio",
+    "derecho a la defensa",
+    "juicio oral"
+  ],
+  "titulo": "Sentencia de Casación en el caso de ELIAS RAMON AGÜERO GARCIA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-06-18_CasacionPenal_C010862.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:08.621942"
+}

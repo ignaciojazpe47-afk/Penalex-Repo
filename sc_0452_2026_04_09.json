@@ -1,0 +1,26 @@
+{
+  "id": 17377,
+  "numero": "0452",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Suspender",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia N° 000373, dictada por la Sala de Casación Social. La revisión se fundamenta en alegaciones de violaciones a derechos constitucionales y la falta de pruebas en la condena por daño moral. La Sala declaró competente para conocer la solicitud y decidió suspender los efectos del fallo recurrido hasta que se resuelva el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "tutela judicial",
+    "seguridad jurídica",
+    "principios jurídicos",
+    "competencia",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0452_E25-0361.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354904-0452-9426-2026-25-0361.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.031519"
+}

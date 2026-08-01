@@ -1,0 +1,23 @@
+{
+  "id": 67532,
+  "numero": "1463",
+  "fecha": "2015-11-19",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión de la sentencia Nº 1112, dictada por la Sala Político Administrativa, que había declarado desistida la apelación de la Procuraduría General de la República. La revisión se centró en la alegación de inmotivación y vicios de incongruencia en la sentencia original, que trataba sobre la exención del Impuesto al Valor Agregado (IVA) en ventas realizadas por la Compañía Brahma de Venezuela S.A. al Puerto Libre del Estado Nueva Esparta. La Sala concluyó que la sentencia impugnada no contradecía principios constitucionales y que la solicitud de revisión no contribuía a la uniformidad en la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "IVA",
+    "Puerto Libre",
+    "Compañía Brahma",
+    "Revisión Constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre exención de IVA en ventas al Puerto Libre",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-19_S1463_E13-0434.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183062-1463-191115-2015-13-0434.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:46.372345"
+}

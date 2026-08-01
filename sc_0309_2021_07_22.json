@@ -1,0 +1,27 @@
+{
+  "id": 39107,
+  "numero": "0309",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Pedro Rafael Lezama Marcano contra la omisión de pronunciamiento del juez Ronny del Valle Medina. Tras analizar el caso, la Sala determinó su incompetencia para conocer de la acción, ya que corresponde al Juzgado Superior en lo Civil, Mercantil, del Tránsito, Bancario, Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Delta Amacuro. La decisión se fundamenta en la normativa que establece la competencia en materia de amparo constitucional.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "justicia",
+    "derechos",
+    "constitucional",
+    "omisión",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por denegación de justicia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0309_E21-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312763-0309-22721-2021-21-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.761811"
+}

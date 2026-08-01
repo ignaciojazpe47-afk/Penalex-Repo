@@ -1,0 +1,22 @@
+{
+  "id": 32168,
+  "numero": "1396",
+  "fecha": "2018-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0847, declarando ha lugar la solicitud de revisión presentada por los ciudadanos Alicia Rodríguez, Leonor Rodríguez De Niemtschik y Luis Gerardo Rodríguez. La decisión anuló un fallo anterior de la Sala de Casación Civil y ordenó que se dictara un nuevo pronunciamiento, considerando los argumentos y pruebas presentadas en el caso. Además, se solicitó al Juzgado Octavo de Primera Instancia en lo Civil que remitiera el expediente correspondiente para un análisis más exhaustivo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "anulación de fallo",
+    "partición de comunidad hereditaria"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1396_E18-0628.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328988-1396-91023-2023-18-0628.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.902030"
+}

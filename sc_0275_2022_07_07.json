@@ -1,0 +1,27 @@
+{
+  "id": 35300,
+  "numero": "0275",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento de amparo constitucional interpuesto por Mirla Thais Reina Liscano, debido al abandono del trámite, ya que la parte actora no realizó ninguna actuación procesal durante más de seis meses. Se impone una multa a la parte actora por este abandono, conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La decisión se fundamenta en la falta de interés procesal de la parte actora.",
+  "palabras_clave": [
+    "vicio de indefensión",
+    "derecho a la defensa",
+    "debido proceso",
+    "arrendamiento",
+    "tutela judicial efectiva",
+    "incongruencia omisiva",
+    "prueba",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0275_E20-0114.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317727-0275-7722-2022-20-0114.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.245504"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33903,
+  "numero": "2050",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "ADMITE la demanda de nulidad.",
+  "ponente": "MICHEL ADRIANA VELASQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de nulidad por inconstitucionalidad contra artículos del Decreto N° 8.938 de la Ley Orgánica del Trabajo. Los demandantes argumentaron que las disposiciones legales impiden el acceso a la justicia y violan derechos fundamentales consagrados en la Constitución. La Sala, tras analizar los argumentos, se declaró competente para conocer del caso y ordenó remitir el expediente al Juzgado de Sustanciación para las notificaciones pertinentes.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "control constitucional",
+    "derechos laborales",
+    "decreto",
+    "competencia",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre la admisión de demanda de nulidad por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2050_E22-0830.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332020-2050-191223-2023-22-0830.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.692474"
+}

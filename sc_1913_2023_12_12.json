@@ -1,0 +1,27 @@
+{
+  "id": 33766,
+  "numero": "1913",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE los reclamos presentados.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre los reclamos interpuestos por varios jueces del Estado Anzoátegui, quienes solicitaban la revisión de una sentencia anterior que ordenaba su separación del cargo. La Sala declaró su competencia para conocer de los reclamos, pero consideró que eran improcedentes y que las solicitudes de fraude procesal presentadas por los jueces no eran aplicables en este contexto. Finalmente, se reafirmó la decisión de la Sala sobre el apercibimiento y el error judicial inexcusable.",
+  "palabras_clave": [
+    "competencia",
+    "reclamos",
+    "error judicial",
+    "sanciones",
+    "debido proceso",
+    "amparo",
+    "jurisdicción",
+    "derechos"
+  ],
+  "titulo": "Decisión sobre reclamos interpuestos por jueces del Estado Anzoátegui",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1913_E21-0554.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331883-1913-121223-2023-21-0554.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.453096"
+}

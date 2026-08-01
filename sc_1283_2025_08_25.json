@@ -1,0 +1,26 @@
+{
+  "id": 21423,
+  "numero": "1283",
+  "fecha": "2025-08-25",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por la abogada Esleny Josefina Muñoz Vásquez en representación de los ciudadanos Henry Luis Certad Roque y Miguel Ángel Granieri Certad. La solicitud se refiere a un proceso penal en el que se les acusa de los delitos de estafa y agavillamiento, y la Sala concluye que corresponde a la Sala de Casación Penal conocer sobre la procedencia de dicha solicitud. En consecuencia, se declina el conocimiento a la Sala de Casación Penal y se ordena remitir las actuaciones pertinentes.",
+  "palabras_clave": [
+    "avocamiento",
+    "terrorismo judicial",
+    "derecho civil",
+    "debido proceso",
+    "conflicto civil",
+    "fiscalía",
+    "contrato"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1283_E23-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346939-1283-6825-2025-23-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.207316"
+}

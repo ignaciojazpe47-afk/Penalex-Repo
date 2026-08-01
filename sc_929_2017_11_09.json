@@ -1,0 +1,23 @@
+{
+  "id": 54560,
+  "numero": "929",
+  "fecha": "2017-11-09",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "CALIxto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Séptimo Superior del Trabajo que había declarado parcialmente con lugar una demanda de cobro de prestaciones sociales. La revisión fue solicitada por el apoderado judicial de la empresa estatal CORPOELEC, quien argumentó que la sentencia desconoció la doctrina sobre la corrección monetaria aplicable a las empresas del Estado. La Sala, al analizar el caso, determinó que la indexación debía realizarse conforme a la tasa activa de los seis primeros bancos comerciales del país, en lugar de la tasa pasiva, y declaró ha lugar la solicitud de revisión, anulando parcialmente la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "CORPOELEC",
+    "indexación",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia del Juzgado Séptimo Superior del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-09_S929_E16-1020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205160-929-91117-2017-16-1020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.720971"
+}

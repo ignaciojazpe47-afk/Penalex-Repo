@@ -1,0 +1,25 @@
+{
+  "id": 32314,
+  "numero": "1461",
+  "fecha": "2023-10-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Ricardo Antonio Delgado Victora, en representación de un adolescente, argumentando que existían vías recursivas ordinarias que debieron ser agotadas antes de acudir al amparo. La Corte Superior había declarado inadmisible la acción de amparo por no cumplirse con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La decisión fue confirmada, considerando que no se vulneraron las garantías constitucionales del adolescente.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derechos_humanos",
+    "menores",
+    "justicia_penal",
+    "defensa",
+    "privativa_libertad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-17_S1461_E23-0677.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329367-1461-171023-2023-23-0677.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.386807"
+}

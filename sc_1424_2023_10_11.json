@@ -1,0 +1,24 @@
+{
+  "id": 32270,
+  "numero": "1424",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Jesús Fernando Mendoza en representación de los ciudadanos Emanuel Orión Peña León y Dixo David Peña Sequera. La solicitud se fundamenta en la alegación de violaciones al orden público constitucional en un proceso penal por presuntos delitos de trata de personas y asociación para delinquir. La Sala destaca la falta de documentos probatorios necesarios para admitir la solicitud.",
+  "palabras_clave": [
+    "avocamiento",
+    "orden público constitucional",
+    "derecho a la libertad",
+    "debido proceso",
+    "presunción de inocencia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en caso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1424_E22-0785.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329299-1424-111023-2023-22-0785.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.400528"
+}

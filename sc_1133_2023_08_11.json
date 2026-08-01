@@ -1,0 +1,26 @@
+{
+  "id": 34024,
+  "numero": "1133",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Vitelio José Herrera Lamus en representación de Jean Carlos Rafael Espinoza. La decisión se fundamenta en la falta de claridad y precisión del escrito presentado, que no cumplió con los requisitos establecidos por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. A pesar de las deficiencias, se le otorgó un plazo para corregir el escrito, el cual no fue atendido por el accionante.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "nulidad",
+    "acción",
+    "derechos",
+    "garantías",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1133_E21-0661.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328287-1133-11823-2023-21-0661.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.323285"
+}

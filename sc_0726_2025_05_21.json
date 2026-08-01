@@ -1,0 +1,26 @@
+{
+  "id": 19864,
+  "numero": "0726",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Jesús Rafael Mata Rivas en representación de Luz del Mar Álvarez Quintero. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso, declinando el conocimiento a la Sala de Casación Penal, dado que la solicitud se refería a un procedimiento de naturaleza penal. La decisión se fundamenta en la Ley Orgánica del Tribunal Supremo de Justicia, que establece las condiciones bajo las cuales se puede ejercer el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "proceso penal",
+    "invasión",
+    "daños a la propiedad",
+    "Código Penal",
+    "tierra",
+    "producción agrícola"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0726_E24-0845.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343877-0726-21525-2025-24-0845.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.865129"
+}

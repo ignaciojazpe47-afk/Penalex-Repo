@@ -1,0 +1,24 @@
+{
+  "id": 28576,
+  "numero": "1407",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 12 de diciembre de 2024, declaró competente para conocer la revisión constitucional solicitada por los abogados de Abdelaiz Gustavo Pinto Pérez contra la sentencia N° 633 de la Sala de Casación Civil. En esta sentencia, se había declarado sin lugar el recurso de casación interpuesto por el demandante contra la decisión del Juzgado Superior Segundo en lo Civil, que había desestimado su demanda por prescripción adquisitiva. La Sala Constitucional, tras analizar los argumentos presentados, concluyó que no se había demostrado la posesión legítima del inmueble por parte del demandante, lo que llevó a declarar improcedente la revisión solicitada.",
+  "palabras_clave": [
+    "posesión",
+    "prescripción adquisitiva",
+    "documentos",
+    "prueba",
+    "derecho civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 633",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1407_E24-033.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340599-1407-121224-2024-24-033.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.817900"
+}

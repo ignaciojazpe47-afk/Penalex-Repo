@@ -1,0 +1,26 @@
+{
+  "id": 43328,
+  "numero": "0173",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Wander Rafael Auvert Urdaneta contra la sentencia del Juzgado Superior Agrario que declaró sin lugar el recurso de hecho. Se argumenta que el Juzgado actuó dentro de sus competencias y no vulneró derechos constitucionales, ya que la cuestión previa de cosa juzgada fue correctamente resuelta. Además, se anula la sentencia impugnada y todas las actuaciones realizadas en la causa.",
+  "palabras_clave": [
+    "amparo",
+    "procedimiento",
+    "agrario",
+    "incompetencia",
+    "derechos",
+    "recursos",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0173_E19-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305900-0173-4719-2019-19-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.830169"
+}

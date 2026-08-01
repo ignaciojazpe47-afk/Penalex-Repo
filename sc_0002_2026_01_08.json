@@ -1,0 +1,22 @@
+{
+  "id": 17740,
+  "numero": "0002",
+  "fecha": "2026-01-08",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 5.200, que establece el Estado de Conmoción Exterior en todo el territorio nacional por un lapso de noventa días, en respuesta a un ataque armado por parte de Estados Unidos. Se argumenta que el decreto cumple con los requisitos constitucionales y legales, garantizando la defensa de la soberanía y los derechos humanos intangibles, y establece medidas excepcionales para proteger a la población y mantener el orden constitucional.",
+  "palabras_clave": [
+    "Estado de Conmoción Exterior",
+    "Constitucionalidad",
+    "Decreto N° 5.200"
+  ],
+  "titulo": "Declaración de Constitucionalidad del Decreto N° 5.200 del 3 de enero de 2026",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-01-08_S0002_E26-0002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/352391-0002-8126-2026-26-0002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.073837"
+}

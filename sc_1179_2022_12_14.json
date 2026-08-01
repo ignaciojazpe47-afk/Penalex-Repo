@@ -1,0 +1,26 @@
+{
+  "id": 38038,
+  "numero": "1179",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia dictada el 1 de octubre de 2021, que declaró sin lugar el recurso de apelación interpuesto por el abogado Jonás Antonio Acosta López, en representación de GUSEM SEIMOUAH HADJELE, contra la decisión del Juzgado Superior en lo Civil, Mercantil y del Tránsito de Portuguesa. La sentencia recurrida había confirmado la decisión de desalojo del inmueble comercial solicitado por GIOVANNI FORGIONE GISMODI, por incumplimiento en el pago de cánones de arrendamiento.\n\nLa Sala determinó que la revisión no constituye una tercera instancia y que las alegaciones del solicitante no contribuían a la uniformidad de la interpretación de normas y principios constitucionales. Por lo tanto, se desestimaron las denuncias de violación de derechos a la defensa y debido proceso, concluyendo que la sentencia objeto de revisión se ajustaba a derecho.\n\nFinalmente, la Sala declaró que no ha lugar a la solicitud de revisión constitucional, manteniendo la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "inmobiliario",
+    "arrendamiento",
+    "inmotivation",
+    "jurisprudencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1179_E22-0845.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322013-1179-141222-2022-22-0845.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.145883"
+}

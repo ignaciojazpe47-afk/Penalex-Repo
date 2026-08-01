@@ -1,0 +1,23 @@
+{
+  "id": 24270,
+  "numero": "0142",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió a favor de la solicitud de revisión constitucional presentada por el ciudadano Matta Naddaf Nadaff, en relación a una decisión del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Lara. La sentencia original, que admitió una demanda por ejecución de hipoteca, fue objeto de revisión debido a la dilación en el proceso y la pérdida del poder adquisitivo de la moneda por la inflación. La Sala ordenó la indexación del monto condenado desde la fecha de admisión de la demanda hasta la fecha actual, considerando el impacto de la inflación en el valor real de la deuda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indexación",
+    "inflación",
+    "ejecución de hipoteca"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0142_E21-0421.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332651-0142-20224-2024-21-0421.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.554276"
+}

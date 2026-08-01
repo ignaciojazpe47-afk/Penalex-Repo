@@ -1,0 +1,24 @@
+{
+  "id": 37150,
+  "numero": "0900",
+  "fecha": "2022-11-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió a favor del ciudadano Philippe Gautier Ramia, revocando la sentencia RC.000176 de la Sala de Casación Civil, que había declarado con lugar el recurso de casación interpuesto por las empresas demandadas. La decisión de la Sala Constitucional anula la experticia complementaria del fallo y ordena la ejecución de la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito, que había declarado con lugar la apelación de Ramia contra decisiones previas que afectaban sus derechos. Se establece que el monto condenado deberá ser calculado a la tasa de cambio vigente al momento del pago, garantizando así la tutela judicial efectiva y el derecho a la defensa del demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derecho a la defensa",
+    "sentencia",
+    "casación"
+  ],
+  "titulo": "Revisión de la sentencia RC.000176 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-03_S0900_E21-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320502-0900-31122-2022-21-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.410086"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42871,
+  "numero": "0126",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento, por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la acción de amparo constitucional ejercida por Carlos Alberto Hernández Rangel, en representación de Ítalo Salvador Furneri Navarro y Valfrán Jesús Valdivez Pineda, contra una sentencia del Tribunal Superior Primero en lo Civil. Se declaró competente y se determinó que la acción era tempestiva, pero se evidenció el abandono del trámite por parte del apoderado judicial, quien no realizó actuaciones en más de seis meses. Por lo tanto, se declaró la terminación del procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "multa",
+    "documento",
+    "falsedad",
+    "tutela",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0126_E18-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305045-0126-21519-2019-18-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.859033"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28042,
+  "numero": "1131",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se avoca a conocer de la acción de amparo interpuesta por Indira Amarista Aguilar y Oscar Borges Prim contra el Decreto N° 2020-0100 del Gobernador del Estado Bolivariano de Miranda. La acción fue presentada en defensa de los derechos colectivos de los ciudadanos mirandinos, alegando que el decreto limita su libertad de adquirir alimentos. Sin embargo, la Sala declara inadmisible la acción, argumentando que ha cesado la violación de derechos constitucionales debido al fin de la pandemia de COVID-19, lo que hace que la acción carezca de objeto actual.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Colectivos",
+    "Decreto N° 2020-0100",
+    "Gobernador de Miranda"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra decreto del Gobernador de Miranda",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1131_E20-0265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339728-1131-281124-2024-20-0265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.470309"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 46767,
+  "numero": "0372",
+  "fecha": "2018-05-11",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión N° 233 de la Sala de Casación Penal, que había declarado inadmisible por extemporáneo el recurso de casación interpuesto por el Ministerio Público. La Sala consideró que la notificación del fallo original fue errónea, lo que impidió el ejercicio oportuno del recurso. En consecuencia, se anula la sentencia de la Sala de Casación Penal y se ordena la remisión del expediente para que se dicte una nueva decisión, garantizando el debido proceso.",
+  "palabras_clave": [
+    "notificación",
+    "indefensión",
+    "recurso de casación",
+    "derecho a la defensa",
+    "principios constitucionales"
+  ],
+  "titulo": "Revisión constitucional de la decisión N° 233 de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-11_S0372_E15-1410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211150-0372-11518-2018-15-1410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.900637"
+}

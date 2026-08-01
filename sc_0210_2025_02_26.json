@@ -1,0 +1,23 @@
+{
+  "id": 18644,
+  "numero": "0210",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió con lugar el recurso de apelación interpuesto por el abogado Einer Elías Biel Morales, en representación de Adafel Eduardo Martínez, contra la decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del estado Aragua, que había declarado inadmisible la acción de amparo sobrevenido. La Corte de Apelaciones argumentó que la incomparecencia del Ministerio Público justificaba la inadmisibilidad, sin considerar que el archivo fiscal había sido decretado y que la víctima tenía derecho a presentar una acusación particular propia.\nLa Sala Constitucional determinó que la decisión de diferir la audiencia preliminar vulneró los derechos constitucionales de la víctima y del debido proceso, ya que se debía haber designado un defensor público ante la incomparecencia de la defensa privada. Por lo tanto, se revocó la sentencia apelada y se ordenó la realización de la audiencia preliminar con la presencia de un defensor público, garantizando así los derechos de las partes involucradas.\nFinalmente, se reafirmó la competencia de la Sala Constitucional para conocer de la apelación y se destacó la importancia de garantizar el acceso a la justicia y la tutela judicial efectiva para las víctimas en el proceso penal.",
+  "palabras_clave": [
+    "amparo",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "audiencia preliminar"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0210_E24-0838.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342022-0210-26225-2025-24-0838.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.885018"
+}

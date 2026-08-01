@@ -1,0 +1,23 @@
+{
+  "id": 19680,
+  "numero": "0652",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 635 dictada el 14 de agosto de 2024, que declaró que el Poder Judicial venezolano no tiene jurisdicción para conocer de la demanda interpuesta por Christian Alfonso León Sanadres contra Engelberg Transportes Internacionales, C.A. y Schenker Chile, S.A. La revisión fue solicitada por el abogado Nelson González Farías, quien argumentó que la sentencia violaba el derecho a la tutela judicial efectiva y aplicaba erróneamente la Ley de Derecho Internacional Privado. La Sala concluyó que no existían fundamentos suficientes para la revisión y declaró no ha lugar la solicitud.",
+  "palabras_clave": [
+    "jurisdicción",
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derecho internacional privado"
+  ],
+  "titulo": "Revisión de sentencia sobre regulación de jurisdicción laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0652_E24-1138.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343599-0652-8525-2025-24-1138.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.732883"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18169,
+  "numero": "0023",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Manuel Gilberto Da Graca De Freitas, debido a la presunta omisión de la Rectoría Civil de la Circunscripción Judicial del Estado Guárico al no designar un juez superior. La Sala fundamenta su decisión en que la acción de amparo fue presentada sin que el demandante hubiera realizado actuaciones procesales válidas para impulsar el proceso, y que la situación que motivó la acción ya había cesado.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "justicia",
+    "inadmision",
+    "derechos",
+    "garantias",
+    "jueces"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0023_E22-0059.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341169-0023-4225-2025-22-0059.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.573310"
+}

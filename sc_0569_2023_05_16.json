@@ -1,0 +1,26 @@
+{
+  "id": 30363,
+  "numero": "0569",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "ADMITE la demanda por colisión de leyes.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una demanda de colisión de normas entre el artículo 480 de la Ley Orgánica para la Protección de los Niños, Niñas y Adolescentes y el artículo 214 del Código Orgánico Procesal Penal. Se argumentó que ambas disposiciones regulan el mismo supuesto de manera contradictoria, afectando el ejercicio de derechos de los adolescentes en procesos judiciales. La Sala declaró su competencia para conocer la demanda y admitió la acción por colisión de leyes.",
+  "palabras_clave": [
+    "colision normativa",
+    "derechos humanos",
+    "niños",
+    "adolescentes",
+    "jurisprudencia",
+    "competencia",
+    "normas legales"
+  ],
+  "titulo": "Sentencia sobre colisión de normas legales en materia de protección de niños, niñas y adolescentes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0569_E22-0605.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325213-0569-16523-2023-22-0605.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.855997"
+}

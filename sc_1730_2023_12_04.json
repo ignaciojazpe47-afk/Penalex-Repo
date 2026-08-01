@@ -1,0 +1,27 @@
+{
+  "id": 33227,
+  "numero": "1730",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional presentada por Roberto Eduardo Ascanio Morín, quien impugnaba una sentencia del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito de Miranda. La sentencia cuestionada, dictada el 25 de marzo de 2022, declaró cumplida la orden de pago en un juicio de ejecución de hipoteca contra la Asociación Civil Prohabitacional La Guadalupe.\n\nLa Sala, tras analizar los argumentos del solicitante, concluyó que no se evidenció el desconocimiento de criterios jurisprudenciales ni violaciones a derechos fundamentales, por lo que la revisión no contribuiría a la uniformidad de la interpretación constitucional. En consecuencia, se declaró que la solicitud de revisión no tenía lugar, reafirmando la validez de la decisión del juzgado inferior.\n\nFinalmente, se ordenó la publicación y archivo del expediente, manteniendo la decisión del juzgado de primera instancia y desestimando la solicitud de revisión constitucional presentada por el demandante.",
+  "palabras_clave": [
+    "ejecución",
+    "hipoteca",
+    "intimación",
+    "deuda",
+    "jurisdicción",
+    "pago",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en caso de ejecución de hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1730_E23-0657.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330976-1730-41223-2023-23-0657.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.161842"
+}

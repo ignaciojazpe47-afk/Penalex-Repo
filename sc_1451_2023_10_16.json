@@ -1,0 +1,25 @@
+{
+  "id": 32306,
+  "numero": "1451",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción popular por inconstitucionalidad presentada por Juan Ramón León Villanueva en nombre de la Fundación León Villanueva, contra una resolución de la Contraloría General de la República que inhabilitó políticamente a María Corina Machado. La decisión se basa en la inepta acumulación de pretensiones, ya que las demandas corresponden a tribunales distintos y procedimientos incompatibles.",
+  "palabras_clave": [
+    "acumulación de pretensiones",
+    "nulidad",
+    "derechos colectivos",
+    "contraloría",
+    "jurisdicción",
+    "procedimiento administrativo"
+  ],
+  "titulo": "Sentencia sobre Acción Popular por Inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1451_E23-0691.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329359-1451-161023-2023-23-0691.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.390511"
+}

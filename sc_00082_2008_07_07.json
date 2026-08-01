@@ -1,0 +1,23 @@
+{
+  "id": 3503,
+  "numero": "00082",
+  "fecha": "2008-07-07",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 00082 emitida por la Sala Político-Administrativa, que había declarado con lugar una apelación y anulado un fallo anterior. La solicitante, ILUMINACIÓN TOTAL C.A., argumentó que se vulneró el debido proceso al admitir pruebas extemporáneas. La Sala Constitucional concluyó que la valoración de dichas pruebas fue irregular y contraria a la seguridad jurídica, por lo que declaró con lugar la solicitud de revisión y anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "debido proceso",
+    "pruebas extemporáneas"
+  ],
+  "titulo": "Revisión de sentencia de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-07-07_PoliticoAdmin_07_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.970556"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33848,
+  "numero": "1995",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una denuncia de desacato presentada por varios ciudadanos contra el Ministerio del Ambiente y otros organismos, por el incumplimiento de una sentencia de amparo constitucional dictada en 2006. La sentencia original ordenaba el desalojo de habitantes en ciertos urbanismos y la ejecución de dicha decisión fue objeto de incumplimiento, lo que motivó la presente acción. La Sala, tras revisar el caso, decidió solicitar información al juzgado correspondiente sobre el estado procesal de la ejecución de la sentencia.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "ejecución de sentencia",
+    "Ministerio del Ambiente",
+    "desalojo",
+    "cuenca del lago",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre desacato por incumplimiento de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1995_E23-0865.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331965-1995-151223-2023-23-0865.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.705307"
+}

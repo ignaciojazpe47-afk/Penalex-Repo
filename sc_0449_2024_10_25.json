@@ -1,0 +1,25 @@
+{
+  "id": 26925,
+  "numero": "0449",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer la acción de amparo interpuesta por Juan Ramón Crespo Pinto, quien solicitaba la convocatoria de elecciones dentro de la Confederación de Trabajadores de Venezuela. La Sala determinó que la competencia correspondía a la Sala Electoral, dado que la solicitud versaba sobre un asunto electoral. La decisión se fundamenta en la normativa que establece la competencia de la Sala Electoral para conocer demandas de amparo en materia electoral.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "sindicatos",
+    "elecciones",
+    "justicia social",
+    "usurpación"
+  ],
+  "titulo": "Sentencia sobre incompetencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0449_E23-0885.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338235-0449-251024-2024-23-0885.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.489240"
+}

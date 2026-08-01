@@ -1,0 +1,26 @@
+{
+  "id": 28028,
+  "numero": "1117",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por varios ciudadanos en defensa del derecho a la gratuidad de la educación pública en Venezuela. La acción fue admitida, pero finalmente se declaró improcedente in limine litis, argumentando que no se configuraron las violaciones constitucionales alegadas por los accionantes. La sentencia se basa en la interpretación de los artículos 102 y 103 de la Constitución, que garantizan la educación gratuita y obligatoria.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "derechos humanos",
+    "constitución",
+    "tutela judicial",
+    "inclusión",
+    "gratuidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por la gratuidad de la educación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1117_E20-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339697-1117-281124-2024-20-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.475047"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23225,
+  "numero": "1879",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados Leonel Alberto Fuenmayor Finol y Jaime Enrique Jiménez en representación de José Manuel Fuenmayor Cardozo, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia que declaró inadmisible la acción de amparo constitucional. La Sala constató que la apelación fue presentada dentro del lapso legal, pero determinó que la acción de amparo era inadmisible debido a que existía un recurso ordinario para impugnar la decisión cuestionada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "notificación",
+    "decisión judicial",
+    "inadmision",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Decisión sobre la apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1879_E24-0958.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350475-1879-261125-2025-24-0958.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.800247"
+}

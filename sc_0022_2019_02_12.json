@@ -1,0 +1,24 @@
+{
+  "id": 42125,
+  "numero": "0022",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 12 de diciembre de 2008 por el Juzgado Duodécimo de Primera Instancia, que declaró sin lugar la apelación interpuesta por Elsy Yisnei Barragán Guillén contra la demanda de cumplimiento de contrato de arrendamiento presentada por la sociedad mercantil Romi Raíces 294, C.A. La solicitante argumentó que se vulneraron sus derechos al debido proceso y a la defensa, alegando errores en la interpretación de los hechos y la ley por parte del juzgado inferior.\n\nLa Sala concluyó que la relación arrendaticia tuvo una duración de dos años, con una prórroga legal de un año, y que la parte demandada no demostró la existencia de un procedimiento de expropiación que justificara su incumplimiento. Por lo tanto, se determinó que la sentencia cuestionada no quebrantó los principios constitucionales alegados y se declaró sin lugar la solicitud de revisión.\n\nFinalmente, la Sala reafirmó la validez de la decisión del juzgado inferior, considerando que la prórroga legal operó de pleno derecho y que la parte demandada debía cumplir con las obligaciones contractuales, desestimando así los argumentos de la solicitante.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "arrendamiento",
+    "prórroga legal",
+    "due process"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0022_E16-1208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303688-0022-12219-2019-16-1208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.620185"
+}

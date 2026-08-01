@@ -1,0 +1,24 @@
+{
+  "id": 49738,
+  "numero": "0779",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por la defensa de Laura Mercedes Rodríguez Sterling y otros, en relación a la causa penal 2U-1642-2023. Se argumentó la existencia de graves vicios procesales y violaciones a derechos fundamentales, como el derecho a la defensa y la igualdad ante la ley. Tras un análisis exhaustivo, la Sala constató la falta de pruebas suficientes para sostener la acusación, lo que llevó a declarar el sobreseimiento de la causa y la libertad plena de los acusados.",
+  "palabras_clave": [
+    "avocamiento",
+    "sobreseimiento",
+    "derechos fundamentales",
+    "debido proceso",
+    "igualdad ante la ley"
+  ],
+  "titulo": "Sentencia sobre avocamiento y sobreseimiento de causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0779_E26-0172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356477-0779-10626-2026-26-0172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.578919"
+}

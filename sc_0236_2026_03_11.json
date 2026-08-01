@@ -1,0 +1,27 @@
+{
+  "id": 17397,
+  "numero": "0236",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró improcedente la acción de amparo constitucional interpuesta por Daniela Andreina Ferrante Ghersi contra la sentencia del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de La Guaira, que había declarado con lugar un recurso de regulación de competencia. La Sala consideró que la actuación del juzgado superior se ajustó a derecho y no vulneró derechos constitucionales. La decisión se fundamentó en la falta de competencia del tribunal para conocer del asunto, dado que el niño tenía su residencia habitual en Caracas, y se reafirmó la necesidad de respetar el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "debido proceso",
+    "regulación",
+    "niños",
+    "derechos",
+    "tutela",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0236_E25-1399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353541-0236-11326-2026-25-1399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.579360"
+}

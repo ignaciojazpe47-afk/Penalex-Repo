@@ -1,0 +1,23 @@
+{
+  "id": 51457,
+  "numero": "250",
+  "fecha": "2016-11-11",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC.000752 dictada el 11 de noviembre de 2016 por la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por la demandada, INVERSIONES RECREATIVAS OCCIDENTE, C.A., contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del estado Zulia. La revisión se fundamentó en la supuesta violación del principio de confianza legítima y la falta de aplicación de normas vigentes en el proceso de arrendamiento.\n\nLa Sala Constitucional determinó que la solicitud de revisión no cumplía con los requisitos para ser admitida, ya que no se evidenció un error grotesco en la interpretación de la Constitución ni se vulneraron derechos fundamentales. Se concluyó que las instancias inferiores actuaron conforme a derecho y que la decisión de la Sala de Casación Civil no contravino criterios vinculantes establecidos por la Sala Constitucional.\n\nFinalmente, se declaró no ha lugar la solicitud de revisión, reafirmando la validez de la decisión de la Sala de Casación Civil y la aplicación de las normas pertinentes en el caso de arrendamiento en cuestión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "arrendamiento",
+    "confianza legítima",
+    "sentencia de casación"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-05_S250_E17-0004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198233-250-5517-2017-17-0004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.949769"
+}

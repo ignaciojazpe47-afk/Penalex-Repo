@@ -1,0 +1,25 @@
+{
+  "id": 19126,
+  "numero": "0426",
+  "fecha": "2024-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la Asociación Nacional de Cultivadores de Algodón (ANCA) contra la sentencia N° 1.013 dictada por la Sala Político Administrativa. La ANCA argumentó que la sentencia en revisión violó sus derechos constitucionales a la defensa y al debido proceso, al declarar sin lugar su recurso de apelación. La Sala Constitucional, tras analizar los argumentos, determinó que no existían infracciones grotescas ni violaciones a derechos constitucionales en la decisión impugnada.",
+  "palabras_clave": [
+    "recurso administrativo",
+    "nulidad",
+    "falso supuesto",
+    "divisas",
+    "administración pública",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia N° 1.013",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0426_E17-1119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342710-0426-27325-2025-17-1119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.651930"
+}

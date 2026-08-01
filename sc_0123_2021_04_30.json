@@ -1,0 +1,24 @@
+{
+  "id": 38568,
+  "numero": "0123",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por la Alcaldía del Municipio San Francisco del Estado Zulia contra una sentencia de la Corte Segunda de lo Contencioso Administrativo. La acción fue declarada terminada por abandono de trámite, dado que la parte actora no impulsó el proceso durante más de seis meses, lo que llevó a la Sala a considerar que había perdido el interés en la causa. Además, se impuso una multa a la parte accionante por el incumplimiento de las obligaciones procesales.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "interésprocesal",
+    "derechosfundamentales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0123_E12-0885.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311987-0123-30421-2021-12-0885.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.882713"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 34483,
+  "numero": "045",
+  "fecha": "2022-02-23",
+  "anio": 2022,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Inadmisible",
+  "ponente": "ELSA JANETH GÓMEZ MORENO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara inadmisible el recurso de casación interpuesto por la abogada Lenys Isabel Parra García en representación de Zelhideth Montaño, madre de las víctimas, contra la decisión de la Corte de Apelaciones del estado Lara. La Corte había confirmado el sobreseimiento de la causa en contra de JOSÉ LUIS HERRERA VIRGÜEZ por el delito de trato cruel, previsto en la Ley Orgánica para la Protección de Niños, Niñas y Adolescentes.\n\nEl tribunal argumenta que el recurso no cumple con los requisitos de impugnabilidad objetiva establecidos en el Código Orgánico Procesal Penal, ya que la pena solicitada no excede los cuatro años, lo que impide la procedencia del recurso de casación. La decisión se fundamenta en la falta de legitimidad de la apelación presentada por la abogada de la víctima, quien no tenía derecho a actuar en el proceso.\n\nFinalmente, se ratifica la decisión de la Corte de Apelaciones y se ordena el cese de las medidas de coerción personal sobre el demandado, confirmando así el sobreseimiento de la causa.",
+  "palabras_clave": [
+    "casación",
+    "trato cruel",
+    "sobreseimiento",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de trato cruel",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2022-02-23_S045_C22-37.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/315710-045-23222-2022-C22-37.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:00.041779"
+}

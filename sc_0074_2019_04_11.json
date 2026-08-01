@@ -1,0 +1,24 @@
+{
+  "id": 42558,
+  "numero": "0074",
+  "fecha": "2019-04-11",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Medidas Cautelares",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la nulidad absoluta de la designación del ciudadano José Ignacio Hernández como 'Procurador Especial', argumentando que dicha designación colide con la Constitución y representa una usurpación de funciones del Presidente de la República. Se ratifican medidas cautelares que prohíben la designación de representantes ilegales y se ordena la protección de los intereses de Petróleos de Venezuela, S.A. (PDVSA). Además, se insta al Poder Ejecutivo a tomar medidas para salvaguardar la actividad petrolera del país.",
+  "palabras_clave": [
+    "nulidad",
+    "designación",
+    "Procurador Especial",
+    "Petróleos de Venezuela",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre la nulidad de designaciones en PDVSA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-11_S0074_E17-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304469-0074-11419-2019-17-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.602167"
+}

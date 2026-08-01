@@ -1,0 +1,24 @@
+{
+  "id": 66835,
+  "numero": "1237",
+  "fecha": "2015-10-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la acción de amparo constitucional interpuesta por Katty Belén Urdaneta González, quien alegó violaciones a sus derechos al debido proceso y a la tutela judicial efectiva, al no haber sido citada en un juicio de tacha de falsedad de documento donde se anuló un título de propiedad que formaba parte de la comunidad conyugal. La Sala determinó que la omisión de su citación generó indefensión, ya que no pudo ejercer su derecho a la defensa en el proceso original. En consecuencia, se anuló la sentencia del Juzgado Superior y se repondrá la causa para que se pronuncie sobre la admisibilidad de la demanda de tacha de falsedad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tacha de falsedad",
+    "due process",
+    "tutela judicial efectiva",
+    "comunidad conyugal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Tacha de Falsedad de Documento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-26_S1237_E14-1270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182134-1237-261015-2015-14-1270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.444744"
+}

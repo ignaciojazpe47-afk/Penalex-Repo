@@ -1,0 +1,24 @@
+{
+  "id": 49721,
+  "numero": "0761",
+  "fecha": "2025-12-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Anula la decisión n.° 811 de fecha 10 de diciembre de 2025 proferida por la Sala de Casación Civil del Tribunal Supremo de Justicia.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 811 del 10 de diciembre de 2025, que había casado de oficio un fallo anterior por falta de cualidad activa de la demandante, DISTRIBUIDORA DE ALIMENTOS SIGLO XXI, C.A. La Sala concluyó que la demandante sí poseía dicha cualidad, ya que el finiquito firmado no extinguía su derecho a reclamar por la indemnización correspondiente al siniestro. Por lo tanto, se declaró ha lugar la solicitud de revisión y se anuló la decisión impugnada, ordenando que se pronuncie nuevamente sobre el recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "falta de cualidad activa",
+    "indemnización",
+    "finiquito",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 811 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0761_E26-0422.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356459-0761-10626-2026-26-0422.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.782855"
+}

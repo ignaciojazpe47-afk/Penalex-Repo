@@ -1,0 +1,25 @@
+{
+  "id": 26639,
+  "numero": "0255",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Vicente Emilio Muñoz Gil, defensor privado de Carlos Augusto Ramírez Ramírez. La decisión se basa en la falta de representación adecuada y en la ausencia de documentos necesarios para la admisión del recurso, como la copia certificada de la sentencia objeto de revisión. La Sala reafirma la importancia de cumplir con los requisitos procesales establecidos para garantizar la correcta administración de justicia.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "seguridad",
+    "constitución",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0255_E23-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337821-0255-171024-2024-23-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.077657"
+}

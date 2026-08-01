@@ -1,0 +1,25 @@
+{
+  "id": 17536,
+  "numero": "0052",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por Maximiliano Palacios contra la sentencia de la Sala Cuarta Accidental de la Corte de Apelaciones, que había declarado con lugar un recurso de apelación. La decisión recurrida había anulado una condena previa por el delito de invasión, argumentando falta de motivación en la sentencia original. La Sala Constitucional determinó que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la ley, ya que la Corte de Apelaciones actuó dentro de su competencia y no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "derecho de propiedad",
+    "invasión",
+    "debido proceso",
+    "acción de amparo",
+    "inseguridad jurídica",
+    "justicia social"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0052_E25-1152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352732-0052-18226-2026-25-1152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.058437"
+}

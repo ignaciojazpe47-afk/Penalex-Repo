@@ -1,0 +1,26 @@
+{
+  "id": 22771,
+  "numero": "1721",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de noviembre de 2025, declaró no ha lugar la solicitud de revisión constitucional presentada por la abogada Daniela Adriana Hernández García, actuando en nombre de la sucesión Arnaldo Laprea. La solicitud buscaba revisar la sentencia dictada el 17 de mayo de 2023 por el Juzgado Superior Tercero del Trabajo de Anzoátegui, que había declarado sin lugar un recurso de apelación interpuesto por los demandantes en un caso de cobro de prestaciones sociales.\n\nLa Sala argumentó que la revisión no constituye una tercera instancia y que no se evidenciaron infracciones a derechos constitucionales. Se destacó que la decisión del juzgado inferior se basó en su apreciación soberana de las pruebas presentadas, y que la parte solicitante no logró demostrar que la falta de valoración de ciertos correos electrónicos hubiera sido determinante para cambiar el resultado del fallo.\n\nFinalmente, la Sala reafirmó que la revisión constitucional tiene un carácter excepcional y no debe ser utilizada para reexaminar decisiones ya firmes, lo que llevó a la desestimación de la solicitud de revisión y la medida cautelar solicitada.",
+  "palabras_clave": [
+    "prueba",
+    "experticia",
+    "correos electrónicos",
+    "debido proceso",
+    "carga probatoria",
+    "Ley Orgánica Procesal del Trabajo",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1721_E24-1197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349460-1721-31125-2025-24-1197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.525526"
+}

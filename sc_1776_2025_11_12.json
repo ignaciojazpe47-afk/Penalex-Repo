@@ -1,0 +1,26 @@
+{
+  "id": 22912,
+  "numero": "1776",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional, nula la sentencia del 13 de octubre de 2021.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo en lo Civil, que había declarado sin lugar el recurso de apelación interpuesto por la parte demandante. La Sala encontró vicios de inmotivación en la decisión, ya que no se justificaron adecuadamente los montos condenatorios y se generó un estado de indefensión para la parte demandada. En consecuencia, se declaró nula la sentencia impugnada y se ordenó remitir el expediente a otro juzgado superior para un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "daños y perjuicios",
+    "contrato",
+    "incongruencia",
+    "tutela judicial",
+    "excepción",
+    "revisión constitucional",
+    "seguro"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre cumplimiento de contrato de seguro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1776_E25-0693.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349766-1776-121125-2025-25-0693.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.517296"
+}

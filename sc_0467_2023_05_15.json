@@ -1,0 +1,22 @@
+{
+  "id": 30248,
+  "numero": "0467",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Luis Eduardo Pulido Canino contra la sentencia del Juzgado Sexto Superior del Circuito Judicial del Trabajo, que declaró inadmisible su acción de amparo constitucional. La inadmisibilidad se fundamentó en la falta de representación legal adecuada, ya que los apoderados no eran abogados. La Sala confirmó la decisión del tribunal inferior, argumentando que la falta de capacidad de postulación de los representantes del demandante era suficiente para declarar la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0467_E22-0422.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325088-0467-15523-2023-22-0422.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.891478"
+}

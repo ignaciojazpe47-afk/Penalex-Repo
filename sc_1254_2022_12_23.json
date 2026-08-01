@@ -1,0 +1,25 @@
+{
+  "id": 38155,
+  "numero": "1254",
+  "fecha": "2022-12-23",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la sentencia número 03 del Tribunal Superior de lo Contencioso Tributario, que admitió un recurso contencioso tributario de nulidad y suspendió los efectos de una resolución tributaria. La Sala destaca la importancia de la notoriedad judicial y su relación con la defensa de derechos constitucionales y la seguridad jurídica. Se ordena la apertura de un expediente para la revisión de la sentencia y se suspenden cautelarmente sus efectos hasta que se resuelva el mérito de la revisión.",
+  "palabras_clave": [
+    "notoriedad judicial",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "responsabilidad social",
+    "seguridad jurídica",
+    "justicia"
+  ],
+  "titulo": "Revisión de sentencia interlocutoria en recurso contencioso tributario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-23_S1254_E22-1065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322171-1254-231222-2022-22-1065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.309496"
+}

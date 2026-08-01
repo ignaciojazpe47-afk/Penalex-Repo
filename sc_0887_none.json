@@ -1,0 +1,26 @@
+{
+  "id": 31181,
+  "numero": "0887",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO por abandono del trámite en la acción de amparo ejercida.",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta contra el decreto 0036 de la Alcaldía de Maracaibo, que ordenaba la intervención de mercados privados. Los accionantes argumentaron que dicho decreto vulneraba derechos fundamentales, afectando a miles de trabajadores de la economía informal. La Sala determinó que no tenía competencia para conocer el caso y lo remitió al Juzgado Superior Estadal Contencioso Administrativo de Zulia, declarando terminado el procedimiento por abandono del trámite debido a la inacción de los accionantes.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "jurisdicción",
+    "administración",
+    "derechos",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra decreto municipal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0887_E18-0668.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326773-0887-11723-2023-18-0668.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.693878"
+}

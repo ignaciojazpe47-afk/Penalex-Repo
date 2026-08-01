@@ -1,0 +1,26 @@
+{
+  "id": 23752,
+  "numero": "2015",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión constitucional presentada por José Cristóbal Álvarez en representación de José Gregorio Rojas Rodríguez. Sin embargo, la solicitud es declarada inadmisible debido a la falta de presentación de documentos que acrediten la representación del solicitante y la falta de carácter definitivamente firme de la sentencia objeto de revisión, dictada por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Guárico.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "incongruencia",
+    "nulidad",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2015_E25-0281.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351772-2015-101225-2025-25-0281.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.745203"
+}

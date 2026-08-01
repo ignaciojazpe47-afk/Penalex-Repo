@@ -1,0 +1,23 @@
+{
+  "id": 18771,
+  "numero": "0302",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por AL ATTAR TAISSIR ALI AHMMAD contra la sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito de Trujillo, que había declarado sin lugar la apelación de desalojo. La Sala revocó el fallo apelado, considerando que la falta de capacidad de postulación del apoderado judicial del demandante vicia de nulidad absoluta todo el procedimiento. Se declaró con lugar la apelación ejercida y se anuló la demanda de desalojo incoada por Luis Gregorio Rojas Araujo, quien actuó sin ser abogado.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Desalojo",
+    "Capacidad de Postulación",
+    "Nulidad"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0302_E24-0818.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342234-0302-12325-2025-24-0818.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.736828"
+}

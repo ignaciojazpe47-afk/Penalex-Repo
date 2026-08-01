@@ -1,0 +1,22 @@
+{
+  "id": 33855,
+  "numero": "2002",
+  "fecha": "2023-02-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los defensores de Bassam Hammoud Muhieddine contra una decisión de la Corte de Apelaciones que declaró improcedente la acción de amparo. La Sala determinó su competencia para conocer el caso y ordenó la notificación del contenido de la decisión al Tribunal de origen. Se destacó la violación de derechos fundamentales en la decisión apelada.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-18_S2002_E15-1282.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331972-2002-181223-2023-15-1282.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.302154"
+}

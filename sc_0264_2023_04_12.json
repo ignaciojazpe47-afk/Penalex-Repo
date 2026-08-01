@@ -1,0 +1,25 @@
+{
+  "id": 29732,
+  "numero": "0264",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por María Elena Rodríguez Fernández, quien impugnó la sentencia de la Sala Político-Administrativa que declaró sin lugar el recurso de regulación de jurisdicción en su acción mero declarativa de concubinato. La Sala concluyó que el Poder Judicial venezolano no tiene jurisdicción para conocer el caso, dado que las partes residían en el extranjero y la acción debía ser decidida por un juez extranjero. La Sala reafirmó la importancia de la tutela judicial efectiva y la aplicación de los principios del Derecho Internacional Privado en este contexto.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derecho internacional privado",
+    "concubinato",
+    "relaciones familiares",
+    "sumisión",
+    "extranjería"
+  ],
+  "titulo": "Revisión Constitucional sobre Jurisdicción en Acción Mero Declarativa de Concubinato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0264_E19-0055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324351-0264-12423-2023-19-0055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.045974"
+}

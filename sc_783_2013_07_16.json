@@ -1,0 +1,23 @@
+{
+  "id": 12123,
+  "numero": "783",
+  "fecha": "2013-07-16",
+  "anio": 2013,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de nulidad interpuesta por la Cámara de Aseguradores de Venezuela y Mapfre La Seguridad, C.A. contra el artículo 44 de la Ordenanza de Impuesto sobre Vehículos del Municipio Barinas, por considerar que cercena el derecho a la libertad de empresa. La norma impugnada exigía a las compañías aseguradoras la certificación de solvencia del impuesto sobre vehículos como condición para la celebración de contratos de seguros, lo que fue considerado una usurpación de funciones del Poder Público Nacional. La sentencia establece que la regulación de la actividad aseguradora es competencia exclusiva del Poder Legislativo Nacional, y cualquier limitación impuesta por el municipio es inconstitucional.",
+  "palabras_clave": [
+    "Nulidad",
+    "Impuesto sobre Vehículos",
+    "Libertad de Empresa",
+    "Usurpación de Funciones"
+  ],
+  "titulo": "Sentencia que declara la nulidad parcial del artículo 44 de la Ordenanza de Impuesto sobre Vehículos del Municipio Barinas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2013_6.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:17.077431"
+}

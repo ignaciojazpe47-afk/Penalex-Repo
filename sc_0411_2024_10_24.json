@@ -1,0 +1,25 @@
+{
+  "id": 26879,
+  "numero": "0411",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Primero Superior del Trabajo de Anzoátegui. La solicitud fue presentada por el abogado Alexis Liendo Pérez en representación de varios ciudadanos. La Sala declaró inadmisible la solicitud debido a la falta de legitimidad del abogado para actuar en el presente asunto, ya que no se presentó el poder correspondiente que lo facultara para representar a los demandantes.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "poder",
+    "legitimidad",
+    "justicia",
+    "trabajo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0411_E23-0448.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338183-0411-241024-2024-23-0448.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.322830"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21169,
+  "numero": "1203",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena remitir el expediente",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Rafael Marea Contreras, en relación a una sentencia dictada el 9 de octubre de 2017 por el Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui. La solicitud se fundamenta en la alegación de violaciones al debido proceso y a derechos fundamentales en el procedimiento de retracto legal arrendaticio. La Sala, tras analizar la competencia para conocer del caso, decidió solicitar al juzgado remitente la totalidad del expediente para verificar las irregularidades denunciadas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "arrendamiento"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1203_E18-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346452-1203-23725-2025-18-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.378912"
+}

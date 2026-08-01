@@ -1,0 +1,23 @@
+{
+  "id": 37497,
+  "numero": "1018",
+  "fecha": "2022-11-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Alfredo José Leca de Oliveira, en relación con una sentencia del Juzgado Superior que declaró la pérdida total de su vehículo y condenó a la aseguradora a pagar por la obligación contraída. La revisión se fundamentó en alegaciones de omisiones en la sentencia recurrida y violaciones a derechos constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "póliza de seguros",
+    "perdida total",
+    "indemnización"
+  ],
+  "titulo": "Revisión constitucional sobre sentencia de cumplimiento de contrato de póliza de seguros",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-18_S1018_E15-1435.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320924-1018-181122-2022-15-1435.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.342733"
+}

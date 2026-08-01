@@ -1,0 +1,26 @@
+{
+  "id": 18184,
+  "numero": "0035",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Leonel Rosellón León contra dos decisiones judiciales, argumentando inepta acumulación de pretensiones. Se señala que el demandante no puede acumular en un mismo escrito pretensiones contra diferentes órganos jurisdiccionales, ya que cada uno tiene competencias distintas. La decisión se fundamenta en la normativa aplicable y en precedentes jurisprudenciales que establecen la inadmisibilidad en casos de acumulación inadecuada.",
+  "palabras_clave": [
+    "amparo",
+    "justicia",
+    "derechos",
+    "notificación",
+    "tecnologías",
+    "constitución",
+    "inquilinos"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0035_E24-1153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341200-0035-5225-2025-24-1153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.569777"
+}

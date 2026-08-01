@@ -1,0 +1,26 @@
+{
+  "id": 42749,
+  "numero": "0098",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada por el Juzgado Superior Contencioso Administrativo de la Región Centro Occidental, que había declarado la nulidad de un contrato de compra-venta. El solicitante argumentó que la sentencia carecía de motivación y que se habían vulnerado principios de derecho. Sin embargo, la Sala determinó que la sentencia impugnada no incurrió en errores que justificaran la revisión, ya que cumplió con los requisitos de motivación y análisis de pruebas.",
+  "palabras_clave": [
+    "nulidad de contrato",
+    "apelación",
+    "sentencia",
+    "prueba",
+    "prescripción",
+    "acción civil",
+    "doble instancia"
+  ],
+  "titulo": "Revisión de sentencia en caso de nulidad de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0098_E18-0161.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304841-0098-14519-2019-18-0161.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.591278"
+}

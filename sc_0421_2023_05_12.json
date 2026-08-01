@@ -1,0 +1,27 @@
+{
+  "id": 30180,
+  "numero": "0421",
+  "fecha": "2023-05-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Santiago Alejandro Puppio Vegas contra una decisión del Tribunal Décimo Quinto de Primera Instancia de Mediación, Sustanciación y Ejecución. La apelación se refiere a la nulidad de una sentencia que levantó una medida de protección a favor de la niña M.M.S. y ordenó el cese de perturbaciones en su hogar. La Sala declaró la competencia para conocer del recurso y consideró admisible la apelación interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "adolescentes",
+    "protección",
+    "sentencia",
+    "apelación",
+    "jurisdicción",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-12_S0421_E18-0844.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325018-0421-12523-2023-18-0844.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.046967"
+}

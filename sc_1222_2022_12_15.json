@@ -1,0 +1,25 @@
+{
+  "id": 38099,
+  "numero": "1222",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Yarelis Beatriz Sánchez Peña solicitó revisión constitucional de una sentencia que declaró inadmisible su acción de amparo. La Sala Constitucional del TSJ, tras analizar el caso, determinó que la solicitante no presentó la copia certificada del fallo cuya revisión pedía, lo que llevó a declarar inadmisible su solicitud. La decisión se fundamentó en la falta de cumplimiento de requisitos procesales establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "copia certificada",
+    "carga procesal",
+    "derechos constitucionales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1222_E22-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322114-1222-151222-2022-22-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.311293"
+}

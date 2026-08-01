@@ -1,0 +1,25 @@
+{
+  "id": 18884,
+  "numero": "0356",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Decio Vivolo Nicastro, representado por el abogado Luis Paz Caizedo, contra una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La acción fue presentada debido a la supuesta transgresión de derechos constitucionales en el proceso penal que se seguía contra Raúl Meneses Martínez por el delito de estafa.\nLa Sala constató que, a pesar de la interposición de la acción de amparo, no se realizaron actuaciones válidas que impulsaran el procedimiento durante más de seis meses, lo que fue considerado como abandono del trámite. En consecuencia, se declaró la terminación del procedimiento y se impuso una multa a la parte actora por la falta de impulso procesal.\nFinalmente, la Sala reafirmó su competencia para conocer de la acción de amparo y dictó la decisión correspondiente, ordenando la publicación y registro de la misma.",
+  "palabras_clave": [
+    "amparo",
+    "abandonode trámite",
+    "tutela judicial",
+    "interés procesal",
+    "derechos fundamentales",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por abandono del trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0356_E24-0822.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342387-0356-18325-2025-24-0822.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.728731"
+}

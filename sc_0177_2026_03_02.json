@@ -1,0 +1,22 @@
+{
+  "id": 16777,
+  "numero": "0177",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Francisco José Di Criscio Ferrer, quien impugnó una sentencia condenatoria dictada por el Juzgado Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Carabobo. La solicitud se fundamentó en la alegación de transgresiones a normas constitucionales y la falta de aplicación de principios jurídicos en el proceso penal que le afectó. La Sala acordó una medida cautelar de suspensión de los efectos de la sentencia impugnada, manteniendo el estado de libertad del solicitante hasta que se dicte un pronunciamiento definitivo sobre el fondo de la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "medida cautelar",
+    "sentencia condenatoria"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0177_E26-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353173-0177-2326-2026-26-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.595867"
+}

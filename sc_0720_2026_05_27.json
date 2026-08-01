@@ -1,0 +1,26 @@
+{
+  "id": 16434,
+  "numero": "0720",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión constitucional presentada por Juan Parra Duarte, pero inadmite dicha solicitud por no cumplir con las formalidades requeridas. Se señala que la presentación debió hacerse ante la Sala Constitucional o ante tribunales competentes en el lugar de residencia del solicitante, lo que no ocurrió en este caso. La decisión se fundamenta en la falta de consignación de documentos indispensables para la admisibilidad de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "identidad",
+    "legitimidad",
+    "formalidades",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0720_E25-1299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355990-0720-27526-2026-25-1299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.940931"
+}

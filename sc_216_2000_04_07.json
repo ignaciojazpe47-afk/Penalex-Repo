@@ -1,0 +1,22 @@
+{
+  "id": 3759,
+  "numero": "216",
+  "fecha": "2000-04-07",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JOSE M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia confirmó la decisión del Juzgado Superior en lo Civil, Mercantil, del Tránsito, de Menores de la Circunscripción Judicial del Estado Monagas, que declaró con lugar la acción de amparo constitucional interpuesta por Ingrid Sirera Pascal. La acción se fundamentó en la violación del debido proceso y el derecho a la defensa, debido a la actuación de un juez que se inhibió sin permitir el allanamiento correspondiente por parte de las partes involucradas. La sentencia anuló todos los actos y actuaciones ocurridas desde la inhibición del juez titular hasta la sentencia dictada por el Juzgado Accidental Primero de Primera Instancia en lo Civil y Mercantil.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "inhibición"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Ingrid Sirera Pascal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0088_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.672608"
+}

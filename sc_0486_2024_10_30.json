@@ -1,0 +1,26 @@
+{
+  "id": 27000,
+  "numero": "0486",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisa una solicitud de revisión de una sentencia del Juzgado Superior en lo Civil, que declaró sin lugar un recurso de apelación. La Sala se declara competente para conocer la solicitud y ordena la obtención de información adicional para resolver el caso. Se destaca la importancia de verificar el cumplimiento de las normas sobre el debido proceso y el derecho a la defensa en el contexto de la asamblea de accionistas de la sociedad mercantil HPO HOSPITAL DE OCCIDENTE, C.A.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "due process",
+    "asamblea de accionistas",
+    "nulidad",
+    "interpretación constitucional",
+    "quórum",
+    "sociedad mercantil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de Juzgado Superior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0486_E21-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338374-0486-301024-2024-21-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.471081"
+}

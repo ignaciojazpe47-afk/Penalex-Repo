@@ -1,0 +1,26 @@
+{
+  "id": 34594,
+  "numero": "0057",
+  "fecha": "2022-03-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La ciudadana Elizabeth Patricia Castro Di Giorgio interpuso una acción de amparo constitucional contra la empresa Grupo Enobras Activos Inmobiliarios C.A., alegando amenazas a su derecho a la vivienda. La Sala Constitucional, tras analizar el caso, determinó su incompetencia para conocer de la acción y decidió no declinar el conocimiento a un tribunal civil competente, declarando terminado el procedimiento por abandono del trámite debido a la falta de impulso procesal por parte de la accionante. Además, se impuso una multa a la parte accionante por la cantidad de dos mil bolívares.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos constitucionales",
+    "abandonos",
+    "COVID-19",
+    "tutela",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-07_S0057_E20-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315893-0057-7322-2022-20-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.708691"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20662,
+  "numero": "1059",
+  "fecha": "2025-06-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Pablo Emilio López Vielma en representación de Juan Bautista Cordero Freites, debido a la falta de legitimidad y representación, al no presentar los documentos necesarios que acrediten su defensa. La acción se basaba en la presunta omisión de notificación de una sentencia dictada el 22 de junio de 2021 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación",
+    "abogado",
+    "poder",
+    "derechos fundamentales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1059_E22-0082.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345339-1059-30625-2025-22-0082.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.313288"
+}

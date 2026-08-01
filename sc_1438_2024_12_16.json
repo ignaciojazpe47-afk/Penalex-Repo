@@ -1,0 +1,25 @@
+{
+  "id": 28682,
+  "numero": "1438",
+  "fecha": "2024-12-16",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, REVISA y ANULA la sentencia identificada con el n.° 327, del 6 de junio 2024, proferida por la Sala de Casación Civil de este Tribunal Supremo de Justicia, INADMISIBLE la incidencia de fraude procesal propuesta por los ciudadanos ÁNGEL RAMÓN REY MATO y JOSÉ REY MATO.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 327 de la Sala de Casación Civil, que había declarado procedente una incidencia de fraude procesal en un juicio de disolución de sociedad mercantil. La Sala Constitucional determinó que dicha incidencia era inadmisible, ya que el proceso ya contaba con sentencia firme, y que el fraude procesal debía ser tramitado a través de un juicio ordinario. La decisión de la Sala de Casación Civil fue anulada por contravenir el orden público constitucional.",
+  "palabras_clave": [
+    "casación",
+    "legitimación",
+    "fraude procesal",
+    "sociedades mercantiles",
+    "derecho civil",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión de sentencia sobre fraude procesal en disolución de sociedad mercantil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-16_S1438_E24-1076.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340791-1438-161224-2024-24-1076.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.814092"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 29973,
+  "numero": "0382",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Desacato",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de desacato presentada por el abogado Alberto Chuqui, en relación a la sentencia N° 0156 dictada el 29 de octubre de 2020. La solicitud fue declarada improcedente, argumentando que el Juzgado Noveno de Municipio Ordinario actuó conforme a derecho al ratificar la medida de secuestro decretada en el juicio de desalojo, sin que se estuviera ejecutando un desalojo en ese momento. La Sala destacó que la sentencia N° 0156 no era de aplicación obligatoria en este caso específico, dado que se trataba de una medida preventiva y no de un desalojo.",
+  "palabras_clave": [
+    "desacato",
+    "medidas cautelares",
+    "silencio administrativo",
+    "irretroactividad",
+    "procedimiento administrativo",
+    "medida de secuestro",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre solicitud de desacato de sentencia N° 0156",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0382_E21-0127.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324652-0382-28423-2023-21-0127.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.800900"
+}

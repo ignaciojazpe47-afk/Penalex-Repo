@@ -1,0 +1,18 @@
+{
+  "id": 49675,
+  "numero": "0923",
+  "fecha": "2018-12-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación interpuesto por el abogado Carlos Brender sobre el artículo 258 de la Constitución. Se argumenta que la acción no tiene la naturaleza invocada por el accionante, ya que no se busca la protección de un derecho constitucional desprovisto de procedimiento judicial, dado que existen pronunciamientos previos que abordan el tema del arbitraje y la falta de jurisdicción del juez respecto al tribunal arbitral.\n\nLa Sala establece que el recurso de interpretación no persigue fines de protección de derechos fundamentales, sino que busca una nueva interpretación sobre un asunto ya resuelto por la jurisprudencia vinculante. Se reafirma la competencia de la Sala para conocer de recursos de interpretación, pero se concluye que el recurso presentado no es admisible debido a que ya se han resuelto los puntos planteados en decisiones anteriores.\n\nFinalmente, se declara la inadmisibilidad del recurso, enfatizando que la interpretación del artículo 258 ha sido ampliamente desarrollada en sentencias anteriores, lo que hace innecesaria una nueva interpretación en este caso.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la inadmisibilidad de recurso de interpretación del artículo 258 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-17_S0923_E17-0710.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/303325-0923-171218-2018-17-0710.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.134093"
+}

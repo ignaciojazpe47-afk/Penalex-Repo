@@ -1,0 +1,27 @@
+{
+  "id": 1933,
+  "numero": null,
+  "fecha": "2000-07-27",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derecho Constitucional",
+  "decision": "Se declara la nulidad de los artículos 26, 27, 28, 29, 30 y 31 de la Ley de Seguridad Personal y Bienestar Social del Agente de Seguridad y Orden Público del Estado Táchira.",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 27 de julio de 2000, se pronunció sobre la acción de nulidad interpuesta por la Procuradora General del Estado Táchira, Nancy Fiallo de Rodríguez, en contra de varios artículos de la Ley de Seguridad Personal y Bienestar Social del Agente de Seguridad y Orden Público del Estado Táchira. La acción se fundamentó en la inconstitucionalidad de la ley, argumentando que la materia de jubilaciones y pensiones es competencia exclusiva del Poder Nacional, según lo establecido en la Constitución de 1999. La Sala determinó que la Asamblea Legislativa del Estado Táchira había legislado sobre una materia que corresponde al ámbito nacional, por lo que se declaró la nulidad de los artículos impugnados.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Ley de Seguridad",
+    "Jubilaciones",
+    "Pensiones",
+    "Estado Táchira",
+    "Procuradora General",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Nulidad de Ley de Seguridad Personal y Bienestar Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-07-27_Constitucional_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.728023"
+}

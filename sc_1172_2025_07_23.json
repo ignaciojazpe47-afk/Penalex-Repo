@@ -1,0 +1,25 @@
+{
+  "id": 21108,
+  "numero": "1172",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por varios ciudadanos contra una sentencia del Tribunal Primero de Primera Instancia de Juicio del Trabajo de Anzoátegui, que había declarado sin lugar el desacato a un mandamiento de ejecución. La Sala, tras revisar el expediente, determinó que el tribunal de primera instancia había cometido un error en el procedimiento de remisión del fallo. Se ordenó el desglose del expediente y su remisión al tribunal correspondiente para que se cumpla con lo ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "competencias",
+    "jurisprudencia",
+    "tribunales",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1172_E23-0277.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346390-1172-23725-2025-23-0277.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.386439"
+}

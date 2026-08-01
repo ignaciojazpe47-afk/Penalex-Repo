@@ -1,0 +1,26 @@
+{
+  "id": 37137,
+  "numero": "0887",
+  "fecha": "2022-11-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Deisy Delgado en representación de los ciudadanos Bárbara Yelis Martínez Castillo y Rafael Simón Perdomo Perdomo. La decisión se basa en que la acción fue interpuesta vía correo electrónico y no fue ratificada en la forma prevista por la ley, lo que impide su admisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "vías de hecho",
+    "COVID-19",
+    "protección",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-01_S0887_E22-0174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320489-0887-11122-2022-22-0174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.419563"
+}

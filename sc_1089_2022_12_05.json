@@ -1,0 +1,23 @@
+{
+  "id": 37740,
+  "numero": "1089",
+  "fecha": "2022-12-05",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por José Gregorio Ocanto Carrasco contra la sentencia del Juzgado Superior Primero en lo Civil, que declaró inadmisible su acción de amparo constitucional. La Sala confirmó la decisión del juzgado de origen, argumentando que la acción de amparo resultó inadmisible debido a que había cesado la violación de derechos alegada, ya que el expediente había sido remitido a otro tribunal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos de petición",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-05_S1089_E22-0078.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321408-1089-51222-2022-22-0078.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.441270"
+}

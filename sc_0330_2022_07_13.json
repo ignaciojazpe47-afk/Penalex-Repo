@@ -1,0 +1,27 @@
+{
+  "id": 35444,
+  "numero": "0330",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de apelación interpuesto por los abogados Jean Carlos Martínez y Rafael Jesús Rodríguez Villazana en representación de Delfa Marilín Silva Bravo, quien había sido objeto de una decisión de inadmisibilidad por parte de la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure. La Corte de Apelaciones había declarado inadmisible la acción de amparo constitucional debido a la falta de legitimidad de los abogados para actuar en nombre de la ciudadana, ya que no presentaron el acta de juramentación que acreditara su condición de defensores privados.\n\nLa Sala Constitucional, tras analizar las actuaciones, confirmó la decisión de inadmisibilidad, argumentando que los abogados no habían cumplido con la carga de presentar el documento que evidenciara su representación. En consecuencia, se declaró sin lugar el recurso de apelación, reafirmando que la acción de amparo constitucional requiere de una representación legal adecuada y documentada.\n\nFinalmente, la Sala reafirmó su competencia para conocer del recurso y dejó claro que la falta de legitimidad de los abogados en este caso era suficiente para mantener la inadmisibilidad de la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "temporalidad",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0330_E18-0306.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317910-0330-13722-2022-18-0306.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.222625"
+}

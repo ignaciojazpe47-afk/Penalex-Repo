@@ -1,0 +1,22 @@
+{
+  "id": 23246,
+  "numero": "1901",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Antonio Reyes Castro, representado por el abogado Guillermo Moreno Contreras, contra una sentencia de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala declaró su competencia y ordenó recabar información sobre el estado de la causa penal relacionada, destacando la necesidad de garantizar el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1901_E22-1014.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350497-1901-261125-2025-22-1014.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.726403"
+}

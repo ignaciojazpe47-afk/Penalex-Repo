@@ -1,0 +1,25 @@
+{
+  "id": 20401,
+  "numero": "0952",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad interpuesta por Silvestre Alberto Dos Reis contra el Decreto Nro. 085-2018, que reforma el Decreto 103-2012. La Sala analizó su competencia y determinó que no era competente para conocer la demanda, ya que el decreto impugnado no se encontraba dentro de los supuestos establecidos en la Constitución para su nulidad. En consecuencia, declinó el conocimiento del caso al Juzgado Superior en Estadal Contencioso Administrativo de la Circunscripción Judicial de la Región Capital.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "decreto",
+    "competencia",
+    "jurisdicción",
+    "actos administrativos",
+    "Ley Orgánica"
+  ],
+  "titulo": "Sentencia sobre la competencia en demanda de nulidad por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0952_E25-0408.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344913-0952-17625-2025-25-0408.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.311148"
+}

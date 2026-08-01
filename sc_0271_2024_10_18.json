@@ -1,0 +1,26 @@
+{
+  "id": 26660,
+  "numero": "0271",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no admitir la solicitud de revisión presentada por Jesús Rafael Muñoz Matute contra la sentencia de la Sala de Casación Civil que declaró inadmisible su recurso de casación. La Sala argumentó que el solicitante carecía de interés procesal para recurrir, ya que la decisión que homologó el acuerdo conciliatorio entre las partes no le causó perjuicio alguno.",
+  "palabras_clave": [
+    "recursos",
+    "casación",
+    "homologación",
+    "derecho a la defensa",
+    "procedimiento civil",
+    "sentencias",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0271_E16-0514.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337850-0271-181024-2024-16-0514.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.338827"
+}

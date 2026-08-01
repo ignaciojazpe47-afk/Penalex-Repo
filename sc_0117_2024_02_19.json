@@ -1,0 +1,25 @@
+{
+  "id": 24245,
+  "numero": "0117",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado Frankier Rosales Pérez en representación de Oswaldo José Pelloni Delgado. La acción se interpuso contra una decisión de la Sala Accidental de la Corte de Apelaciones del Circuito Judicial Penal del estado Portuguesa, que había declarado con lugar un recurso de apelación y anulado una sentencia anterior que condenaba a Clemente José Delgado Betancourt por homicidio intencional calificado.\n\nLa Sala Constitucional determinó su competencia para conocer de la acción de amparo y solicitó información sobre el estado actual del caso que dio origen al amparo. Se estableció que la acción de amparo tiene por objeto una decisión dictada por la Sala Accidental de la Corte de Apelaciones, lo que permite a la Sala Constitucional conocer del asunto.\n\nFinalmente, se ordenó la notificación correspondiente y se advirtió sobre las sanciones por incumplimiento de lo solicitado, reafirmando la importancia de la tutela judicial efectiva y el debido proceso en el marco de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "homicidio",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0117_E23-0097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332626-0117-19224-2024-23-0097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.562265"
+}

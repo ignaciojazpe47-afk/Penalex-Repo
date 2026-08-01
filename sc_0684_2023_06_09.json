@@ -1,0 +1,25 @@
+{
+  "id": 30736,
+  "numero": "0684",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "El ciudadano Andrés Antonio Clemente Luigi interpuso una acción de amparo contra varias instituciones del Estado La Guaira, alegando la afectación de los derechos de sus hijos. La Sala Constitucional, tras revisar la solicitud, determinó que no se cumplían los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que no se presentó una exposición clara de los hechos ni se individualizaron las responsabilidades de las autoridades implicadas. Por lo tanto, se ordenó al solicitante corregir su escrito en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "inadmision",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0684_E21-0101.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325955-0684-9623-2023-21-0101.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.416503"
+}

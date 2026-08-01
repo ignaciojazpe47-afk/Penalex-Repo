@@ -1,0 +1,26 @@
+{
+  "id": 34224,
+  "numero": "1334",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Hermes Bello Martínez en defensa de HERMES DANIEL BELLO RODRÍGUEZ, debido a la falta de corrección en el escrito de solicitud conforme a lo requerido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se enfatiza que la falta de claridad en la solicitud impide a la Sala formarse una opinión sobre la situación jurídica del demandante.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "justicia",
+    "abogado",
+    "normativa"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1334_E21-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328538-1334-16823-2023-21-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.222767"
+}

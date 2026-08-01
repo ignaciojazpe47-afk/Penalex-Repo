@@ -1,0 +1,25 @@
+{
+  "id": 32984,
+  "numero": "1553",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Daniel Antonio Otayek Rodríguez contra la sentencia número 35 de la Sala de Casación Social. La decisión se basa en que no se admite la acción de amparo contra decisiones del Tribunal Supremo de Justicia, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala argumenta que el Tribunal Supremo es el máximo órgano del Poder Judicial y sus decisiones no están sujetas a control de ningún otro órgano.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "debido proceso",
+    "interés superior del niño",
+    "tutela judicial",
+    "decisiones judiciales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1553_E23-0522.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330608-1553-241123-2023-23-0522.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.426609"
+}

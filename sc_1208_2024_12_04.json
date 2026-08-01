@@ -1,0 +1,26 @@
+{
+  "id": 28248,
+  "numero": "1208",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000190 dictada el 2 de mayo de 2023 por la Sala de Casación Civil, que declaró perecido un recurso de casación. La revisión fue solicitada por la abogada Soraya Oxalides Moreno Melgarejo, en representación de DARCARMO GROUP, C.A., argumentando violaciones a la tutela judicial efectiva y al derecho de acceso a la justicia. La Sala Constitucional concluyó que la interpretación de la Sala de Casación Civil fue excesivamente formalista y contraria a los principios constitucionales, por lo que decidió anular la sentencia impugnada y restablecer el proceso al estado de sustanciación del recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "recurso de casación",
+    "derecho a la defensa",
+    "interpretación constitucional",
+    "seguridad jurídica",
+    "principios constitucionales"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 000190",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1208_E23-0736.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340144-1208-41224-2024-23-0736.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.045035"
+}

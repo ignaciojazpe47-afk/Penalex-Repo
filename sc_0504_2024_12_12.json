@@ -1,0 +1,22 @@
+{
+  "id": 19357,
+  "numero": "0504",
+  "fecha": "2024-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del TSJ decidió sobre un amparo constitucional interpuesto por el Instituto Nacional de Tierras (INTI) contra una medida cautelar dictada por el Juzgado Tercero de Primera Instancia Agraria de Barinas. La medida, que prohibía la paralización de labores en el fundo 'Rancho Moderno – Centro de Recría', fue considerada nula por la Sala, al argumentar que el juzgado actuó fuera de su jurisdicción, dado que existía un procedimiento administrativo previo. La Sala ordenó al juzgado informar sobre la vigencia de la medida cautelar y las notificaciones realizadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "jurisdicción agraria"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra medida cautelar agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0504_E20-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343055-0504-9425-2025-20-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.814963"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10872,
+  "numero": null,
+  "fecha": "2004-08-17",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "JULIO ELÍAS MAYAUDÓN GRAU",
+  "resumen": "La Corte de Apelaciones del Estado Portuguesa declaró inadmisible el recurso de apelación por extemporáneo, lo que motivó la interposición de un recurso de casación por el Fiscal Segundo. El Tribunal Supremo de Justicia, al revisar el caso, determinó que la apelación debía contarse desde la notificación y no desde la publicación del fallo. Por lo tanto, se declaró con lugar el recurso de casación, anulando la decisión de la Corte de Apelaciones y ordenando que se admita la apelación propuesta.",
+  "palabras_clave": [
+    "casación",
+    "apelación",
+    "inadmisibilidad",
+    "delito",
+    "robo"
+  ],
+  "titulo": "Sentencia de Casación sobre inadmisibilidad de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_b55a244512718b0ff4fd9011993d1593_EliasMayaudon.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:05.686191"
+}

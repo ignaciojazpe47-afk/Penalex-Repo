@@ -1,0 +1,26 @@
+{
+  "id": 32289,
+  "numero": "1444",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados de Carlos Antonio Da Silva Moreira, contra una decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La Sala, tras analizar el caso, determinó su competencia para conocer la acción y ordenó a la Corte de Apelaciones remitir información sobre el recurso de apelación ejercido por el accionante. La decisión se fundamenta en la falta de motivación de la sentencia recurrida, lo que generó un estado de indefensión para el demandante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "indefensión",
+    "Corte de Apelaciones",
+    "motivación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1444_E23-0791.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329318-1444-131023-2023-23-0791.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.392272"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27460,
+  "numero": "0781",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Cruz Mario Leal contra la Oficina de Asesoría Jurídica Nacional del Cuerpo de Investigaciones Científicas, Penales y Criminalísticas. La demanda se refiere a la exclusión del demandante del Sistema de Información Integral Policial (SIIPOL). La Sala determina que la competencia corresponde a los Juzgados de Municipio de la Jurisdicción Contencioso Administrativa, que aún no han sido creados, por lo que declina la competencia y ordena la remisión del expediente al Juzgado correspondiente en el Municipio Vargas del Estado La Guaira.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "jurisdicción",
+    "constitución",
+    "ley orgánica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0781_E23-0345.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338893-0781-131124-2024-23-0345.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.037605"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34111,
+  "numero": "1218",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de agosto de 2023, declaró no ha lugar la solicitud de revisión constitucional interpuesta por la abogada Mirva Esther Silva García, quien cuestionaba la sentencia N° 01275 dictada el 12 de diciembre de 2018 por la Sala Político-Administrativa. La Sala Político-Administrativa había declarado parcialmente con lugar el recurso contencioso administrativo de nulidad ejercido por la demandante, ordenando el pago de un año de inamovilidad laboral, pero confirmando su destitución por abuso de autoridad. La Sala Constitucional determinó que no se evidenciaron violaciones a los derechos constitucionales alegados por la solicitante y que la decisión impugnada se ajustaba a derecho.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "incongruencias",
+    "derechos",
+    "trabajo",
+    "jubilación",
+    "justicia",
+    "administrativa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 01275",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1218_E23-0416.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328422-1218-14823-2023-23-0416.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.865397"
+}

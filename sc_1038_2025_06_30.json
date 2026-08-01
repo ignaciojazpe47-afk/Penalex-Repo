@@ -1,0 +1,26 @@
+{
+  "id": 20638,
+  "numero": "1038",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por el abogado José Gregorio Amundarain Velásquez, actuando como defensor privado de los ciudadanos Mazón Eduardo Velasco González y Jonathan Jesús Rodríguez Prada. La apelación fue contra la sentencia de la Sala N° 2 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que el abogado no demostró su legitimación activa para actuar en nombre de los encausados, lo que es un requisito esencial para la procedencia del amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "proceso penal",
+    "tutela",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1038_E24-0779.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345307-1038-30625-2025-24-0779.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.515743"
+}

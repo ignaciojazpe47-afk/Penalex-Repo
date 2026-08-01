@@ -1,0 +1,27 @@
+{
+  "id": 38122,
+  "numero": "1245",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La abogada Patricia Alexandra Asuaje Alvarado, en representación de la sociedad mercantil PANADERÍA SIEMPRE JEHOVANISI, C.A., interpuso una acción de amparo constitucional contra una sentencia del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de Lara. La Sala Constitucional del TSJ, tras revisar el expediente, determinó que la parte actora no había impulsado el proceso desde marzo de 2022, configurándose así el abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora por la inacción procesal.",
+  "palabras_clave": [
+    "cualidad procesal",
+    "litisconsorcio",
+    "derecho de propiedad",
+    "comunidad hereditaria",
+    "acción judicial",
+    "Código Civil",
+    "sentencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1245_E21-0639.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322138-1245-151222-2022-21-0639.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.132583"
+}

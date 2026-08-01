@@ -1,0 +1,22 @@
+{
+  "id": 37247,
+  "numero": "0945",
+  "fecha": "2022-11-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible por extemporáneo el recurso de apelación interpuesto por los abogados de Alexander José Aponte Ramírez, contra la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala determina que el recurso fue presentado fuera del lapso legal establecido, ya que la apelación debió ser interpuesta dentro de los tres días siguientes a la publicación de la decisión, lo que no ocurrió en este caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "inadmisible"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0945_E19-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320633-0945-91122-2022-19-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.364319"
+}

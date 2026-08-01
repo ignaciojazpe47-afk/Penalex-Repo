@@ -1,0 +1,24 @@
+{
+  "id": 38237,
+  "numero": "0016",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con un recurso de apelación en un caso de divorcio y partición de bienes. La sentencia del tribunal inferior fue parcialmente con lugar y se anuló la decisión previa, desaplicando el artículo 173 del Código Civil, permitiendo así la partición y liquidación de la comunidad conyugal. La Sala enfatiza la importancia de la autonomía de la voluntad de las partes en el contexto de la justicia familiar y la necesidad de adaptar la aplicación de normas a la realidad social.",
+  "palabras_clave": [
+    "desaplicación",
+    "Código Civil",
+    "autonomía de la voluntad",
+    "divorcio",
+    "partición de bienes"
+  ],
+  "titulo": "Desaplicación del artículo 173 del Código Civil por control difuso",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0016_E19-0606.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311410-0016-4321-2021-19-0606.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.764142"
+}

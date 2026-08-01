@@ -1,0 +1,25 @@
+{
+  "id": 27178,
+  "numero": "0601",
+  "fecha": "2024-11-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos José Linares en representación de Gladys Josefina Linares Pérez, debido a la falta de legitimación del abogado para actuar en nombre de la demandante. La decisión se basa en la ausencia de la consignación del poder que acredite dicha representación, lo que constituye una causal de inadmisibilidad según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "legitimación",
+    "representación",
+    "inadmisibilidad",
+    "derechos",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-04_S0601_E23-1107.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338564-0601-41124-2024-23-1107.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.301009"
+}

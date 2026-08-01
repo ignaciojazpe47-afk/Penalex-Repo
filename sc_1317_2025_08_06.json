@@ -1,0 +1,23 @@
+{
+  "id": 21457,
+  "numero": "1317",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por los ciudadanos Anarelys del Valle Rodríguez Díaz y Carlos Alfredo Bolívar Ruiz, en relación a la sentencia del Juzgado Segundo de Primera Instancia que declaró con lugar el derecho al cobro de honorarios profesionales del abogado Carlos Alberto Bravo Heredia. La Sala determinó que la demanda de estimación e intimación de honorarios no debió ser admitida por no haberse acompañado el contrato de servicios profesionales, lo que vulneró el debido proceso y los derechos constitucionales de los demandados. En consecuencia, se declaró la nulidad de la sentencia y se ordenó la restitución de la propiedad del inmueble embargado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "debido proceso",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1317_E24-1089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346979-1317-6825-2025-24-1089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.756594"
+}

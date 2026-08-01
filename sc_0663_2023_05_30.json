@@ -1,0 +1,25 @@
+{
+  "id": 30617,
+  "numero": "0663",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los apoderados judiciales de Jorge Luis Ávila Barreto, en relación con la causa identificada con el alfanumérico 13C-S-1126-16. La solicitud fue considerada inadmisible, ya que no se cumplió con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia, específicamente en cuanto a la reclamación oportuna de las irregularidades alegadas en la instancia anterior.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "tutela judicial",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "recurso de casación",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0663_E17-1092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325751-0663-30523-2023-17-1092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.944829"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18707,
+  "numero": "0253",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de marzo de 2025, ha declarado con lugar la solicitud de revisión constitucional interpuesta por Keyla Key Barrios, anulando la sentencia del 13 de enero de 2023 del Juzgado Superior Tercero que había declarado parcialmente con lugar una apelación y una demanda de desalojo. La Sala determinó que existió inepta acumulación de pretensiones en la demanda original, lo que llevó a la inadmisibilidad de la misma. Se ordenó notificar a las partes y remitir copias certificadas de la decisión a los juzgados correspondientes.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "inepta acumulación",
+    "derechos constitucionales",
+    "procedimiento civil",
+    "garantías",
+    "justicia",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y anulación de decisiones previas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0253_E23-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342131-0253-5325-2025-23-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.874677"
+}

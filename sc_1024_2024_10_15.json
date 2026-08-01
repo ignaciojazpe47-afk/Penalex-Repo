@@ -1,0 +1,23 @@
+{
+  "id": 27846,
+  "numero": "1024",
+  "fecha": "2024-10-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional se pronuncia sobre la competencia para conocer de una acción de amparo constitucional interpuesta por los ciudadanos Douglas Gregorio Paredes González y Aiber Jesús Ojeda Ojeda, quienes alegan haber sido privados de libertad de manera arbitraria. La Sala establece su competencia para conocer del caso, dado que la acción se dirige contra la omisión de pronunciamiento de la Corte de Apelaciones en Materia de Delitos de Violencia contra la Mujer del Estado Carabobo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "competencia",
+    "violación de derechos"
+  ],
+  "titulo": "Decisión sobre la competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1024_E24-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339337-1024-211124-2024-24-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.633189"
+}

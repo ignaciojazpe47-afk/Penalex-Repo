@@ -1,0 +1,25 @@
+{
+  "id": 26618,
+  "numero": "0234",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Roraima Bermúdez González en contra de la decisión del Juzgado Superior Segundo en lo Civil, que declaró inadmisible la acción de amparo constitucional. La apelación se fundamentó en la necesidad de salvaguardar la tutela judicial efectiva y se ordenó a la Rectoría de la Circunscripción Judicial del Estado Carabobo informar sobre el estado del proceso de cumplimiento de contrato contra Inversiones Cumapira, C.A. La Sala consideró que era competente para conocer del recurso debido a la naturaleza constitucional del mismo.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "competencia",
+    "proceso civil",
+    "medidas cautelares",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0234_E21-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337800-0234-171024-2024-21-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.079132"
+}

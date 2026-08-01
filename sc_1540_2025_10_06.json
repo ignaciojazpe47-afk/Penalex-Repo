@@ -1,0 +1,25 @@
+{
+  "id": 22107,
+  "numero": "1540",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del estado Apure declaró inadmisible la acción de amparo constitucional interpuesta por Ysabel Teresa Jiménez Simanca y Delia Ysabel Simanca Contreras, representadas por los abogados Jean Carlos Martínez y Carlos Williams Verenzuela Aguirre. La decisión se fundamentó en que las demandantes no poseían cualidad procesal para solicitar copias del expediente, ya que no eran parte del proceso penal original. La Sala Constitucional del TSJ confirmó esta decisión, argumentando que la acción de amparo no puede prosperar cuando la supuesta violación ha cesado, lo que ocurrió cuando el tribunal de primera instancia se pronunció sobre la solicitud de copias.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "cualidad procesal",
+    "derechos constitucionales",
+    "decisión judicial",
+    "jurisprudencia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1540_E24-1220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348286-1540-61025-2025-24-1220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.195674"
+}

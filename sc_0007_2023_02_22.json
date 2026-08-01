@@ -1,0 +1,22 @@
+{
+  "id": 28887,
+  "numero": "0007",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, se pronunció sobre la solicitud de revisión constitucional interpuesta por Beatriz Josefina Márquez en representación de Luis Jerónimo Martins Ribeiro. La solicitud buscaba revisar una sentencia del Juzgado Superior Cuarto que había declarado sin lugar un recurso de apelación relacionado con una acción de amparo constitucional. La Sala determinó que la revisión no procedía, ya que no se evidenciaron violaciones a derechos fundamentales ni a la normativa constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derechos fundamentales"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0007_E22-0164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322804-0007-22223-2023-22-0164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.301268"
+}

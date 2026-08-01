@@ -1,0 +1,23 @@
+{
+  "id": 31662,
+  "numero": "1020",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Imponible en derecho",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por varios abogados y un ciudadano contra la designación de los rectores del Consejo Nacional Electoral, efectuada el 12 de junio de 2020. La parte demandante argumentó que dicha designación violaba derechos constitucionales, incluyendo el derecho al sufragio y el debido proceso. La Sala, tras analizar los argumentos, declaró improponible en derecho la acción de amparo, reafirmando la irrecurribilidad de sus decisiones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Consejo Nacional Electoral",
+    "derecho al sufragio",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional contra la designación de rectores del CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1020_E20-0222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327552-1020-31723-2023-20-0222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.903732"
+}

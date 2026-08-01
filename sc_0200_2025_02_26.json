@@ -1,0 +1,25 @@
+{
+  "id": 18635,
+  "numero": "0200",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por Alfredo Alejandro Colmenarez Marín, en relación a la sentencia n.° RC-000186 dictada por la Sala de Casación Civil. Se argumenta que la sentencia impugnada vulneró el derecho a la defensa y aplicó incorrectamente la norma procesal en materia de arrendamiento comercial.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "recurso extraordinario",
+    "arrendamiento",
+    "jurisdicción",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0200_E24-0968.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342012-0200-26225-2025-24-0968.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.751175"
+}

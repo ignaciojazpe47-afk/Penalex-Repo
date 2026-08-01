@@ -1,0 +1,26 @@
+{
+  "id": 21701,
+  "numero": "1448",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por los abogados de Alirio Antonio Linares Cristalino, quien buscaba impugnar la sentencia número 634-2018 de la Sala de Casación Civil. La Sala declaró inadmisible la solicitud, argumentando que el solicitante no tenía legitimidad para interponerla, ya que no había sido parte en el juicio original. Además, se destacó que las cuestiones planteadas eran de estricta legalidad ordinaria y no competían a la revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "legitimidad",
+    "competencia",
+    "sentencias firmes",
+    "interpretación constitucional",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1448_E19-0238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347319-1448-7825-2025-19-0238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.025664"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 41381,
+  "numero": "0093",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento de amparo interpuesto por varios ciudadanos por abandono del trámite, debido a la falta de impulso procesal durante más de seis meses. Se establece que la inacción prolongada del actor implica la pérdida del interés en la acción de amparo, lo que conlleva a la extinción de la instancia. Además, se impone una multa a los accionantes por el entorpecimiento de las labores del tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "procedimiento",
+    "interés",
+    "multa",
+    "derechos",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre abandono del trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0093_E16-0555.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310032-0093-14820-2020-16-0555.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.105922"
+}

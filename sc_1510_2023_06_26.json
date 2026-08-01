@@ -1,0 +1,23 @@
+{
+  "id": 32941,
+  "numero": "1510",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el desacato de la Corte de Apelaciones del Circuito Judicial Penal del estado Táchira a una sentencia anterior. Se ratificó la competencia de la Sala y se ordenó a la Corte de Apelaciones informar sobre el cumplimiento de un mandato en un plazo específico. Además, se impuso una multa a la Jueza Presidenta de la Corte por no suministrar la información requerida, advirtiendo sobre las consecuencias de la reincidencia en el desacato.",
+  "palabras_clave": [
+    "desacato",
+    "multa",
+    "Corte de Apelaciones",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre desacato a orden de la Sala Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1510_E23-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330564-1510-221123-2023-23-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.551466"
+}

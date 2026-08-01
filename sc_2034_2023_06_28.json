@@ -1,0 +1,24 @@
+{
+  "id": 33887,
+  "numero": "2034",
+  "fecha": "2023-06-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión de una sentencia dictada en 2014, relacionada con un accidente de trabajo que afectó a la familia de la demandante Ada Josefina Azócar de Márquez. La revisión fue solicitada debido a la insatisfacción con los montos de indemnización por daño moral, considerando la situación económica del país y la devaluación monetaria. La Sala declaró su competencia para conocer el caso y ordenó al tribunal correspondiente remitir el expediente para su análisis.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "accidente de trabajo",
+    "daño moral",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre revisión de fallo en caso de accidente de trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2034_E23-0671.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332004-2034-191223-2023-23-0671.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.539176"
+}

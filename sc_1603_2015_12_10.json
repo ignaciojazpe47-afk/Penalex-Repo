@@ -1,0 +1,24 @@
+{
+  "id": 68036,
+  "numero": "1603",
+  "fecha": "2015-12-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por Julio César Marcano, actuando como sustituto del Procurador General del Estado Monagas, contra la decisión del Juzgado Superior Segundo en lo Civil y Mercantil que declaró improcedente in limine litis la acción de amparo. La Sala fundamentó su decisión en que el tribunal de primera instancia actuó sin abuso de poder y sin extralimitación de funciones, considerando que no era necesaria la notificación a la Procuraduría General del Estado Monagas en este caso.\n\nSe argumentó que la acción de amparo se dirigía contra actuaciones y omisiones del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito, y que la falta de notificación a la Procuraduría no afectó los derechos del apelante, ya que no se demostró que la actividad del Grupo Telemático de Loterías GTL, S.A. tuviera carácter público o de interés general que justificara dicha notificación.\n\nFinalmente, la Sala confirmó la decisión del juzgado inferior, estableciendo que la apelación era improcedente y que no se habían violado derechos fundamentales en el proceso original, por lo que se mantuvo la sentencia de improcedencia del amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "improcedencia",
+    "notificación",
+    "derecho a la defensa",
+    "interés público"
+  ],
+  "titulo": "Sentencia sobre improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1603_E15-0122.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183747-1603-101215-2015-15-0122.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.595090"
+}

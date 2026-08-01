@@ -1,0 +1,26 @@
+{
+  "id": 30283,
+  "numero": "0502",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por el abogado Christian García Castrillo en representación de José Rafael Centeno Moreno, contra la sentencia de la Sala Accidental N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. La decisión se fundamenta en que la acción fue presentada fuera del lapso de caducidad establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que transcurrieron más de diez meses desde la sentencia impugnada hasta la interposición del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "justicia",
+    "víctima",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "Constitución"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0502_E22-0548.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325123-0502-15523-2023-22-0548.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.036135"
+}

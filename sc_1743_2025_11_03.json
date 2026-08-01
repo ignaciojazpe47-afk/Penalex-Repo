@@ -1,0 +1,25 @@
+{
+  "id": 22794,
+  "numero": "1743",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por la abogada Yulisneida Ramírez en representación de los ciudadanos Ronmy Salimey Mejías y Jhonny Orlando Acero Linares. La solicitud se fundamenta en la revisión de decisiones previas del Tribunal Quinto de Primera Instancia en Funciones de Control, que habían declarado sin lugar la solicitud de sobreseimiento y admitido la acusación en su contra. La Sala considera que no se han presentado argumentos que justifiquen la revisión, ya que los puntos planteados ya fueron resueltos en instancias anteriores y no se evidencia violación de derechos constitucionales.",
+  "palabras_clave": [
+    "corrupción",
+    "proceso penal",
+    "acusación",
+    "derecho a defensa",
+    "pruebas",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1743_E25-0247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349483-1743-31125-2025-25-0247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.527819"
+}

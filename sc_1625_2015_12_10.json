@@ -1,0 +1,23 @@
+{
+  "id": 68070,
+  "numero": "1625",
+  "fecha": "2015-12-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de amparo interpuesta por un grupo de ciudadanos contra sentencias que confirmaron un desalojo. Se argumenta que los tribunales que conocieron el caso eran incompetentes, ya que se trataba de un asunto agrario. La Sala anula las sentencias previas y ordena remitir el expediente a un tribunal agrario para su evaluación. Se destaca la vulneración del derecho a la defensa por la falta de notificación adecuada a los demandados.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "competencia agraria",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Desalojo Agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1625_E13-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183789-1625-101215-2015-13-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.615501"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 61195,
+  "numero": "1160",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 1.126 del 1 de diciembre de 2015, dictada por la Sala de Casación Social, que declaró sin lugar el recurso de casación interpuesto por Yecenia Pastora Angulo Agüero, quien solicitaba el otorgamiento de jubilación especial. La Sala Constitucional determinó que la decisión de la Sala de Casación Social vulneró principios constitucionales como la seguridad jurídica y el derecho a la defensa, al no considerar adecuadamente la relación laboral de la demandante con Telecomunicaciones Movilnet, C.A. y su derecho a los beneficios laborales correspondientes.\n\nLa Sala concluyó que la sentencia recurrida no analizó las defensas planteadas por la parte demandada y que la aplicación del Manual de Beneficios para el Personal de Confianza de CANTV no era procedente en este caso, dado que la demandante había trabajado para Movilnet. Por lo tanto, se declaró ha lugar la revisión y se anuló la sentencia de la Sala de Casación Social, ordenando que se dictara una nueva decisión sobre el recurso de casación interpuesto.\n\nFinalmente, la Sala Constitucional reafirmó la importancia de la seguridad jurídica y la confianza legítima en el ámbito laboral, estableciendo que los beneficios laborales no deben extenderse indiscriminadamente entre empresas del mismo grupo económico sin un análisis adecuado de las circunstancias particulares de cada caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación especial",
+    "CANTV",
+    "Movilnet",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de jubilación especial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1160_E16-0359.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193954-1160-151216-2016-16-0359.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.100940"
+}

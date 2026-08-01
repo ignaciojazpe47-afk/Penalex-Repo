@@ -1,0 +1,25 @@
+{
+  "id": 22088,
+  "numero": "1521",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Alcides David Oviedo Estupiñán, debido a la falta de consignación de la decisión impugnada. La acción se fundamentó en la alegación de que una sentencia previa había sido dictada en favor de Oscar Rafael Zambrano González, quien actuó en nombre de una sociedad mercantil. La Sala establece su competencia para conocer del caso, pero resuelve que la falta de documentación necesaria impide el avance del proceso.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "carga procesal",
+    "decisiones judiciales",
+    "tutela constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1521_E25-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348267-1521-61025-2025-25-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.197360"
+}

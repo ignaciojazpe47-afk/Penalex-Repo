@@ -1,0 +1,22 @@
+{
+  "id": 42602,
+  "numero": "0085",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por David Cruz Machado contra la sentencia dictada el 11 de junio de 2014 por la Corte Segunda de lo Contencioso Administrativo. En dicha sentencia, se revocó un fallo anterior que había declarado parcialmente con lugar un recurso contencioso administrativo funcionarial interpuesto por el demandante. La Corte Segunda había fundamentado su decisión en la existencia de pruebas que justificaban la destitución del demandante por maltrato a ciudadanos en su función pública.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "maltrato",
+    "destitución"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0085_E18-0269.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304631-0085-25419-2019-18-0269.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.593606"
+}

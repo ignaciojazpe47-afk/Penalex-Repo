@@ -1,0 +1,27 @@
+{
+  "id": 36291,
+  "numero": "0654",
+  "fecha": "2022-08-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Guillermo Antonio Izaguirre Pérez en representación de Antonio José Sulbarán Durán, contra la sentencia del Juzgado Superior en lo Civil, Mercantil y Tránsito de Miranda. La acción se fundamenta en la supuesta violación de derechos constitucionales por parte del fallo que declaró parcialmente con lugar un recurso de apelación y una demanda por resolución de contrato de arrendamiento. La Sala argumenta que la falta de legitimidad del apoderado judicial impide el avance del proceso.",
+  "palabras_clave": [
+    "arrendamiento",
+    "resolución de contrato",
+    "desalojo",
+    "incumplimiento",
+    "procedimiento judicial",
+    "normativa",
+    "derechos",
+    "obligaciones"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Resolución de Contrato de Arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-18_S0654_E21-0644.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319317-0654-18822-2022-21-0644.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.205739"
+}

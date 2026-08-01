@@ -1,0 +1,26 @@
+{
+  "id": 20289,
+  "numero": "0874",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por los fiscales del Ministerio Público contra la sentencia de la Sala n.° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que declaró sin lugar los recursos de apelación interpuestos. La Sala Constitucional determinó que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró derechos constitucionales, por lo que declaró no ha lugar la solicitud de revisión. La sentencia de la Corte de Apelaciones había confirmado el sobreseimiento de la causa a favor del ciudadano SHAOUKAT GEORGE BESERENI BANNA por falta de requisitos de procedibilidad en la acusación fiscal.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "incongruencia omisiva",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "sentencia",
+    "jurisprudencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de la Corte de Apelaciones del Estado Aragua",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0874_E25-0368.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344668-0874-11625-2025-25-0368.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.293364"
+}

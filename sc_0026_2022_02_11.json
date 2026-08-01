@@ -1,0 +1,24 @@
+{
+  "id": 34346,
+  "numero": "0026",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La ciudadana Elizabeth Alemán Bali interpuso una acción de amparo constitucional contra una sentencia que declaró improcedente una recusación. La Sala Constitucional del TSJ, tras revisar el expediente, determinó que la parte actora no había realizado actuaciones válidas para impulsar el proceso desde diciembre de 2020, lo que se interpretó como abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sanciones",
+    "debido proceso",
+    "tutela judicial",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0026_E20-0132.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315538-0026-11222-2022-20-0132.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.714856"
+}

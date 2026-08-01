@@ -1,0 +1,23 @@
+{
+  "id": 23701,
+  "numero": "1990",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de revisión constitucional presentada por María Claret Muñoz Lugo, declara con lugar la solicitud y anula la decisión del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito del Estado Aragua, que había decretado carecer de jurisdicción para decidir sobre un recurso de apelación. La Sala argumenta que el juzgado superior confundió jurisdicción con competencia y no cumplió con su deber de homologar una transacción entre las partes, lo que vulneró derechos fundamentales de la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "transacción",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de jurisdicción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1990_E25-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351703-1990-101225-2025-25-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.744102"
+}

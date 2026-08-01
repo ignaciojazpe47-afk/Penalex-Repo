@@ -1,0 +1,24 @@
+{
+  "id": 23406,
+  "numero": "1921",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar por decaimiento del objeto",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2025, declaró competente para conocer la solicitud de revisión constitucional presentada por Elisam Nasser en representación de Astrid Denisse Espinoza Guzmán. La solicitud se refería a la sentencia dictada el 7 de noviembre de 2024 por la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolívar, que había anulado una sentencia absolutoria y ordenado un nuevo juicio. Sin embargo, la Sala Constitucional determinó que la sentencia objeto de revisión había sido anulada previamente por la Sala de Casación Penal, lo que llevó a declarar que no había lugar a la revisión por decaimiento del objeto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "Corte de Apelaciones",
+    "anulación",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1921_E25-0081.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350807-1921-281125-2025-25-0081.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.794519"
+}

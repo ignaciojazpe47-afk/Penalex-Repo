@@ -1,0 +1,26 @@
+{
+  "id": 21678,
+  "numero": "1425",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Gino José Martocullio Rodríguez, representado por la abogada Ibeth Del Valle Weky Guevara, contra una sentencia del Tribunal Superior en lo Civil que declaró inadmisible un recurso de apelación. La Sala, tras analizar los argumentos presentados, determinó que la decisión del Tribunal Superior vulneró derechos fundamentales como el debido proceso y el derecho a la defensa, por lo que se declaró con lugar la acción de amparo. Además, se impuso una multa a la parte actora por abandono de trámite debido a su inactividad en el proceso.",
+  "palabras_clave": [
+    "abandonode trámite",
+    "amparo constitucional",
+    "inactividad procesal",
+    "multa",
+    "extinción de instancia",
+    "derechos constitucionales",
+    "sanción procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1425_E24-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347296-1425-7825-2025-24-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.028616"
+}

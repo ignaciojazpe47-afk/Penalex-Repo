@@ -1,0 +1,26 @@
+{
+  "id": 33804,
+  "numero": "1951",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, declara inadmisible la solicitud de revisión constitucional presentada por el abogado Eric Lorenzo Pérez Sarmiento en representación de Edwin Horacio Virgüez Pérez. La decisión impugnada, dictada por la Sala de Casación Penal, había declarado inadmisible una solicitud de avocamiento por falta de legitimidad del apoderado del solicitante. La Sala Constitucional establece que la falta de presentación de la copia certificada del fallo cuya revisión se solicita es un motivo suficiente para declarar la inadmisibilidad de la solicitud.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "carga procesal",
+    "copia certificada",
+    "revisión",
+    "sentencia",
+    "tribunal",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1951_E19-0516.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331921-1951-141223-2023-19-0516.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.436755"
+}

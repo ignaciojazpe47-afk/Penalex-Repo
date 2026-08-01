@@ -1,0 +1,23 @@
+{
+  "id": 29774,
+  "numero": "0307",
+  "fecha": "2023-04-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo constitucional interpuesta por Daniel Damián de Nueva Segovia Montero, contra la omisión del Tribunal Cuarto de Primera Instancia de Protección de Niños, Niñas y Adolescentes del Estado Lara. Se anula el auto de fecha 4 de abril de 2022, ordenando al juzgado oír el recurso de apelación presentado por el demandante el 21 de marzo de 2022, relacionado con la custodia de su hija.\nLa decisión se fundamenta en la violación del derecho a la defensa y al debido proceso, ya que el tribunal no se pronunció sobre el recurso de apelación, lo que vulneró los derechos del demandante y de su hija. La Sala también destaca la importancia de notificar a todas las partes involucradas en el proceso de amparo, lo que no se cumplió en este caso.\nFinalmente, se ordena que otro Juzgado Superior se pronuncie sobre la admisibilidad de la acción de amparo y notifique a la ciudadana María Daniela Plaza Gómez, en su condición de tercera interesada, para que comparezca a la audiencia pública correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0307_E22-0407.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324394-0307-18423-2023-22-0407.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.817310"
+}

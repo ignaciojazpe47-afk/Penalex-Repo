@@ -1,0 +1,22 @@
+{
+  "id": 36649,
+  "numero": "0731",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por Edgar Constantino Verea Anido, en relación a una sentencia de la Sala de Casación Civil. La decisión de la Sala de Casación Civil había declarado con lugar un recurso extraordinario de casación y nulidad de un fallo anterior, así como la resolución de un contrato. La Sala Constitucional, tras evaluar la solicitud, decidió suspender los efectos de la sentencia objeto de revisión, considerando que existían elementos que justificaban la intervención del máximo intérprete constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia de casación",
+    "suspensión de efectos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0731_E22-0061.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319820-0731-141022-2022-22-0061.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.441095"
+}

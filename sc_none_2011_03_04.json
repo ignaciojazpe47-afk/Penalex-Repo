@@ -1,0 +1,18 @@
+{
+  "id": 8277,
+  "numero": null,
+  "fecha": "2011-03-04",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los defensores de varios ciudadanos contra la decisión de la Corte de Apelaciones del Estado Bolívar, que había declarado sin lugar un recurso de apelación. La Sala argumenta que la Corte de Apelaciones examinó los argumentos de nulidad presentados por la defensa, aunque no se pronunció expresamente sobre ellos, lo que no constituye una omisión que justifique el amparo.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2011_MendozaJover.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.552828"
+}

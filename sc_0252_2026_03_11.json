@@ -1,0 +1,27 @@
+{
+  "id": 15950,
+  "numero": "0252",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de amparo interpuesta por Nesaida del Carmen Centeno Espinoza, debido a la inepta acumulación de pretensiones. La demanda cuestionaba la falta de notificación de la tasación de costas y una sentencia anterior del Tribunal Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario. La Sala concluye que las pretensiones deben ser tratadas por tribunales distintos, lo que lleva a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "notificación",
+    "costas procesales",
+    "derecho de defensa",
+    "debido proceso",
+    "nulidad",
+    "arancel judicial",
+    "amparo",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0252_E25-0683.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353557-0252-11326-2026-25-0683.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.580622"
+}

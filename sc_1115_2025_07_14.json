@@ -1,0 +1,27 @@
+{
+  "id": 20914,
+  "numero": "1115",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de revisión presentada por Daniel Alexander Zapata Zuria, declara su competencia para conocer del caso. La solicitud se fundamenta en la supuesta violación de derechos constitucionales en la sentencia N° 000145 dictada por la Sala de Casación Civil, que declaró sin lugar un recurso de hecho. Tras analizar los argumentos, la Sala concluye que no existen infracciones que justifiquen la revisión, por lo que se declara NO HA LUGAR a la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "discrecionalidad",
+    "interpretación de normas",
+    "derechos constitucionales",
+    "debido proceso",
+    "transacción",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1115_E24-0456.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346022-1115-14725-2025-24-0456.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.392316"
+}

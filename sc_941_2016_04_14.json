@@ -1,0 +1,23 @@
+{
+  "id": 60220,
+  "numero": "941",
+  "fecha": "2016-04-14",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la acción de amparo constitucional interpuesta por Daniel Armando Hernández Vargas, decide declarar con lugar la solicitud de decaimiento automático de la medida privativa preventiva de libertad. Se argumenta que la Corte de Apelaciones no consideró adecuadamente los derechos fundamentales del quejoso, incluyendo la tutela judicial efectiva y el debido proceso, al no ordenar su libertad tras el transcurso de más de dos años sin juicio. La Sala concluye que la dilación en el proceso no es imputable al demandante, sino a fallas en la administración de justicia.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Debido Proceso",
+    "Libertad Personal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Daniel Armando Hernández Vargas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-04_S941_E2016-0386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/191899-941-41116-2016-2016-0386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:17.510791"
+}

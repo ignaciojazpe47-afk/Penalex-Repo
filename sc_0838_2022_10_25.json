@@ -1,0 +1,25 @@
+{
+  "id": 36902,
+  "numero": "0838",
+  "fecha": "2022-10-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁZQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión del fallo N° 426 del 10 de agosto de 2018, dictado por la Sala de Casación Civil. En este fallo, se declaró con lugar el recurso de casación y se anuló una sentencia anterior, ordenando a la demandada cumplir con una cláusula de un contrato de opción de compra venta. La parte demandante alegó violaciones al debido proceso y a la defensa, solicitando la nulidad de la sentencia de la Sala de Casación Civil.\nLa Sala Constitucional, tras analizar las alegaciones, determinó que no existían fundamentos suficientes para activar la revisión, ya que las denuncias no constituían una violación de derechos o principios constitucionales. En consecuencia, se declaró que la revisión solicitada no procedía y se reafirmó la competencia de la Sala para conocer del caso.\nFinalmente, se decidió que la solicitud de revisión presentada por los abogados de la demandante no tenía lugar, manteniendo la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "interpretación normativa",
+    "supremacía constitucional",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del fallo N° 426",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-25_S0838_E19-0313.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320220-0838-251022-2022-19-0313.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.088497"
+}

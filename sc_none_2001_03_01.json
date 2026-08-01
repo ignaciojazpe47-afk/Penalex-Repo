@@ -1,0 +1,27 @@
+{
+  "id": 2321,
+  "numero": null,
+  "fecha": "2001-03-01",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Se ADMITE la presente acción de amparo constitucional.",
+  "ponente": "Antonio J. García García",
+  "resumen": "El 16 de enero de 2001, Henrique Capriles Radonski, Alcalde del Municipio Baruta, interpuso una acción de amparo constitucional contra las licencias otorgadas por la Comisión Nacional de Casinos para el funcionamiento de dos salas de bingo en su jurisdicción. Argumentó que dichas licencias violaban derechos constitucionales relacionados con la participación ciudadana y la legalidad de las actuaciones administrativas. La Sala Constitucional admitió la acción, considerando que las actuaciones de la Comisión implicaban una amenaza a los derechos de los ciudadanos, y que la acción no estaba sujeta a caducidad debido a su naturaleza de orden público.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "licencias",
+    "salas de bingo",
+    "participación ciudadana",
+    "legalidad",
+    "derechos",
+    "Comisión Nacional de Casinos"
+  ],
+  "titulo": "Amparo Constitucional contra Licencias de Salas de Bingo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-01_Constitucional_01_AntonioJ.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.712862"
+}

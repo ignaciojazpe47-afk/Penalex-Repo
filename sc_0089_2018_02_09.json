@@ -1,0 +1,25 @@
+{
+  "id": 45425,
+  "numero": "0089",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad por omisión parlamentaria interpuesta por varios ciudadanos. La demanda se refería a la incorporación de ciertos ciudadanos como diputados de la Asamblea Nacional y la usurpación de funciones. La Sala declaró su competencia para conocer el caso y, tras analizar las disposiciones pertinentes, decidió que la acción era inadmisible debido a que la pretensión ya había sido decidida en un fallo anterior, operando así la cosa juzgada.",
+  "palabras_clave": [
+    "nulidad",
+    "omisión parlamentaria",
+    "usurpación de funciones",
+    "cosa juzgada",
+    "Asamblea Nacional",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre nulidad por omisión parlamentaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0089_E16-0763.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207647-0089-9218-2018-16-0763.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.435504"
+}

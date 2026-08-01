@@ -1,0 +1,24 @@
+{
+  "id": 35294,
+  "numero": "0269",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Nadia Badra, presidenta de la sociedad mercantil Productos Alimenticios Nadia Badra, C.A., contra la sentencia del Tribunal Superior Noveno que declaró con lugar la demanda de desalojo por falta de pago. La Sala determinó que el tribunal inferior había valorado adecuadamente las pruebas y que la parte demandada no había presentado contestación ni pruebas para desvirtuar los alegatos de la actora. Por lo tanto, se declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "carga probatoria",
+    "notificación",
+    "debido proceso",
+    "pruebas",
+    "derecho procesal"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0269_E22-0249.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317721-0269-7722-2022-22-0249.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.236590"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 49754,
+  "numero": "0795",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Irwin Erardo Lugo Barrera contra la sentencia del Juzgado Superior Segundo que declaró sin lugar su apelación. La Sala determinó que hubo subversión procesal al no resolverse las cuestiones previas planteadas por el demandado, lo que vulneró su derecho a la defensa y al debido proceso. En consecuencia, se anuló la sentencia impugnada y se ordenó al Juzgado de Primera Instancia resolver las cuestiones previas de acuerdo con el Código de Procedimiento Civil.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "honorarios profesionales",
+    "debido proceso",
+    "subversión procesal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre estimación e intimación de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0795_E26-0128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356493-0795-10626-2026-26-0128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.932201"
+}

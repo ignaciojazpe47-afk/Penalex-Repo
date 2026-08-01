@@ -1,0 +1,25 @@
+{
+  "id": 33893,
+  "numero": "2040",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Asdrúbal José Placeres Aguey, en representación del ciudadano Jean Carlos García Rondón, contra la decisión del Tribunal Primero de Primera Instancia que declaró improcedente la solicitud de cambio de sitio de reclusión. La Corte de Apelaciones había fundamentado su decisión en la existencia de medios judiciales ordinarios idóneos para hacer valer los derechos del accionante, permitiendo la revisión de la medida de privación de libertad cada tres meses.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "salud",
+    "reclusión",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2040_E23-1074.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332010-2040-191223-2023-23-1074.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.694518"
+}

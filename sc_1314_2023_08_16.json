@@ -1,0 +1,25 @@
+{
+  "id": 34206,
+  "numero": "1314",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de agosto de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Carlos Simón Bello Renfigo en representación del Capitán de Navío Luis Humberto de la Sotta Quiroga. La Corte Marcial había dictado una sentencia el 20 de febrero de 2019, la cual fue apelada por el demandante, quien alegó omisiones en el cumplimiento de medidas cautelares relacionadas con la salud de su defendido y el lugar de reclusión. Sin embargo, la Sala consideró que la acción de amparo no era procedente debido a que el Tribunal Militar Primero de Control ya no tenía competencia sobre el caso, habiéndose pasado a fase de juicio.",
+  "palabras_clave": [
+    "derechos humanos",
+    "justicia militar",
+    "amparo constitucional",
+    "tribunales",
+    "salud",
+    "reclusión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional del Capitán de Navío Luis Humberto de la Sotta Quiroga",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1314_E19-0188.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328518-1314-16823-2023-19-0188.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.226291"
+}

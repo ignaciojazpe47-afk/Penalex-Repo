@@ -1,0 +1,26 @@
+{
+  "id": 30310,
+  "numero": "0528",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Daniel Urbaez Franklin, en representación de las ciudadanas Alba Josefa Escalante Rivas y Alba Coromoto Mejías Escalante. La acción se dirigía contra la sentencia de la Sala 6 de la Corte de Apelaciones que declaró inadmisible la solicitud de recusación presentada por el abogado en el proceso penal número 3J-1387-22, relacionado con faltas de bote de basura y escombros, perturbación a la tranquilidad pública y privada, y peligro de daños.\n\nLa Sala Constitucional determinó que la pretensión de amparo no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, y que la decisión de la Corte de Apelaciones fue ajustada a derecho. Se concluyó que la recusación presentada carecía de fundamentación suficiente y que no se demostraron las causales establecidas en el Código Orgánico Procesal Penal.\n\nFinalmente, se ordenó la publicación y registro de la sentencia, así como el archivo del expediente, reafirmando la competencia de la Sala Constitucional para conocer de acciones de amparo contra decisiones de última instancia de tribunales superiores.",
+  "palabras_clave": [
+    "recusación",
+    "juez natural",
+    "imparcialidad",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "carga de la prueba",
+    "garantías constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0528_E23-0007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325155-0528-16523-2023-23-0007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.869048"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24248,
+  "numero": "0120",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 19 de febrero de 2024, confirmó la sentencia del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara, que declaró inadmisible la acción de amparo interpuesta por Rubén de Jesús Pirela Rodríguez. La inadmisibilidad se fundamentó en la falta de presentación del poder que acreditara la representación del abogado Luis Gerardo Pineda Torres, quien actuó en nombre del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "poder",
+    "inadmisibilidad",
+    "representación judicial",
+    "carga procesal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0120_E16-0987.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332629-0120-19224-2024-16-0987.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.560826"
+}

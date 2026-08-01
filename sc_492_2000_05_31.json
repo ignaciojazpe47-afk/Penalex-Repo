@@ -1,0 +1,18 @@
+{
+  "id": 4920,
+  "numero": "492",
+  "fecha": "2000-05-31",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por las abogadas de Inversiones Kingtaurus, C.A. contra una decisión del Juzgado Superior Primero del Trabajo. Se argumenta que no se vulneraron los derechos a la defensa y al debido proceso, ya que la juez temporal actuó dentro del lapso establecido y no era necesario notificar a las partes sobre su abocamiento. La Sala concluye que la acción de amparo no cumple con los requisitos para su procedencia.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_5_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.734532"
+}

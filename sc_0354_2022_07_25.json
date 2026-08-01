@@ -1,0 +1,27 @@
+{
+  "id": 35559,
+  "numero": "0354",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara NO HA LUGAR la solicitud de revisión constitucional presentada por el abogado Marco Antonio Aponte, en representación de Frank Robín Espinoza García. La solicitud se refiere a la sentencia dictada el 4 de octubre de 2016, que declaró sin lugar el recurso de apelación contra un fallo interlocutorio del Juzgado Noveno de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Lara.\n\nLa Sala argumenta que la sentencia objeto de revisión no es definitivamente firme, sino interlocutoria, y que no se ajusta a los parámetros establecidos para la revisión constitucional. Se enfatiza que la revisión constitucional tiene como objetivo garantizar la uniformidad en la interpretación de normas y principios constitucionales, y que la solicitud presentada refleja un desacuerdo con la decisión judicial, sin que se evidencie una vulneración de derechos o principios constitucionales.\n\nFinalmente, se concluye que la revisión solicitada no contribuye a la finalidad de la revisión constitucional, por lo que se declara la inadmisibilidad de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencias",
+    "derechos",
+    "debido proceso",
+    "jurisdicción",
+    "protección de niños",
+    "interpretación",
+    "normas"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de fallo de régimen de convivencia familiar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0354_E17-0044.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318115-0354-25722-2022-17-0044.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.771147"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 52653,
+  "numero": "528",
+  "fecha": "2017-07-03",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Antonio José Benavides Torres contra la Fiscal General de la República, Luisa Ortega Díaz. Se argumentó que la citación para comparecer como imputado violaba sus derechos constitucionales, incluyendo la presunción de inocencia y el debido proceso, dado su cargo como Jefe de Gobierno del Distrito Capital, que le otorga prerrogativas procesales especiales. La Sala decidió declarar con lugar la acción de amparo, anulando la citación y cualquier actuación de la Fiscal General que pretendiera iniciar una investigación sin el debido antejuicio de mérito.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "presunción de inocencia",
+    "debido proceso",
+    "Fiscal General"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Antonio José Benavides Torres",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-07-03_S528_E17-0711.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/200777-528-3717-2017-17-0711.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.605482"
+}

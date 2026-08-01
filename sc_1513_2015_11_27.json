@@ -1,0 +1,22 @@
+{
+  "id": 67709,
+  "numero": "1513",
+  "fecha": "2015-11-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Tribunal Tercero de Primera Instancia de Mediación, que había declarado inadmisible la demanda de amparo interpuesta por Laura del Carmen Hidalgo Mejías. La Sala determinó que las sentencias interlocutorias dictadas en el proceso original violaron derechos constitucionales al debido proceso y a la tutela judicial efectiva. En consecuencia, se anuló parcialmente la decisión del tribunal inferior y se ordenó el archivo del expediente, declarando sin lugar el recurso de apelación interpuesto contra el fallo del Tribunal Superior de Protección de Niños, Niñas y Adolescentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos constitucionales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-27_S1513_E15-0901.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183297-1513-271115-2015-15-0901.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.635986"
+}

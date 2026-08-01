@@ -1,0 +1,27 @@
+{
+  "id": 34225,
+  "numero": "1335",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Manuel Da Silva Matos, en su calidad de Presidente de la sociedad mercantil SILMOR C.A., contra la sociedad mercantil INILEVER ANDINA VENEZUELA S.A. La acción fue considerada improcedente in limine litis, ya que no se evidenció la existencia de nuevas infracciones constitucionales que justificaran la revisión de la decisión anterior. La Sala reafirma su competencia para conocer del caso y destaca que la acción de amparo no es el mecanismo adecuado para dirimir controversias de naturaleza contractual.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "amparo",
+    "constitucional",
+    "infracciones",
+    "derechos_humanos",
+    "justicia",
+    "contrato"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1335_E21-0649.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328539-1335-16823-2023-21-0649.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.222514"
+}

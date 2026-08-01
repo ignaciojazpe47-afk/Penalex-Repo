@@ -1,0 +1,25 @@
+{
+  "id": 36907,
+  "numero": "0843",
+  "fecha": "2022-10-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la sociedad mercantil Distribuidora La Gran Veleta, C.A. contra el auto proferido por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito, que ordenó la ejecución forzosa de una sentencia. La Sala argumenta que la apelación fue presentada de manera extemporánea, ya que no se agotaron las vías ordinarias antes de recurrir a la acción de amparo. Además, se resalta que la parte solicitante no presentó motivos suficientes para justificar la elección de la vía constitucional sobre la ordinaria.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución forzosa",
+    "derechos económicos",
+    "tutela judicial efectiva",
+    "sociedad mercantil",
+    "abuso de poder"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-26_S0843_E21-0540.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320225-0843-261022-2022-21-0540.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.092750"
+}

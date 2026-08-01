@@ -1,0 +1,26 @@
+{
+  "id": 30358,
+  "numero": "0564",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Ha Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia nro. 1882, dictada el 10 de diciembre de 2014, por la Sala de Casación Social, que declaró sin lugar el recurso de casación interpuesto por la parte demandante. El solicitante argumentó violaciones al orden público procesal y derechos fundamentales, pero la Sala consideró que no se presentaron fundamentos suficientes para la revisión, ya que la inconformidad expresada no constituía una vulneración de derechos constitucionales.",
+  "palabras_clave": [
+    "nulidad",
+    "casación",
+    "contrato",
+    "hipoteca",
+    "tutela judicial",
+    "confianza legítima",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0564_E15-1222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325208-0564-16523-2023-15-1222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.864335"
+}

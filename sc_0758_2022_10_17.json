@@ -1,0 +1,26 @@
+{
+  "id": 36747,
+  "numero": "0758",
+  "fecha": "2022-10-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por el abogado William Alberto Ramos Aguilar en representación de Yoly Margarita Rangel de Cedeño. La acción fue considerada improcedente in limine litis, ya que la parte actora no logró demostrar la violación de derechos constitucionales en el fallo del Juzgado Superior que confirmó la decisión de un tribunal inferior sobre una oferta real de pago. La Sala concluye que la citación tácita de la demandante se realizó correctamente, por lo que no se vulneraron sus derechos a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "apelación",
+    "derecho a la defensa",
+    "debido proceso",
+    "indefensión",
+    "citación tácita",
+    "Código de Procedimiento Civil",
+    "garantías constitucionales"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-17_S0758_E16-0878.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320012-0758-171022-2022-16-0878.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.112144"
+}

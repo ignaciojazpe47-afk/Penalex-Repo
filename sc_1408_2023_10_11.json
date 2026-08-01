@@ -1,0 +1,27 @@
+{
+  "id": 32255,
+  "numero": "1408",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ recibió un recurso de amparo constitucional interpuesto por Arelis Liseth Petit Chacín, a través de su abogado Francisco Humbria Vera, contra una sentencia de la Sala 3 de la Corte de Apelaciones del Estado Zulia que declaró inadmisible su acción de amparo. La Sala determinó su competencia para conocer el caso y decidió declarar con lugar el recurso de amparo, ordenando a la Secretaría que realice las diligencias necesarias para informar sobre el estado del proceso penal en curso por estafa calificada contra la demandante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "proceso",
+    "nulidad",
+    "estafa",
+    "Código Penal",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1408_E23-0819.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329283-1408-111023-2023-23-0819.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.402288"
+}

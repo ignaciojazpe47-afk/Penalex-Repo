@@ -1,0 +1,27 @@
+{
+  "id": 1937,
+  "numero": null,
+  "fecha": "2000-07-28",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "El ciudadano alemán Friedrich Wilhelm Siegel interpuso una acción de amparo constitucional contra la República Bolivariana de Venezuela y varias autoridades, alegando violaciones a sus derechos de petición y participación ciudadana en asuntos políticos. Siegel argumentó que sus propuestas sobre un nuevo sistema monetario electrónico no recibieron respuestas adecuadas de las autoridades competentes. La Sala Constitucional, tras analizar el caso, determinó que no hubo violación a los derechos alegados, ya que la negativa a apoyar su proyecto no constituye una infracción constitucional. Por lo tanto, la acción fue declarada improcedente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "petición",
+    "participación ciudadana",
+    "sistema monetario",
+    "Hugo Chávez",
+    "Banco Central",
+    "Venezuela"
+  ],
+  "titulo": "Acción de amparo constitucional de Friedrich Wilhelm Siegel",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-07-28_PoliticoAdmin_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.727304"
+}

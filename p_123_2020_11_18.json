@@ -1,0 +1,23 @@
+{
+  "id": 41659,
+  "numero": "123",
+  "fecha": "2020-11-18",
+  "anio": 2020,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Improcedente",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia de Venezuela declara improcedente la solicitud de extradición de los ciudadanos María Eugenia Cuello Sanz y Rosman Javier Gámez Cádiz, presentada por la República Francesa, en virtud de que ambos son venezolanos por nacimiento, lo que prohíbe su extradición según la Constitución venezolana. No obstante, el Tribunal asume el compromiso de enjuiciar a los solicitados por los delitos de homicidio, prostitución forzada y legitimación de capitales, tipificados en la legislación venezolana.",
+  "palabras_clave": [
+    "extradición",
+    "homicidio",
+    "prostitución",
+    "legitimación de capitales"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición de ciudadanos venezolanos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2020-11-18_S123_E20-19.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/noviembre/310697-123-181120-2020-E20-19.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:05.334043"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27344,
+  "numero": "0724",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Néstor Luis Castellano Molero en representación de Oscar José Botero Osuna, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en que la supuesta omisión de pronunciamiento por parte del Tribunal Segundo de Primera Instancia había cesado, ya que se realizó la notificación correspondiente a las partes. La Sala Constitucional confirma la decisión de la Corte de Apelaciones, considerando que la acción de amparo no cumplía con los requisitos de admisibilidad establecidos en la ley.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "derechos_humanos",
+    "violencia_contra_la_mujer",
+    "amparo_constitucional",
+    "medida_privativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0724_E22-1049.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338749-0724-81124-2024-22-1049.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.425790"
+}

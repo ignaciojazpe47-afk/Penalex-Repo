@@ -1,0 +1,27 @@
+{
+  "id": 24261,
+  "numero": "0133",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional se declara competente para conocer de la acción de amparo constitucional presentada por Roby Rosario Ron Hernández, contra la decisión del Tribunal Superior Primero del Trabajo de Aragua que declaró sin lugar un recurso de apelación. La Sala considera que la representación judicial del accionante no ha demostrado la violación de derechos constitucionales alegada, lo que implica que la decisión a emitirse está supeditada al examen de las actas procesales del expediente principal. Se ordena al Juzgado Segundo de Primera Instancia de Juicio del Trabajo que remita el expediente original para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "nulidad",
+    "trabajo",
+    "derechos",
+    "garantías",
+    "inspectoría",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0133_E23-0795.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332642-0133-20224-2024-23-0795.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.558316"
+}

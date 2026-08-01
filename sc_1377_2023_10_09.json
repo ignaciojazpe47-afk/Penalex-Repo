@@ -1,0 +1,26 @@
+{
+  "id": 32148,
+  "numero": "1377",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La sentencia se refiere a la revisión constitucional de una decisión de la Sala de Casación Social que declaró el decaimiento del objeto de una demanda de nulidad presentada por la sociedad Agropecuaria Los Tramojos, C.A. La Sala Constitucional, al analizar el caso, encontró que la decisión de la Sala de Casación Social violó principios de tutela judicial efectiva y debido proceso, al no considerar adecuadamente las pruebas presentadas por la parte demandante. En consecuencia, se decidió declarar con lugar la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "tierra",
+    "agropecuaria",
+    "pruebas",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1377_E22-0281.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328967-1377-91023-2023-22-0281.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.205476"
+}

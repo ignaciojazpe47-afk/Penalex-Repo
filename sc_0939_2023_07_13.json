@@ -1,0 +1,25 @@
+{
+  "id": 31288,
+  "numero": "0939",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Eduardo José Castillo Ramírez, en representación de varios ciudadanos, contra una decisión del Juzgado Superior Agrario de Mérida que declaró con lugar una inhibición. La Sala determinó que la acción de amparo era improcedente, ya que no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se concluyó que el Juzgado Superior actuó dentro de su competencia y sin vulnerar derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "inhibición",
+    "debido proceso",
+    "tutela judicial",
+    "jurisprudencia",
+    "imparcialidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0939_E22-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326913-0939-13723-2023-22-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.212699"
+}

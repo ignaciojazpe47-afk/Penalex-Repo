@@ -1,0 +1,22 @@
+{
+  "id": 30004,
+  "numero": "0413",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por los abogados de Raquel Cristina Díaz Ruiz, en contra de la decisión de la Corte de Apelaciones que declaró inadmisible la recusación presentada por la víctima. La Sala consideró que la decisión impugnada podría vulnerar los derechos constitucionales de la víctima, tales como el acceso a la justicia y el debido proceso. En consecuencia, se ordenó la suspensión de los efectos de la sentencia de la Corte de Apelaciones hasta que se resuelva el fondo del amparo.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos de la víctima",
+    "Debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Raquel Cristina Díaz Ruiz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0413_E21-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324683-0413-28423-2023-21-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.048690"
+}

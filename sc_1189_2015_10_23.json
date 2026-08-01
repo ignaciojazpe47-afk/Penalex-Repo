@@ -1,0 +1,24 @@
+{
+  "id": 66777,
+  "numero": "1189",
+  "fecha": "2015-10-23",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por la sociedad mercantil Pueblo Pequeño, C.A. contra la decisión del Juzgado Primero Superior del Nuevo Régimen Procesal y Transitorio del Trabajo de Monagas, que había declarado sin lugar la apelación interpuesta por la solicitante. La Sala determinó que se habían vulnerado los derechos a la defensa y al debido proceso, ya que no se ordenó la notificación adecuada a la parte interesada, Minerva de Jesús Urbina, lo que llevó a una situación de indefensión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "trabajo",
+    "salarios caídos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-23_S1189_E14-0844.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182056-1189-231015-2015-14-0844.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.199755"
+}

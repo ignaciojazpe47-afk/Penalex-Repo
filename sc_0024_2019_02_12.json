@@ -1,0 +1,26 @@
+{
+  "id": 42127,
+  "numero": "0024",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "El ciudadano Marco Antonio Rosales Ramos interpuso una demanda de amparo constitucional en representación de sus hijas menores contra una sentencia del Juzgado Superior Cuarto que anuló un fallo anterior que le otorgaba el amparo. La Sala Constitucional, tras revisar el caso, determinó que la demanda era improcedente in limine litis, argumentando que no se evidenciaron violaciones a derechos constitucionales que justificaran el amparo solicitado. La decisión se fundamentó en la falta de interés de la parte actora en impulsar el proceso, lo que llevó a la conclusión de que no era necesario continuar con el trámite.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "derechos",
+    "orden público",
+    "jurisprudencia",
+    "protección",
+    "interés superior"
+  ],
+  "titulo": "Sentencia sobre demanda de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0024_E18-0010.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303690-0024-12219-2019-18-0010.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.616794"
+}

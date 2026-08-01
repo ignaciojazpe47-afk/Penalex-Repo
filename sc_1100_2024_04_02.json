@@ -1,0 +1,23 @@
+{
+  "id": 27994,
+  "numero": "1100",
+  "fecha": "2024-04-02",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un conflicto de competencia relacionado con una acción de amparo constitucional interpuesta por Marcos Abraham Rangel Hernández contra el Fiscal Auxiliar Eduardo Chivico. La acción se originó tras el desalojo del demandante de su vivienda, alegando que este fue realizado de manera inconstitucional. La Sala determinó su competencia para conocer del caso y resolvió que el Tribunal Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Anzoátegui es el competente para conocer de la acción de amparo.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "acción de amparo",
+    "desalojo",
+    "derecho a la vivienda"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1100_E24-0300.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339631-1100-271124-2024-24-0300.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.651556"
+}

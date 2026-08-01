@@ -1,0 +1,25 @@
+{
+  "id": 21623,
+  "numero": "1371",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por el abogado Gustavo Enrique Crócker Romero respecto a la sentencia n° 0921, dictada el 17 de junio de 2025. La solicitud fue considerada no debidamente fundamentada, ya que el recurrente no expuso claramente las razones que justificaran la aclaración solicitada. La Sala enfatiza que la figura de la aclaratoria no debe ser utilizada para revocar o modificar sentencias, sino para corregir ambigüedades o errores materiales.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "revisión",
+    "procedimiento",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1371_E24-0656.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347209-1371-7825-2025-24-0656.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.040716"
+}

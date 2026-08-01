@@ -1,0 +1,25 @@
+{
+  "id": 44629,
+  "numero": "0426",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 29 de noviembre de 2019, declaró sin lugar la apelación interpuesta por el abogado Gregorio Ramón Gómez Sequeda, en representación de Arnoldo Wladimir Labrador Molina, contra la decisión del Juzgado Superior en lo Civil, Mercantil, Bancario y del Tránsito del estado Guárico. La apelación se basaba en la supuesta violación del debido proceso y el derecho a la defensa en el contexto de una acción de amparo constitucional promovida por Nancy Marilyn Alvia Méndez.\n\nLa Sala constató que el Juzgado Superior había declarado procedente la acción de amparo, ordenando la subsanación de vicios en el proceso original y dejando sin efecto la medida de secuestro sobre un inmueble. La Sala consideró que la apelación no presentaba fundamentos suficientes para revocar la decisión del tribunal inferior, ya que los alegatos de la parte apelante habían sido debidamente analizados y desestimados por el Juzgado Superior.\n\nFinalmente, se reafirmó la importancia del debido proceso y la protección de los derechos constitucionales en el contexto de las acciones de amparo, confirmando la decisión del Juzgado Superior que había actuado conforme a derecho en la resolución del caso.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "interdictos",
+    "secuestro",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0426_E17-1127.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308363-0426-291119-2019-17-1127.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.824929"
+}

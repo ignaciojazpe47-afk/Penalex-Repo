@@ -1,0 +1,24 @@
+{
+  "id": 23427,
+  "numero": "1942",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Einer Elías Biel Morales, en representación de la ciudadana S.M.A, por falta de representación adecuada. La acción se fundamentaba en la dilación indebida y retardo procesal por parte de la Corte de Apelaciones en un caso de violencia contra la mujer, donde se alegaba la violación del derecho al debido proceso y a la tutela judicial efectiva. A pesar de la urgencia del caso, la falta de un poder que acreditara la representación del abogado llevó a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "dilación indebida",
+    "retardo procesal",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Inadmisibilidad de acción de amparo constitucional sobre dilación indebida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1942_E25-0997.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350828-1942-281125-2025-25-0997.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.792052"
+}

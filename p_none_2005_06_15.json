@@ -1,0 +1,23 @@
+{
+  "id": 10637,
+  "numero": null,
+  "fecha": "2005-06-15",
+  "anio": 2005,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "ABSUELVE",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, absuelve a Raúl José Pérez García del delito de homicidio intencional, argumentando que actuó en legítima defensa tras observar la agresión a su tío. La Sala concluye que la reacción del acusado fue producto de un estado de arrebato ante la inminente amenaza de los agresores, lo que justifica la aplicación de la atenuante del artículo 67 del Código Penal. La decisión se basa en la revisión de las pruebas y testimonios que evidencian la necesidad de defensa ante la agresión sufrida por su familiar.",
+  "palabras_clave": [
+    "homicidio",
+    "legítima defensa",
+    "arrebato",
+    "absolución"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_RC03-0463.HTM.HTM_AnguloFontiveros.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:03.606506"
+}

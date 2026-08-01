@@ -1,0 +1,25 @@
+{
+  "id": 30321,
+  "numero": "0539",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por Juan Ramón León Villanueva, defensor privado de Alberto José Correa Escalona, contra la decisión de la Sala N° 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala fundamenta su decisión en la falta de agotamiento de los recursos ordinarios disponibles para restablecer la situación jurídica del demandante, lo que hace inadmisible la acción de amparo. Se confirma la inadmisibilidad de la acción de amparo y se declara competente para conocer la apelación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0539_E20-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325168-0539-16523-2023-20-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.862217"
+}

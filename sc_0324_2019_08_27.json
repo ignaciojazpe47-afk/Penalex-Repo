@@ -1,0 +1,24 @@
+{
+  "id": 44021,
+  "numero": "0324",
+  "fecha": "2019-08-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la medida cautelar solicitada por la Rectora de la Universidad Central de Venezuela y otros rectores de universidades, en relación a la Ley Orgánica de Educación. Se establece un régimen transitorio para la elección de autoridades universitarias, permitiendo la celebración de elecciones en un plazo de seis meses, mientras se resuelve la demanda de nulidad interpuesta contra el artículo 34.3 de dicha ley. La decisión busca garantizar la igualdad de condiciones en el proceso electoral universitario.",
+  "palabras_clave": [
+    "medida cautelar",
+    "universidades",
+    "derecho al voto",
+    "comunidad universitaria",
+    "elecciones"
+  ],
+  "titulo": "Sentencia de la Sala Constitucional sobre la Ley Orgánica de Educación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-27_S0324_E09-1170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307191-0324-27819-2019-09-1170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.373620"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 19203,
+  "numero": "0448",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por el abogado Williams Albrey Mora, en representación de la ciudadana Nancy Coromoto Zárate Moreno, contra el Juzgado Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Guárico. La acción se fundamenta en la supuesta omisión de notificación de la sentencia condenatoria dictada en su contra por el delito de tráfico ilícito de sustancias estupefacientes y psicotrópicas.\n\nLa Sala determina que la competencia para conocer el asunto corresponde a la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico, por lo que se declina el conocimiento del caso a dicha corte. Se ordena remitir las actuaciones para que se pronuncie sobre la admisibilidad del amparo interpuesto.\n\nFinalmente, se publica, registra y remite el expediente a la Corte de Apelaciones, cumpliendo con lo ordenado.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "sentencia",
+    "tribunales",
+    "justicia",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0448_E24-0400.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342832-0448-1425-2025-24-0400.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.610403"
+}

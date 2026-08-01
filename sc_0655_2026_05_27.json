@@ -1,0 +1,26 @@
+{
+  "id": 16963,
+  "numero": "0655",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por los abogados de Mariangelis Araque Díaz, quien había sido objeto de una orden de aprehensión. La Corte de Apelaciones había confirmado la medida de privación preventiva de libertad, argumentando que existía una conmoción social que justificaba la decisión. Sin embargo, la Sala Constitucional determinó que la decisión de la Corte de Apelaciones carecía de motivación suficiente y que no se habían presentado elementos de convicción que vincularan a la imputada con los delitos que se le atribuían.\n\nFinalmente, la Sala Constitucional declaró improcedente la acción de amparo, argumentando que la Corte de Apelaciones actuó dentro de su competencia y que la decisión impugnada no vulneraba los derechos constitucionales de la parte actora. Se reafirmó que el proceso penal debe ajustarse a los principios del debido proceso y que la información proveniente de redes sociales no puede ser la base para decisiones judiciales sin la debida verificación.\n\nLa sentencia concluyó confirmando la decisión de la Corte de Apelaciones, manteniendo la privación preventiva de libertad de la imputada, al considerar que la medida se dictó conforme a derecho y no vulnera garantías constitucionales.",
+  "palabras_clave": [
+    "conmoción social",
+    "peligro de fuga",
+    "debido proceso",
+    "orden de aprehensión",
+    "Código Orgánico Procesal Penal",
+    "privación de libertad",
+    "actuación fiscal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0655_E25-1469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355913-0655-27526-2026-25-1469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.903303"
+}

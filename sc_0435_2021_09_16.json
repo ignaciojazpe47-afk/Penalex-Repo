@@ -1,0 +1,24 @@
+{
+  "id": 39565,
+  "numero": "0435",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Belkis Villegas y Luis Alberto Pernalete en representación de Oscar Eduardo Salazar Molina. La acción se fundamenta en la supuesta omisión de notificación a la República Federativa de Brasil sobre la detención de Salazar Molina, quien se encuentra en prisión preventiva desde el 27 de enero de 2020. La Sala argumenta que la Ley Orgánica del Tribunal Supremo de Justicia no permite el ejercicio de la acción de amparo contra decisiones de este Tribunal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tribunal supremo",
+    "decisiones judiciales",
+    "derechos humanos",
+    "extradición"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Oscar Eduardo Salazar Molina",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0435_E20-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313402-0435-16921-2021-20-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.623526"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23410,
+  "numero": "1925",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE SOBREVENIDAMENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por el abogado Héctor Rafael Cabello Flores en representación de la ciudadana Lilian Josefina Alcalá Cayama. La acción se fundamenta en la omisión de pronunciamiento de la Corte de Apelaciones del estado Falcón respecto a un recurso de apelación. Sin embargo, se determina que la acción es inadmisible sobrevenidamente, ya que la Corte de Apelaciones emitió una decisión sobre el recurso de apelación antes de que la Sala decidiera sobre el amparo.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "omisión",
+    "amparo",
+    "jurisprudencia",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1925_E25-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350811-1925-281125-2025-25-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.793887"
+}

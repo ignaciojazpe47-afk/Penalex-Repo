@@ -1,0 +1,24 @@
+{
+  "id": 30625,
+  "numero": "0671",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Salim Richani Gutiérrez, apoderado de Nabil El Chami, contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil Bancario y del Tránsito de Carabobo. La acción fue declarada inadmisible debido a que el accionante había optado por recurrir a vías judiciales ordinarias, específicamente un recurso de casación, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "arrendamiento",
+    "debido proceso",
+    "tutela judicial",
+    "silencio administrativo"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0671_E22-0558.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325759-0671-30523-2023-22-0558.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.928176"
+}

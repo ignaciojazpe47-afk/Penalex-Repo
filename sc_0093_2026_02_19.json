@@ -1,0 +1,25 @@
+{
+  "id": 16092,
+  "numero": "0093",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Faviola Méndez Padrón en contra de una sentencia que incluía un vehículo de propiedad de la empresa Ferre-Tienda Bolívar, C.A. en la partición de bienes de la comunidad conyugal. La Sala declaró que el Tribunal de instancia había violado derechos constitucionales al incluir un bien que no pertenecía a los ex cónyuges en la partición, confirmando la nulidad de la decisión impugnada. Finalmente, se ratificó la decisión del Tribunal Superior que había declarado parcialmente con lugar la acción de amparo, pero sin lugar a la apelación presentada por la parte demandada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "partición de bienes",
+    "derecho a la defensa",
+    "debido proceso",
+    "vehículo",
+    "empresa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0093_E20-0181.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352781-0093-19226-2026-20-0181.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.387833"
+}

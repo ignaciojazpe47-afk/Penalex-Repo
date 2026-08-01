@@ -1,0 +1,27 @@
+{
+  "id": 20589,
+  "numero": "0989",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el recurso de apelación interpuesto contra la decisión de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolivariano de Miranda, que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada por el abogado José Gregorio Amundarain Velásquez, en representación de las víctimas Ruth del Amparo Fontalvo Ojito y Miguel Antonio Cortez Pacheco, quienes alegaron violaciones a sus derechos constitucionales debido a la falta de notificación en el proceso penal. Sin embargo, la Sala Constitucional confirma la decisión de inadmisibilidad, argumentando que no se vulneraron los derechos de los accionantes y que el procedimiento se llevó a cabo conforme a las normas procesales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "debido proceso",
+    "jurisprudencia",
+    "inadmision",
+    "apelacion"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0989_E24-0525.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345258-0989-27625-2025-24-0525.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.302735"
+}

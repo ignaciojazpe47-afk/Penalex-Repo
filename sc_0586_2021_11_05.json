@@ -1,0 +1,25 @@
+{
+  "id": 40092,
+  "numero": "0586",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de noviembre de 2021, confirmó la inadmisibilidad de la acción de amparo constitucional interpuesta por la abogada Yasmín Josefina Padrón González en representación de Denys Carolina Bracho Barradas. La acción fue declarada inadmisible por la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, debido a que la situación alegada constituía una evidente situación irreparable, ya que el hijo de la demandante había superado el periodo de lactancia establecido por la ley, lo que hacía imposible la concesión de una medida cautelar sustitutiva de libertad.\n\nLa Sala Constitucional, al analizar el caso, determinó que la acción de amparo no cumplía su función restablecedora, ya que no era posible retrotraer la situación a su estado anterior. En consecuencia, se declaró sin lugar el recurso de apelación interpuesto, confirmando la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo.\n\nFinalmente, se destacó que la decisión de la Corte de Apelaciones cumplía con los requisitos de motivación y congruencia, y que no se vulneraron derechos ni garantías constitucionales en el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "libertad personal",
+    "proceso penal",
+    "Corte de Apelaciones",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0586_E17-0502.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314160-0586-51121-2021-17-0502.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.106402"
+}

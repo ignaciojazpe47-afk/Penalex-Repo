@@ -1,0 +1,23 @@
+{
+  "id": 27215,
+  "numero": "0631",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la solicitud de amparo constitucional presentada por la defensa de Tomás Salvador Messina D'Ambrosio, quien alegaba haber permanecido privado de libertad por más de tres años sin una sentencia condenatoria y sin prórroga de la medida de coerción. La Corte de Apelaciones había confirmado la decisión del Tribunal de Juicio que declaró sin lugar la solicitud de decaimiento de la medida de privación judicial preventiva de libertad, fundamentando su decisión en la gravedad de los delitos imputados y la necesidad de asegurar el proceso penal. La Sala Constitucional reafirmó la competencia del Estado para garantizar la seguridad y el orden público, así como la necesidad de un debido proceso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Libertad Personal",
+    "Debido Proceso",
+    "Prisión Preventiva"
+  ],
+  "titulo": "Decisión sobre amparo constitucional de Tomás Salvador Messina D'Ambrosio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0631_E23-0637.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338614-0631-61124-2024-23-0637.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.293412"
+}

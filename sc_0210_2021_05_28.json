@@ -1,0 +1,26 @@
+{
+  "id": 38775,
+  "numero": "0210",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por OLGA LUCÍA ORTIZ RAMÍREZ contra una sentencia del Juzgado Cuarto Superior que había declarado con lugar su acción de amparo constitucional. La apelación se fundamentó en la supuesta vulneración de derechos constitucionales, alegando que no se le permitió apelar oportunamente debido a la falta de acceso al expediente. La Sala revisó las actas y determinó que la apelación no fue interpuesta en el tiempo debido, lo que llevó a declarar inadmisible el recurso de amparo y a revocar la sentencia de amparo constitucional dictada por el Juzgado Cuarto Superior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "apelación",
+    "constitución",
+    "jurisdicción",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0210_E19-0520.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312231-0210-28521-2021-19-0520.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.192167"
+}

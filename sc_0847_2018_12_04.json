@@ -1,0 +1,23 @@
+{
+  "id": 49243,
+  "numero": "0847",
+  "fecha": "2018-12-04",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión interpuesta y se anula el fallo recurrido.",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n° 000256/2017 de la Sala de Casación Civil, que había declarado sin lugar los recursos de casación interpuestos por los demandantes. En su decisión, la Sala Constitucional encontró que la sentencia recurrida incurrió en incongruencia omisiva al no valorar adecuadamente las pruebas presentadas, lo que vulneró el derecho a la tutela judicial efectiva de los solicitantes. Por lo tanto, se declaró ha lugar la solicitud de revisión, anulando el fallo y reponiendo la causa para un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "incongruencia omisiva",
+    "partición de comunidad hereditaria"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n° 000256/2017",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-04_S0847_E18-0628.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/302817-0847-41218-2018-18-0628.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.901401"
+}

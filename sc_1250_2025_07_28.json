@@ -1,0 +1,26 @@
+{
+  "id": 21236,
+  "numero": "1250",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional interpuesta por Héctor José Guillén Colina contra la sentencia N° 0479 de la Sala de Casación Social. Esta última había declarado con lugar el recurso de casación de la parte demandada, anulando el fallo recurrido y parcialmente con lugar la demanda por indemnizaciones. La Sala Constitucional, tras revisar los alegatos, concluye que la solicitud de revisión no prospera, ya que no se evidencian violaciones a derechos constitucionales ni errores de interpretación que justifiquen la revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "indemnización",
+    "derecho laboral",
+    "debido proceso",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1250_E17-0164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346547-1250-28725-2025-17-0164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.372369"
+}

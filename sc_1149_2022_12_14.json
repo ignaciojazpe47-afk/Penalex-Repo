@@ -1,0 +1,23 @@
+{
+  "id": 38008,
+  "numero": "1149",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Sexto que había declarado sin lugar un recurso de apelación y con lugar una acción de amparo constitucional. La Sala determinó que la decisión apelada había desconocido la doctrina vinculante establecida por la Sala Constitucional, en relación con el agotamiento de la vía ordinaria judicial y la falta de representación judicial válida. Se ordenó la revisión de la sentencia y se declaró con lugar la acción de amparo, restableciendo la situación jurídica de los accionantes y ordenando la revisión de los estatutos de la asociación demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción de amparo",
+    "doctrina vinculante",
+    "representación judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1149_E22-0488.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321983-1149-141222-2022-22-0488.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.148576"
+}

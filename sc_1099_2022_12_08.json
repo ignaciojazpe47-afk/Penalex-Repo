@@ -1,0 +1,25 @@
+{
+  "id": 37789,
+  "numero": "1099",
+  "fecha": "2022-12-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión constitucional presentada por el abogado Arturo Contreras Suárez, en representación de José Vicente Santander Galvis y Eduardo Emilio Olivo Ruza, contra la decisión número 191 de la Sala de Casación Penal, que desestimó un recurso de casación. La Sala consideró que la decisión impugnada no contraviene principios jurídicos fundamentales ni la doctrina vinculante, y que la solicitud de revisión no se subsume en los supuestos de procedencia de la revisión constitucional.",
+  "palabras_clave": [
+    "recursos",
+    "casación",
+    "motivación",
+    "jurisdicción",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-08_S1099_E18-0684.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321657-1099-81222-2022-18-0684.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.435499"
+}

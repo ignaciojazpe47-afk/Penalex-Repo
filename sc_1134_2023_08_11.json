@@ -1,0 +1,26 @@
+{
+  "id": 34026,
+  "numero": "1134",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por las abogadas Cristina Beatriz Fuigueredo González y Dilu Estrella Paredes, en representación de la ciudadana Ana Hilda Briceño, debido a la falta de representación adecuada. La decisión se basa en la falta de consignación de un poder que acredite la representación de las abogadas, lo que constituye un requisito procesal indispensable para la admisión de la acción de amparo.",
+  "palabras_clave": [
+    "tutela judicial",
+    "derecho a ser oído",
+    "debido proceso",
+    "justicia",
+    "constitución",
+    "corte de apelaciones",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1134_E22-0656.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328290-1134-11823-2023-22-0656.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.335083"
+}

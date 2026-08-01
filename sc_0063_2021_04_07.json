@@ -1,0 +1,22 @@
+{
+  "id": 38385,
+  "numero": "0063",
+  "fecha": "2021-04-07",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional interpuesta por los ciudadanos Pedro Rivas Mier y Ángel Cruz Ortega, en representación de los derechos colectivos de los niños, niñas y adolescentes del Colegio Instituto de Educación Activa (I.D.E.A.). La acción se fundamentó en la vulneración del derecho a la educación, al condicionarse la inscripción de los estudiantes a un pago ilegal por un curso de inglés no autorizado.\n\nLa Sala, tras analizar los argumentos presentados, determinó que el derecho a la educación es un derecho humano fundamental que debe ser garantizado por el Estado. Se concluyó que las acciones del colegio demandado, al exigir pagos no autorizados, constituían una violación a los derechos de los estudiantes, afectando su derecho a la educación y generando discriminación.\n\nFinalmente, la Sala declaró la competencia para conocer de la acción y ordenó la notificación de las partes involucradas, así como la celebración de una audiencia oral y pública para continuar con el proceso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la Educación",
+    "Discriminación"
+  ],
+  "titulo": "Sentencia sobre Acción de Amparo Constitucional por derechos educativos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-07_S0063_E20-0416.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311620-0063-7421-2021-20-0416.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.752462"
+}

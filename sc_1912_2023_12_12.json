@@ -1,0 +1,26 @@
+{
+  "id": 33765,
+  "numero": "1912",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 3 de marzo de 2021, que declaró inadmisible la pretensión de desalojo interpuesta por DEXIS MIREYA ARIAS MARÍN contra BELKY NATALY LANDAETA, por falta de cualidad pasiva de la demandada. La Sala encontró que la decisión del juzgado inferior incurrió en vicios que afectaron el derecho a la defensa y el debido proceso, al no valorar adecuadamente la legitimación pasiva de la demandada en el juicio de desalojo. En consecuencia, se declaró con lugar la solicitud de revisión, anulando el fallo objeto de análisis y ordenando que otro juzgado superior conozca de la apelación ejercida.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "desalojo",
+    "cualidad pasiva",
+    "derecho civil",
+    "arrendamiento",
+    "constitucionalidad",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre revisión de inadmisibilidad de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1912_E21-0190.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331882-1912-121223-2023-21-0190.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.449977"
+}

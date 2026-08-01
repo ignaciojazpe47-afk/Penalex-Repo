@@ -1,0 +1,26 @@
+{
+  "id": 33102,
+  "numero": "1611",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de avocamiento presentada por Vito Eduardo Croce Romero, quien alegó irregularidades en varios procesos judiciales relacionados con la partición de bienes hereditarios y un proceso penal por hurto. Tras analizar los argumentos y la situación procesal, la Sala determinó que no existían las condiciones necesarias para admitir el avocamiento, considerando que no se evidenciaron graves irregularidades o violaciones al debido proceso que justificaran la intervención del Tribunal Supremo.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "justicia",
+    "proceso",
+    "derechos",
+    "interés público",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1611_E23-0800.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330778-1611-291123-2023-23-0800.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.986356"
+}

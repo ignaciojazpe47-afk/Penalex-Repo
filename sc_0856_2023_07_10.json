@@ -1,0 +1,23 @@
+{
+  "id": 31149,
+  "numero": "0856",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Militar de Primera Instancia Permanente de Maturín que decretó el sobreseimiento por prescripción de la acción penal en el caso de Oswaldo Antonio Arenas Palencia, quien fue asesinado en 1983. La Sala encontró que la investigación fue deficiente y careció de motivación, lo que generó impunidad. Se determinó que existieron violaciones graves a los derechos humanos y se ordenó la reapertura del caso para investigar a los responsables.",
+  "palabras_clave": [
+    "derechos humanos",
+    "homicidio",
+    "impunidad",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión Constitucional sobre el caso de Oswaldo Antonio Arenas Palencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0856_E16-0287.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326676-0856-10723-2023-16-0287.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.532302"
+}

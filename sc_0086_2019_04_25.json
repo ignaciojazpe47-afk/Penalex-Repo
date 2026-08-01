@@ -1,0 +1,26 @@
+{
+  "id": 42603,
+  "numero": "0086",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Víctor Segundo González Valero contra la sentencia del Juzgado Quinto de Primera Instancia de Sustanciación, Mediación y Ejecución del Trabajo. La acción se refiere a un juicio sobre calificación de despido, reenganche y pago de salarios caídos. La Sala declina su competencia al Juzgado Superior del Circuito Judicial del Trabajo del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "sentencias",
+    "derechos",
+    "constitucionales",
+    "trabajo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0086_E18-0667.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304632-0086-25419-2019-18-0667.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.596135"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 22430,
+  "numero": "1627",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por Miguel Antonio Miranda Montilla, quien actúa como heredero de su padre fallecido. La acción se dirige contra Rosanna Escobar, Gerente Regional de Tributos Internos del SENIAT, por la negativa a permitir la declaración sucesoral. La Corte Constitucional declara su competencia para conocer el caso y ordena remitir el expediente al Tribunal Superior de lo Contencioso Tributario de la Región Central, considerando que la acción tiene naturaleza tributaria y debe ser resuelta por dicho tribunal.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "SENIAT",
+    "Tributos Internos",
+    "Declaración Sucesoral",
+    "Conflicto de Competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Miguel Antonio Miranda Montilla",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1627_E25-0893.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349008-1627-221025-2025-25-0893.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.750121"
+}

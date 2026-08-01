@@ -1,0 +1,25 @@
+{
+  "id": 45453,
+  "numero": "0117",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de nulidad interpuesto por Rafael Antonio Veloz García contra el acto parlamentario de la Asamblea Nacional del 23 de diciembre de 2015, que designó a los Magistrados del Tribunal Supremo. La decisión se basa en la existencia de cosa juzgada, ya que la Sala se había pronunciado anteriormente sobre la constitucionalidad de dicho acto. Se reafirma la competencia de la Sala para conocer del recurso, pero se determina que no procede su admisión.",
+  "palabras_clave": [
+    "nulidad",
+    "asamblea nacional",
+    "magistrados",
+    "constitucionalidad",
+    "responsabilidad",
+    "fraude constitucional"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad contra acto parlamentario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0117_E16-0970.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207676-0117-9218-2018-16-0970.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.447104"
+}

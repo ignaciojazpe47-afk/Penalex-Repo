@@ -1,0 +1,22 @@
+{
+  "id": 32159,
+  "numero": "1388",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre una acción de amparo constitucional interpuesta por Carmen María Pérez y Emiliana Ascanio Páez contra la Corte de Apelaciones de Violencia Contra la Mujer del Estado Carabobo, debido a la omisión de pronunciamiento sobre una solicitud de amparo presentada el 25 de noviembre de 2022. La Sala establece su competencia para conocer el caso y ordena a la Corte de Apelaciones que informe sobre el estado de la causa y el pronunciamiento correspondiente en un plazo determinado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra la Corte de Apelaciones de Violencia Contra la Mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1388_E22-0977.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328978-1388-91023-2023-22-0977.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.407652"
+}

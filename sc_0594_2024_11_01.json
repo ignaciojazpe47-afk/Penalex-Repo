@@ -1,0 +1,26 @@
+{
+  "id": 27169,
+  "numero": "0594",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Alfredo Antonio Lovera en representación de Jhony José Azocar. La inadmisibilidad se fundamenta en la falta de acreditación del carácter de abogado defensor del solicitante, ya que no se presentó el poder correspondiente que lo habilitara para actuar en nombre del demandante. La decisión se basa en el artículo 336.10 de la Constitución y en la normativa aplicable sobre la revisión de sentencias firmes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "legitimidad",
+    "poder",
+    "sentencia firme",
+    "tutela constitucional",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0594_E24-0135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338554-0594-11124-2024-24-0135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.305924"
+}

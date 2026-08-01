@@ -1,0 +1,24 @@
+{
+  "id": 54402,
+  "numero": "880",
+  "fecha": "2017-11-03",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 3 de noviembre de 2017, en la que se declara con lugar la acción de amparo constitucional interpuesta por Marcos Alberto Araujo Pérez contra la decisión de la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. La acción se fundamentó en la falta de notificación del fallo que permitió una doble imputación por los mismos hechos, vulnerando así el derecho a la defensa y el principio de no ser juzgado dos veces por el mismo hecho.\n\nLa Sala concluyó que la decisión impugnada no cumplía con los requisitos de motivación y fundamentación exigidos por la ley, lo que llevó a la anulación de la decisión del 26 de enero de 2017, que había declarado la nulidad de la audiencia de imputación. Se ordenó la reposición del proceso, asegurando que se respeten los derechos constitucionales del accionante.\n\nFinalmente, se establecieron medidas cautelares para garantizar la comparecencia del imputado en el proceso penal, y se ordenó la notificación a las partes involucradas para el cumplimiento de lo dispuesto en la sentencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "doble imputación",
+    "nulidad de acto procesal",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Marcos Alberto Araujo Pérez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-03_S880_E17-0935.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/204818-880-31117-2017-17-0935.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.737467"
+}

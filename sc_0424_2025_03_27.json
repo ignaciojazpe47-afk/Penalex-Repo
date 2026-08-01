@@ -1,0 +1,26 @@
+{
+  "id": 19124,
+  "numero": "0424",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por el abogado Jorge Enrique Benavides Larez, en representación del Condominio Torre Cristal, contra la decisión del Juzgado Superior Segundo que declaró improcedente in limine litis la acción de amparo constitucional. La Sala determinó que la falta de cualidad alegada por la parte demandada debía ser resuelta en el fondo del litigio y no en esta etapa procesal. Finalmente, se declaró inadmisible la acción de amparo, ya que la situación de agravio denunciada había cesado.",
+  "palabras_clave": [
+    "cualidad",
+    "legitimación",
+    "condominio",
+    "representación",
+    "usurpación",
+    "derechos",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0424_E24-0352.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342708-0424-27325-2025-24-0352.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.616026"
+}

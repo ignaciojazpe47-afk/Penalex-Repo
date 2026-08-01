@@ -1,0 +1,26 @@
+{
+  "id": 27592,
+  "numero": "0839",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Julio César García contra decisiones del Juzgado Primero de Primera Instancia Agrario. La Sala declaró su incompetencia para conocer del caso, indicando que el tribunal competente es el Juzgado Superior Agrario de la Circunscripción Judicial de los Estados Apure y Amazonas. La decisión se fundamenta en la normativa que regula la competencia de los tribunales en materia de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "agrario",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0839_E23-1052.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339029-0839-151124-2024-23-1052.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.201015"
+}

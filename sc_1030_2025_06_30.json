@@ -1,0 +1,26 @@
+{
+  "id": 20630,
+  "numero": "1030",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por los abogados Jackson Chompré Lamuño y Dayan González Jiménez en representación de Angly Miguel Ballena Ríos, contra la decisión de la Jueza María Angélica Castillo Silva, quien había declarado inadmisible la solicitud de revisión de medida cautelar. La Corte de Apelaciones había argumentado que existían mecanismos ordinarios para solicitar medidas cautelares menos gravosas, lo que llevó a la inadmisibilidad del amparo. La Sala Constitucional confirmó esta decisión, declarando sin lugar el recurso de apelación interpuesto por la parte accionante.",
+  "palabras_clave": [
+    "amparo",
+    "medidas cautelares",
+    "derechos humanos",
+    "justicia",
+    "tutela judicial",
+    "delitos",
+    "salud"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1030_E25-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345299-1030-30625-2025-25-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.512741"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 60710,
+  "numero": "1003",
+  "fecha": "2016-11-25",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Bernardo Pulido Márquez en representación de Vicencio Scarano Spisso, contra un auto de la Contraloría General de la República. La Sala argumenta que la acción de amparo no es procedente ya que el acto atacado es recurrible mediante la acción de nulidad ante la jurisdicción contencioso administrativa, lo que implica que existen vías ordinarias para impugnar el acto administrativo cuestionado.\n\nLa decisión se basa en la consideración de que la acción de amparo tiene una naturaleza restablecedora y no puede generar nuevos derechos, y que la situación denunciada por el demandante es irreparable, dado que el acto administrativo ya se había ejecutado. Por lo tanto, la Sala concluye que no se puede restablecer la situación jurídica previa a la violación alegada.\n\nFinalmente, se establece que la acción de amparo no puede ser admitida conforme a lo dispuesto en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, y se ordena la publicación y archivo del expediente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-25_S1003_E16-0851.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193153-1003-251116-2016-16-0851.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.612264"
+}

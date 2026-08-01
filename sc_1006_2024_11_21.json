@@ -1,0 +1,25 @@
+{
+  "id": 27829,
+  "numero": "1006",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Yubisay Barreiro Olmedo contra una decisión del Juzgado Superior Cuarto que había declarado con lugar una acción de amparo constitucional. La Sala, tras analizar el caso, determinó que el Juzgado había vulnerado el debido proceso y el derecho a la defensa, por lo que revocó la decisión apelada y declaró inadmisible la acción de amparo. Se ordenó la restitución de la situación jurídica infringida y la suspensión de la ejecución de la sentencia anterior.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "interdicto",
+    "competencia",
+    "derechos",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1006_E24-0188.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339320-1006-211124-2024-24-0188.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.142993"
+}

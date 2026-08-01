@@ -1,0 +1,26 @@
+{
+  "id": 41231,
+  "numero": "0074",
+  "fecha": "2020-06-19",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.230, que prorroga el Estado de Excepción de Alarma en todo el territorio nacional por treinta días, debido a la situación de riesgo para la salud pública ocasionada por la pandemia de COVID-19. Se argumenta que el decreto cumple con los principios y normas constitucionales y es necesario para garantizar la salud y seguridad de los ciudadanos. La decisión se fundamenta en la competencia de la Sala para revisar la constitucionalidad de los decretos emitidos por el Presidente de la República en situaciones excepcionales.",
+  "palabras_clave": [
+    "estado de excepción",
+    "salud pública",
+    "constitucionalidad",
+    "decreto",
+    "COVID-19",
+    "derechos humanos",
+    "poder ejecutivo"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 4.230 de fecha 11 de junio de 2020",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-19_S0074_E20-0198.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309876-0074-19620-2020-20-0198.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.119798"
+}

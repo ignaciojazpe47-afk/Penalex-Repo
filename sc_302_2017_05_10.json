@@ -1,0 +1,24 @@
+{
+  "id": 51580,
+  "numero": "302",
+  "fecha": "2017-05-10",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, admite el recurso de nulidad por inconstitucionalidad interpuesto por Carlos Brender contra varios artículos del Decreto con Rango, Valor y Fuerza de Ley contra el Desalojo y la Desocupación Arbitraria de Viviendas. Se argumenta que dichos artículos violan el derecho al debido proceso y a la defensa, al no permitir a los afectados ejercer adecuadamente su derecho a ser escuchados en el procedimiento administrativo de desalojo.\n\nLa Sala establece que el procedimiento administrativo previsto en el Decreto no garantiza las condiciones necesarias para que las partes puedan presentar sus alegatos y pruebas, lo que resulta en una violación de los derechos constitucionales. Se concluye que la normativa en cuestión es inconstitucional por colidir con principios fundamentales establecidos en la Constitución de la República Bolivariana de Venezuela.\n\nFinalmente, se ordena la citación de las autoridades pertinentes y se acumula el presente expediente con otro recurso de nulidad relacionado, buscando evitar sentencias contradictorias y garantizar la economía procesal.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre nulidad por inconstitucionalidad del Decreto contra el Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-10_S302_E17-0202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198612-302-10517-2017-17-0202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.347261"
+}

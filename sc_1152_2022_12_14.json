@@ -1,0 +1,22 @@
+{
+  "id": 38010,
+  "numero": "1152",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Quinto que había declarado con lugar una apelación extemporánea. Se determinó que la apelación de la parte demandante era inadmisible y que el desistimiento de la apelación por parte de los demandados en 2014 había dejado firme la sentencia de 2007. La Sala anuló las decisiones del Juzgado Superior y de la Sala de Casación Civil, reafirmando la firmeza de la sentencia original y ordenando el levantamiento de las medidas cautelares impuestas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "firmeza de sentencia",
+    "apelación extemporánea"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre la firmeza de la sentencia de 2 de noviembre de 2007",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1152_E22-0638.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321985-1152-141222-2022-22-0638.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.145599"
+}

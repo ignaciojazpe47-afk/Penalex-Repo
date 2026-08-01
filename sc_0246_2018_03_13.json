@@ -1,0 +1,24 @@
+{
+  "id": 45969,
+  "numero": "0246",
+  "fecha": "2018-03-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del TSJ admitió la acción de amparo interpuesta por la abogada Mirlen Hernández Herrera en representación de Eber José Finol La Cruz, contra la decisión de la Sala n.° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que revocó el beneficio de suspensión condicional de la ejecución de la pena. La Sala consideró que la decisión impugnada violó derechos fundamentales del accionante, como el derecho a la defensa y al debido proceso, al confundir el delito de encubrimiento con la participación en homicidio calificado, lo que llevó a una incorrecta interpretación de las normas aplicables. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se ordenó que un nuevo tribunal se pronuncie sobre el recurso de apelación interpuesto por el Ministerio Público.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "suspensión condicional",
+    "derechos fundamentales",
+    "encubrimiento",
+    "homicidio calificado"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre suspensión condicional de pena",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-13_S0246_E17-1043.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208682-0246-13318-2018-17-1043.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.679536"
+}

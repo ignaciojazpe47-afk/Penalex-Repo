@@ -1,0 +1,25 @@
+{
+  "id": 26965,
+  "numero": "0476",
+  "fecha": "2024-10-29",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Leonardo Bustamante Gallego, presidente de la sociedad mercantil Impresos Nuevo Mundo, contra la sentencia del Juzgado Superior Quinto que declaró el desalojo de un local comercial. La Sala determinó que la demanda era inadmisible por falta de cualidad, ya que la demandante no tenía la capacidad procesal para actuar en nombre de su hermana. Se anuló la decisión del juzgado inferior y se declaró procedente la acción de amparo.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "canon",
+    "procedimiento",
+    "carga probatoria",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-29_S0476_E24-0835.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338310-0476-291024-2024-24-0835.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.478713"
+}

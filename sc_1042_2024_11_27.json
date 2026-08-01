@@ -1,0 +1,25 @@
+{
+  "id": 27929,
+  "numero": "1042",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la declinatoria de competencia realizada por el Tribunal Quinto de Primera Instancia en Funciones de Control, en relación a la acción de amparo constitucional interpuesta a favor del ciudadano Guillermo Enrique Torres Cueter. La Sala declaró que no acepta la declinatoria y se considera incompetente para conocer del caso, remitiendo el expediente al tribunal correspondiente.",
+  "palabras_clave": [
+    "expulsión",
+    "extranjería",
+    "habeas corpus",
+    "competencia",
+    "derechos humanos",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre declinatoria de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1042_E11-1092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339553-1042-271124-2024-11-1092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.485392"
+}

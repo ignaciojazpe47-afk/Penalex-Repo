@@ -1,0 +1,24 @@
+{
+  "id": 31644,
+  "numero": "1002",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de abril de 2022 por el Juzgado Superior Primero en lo Civil, Mercantil y Tránsito del Estado Lara, que había declarado sin lugar la apelación de Olmary Rosa González Suárez. La revisión se fundamentó en la alegación de que la acción de amparo no era la vía adecuada para resolver la controversia sobre la propiedad de ciertos bienes, sugiriendo que existían vías ordinarias para tal fin. La Sala determinó que el amparo constitucional tiene un carácter restitutorio y no declarativo de derechos de propiedad, y que la acción interdictal era la vía idónea para la restitución de la posesión de los bienes en cuestión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la salud",
+    "derecho de propiedad",
+    "ejercicio de la medicina",
+    "responsabilidad sanitaria"
+  ],
+  "titulo": "Revisión Constitucional sobre acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1002_E22-0334.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327533-1002-28723-2023-22-0334.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.909514"
+}

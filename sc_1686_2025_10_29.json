@@ -1,0 +1,24 @@
+{
+  "id": 22629,
+  "numero": "1686",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Adrián Sahony Maíz Cabrera en favor de su padre, Albert Martín Maíz Nadales, contra la Dirección General de Contrainteligencia Militar (DGCIM). La Sala determina que corresponde a un Juzgado de Primera Instancia en Funciones de Control conocer de la acción, dado que se trata de una solicitud de habeas corpus por detención ilegal. Se ordena la remisión del expediente a la Presidencia del Circuito Judicial Penal del Área Metropolitana de Caracas para su distribución correspondiente.",
+  "palabras_clave": [
+    "habeas corpus",
+    "detención",
+    "derechos humanos",
+    "debido proceso",
+    "arbitrariedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1686_E25-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349289-1686-291025-2025-25-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.534114"
+}

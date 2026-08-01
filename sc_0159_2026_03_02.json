@@ -1,0 +1,26 @@
+{
+  "id": 17237,
+  "numero": "0159",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar la apelación interpuesta contra la decisión del Tribunal Superior Primero de Protección de Niños, Niñas y Adolescentes, que había declarado inadmisible la acción de amparo. La sentencia se basa en la falta de idoneidad de la acción de amparo, dado que existían recursos ordinarios que podían ser utilizados por el demandante. Además, se destacó que la acción de amparo no es admisible cuando el agraviado ha optado por recurrir a vías judiciales ordinarias o ha hecho uso de medios judiciales preexistentes.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "poder judicial",
+    "recusación",
+    "interés superior del niño",
+    "omisión de pronunciamiento",
+    "retardo procesal",
+    "incompetencia territorial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0159_E24-0172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353155-0159-2326-2026-24-0172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.378084"
+}

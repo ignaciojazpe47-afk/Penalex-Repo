@@ -1,0 +1,26 @@
+{
+  "id": 38851,
+  "numero": "0228",
+  "fecha": "2020-02-19",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un amparo constitucional interpuesto por el abogado Ricardo Alejandro Ávalos Salazar en representación de los ciudadanos Fabio Leguizamón Pulido y Dairo Ederlan Leguizamón Pulido, quienes enfrentan un proceso de extradición solicitado por Colombia. La acción se fundamenta en la omisión del Ministro de Relaciones Exteriores en ejecutar la sentencia de extradición y en la vulneración de derechos fundamentales de los ciudadanos.",
+  "palabras_clave": [
+    "extradición",
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "justicia",
+    "Colombia",
+    "Venezuela"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional relacionado con extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0228_E19-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312349-0228-11621-2021-19-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.141567"
+}

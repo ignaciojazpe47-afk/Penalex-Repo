@@ -1,0 +1,22 @@
+{
+  "id": 35436,
+  "numero": "0322",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre su competencia para conocer de una acción de amparo en apelación, relacionada con una decisión de la Sala Única de la Corte de Apelaciones del Circuito Judicial en Materia de Delitos de Violencia Contra la Mujer del Estado Carabobo. La apelación fue interpuesta por el abogado Oscar Triana contra la sentencia que declaró inadmisible la acción de amparo constitucional ejercida por Francisco Ignacio Domínguez Díaz.\nLa Sala declaró su competencia para resolver el recurso y ordenó al Tribunal Segundo de Primera Instancia en Funciones de Control, Audiencia y Medidas en Materia de Violencia contra la Mujer del Circuito Judicial Penal del Estado Carabobo, que informara sobre la notificación a la víctima del Archivo Fiscal decretado. Se establecieron plazos y se advirtió sobre las sanciones por incumplimiento de las órdenes emitidas por la Sala.\nFinalmente, se ratificó al Magistrado Luis Fernando Damiani Bustillos como ponente del fallo, y se ordenó la publicación y registro de la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0322_E20-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317902-0322-13722-2022-20-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.225271"
+}

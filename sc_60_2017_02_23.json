@@ -1,0 +1,18 @@
+{
+  "id": 50306,
+  "numero": "60",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por el abogado Rafael Chavero Gazdik en representación de varios ciudadanos contra los autos de la Contraloría General de la República. La Sala argumenta que la competencia para conocer de la acción corresponde a la jurisdicción contencioso administrativa, dado que los actos impugnados provienen de un órgano administrativo que no tiene jerarquía constitucional. Por lo tanto, se declina la competencia a las Cortes de lo Contencioso Administrativo y se ordena el remitir el expediente correspondiente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S60_E16-0830.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196361-60-23217-2017-16-0830.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.248923"
+}

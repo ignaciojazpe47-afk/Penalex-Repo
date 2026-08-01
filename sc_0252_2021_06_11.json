@@ -1,0 +1,26 @@
+{
+  "id": 38875,
+  "numero": "0252",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del TSJ decide sobre la solicitud de aclaratoria presentada por la abogada Sulma Alvarado, en representación de Ronald Miguel Zaidman Allina, respecto a un error material en la sentencia N°0121 del 16 de abril de 2021. Se establece que en el dispositivo quinto de la sentencia se invirtieron los nombres de las partes, lo que llevó a la necesidad de aclarar que la reposición del juicio debe ser entendida como intentada por Zaidman Allina contra I.P.E.C.A.",
+  "palabras_clave": [
+    "aclaratoria",
+    "revisión constitucional",
+    "error material",
+    "competencia",
+    "decisión judicial",
+    "ejecución",
+    "proceso civil"
+  ],
+  "titulo": "Aclaratoria de la sentencia N°0121 del 16 de abril de 2021",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0252_E18-0739.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312373-0252-11621-2021-18-0739.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.180504"
+}

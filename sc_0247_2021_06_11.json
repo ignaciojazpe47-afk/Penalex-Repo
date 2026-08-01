@@ -1,0 +1,26 @@
+{
+  "id": 38870,
+  "numero": "0247",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de interpretación de la Disposición Derogatoria Única del Decreto N° 2.092 con Rango, Valor y Fuerza de Ley Orgánica de Precios Justos. La Sala declaró su incompetencia para conocer la demanda, argumentando que la interpretación solicitada se refiere a una norma de rango legal, lo que corresponde a la Sala Político Administrativa. Se declina la competencia a dicha sala para que se pronuncie sobre la interpretación solicitada.",
+  "palabras_clave": [
+    "competencia",
+    "interpretacion",
+    "normas",
+    "constitucion",
+    "leyes",
+    "jurisdiccion",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre demanda de interpretación de la Ley de Precios Justos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0247_E16-0922.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312368-0247-11621-2021-16-0922.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.181521"
+}

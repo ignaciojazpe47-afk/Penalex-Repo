@@ -1,0 +1,25 @@
+{
+  "id": 40062,
+  "numero": "0565",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional interpuesta por el abogado Rafael Medina Villalonga en representación de Abelardo Candelario Rodríguez Garcias. La solicitud buscaba anular una sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de Aragua, que había declarado sin lugar un recurso de apelación y confirmado un fallo de desalojo por falta de pago de cánones de arrendamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "arrendamientos",
+    "debido proceso",
+    "derecho a la defensa",
+    "cosa juzgada",
+    "normas de orden público"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0565_E19-0292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314063-0565-41121-2021-19-0292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.112490"
+}

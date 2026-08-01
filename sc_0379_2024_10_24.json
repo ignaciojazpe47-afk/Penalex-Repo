@@ -1,0 +1,22 @@
+{
+  "id": 26847,
+  "numero": "0379",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada el 9 de enero de 2018, que había declarado parcialmente con lugar un recurso de apelación. La solicitud fue presentada por la abogada María Andrea Castillo Solorzano, actuando como apoderada de los ciudadanos Gustavo Alonso Carballo Ramos y María Mercedes Flores de Carballo. Sin embargo, la Sala declaró inadmisible la solicitud debido a la falta de legitimidad de la representación legal, ya que no se presentó el poder correspondiente que acreditara su facultad para actuar en nombre de los solicitantes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmision",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0379_E18-0427.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338149-0379-241024-2024-18-0427.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.315647"
+}

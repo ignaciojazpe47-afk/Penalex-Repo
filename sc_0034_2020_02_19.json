@@ -1,0 +1,22 @@
+{
+  "id": 41001,
+  "numero": "0034",
+  "fecha": "2020-02-19",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de una demanda de amparo constitucional interpuesta por el abogado Ricardo Alejandro Ávalos Salazar en representación de los ciudadanos Fabio Leguizamón Pulido y Dairo Ederlan Leguizamón Pulido. La acción se dirigió contra el Ministro del Poder Popular de Relaciones Exteriores por la omisión en realizar los trámites necesarios para ejecutar una sentencia de extradición.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "extradición",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional relacionado con extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-19_S0034_E19-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309510-0034-19220-2020-19-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.139238"
+}

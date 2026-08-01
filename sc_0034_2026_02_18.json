@@ -1,0 +1,23 @@
+{
+  "id": 16731,
+  "numero": "0034",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1795, declarando improcedente la solicitud de amparo constitucional interpuesta por la abogada Yelitza Tibisay Trossell en representación de José Rafael Rodríguez Rodríguez Meza. La decisión se basa en que la Corte de Apelaciones actuó dentro de sus competencias al mantener la medida privativa de libertad del demandado, a pesar de su estado de salud, argumentando que no se evidenció que su condición justificara una medida cautelar sustitutiva. La Sala reafirma que los delitos de violencia sexual contra niños y adolescentes son considerados atroces y no permiten beneficios procesales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "derechos humanos",
+    "delitos atroces"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0034_E24-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352713-0034-18226-2026-24-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.065705"
+}

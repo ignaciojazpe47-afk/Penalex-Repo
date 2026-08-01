@@ -1,0 +1,25 @@
+{
+  "id": 18436,
+  "numero": "0130",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados de los ciudadanos Chaffardet, Guerrero y Rodríguez, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que la situación de agravio denunciada había cesado, ya que el Juzgado Décimo Sexto había admitido la querella y notificado al Ministerio Público. La decisión se basa en la falta de pronunciamiento por parte del juzgado, pero se concluyó que no existía una violación actual de derechos constitucionales.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "normativa"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0130_E20-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341535-0130-13225-2025-20-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.766822"
+}

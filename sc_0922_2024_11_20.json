@@ -1,0 +1,26 @@
+{
+  "id": 27716,
+  "numero": "0922",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Juan Manuel Faneite Gómez en nombre de Gualberto Enrique Faneite Ávila, respecto a la sentencia N° 363 dictada el 4 de agosto de 2022 por la Sala Político Administrativa. La inadmisibilidad se fundamenta en la falta de presentación de un poder que acredite la representación del solicitante, requisito indispensable para la admisión de la solicitud. La Sala establece que el Poder Judicial venezolano no tiene jurisdicción para conocer la demanda por cumplimiento de contrato contra el Banco Occidental de Descuento, dado que las entidades demandadas tienen domicilio en el extranjero.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derecho de defensa",
+    "debido proceso",
+    "banca",
+    "contratos",
+    "sentencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0922_E23-0662.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339199-0922-201124-2024-23-0662.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.189963"
+}

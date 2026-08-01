@@ -1,0 +1,24 @@
+{
+  "id": 23393,
+  "numero": "1908",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologa el desistimiento",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 0785, del 14 de noviembre de 2024, se declaró competente para conocer la solicitud de revisión constitucional de una sentencia anterior. Posteriormente, el abogado Francisco Nicolás Olivo Córdova, apoderado de Cines Unidos, solicitó desistirse del procedimiento, lo cual fue homologado por la Sala, considerando que no existían violaciones al orden público ni a las buenas costumbres.",
+  "palabras_clave": [
+    "desistimiento",
+    "jurisdicción",
+    "derechos",
+    "procedimiento",
+    "autocomposición"
+  ],
+  "titulo": "Sentencia sobre homologación de desistimiento en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1908_E16-1126.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350794-1908-281125-2025-16-1126.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.797438"
+}

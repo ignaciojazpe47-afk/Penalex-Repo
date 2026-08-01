@@ -1,0 +1,26 @@
+{
+  "id": 33837,
+  "numero": "1984",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Ha lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 15 de diciembre de 2023, declaró ha lugar la solicitud de revisión constitucional presentada por la corporación Venezolana de Televisión, C.A. (VENEVISIÓN) contra la sentencia dictada el 11 de octubre de 2023 por el Juzgado Primero Superior Laboral. La Sala determinó que el Juzgado había violado los derechos a la defensa y al debido proceso al declarar desistido el recurso de apelación, ya que el juez se encontraba de reposo médico durante parte del lapso procesal.",
+  "palabras_clave": [
+    "revisión",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "sentencia",
+    "apelación",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la decisión del Juzgado Primero Superior Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1984_E23-0458.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331954-1984-151223-2023-23-0458.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.431178"
+}

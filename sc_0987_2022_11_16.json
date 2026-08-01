@@ -1,0 +1,25 @@
+{
+  "id": 37431,
+  "numero": "0987",
+  "fecha": "2022-11-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por José Rafael Mata Pérez, quien actuaba como representante de la ciudadana Josian Nayith García. El recurso fue presentado contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del estado Anzoátegui, que declaró inadmisible la acción de amparo constitucional. La Sala constató que el apelante no cumplió con la carga procesal de demostrar su representación, lo que llevó a la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "justicia",
+    "temporalidad",
+    "derechos",
+    "competencia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-16_S0987_E19-0508.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320836-0987-161122-2022-19-0508.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.347726"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28600,
+  "numero": "1431",
+  "fecha": "2024-12-02",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación de Carlos Eduardo Mazza Mirabal contra la decisión del Juzgado Superior Noveno que declaró inadmisible su acción de amparo constitucional. La apelación se fundamentó en la vulneración de derechos constitucionales a la libertad económica, propiedad y libre asociación por parte de la sociedad mercantil Limpiadores Industriales Lipesa, C.A. La Sala se declaró competente para conocer del recurso de apelación y ordenó al Juzgado Undécimo de Primera Instancia informar sobre el estado actual de la causa relacionada con la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "herencia",
+    "sociedades",
+    "derechos",
+    "justicia",
+    "acción",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1431_E22-0805.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340624-1431-121224-2024-22-0805.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.050933"
+}

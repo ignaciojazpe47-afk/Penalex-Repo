@@ -1,0 +1,23 @@
+{
+  "id": 41286,
+  "numero": "0081",
+  "fecha": "2020-07-22",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.247, que establece el Estado de Alarma en todo el territorio nacional debido a la pandemia de COVID-19. Este decreto busca adoptar medidas urgentes para proteger la salud pública y garantizar la atención oportuna de los casos relacionados con el virus. La decisión se fundamenta en la necesidad de mitigar y erradicar los riesgos de epidemia, asegurando la preservación de la salud de la población venezolana.",
+  "palabras_clave": [
+    "Estado de Alarma",
+    "COVID-19",
+    "Constitucionalidad",
+    "Salud Pública"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 4.247 sobre Estado de Alarma por COVID-19",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-07-22_S0081_E20-0250.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/309932-0081-22720-2020-20-0250.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.116159"
+}

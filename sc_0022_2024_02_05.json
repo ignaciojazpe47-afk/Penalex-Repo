@@ -1,0 +1,25 @@
+{
+  "id": 24075,
+  "numero": "0022",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por varios ciudadanos contra el alcalde del municipio Baruta, Darwin González Padilla, por la presunta violación de sus derechos a una vivienda digna. La Sala determina que la competencia corresponde a un Juzgado Superior Estadal de la Jurisdicción Contencioso Administrativa de la Región Capital.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "funcionarios",
+    "justicia",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0022_E23-1117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332374-0022-5224-2024-23-1117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.832735"
+}

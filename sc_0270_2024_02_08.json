@@ -1,0 +1,24 @@
+{
+  "id": 26654,
+  "numero": "0270",
+  "fecha": "2024-02-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "El ciudadano Fabio Aru solicitó la revisión de la sentencia N° 461 dictada por la Sala de Casación Penal, que declaró la nulidad absoluta de la audiencia preliminar y decretó el sobreseimiento de la causa. La Sala Constitucional, al recibir la solicitud, designó a la Magistrada Dra. Michel Adriana Velásquez Grillet como ponente y se declaró competente para conocer del caso. En su argumentación, el solicitante expone que la decisión de la Sala de Casación Penal vulneró su derecho a la seguridad jurídica y afectó su expectativa sobre el fenecimiento del proceso penal.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "nulidad",
+    "audiencia preliminar",
+    "sobreseimiento"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0270_E24-0138.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337836-0270-171024-2024-24-0138.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.566941"
+}

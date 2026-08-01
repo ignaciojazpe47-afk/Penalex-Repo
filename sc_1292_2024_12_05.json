@@ -1,0 +1,24 @@
+{
+  "id": 28334,
+  "numero": "1292",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta conjuntamente con un recurso de inconstitucionalidad por varios ciudadanos contra dos resoluciones del Consejo Nacional Electoral. Estas resoluciones establecen normas especiales para las elecciones a la Asamblea Nacional y un reglamento para la elección de la representación indígena, ambas de fecha 30 de junio de 2020. La Sala considera que la acumulación de pretensiones es incompatible y, por lo tanto, inadmisible según la ley.",
+  "palabras_clave": [
+    "Amparo",
+    "Inconstitucionalidad",
+    "Consejo Nacional Electoral",
+    "Elecciones",
+    "Normas Especiales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional y recurso de inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1292_E20-0261.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340251-1292-51224-2024-20-0261.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.230727"
+}

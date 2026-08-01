@@ -1,0 +1,26 @@
+{
+  "id": 43561,
+  "numero": "0235",
+  "fecha": "2019-07-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por el abogado Iván Alfonso Venegas Guarín, actuando como apoderado judicial de los ciudadanos Jorge Nicolás Albahaca Rivero y Dilia Luisa Lugo Figuera. La acción de amparo fue fundamentada en la falta de actividad procesal oportuna por parte del juez de control, lo que supuestamente vulneraba los derechos al debido proceso de los accionantes. Sin embargo, se determinó que el Tribunal de Control estaba realizando los trámites necesarios para garantizar la tutela judicial efectiva, lo que llevó a la declaración de improcedencia de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "legitimación",
+    "representación",
+    "derechos constitucionales",
+    "juez de control",
+    "acción judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-18_S0235_E18-0473.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306360-0235-18719-2019-18-0473.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.403706"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 56177,
+  "numero": "58",
+  "fecha": "2016-03-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos juzgados respecto a una acción de amparo interpuesta por José Rafael Rivas contra el Instituto Venezolano de los Seguros Sociales. El demandante alegó la suspensión arbitraria de su pensión de vejez, solicitando que se ordenara su reintegración a la nómina de pensionados. La Sala determinó que la competencia para conocer del amparo corresponde a los Juzgados Laborales de Primera Instancia, dado que la controversia se relaciona con la seguridad social y el pago de pensiones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "conflicto de competencia",
+    "pensión de vejez",
+    "seguridad social"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-02_S58_E15-1394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185733-58-2316-2016-15-1394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.610375"
+}

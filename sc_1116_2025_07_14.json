@@ -1,0 +1,25 @@
+{
+  "id": 20915,
+  "numero": "1116",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión de una sentencia dictada por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito del estado Monagas, que declaró Con Lugar una acción de nulidad de asiento registral. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente correspondiente para verificar las alegaciones de violaciones constitucionales planteadas por la parte solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos constitucionales",
+    "debido proceso",
+    "interpretación de normas",
+    "potestad revisora",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1116_E24-0580.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346023-1116-14725-2025-24-0580.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.392131"
+}

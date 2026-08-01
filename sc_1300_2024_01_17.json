@@ -1,0 +1,24 @@
+{
+  "id": 28342,
+  "numero": "1300",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologación del desistimiento",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara competente para conocer de la revisión constitucional solicitada por Roberto De Biase De Frino, quien desistió del recurso de revisión contra la sentencia de la Sala de Casación Civil. El desistimiento fue presentado por su abogado, cumpliendo con los requisitos legales establecidos. La Sala acuerda la homologación del desistimiento, dando por terminado el procedimiento.",
+  "palabras_clave": [
+    "desistimiento",
+    "revisión",
+    "procedimiento civil",
+    "sentencias",
+    "homologación"
+  ],
+  "titulo": "Homologación del desistimiento en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1300_E22-0787.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340259-1300-51224-2024-22-0787.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.838657"
+}

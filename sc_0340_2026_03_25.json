@@ -1,0 +1,23 @@
+{
+  "id": 17326,
+  "numero": "0340",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de revisión constitucional presentada por la Compañía Panameña de Aviación, S.A. (COPA AIRLINES) contra la decisión de la Sala de Casación Social que había declarado con lugar un recurso de casación interpuesto por la abogada María del Rosario Bernardoni de Govea. La Sala Constitucional consideró que la sentencia de la Sala de Casación Social había violado derechos fundamentales como el debido proceso y la tutela judicial efectiva, al no considerar adecuadamente la naturaleza civil de la relación entre las partes, que se basaba en un contrato de prestación de servicios profesionales y no en una relación laboral.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "relación laboral",
+    "contrato de servicios",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0340_E26-0249.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354326-0340-25326-2026-26-0249.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.563749"
+}

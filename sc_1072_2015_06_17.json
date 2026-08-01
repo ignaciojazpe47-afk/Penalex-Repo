@@ -1,0 +1,23 @@
+{
+  "id": 65852,
+  "numero": "1072",
+  "fecha": "2015-06-17",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta De Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, inadmite la solicitud de revisión presentada por el abogado Alberto José Boscán Pérez en nombre de la ciudadana Yorley Zerpa. La solicitud se fundamenta en la alegación de violaciones a derechos fundamentales y garantías procesales en el proceso penal que culminó con una condena de veintiún años y tres meses de prisión por secuestro agravado y asociación para delinquir. Sin embargo, la Sala determina que el abogado no presentó la documentación necesaria que acreditara su carácter de defensor privado, lo que impide su legitimación para interponer la revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "Constitucional",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-10_S1072_E15-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180607-1072-10815-2015-15-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.326132"
+}

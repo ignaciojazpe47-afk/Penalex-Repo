@@ -1,0 +1,23 @@
+{
+  "id": 18803,
+  "numero": "0329",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente in limine litis la acción de amparo constitucional interpuesta por los abogados de Frank Luis Bravo Medina, contra la decisión de la Sala Accidental N° 2 de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La acción se fundamentó en la supuesta violación del derecho a la tutela judicial efectiva y el debido proceso, alegando que el tribunal de apelación actuó de manera incompetente. Sin embargo, se concluyó que el tribunal actuó dentro de sus atribuciones y no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0329_E24-0449.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342276-0329-13325-2025-24-0449.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.730363"
+}

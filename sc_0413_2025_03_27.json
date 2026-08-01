@@ -1,0 +1,26 @@
+{
+  "id": 19112,
+  "numero": "0413",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Gustavo Adolfo Rodríguez Ávila contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal. La Sala declaró su competencia para conocer el caso, dado que la acción se dirigía contra una sentencia de última instancia. Se ordenó a la Presidencia del Circuito Judicial Penal que informara sobre el cumplimiento de la sentencia impugnada y el estatus actual de la causa.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "delitos",
+    "justicia"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Gustavo Adolfo Rodríguez Ávila",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0413_E24-0438.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342697-0413-27325-2025-24-0438.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.614191"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 27455,
+  "numero": "0775",
+  "fecha": "2024-11-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un amparo constitucional interpuesto por el Instituto Nacional de Tierras Urbanas (INTU) contra una decisión del Juzgado Cuarto Superior del Trabajo que revocó una sentencia anterior. La Sala consideró que la decisión impugnada violó el debido proceso al no circunscribirse a revisar si el fallo de instancia se apartó del orden público o violentó normas de rango constitucional. Se ordenó al juzgado remitente enviar el expediente completo para su revisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "reenganche",
+    "administracion_publica",
+    "derechos_laborales",
+    "inspectorias_del_trabajo",
+    "sentencias",
+    "justicia",
+    "constitucion"
+  ],
+  "titulo": "Decisión sobre amparo constitucional interpuesto por el INSTITUTO NACIONAL DE TIERRAS URBANAS",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0775_E15-1021.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338888-0775-131124-2024-15-1021.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.300760"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33906,
+  "numero": "2053",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Homologa el desistimiento",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por los ciudadanos Rodolfo Henrique Álvarez López y Gabriel Andrés Rodríguez Dávila, representados por sus abogados. La solicitud se fundamentó en la alegación de violaciones al orden público constitucional en varios expedientes penales. Sin embargo, el 25 de septiembre de 2023, los solicitantes decidieron desistir de la solicitud de avocamiento. La Sala, tras evaluar el desistimiento, lo homologó, considerando que los abogados tenían la facultad para realizar tal acto procesal.",
+  "palabras_clave": [
+    "desistimiento",
+    "poderes",
+    "abogados",
+    "victimas",
+    "procedimiento",
+    "justicia"
+  ],
+  "titulo": "Solicitud de Avocamiento y Desistimiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2053_E23-0225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332023-2053-191223-2023-23-0225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.694768"
+}

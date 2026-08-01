@@ -1,0 +1,26 @@
+{
+  "id": 28408,
+  "numero": "1350",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por el abogado Damasco Antonio Cabrera Velásquez, defensor de ASTRID JULYBETH JEREZ AGREDO, quien fue condenada a tres años y seis meses de prisión por la admisión de hechos en relación con delitos informáticos y violación de normas cambiarias. La sentencia cuestionada fue dictada el 11 de septiembre de 2014 por el Tribunal Tercero de Primera Instancia Estadal en funciones de Control, en San Cristóbal, Táchira.\n\nEl abogado alegó violaciones al debido proceso y a derechos constitucionales, argumentando que la decisión del juez fue contradictoria y que no se aplicó la sana crítica en la evaluación de pruebas. Sin embargo, la Sala Constitucional determinó que no hubo violaciones a los derechos de la acusada y que la sentencia impugnada se ajustó a derecho, por lo que declaró que no ha lugar a la solicitud de revisión.\n\nFinalmente, la Sala, presidida por la Magistrada Tania D'Amelio Cardiet, junto a otros magistrados, decidió mantener la condena y desestimar la solicitud de revisión, reafirmando la legalidad del procedimiento seguido en el caso.",
+  "palabras_clave": [
+    "sana critica",
+    "audiencia preliminar",
+    "admisión de hechos",
+    "expectativa condenatoria",
+    "Código Orgánico Procesal Penal",
+    "principio de inocencia",
+    "control judicial"
+  ],
+  "titulo": "Revisión constitucional de sentencia condenatoria por admisión de hechos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1350_E22-0502.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340364-1350-101224-2024-22-0502.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.224609"
+}

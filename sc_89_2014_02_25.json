@@ -1,0 +1,22 @@
+{
+  "id": 69280,
+  "numero": "89",
+  "fecha": "2014-02-25",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo presentada por el abogado Pedro Luis Bracho Fuenmayor en representación de Edgar Luis Medina Montero, debido a la falta de respuesta del Juzgado Octavo de Primera Instancia en Funciones de Juicio del Estado Zulia ante una solicitud de decaimiento de medida de privación judicial preventiva de libertad. La Sala constató que el juez provisorio había cesado en sus funciones sin que se nombrara un reemplazo, lo que generó la inoperancia del juzgado.",
+  "palabras_clave": [
+    "amparo",
+    "falta de juez",
+    "privación de libertad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo por falta de juez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-02-25_S89_E14-0047.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/161565-89-25214-2014-14-0047.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:11.324831"
+}

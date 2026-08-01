@@ -1,0 +1,23 @@
+{
+  "id": 23066,
+  "numero": "1834",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Xiomara Josefina Antúnez Acevedo, madre del ciudadano Luis Alberto Aparicio Antúnez, argumentando que la accionante carecía de legitimación activa para actuar en nombre de su hijo. La Corte de Apelaciones había determinado que la madre no había sido afectada directamente en el proceso penal que se seguía contra su hijo, lo que la descalificaba para presentar la acción de amparo. La Sala también advirtió que la Corte de Apelaciones erróneamente fundamentó la inadmisibilidad en el artículo 18 de la Ley Orgánica de Amparo, cuando debió basarse en la jurisprudencia sobre la legitimación activa.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva",
+    "Legitimación Activa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1834_E25-0120.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349958-1834-181125-2025-25-0120.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.065232"
+}

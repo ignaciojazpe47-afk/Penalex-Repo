@@ -1,0 +1,22 @@
+{
+  "id": 34341,
+  "numero": "0020",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "CON LUGAR la acción incoada y ANULE la referida decisión",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional presentada por Judith María Palmera Querales en representación de Fares Abou-Hanna Abou Kais, contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Lara. La acción se fundamentó en la alegación de violación del debido proceso y la tutela judicial efectiva en la sentencia dictada el 14 de marzo de 2019, corregida el 18 de marzo de 2019, que declaró con lugar la apelación interpuesta por la parte demandada.\nLa Sala consideró que la decisión impugnada vulneró los derechos del agraviado al no motivar adecuadamente su resolución, lo que impidió el ejercicio pleno del derecho a la propiedad. En consecuencia, se declaró nula la decisión del Juzgado Superior y se ordenó la restitución de los derechos constitucionales del demandante, anulando la sentencia cuestionada.\nFinalmente, la Sala apercibió a la jueza agraviante para que en futuras decisiones realice una correcta interpretación de las normas jurídicas, garantizando así el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la propiedad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0020_E19-0443.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315532-0020-11222-2022-19-0443.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.718779"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 57766,
+  "numero": "466",
+  "fecha": "2016-06-13",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional presentada por Fadi Bassil Nicolas contra la sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Miranda, que había declarado improcedente su demanda de resolución de contrato de venta. La Sala consideró que existían razones de orden público que justificaban el conocimiento de la acción a pesar de la caducidad del plazo para su interposición.\n\nEn su decisión, la Sala revocó la sentencia del Juzgado Superior, argumentando que la interpretación de las obligaciones contractuales debía ser conforme a la ley y a los principios que rigen el ordenamiento jurídico. Se destacó que la venta como contrato consensual existe desde el momento en que las partes manifiestan su acuerdo, y que la obligación de pago no puede condicionar la validez del contrato registrado.\n\nFinalmente, la Sala declaró con lugar la acción de amparo, ordenando la notificación de la decisión al Juzgado Superior y a la parte demandada, así como a la Fiscal General de la República, para garantizar el cumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "resolución de contrato",
+    "orden público",
+    "contrato de venta"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Resolución de Contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-06-13_S466_E15-1411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/188188-466-13616-2016-15-1411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.771434"
+}

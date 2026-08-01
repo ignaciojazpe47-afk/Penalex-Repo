@@ -1,0 +1,26 @@
+{
+  "id": 32999,
+  "numero": "1568",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La ciudadana Jacqueline Del Valle Sosa Mariño solicitó revisión constitucional de una sentencia de desalojo dictada en 2015. La Sala Constitucional, tras analizar el expediente, decidió suspender los efectos de la sentencia impugnada y ordenó al Juzgado Superior remitir las actuaciones pertinentes. Se destacó la importancia de cumplir con las órdenes de la Sala para evitar sanciones por desacato.",
+  "palabras_clave": [
+    "desalojo",
+    "revisión constitucional",
+    "sentencia",
+    "tribunales",
+    "procedimiento",
+    "derechos",
+    "arrendamiento"
+  ],
+  "titulo": "Decisión sobre revisión constitucional y medida cautelar en juicio de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1568_E17-0218.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330623-1568-271123-2023-17-0218.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.423679"
+}

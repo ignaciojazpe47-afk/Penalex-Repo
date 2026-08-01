@@ -1,0 +1,22 @@
+{
+  "id": 21233,
+  "numero": "1247",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los ciudadanos John William Galioto Fernández y Gabriel Eduardo Lombana Salas, quienes impugnaron la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en que los demandantes habían optado por recurrir a vías judiciales ordinarias, lo que resultó en la inadmisibilidad de la acción de amparo según el artículo 6 numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala Constitucional, tras analizar el caso, confirmó la decisión de la Corte de Apelaciones, argumentando que los demandantes contaban con medios ordinarios para impugnar las decisiones judiciales que consideraban lesivas a sus derechos. En consecuencia, se declaró sin lugar la apelación y se confirmó la inadmisibilidad de la acción de amparo, reafirmando la importancia de agotar las vías judiciales ordinarias antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1247_E25-0487.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346544-1247-28725-2025-25-0487.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.373015"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 23425,
+  "numero": "1940",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por el abogado Carlos J. Villarroel en representación de Andrea Falcone Bonazzo, en contra de la Jueza Cuadragésima Segunda de Primera Instancia Estadal por omisión de pronunciamiento judicial. La acción fue motivada por la falta de respuesta a solicitudes de control judicial realizadas por la defensa en el marco de un proceso penal en curso.\nLa Sala determinó su competencia para conocer del caso y, tras evaluar los argumentos presentados, decidió admitir la acción de amparo, considerando que la omisión de la jueza afectaba los derechos fundamentales del demandante al debido proceso y a la tutela judicial efectiva. Se ordenó la remisión de documentos necesarios para la sustanciación del caso.\nFinalmente, la Sala resolvió declarar con lugar la acción de amparo, instando a la Jueza a cumplir con sus obligaciones jurisdiccionales y a emitir el pronunciamiento correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento judicial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1940_E25-0965.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350826-1940-281125-2025-25-0965.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.792381"
+}

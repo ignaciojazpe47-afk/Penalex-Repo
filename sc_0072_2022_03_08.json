@@ -1,0 +1,22 @@
+{
+  "id": 34614,
+  "numero": "0072",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión constitucional solicitada por el Síndico Procurador del Municipio Atures del Estado Amazonas, en relación a la sentencia N° 2017-403 de la Corte Segunda de lo Contencioso Administrativo. La Sala constató irregularidades en el proceso, destacando la paralización del expediente y la falta de notificación adecuada a las partes involucradas, lo que generó un estado de indefensión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "paralización del proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0072_E17-1121.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315922-0072-8322-2022-17-1121.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.441722"
+}

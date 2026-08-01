@@ -1,0 +1,24 @@
+{
+  "id": 18193,
+  "numero": "0043",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Julio César Tovar López, quien alegó la omisión de pronunciamiento por parte de la Corte de Apelaciones del Circuito Judicial Penal del estado Yaracuy. La acción se relaciona con un recurso de apelación de autos que no fue atendido por la referida Corte, afectando los derechos del demandante al debido proceso y acceso a la justicia.\n\nLa Sala, tras analizar la competencia y los fundamentos del caso, decidió asumir la competencia para conocer de la acción de amparo, considerando que la omisión de pronunciamiento por parte de la Corte de Apelaciones vulnera derechos constitucionales. En consecuencia, se ordenó a la Corte de Apelaciones que informara sobre el estado del recurso de apelación y se advirtió sobre las consecuencias de la desatención a las órdenes de la Sala.\n\nFinalmente, la decisión fue firmada por la Presidenta de la Sala, Tania D'Amelio Cardiet, y otros magistrados, destacando la importancia de la tutela judicial efectiva en el contexto de la administración de justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "debido proceso",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0043_E24-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341209-0043-5225-2025-24-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.569111"
+}

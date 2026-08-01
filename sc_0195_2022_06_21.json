@@ -1,0 +1,23 @@
+{
+  "id": 35127,
+  "numero": "0195",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Hugo Antonio Martínez Zuñiga en favor de Norbeis Martínez Torres, quien había sido privado de libertad. La Sala determinó su competencia para conocer el caso, pero finalmente negó la solicitud de avocamiento al considerar que el juzgado de origen había resuelto la acción de amparo constitucional interpuesta.",
+  "palabras_clave": [
+    "avocamiento",
+    "habeas corpus",
+    "derecho a la defensa",
+    "detención arbitraria"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en caso de Norbeis Martínez Torres",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0195_E16-1008.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317456-0195-21622-2022-16-1008.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.620791"
+}

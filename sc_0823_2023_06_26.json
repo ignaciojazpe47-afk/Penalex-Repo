@@ -1,0 +1,24 @@
+{
+  "id": 31040,
+  "numero": "0823",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara incompetente para conocer la acción de amparo interpuesta y se remite al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del Estado Zulia.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Tribunal Tercero Penal de Primera Instancia Estadal y Municipal en funciones de Control del Estado Zulia, declinando su competencia en una acción de amparo constitucional interpuesta contra el Gobernador del Estado Zulia, Omar José Prieto Fernández. La acción se fundamentó en declaraciones del Gobernador que amenazaban derechos constitucionales en el contexto de la pandemia de COVID-19. La Sala, tras revisar el caso, declaró que no tenía competencia para conocer la acción de amparo y remitió el expediente al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del Estado Zulia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Zulia",
+    "Omar Prieto Fernández",
+    "derechos constitucionales",
+    "COVID-19"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el Gobernador del Estado Zulia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0823_E20-0257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326479-0823-26623-2023-20-0257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.554620"
+}

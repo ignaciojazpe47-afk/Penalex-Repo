@@ -1,0 +1,26 @@
+{
+  "id": 32288,
+  "numero": "1442",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por Edgar José Romero Molero contra la decisión de la Sala de Casación Civil, argumentando que no se cumplió con la exigencia de presentar copia certificada del fallo impugnado. La Sala reafirma su competencia para conocer de la revisión, pero señala que la falta de documentación necesaria impide el análisis del caso. La decisión se fundamenta en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "inadmisibilidad",
+    "carga procesal",
+    "constitucionalidad",
+    "normas",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1442_E23-0746.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329317-1442-131023-2023-23-0746.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.394746"
+}

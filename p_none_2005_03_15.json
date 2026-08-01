@@ -1,0 +1,22 @@
+{
+  "id": 10648,
+  "numero": null,
+  "fecha": "2005-03-15",
+  "anio": 2005,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Magistrada Blanca Rosa Mármol de León presenta la decisión del Tribunal Supremo de Justicia en relación a un recurso de casación interpuesto por el Fiscal Noveno del Ministerio Público contra una decisión de la Corte de Apelaciones que había declarado sin lugar un recurso de apelación. La Sala de Casación Penal, tras analizar las pruebas y alegatos, concluye que hubo violaciones a la ley en la valoración de pruebas, específicamente en relación al protocolo de autopsia, y decide anular las sentencias previas, ordenando un nuevo juicio oral.",
+  "palabras_clave": [
+    "Homicidio Intencional",
+    "Casación Penal",
+    "Protocolo de Autopsia"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_RC04-0335.HTM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:04.685762"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3300,
+  "numero": null,
+  "fecha": "2006-04-06",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de nulidad interpuesto contra los artículos 30, 66 y 68, así como el Grupo XXIII del Clasificador de Actividades de la Ordenanza número 004-02 sobre Actividades Económicas del Municipio Chacao, por considerarlos inconstitucionales. Se argumenta que la regulación de las profesiones liberales es competencia exclusiva del Poder Público nacional, y que la interpretación del término 'servicios' en el contexto de la ordenanza no incluye a las profesiones liberales, que son de naturaleza civil y no mercantil. La sentencia establece que los municipios no pueden gravar actividades profesionales con impuestos que son reservados al legislador nacional.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "actividades económicas",
+    "profesiones liberales",
+    "impuestos municipales"
+  ],
+  "titulo": "Sentencia que anula artículos de la Ordenanza sobre Actividades Económicas del Municipio Chacao",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-04-06_Constitucional_02.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.500327"
+}

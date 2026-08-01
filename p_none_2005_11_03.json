@@ -1,0 +1,18 @@
+{
+  "id": 11111,
+  "numero": null,
+  "fecha": "2005-11-03",
+  "anio": 2005,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "HÉCTOR MANUEL CORONADO FLORES",
+  "resumen": "La Sala N° 8 de la Corte de Apelaciones declaró inadmisible el recurso de apelación por considerarlo extemporáneo. Sin embargo, el Tribunal Supremo de Justicia, al revisar el caso, determinó que el lapso para interponer el recurso debía contarse a partir de la notificación efectiva al acusado, no desde la publicación del fallo. Por lo tanto, se vulneraron las garantías del debido proceso y se declaró la nulidad de la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [],
+  "titulo": "Nulidad de decisión de la Corte de Apelaciones por inadmisibilidad del recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_cf238833d4e2f619b78a11f9d60d0a8f_ManuelCoronado.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:02.678997"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33188,
+  "numero": "1691",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por el abogado Oscar Luis Padra, actuando en nombre de las ciudadanas Jessica González y Daniella Marie González Pownall, contra la sentencia del Juzgado Superior Segundo que declaró inadmisible la acción de amparo constitucional. La decisión se fundamenta en que existían recursos ordinarios que podían ser utilizados por la parte presuntamente agraviada, lo que hacía innecesaria la vía de amparo. La Sala reafirmó que el amparo no puede ser un sustituto de los recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "procedimiento civil",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1691_E22-0947.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330930-1691-11223-2023-22-0947.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.169014"
+}

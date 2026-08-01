@@ -1,0 +1,25 @@
+{
+  "id": 30573,
+  "numero": "0619",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Alcides Navarro Silva, en su calidad de Defensor Público de los ciudadanos Yopcen Enmanuel Márquez Puentes y María Yaneth Puentes Rosas. La apelación se dirigía contra la sentencia dictada el 27 de junio de 2019 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas, que había declarado inadmisible la acción de amparo constitucional interpuesta por no haber acompañado la solicitud con la copia fotostática certificada de los actos omisivos que se alegaban como violatorios de derechos constitucionales.\n\nLa Sala confirma la inadmisibilidad de la acción de amparo, argumentando que la situación jurídica denunciada cesó cuando el Tribunal Primero en Funciones de Control se pronunció sobre la ejecución de la fianza acordada. Se establece que no se puede admitir un amparo cuando la violación o amenaza de derechos ha cesado, conforme a lo dispuesto en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nFinalmente, se ratifica que el recurso de apelación es inadmisible y se confirma el fallo apelado en los términos expuestos, reafirmando la importancia de cumplir con los requisitos formales en las acciones de amparo constitucional.",
+  "palabras_clave": [
+    "habeas corpus",
+    "detención",
+    "fianza",
+    "derechos humanos",
+    "debido proceso",
+    "justicia penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0619_E19-0387.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325707-0619-30523-2023-19-0387.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.941984"
+}

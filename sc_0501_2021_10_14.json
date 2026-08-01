@@ -1,0 +1,26 @@
+{
+  "id": 39834,
+  "numero": "0501",
+  "fecha": "2021-10-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por OPPEIN ÓPTIMA KITCHEN, C.A. contra la sentencia de la Sala de Casación Civil que declaró sin lugar el recurso de casación. La Sala consideró que existieron violaciones a los derechos constitucionales de la solicitante, específicamente en relación a la falta de cualidad del demandante y el derecho a la defensa. Se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "sentencia",
+    "medida cautelar",
+    "derechos constitucionales",
+    "vicios procesales",
+    "suspensión"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-14_S0501_E21-0440.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313717-0501-141021-2021-21-0440.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.128194"
+}

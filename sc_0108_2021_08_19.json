@@ -1,0 +1,26 @@
+{
+  "id": 18352,
+  "numero": "0108",
+  "fecha": "2021-08-19",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia nro. 00284 dictada por la Sala de Casación Civil, que había declarado 'PERECIDO' el recurso de casación y 'CON LUGAR' la demanda por partición y liquidación de herencia. La Sala Constitucional determinó su competencia para conocer la solicitud de revisión y ordenó solicitar al Juzgado Primero de Primera Instancia Civil el expediente correspondiente al juicio de partición. Se estableció que la revisión se fundamenta en la necesidad de verificar el estado civil del ciudadano Geo Monti Lugari al momento de la venta de un inmueble, para determinar su inclusión en el acervo hereditario.",
+  "palabras_clave": [
+    "partición",
+    "herencia",
+    "estado civil",
+    "tutela",
+    "derechos constitucionales",
+    "sentencia",
+    "revisión"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia nro. 00284",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0108_E21-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341444-0108-12225-2025-21-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.734750"
+}

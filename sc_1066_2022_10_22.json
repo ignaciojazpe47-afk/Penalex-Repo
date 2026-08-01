@@ -1,0 +1,24 @@
+{
+  "id": 37711,
+  "numero": "1066",
+  "fecha": "2022-10-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación interpuesto por varios ciudadanos sobre la convocatoria de una Asamblea Nacional Constituyente. Se argumenta que los solicitantes no demostraron un interés jurídico actual y legítimo que justifique la intervención del Tribunal en este caso. La decisión se basa en la falta de legitimación de los recurrentes y en la insuficiencia de su solicitud para instar a la Sala a pronunciarse.",
+  "palabras_clave": [
+    "interpretacion constitucional",
+    "asamblea nacional constituyente",
+    "derechos humanos",
+    "conflictos constitucionales",
+    "normas constitucionales"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-29_S1066_E22-0097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321260-1066-291122-2022-22-0097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.094972"
+}

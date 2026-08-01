@@ -1,0 +1,23 @@
+{
+  "id": 31037,
+  "numero": "0820",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia conoció de una demanda de nulidad por inconstitucionalidad interpuesta por las Cámaras de Industriales y de Comercio del Estado Aragua y Mérida contra la Ley que crea el Impuesto a los Grandes Patrimonios. La Sala declaró su competencia para conocer el caso, pero observó que desde la presentación de la demanda en noviembre de 2019 hasta enero de 2023 no hubo interés procesal por parte de los demandantes, lo que llevó a declarar la pérdida del interés procesal y el abandono del trámite. La decisión se fundamenta en la falta de impulso procesal y la inactividad de los demandantes durante más de tres años.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "interés procesal",
+    "abandonar trámite"
+  ],
+  "titulo": "Sentencia sobre nulidad por inconstitucionalidad de la Ley del Impuesto a los Grandes Patrimonios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0820_E19-0704.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326476-0820-26623-2023-19-0704.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.556383"
+}

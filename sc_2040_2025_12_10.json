@@ -1,0 +1,25 @@
+{
+  "id": 23820,
+  "numero": "2040",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Richard Alexis Valderrama Velásquez y Miguel Ángel Valderrama Velásquez, contra la decisión de la Corte de Apelaciones que declaró inadmisible el recurso de apelación. La Sala consideró que la decisión impugnada vulneró el derecho a la defensa y la tutela judicial efectiva de los demandantes, al no valorar adecuadamente los elementos probatorios presentados en el proceso penal. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se ordenó que otra Corte se pronuncie sobre la admisibilidad de la apelación.",
+  "palabras_clave": [
+    "apelación",
+    "proceso penal",
+    "auto de pase a juicio",
+    "inapelabilidad",
+    "violencia contra la mujer",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2040_E25-1113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351853-2040-101225-2025-25-1113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.748875"
+}

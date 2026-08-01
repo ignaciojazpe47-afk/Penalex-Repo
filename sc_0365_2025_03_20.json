@@ -1,0 +1,26 @@
+{
+  "id": 18923,
+  "numero": "0365",
+  "fecha": "2025-03-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0283 de la Sala de Casación Social, que anuló parcialmente un fallo del Juzgado Tercero Superior del Trabajo. La revisión se solicitó por la sociedad mercantil Servicios Halliburton de Venezuela, S.A., argumentando violaciones al debido proceso y a la tutela judicial efectiva. La Sala Constitucional, tras analizar los alegatos, concluyó que la solicitud de revisión no procedía y declaró 'NO HA LUGAR' a la misma, manteniendo la decisión de la Sala de Casación Social.",
+  "palabras_clave": [
+    "casación",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "derecho a la defensa",
+    "doctrina vinculante",
+    "LOT",
+    "CPC"
+  ],
+  "titulo": "Revisión de sentencia N° 0283 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-20_S0365_E24-1281.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342460-0365-20325-2025-24-1281.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.720352"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34150,
+  "numero": "1258",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Gabriel Ramón Leal Cedillo en representación de Carlos Alberto García y Alexandra Isabel Becerra Brito. La acción se fundamenta en la alegación de violaciones a derechos constitucionales por parte de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que declaró inadmisible un recurso de apelación por considerarlo extemporáneo. La Sala ordenó la remisión de ciertos documentos y la verificación de plazos procesales para decidir sobre la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "Corte de Apelaciones",
+    "sentencia",
+    "violación de derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1258_E22-0740.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328462-1258-15823-2023-22-0740.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.858006"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 64602,
+  "numero": "729",
+  "fecha": "2015-06-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia n.° 1371 en respuesta a un amparo constitucional interpuesto por María Dolores Azuaje contra una decisión de la Corte de Apelaciones que declaró la nulidad de un auto del Juzgado Octavo. La Sala consideró que la Corte de Apelaciones había violado derechos constitucionales al otorgar al demandado un nuevo lapso para presentar objeciones, lo que no se había concedido a la demandante. Por lo tanto, se declaró con lugar el amparo y se ordenó que se mantuviera firme la decisión del Juzgado de Primera Instancia que había condenado al demandado a pagar daños morales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "daño moral",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de daño moral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-18_S729_E12-1298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178640-729-18615-2015-12-1298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.254249"
+}

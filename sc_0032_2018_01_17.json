@@ -1,0 +1,27 @@
+{
+  "id": 45036,
+  "numero": "0032",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el abogado Antonio José D’Jesús Pérez en representación de Stefano Tassinari. La solicitud se fundamentó en la falta de notificación de la renuncia del apoderado judicial de la parte demandante, lo que generó indefensión y vulneró el derecho a la defensa. La Sala constató que la renuncia no fue debidamente notificada, lo que llevó a declarar la nulidad del auto que declaró firme la sentencia anterior y a reponer la causa al estado de notificar a las partes.",
+  "palabras_clave": [
+    "revisión",
+    "cosa juzgada",
+    "legitimación",
+    "constitucionalidad",
+    "poder",
+    "apoderado",
+    "daños",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la firmeza de una sentencia anterior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0032_E17-0427.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206892-0032-17118-2018-17-0427.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.255087"
+}

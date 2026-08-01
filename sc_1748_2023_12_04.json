@@ -1,0 +1,26 @@
+{
+  "id": 33245,
+  "numero": "1748",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de diciembre de 2023, declaró sin lugar el recurso de apelación interpuesto por la abogada Maitrelly Vanessa Arenas Osuna, en representación del ciudadano Edwin José Añon Díaz, contra la sentencia de la Sala Nº 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda, que había declarado inadmisible la acción de amparo. La Sala consideró que la abogada no cumplió con la carga procesal de demostrar su legitimación activa para actuar en nombre del encausado, ya que no presentó el poder correspondiente.\n\nLa decisión reafirma la importancia de la legitimación en los procesos de amparo, señalando que la falta de documentación que acredite la representación legal del demandante impide el avance de la acción. La Sala también destacó que el ciudadano había sido presentado ante el tribunal en el tiempo estipulado y que su defensa no había demostrado la existencia de violaciones a sus derechos fundamentales que justificaran la admisión del amparo.\n\nFinalmente, la Sala confirmó la decisión apelada, manteniendo la inadmisibilidad de la acción de amparo y subrayando que el recurso no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "legitimación",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1748_E22-0230.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330994-1748-41223-2023-22-0230.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.160430"
+}

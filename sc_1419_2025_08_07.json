@@ -1,0 +1,22 @@
+{
+  "id": 21672,
+  "numero": "1419",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala recibió un oficio del Tribunal Cuarto de Primera Instancia de Juicio del Trabajo de Aragua, relacionado con un desacato a un mandamiento de amparo constitucional. Se dictó un mandamiento de amparo el 26 de marzo de 2025, el cual fue desacatado, resultando en la sanción de prisión para el gerente de planta de la empresa demandada. La Sala ordena al tribunal remitente que envíe todos los expedientes relacionados con el caso para su revisión.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "sanción"
+  ],
+  "titulo": "Sentencia sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1419_E25-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347288-1419-7825-2025-25-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.209088"
+}

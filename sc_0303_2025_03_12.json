@@ -1,0 +1,26 @@
+{
+  "id": 18772,
+  "numero": "0303",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los apoderados de Félix Antonio Vega y Eduardo Roberto Cruz García, quienes alegaban graves desórdenes procesales en un proceso penal. La Sala declaró improcedente la solicitud, argumentando que no se cumplían los requisitos necesarios para su admisión y que existían medios ordinarios para impugnar la decisión cuestionada. Además, se ordenó el desglose del expediente y la notificación de la decisión a las partes involucradas.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "orden público",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0303_E22-1027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342235-0303-12325-2025-22-1027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.735709"
+}

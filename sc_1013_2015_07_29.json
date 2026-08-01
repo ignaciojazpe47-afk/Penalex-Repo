@@ -1,0 +1,24 @@
+{
+  "id": 65520,
+  "numero": "1013",
+  "fecha": "2015-07-29",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 7 de julio de 2011 por el Tribunal Superior Segundo del Trabajo de Carabobo, que había declarado sin lugar un recurso de apelación interpuesto por la sociedad mercantil Construcciones Juncal C.A. La parte solicitante argumentó que la decisión adolecía de incongruencia omisiva al no pronunciarse sobre los alegatos presentados en su defensa. La Sala constató que efectivamente se vulneraron los derechos a la defensa y al debido proceso, ya que el tribunal inferior no analizó los argumentos y pruebas presentadas por la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo laboral",
+    "incongruencia omisiva",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre amparo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-29_S1013_E12-0943.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/180067-1013-29715-2015-12-0943.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:09.015295"
+}

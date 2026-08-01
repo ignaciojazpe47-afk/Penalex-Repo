@@ -1,0 +1,26 @@
+{
+  "id": 20940,
+  "numero": "1141",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos Alberto Montilla Herrera, quien alegó la falta de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Cojedes respecto a un recurso de apelación interpuesto por el Ministerio Público. La Sala argumenta que, tras la decisión de la Corte de Apelaciones del 22 de agosto de 2024, que resolvió el recurso, cesó la presunta violación de derechos constitucionales, lo que hace que la acción de amparo no sea procedente según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "justicia",
+    "derechos",
+    "proceso",
+    "Corte de Apelaciones",
+    "violación"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Carlos Alberto Montilla Herrera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1141_E24-0969.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346048-1141-14725-2025-24-0969.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.389479"
+}

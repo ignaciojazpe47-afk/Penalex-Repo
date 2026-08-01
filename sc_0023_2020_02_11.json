@@ -1,0 +1,25 @@
+{
+  "id": 41018,
+  "numero": "0023",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por MONT-CRESPO HORTALIZAS, C.A. contra la sentencia dictada el 30 de mayo de 2016 por el Tribunal Tercero de Municipio Ordinario. La decisión se basa en que la solicitud ya había sido objeto de revisión previa, lo que establece cosa juzgada. La Sala reitera que la revisión constitucional no debe ser entendida como una nueva instancia, sino como un medio para preservar la uniformidad de la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "perención",
+    "cualidad",
+    "reivindicación",
+    "propiedad",
+    "carga de la prueba",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0023_E17-0694.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309533-0023-11220-2020-17-0694.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.146673"
+}

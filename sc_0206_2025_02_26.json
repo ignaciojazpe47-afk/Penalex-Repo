@@ -1,0 +1,25 @@
+{
+  "id": 18640,
+  "numero": "0206",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por Antonio Jesús González Olivares contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Guárico, que declaró con lugar un recurso de apelación. Sin embargo, la Sala determina que la acción es inadmisible debido a la falta de presentación de la copia certificada de la sentencia recurrida, requisito esencial para la admisibilidad de la demanda de amparo constitucional. La decisión se fundamenta en la normativa que establece la necesidad de cumplir con los requisitos formales para la interposición de este tipo de acciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "seguridad agroalimentaria",
+    "imputación",
+    "error de derecho"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0206_E24-0319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342018-0206-26225-2025-24-0319.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.752728"
+}

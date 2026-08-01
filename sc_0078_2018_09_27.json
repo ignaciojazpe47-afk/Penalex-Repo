@@ -1,0 +1,26 @@
+{
+  "id": 18282,
+  "numero": "0078",
+  "fecha": "2018-09-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 2018-0374, dictada el 27 de septiembre de 2018, que confirmó la decisión del Juzgado Superior Octavo de lo Contencioso Administrativo, la cual declaró sin lugar el recurso de apelación interpuesto por Orlando Blasini Escobar Mayora. El solicitante argumentó que la sentencia vulneró sus derechos laborales al otorgarle una jubilación de oficio sin haberlo solicitado y sin cumplir los requisitos establecidos en el reglamento correspondiente.\nLa Corte determinó que el Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) tiene la facultad de otorgar jubilaciones de oficio, siempre que se respete el derecho a la tutela judicial efectiva. Se concluyó que la decisión del juzgado de primera instancia se ajustó a derecho y a los criterios establecidos por la Sala Constitucional, por lo que se declaró sin lugar la solicitud de revisión presentada por el demandante.",
+  "palabras_clave": [
+    "tutela judicial",
+    "incongruencia",
+    "jubilación",
+    "derechos laborales",
+    "CICPC",
+    "constitución",
+    "administrativo"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0078_E24-0582.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341340-0078-7225-2025-24-0582.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.659287"
+}

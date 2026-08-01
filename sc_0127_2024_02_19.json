@@ -1,0 +1,24 @@
+{
+  "id": 24255,
+  "numero": "0127",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la desaplicación por control difuso del literal 'j' del artículo 41 del Decreto con Rango, Valor y Fuerza de Ley de Regulación del Arrendamiento para el Uso Comercial, que prohíbe el arbitraje en conflictos arrendaticios. Se argumenta que esta prohibición colide con los artículos 253 y 258 de la Constitución, que promueven el arbitraje como medio alternativo de resolución de conflictos. La decisión se basa en la necesidad de garantizar el acceso a la justicia y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "arbitraje",
+    "arrendamiento",
+    "constitucionalidad"
+  ],
+  "titulo": "Desaplicación por control difuso del artículo 41 del Decreto de Regulación del Arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0127_E23-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332636-0127-19224-2024-23-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.561562"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 17648,
+  "numero": "0404",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Carlos Alberto Luque en representación de su hijo, Carlos Emilio Luque Flores, contra la omisión de pronunciamiento del Juzgado Especial Primero en Funciones de Control. La acción se fundamenta en la violación de derechos constitucionales, alegando que la omisión del tribunal afectó el derecho a la defensa y la tutela judicial efectiva.\nLa Sala, tras analizar el caso, determinó que la competencia para conocer de la acción de amparo corresponde a la Sala Especial de la Corte de Apelaciones, declarándose incompetente para decidir sobre la solicitud. Se ordenó el envío del expediente a la unidad correspondiente para su tramitación.\nFinalmente, la decisión fue firmada y sellada el 25 de marzo de 2026, estableciendo que la Sala Constitucional no tiene la jurisdicción para conocer el caso, remitiéndolo a la instancia adecuada.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos constitucionales",
+    "tribunales",
+    "jurisdicción",
+    "proceso",
+    "ley orgánica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0404_E26-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354420-0404-25326-2026-26-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.032938"
+}

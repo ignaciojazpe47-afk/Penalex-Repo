@@ -1,0 +1,27 @@
+{
+  "id": 1505,
+  "numero": null,
+  "fecha": "2000-01-27",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derechos Laborales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia de Venezuela, en su sentencia del 27 de enero de 2000, declaró improcedente la acción de nulidad por inconstitucionalidad interpuesta por varios ciudadanos contra el segundo aparte del artículo 9 del Decreto emanado de la Asamblea Nacional Constituyente. Los demandantes alegaron que dicho decreto violaba derechos laborales consagrados en la Constitución de 1999, específicamente en los artículos 87, 89 y 93. Sin embargo, la Sala determinó que el acto impugnado no estaba sujeto a la nueva Constitución, ya que fue emitido antes de su promulgación, y por lo tanto, no podía ser declarado inconstitucional. La decisión se fundamentó en la naturaleza supraconstitucional de los actos de la Asamblea Nacional Constituyente y en la falta de aplicación de la nueva Constitución a actos previos a su vigencia.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "decreto",
+    "transición",
+    "poder público",
+    "derechos laborales",
+    "Asamblea Nacional Constituyente",
+    "sentencia",
+    "Venezuela"
+  ],
+  "titulo": "Sentencia sobre nulidad de decreto de transición del poder público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-01-27_Constitucional_000011.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.683896"
+}

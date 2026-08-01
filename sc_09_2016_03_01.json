@@ -1,0 +1,24 @@
+{
+  "id": 56121,
+  "numero": "09",
+  "fecha": "2016-03-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la interpretación de los artículos 136, 222, 223 y 265 de la Constitución de la República Bolivariana de Venezuela, a raíz de un recurso de interpretación presentado por ciudadanos abogados. La decisión establece que la Asamblea Nacional tiene funciones de control político sobre el Gobierno y la Administración Pública, pero debe respetar los límites constitucionales y no interferir en las competencias del Poder Ejecutivo. Además, se desaplican ciertas disposiciones de la Ley sobre el Régimen para la Comparecencia de Funcionarios Públicos que exceden estos límites.",
+  "palabras_clave": [
+    "Interpretación Constitucional",
+    "Control Parlamentario",
+    "Poder Legislativo",
+    "Poder Ejecutivo",
+    "Derechos Fundamentales"
+  ],
+  "titulo": "Sentencia sobre interpretación de artículos constitucionales y control parlamentario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-01_S09_E16-0153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185627-09-1316-2016-16-0153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.950624"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22640,
+  "numero": "1697",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia N° 256/2025, revisó la decisión de la Sala de Casación Civil que había declarado el decaimiento del objeto de la demanda de disolución de la sociedad A5 Inversiones, C.A. La Sala Constitucional determinó que existía un interés procesal vigente y que la disolución de la sociedad no implicaba su extinción sin la correspondiente liquidación. Se ordenó la continuación del proceso civil para la liquidación judicial de la empresa, anulando la sentencia impugnada y reafirmando la firmeza del fallo del Juzgado Superior que había declarado la disolución.",
+  "palabras_clave": [
+    "disolución",
+    "liquidación",
+    "interés procesal",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre disolución de A5 Inversiones, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1697_E25-0767.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349300-1697-291025-2025-25-0767.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.530900"
+}

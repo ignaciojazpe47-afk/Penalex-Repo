@@ -1,0 +1,26 @@
+{
+  "id": 29464,
+  "numero": "0203",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por los abogados César Gabriel España Díaz y Obdulia Celenia Díaz Pérez, en representación de los ciudadanos Jimmy Alexander Varela Berbesi y Yanis Basilio Varela Berbesi, por la presunta omisión de pronunciamiento del Tribunal Quinto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Barinas. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que la situación de presunta violación había cesado y que no se habían agotado las vías recursivas ordinarias.\n\nLa decisión de la Sala Constitucional se basa en la falta de pronunciamiento del tribunal de control sobre los alegatos de la defensa y la omisión de la juramentación de los defensores, lo que generó indefensión a los imputados. A pesar de las denuncias de irregularidades en el proceso, la Sala Constitucional confirmó la inadmisibilidad del recurso de amparo, considerando que el tribunal de control cumplió con sus deberes al emitir un informe y publicar las decisiones pertinentes.\n\nFinalmente, se confirma la decisión de la Corte de Apelaciones, manteniendo la inadmisibilidad del recurso de amparo constitucional y se ordena el cumplimiento de lo dispuesto en la sentencia.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "audiencia_preliminar",
+    "defensa",
+    "indefension",
+    "control_material",
+    "derechos_humanos"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-24_S0203_E22-0513.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323864-0203-24323-2023-22-0513.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.064795"
+}

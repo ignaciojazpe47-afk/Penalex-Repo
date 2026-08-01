@@ -1,0 +1,25 @@
+{
+  "id": 41385,
+  "numero": "0097",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, se pronunció sobre la solicitud de revisión constitucional presentada por Gilberto Emiro Correa Romero, quien impugnó sentencias anteriores que declararon sin lugar su recurso de casación. La Sala constató que la revisión solo procede en casos de sentencias firmes y que la cualidad activa del demandante para reclamar daños y perjuicios no estaba debidamente fundamentada, ya que la relación contractual se estableció a través de la sociedad mercantil Piscis Equities S.A., y no a título personal. Por lo tanto, se declaró que no había lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "tutela judicial",
+    "defensa",
+    "velocorporativo",
+    "daños morales",
+    "legitimación activa",
+    "grupo patrimonial"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0097_E19-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310036-0097-14820-2020-19-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.109994"
+}

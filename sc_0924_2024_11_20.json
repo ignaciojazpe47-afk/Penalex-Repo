@@ -1,0 +1,27 @@
+{
+  "id": 27718,
+  "numero": "0924",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Gregorio José Vásquez Martínez, quien alegó desacato a una sentencia anterior. La Sala argumenta que el demandante no demostró su legitimidad para actuar en este caso, ya que no presentó la documentación necesaria que verifique su vinculación con la Federación Campesina de Venezuela. La decisión se basa en la falta de legitimidad y en la normativa aplicable a la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "legitimación",
+    "inadmisibilidad",
+    "derechos",
+    "constitucionales",
+    "documentación",
+    "federación",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0924_E23-0887.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339201-0924-201124-2024-23-0887.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.158790"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 42333,
+  "numero": "0047",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Francisco Carrillo en representación de Daniel Rodríguez Porras, contra la decisión del Tribunal Octavo Superior del Circuito Judicial del Trabajo que declaró inadmisible la acción de amparo constitucional. La Sala determinó su competencia para conocer del recurso y analizó las alegaciones de violación de derechos constitucionales a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "trabajo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0047_E18-0487.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303984-0047-27219-2019-18-0487.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.603594"
+}

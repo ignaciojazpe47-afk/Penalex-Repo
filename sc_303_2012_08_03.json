@@ -1,0 +1,24 @@
+{
+  "id": 4434,
+  "numero": "303",
+  "fecha": "2012-08-03",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Francisco Antonio Carrasquero López",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia Nº 303 de la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por IBERIA, Líneas Aéreas de España, S.A. contra un fallo que condenó a la aerolínea a indemnizar a Alberto Colucci Cardozo por daños y perjuicios derivados de la sobreventa de boletos. La Sala Constitucional determinó que la sentencia impugnada no desconoció criterios vinculantes establecidos por la misma Sala, y que la responsabilidad de la aerolínea se fundamenta en la Ley de Aeronáutica Civil y el Código Civil, permitiendo la coexistencia de responsabilidades contractuales y extracontractuales en este contexto. Finalmente, se declaró que no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "responsabilidad civil",
+    "aeronáutica",
+    "daños y perjuicios",
+    "sobreventa de boletos"
+  ],
+  "titulo": "Revisión constitucional de la sentencia Nº 303 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_2012_LopezEl.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.524283"
+}

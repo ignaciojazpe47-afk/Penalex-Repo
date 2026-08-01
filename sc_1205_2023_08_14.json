@@ -1,0 +1,26 @@
+{
+  "id": 34108,
+  "numero": "1205",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de nulidad interpuesta por los abogados de la Procuraduría General de la República contra los numerales 3 y 5 del artículo 99 de la Constitución del Estado Táchira, así como el Decreto N° 199 del 17 de abril de 2009. La sentencia declaró la pérdida del interés procesal debido a la inactividad de la parte actora durante más de seis años, lo que llevó a la terminación del procedimiento. Se suspendieron los efectos de la medida cautelar acordada anteriormente.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "acción",
+    "justicia",
+    "constitución",
+    "inactividad",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre nulidad de artículos de la Constitución del Estado Táchira",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1205_E09-1367.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328419-1205-14823-2023-09-1367.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.865974"
+}

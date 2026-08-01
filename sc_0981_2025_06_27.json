@@ -1,0 +1,25 @@
+{
+  "id": 20581,
+  "numero": "0981",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Rafael Santiago Díaz Ceballos contra la decisión del Juzgado Superior Primero en lo Civil, que declaró inadmisible su acción de amparo constitucional. La apelación fue considerada tempestiva, pero se determinó que el demandante no agotó las vías ordinarias para impugnar el informe pericial de un experto contable, lo que llevó a la inadmisibilidad de la acción de amparo. Finalmente, la Sala declaró sin lugar el recurso de apelación y confirmó el fallo del juzgado inferior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0981_E25-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345250-0981-27625-2025-25-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.304799"
+}

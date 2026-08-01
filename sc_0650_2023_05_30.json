@@ -1,0 +1,26 @@
+{
+  "id": 30604,
+  "numero": "0650",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Gabriela Yeiret Mijares Pacheco contra una sentencia de la Corte de Apelaciones del Estado Aragua. La acción se fundamentó en la alegación de vulneración de derechos al debido proceso y a la salud de los niños involucrados en un proceso penal. La Sala consideró que la decisión de la Corte de Apelaciones, que declaró sin lugar el recurso de apelación contra la admisión de prueba anticipada, no violó derechos constitucionales y se ajustó a derecho.\n\nLa Sala destacó la importancia de proteger los derechos de los niños en procesos judiciales, enfatizando que la prueba anticipada puede ser necesaria para evitar la revictimización. Sin embargo, concluyó que la acción de amparo era improcedente, ya que no se evidenció la existencia de violaciones a los derechos alegados. La decisión fue dictada en el marco de la jurisprudencia que protege el interés superior de los niños en el ámbito judicial.\n\nFinalmente, la Sala declaró improcedente la acción de amparo, reafirmando que la decisión de la Corte de Apelaciones fue dictada conforme a las normas procesales vigentes y sin abuso de poder.",
+  "palabras_clave": [
+    "prueba anticipada",
+    "derechos de los niños",
+    "debido proceso",
+    "fases del proceso",
+    "violación de derechos",
+    "acción de amparo",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0650_E23-0181.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325738-0650-30523-2023-23-0181.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.929601"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20664,
+  "numero": "1062",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la abogada Marbella Espinoza de Arteaga en representación de los ciudadanos Paula Elena Mayaudon Grau y Luis Alipio Márquez Vásquez. La acción se refiere a una sentencia dictada el 30 de septiembre de 2024 por la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, que declaró sin lugar un recurso de apelación contra una decisión anterior del Juzgado Segundo de Primera Instancia en Funciones de Control. La Sala concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "estafa",
+    "derechos",
+    "proceso penal",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1062_E25-0304.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345342-1062-30625-2025-25-304.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.514770"
+}

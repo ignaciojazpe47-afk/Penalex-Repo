@@ -1,0 +1,25 @@
+{
+  "id": 33120,
+  "numero": "1629",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Hilda María Nava Mendoza en representación de Ricardo Enrique Parra León, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo. La Corte había declarado con lugar un recurso de apelación en un caso de estafa, lo que llevó a la parte actora a solicitar el amparo por supuestas violaciones al debido proceso y a la tutela judicial efectiva.\nLa Sala considera que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder al decidir sobre la admisibilidad de la querella penal. Se concluye que la acción de amparo no cumple con los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, por lo que se desestima la solicitud.\nFinalmente, se ordena la publicación y archivo del expediente, reafirmando la importancia del respeto a los principios de celeridad y economía procesal en el sistema judicial.",
+  "palabras_clave": [
+    "tutela judicial",
+    "principio de legalidad",
+    "derecho penal",
+    "jurisdicción",
+    "debido proceso",
+    "querella"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1629_E23-0785.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330796-1629-291123-2023-23-0785.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.996372"
+}

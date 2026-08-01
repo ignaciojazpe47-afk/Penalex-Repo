@@ -1,0 +1,26 @@
+{
+  "id": 19375,
+  "numero": "0520",
+  "fecha": "2025-04-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Firme",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara firme la sentencia dictada por la Sala N° 6 de la Corte de Apelaciones, que había declarado inadmisible la acción de amparo interpuesta por la defensa de Irene del Carmen Silva Domínguez. La acción de amparo se fundamentó en la presunta violación de derechos constitucionales, alegando que el Juzgado Décimo Sexto no había dado respuesta a las solicitudes de los abogados defensores ni permitido el acceso a las actas procesales del caso penal seguido contra la ciudadana.\nLa Sala concluyó que la presunta lesión a los derechos constitucionales había cesado, ya que el tribunal agraviante había emitido pronunciamiento sobre las solicitudes de los abogados y permitido el acceso a las actas. Por lo tanto, se homologó el desistimiento de la apelación presentado por la defensa, lo que resultó en la firmeza de la decisión de inadmisibilidad de la acción de amparo.\nFinalmente, se ordenó la remisión del expediente al tribunal de origen para su correspondiente archivo.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "nulidad",
+    "constitucional",
+    "derechos",
+    "justicia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-10_S0520_E24-0509.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343073-0520-10425-2025-24-0509.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.047836"
+}

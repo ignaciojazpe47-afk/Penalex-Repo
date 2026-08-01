@@ -1,0 +1,24 @@
+{
+  "id": 18348,
+  "numero": "0104",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Franklin del Valle Rodríguez Roca contra la decisión del Juzgado Superior Primero en lo Civil, que declaró inadmisible su acción de amparo. La Sala determinó que el recurso fue interpuesto de manera tempestiva y analizó la competencia para conocer del caso. Finalmente, se declaró sin lugar el recurso de apelación, confirmando la decisión del juzgado inferior por no haberse agotado las vías ordinarias.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "inadmision",
+    "derechos constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0104_E24-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341438-0104-12225-2025-24-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.542899"
+}

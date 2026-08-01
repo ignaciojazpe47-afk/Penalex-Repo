@@ -1,0 +1,23 @@
+{
+  "id": 60755,
+  "numero": "1015",
+  "fecha": "2016-11-30",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "ANULA la sentencia dictada el 9 de mayo de 2016 por el Juzgado Sexto de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Área Metropolitana de Caracas, así como todos los actos procesales subsiguientes.",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1624 el 30 de noviembre de 2016, en la que se abordó el desacato a la sentencia anterior N° 1624 del 10 de diciembre de 2015. Se determinó que la sociedad mercantil Perfumería Tauro C.A. no había recibido la entrega de los locales comerciales a pesar de tener la titularidad del derecho, lo que llevó a la anulación de la sentencia del Juzgado Sexto de Primera Instancia que había declarado nula la entrega material de los inmuebles. La Sala ordenó el cumplimiento inmediato de la entrega de los locales a Perfumería Tauro C.A.",
+  "palabras_clave": [
+    "desacato",
+    "nulidad",
+    "sentencia",
+    "entrega de inmuebles"
+  ],
+  "titulo": "Sentencia sobre desacato y nulidad de actos procesales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-30_S1015_E10-0823.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193228-1015-301116-2016-10-0823.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.604959"
+}

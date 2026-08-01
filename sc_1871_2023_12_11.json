@@ -1,0 +1,24 @@
+{
+  "id": 33724,
+  "numero": "1871",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de Jhoan José Silva Hernández, quien impugnó una decisión del Tribunal Superior Primero del Trabajo que declaró sin lugar su apelación contra un despido. La Sala encontró vicios en el procedimiento y en la aplicación de la ley por parte de los tribunales inferiores, lo que vulneró el derecho a la defensa y al debido proceso del solicitante. En consecuencia, se declaró con lugar la revisión y se ordenó la anulación de la sentencia impugnada, instruyendo al tribunal inferior a emitir un nuevo pronunciamiento conforme a las motivaciones expuestas en el fallo.",
+  "palabras_clave": [
+    "recurso de apelación",
+    "derechos laborales",
+    "despido injustificado",
+    "reenganche",
+    "inspectoría del trabajo"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1871_E17-0898.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331841-1871-111223-2023-17-0898.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.461347"
+}

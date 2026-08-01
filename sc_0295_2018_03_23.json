@@ -1,0 +1,26 @@
+{
+  "id": 46343,
+  "numero": "0295",
+  "fecha": "2018-03-23",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0256 de la Sala de Casación Social, que declaró desistido un recurso de casación interpuesto por Walid Jibraic El Ajami. La revisión se solicitó debido a la violación de derechos constitucionales, alegando que no se notificó adecuadamente sobre la audiencia pública. La Sala Constitucional determinó que la falta de notificación y las dilaciones en el proceso afectaron el derecho a la defensa del solicitante.",
+  "palabras_clave": [
+    "casación",
+    "audiencia",
+    "derechos",
+    "constitucionalidad",
+    "proceso",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-23_S0295_E17-1007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/209332-0295-23318-2018-17-1007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.826743"
+}

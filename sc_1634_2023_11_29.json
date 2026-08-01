@@ -1,0 +1,22 @@
+{
+  "id": 33125,
+  "numero": "1634",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 29 de noviembre de 2023, se pronunció sobre la acción de amparo constitucional interpuesta por los abogados Celimar Hernández Rojas y Pedro José Rivas en representación de Alexander José Rivas Ramos. La Corte de Apelaciones había declarado inadmisible la acción por falta de presentación de documentos fundamentales, lo que motivó la apelación. La Sala Constitucional, tras analizar los argumentos, decidió revocar la sentencia de inadmisibilidad y declarar con lugar la apelación, permitiendo así el avance del proceso de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1634_E21-0747.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330801-1634-291123-2023-21-0747.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.993756"
+}

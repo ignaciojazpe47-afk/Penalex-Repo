@@ -1,0 +1,22 @@
+{
+  "id": 33224,
+  "numero": "1727",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por Elías Alberto Atencio Pérez contra un fallo del Juzgado Cuarto de Primera Instancia que había declarado con lugar la ampliación de una sentencia anterior. La Sala encontró que el tribunal de primera instancia había actuado sin jurisdicción al emitir la ampliación, ya que el expediente había sido remitido a la Sala Político Administrativa. En consecuencia, se declaró con lugar la acción de amparo y se anuló el fallo apelado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1727_E21-0452.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330973-1727-41223-2023-21-0452.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.155647"
+}

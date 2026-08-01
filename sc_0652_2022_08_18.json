@@ -1,0 +1,25 @@
+{
+  "id": 36289,
+  "numero": "0652",
+  "fecha": "2022-08-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Alecia Díaz Morales, quien alegó la omisión y retardo en el nombramiento de un juez para su hijo, privado de libertad. La Sala, tras analizar el caso, determinó que hubo abandono del trámite por parte de la accionante, dado que no hubo actividad en el proceso durante más de seis meses. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "abandonos de trámite",
+    "amparo constitucional",
+    "inactividad procesal",
+    "interés procesal",
+    "multa",
+    "extinción de instancia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por retardo en nombramiento de juez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-18_S0652_E21-0565.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319315-0652-18822-2022-21-0565.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.202949"
+}

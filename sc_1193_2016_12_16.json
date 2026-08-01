@@ -1,0 +1,23 @@
+{
+  "id": 61548,
+  "numero": "1193",
+  "fecha": "2016-12-16",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 20 de julio de 2015, que había declarado con lugar la apelación de Carmen María Montilla de Ferrer contra una decisión que había declarado sin lugar su demanda de prescripción adquisitiva. La Sala concluyó que el Juzgado que conoció el caso actuó fuera de su competencia, ya que los juicios de prescripción adquisitiva deben ser conocidos por los Juzgados de Primera Instancia en lo Civil. Por lo tanto, se anularon las sentencias impugnadas y se ordenó remitir el caso a un tribunal competente para su tramitación.",
+  "palabras_clave": [
+    "prescripción adquisitiva",
+    "revisión constitucional",
+    "debido proceso",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre revisión de apelación en caso de prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-16_S1193_E16-0191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194437-1193-161216-2016-16-0191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.265672"
+}

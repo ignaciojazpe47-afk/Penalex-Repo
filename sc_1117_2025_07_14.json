@@ -1,0 +1,26 @@
+{
+  "id": 20916,
+  "numero": "1117",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional presentada por Benjamín Antonio Brito Vásquez, debido a la inepta acumulación de pretensiones contra varias sentencias de distintos tribunales. Se argumentó que la acción incluía pretensiones que debían ser planteadas ante diferentes órganos jurisdiccionales, lo que contraviene el artículo 78 del Código de Procedimiento Civil. Además, se inadmitió la acción contra la sentencia de la Sala de Casación Social, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "acumulación",
+    "jurisdicción",
+    "competencia",
+    "pretensiones",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1117_E24-0603.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346024-1117-14725-2025-24-0603.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.389678"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24121,
+  "numero": "0068",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por David Ulacio, defensor de Yrvin José Solano, contra sentencias previas del Tribunal Primero de Control. La Corte de Apelaciones había declarado inadmisible la acción de amparo por no haberse agotado las vías ordinarias, específicamente el recurso de apelación. La Sala Constitucional confirmó esta decisión, argumentando que el agraviado no justificó su elección de acudir al amparo sin haber utilizado los recursos judiciales disponibles.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0068_E19-0695.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332423-0068-6224-2024-19-0695.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.822181"
+}

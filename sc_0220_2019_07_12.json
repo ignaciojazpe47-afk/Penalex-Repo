@@ -1,0 +1,25 @@
+{
+  "id": 43478,
+  "numero": "0220",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 0741, dictada el 10 de octubre de 2018, por la Sala de Casación Social, que declaró sin lugar el recurso de casación interpuesto por Luis Antonio Villarroel Cedeño. El solicitante argumentó que la sentencia vulneró su derecho a la defensa y no se pronunció sobre alegatos de fraude procesal. Sin embargo, la Sala Constitucional determinó que no hubo omisión de pronunciamiento y que la decisión de la Sala de Casación Social fue ajustada a derecho, cumpliendo con el principio de exhaustividad.",
+  "palabras_clave": [
+    "enfermedad ocupacional",
+    "indemnización",
+    "transacción",
+    "cosa juzgada",
+    "LOPCYMAT",
+    "derechos laborales"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0220_E18-0858.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306105-0220-12719-2019-18-0858.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.413530"
+}

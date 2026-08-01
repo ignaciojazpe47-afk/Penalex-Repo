@@ -1,0 +1,26 @@
+{
+  "id": 19233,
+  "numero": "0470",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de amparo constitucional interpuesto por Antoine Kharrak Merdini, quien alegaba violaciones a sus derechos en un proceso penal. La Corte de Apelaciones había declarado sin lugar la acción de amparo, lo que llevó a Merdini a recurrir a la Sala Constitucional. En su decisión, la Sala Constitucional confirmó la sentencia de la Corte de Apelaciones, argumentando que no se evidenció violación a los derechos fundamentales del recurrente y que el proceso se llevó a cabo conforme a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "tutela judicial",
+    "debido proceso",
+    "derecho de defensa",
+    "derecho de propiedad",
+    "jurisdicción penal"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0470_E25-0013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342869-0470-2425-2025-25-0013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.605383"
+}

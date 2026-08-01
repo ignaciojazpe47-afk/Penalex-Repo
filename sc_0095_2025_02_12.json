@@ -1,0 +1,23 @@
+{
+  "id": 18339,
+  "numero": "0095",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por el ciudadano Martín Montenegro, quien impugnó la decisión del Juzgado Superior Primero del Trabajo que declaró sin lugar su recurso de apelación. La Sala determinó que la sentencia recurrida no vulneró principios constitucionales ni jurisprudenciales, confirmando que los salarios caídos no son objeto de indexación en juicios de estabilidad laboral.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "salarios caídos",
+    "indexación",
+    "derecho laboral"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0095_E16-1106.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341426-0095-12225-2025-16-1106.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.770918"
+}

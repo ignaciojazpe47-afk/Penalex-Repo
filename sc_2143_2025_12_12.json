@@ -1,0 +1,22 @@
+{
+  "id": 23932,
+  "numero": "2143",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por Marinela Vanessa Gómez Zerpa, quien alegó violaciones a su derecho de propiedad en un proceso de ejecución. La Sala, tras evaluar la solicitud, determinó que la abogada que la representaba no cumplía con los requisitos de representación legal, lo que llevó a declarar inadmisible la solicitud. La decisión se fundamenta en la falta de asistencia técnica adecuada y en la normativa que regula la representación ante el Tribunal Supremo.",
+  "palabras_clave": [
+    "avocamiento",
+    "derecho de propiedad",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2143_E25-1237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351995-2143-121225-2025-25-1237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.733272"
+}

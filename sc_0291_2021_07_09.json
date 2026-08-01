@@ -1,0 +1,26 @@
+{
+  "id": 39010,
+  "numero": "0291",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la abogada Marily Bustamante en representación de Teresa De Jesús Mejías Hidalgo. La acción se fundamenta en la impugnación de una sentencia de desalojo dictada por un juzgado inferior, alegando que la ejecución de dicha sentencia podría resultar en una desposesión material del inmueble destinado a vivienda familiar. La Sala, considerando las circunstancias excepcionales derivadas de la pandemia de COVID-19, decidió ordenar la notificación a la accionante para que ratifique la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "internet",
+    "ratificación",
+    "justicia",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0291_E21-0090.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312592-0291-9721-2021-21-0090.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.159658"
+}

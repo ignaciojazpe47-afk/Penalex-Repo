@@ -1,0 +1,25 @@
+{
+  "id": 26851,
+  "numero": "0383",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la Fiscalía Cuarta del Ministerio Público contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo, que revocó la medida de privación judicial preventiva de libertad de los imputados por los delitos de secuestro breve y corrupción propia. La Sala fundamenta su decisión en que la acción no es admisible debido a que la violación de derechos constitucionales denunciada constituye una situación irreparable, ya que el proceso se encuentra en fase de juicio y las medidas cautelares han sido modificadas.",
+  "palabras_clave": [
+    "corrupcion",
+    "secuestro",
+    "derechos",
+    "justicia",
+    "proceso penal",
+    "legalidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0383_E20-0005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338154-0383-241024-2024-20-0005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.317041"
+}

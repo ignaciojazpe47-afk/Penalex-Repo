@@ -1,0 +1,18 @@
+{
+  "id": 3799,
+  "numero": "201",
+  "fecha": "2000-04-05",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se REVOCA",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una consulta de una decisión que declaró inadmisible una acción de amparo interpuesta por Ignacio Gómez Guevara en representación de la empresa Panadería y Pastelería La Niza, C.A. La acción fue inadmisible debido a la acumulación indebida de procedimientos, lo que llevó a la Sala a revocar dicha decisión. Se argumentó que la acumulación no es causal de inadmisibilidad y que el tribunal debió considerar la acción de amparo interpuesta contra la sentencia que homologó un convenimiento.",
+  "palabras_clave": [],
+  "titulo": "Revocación de decisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0262_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.675771"
+}

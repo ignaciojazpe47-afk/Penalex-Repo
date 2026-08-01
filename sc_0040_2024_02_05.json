@@ -1,0 +1,25 @@
+{
+  "id": 24094,
+  "numero": "0040",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar inadmisible el amparo constitucional interpuesto por el abogado José Rafael Mata Pérez en representación de Giobany Antonio Rodríguez Andrade. Este recurso fue presentado contra la negativa de la Sala de Casación Civil de recibir un recurso de hecho relacionado con una decisión anterior del Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui, que había declarado inadmisible un recurso de casación por extemporáneo.\n\nLa Sala argumentó que la acción de amparo no era procedente debido a que se trataba de una decisión emanada de la Corte Suprema de Justicia, lo que constituye un obstáculo legal para el ejercicio de la pretensión procesal. La decisión fue firmada por el Magistrado Ponente Luis Fernando Damiani Bustillos y otros magistrados presentes en la sesión.\n\nFinalmente, se ordenó la publicación y registro de la decisión, así como el archivo del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "decisiones judiciales",
+    "tribunal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0040_E23-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332395-0040-5224-2024-23-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.834971"
+}

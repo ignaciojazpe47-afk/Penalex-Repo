@@ -1,0 +1,25 @@
+{
+  "id": 20389,
+  "numero": "0940",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados de Juan Alberto Arévalo Fernández contra la decisión de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. La acción fue considerada inadmisible debido a que no se agotó el recurso de casación previsto en el Código Orgánico Procesal Penal, lo que contraviene la normativa aplicable en materia de amparo.",
+  "palabras_clave": [
+    "motivación",
+    "sobreseimiento",
+    "prescripción",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0940_E24-0553.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344901-0940-17625-2025-24-0553.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.311737"
+}

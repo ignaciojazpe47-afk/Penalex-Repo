@@ -1,0 +1,22 @@
+{
+  "id": 28288,
+  "numero": "1246",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Improcedente",
+  "ponente": "Tania D´Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Nayade Josnil Méndez Chacón, en su calidad de madre y representante legal de la niña V. S. O. M., en relación a la causa penal contra Carlos Raúl Orozco Briceño por abuso sexual sin penetración. La Sala determinó su competencia para conocer la solicitud, pero finalmente declaró improcedente la misma, argumentando que no se evidenció un grave desorden procesal ni violaciones al debido proceso que justificaran el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "abuso sexual",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1246_E23-0909.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340202-1246-51224-2024-23-0909.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.228386"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 23810,
+  "numero": "2030",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Elvis Hernández, defensor privado de Jorge Luis Hernández y Rakso Rafael Olavarrieta La Rosa, contra la decisión de la Sala Quinta de la Corte de Apelaciones que declaró inadmisible el recurso de apelación. La Sala consideró que la decisión impugnada vulneró derechos fundamentales, como el derecho a la defensa y al debido proceso, al no permitir el recurso de apelación en un caso que sí lo permitía según el Código Orgánico Procesal Penal.\n\nLa Sala revocó la decisión de la Corte de Apelaciones y ordenó que se pronuncie sobre el recurso de apelación interpuesto, restableciendo así el derecho de los ciudadanos a recurrir la decisión del Juzgado Décimo Tercero que había negado la solicitud de extinción de pena. La sentencia subraya la importancia de garantizar el acceso a la justicia y el respeto a los derechos procesales en el marco de las acciones de amparo constitucional.\n\nFinalmente, se ordenó a la Sala Quinta que actúe de manera inmediata y sin dilaciones en relación al recurso de apelación, reafirmando el compromiso del Tribunal Supremo de Justicia con la protección de los derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2030_E25-0510.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351843-2030-101225-2025-25-0510.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743932"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 17602,
+  "numero": "0109",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Penal",
+  "decision": "NO HA LUGAR",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión de una sentencia condenatoria dictada el 17 de junio de 2024, en la que se impuso una pena de quince años de prisión a Wilber Jesús Silva Medina por el delito de acto sexual con víctima especialmente vulnerable. La defensa argumentó que la admisión de los hechos fue coaccionada y que el imputado no recibió la debida orientación legal, lo que vulneró su derecho a la defensa y al debido proceso.\n\nLa Sala, tras analizar los alegatos, determinó que la revisión de sentencias firmes es una facultad extraordinaria y que no se evidenció la coacción alegada ni la falta de orientación por parte de la defensa pública. Se concluyó que el imputado, al aceptar los hechos, renunció a su derecho a un juicio oral, y que las incongruencias en las fechas no vician el proceso. Por lo tanto, se declaró no ha lugar la solicitud de revisión constitucional presentada.\n\nFinalmente, la sentencia fue firmada el 2 de marzo de 2026, reafirmando la competencia de la Sala para conocer del caso y la validez de la decisión del tribunal de instancia.",
+  "palabras_clave": [
+    "proceso penal",
+    "admisión de hechos",
+    "pena",
+    "violencia de género",
+    "derechos del imputado",
+    "código orgánico procesal penal",
+    "sentencia condenatoria"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional de sentencia condenatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0109_E25-0963.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353099-0109-2326-2026-25-0963.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.385684"
+}

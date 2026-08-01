@@ -1,0 +1,27 @@
+{
+  "id": 19474,
+  "numero": "0576",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por José Giovanni Montañez Ytriago, representado por su abogado José Cristóbal Álvarez, respecto a la sentencia dictada el 7 de marzo de 2023 por el Juzgado Primero de Primera Instancia Penal del Estado Guárico. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la sentencia cuya revisión se solicita, lo que es un requisito indispensable para la admisión de este tipo de recursos.\n\nLa decisión se basa en la normativa que establece que la revisión constitucional solo procede cuando se cumplen ciertos requisitos, entre ellos, la presentación de documentos que verifiquen la certeza de la solicitud. En este caso, el abogado no acompañó la copia necesaria, lo que llevó a la Sala a concluir que no se puede admitir la solicitud de revisión.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la importancia de cumplir con los requisitos formales en los procedimientos judiciales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "homicidio",
+    "contradicción",
+    "nulidad",
+    "constitución",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0576_E24-1131.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343181-0576-15425-2025-24-1131.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.041563"
+}

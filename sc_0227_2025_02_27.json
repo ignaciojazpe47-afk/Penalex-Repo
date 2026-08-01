@@ -1,0 +1,25 @@
+{
+  "id": 18661,
+  "numero": "0227",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por José Daniel González Castañeda, en representación de los ciudadanos Josué Manuel Arcia y Enmanuel José Arcia, contra la decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. Se argumenta que la parte accionante no mostró interés en continuar el procedimiento, lo que llevó a la Sala a considerar que hubo abandono del trámite. Como resultado, se impone una multa a los demandantes por la cantidad de dos mil bolívares.",
+  "palabras_clave": [
+    "amparo",
+    "interés procesal",
+    "tutela judicial",
+    "inactividad",
+    "derechos fundamentales",
+    "abandonar trámite"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0227_E21-0748.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342039-0227-27225-2025-21-0748.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.881591"
+}

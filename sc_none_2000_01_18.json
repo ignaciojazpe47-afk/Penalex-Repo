@@ -1,0 +1,27 @@
+{
+  "id": 1929,
+  "numero": null,
+  "fecha": "2000-01-18",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Tributaria",
+  "decision": "Se desestima la solicitud de aclaratoria",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria presentada por el Servicio Nacional Integrado de Administración Tributaria (SENIAT) respecto a una sentencia anterior que declaró la nulidad parcial del artículo 59 del Código Orgánico Tributario. En la sentencia de 14 de diciembre de 1999, se reconoció la constitucionalidad de los intereses moratorios, pero se anuló el Parágrafo Único que establecía intereses compensatorios y actualización monetaria. La aclaratoria solicitada abarcaba cuatro puntos: la interpretación de los intereses moratorios, la posibilidad de cobrar intereses compensatorios, la aplicación de la actualización monetaria y los efectos temporales de la decisión. La Sala concluyó que la solicitud de aclaratoria no era procedente, ya que la nulidad de la norma implicaba su supresión del ordenamiento jurídico, y no se podían seguir aplicando los intereses compensatorios ni la actualización monetaria.",
+  "palabras_clave": [
+    "Tributaria",
+    "Nulidad",
+    "Intereses Moratorios",
+    "Intereses Compensatorios",
+    "Actualización Monetaria",
+    "Aclaratoria",
+    "Código Orgánico Tributario",
+    "Sentencia"
+  ],
+  "titulo": "Aclaratoria sobre la nulidad del artículo 59 del Código Orgánico Tributario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-07-26_PoliticoAdmin_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.685526"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 24561,
+  "numero": "0203",
+  "fecha": "2024-03-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del carácter orgánico de la Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad, sancionada por la Asamblea Nacional. Se determinó que la ley cumple con los requisitos establecidos en el artículo 203 de la Constitución, que regula la materia de derechos humanos y la inclusión social de las personas con discapacidad.\nLa decisión se fundamenta en la necesidad de garantizar el respeto a la dignidad humana y el pleno ejercicio de los derechos de las personas con discapacidad, así como en la obligación del Estado de promover su inclusión y bienestar. La sentencia reafirma el compromiso del Estado venezolano con la protección de los derechos de este grupo vulnerable, asegurando su desarrollo integral y la igualdad de oportunidades.\nFinalmente, se ordenó la publicación y registro de la decisión, así como el envío de una copia certificada al presidente de la Asamblea Nacional.",
+  "palabras_clave": [
+    "Constitucionalidad",
+    "Ley Orgánica",
+    "Discapacidad",
+    "Inclusión",
+    "Derechos Humanos"
+  ],
+  "titulo": "Declaración de constitucionalidad de la Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-03-19_S0203_E24-0260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/333155-0203-19324-2024-24-0260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.653573"
+}

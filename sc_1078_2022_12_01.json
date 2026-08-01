@@ -1,0 +1,26 @@
+{
+  "id": 37723,
+  "numero": "1078",
+  "fecha": "2022-12-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión interpuesta por los abogados de la sociedad mercantil Seguros Altamira, C.A. La solicitud fue declarada inadmisible debido a la falta de acreditación de la representación judicial de los solicitantes, quienes no presentaron la copia certificada del poder correspondiente. La Sala reafirmó la necesidad de que los apoderados judiciales demuestren su condición mediante documentos fehacientes.",
+  "palabras_clave": [
+    "apoderados",
+    "inadmisibilidad",
+    "representación",
+    "sentencia",
+    "derechos",
+    "defensa",
+    "fianza"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-01_S1078_E21-0039.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321272-1078-11222-2022-21-0039.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.444984"
+}

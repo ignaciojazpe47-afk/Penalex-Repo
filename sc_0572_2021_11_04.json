@@ -1,0 +1,24 @@
+{
+  "id": 40069,
+  "numero": "0572",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia RC-000184, dictada por la Sala de Casación Civil, que declaró con lugar un recurso de casación y casó sin reenvío el fallo recurrido. El solicitante alegó vulneración de derechos constitucionales y confusión entre acciones de partición de comunidad. La Sala consideró que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales y declaró no ha lugar la solicitud.",
+  "palabras_clave": [
+    "revisión de sentencias",
+    "cosa juzgada",
+    "constitucionalidad",
+    "seguridad jurídica",
+    "interpretación normativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0572_E21-0407.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314070-0572-41121-2021-21-0407.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.114036"
+}

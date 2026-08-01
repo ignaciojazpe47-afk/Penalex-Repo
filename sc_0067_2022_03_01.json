@@ -1,0 +1,26 @@
+{
+  "id": 34609,
+  "numero": "0067",
+  "fecha": "2022-03-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Gloria Mercedes Piazza contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes de declarar inadmisible su acción. La Sala consideró que la parte accionante no agotó las vías ordinarias disponibles antes de recurrir al amparo, lo que llevó a declarar inadmisible la acción. Finalmente, se confirmó la decisión del tribunal inferior y se declaró sin lugar la apelación interpuesta.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "proceso",
+    "constitucional"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0067_E21-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315917-0067-8322-2022-21-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.710802"
+}

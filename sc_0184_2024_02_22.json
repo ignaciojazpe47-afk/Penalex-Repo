@@ -1,0 +1,23 @@
+{
+  "id": 24321,
+  "numero": "0184",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Corte Constitucional declara inadmisible la acción de amparo interpuesta por el abogado Lisandro Bautista en representación de Luis Abel Murillo Silva, debido a la omisión del Juzgado Noveno de Primera Instancia de tramitar el recurso de apelación. La Corte determina que la lesión denunciada ha cesado, ya que el recurso fue finalmente tramitado. Se confirma la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo, fundamentándose en la normativa vigente que establece la necesidad de que la lesión sea actual para que proceda el amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0184_E23-1135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332727-0184-22224-2024-23-1135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.662941"
+}

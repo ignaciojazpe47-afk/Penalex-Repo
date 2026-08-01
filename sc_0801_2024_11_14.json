@@ -1,0 +1,26 @@
+{
+  "id": 27537,
+  "numero": "0801",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia identificada con el n.° 000748 dictada el 17 de noviembre de 2023.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 000748 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso extraordinario de casación. La Sala Constitucional encontró vicios de orden público en la decisión de la Sala de Casación Civil, específicamente en la valoración de pruebas y en la motivación del fallo, lo que llevó a declarar nula dicha sentencia. Se ordenó a la Sala de Casación Civil que recabe el expediente y emita un nuevo pronunciamiento conforme a las motivaciones expuestas en esta decisión.",
+  "palabras_clave": [
+    "incongruencia",
+    "due process",
+    "tutela judicial",
+    "prueba técnica",
+    "reivindicación",
+    "duda razonable",
+    "irregularidades procesales"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0801_E24-0035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338974-0801-141124-2024-24-0035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.024478"
+}

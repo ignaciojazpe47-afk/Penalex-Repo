@@ -1,0 +1,23 @@
+{
+  "id": 27524,
+  "numero": "0792",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar el amparo constitucional interpuesto por Maroil Trading INC contra la decisión del Juzgado Décimo Tercero de Primera Instancia, que había declarado sin lugar la cuestión previa relacionada con un defecto de forma en la demanda. La Sala ordena la nulidad de la decisión impugnada y la reposición de la causa al estado en que se dicte una nueva decisión sobre la cuestión previa, garantizando así el derecho a la defensa y el debido proceso. La sentencia se fundamenta en la falta de firma en el documento que sustentaba la pretensión, lo que afectaba la validez del mismo y, por ende, los derechos constitucionales de la parte demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Maroil Trading INC",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0792_E23-0363.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338961-0792-141124-2024-23-0363.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.028255"
+}

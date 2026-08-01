@@ -1,0 +1,23 @@
+{
+  "id": 16009,
+  "numero": "0535",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 743 dictada por la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por la parte demandada. La revisión se fundamentó en la alegación de violaciones al debido proceso y a la cosa juzgada, en relación con una acción reivindicatoria. La Sala determinó que la sentencia recurrida no vulneró el derecho a la defensa y que el demandante había demostrado su propiedad sobre el bien objeto del litigio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "due process",
+    "acción reivindicatoria"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 743",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0535_E26-0308.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355528-0535-13526-2026-26-0308.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.875115"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 19199,
+  "numero": "0444",
+  "fecha": "2024-07-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 304 dictada por la Sala de Casación Social, que había declarado 'Con Lugar' la demanda interpuesta por los ciudadanos Héctor Jesús Martínez Oquendo y Rubén Darío Rodríguez Urdaneta contra la sociedad mercantil Servicios Halliburton de Venezuela, S.A. La revisión se solicitó por supuestas violaciones a derechos constitucionales y a la doctrina vinculante de la Sala Constitucional. La Sala Constitucional, tras analizar los argumentos, declaró 'No Ha Lugar' la solicitud de revisión, argumentando que no se evidenciaron infracciones a principios constitucionales ni errores en la interpretación de la ley por parte de la Sala de Casación Social.",
+  "palabras_clave": [
+    "prestaciones sociales",
+    "casación",
+    "derechos laborales",
+    "debido proceso",
+    "seguridad jurídica",
+    "tutela judicial",
+    "LOTTT"
+  ],
+  "titulo": "Revisión de la sentencia n.° 304 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0444_E24-1261.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342828-0444-1425-2025-24-1261.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.643469"
+}

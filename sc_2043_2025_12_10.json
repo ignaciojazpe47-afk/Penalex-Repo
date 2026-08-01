@@ -1,0 +1,26 @@
+{
+  "id": 23823,
+  "numero": "2043",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la demanda de nulidad por inconstitucionalidad interpuesta por Carlos Fred Brender Ackerman. Se establece que hubo una falta de interés procesal por parte del demandante, quien no realizó actos en el proceso durante más de un año, lo que lleva a declarar la pérdida del interés procesal y el abandono del trámite. La decisión se fundamenta en la necesidad de mantener el impulso procesal para garantizar el acceso a la justicia.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "acción",
+    "justicia",
+    "constitucionalidad",
+    "inactividad",
+    "perención"
+  ],
+  "titulo": "Sentencia sobre pérdida del interés procesal en demanda de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2043_E17-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351856-2043-101225-2025-17-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.747441"
+}

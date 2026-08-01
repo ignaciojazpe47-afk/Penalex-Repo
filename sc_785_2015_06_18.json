@@ -1,0 +1,23 @@
+{
+  "id": 64662,
+  "numero": "785",
+  "fecha": "2015-06-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "MARCOS TULIO DUGARTE PADRÓN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por varios ciudadanos contra una sentencia del Juzgado Segundo Superior del Trabajo que declaró sin lugar un recurso de apelación. La Sala consideró que la decisión impugnada vulneraba el derecho a la tutela judicial efectiva y al debido proceso, ya que impedía la ejecución de un fallo favorable a los accionantes. En consecuencia, se anuló la sentencia del 21 de noviembre de 2014 y se ordenó reponer la causa al estado en que el Juzgado Superior que resulte competente dicte nueva sentencia sobre el recurso de apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la tutela judicial efectiva",
+    "debido proceso",
+    "sentencia laboral"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional contra decisión del Juzgado Segundo Superior del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-18_S785_E15-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178754-785-18615-2015-15-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.304980"
+}

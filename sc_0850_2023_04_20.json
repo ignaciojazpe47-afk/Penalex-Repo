@@ -1,0 +1,22 @@
+{
+  "id": 31067,
+  "numero": "0850",
+  "fecha": "2023-04-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "El abogado Yearth Smith Castellanos Lugo interpuso un amparo constitucional en nombre de Derwis Eduardo Ávila Domínguez contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala Constitucional del TSJ se declaró competente para conocer el caso, argumentando que la decisión de la Corte de Apelaciones violó derechos constitucionales y el debido proceso. Se ordenó la remisión de la sentencia original para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Derwis Eduardo Ávila Domínguez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0850_E23-0425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326506-0850-26623-2023-23-0425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.814137"
+}

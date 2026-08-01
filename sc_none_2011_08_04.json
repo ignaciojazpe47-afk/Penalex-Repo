@@ -1,0 +1,23 @@
+{
+  "id": 6848,
+  "numero": null,
+  "fecha": "2011-08-04",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente el amparo constitucional interpuesto por el abogado Aquilino Antonio Rodríguez en representación de Carlos Eduardo Ramos Vargas, quien fue acusado de violencia física y amenazas. La decisión se basa en la competencia de los juzgados especializados en materia de violencia de género, reafirmando que el amparo no es procedente dado que el caso debe ser juzgado por la jurisdicción correspondiente, independientemente de que el imputado sea indígena.\n\nLa sentencia también destaca la importancia de respetar los derechos de los pueblos indígenas y su cultura, pero subraya que la violencia de género debe ser tratada con la seriedad que merece, garantizando la protección de las víctimas. Se ordena la publicación de la decisión en la Gaceta Judicial y en el portal del TSJ, estableciendo su carácter vinculante para futuros casos similares.\n\nFinalmente, se menciona que la Corte de Apelaciones había admitido el recurso de apelación interpuesto por la Fiscal Décima Quinta del Ministerio Público, lo que llevó a la revocación de la medida cautelar anterior y a la imposición de una medida de privación judicial preventiva de libertad al acusado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "pueblos indígenas",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de violencia de género",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_0ef6a935ab613667a43debcf90c8451a.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.541256"
+}

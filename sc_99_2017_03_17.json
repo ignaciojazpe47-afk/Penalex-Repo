@@ -1,0 +1,23 @@
+{
+  "id": 50636,
+  "numero": "99",
+  "fecha": "2017-03-17",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala 3 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas declaró inadmisible la acción de amparo constitucional interpuesta por los abogados Rosix Hernández Contreras y Robinson Vásquez Martínez, en representación de Wilfredo José Urbaez Rodríguez, por la supuesta omisión de pronunciamiento de la Jueza Josepline Flores Algarin. La Corte fundamentó su decisión en que la situación planteada ya había sido resuelta, cesando la presunta violación de derechos constitucionales alegada por los accionantes.\n\nEl Tribunal Constitucional, al revisar la apelación, confirmó la decisión de inadmisibilidad, argumentando que no existió omisión de pronunciamiento por parte del Tribunal Décimo de Primera Instancia en lo Penal. Se destacó que la acción de amparo fue presentada en un contexto donde ya se había dictado una decisión sobre la medida cautelar sustitutiva de la privación de libertad de Urbaez Rodríguez, lo que generó la cesación de la violación alegada.\n\nFinalmente, se ordenó requerir al Tribunal Décimo de Primera Instancia que informe sobre la situación de detención de Urbaez Rodríguez, advirtiendo sobre posibles sanciones por la omisión de remitir la información requerida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "ejecución de decisión"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-17_S99_E16-0919.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/196968-99-17317-2017-16-0919.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.269028"
+}

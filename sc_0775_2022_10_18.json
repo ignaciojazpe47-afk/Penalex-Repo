@@ -1,0 +1,23 @@
+{
+  "id": 36764,
+  "numero": "0775",
+  "fecha": "2022-10-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional en la modalidad de habeas corpus, interpuesto por los defensores de Doria Alicia Duque Parra y Jorge Luis Arenas Barreto, quienes alegaron detención arbitraria por parte de la Guardia Nacional. La Sala consideró que la apelación era procedente y que la detención no cumplía con los requisitos legales, por lo que se dictó sentencia a favor de los agraviados. Se ordenó la inmediata libertad de los detenidos y se instó a las autoridades a cumplir con las disposiciones legales pertinentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "detención arbitraria",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-18_S0775_E20-0391.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320029-0775-181022-2022-20-0391.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.110875"
+}

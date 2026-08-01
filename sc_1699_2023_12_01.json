@@ -1,0 +1,22 @@
+{
+  "id": 33196,
+  "numero": "1699",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el recurso de apelación interpuesto por Salvador José Guarecuco Cordero, en representación de Carlos Eduardo Corona, y decide sin lugar el recurso, confirmando la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La decisión se basa en que la acción de amparo fue ejercida por la supuesta vulneración del derecho al debido proceso, pero se constató que la audiencia de juicio fue finalmente celebrada, lo que cesó la violación alegada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1699_E17-0786.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330942-1699-11223-2023-17-0786.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.170613"
+}

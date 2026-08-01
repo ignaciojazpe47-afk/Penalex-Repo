@@ -1,0 +1,26 @@
+{
+  "id": 29429,
+  "numero": "0168",
+  "fecha": "2023-03-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Alexy Manuel Guzmán Tiapa en representación de Andreína Dolores Loreto de Sousa, debido a la falta de presentación de documentos necesarios que sustenten la pretensión. La Sala también acepta la declinatoria de competencia efectuada por la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda, declarando su incompetencia para conocer del caso.\n\nEl abogado accionante alegó que la Corte de Apelaciones debió declarar inadmisible la apelación en un proceso penal, argumentando violaciones a derechos constitucionales. Sin embargo, la Sala concluye que la falta de documentación adecuada impide la admisión del recurso, lo que lleva a la decisión de inadmisibilidad.\n\nFinalmente, se resalta que la acción de amparo no puede considerarse como un habeas corpus, ya que se trata de una acción contra decisiones judiciales, y se establece que la legitimación para interponer la acción corresponde a la persona afectada o a su representante legal debidamente acreditado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "libertad",
+    "Corte de Apelaciones",
+    "sentencia",
+    "retardo procesal",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-22_S0168_E22-0669.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323829-0168-22323-2023-22-0669.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.320855"
+}

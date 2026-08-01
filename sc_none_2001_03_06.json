@@ -1,0 +1,27 @@
+{
+  "id": 2331,
+  "numero": null,
+  "fecha": "2001-03-06",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derecho a la educación",
+  "decision": "CONFIRMA",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en la sentencia del 6 de marzo de 2001, abordó el caso de Baltazar Pedra, quien solicitó amparo constitucional tras ser anulado su estatus como alumno regular en la Universidad Central de Venezuela. La Corte Primera de lo Contencioso Administrativo había declarado parcialmente con lugar la solicitud, reconociendo los estudios aprobados por el demandante. La Sala Constitucional confirmó esta decisión, argumentando que, aunque la inscripción del demandante fue irregular, no existía impedimento académico para continuar sus estudios. Se destacó la importancia del derecho a la educación y la necesidad de garantizarlo, incluso en situaciones de irregularidad administrativa.",
+  "palabras_clave": [
+    "Amparo",
+    "Derecho a la educación",
+    "Universidad Central de Venezuela",
+    "Inscripción irregular",
+    "Corte Constitucional",
+    "Baltazar Pedra",
+    "Estudios aprobados",
+    "Derechos fundamentales"
+  ],
+  "titulo": "Amparo Constitucional sobre derecho a la educación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-06_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.711710"
+}

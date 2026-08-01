@@ -1,0 +1,27 @@
+{
+  "id": 20392,
+  "numero": "0943",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Urbano Martín Hernández y Delci Margarita Díaz contra una sentencia del Juzgado Cuarto de Primera Instancia en lo Civil, Mercantil, Agrario y de Tránsito de Anzoátegui. La acción fue considerada inadmisible debido a la caducidad de la misma, ya que transcurrieron más de seis meses desde la decisión judicial que se impugnaba. La Sala confirmó el fallo del Juzgado Superior que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "caducidad",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "sentencia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0943_E24-0808.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344904-0943-17625-2025-24-0808.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.312096"
+}

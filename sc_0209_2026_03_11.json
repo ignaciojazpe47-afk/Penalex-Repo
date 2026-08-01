@@ -1,0 +1,24 @@
+{
+  "id": 16565,
+  "numero": "0209",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Gustavo Adolfo Meléndez Pérez en representación de Víctor Manuel Camargo Contreras. La Corte de Apelaciones había declarado improponible la acción, argumentando que no existía sustento jurídico para su tramitación. Sin embargo, la Sala Constitucional revoca esta decisión, señalando que el amparo tiene fundamento legal y que la ausencia del Fiscal en la audiencia preliminar no justifica la improponibilidad del recurso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "improcedencia",
+    "derechos constitucionales",
+    "fiscal",
+    "audiencia preliminar"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0209_E25-0214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353485-0209-11326-2026-25-0214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.573176"
+}

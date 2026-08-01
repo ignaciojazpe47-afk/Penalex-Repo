@@ -1,0 +1,26 @@
+{
+  "id": 23213,
+  "numero": "1867",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Freddy E. Torres Jiménez en representación de Jackeline Coromoto Montilla González, argumentando que el abogado no tenía la legitimidad para actuar en nombre de la acusada, quien había revocado su defensa. La decisión se basa en la falta de interés procesal directo del abogado en el caso, lo que lleva a la conclusión de que no se cumplen los requisitos para la admisión del recurso de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "justicia",
+    "debido proceso",
+    "dilación",
+    "libertad",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1867_E23-0205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350463-1867-261125-2025-23-0205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.053133"
+}

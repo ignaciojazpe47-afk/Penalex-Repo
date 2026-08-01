@@ -1,0 +1,24 @@
+{
+  "id": 20303,
+  "numero": "0888",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió en la sentencia N° 1.193 del 11 de junio de 2025, declarar con lugar la acción de amparo constitucional interpuesta por Efraín Algimiro Pinto Requena, debido a la falta de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La acción fue presentada por sus apoderados judiciales, quienes argumentaron la violación del derecho de petición y la falta de respuesta judicial oportuna ante solicitudes de saneamiento de acto realizadas en 2021.\n\nLa Sala, al analizar la situación, determinó que la Corte de Apelaciones incurrió en una conducta omisiva al no dar respuesta a las solicitudes presentadas por el accionante, lo que vulneró sus derechos constitucionales. En consecuencia, se ordenó la acumulación de esta causa con otra relacionada, buscando evitar decisiones contradictorias y garantizar la celeridad y eficacia procesal.\n\nFinalmente, se ordenó a la Corte de Apelaciones que emita el pronunciamiento correspondiente sobre las solicitudes de saneamiento de acto, restableciendo así la situación jurídica del demandante.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Falta de Pronunciamiento",
+    "Derecho de Petición",
+    "Corte de Apelaciones",
+    "Estado Guárico"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por falta de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0888_E21-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344683-0888-11625-2025-21-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.291622"
+}

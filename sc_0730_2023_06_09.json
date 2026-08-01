@@ -1,0 +1,26 @@
+{
+  "id": 30782,
+  "numero": "0730",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Humberto José Pérez contra autos de mero trámite dictados por un Juzgado Superior. La Sala declaró su competencia para conocer el caso y observó la falta de notificación al demandante en el juicio de desalojo, lo que motivó la decisión de ordenar la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "notificación",
+    "procedimiento civil",
+    "jurisdicción",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0730_E21-0466.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326001-0730-9623-2023-21-0466.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.423882"
+}

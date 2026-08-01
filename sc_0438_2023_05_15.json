@@ -1,0 +1,26 @@
+{
+  "id": 30219,
+  "numero": "0438",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por miembros de la Asociación Civil Junta Patriótica de Venezuela contra el Consejo Nacional Electoral, por presunta vulneración de derechos a la participación política y al sufragio en relación con la convocatoria a la Asamblea Nacional Constituyente. La decisión se basa en la existencia de cosa juzgada, dado que la Sala ya se había pronunciado sobre la constitucionalidad del decreto que convocó a dicha Asamblea.",
+  "palabras_clave": [
+    "amparo",
+    "constitucionalidad",
+    "elecciones",
+    "cosa juzgada",
+    "derechos políticos",
+    "Consejo Nacional Electoral",
+    "participación política"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional contra el CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0438_E17-0954.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325058-0438-15523-2023-17-0954.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.880510"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28954,
+  "numero": "0054",
+  "fecha": "2023-03-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 1 de marzo de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por el abogado Sergio Ramón Fernández en representación de varios ciudadanos. La solicitud buscaba impugnar la sentencia número 1.283 de la Sala de Casación Social, que había declarado sin lugar un recurso de apelación contra un fallo del Juzgado Superior Agrario relacionado con el rescate de tierras en el Estado Zulia.\n\nLa Sala consideró que no se evidenciaron violaciones a derechos constitucionales ni errores en la interpretación de la ley por parte de la Sala de Casación Social. Se argumentó que la revisión constitucional no puede ser utilizada como una tercera instancia y que la inconformidad con el fallo no justifica la revisión. Finalmente, se ratificó que la decisión de la Sala de Casación Social se dictó conforme a derecho, manteniendo la firmeza del fallo apelado.",
+  "palabras_clave": [
+    "principio de legalidad",
+    "administración pública",
+    "resoluciones administrativas",
+    "derechos constitucionales",
+    "seguridad jurídica",
+    "omisión jurisdiccional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-01_S0054_E17-0693.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/322984-0054-1323-2023-17-0693.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.286461"
+}

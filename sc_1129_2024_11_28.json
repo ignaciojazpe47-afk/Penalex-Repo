@@ -1,0 +1,26 @@
+{
+  "id": 28040,
+  "numero": "1129",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el Instituto Autónomo Fondo de Protección Social de los Depósitos Bancarios contra la decisión de la Sala N° 10 de la Corte de Apelaciones que declaró sin lugar los recursos de apelación. Se argumentó que se vulneraron derechos constitucionales al no notificar a la Procuraduría General de la República, lo que afectó el debido proceso y la tutela judicial efectiva. La Sala declaró procedente la acción de amparo, anulando las decisiones impugnadas y ordenando la reposición de la causa para garantizar la notificación correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "orden público",
+    "procedimiento",
+    "justicia",
+    "constitucional",
+    "inmuebles"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional del Fondo de Protección Social de los Depósitos Bancarios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1129_E17-1011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339712-1129-281124-2024-17-1011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.470663"
+}

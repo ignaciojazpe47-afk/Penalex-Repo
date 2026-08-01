@@ -1,0 +1,25 @@
+{
+  "id": 23242,
+  "numero": "1896",
+  "fecha": "2025-10-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por José Antonio Moreira Amendolia, en su calidad de presidente de Transporte Moreira & Compañía C.A., contra la sentencia N° RC.000573 de la Sala de Casación Civil. Esta sentencia había declarado la nulidad de actuaciones posteriores a la admisión de una demanda por cobro de bolívares, afectando los derechos de la demandante. La Sala consideró que la notificación a la Procuraduría General de la República era obligatoria, dado que se trataba de intereses patrimoniales del Estado, y por ello se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada hasta que se resuelva la revisión.",
+  "palabras_clave": [
+    "cobro",
+    "embargo",
+    "intereses del estado",
+    "actividad petrolera",
+    "procuraduría",
+    "privilegios procesales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1896_E25-1196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350492-1896-261125-2025-25-1196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.198388"
+}

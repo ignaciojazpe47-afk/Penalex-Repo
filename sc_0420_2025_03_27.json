@@ -1,0 +1,22 @@
+{
+  "id": 19120,
+  "numero": "0420",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 00021 dictada el 9 de febrero de 2023 por la Sala Político Administrativa, que declaró que el poder judicial venezolano tiene jurisdicción para conocer la demanda por diferencias de prestaciones sociales interpuesta por Félix Manuel Scott Algara contra varias sociedades mercantiles. La Sala Constitucional concluyó que no se incurrió en errores en la interpretación de la normativa aplicable y que la jurisdicción de los tribunales venezolanos es válida, dado que la relación laboral del demandante se inició en Venezuela y se extendió a otros países, pero no se demostró la derogatoria de la jurisdicción venezolana a favor de la suiza.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derechos laborales",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de Sentencia sobre Jurisdicción en Materia Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0420_E25-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342704-0420-27325-2025-25-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.612277"
+}

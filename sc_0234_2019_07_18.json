@@ -1,0 +1,26 @@
+{
+  "id": 43556,
+  "numero": "0234",
+  "fecha": "2019-07-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto n° 3.906, que prorroga el Estado de Excepción y Emergencia Económica en Venezuela. Se argumenta que el Ejecutivo Nacional, en virtud de circunstancias extraordinarias, tiene la potestad de adoptar medidas excepcionales para garantizar los derechos de la población. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y declara que el mencionado Decreto es constitucional, reiterando que cualquier acto de desaprobación por parte de la Asamblea Nacional es nulo y carente de validez.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "derechos humanos",
+    "poder ejecutivo",
+    "legislación",
+    "control constitucional"
+  ],
+  "titulo": "Decisión sobre la constitucionalidad del Decreto n° 3.906 del 09 de julio de 2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-18_S0234_E19-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306338-0234-18719-2019-19-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.406375"
+}

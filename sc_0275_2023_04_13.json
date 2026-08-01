@@ -1,0 +1,27 @@
+{
+  "id": 29744,
+  "numero": "0275",
+  "fecha": "2023-04-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional formulada por la representación judicial de la Federación Venezolana de Karate Do, de la sentencia nro. 057 del 29 de octubre de 2021, dictada por la Sala Electoral del Tribunal Supremo de Justicia.",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia nro. 057 dictada por la Sala Electoral, que había declarado con lugar una acción de amparo constitucional interpuesta por atletas de la Federación Venezolana de Karate Do. La Sala Constitucional determinó que la Sala Electoral había actuado de manera incorrecta al acumular causas que no eran permisibles y al no respetar el derecho a la defensa de la Federación. En consecuencia, se declaró nula la sentencia de la Sala Electoral y se ordenó remitir copia certificada de la decisión para que dicha Sala emita un nuevo fallo.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "revisión",
+    "derechos",
+    "electoral",
+    "justicia",
+    "normas",
+    "constitucional"
+  ],
+  "titulo": "Revisión de la sentencia nro. 057 de la Sala Electoral del TSJ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-13_S0275_E21-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324363-0275-13423-2023-21-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.826130"
+}

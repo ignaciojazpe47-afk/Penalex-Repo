@@ -1,0 +1,22 @@
+{
+  "id": 30290,
+  "numero": "0508",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un amparo constitucional interpuesto por Andrés Francisco Galdo Tejeiro, representado por sus abogados, contra la omisión del Tribunal Trigésimo Séptimo de Primera Instancia en Funciones de Control. La acción fue declarada inadmisible por falta de legitimidad debido a la presentación de un poder en copia simple. Sin embargo, la Sala consideró que se debía salvaguardar la tutela judicial efectiva y ordenó al tribunal inferior remitir un informe detallado sobre el estado de la causa. Finalmente, la Sala decidió admitir el recurso de apelación y se pronunció a favor del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Andrés Francisco Galdo Tejeiro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0508_E18-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325131-0508-16523-2023-18-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.866042"
+}

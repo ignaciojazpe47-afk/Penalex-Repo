@@ -1,0 +1,25 @@
+{
+  "id": 39573,
+  "numero": "0443",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIxto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por el abogado Douglas José Camero Montañéz en representación de los ciudadanos Christos Mitrogiannis y Luis Alfredo Cumana, contra la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional en la modalidad de habeas corpus. La Sala fundamenta su decisión en la falta de cumplimiento de los requisitos formales para la interposición del recurso de apelación, estableciendo que este debe ser presentado ante el tribunal que dictó la decisión en primera instancia y no directamente ante la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "violencia de género",
+    "competencia",
+    "inadmision",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0443_E18-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313410-0443-16921-2021-18-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.630829"
+}

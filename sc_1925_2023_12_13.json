@@ -1,0 +1,22 @@
+{
+  "id": 33777,
+  "numero": "1925",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE POR FALTA DE REPRESENTACIÓN",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por los abogados de Manuel Roberto Milano Córdoba, por falta de representación adecuada. Se argumenta que los apoderados no contaban con el poder necesario para interponer la acción de amparo constitucional, ya que su mandato se limitaba a la venta de un vehículo y no incluía la facultad para actuar en procesos de amparo. La decisión de la Corte de Apelaciones que declaró improcedente la acción de amparo es confirmada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmision",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1925_E22-0130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331894-1925-131223-2023-22-0130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.446019"
+}

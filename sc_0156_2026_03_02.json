@@ -1,0 +1,27 @@
+{
+  "id": 16208,
+  "numero": "0156",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de febrero de 2025, que había declarado con lugar la demanda por cobro de bolívares presentada por Servicios y Suministros Barso 2006, C.A. contra High Tech Electrónica, C.A. La Sala encontró que el juzgado de instancia había incurrido en errores de valoración de pruebas y omisiones que vulneraron derechos constitucionales, como el debido proceso y la tutela judicial efectiva. Por lo tanto, se declaró nula la sentencia impugnada y se ordenó la remisión del caso a un nuevo juzgado para que dicte una nueva decisión sobre el fondo de la controversia.",
+  "palabras_clave": [
+    "obligaciones mercantiles",
+    "facturas",
+    "prueba",
+    "Código de Comercio",
+    "aceptación",
+    "relación comercial",
+    "deuda",
+    "proceso civil"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cobro de bolívares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0156_E25-0738.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353152-0156-2326-2026-25-0738.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.599671"
+}

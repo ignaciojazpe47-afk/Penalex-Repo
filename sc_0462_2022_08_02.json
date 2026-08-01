@@ -1,0 +1,25 @@
+{
+  "id": 35818,
+  "numero": "0462",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por el abogado Alexander Marcano Montero en representación de Edwar Javier Acuña Uzcátegui, contra la sentencia número 307-2019 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. Esta sentencia había declarado la nulidad de oficio de la decisión N° 440-2019 del Juzgado Séptimo de Primera Instancia en Funciones de Control, que admitió una demanda de estimación e intimación de honorarios profesionales contra Santiago Giovanni Allio Torres.\nLa Sala declaró su competencia para conocer la acción de amparo, pero determinó que hubo abandono del trámite por parte del demandante, ya que no se realizaron actuaciones en el expediente durante más de seis meses. Por lo tanto, se declaró terminado el procedimiento y se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "nulidad",
+    "apelación",
+    "honorarios",
+    "constitución",
+    "proceso penal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0462_E20-0025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318403-0462-2822-2022-20-0025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.759314"
+}

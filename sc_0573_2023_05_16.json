@@ -1,0 +1,25 @@
+{
+  "id": 30367,
+  "numero": "0573",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la abogada Jenny Josefina Rueda Carménate en nombre de Charlez José Mata Narváez, quien fue condenado por abuso sexual a niño. La Sala declaró su competencia para conocer la solicitud, pero inadmitió la revisión debido a la falta de presentación de documentos esenciales, como la copia certificada completa de la sentencia cuestionada. La decisión se fundamenta en la necesidad de contar con documentación fehaciente para la verificación de la solicitud.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "representación",
+    "documentos",
+    "copia certificada",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0573_E21-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325217-0573-16523-2023-21-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.856439"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3000,
+  "numero": null,
+  "fecha": "2003-06-20",
+  "anio": 2003,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "ANULA",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Vargas declaró sin lugar el recurso de apelación interpuesto por la defensa de Raúl Eduardo Díaz Villanueva, quien había sido condenado a 12 años y 6 meses de prisión por transporte ilícito de sustancias estupefacientes. Posteriormente, se interpuso un recurso de casación que fue revisado por el Tribunal Supremo de Justicia, el cual encontró vicios procesales en la decisión de la Corte de Apelaciones y del Tribunal Cuarto de Juicio, específicamente la falta de información al imputado sobre las medidas alternativas a la prosecución del proceso.",
+  "palabras_clave": [],
+  "titulo": "Anulación de decisión de la Corte de Apelaciones y reposición de causa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2003-06-20_CasacionPenal_C030180.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:07.735235"
+}

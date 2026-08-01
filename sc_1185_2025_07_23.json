@@ -1,0 +1,26 @@
+{
+  "id": 21122,
+  "numero": "1185",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional interpuesta por José Cristóbal Álvarez en representación de José Gregorio Rojas Rodríguez, respecto a una sentencia del Tribunal Superior Agrario que declaró inadmisible una acción de amparo. La Sala se declara competente para conocer la revisión y ordena la remisión del expediente correspondiente para su análisis. Se destaca la importancia de salvaguardar el derecho al debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "revisión constitucional",
+    "acción de amparo",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "Juzgado Agrario",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de acción de amparo inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1185_E24-0461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346405-1185-23725-2025-24-0461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.380576"
+}

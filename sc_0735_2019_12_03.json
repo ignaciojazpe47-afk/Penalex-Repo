@@ -1,0 +1,22 @@
+{
+  "id": 40789,
+  "numero": "0735",
+  "fecha": "2019-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Tony Flavio Palladino Falcone, en contra de una notificación del Juzgado Sexto de Primera Instancia en Funciones de Control del Circuito Judicial Penal Militar del Estado Carabobo. Se argumentó que la notificación carecía de respaldo motivado y que el expediente relacionado no existía, lo que constituía una violación a los derechos constitucionales del demandante. La Sala declaró la nulidad de la causa penal y ordenó el sobreseimiento de la misma, prohibiendo cualquier actuación judicial en el expediente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "jurisdicción militar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Tony Flavio Palladino Falcone",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0735_E19-0479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315186-0735-91221-2021-19-0479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.819833"
+}

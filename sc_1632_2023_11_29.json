@@ -1,0 +1,26 @@
+{
+  "id": 33123,
+  "numero": "1632",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Alejandro Jospe Poletti Mariotti, actuando en nombre de la CORPORACIÓN VENEZOLANA DE GUAYANA (CVG). La solicitud se refería a una sentencia del Juzgado Cuarto Superior Laboral que declaró con lugar un recurso de apelación interpuesto por Beda Cristina Peña Carpio. La Sala determinó que la solicitud era inadmisible debido a la falta de representación adecuada del abogado para actuar en el caso, ya que no presentó el poder correspondiente en forma certificada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder",
+    "carga procesal",
+    "apoderado",
+    "tutela judicial",
+    "sentencias",
+    "administración de justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1632_E17-0405.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330799-1632-291123-2023-17-0405.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.985082"
+}

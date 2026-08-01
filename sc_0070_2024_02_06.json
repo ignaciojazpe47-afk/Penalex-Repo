@@ -1,0 +1,25 @@
+{
+  "id": 24123,
+  "numero": "0070",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión constitucional presentada por Luis Abraham Rizek Rodríguez contra la decisión del Juzgado Décimo Octavo que declaró a Rosa María Miguez Vásquez como única y universal heredera del de cujus Francisco Javier Vidal Losada. La Sala argumentó que la revisión no contribuiría a la uniformidad de la interpretación de las normas constitucionales, ya que la valoración de las pruebas es competencia del juez de instancia y no de la Sala Constitucional.",
+  "palabras_clave": [
+    "herencia",
+    "jurisdicción",
+    "sentencia",
+    "revisión",
+    "competencia",
+    "firmeza"
+  ],
+  "titulo": "Revisión constitucional de la decisión sobre herencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0070_E21-0815.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332425-0070-6224-2024-21-0815.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.821526"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 29931,
+  "numero": "0340",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por Luis Bastidas De León, actuando como apoderado judicial de Lesbia Amelia Quintero, contra la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamentó en la falta de cualidad del abogado para representar a la ciudadana, ya que el poder presentado no provenía de ella, sino de una tercera persona. La Sala reafirma la necesidad de que el apoderado demuestre su legitimidad para actuar en juicio, lo que no ocurrió en este caso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Legitimidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0340_E20-0367.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324610-0340-28423-2023-20-0367.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.051440"
+}

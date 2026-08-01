@@ -1,0 +1,24 @@
+{
+  "id": 49696,
+  "numero": "0736",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ANULA la sentencia N° 000614 dictada el 15 de octubre de 2025, por la Sala de Casación Civil del Tribunal Supremo de Justicia.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de junio de 2026, se pronunció sobre la revisión constitucional solicitada por los ciudadanos Miguel Celestino García Cátamo y Reinaldo Antonio García Ortiz, quienes impugnaron la sentencia N° 000614 dictada el 15 de octubre de 2025 por la Sala de Casación Civil. La Sala declaró la nulidad de dicha sentencia, así como de otras decisiones previas que habían declarado sin lugar el recurso de apelación interpuesto por los solicitantes, argumentando que se habían vulnerado sus derechos a la defensa y al debido proceso debido a la incompetencia del tribunal de instancia por la cuantía del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de sentencia",
+    "debido proceso",
+    "competencia",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 000614",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0736_E25-1214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356434-0736-10626-2026-25-1214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.939740"
+}

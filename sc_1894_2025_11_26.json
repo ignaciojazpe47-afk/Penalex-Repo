@@ -1,0 +1,26 @@
+{
+  "id": 23240,
+  "numero": "1894",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Mirian Josefina López, quien impugnó la decisión de la Sala 6 de la Corte de Apelaciones que declaró inadmisible su recurso de apelación. Sin embargo, tras el análisis de las actas, la Sala determinó que la acción era improcedente in limine litis, confirmando así la sentencia impugnada. La decisión se basa en que no se configuraron las violaciones constitucionales alegadas por la accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial",
+    "derechos humanos",
+    "debido proceso",
+    "infracción de la ley",
+    "sentencia",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1894_E25-1099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350490-1894-261125-2025-25-1099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.047929"
+}

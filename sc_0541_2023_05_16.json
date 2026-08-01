@@ -1,0 +1,22 @@
+{
+  "id": 30323,
+  "numero": "0541",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Rogelio Rafael Ramírez Marriaga, en representación de Luis Fernando Pérez Pérez, debido al retardo en la realización de la Audiencia Preliminar por parte del Juzgado Quinto de Primera Instancia en Función de Control del Circuito Judicial Penal del Estado Zulia. Se argumentó que han transcurrido más de 32 meses desde la detención preventiva de Pérez Pérez sin que se haya realizado dicha audiencia, lo que constituye una violación a su derecho a la justicia expedita y a la tutela judicial efectiva.\n\nLa Sala, al considerar los argumentos presentados, decidió declarar con lugar la acción de amparo, ordenando al tribunal de control que realice la Audiencia Preliminar en un plazo perentorio. Se enfatizó la importancia de garantizar el derecho a un juicio justo y sin dilaciones indebidas, así como la necesidad de que los tribunales actúen conforme a los plazos establecidos por la ley.\n\nFinalmente, se ordenó la notificación al tribunal de control para que informe sobre el estado actual del proceso y se establecieron las responsabilidades administrativas en caso de incumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "retardo procesal",
+    "audiencia preliminar"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por retardo procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0541_E20-0081.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325171-0541-16523-2023-20-0081.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.873446"
+}

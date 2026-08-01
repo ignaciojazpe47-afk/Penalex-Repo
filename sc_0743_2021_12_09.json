@@ -1,0 +1,23 @@
+{
+  "id": 40798,
+  "numero": "0743",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0205, declara ha lugar la solicitud de revisión constitucional interpuesta por los abogados de Jack Ehud Dornbusch Gehl, anulando la sentencia N° 157 dictada por la Sala de Casación Penal. Se confirma la decisión del Tribunal Vigésimo de Primera Instancia que declaró con lugar la excepción opuesta como obstáculo de la persecución penal, decretando el sobreseimiento de la causa. La Sala argumenta que la nulidad de oficio decretada por la Sala de Casación Penal no estaba justificada, ya que el Ministerio Público actuó en defensa de los derechos de las víctimas durante el proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de oficio",
+    "derechos de las víctimas",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 157",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0743_E19-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315195-0743-91221-2021-19-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.728035"
+}

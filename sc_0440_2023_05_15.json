@@ -1,0 +1,25 @@
+{
+  "id": 30221,
+  "numero": "0440",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de nulidad interpuesto por Franklin León Trujillo contra una resolución del Consejo Nacional Electoral. El recurrente alegó que dicha resolución violaba sus derechos políticos y los de las minorías, impidiendo su postulación a la elección presidencial del 22 de abril de 2018.",
+  "palabras_clave": [
+    "competencia",
+    "recurso",
+    "nulidad",
+    "Sala Electoral",
+    "Consejo Nacional Electoral",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad interpuesto contra el Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0440_E18-0149.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325060-0440-15523-2023-18-0149.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.888304"
+}

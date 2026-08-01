@@ -1,0 +1,25 @@
+{
+  "id": 35570,
+  "numero": "0365",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La abogada Beatriz Amelia Méndez Ortega solicitó revisión constitucional de una sentencia dictada el 29 de junio de 2004, que ordenó la ejecución forzosa de un decreto intimatorio en contra de la sociedad mercantil Oficina Técnica Parilli Pérez, C.A. La Sala Constitucional, al revisar la solicitud, observó que la abogada no presentó el poder original o copia certificada que acreditara su representación legal, lo que constituye un incumplimiento procesal. Por lo tanto, la Sala declaró inadmisible la solicitud de revisión.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "legitimidad",
+    "representación",
+    "poder",
+    "revisión constitucional",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0365_E20-0158.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318126-0365-25722-2022-20-0158.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.770163"
+}

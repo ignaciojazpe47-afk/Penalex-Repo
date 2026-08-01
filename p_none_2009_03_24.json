@@ -1,0 +1,23 @@
+{
+  "id": 7678,
+  "numero": null,
+  "fecha": "2009-03-24",
+  "anio": 2009,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Inadmisible",
+  "ponente": "MIRIAM MORANDY MIJARES",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, declara inadmisible el recurso de casación interpuesto por la defensa de los ciudadanos acusados de estafa simple continuada y agavillamiento. La decisión se basa en que la sentencia de la Corte de Apelaciones no es recurrible en casación, ya que no pone fin al juicio ni impide su continuación. Se argumenta que el recurso no cumple con los requisitos establecidos en el Código Orgánico Procesal Penal.",
+  "palabras_clave": [
+    "casación",
+    "estafa",
+    "agavillamiento",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de estafa y agavillamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_1f18907c36825fd24b5d89916fc22b21.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:53.303848"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 35555,
+  "numero": "0350",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso extraordinario de revisión constitucional interpuesto por Dynos Energy, C.A. contra una sentencia del Tribunal Primero de Municipio que resolvió una demanda de resolución de contrato de arrendamiento. La Sala consideró que el tribunal de instancia había incurrido en errores en la aplicación de la ley y en la determinación de su competencia territorial, lo que afectó el derecho a la defensa de la parte demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato de arrendamiento",
+    "competencia territorial"
+  ],
+  "titulo": "Sentencia sobre recurso extraordinario de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0350_E21-0065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318111-0350-25722-2022-21-0065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.782491"
+}

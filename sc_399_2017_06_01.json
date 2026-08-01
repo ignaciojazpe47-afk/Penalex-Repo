@@ -1,0 +1,22 @@
+{
+  "id": 52004,
+  "numero": "399",
+  "fecha": "2017-06-01",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Admite la acción innominada de naturaleza constitucional",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción innominada presentada por cinco ciudadanos solicitando el reconocimiento de su identidad de género auto-percibida. Los solicitantes argumentaron que su identidad de género no coincide con el sexo asignado al nacer, lo que ha generado situaciones de discriminación y vulneración de sus derechos humanos. La Sala, tras analizar los argumentos y la normativa aplicable, declaró su competencia para conocer el caso y admitió la acción, ordenando notificaciones a diversas instituciones para continuar con el proceso.",
+  "palabras_clave": [
+    "identidad de género",
+    "derechos humanos",
+    "discriminación"
+  ],
+  "titulo": "Sentencia sobre reconocimiento de identidad de género auto-percibida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-01_S399_E17-0413.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199526-399-1617-2017-17-0413.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.095497"
+}

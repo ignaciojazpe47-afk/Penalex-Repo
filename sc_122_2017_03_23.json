@@ -1,0 +1,23 @@
+{
+  "id": 50703,
+  "numero": "122",
+  "fecha": "2017-03-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara con lugar la revisión solicitada por Beatriz Josefina Trías de Prado, quien impugnó la decisión de la Corte Segunda de lo Contencioso Administrativo que había declarado sin lugar su recurso de apelación sobre el ajuste de su pensión de jubilación. La Sala argumenta que el fallo impugnado vulneró derechos fundamentales al no considerar adecuadamente el ajuste de la pensión al sueldo actual del cargo desempeñado por la solicitante, lo que contraviene la normativa sobre jubilaciones y pensiones.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión",
+    "derechos sociales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión de jubilación de Beatriz Josefina Trías de Prado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-23_S122_E16-0976.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/197105-122-23317-2017-16-0976.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.247356"
+}

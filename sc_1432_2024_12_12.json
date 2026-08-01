@@ -1,0 +1,22 @@
+{
+  "id": 28601,
+  "numero": "1432",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CORDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por los accionistas de la empresa 'CENTRO CERÁMICO HOLA, C.A.' respecto a una sentencia de la Sala de Casación Social que declaró sin lugar un recurso de casación. La Sala Constitucional determinó que no hubo violaciones al derecho a la defensa ni al debido proceso, confirmando que los recurrentes no actuaron con la debida diligencia en la defensa de sus intereses. Finalmente, se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "due process"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1432_E23-0016.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340625-1432-121224-2024-23-0016.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.826039"
+}

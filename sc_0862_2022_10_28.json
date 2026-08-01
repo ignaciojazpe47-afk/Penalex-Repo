@@ -1,0 +1,26 @@
+{
+  "id": 37112,
+  "numero": "0862",
+  "fecha": "2022-10-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agrario",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, ha declarado con lugar la solicitud de revisión de la sentencia interlocutoria con fuerza de definitiva dictada el 18 de junio de 2018 por el Juzgado Superior Agrario del Estado Guárico. La sentencia original había declarado con lugar un recurso de apelación, lo que llevó a la parte demandante a solicitar la revisión por considerar que se vulneraron principios constitucionales y se afectó la seguridad agroalimentaria del país. La Sala anula la decisión anterior y ordena al Juzgado Superior Agrario emitir un nuevo pronunciamiento ajustado a derecho.",
+  "palabras_clave": [
+    "recurso de apelación",
+    "medida cautelar",
+    "derecho agrario",
+    "jurisdicción",
+    "Ley de Tierras",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-28_S0862_E19-0028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320464-0862-281022-2022-19-0028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.424326"
+}

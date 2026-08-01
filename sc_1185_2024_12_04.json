@@ -1,0 +1,25 @@
+{
+  "id": 28134,
+  "numero": "1185",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Ha Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 2023-1468, dictada por el Juzgado Nacional Primero Contencioso Administrativo, que había declarado parcialmente con lugar un recurso de apelación sobre el derecho a la jubilación de Ana Joaquina Hernández Sánchez. La Sala determinó que la apelante cumplía con los requisitos para la jubilación y que el juzgado de instancia había errado al no aplicar criterios jurisprudenciales establecidos sobre el derecho a la jubilación frente a la remoción de funcionarios públicos.\n\nLa Sala declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando al Instituto Aeropuerto Internacional de Maiquetía otorgar la jubilación ordinaria a la solicitante, con efectos desde el 21 de octubre de 2014, y el pago correspondiente con indexación. Se enfatizó que el derecho a la jubilación debe prevalecer sobre actos administrativos de remoción, en atención a la protección de los derechos laborales y sociales de los funcionarios públicos.\n\nFinalmente, se ordenó remitir copia de la decisión al Juzgado Nacional Segundo Contencioso Administrativo para que dicte un nuevo pronunciamiento conforme a lo establecido en este fallo.",
+  "palabras_clave": [
+    "jubilación",
+    "derechos sociales",
+    "seguridad social",
+    "constitución",
+    "administración pública",
+    "convención colectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre derecho a jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1185_E24-0325.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340024-1185-41224-2024-24-0325.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.050106"
+}

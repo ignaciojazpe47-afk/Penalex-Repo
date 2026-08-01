@@ -1,0 +1,26 @@
+{
+  "id": 23440,
+  "numero": "1955",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Miguel Ángel Cásseres González en representación de Vincenzo Li Causi Fiorenza. La acción se fundamenta en la inadmisibilidad del recurso de apelación dictado por la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico, que había declarado inadmisible el recurso de apelación contra una decisión del Juzgado Primero de Primera Instancia Municipal en Funciones de Control. La Sala concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "tutela judicial",
+    "recurso de apelación",
+    "debido proceso",
+    "derecho a la defensa",
+    "inadmision",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Vincenzo Li Causi Fiorenza",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1955_E25-0727.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350841-1955-281125-2025-25-0727.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.796141"
+}

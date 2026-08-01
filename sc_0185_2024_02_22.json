@@ -1,0 +1,25 @@
+{
+  "id": 24322,
+  "numero": "0185",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Vicente Manuel Perera González, debido a que el recurso de apelación fue presentado de manera extemporánea. La decisión apelada fue dictada el 3 de noviembre de 2023 por el Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Lara, que había declarado inadmisible la acción de amparo. La Sala también reafirma su competencia para conocer del recurso de apelación, pero concluye que no se cumplen los requisitos para su admisión.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "jurisprudencia",
+    "constitucional",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0185_E23-1270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332728-0185-22224-2024-23-1270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.663312"
+}

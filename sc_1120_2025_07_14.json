@@ -1,0 +1,25 @@
+{
+  "id": 20919,
+  "numero": "1120",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Gustavo Ignacio Nieto Marcano en representación de la sociedad mercantil RESIMON C.A. La decisión se basa en la falta de legitimidad del abogado para actuar en el presente asunto, ya que no se presentó el poder necesario que acredite su representación. La Sala reafirma la importancia de cumplir con los requisitos legales para la presentación de solicitudes de revisión constitucional.",
+  "palabras_clave": [
+    "representación",
+    "poder",
+    "inadmisión",
+    "carga procesal",
+    "revisión constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1120_E24-0998.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346027-1120-14725-2025-24-0998.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.391325"
+}

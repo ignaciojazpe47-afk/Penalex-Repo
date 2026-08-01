@@ -1,0 +1,27 @@
+{
+  "id": 24236,
+  "numero": "0108",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por José Gregorio Chasoy Aguana, quien alegó violaciones a sus derechos fundamentales en un proceso judicial anterior. La Sala determinó su competencia para conocer el caso, pero declaró inadmisible la acción de amparo, argumentando que no se admiten acciones de amparo contra decisiones de las Salas del Tribunal Supremo de Justicia, conforme a la Ley Orgánica de amparo sobre Derechos y Garantías Constitucionales. La decisión fue firmada por la magistrada ponente Tania D'Amelio Cardiet y otros magistrados.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "tribunal supremo",
+    "decisiones",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0108_E22-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332617-0108-19224-2024-22-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.563306"
+}

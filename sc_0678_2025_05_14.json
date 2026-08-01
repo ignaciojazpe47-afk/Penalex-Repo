@@ -1,0 +1,25 @@
+{
+  "id": 19789,
+  "numero": "0678",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, decidió no ha lugar la solicitud de revisión presentada por la Universidad de los Andes contra la decisión del Juzgado Primero Superior del Trabajo que confirmó la acción de amparo constitucional a favor de Yria Yrene Carrero Guillén de Gómez. La decisión original ordenaba a la universidad cumplir con la providencia administrativa que ordenaba el reenganche y pago de salarios caídos de la demandante.\n\nLa Sala argumentó que la revisión no aportaba nuevos elementos que justificaran un cambio en la decisión anterior, reafirmando la importancia de la cosa juzgada y el respeto a las decisiones firmes. Se destacó que la universidad había incurrido en desacato a la orden de reenganche, lo que justificó la acción de amparo constitucional.\n\nFinalmente, se ordenó el cumplimiento de la providencia administrativa emitida por la Inspectoría del Trabajo, reafirmando la protección de los derechos laborales de la demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "reenganche",
+    "salarios caídos",
+    "universidad",
+    "derechos laborales",
+    "ejecución forzosa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0678_E11-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343753-0678-14525-2025-11-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.723059"
+}

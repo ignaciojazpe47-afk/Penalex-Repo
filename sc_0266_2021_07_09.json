@@ -1,0 +1,25 @@
+{
+  "id": 38985,
+  "numero": "0266",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara inadmisible la acción de amparo constitucional interpuesta por Johonnys Armando Hernández contra el Instituto Venezolano de los Seguros Sociales (IVSS) por la falta de suministro de tratamiento médico. La Corte argumenta que existía otro medio procesal adecuado que no fue utilizado por el accionante, lo que llevó a la inadmisibilidad de la acción. Finalmente, se confirma el fallo de la Corte Primera de lo Contencioso Administrativo que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la salud",
+    "derecho a la vida",
+    "IVSS",
+    "normas administrativas",
+    "tratamiento médico"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0266_E19-0661.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312567-0266-9721-2021-19-0661.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.166318"
+}

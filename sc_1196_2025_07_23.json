@@ -1,0 +1,26 @@
+{
+  "id": 21162,
+  "numero": "1196",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Ramón Mendoza, en representación de varios ciudadanos, contra la decisión de la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolívar. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que la presunta violación de derechos constitucionales había cesado con un pronunciamiento previo del Tribunal Tercero de Control. La Sala Constitucional confirma esta decisión, considerando que el recurso de apelación fue presentado de manera extemporánea.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "juez natural",
+    "dilaciones",
+    "injusticia",
+    "Corte de Apelaciones",
+    "Estado Bolívar"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1196_E24-1215.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346445-1196-23725-2025-24-1215.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.384950"
+}

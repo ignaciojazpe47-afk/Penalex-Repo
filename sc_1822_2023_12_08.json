@@ -1,0 +1,26 @@
+{
+  "id": 33488,
+  "numero": "1822",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 8 de diciembre de 2023, declaró NO HA LUGAR la solicitud de revisión de la sentencia dictada el 3 de noviembre de 2017 por el Juzgado Tercero de Municipio Ordinario y Ejecutor de Medidas de los Municipios San Cristóbal y Torbes. La revisión fue solicitada por el abogado Cristian Jonhatan Faria Maldonado en representación de las ciudadanas Doris Josefina Monsalve Blanco y Ángela Virginia Monsalve Blanco, quienes impugnaron la decisión que declaró con lugar la demanda de cumplimiento de contrato presentada por Luis Emiro Ochoa Hurtado.\n\nLa Sala consideró que la solicitud de revisión no cumplía con los requisitos establecidos para su procedencia, enfatizando que la revisión constitucional no puede ser utilizada como una tercera instancia. Se determinó que la sentencia objeto de revisión se encontraba definitivamente firme y que no se habían presentado argumentos que justificaran la intervención de la Sala Constitucional en este caso.\n\nFinalmente, la Sala declaró inoficioso pronunciarse sobre la medida cautelar innominada solicitada, dado su carácter accesorio respecto de la acción principal.",
+  "palabras_clave": [
+    "nulidad",
+    "orden público",
+    "contrato",
+    "prueba",
+    "sentencia",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1822_E23-0632.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331357-1822-81223-2023-23-0632.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.462604"
+}

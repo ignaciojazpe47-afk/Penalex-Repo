@@ -1,0 +1,27 @@
+{
+  "id": 1951,
+  "numero": null,
+  "fecha": "2000-08-07",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Fundamentales",
+  "decision": "Se declara con lugar la apelación y se concede el amparo constitucional.",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "En esta sentencia, la Sala Constitucional del Tribunal Supremo de Justicia de Venezuela se pronuncia sobre un recurso de amparo constitucional interpuesto por Roberto Muñoz Conte, en su carácter de Director de la Compañía Anónima Industria Técnica, C.M.B. (C.A. INDUTEC C.M.B.), contra un auto del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y Agrario de Carabobo que ordenó la continuación del procedimiento de remate de un bien inmueble. La Sala considera que el proceso de ejecución de hipoteca fue utilizado de manera fraudulenta, afectando los derechos fundamentales a la propiedad y a la libertad económica del demandante. Se revoca la decisión de inadmisibilidad del amparo y se declara la nulidad del juicio de ejecución de hipoteca, restableciendo así la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo",
+    "ejecución de hipoteca",
+    "derechos fundamentales",
+    "fraude",
+    "propiedad",
+    "libertad económica",
+    "justicia",
+    "nulo"
+  ],
+  "titulo": "Amparo Constitucional sobre Ejecución de Hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-07_Constitucional_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.726304"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 32928,
+  "numero": "1497",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Alí Parra Sánchez, debido a la inepta acumulación de pretensiones. El demandante alegó la omisión del Tribunal Segundo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Portuguesa y la Fiscalía Tercera del Ministerio Público, al no pronunciarse sobre su solicitud de sobreseimiento por prescripción extra judicial. Sin embargo, la Sala determinó que las solicitudes estaban dirigidas a distintos órganos, lo que requería procedimientos separados y competentes para cada caso.\n\nLa Sala también hizo un llamado de atención al demandante por errores gramaticales y ortográficos en su escrito, instándolo a ejercer la abogacía conforme al Código de Ética del Abogado. La decisión se fundamenta en la normativa que prohíbe la acumulación de pretensiones que se excluyan mutuamente o cuyos procedimientos sean incompatibles, lo que llevó a la inadmisibilidad de la demanda.\n\nFinalmente, se ordenó la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la importancia del debido proceso y la correcta tramitación de las acciones judiciales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1497_E23-0904.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330549-1497-221123-2023-23-0904.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.442000"
+}

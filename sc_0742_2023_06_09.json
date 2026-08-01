@@ -1,0 +1,25 @@
+{
+  "id": 30794,
+  "numero": "0742",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados de Cynthia Katherina Weinhold Gómez contra la decisión N° 275 de la Sala de Casación Penal. La acción se fundamenta en la supuesta violación de derechos en el proceso penal, pero se determina que existe una prohibición legal que impide el ejercicio de esta acción contra decisiones de la Sala de Casación Penal. La sentencia se firma el 9 de junio de 2023.",
+  "palabras_clave": [
+    "recurso de casación",
+    "sobreseimiento",
+    "tutela judicial",
+    "derechos de la víctima",
+    "proceso penal",
+    "elementos de convicción"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0742_E23-0385.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326013-0742-9623-2023-23-0385.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.425061"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 56901,
+  "numero": "262",
+  "fecha": "2015-12-23",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito de Trujillo, que había declarado sin lugar la acción de reconocimiento de comunidad concubinaria entre Yohana Andrea Abreu Martínez y Ricardo Ramón Marín. La Sala determinó que la competencia para conocer de este tipo de solicitudes corresponde a los tribunales de protección de niños, niñas y adolescentes, dado que en el caso se involucraban derechos de menores de edad procreados por la pareja. La decisión de la Sala fue a favor de la solicitante, ordenando la remisión del expediente al tribunal competente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "unión concubinaria",
+    "competencia",
+    "niños y adolescentes"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de unión concubinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-04-05_S262_E15-0515.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/186794-262-5416-2016-15-0515.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.966573"
+}

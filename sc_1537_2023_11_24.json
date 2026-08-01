@@ -1,0 +1,25 @@
+{
+  "id": 32968,
+  "numero": "1537",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por el abogado Carlos Salas en representación de Ronald Alexander Polo Tortolero, quien alegó violaciones al debido proceso y derecho a la defensa en un caso de abuso sexual. La Sala determinó su competencia para conocer del recurso y decidió declarar con lugar la acción de amparo, ordenando la nulidad de los actos procesales que contravinieron las garantías constitucionales del justiciable.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "amparo_constitucional",
+    "violencia_contra_la_mujer",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1537_E22-0522.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330591-1537-241123-2023-22-0522.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.425170"
+}

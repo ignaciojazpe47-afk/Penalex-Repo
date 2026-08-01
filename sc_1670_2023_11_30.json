@@ -1,0 +1,27 @@
+{
+  "id": 33161,
+  "numero": "1670",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de noviembre de 2023, declaró 'NO HA LUGAR' a la solicitud de revisión constitucional presentada por LUIS FELIPE CROKER contra la sentencia del 23 de mayo de 2022, emitida por el Juzgado Superior Segundo del Trabajo de la Circunscripción Judicial del Estado Aragua. Esta sentencia había confirmado la decisión de un Juzgado de Primera Instancia que declaró sin lugar un recurso de nulidad interpuesto por el demandante contra un acto administrativo de la Inspectoría del Trabajo.\n\nLa Sala fundamentó su decisión en que no se evidenció un error grotesco en la interpretación de la norma constitucional ni se desconocieron criterios vinculantes de la Sala Constitucional. Se destacó que el Juzgado Superior había actuado correctamente al considerar el incendio que afectó las instalaciones de la entidad demandada como causa de la culminación de la relación laboral, lo que justificó la decisión de no proceder con el reenganche solicitado por el demandante.\n\nFinalmente, se reafirmó la competencia de la Sala Constitucional para revisar sentencias definitivas, pero se concluyó que en este caso no existían motivos suficientes para modificar la decisión impugnada.",
+  "palabras_clave": [
+    "apelación",
+    "due_process",
+    "derecho_a_la_defensa",
+    "error_judicial",
+    "unidad_económica",
+    "trabajo",
+    "sentencia",
+    "revisión_constitucional"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1670_E22-0972.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330839-1670-301123-2023-22-0972.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.977663"
+}

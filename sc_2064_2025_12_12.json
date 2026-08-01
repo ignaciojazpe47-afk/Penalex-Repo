@@ -1,0 +1,26 @@
+{
+  "id": 23844,
+  "numero": "2064",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por los abogados en representación de Hernán Alfredo Serrano Sánchez, debido a la falta de presentación de copia certificada de la sentencia adversada. La Sala establece que es una carga procesal del solicitante presentar este documento para verificar la admisibilidad de la revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "jurisprudencia",
+    "carga de la prueba",
+    "notoriedad judicial",
+    "documentación",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2064_E20-0135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351877-2064-121225-2025-20-0135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.079817"
+}

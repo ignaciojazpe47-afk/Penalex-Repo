@@ -1,0 +1,25 @@
+{
+  "id": 41020,
+  "numero": "0025",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, se pronuncia sobre la apelación de una acción de amparo constitucional presentada por Eucaris del Valle Ruiz Salas, a través de su abogado Alexander Velásquez, contra actos del Juzgado Quinto de Primera Instancia en lo Penal del Estado Bolívar. La Sala determina su competencia para conocer el caso y ordena al juzgado remitente que informe sobre el estado de la causa y la solicitud de sobreseimiento presentada por la Fiscalía Segunda del Ministerio Público.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunal",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0025_E19-0696.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309535-0025-11220-2020-19-0696.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.146105"
+}

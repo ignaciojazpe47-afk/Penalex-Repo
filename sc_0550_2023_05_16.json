@@ -1,0 +1,25 @@
+{
+  "id": 30332,
+  "numero": "0550",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió en favor de José Ramón Ceballos, quien interpuso una acción de amparo constitucional contra una decisión del Juzgado Segundo de Primera Instancia que había decretado medidas cautelares en su contra. La Sala consideró que se habían violado derechos constitucionales como el debido proceso y el derecho a la defensa, revocando la decisión del tribunal inferior y ordenando el levantamiento de las medidas cautelares. La acción de amparo fue declarada con lugar, pero se inadmitió la acción de amparo constitucional interpuesta por Ceballos contra la decisión del 28 de agosto de 2018, manteniendo vigentes las medidas cautelares decretadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medidas cautelares",
+    "debido proceso",
+    "niños y adolescentes",
+    "jurisdicción",
+    "inadmibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0550_E18-0727.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325182-0550-16523-2023-18-0727.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.853268"
+}

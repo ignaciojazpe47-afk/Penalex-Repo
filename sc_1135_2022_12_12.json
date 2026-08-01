@@ -1,0 +1,26 @@
+{
+  "id": 37890,
+  "numero": "1135",
+  "fecha": "2022-12-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Luis Javier Pinto Belandria contra la sentencia dictada el 18 de junio de 2018 por el Tribunal Superior Cuarto. Se argumentó que el demandante había agotado las vías ordinarias al intentar un recurso de control de legalidad, lo que le impedía recurrir al amparo constitucional. La decisión se fundamentó en la falta de justificación para la acción de amparo, dado que existían otros medios judiciales disponibles para proteger sus derechos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "niños",
+    "derechos",
+    "proceso jurisdiccional",
+    "nulidad",
+    "LOPNNA",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-12_S1135_E18-0800.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321801-1135-121222-2022-18-0800.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.421363"
+}

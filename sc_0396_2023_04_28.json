@@ -1,0 +1,25 @@
+{
+  "id": 29987,
+  "numero": "0396",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación de acción de amparo constitucional en la modalidad de habeas corpus, interpuesto por las abogadas Graciela Varela Mora y Luris M. Barrios R. en representación de Iván Sosa Rivero. Este recurso fue presentado contra una sentencia que declaró inadmisible la acción de amparo constitucional relacionada con una medida privativa de libertad impuesta en un juicio penal por delitos de violación y privación ilegítima de libertad.\n\nLa Sala, tras analizar los alegatos del recurrente, determinó su competencia para conocer del caso y ordenó la remisión de información sobre el estado actual del proceso. Se destacó la necesidad de verificar la situación del imputado y el cumplimiento de las decisiones judiciales previas, advirtiendo sobre las sanciones por incumplimiento de lo solicitado.\n\nFinalmente, la Sala resolvió que se debía publicar, registrar y notificar la decisión conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia, archivando el expediente y cumpliendo con lo ordenado.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo constitucional",
+    "debido proceso",
+    "privación de libertad",
+    "competencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0396_E18-0078.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324666-0396-28423-2023-18-0078.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.052972"
+}

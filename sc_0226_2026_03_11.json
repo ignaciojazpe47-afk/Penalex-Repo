@@ -1,0 +1,27 @@
+{
+  "id": 17393,
+  "numero": "0226",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de marzo de 2026, declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Carlos Gregorio Carvajal Díaz en representación de Jonás Hanani Mercado López. La acción buscaba enervar los efectos de una sentencia anterior que había declarado inadmisible una acción de amparo contra el Tribunal Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Cojedes, por presuntas violaciones a derechos constitucionales y al debido proceso.\n\nLa Sala fundamentó su decisión en la falta de agotamiento de los recursos ordinarios disponibles y en la ausencia de justificación para el uso de la vía de amparo, considerando que la acción de amparo no puede ser utilizada como un medio alternativo a los recursos procesales establecidos. Se destacó que la violación alegada por los accionantes había cesado, lo que llevó a la inadmisibilidad de la acción.\n\nFinalmente, se ordenó la publicación, registro y archivo del expediente, reafirmando la autoridad de la ley y el compromiso de la Sala con la administración de justicia en nombre de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "derechos constitucionales",
+    "inadmision",
+    "sentencia",
+    "privación de libertad",
+    "juicio",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0226_E25-1055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353531-0226-11326-2026-25-1055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.584848"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28254,
+  "numero": "1214",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Juan Carlos Salazar Acosta, quien alegó violaciones a sus derechos constitucionales por falta de notificación de una sentencia dictada por el Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui. La Sala determinó su competencia para conocer del caso y ordenó al juzgado remitente que enviara copia certificada de la sentencia en cuestión, así como información sobre su notificación y el cumplimiento de los plazos legales.",
+  "palabras_clave": [
+    "tacha de falsedad",
+    "amparo",
+    "sentencia",
+    "notificación",
+    "procedimiento",
+    "jurisdicción",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1214_E24-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340150-1214-41224-2024-24-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.041731"
+}

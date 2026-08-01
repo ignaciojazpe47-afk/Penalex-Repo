@@ -1,0 +1,24 @@
+{
+  "id": 31206,
+  "numero": "0910",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 12 de julio de 2023, declaró no ha lugar la solicitud de revisión presentada por Oscar Alberto Peña González y Beatriz Coromoto González contra la sentencia del 26 de marzo de 2015, que había declarado con lugar la demanda de cumplimiento de contrato interpuesta por Arcila Santos Diana Carolina. La Sala fundamentó su decisión en la falta de errores grotescos en la interpretación del derecho por parte del tribunal de instancia y en la existencia de recursos ordinarios que no fueron ejercidos por los solicitantes.",
+  "palabras_clave": [
+    "confesión ficta",
+    "cumplimiento de contrato",
+    "procedimiento civil",
+    "derecho civil",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0910_E16-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326818-0910-12723-2023-16-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.217296"
+}

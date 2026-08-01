@@ -1,0 +1,24 @@
+{
+  "id": 37339,
+  "numero": "0955",
+  "fecha": "2022-11-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE EN DERECHO",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible en derecho la acción de amparo constitucional interpuesta por la abogada Lady Virginia Sánchez Vera, en contra del Decreto Constituyente que ordenó la supresión y liquidación del Nivel Metropolitano de Caracas. La Sala argumenta que la decisión de la Asamblea Nacional Constituyente no puede ser objeto de control jurisdiccional por parte de los poderes constituidos, dado su carácter de poder originario y fundacional del pueblo venezolano.\n\nSe destaca que los derechos constitucionales denunciados como vulnerados fueron protegidos en el mismo Decreto Constituyente, que establece medidas para salvaguardar los derechos laborales de los trabajadores afectados. Por lo tanto, la Sala concluye que la acción de amparo no es procedente, ya que se dirige contra una decisión emanada de la Asamblea Nacional Constituyente.\n\nFinalmente, se ordena la publicación, registro y archivo del expediente, cumpliendo con lo establecido en la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "asamblea nacional constituyente",
+    "derechos laborales",
+    "soberanía popular",
+    "poder constituido"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-11_S0955_E17-1276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320741-0955-111122-2022-17-1276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.358662"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20003,
+  "numero": "0803",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la empresa Mantrucks C.A. contra una sentencia del Juzgado Superior Segundo del Trabajo que declaró sin lugar un recurso de hecho. La Sala determinó su competencia para conocer del caso y, tras verificar la inactividad de la parte actora por más de seis meses, declaró terminado el procedimiento por abandono de trámite. Además, se impuso una multa a la parte accionante por incumplimiento de las disposiciones legales.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "interesprocesal",
+    "derechosconstitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Mantrucks C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0803_E22-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344281-0803-28525-2025-22-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.847301"
+}

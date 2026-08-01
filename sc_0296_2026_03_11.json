@@ -1,0 +1,22 @@
+{
+  "id": 17429,
+  "numero": "0296",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Marcos Tulio Planas Morón, quien alegó violaciones a sus derechos al no haber sido parte en el juicio que resultó en un desalojo. La Sala determinó que el demandante no agotó los recursos ordinarios disponibles, lo que llevó a declarar inadmisible su acción de amparo. La decisión del Juzgado Segundo de Primera Instancia, que había declarado improcedente la acción de amparo, fue confirmada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0296_E25-1227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353601-0296-11326-2026-25-1227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.570335"
+}

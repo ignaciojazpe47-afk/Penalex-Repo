@@ -1,0 +1,24 @@
+{
+  "id": 23906,
+  "numero": "2120",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite una acción de amparo constitucional interpuesta por las abogadas Ángela Jaramillo y Lyz Pérez Jaramillo en representación de las ciudadanas Escarlet Coromoto González Rodríguez y Jorlet Coromoto Sicilia González, quienes fueron acusadas de extorsión. La Sala considera que la decisión de la Corte de Apelaciones que revocó la absolución de las acusadas y ordenó un nuevo juicio, vulneró sus derechos a la defensa y al debido proceso, así como el principio de presunción de inocencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "extorsión",
+    "derecho a la defensa",
+    "debido proceso",
+    "presunción de inocencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2120_E25-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351969-2120-121225-2025-25-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.732907"
+}

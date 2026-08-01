@@ -1,0 +1,25 @@
+{
+  "id": 28422,
+  "numero": "1364",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de diciembre de 2024, declaró sin lugar la solicitud de revisión constitucional presentada por Nelson Alexander Fonseca Sosa, quien impugnaba una sentencia del Juzgado Nacional Primero Contencioso Administrativo. El fallo original había declarado firme la decisión del Juzgado Superior Séptimo, que había resuelto parcialmente a favor del demandante en un recurso contencioso administrativo. La Sala consideró que no se habían violado derechos constitucionales ni se incurrió en excesos interpretativos.",
+  "palabras_clave": [
+    "actos administrativos",
+    "derecho a la defensa",
+    "función pública",
+    "remoción",
+    "contencioso administrativo",
+    "principio de conservación"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo contencioso administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1364_E22-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340378-1364-101224-2024-22-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.222069"
+}

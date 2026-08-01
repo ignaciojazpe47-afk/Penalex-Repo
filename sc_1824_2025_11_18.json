@@ -1,0 +1,25 @@
+{
+  "id": 23056,
+  "numero": "1824",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Yelitza de Valle Daniel en representación de varios ciudadanos contra el Juzgado Segundo de Primera Instancia Agrario del Estado Cojedes. La acción se fundamenta en presuntas violaciones al derecho a la tutela judicial efectiva y al acceso a la justicia. Tras el análisis, la Sala se declaró incompetente para conocer el caso y declinó la competencia al Juzgado Superior Agrario de la misma circunscripción.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tutela judicial",
+    "justicia",
+    "derechos constitucionales",
+    "juzgado agrario"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1824_E25-1057.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349948-1824-181125-2025-25-1057.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.059211"
+}

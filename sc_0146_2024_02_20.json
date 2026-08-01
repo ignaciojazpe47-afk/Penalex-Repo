@@ -1,0 +1,26 @@
+{
+  "id": 24274,
+  "numero": "0146",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Ivonne Josefina Martínez contra el fallo del Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Aragua. La decisión se basa en que la acción no cumple con los requisitos de procedencia establecidos en la ley, ya que el tribunal de origen actuó dentro de su competencia y no se configuró la violación de derechos constitucionales. La Sala considera que la caducidad de la acción de retracto legal arrendaticio fue correctamente aplicada por el tribunal inferior, lo que llevó a la improcedencia del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "decisión judicial",
+    "competencia",
+    "derechos constitucionales",
+    "tutela judicial",
+    "proceso",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0146_E23-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332655-0146-20224-2024-23-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.556686"
+}

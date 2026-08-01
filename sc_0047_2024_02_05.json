@@ -1,0 +1,22 @@
+{
+  "id": 24100,
+  "numero": "0047",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Carmen María Páez interpuso una acción de amparo constitucional contra la omisión de pronunciamiento del Tribunal Segundo de Primera Instancia de Violencia Contra La Mujer en Carabobo. La Sala Constitucional, tras analizar el caso, determinó que no era competente para conocer del amparo y declinó la competencia a la Corte de Apelaciones del mismo circuito judicial penal. La decisión se fundamenta en la falta de respuesta oportuna del tribunal inferior, lo que configuró una denegación de justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "denegación de justicia",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0047_E22-0976.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332401-0047-5224-2024-22-0976.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.824705"
+}

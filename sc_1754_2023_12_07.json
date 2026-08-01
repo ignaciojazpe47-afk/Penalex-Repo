@@ -1,0 +1,27 @@
+{
+  "id": 33420,
+  "numero": "1754",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados de Wilyer José Ascanio Chirguita, quien había solicitado un amparo constitucional. La Corte de Apelaciones del Circuito Judicial Penal del estado Falcón había declarado inadmisible la acción de amparo por inepta acumulación de pretensiones, argumentando que se habían presentado demandas contra dos órganos distintos. La Sala Constitucional confirmó esta decisión, declarando sin lugar el recurso de apelación y reafirmando la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "allanamiento",
+    "detención",
+    "debido proceso",
+    "nulidad",
+    "derechos humanos",
+    "CICPC",
+    "constitución",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1754_E21-0520.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331287-1754-71223-2023-21-0520.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.150618"
+}

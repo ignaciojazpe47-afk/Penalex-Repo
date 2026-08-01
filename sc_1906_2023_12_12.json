@@ -1,0 +1,26 @@
+{
+  "id": 33759,
+  "numero": "1906",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por los ciudadanos Rafael Aarón Díaz Ramírez y Uriel Yvan Marín Becerra, en contra del auto de cumplimiento voluntario dictado por el Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Táchira. La Sala declaró con lugar la acción de amparo, manteniendo la medida innominada que suspendía los efectos del auto de cumplimiento voluntario hasta que se resolviera el recurso de apelación en curso.\nLa decisión se fundamentó en la violación del derecho a la defensa y al debido proceso, al considerar que la parte demandada no fue debidamente notificada y se le privó de la oportunidad de accionar en tiempo hábil contra el informe de experticia que fundamentó el auto de cumplimiento. La Sala reafirmó la importancia de garantizar la tutela judicial efectiva y el respeto a los derechos constitucionales de las partes involucradas.\nFinalmente, se confirmó la decisión del Juzgado Superior Cuarto, manteniendo la suspensión de los efectos del auto de cumplimiento voluntario, asegurando así la protección de los derechos de los accionantes mientras se resuelve el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "lesión",
+    "proceso",
+    "jurisprudencia",
+    "protección",
+    "cautelar"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional sobrevenido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1906_E20-0449.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331876-1906-121223-2023-20-0449.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.451686"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23910,
+  "numero": "2124",
+  "fecha": "2025-06-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia nro. 701 dictada por la Sala de Casación Social. En esta sentencia, se declaró con lugar el recurso de casación y se anularon decisiones previas relacionadas con una demanda por nulidad de venta. Los solicitantes argumentaron que se incurrió en violaciones de derechos constitucionales y en la falta de consentimiento de otros herederos en la disposición de bienes de la masa hereditaria.\nLa Sala determinó su competencia para conocer la solicitud de revisión y ordenó al Juzgado Primero de Primera Instancia Agrario que remitiera las actuaciones relacionadas con la causa. Se destacó la importancia de salvaguardar la tutela judicial efectiva y el debido proceso en el análisis de la decisión impugnada, considerando las violaciones alegadas por los solicitantes.\nFinalmente, se ordenó la notificación correspondiente y se dejó constancia de que, una vez recibida la información requerida, la Sala proveerá respecto a la solicitud de revisión efectuada.",
+  "palabras_clave": [
+    "nulidad de venta",
+    "herencia",
+    "tutela judicial",
+    "debido proceso",
+    "Código Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia nro. 701",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2124_E25-0538.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351973-2124-121225-2025-25-0538.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.303362"
+}

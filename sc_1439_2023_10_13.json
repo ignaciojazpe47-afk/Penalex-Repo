@@ -1,0 +1,27 @@
+{
+  "id": 32285,
+  "numero": "1439",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por la abogada Cruz Sulmira Espinoza Rodríguez, quien actuaba como defensora de confianza del ciudadano Edwin Alexander Velásquez López. La apelación fue presentada contra la decisión de la Sala Única de la Corte de Apelaciones del Circuito Judicial Penal del estado Sucre, que había declarado inadmisible la acción de amparo constitucional por falta de requisitos formales. La Sala Constitucional determinó que la apelación era tempestiva y que la decisión de inadmisibilidad era incorrecta, pero finalmente declaró 'Sin Lugar' el recurso, confirmando el fallo apelado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "debido_proceso",
+    "lesiones_constitucionales",
+    "tutela_judicial",
+    "Corte_Apelaciones",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1439_E23-0013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329314-1439-131023-2023-23-0013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.395941"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 35232,
+  "numero": "0248",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por la empresa CORPORACIÓN CSI C.A. contra la sentencia dictada el 01 de abril de 2022, que declaró con lugar la demanda de desalojo interpuesta por FUTURO JEVAL S.A. La parte demandada alegó violaciones al debido proceso y a la defensa, argumentando que el tribunal no se pronunció sobre ciertos alegatos. Sin embargo, la Sala determinó que la sentencia impugnada no incurrió en vicios y que se había respetado el principio de cosa juzgada, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "desalojo",
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0248_E22-0315.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317654-0248-29622-2022-22-0315.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.614765"
+}

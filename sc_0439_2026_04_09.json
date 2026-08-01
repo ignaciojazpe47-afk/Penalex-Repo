@@ -1,0 +1,27 @@
+{
+  "id": 17067,
+  "numero": "0439",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisiible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Víctor Alejandro Rodríguez Fernández, actuando en nombre de la sociedad mercantil Inversiones 090403, C.A. La solicitud se refiere a la sentencia de la Sala Octava de la Corte de Apelaciones que declaró sin lugar el recurso de apelación contra la decisión del Juzgado Vigésimo Tercero que había declarado inadmisible la acción de amparo constitucional. La Sala también anula la sentencia de la Corte de Apelaciones por desconocer criterios vinculantes establecidos por el Tribunal Supremo y vulnerar derechos fundamentales como el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo",
+    "arrendamiento",
+    "due process",
+    "jurisdicción",
+    "fiscal",
+    "invasión",
+    "tutela judicial",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0439_E25-0558.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354891-0439-9426-2026-25-0558.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.024731"
+}

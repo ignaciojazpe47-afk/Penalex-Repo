@@ -1,0 +1,26 @@
+{
+  "id": 46722,
+  "numero": "0348",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 28 de julio de 2015 por el Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que había declarado con lugar un recurso de apelación y anulado una decisión anterior. La revisión se solicitó por el ciudadano Miguel Ángel Díaz Sánchez, quien argumentó que la sentencia recurrida incurrió en errores de valoración probatoria y vulneró sus derechos constitucionales. La Sala encontró que la juez de la causa no analizó adecuadamente las pruebas presentadas, lo que constituyó una violación al derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "incongruencia",
+    "amparo",
+    "contrato",
+    "arrendamiento",
+    "derechos",
+    "justicia",
+    "debido_proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-11_S0348_E15-1208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211104-0348-11518-2018-15-1208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.902333"
+}

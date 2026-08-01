@@ -1,0 +1,27 @@
+{
+  "id": 1604,
+  "numero": null,
+  "fecha": "2000-03-14",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Tributaria",
+  "decision": "Se admite la acción de nulidad y se declara inadmisible la solicitud de amparo constitucional.",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de nulidad interpuesta por la sociedad mercantil Ducharme de Venezuela, C.A. contra la codificación N° 71305 de la Ordenanza de Impuesto sobre Patente de Industria y Comercio del Municipio Simón Rodríguez, que elevó la alícuota del impuesto del 1.5% al 5%. La Sala consideró que la acción cumplía con los requisitos legales y que la competencia para conocer de la nulidad correspondía a la Sala Constitucional. Sin embargo, se declaró inadmisible la solicitud de amparo constitucional, ya que el demandante había llegado a un acuerdo extrajudicial con la Alcaldía, lo que cesó la supuesta violación de derechos constitucionales.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Tributaria",
+    "Amparo",
+    "Ordenanza Municipal",
+    "Ducharme de Venezuela",
+    "Alícuota",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Admisión de Nulidad por Inconstitucionalidad de Ordenanza Municipal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-03-14_PoliticoAdmin_0732_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.678577"
+}

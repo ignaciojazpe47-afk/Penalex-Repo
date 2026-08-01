@@ -1,0 +1,18 @@
+{
+  "id": 3506,
+  "numero": null,
+  "fecha": "2008-07-11",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO CONFORME A DERECHO",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia de la Corte de Apelaciones que desaplicó el artículo 455 del Código Orgánico Procesal Penal en un caso de revisión de pena. La Sala determinó que la desaplicación fue contraria a derecho, ya que la audiencia prevista en dicho artículo es esencial para garantizar el debido proceso. En consecuencia, se declaró nula la sentencia de la Corte de Apelaciones y se ordenó que otra sala decidiera el recurso de revisión, previa celebración de la audiencia correspondiente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre desaplicación del artículo 455 del Código Orgánico Procesal Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-07-11_CasacionPenal_06_DugartePadron.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.969031"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30256,
+  "numero": "0475",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por PROMOCIONES HOGAR, C.A. contra la decisión del Juzgado Superior Séptimo que declaró inadmisible la acción de amparo constitucional. La Sala determinó que la apelación fue presentada fuera del lapso establecido, lo que conllevó a la inadmisibilidad de la acción. Además, se revocó parcialmente la decisión apelada en cuanto a la declinación de competencia hacia los tribunales contenciosos administrativos.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "constitucional",
+    "inadmisibilidad",
+    "garantías",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0475_E17-0886.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325096-0475-15523-2023-17-0886.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.045312"
+}

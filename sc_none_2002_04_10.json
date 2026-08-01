@@ -1,0 +1,22 @@
+{
+  "id": 11883,
+  "numero": null,
+  "fecha": "2002-04-10",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Antonio J. García García",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 10 de abril de 2002, en la que se declara con lugar la apelación interpuesta por Manuel Enrique García Pérez, en representación de MATERIALES MCL C.A., revocando la decisión del Juzgado Superior que había declarado con lugar la acción de amparo constitucional presentada por Lila Rosa González de Pérez. La Sala consideró que el Juzgado de Alzada se extralimitó al declarar inadmisible la demanda por resolución de contrato de arrendamiento, sin atender a lo alegado y probado en el expediente, vulnerando así el derecho al debido proceso y a la defensa de la parte accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "resolución de contrato"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_04d4d7291f16f501f97ecb4009ab7402_AntonioJ.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.438894"
+}

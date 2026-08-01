@@ -1,0 +1,27 @@
+{
+  "id": 1881,
+  "numero": null,
+  "fecha": "2000-07-06",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Tributaria",
+  "decision": "Se declara la nulidad de la Ordenanza sobre Contribución por Consumo de Cerveza con Contenido Alcohólico.",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La sentencia se refiere a la acción de nulidad por inconstitucionalidad interpuesta por Cervecería Polar del Centro, C. A. contra la Ordenanza sobre Contribución por Consumo de Cerveza con Contenido Alcohólico, promulgada por el Concejo Municipal del Municipio San Carlos del Estado Cojedes. Los demandantes argumentaron que la ordenanza violaba la autonomía tributaria del municipio y que la creación de impuestos sobre el consumo de licores es competencia exclusiva del Poder Nacional. La Corte, tras analizar los alegatos y la normativa aplicable, concluyó que la ordenanza era inconstitucional y, por lo tanto, se declaró su nulidad.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Tributaria",
+    "Cerveza",
+    "Concejo Municipal",
+    "Poder Nacional",
+    "Autonomía Municipal",
+    "Impuestos"
+  ],
+  "titulo": "Nulidad de Ordenanza Municipal sobre Contribución por Consumo de Cerveza",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-07-06_Constitucional_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.729309"
+}

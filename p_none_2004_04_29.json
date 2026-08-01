@@ -1,0 +1,23 @@
+{
+  "id": 3098,
+  "numero": null,
+  "fecha": "2004-04-29",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Rafael Pérez Perdomo",
+  "resumen": "La Corte de Apelaciones del Estado Aragua declaró sin lugar el recurso de apelación de Franklin Julián Camacho Franco, condenado a cuatro años de presidio por homicidio intencional. La defensa argumentó que el acusado actuó en legítima defensa al disparar contra un intruso que lo atacó con un machete. El Tribunal Supremo de Justicia, al revisar el caso, encontró que el acusado había actuado en exceso de defensa, pero consideró que la calificación del hecho debía ser corregida a homicidio en legítima defensa.",
+  "palabras_clave": [
+    "homicidio",
+    "legítima defensa",
+    "exceso en la defensa",
+    "casación"
+  ],
+  "titulo": "Sentencia de Casación sobre homicidio en legítima defensa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-04-29_CasacionPenal_C030398_PerezPerdomo.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.732247"
+}

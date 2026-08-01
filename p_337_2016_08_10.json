@@ -1,0 +1,24 @@
+{
+  "id": 59201,
+  "numero": "337",
+  "fecha": "2016-08-10",
+  "anio": 2016,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Sin Lugar",
+  "ponente": "FRANCIA COELLO GONZÁLEZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia de Venezuela dictó la sentencia número 223, declarando improcedente la solicitud de extradición pasiva del ciudadano Juan Manuel Lo Casto Gianone, de nacionalidad venezolana. La decisión se fundamenta en el principio de no entrega de nacionales, establecido en la Constitución de la República Bolivariana de Venezuela, que prohíbe la extradición de venezolanos. La Sala también asumió el compromiso de investigar los hechos por los cuales se solicitó la extradición y de enjuiciar al ciudadano en Venezuela si corresponde.\n\nLa solicitud de extradición fue presentada por el Gobierno del Reino de España, en relación con delitos de blanqueo de capitales y tráfico de drogas. La Sala consideró que, aunque los delitos imputados no han prescrito según la legislación española, la nacionalidad venezolana del requerido impide su entrega a las autoridades españolas. Se ordenó remitir la documentación al Tribunal Vigésimo Octavo de Primera Instancia en Función de Control del Circuito Judicial Penal del Área Metropolitana de Caracas para su correspondiente procedimiento.\n\nFinalmente, se mantuvo la medida privativa de libertad del ciudadano Juan Manuel Lo Casto Gianone, quien se encuentra recluido en el Departamento de Aprehensión del Cuerpo de Investigaciones Científicas, Penales y Criminalísticas.",
+  "palabras_clave": [
+    "extradición",
+    "blanqueo de capitales",
+    "tráfico de drogas",
+    "nacionalidad venezolana",
+    "principio de no entrega"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición pasiva del ciudadano Juan Manuel Lo Casto Gianone",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2016-08-10_S337_E16-142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/agosto/190230-337-10816-2016-E16-142.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:23.603579"
+}

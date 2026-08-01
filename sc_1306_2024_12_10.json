@@ -1,0 +1,25 @@
+{
+  "id": 28364,
+  "numero": "1306",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de apelación interpuesto por la abogada Katiusca Betancourt Bustamante, revocando la decisión del Juzgado Superior que había declarado con lugar la acción de amparo constitucional. Se determina que la acción de amparo propuesta por Luis Alberto Rivero Montoya es inadmisible, ya que no se agotaron las vías ordinarias para restablecer la situación jurídica infringida. La Sala concluye que las medidas cautelares decretadas no garantizan el debido proceso y afectan los derechos constitucionales de la empresa involucrada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "inadmibilidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1306_E21-0574.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340320-1306-101224-2024-21-0574.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.213317"
+}

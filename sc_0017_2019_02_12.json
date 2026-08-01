@@ -1,0 +1,22 @@
+{
+  "id": 42120,
+  "numero": "0017",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 827, declara su competencia para conocer de la acción de amparo constitucional interpuesta por Jairo José Valero Carrillo contra la sentencia dictada el 3 de agosto de 2017. La acción se fundamenta en la supuesta violación de derechos constitucionales, como el acceso a la justicia y el debido proceso, en el contexto de un juicio de retracto legal arrendaticio. Sin embargo, se determina que la parte actora incurrió en abandono del trámite al no realizar actuaciones durante un periodo de ocho meses, lo que lleva a la terminación del procedimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonar trámite",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0017_E18-0203.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303681-0017-12219-2019-18-0203.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.115177"
+}

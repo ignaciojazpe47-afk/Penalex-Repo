@@ -1,0 +1,25 @@
+{
+  "id": 40002,
+  "numero": "0555",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por los abogados Diego Barboza Siri y José David Briceño Sanabria en representación de Luis Hernán Hortúa. La acción se dirige contra una sentencia de la Sala N° 4 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado la nulidad de un auto anterior y retrotraído el proceso. Sin embargo, se determina que la parte actora abandonó el trámite al no realizar actuaciones durante más de seis meses, lo que lleva a la Sala a declarar terminado el procedimiento por abandono del trámite y a imponer una multa a la parte actora por entorpecer las labores del tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "medidas cautelares",
+    "proceso penal",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0555_E18-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313920-0555-281021-2021-18-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.116048"
+}

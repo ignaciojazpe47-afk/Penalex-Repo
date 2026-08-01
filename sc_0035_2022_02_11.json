@@ -1,0 +1,22 @@
+{
+  "id": 34354,
+  "numero": "0035",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el Síndico Procurador del Municipio Atures del Estado Amazonas, Humberto José Rodríguez Uvieda, en relación a la sentencia N° 2017-408 de la Corte Segunda de lo Contencioso Administrativo. La sentencia original había declarado firme el fallo apelado y desistido el recurso de apelación interpuesto por el Síndico Procurador. La Sala constató irregularidades en el proceso, incluyendo la paralización del expediente y la falta de notificación adecuada a las partes involucradas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "paralización del expediente"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0035_E17-1124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315547-0035-11222-2022-17-1124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.723881"
+}

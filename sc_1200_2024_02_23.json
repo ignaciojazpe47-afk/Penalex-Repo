@@ -1,0 +1,22 @@
+{
+  "id": 28149,
+  "numero": "1200",
+  "fecha": "2024-02-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 0054 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación en un juicio por cobro de honorarios profesionales. La Sala Constitucional encontró que la sentencia recurrida incurrió en error al otorgar valor probatorio a un documento impugnado, lo que generó un desequilibrio procesal. En consecuencia, se declaró la nulidad de la sentencia de la Sala de Casación Civil y se resolvió que el demandado había cumplido con el pago de los honorarios profesionales, desestimando la demanda del abogado Alexis Rafael Moreno López.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "cobro de honorarios"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de cobro de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1200_E24-0616.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340039-1200-41224-2024-24-0616.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.658147"
+}

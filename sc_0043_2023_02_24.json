@@ -1,0 +1,27 @@
+{
+  "id": 28923,
+  "numero": "0043",
+  "fecha": "2023-02-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por Emilia Margarita Mijares Reyes contra la decisión N° 114 de la Sala de Casación Social. La solicitud fue considerada inadmisible por no cumplir con los requisitos de acompañar la copia certificada de la decisión objeto de revisión. La Sala reafirma su competencia para conocer de la revisión, pero establece que la falta de documentación necesaria impide el análisis del caso.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "sentencia",
+    "admisibilidad",
+    "carga procesal",
+    "notoriedad judicial",
+    "tribunal",
+    "decisión"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-24_S0043_E22-1010.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322841-0043-24223-2023-22-1010.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.290254"
+}

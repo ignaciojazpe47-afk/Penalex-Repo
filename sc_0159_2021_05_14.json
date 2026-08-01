@@ -1,0 +1,26 @@
+{
+  "id": 38669,
+  "numero": "0159",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Primero de Primera Instancia en lo Civil y Mercantil y el Tribunal Superior Estadal Contencioso Administrativo del Estado Aragua, relacionado con una acción de amparo constitucional interpuesta por Jairo Argenis Acevedo Chapeta. La acción se fundamentó en la vulneración de derechos fundamentales debido a un desalojo arbitrario ordenado por el Consejo Municipal de Derechos de Niños, Niñas y Adolescentes del Municipio Girardot.\n\nLa Sala declaró su competencia para resolver el conflicto, estableciendo que el tribunal competente para conocer de la acción de amparo es el Juzgado de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Aragua. Se argumentó que la naturaleza del acto administrativo impugnado y la protección de los derechos de los menores justifican la intervención de un tribunal especializado en la materia.\n\nFinalmente, se ordenó la remisión del expediente al tribunal competente, reafirmando la importancia de garantizar el interés superior de los niños y adolescentes en el marco de la justicia.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "vivienda",
+    "niños",
+    "administración",
+    "justicia"
+  ],
+  "titulo": "Conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0159_E18-0439.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312119-0159-14521-2021-18-0439.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.877976"
+}

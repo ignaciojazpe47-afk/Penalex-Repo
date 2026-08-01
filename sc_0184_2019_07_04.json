@@ -1,0 +1,27 @@
+{
+  "id": 43386,
+  "numero": "0184",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por María Zenaida Claro Robles contra la decisión del Juzgado Superior Cuarto en lo Civil, que declaró sin lugar el recurso de apelación y confirmó una demanda de desalojo. La Sala consideró que el Juzgado no motivó adecuadamente su decisión, lo que vulneró los derechos a la defensa y debido proceso de la demandante. Sin embargo, se declaró terminado el procedimiento por abandono del trámite, dado que la parte actora no realizó actuaciones en el expediente durante más de seis meses.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "prejudicialidad",
+    "arrendamiento",
+    "inmotivación",
+    "tácita reconducción",
+    "jurisdicción",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0184_E17-0949.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305959-0184-4719-2019-17-0949.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.826763"
+}

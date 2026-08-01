@@ -1,0 +1,24 @@
+{
+  "id": 30572,
+  "numero": "0618",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional planteada.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de mayo de 2023, declaró No Ha Lugar la solicitud de revisión interpuesta por la abogada María José Goncalves en representación de los ciudadanos Miren Eguskiñe Iturregui San Nicolás y otros, contra la sentencia del 17 de diciembre de 2015 del Juzgado Superior Segundo en lo Civil, Mercantil, del Tránsito y Bancario. La solicitud se fundamentó en alegaciones de violación de derechos a la igualdad y a la no discriminación, así como en la omisión de pronunciamiento sobre vicios en el testamento de Dionisio Iturregui Madariaga.\nLa Sala determinó que la solicitud no contribuía a la uniformidad de la interpretación de normas y principios constitucionales, y que no se evidenció vulneración de criterios establecidos en decisiones previas. En consecuencia, se reafirmó la improcedencia de la nulidad del testamento y se confirmó la decisión del juzgado inferior, manteniendo la condena en costas a la parte actora.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "testamento",
+    "sucesión forzosa",
+    "confesión ficta",
+    "igualdad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0618_E17-1251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325706-0618-30523-2023-17-1251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.932192"
+}

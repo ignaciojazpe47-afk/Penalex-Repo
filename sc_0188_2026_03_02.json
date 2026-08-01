@@ -1,0 +1,23 @@
+{
+  "id": 17942,
+  "numero": "0188",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Conforme a Derecho",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 00032 dictada por la Sala Político Administrativa, que desaplicó el literal 'j' del artículo 41 del Decreto de Regulación de Arrendamiento Inmobiliario por control difuso de constitucionalidad. La decisión se fundamenta en la promoción del arbitraje como medio alternativo de resolución de conflictos, garantizando el derecho a la tutela judicial efectiva. La Sala concluyó que el Poder Judicial no tiene jurisdicción para conocer de la demanda presentada, confirmando así la decisión del Juzgado Cuarto de Primera Instancia.",
+  "palabras_clave": [
+    "control difuso",
+    "constitucionalidad",
+    "arbitraje",
+    "arrendamiento"
+  ],
+  "titulo": "Decisión sobre control difuso de constitucionalidad del artículo 41 del Decreto de Regulación de Arrendamiento Inmobiliario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0188_E23-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353184-0188-2326-2026-23-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.384259"
+}

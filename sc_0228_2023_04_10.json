@@ -1,0 +1,26 @@
+{
+  "id": 29696,
+  "numero": "0228",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional se pronuncia sobre la competencia para conocer un recurso de apelación en amparo constitucional interpuesto por el abogado Freddy Eduardo Reyes Alvarado en representación de Carlos Eduardo Delgado. Se determina que la apelación fue interpuesta de manera tempestiva y se ordena solicitar información a la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua sobre el estado del recurso de apelación anterior.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "retardo judicial",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0228_E18-0253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324315-0228-10423-2023-18-0253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.052291"
+}

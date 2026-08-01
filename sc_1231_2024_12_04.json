@@ -1,0 +1,23 @@
+{
+  "id": 28271,
+  "numero": "1231",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar el recurso de apelación interpuesto por los abogados José Alonso Dugarte Ramos y Marynella Hernández, quienes actuaban como defensores privados de Andrés Avelino Nacero Alvarado. La apelación se refería a la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional por omisión de pronunciamiento del Juzgado Cuarto de Primera Instancia en Funciones de Control. La Sala concluyó que no existía omisión de pronunciamiento y que la acción de amparo no era procedente, confirmando así el fallo apelado.",
+  "palabras_clave": [
+    "Amparo",
+    "Constitucional",
+    "Violencia Contra la Mujer",
+    "Omisión de Pronunciamiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1231_E21-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340173-1231-41224-2024-21-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.040188"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33419,
+  "numero": "1753",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional presentada por Hernán Jesús Guédez, quien expone diversas inquietudes sobre la actuación del Ministerio Público y organismos policiales. En respuesta, la Sala ordena a la Secretaría notificar al Defensor Público para que aclare varios puntos relacionados con la defensa del solicitante y la situación jurídica que se alega. La Sala advierte que de no realizar las aclaraciones solicitadas, se declarará la inadmisibilidad de la solicitud de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Ministerio Público",
+    "defensa pública"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1753_E21-0146.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331286-1753-71223-2023-21-0146.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.326825"
+}

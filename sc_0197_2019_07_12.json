@@ -1,0 +1,23 @@
+{
+  "id": 43455,
+  "numero": "0197",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 692 dictada el 8 de noviembre de 2017 por la Sala de Casación Civil, que declaró sin lugar un recurso extraordinario de casación. La parte solicitante argumentó que la decisión violó derechos constitucionales al no considerar adecuadamente las pruebas y testimonios presentados. Sin embargo, la Sala Constitucional concluyó que la Sala de Casación Civil había analizado las denuncias y fundamentado su decisión, por lo que no se justificaba la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "derechos constitucionales",
+    "Sala de Casación Civil"
+  ],
+  "titulo": "Revisión de la sentencia N° 692 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0197_E18-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306082-0197-12719-2019-18-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.817656"
+}

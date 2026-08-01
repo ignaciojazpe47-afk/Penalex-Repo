@@ -1,0 +1,26 @@
+{
+  "id": 22610,
+  "numero": "1667",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional presentada por dos ciudadanas en defensa de los derechos de su hijo. El recurso de apelación fue interpuesto contra una sentencia que declaró improcedente la acción de amparo. La Sala, al analizar el caso, determinó su competencia para conocer la apelación y ordenó la remisión de actas del expediente relacionado con la solicitud de inserción de acta de nacimiento del menor.",
+  "palabras_clave": [
+    "derechos humanos",
+    "niños",
+    "adolescentes",
+    "amparo constitucional",
+    "nacionalidad",
+    "ciudadanía",
+    "identidad"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1667_E25-0914.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349270-1667-291025-2025-25-0914.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.527371"
+}

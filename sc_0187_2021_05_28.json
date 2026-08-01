@@ -1,0 +1,26 @@
+{
+  "id": 38753,
+  "numero": "0187",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por José Antonio Fernández Ochoa contra la sentencia del Juzgado Superior que declaró perecido su recurso de apelación. El tribunal argumenta que el accionante tenía a su disposición otros recursos judiciales para restablecer su situación jurídica, lo que hace que la acción de amparo no sea procedente. Además, se resalta que la falta de citación adecuada en el proceso original no justifica la admisión del amparo, ya que existen mecanismos ordinarios para impugnar tales irregularidades.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "tutela",
+    "proceso",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0187_E19-0397.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312209-0187-28521-2021-19-0397.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.186488"
+}

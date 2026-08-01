@@ -1,0 +1,22 @@
+{
+  "id": 16099,
+  "numero": "0066",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 19 de febrero de 2026, declaró sin lugar la solicitud de revisión constitucional presentada por Génesis Oriana García Blanco, quien impugnaba la sentencia número 135 de la Sala de Casación Civil. Esta última había declarado sin lugar el recurso de hecho interpuesto por García Blanco contra un auto que negaba su recurso de casación. La Sala Constitucional consideró que no se evidenció violación de derechos constitucionales en el proceso anterior y que la decisión de la Sala Civil se ajustó a derecho, negando así la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0066_E25-0737.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352751-0066-19226-2026-25-0737.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.393148"
+}

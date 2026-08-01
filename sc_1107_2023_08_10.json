@@ -1,0 +1,26 @@
+{
+  "id": 33985,
+  "numero": "1107",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE EN DERECHO",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia N° 1088, dictada el 5 de diciembre de 2022, que declaró improcedente la acción de amparo constitucional. El solicitante argumentó violaciones a sus derechos económicos y solicitó la anulación de la sentencia mencionada. Sin embargo, la Sala determinó que no existe medio de impugnación contra sus decisiones, lo que llevó a declarar la solicitud como improponible en derecho.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "revisión de sentencias",
+    "jurisdicción",
+    "constitucionalidad",
+    "derechos humanos",
+    "tribunales",
+    "inimpugnabilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1107_E23-0129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328248-1107-10823-2023-23-0129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.882397"
+}

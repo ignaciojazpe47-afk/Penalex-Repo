@@ -1,0 +1,23 @@
+{
+  "id": 18674,
+  "numero": "0239",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Kevin Gutiérrez en nombre de Martín Segundo Pérez Trejo, respecto a una sentencia del Tribunal Décimo de Primera Instancia que homologó un acuerdo de unión estable de hecho. La Sala determinó que la solicitud no tenía lugar, argumentando que la homologación no vulneraba el interés superior del niño ni era contraria a la ley, y que el tribunal de instancia actuó dentro de su competencia al homologar el acuerdo alcanzado entre las partes.\n\nLa Sala destacó que la revisión no es un recurso ordinario, sino una potestad extraordinaria que busca unificar criterios constitucionales. En este caso, se concluyó que la decisión del tribunal de instancia no había incurrido en errores que justificaran la revisión, y se reafirmó el principio de autonomía de la voluntad de las partes en el contexto de la conciliación.\n\nFinalmente, la Sala declaró competente para conocer de la revisión, pero resolvió que no había lugar a la solicitud presentada, manteniendo la validez de la sentencia objeto de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "homologación",
+    "unión estable de hecho",
+    "interés superior del niño"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de homologación de acuerdo alcanzado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0239_E22-0248.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342053-0239-27225-2025-22-0248.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.878835"
+}

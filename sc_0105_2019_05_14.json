@@ -1,0 +1,26 @@
+{
+  "id": 42756,
+  "numero": "0105",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo constitucional interpuesta por Moisés de Jesús González Mujica, quien alegó la violación de sus derechos al debido proceso y al salario por parte de la Junta Directiva del Concejo Legislativo Municipal del Municipio Zamora del Estado Aragua. La Sala consideró que no era competente para conocer del caso, ya que las supuestas violaciones no derivaron de un alto funcionario de la República, sino de una omisión de la Junta Directiva.",
+  "palabras_clave": [
+    "juez natural",
+    "debido proceso",
+    "constitución",
+    "garantías judiciales",
+    "competencia",
+    "jurisdicción",
+    "imparcialidad"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0105_E18-0646.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304848-0105-14519-2019-18-0646.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.585480"
+}

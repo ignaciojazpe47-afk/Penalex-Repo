@@ -1,0 +1,24 @@
+{
+  "id": 29121,
+  "numero": "0119",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Yoel Ernesto Castillo Núñez en representación de Jonangel De Jesús García Meza, contra la omisión de la Sala de Casación Penal de otorgar libertad plena o una medida cautelar. La Sala establece que no se admiten acciones de amparo contra decisiones de la Corte Suprema de Justicia, lo que fundamenta su decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo constitucional",
+    "inadmisibilidad",
+    "tribunal supremo",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0119_E22-0276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323287-0119-10323-2023-22-0276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.335799"
+}

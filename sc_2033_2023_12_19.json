@@ -1,0 +1,26 @@
+{
+  "id": 33886,
+  "numero": "2033",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó el acto de juzgamiento dictado por el Juzgado Superior Cuarto, que había declarado con lugar un recurso de apelación y mantenido vigentes medidas cautelares. La revisión se fundamentó en la alegación de que el tribunal de origen cometió un error en el cómputo de los lapsos procesales, lo que causó indefensión a la parte demandante. La Sala decidió revocar la sentencia apelada y ordenar la reposición de la causa al estado de promoción de pruebas.",
+  "palabras_clave": [
+    "cautelares",
+    "derecho a la defensa",
+    "proceso civil",
+    "reposición",
+    "medidas innominadas",
+    "constitución",
+    "lapsos procesales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de medidas cautelares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2033_E23-0538.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332003-2033-191223-2023-23-0538.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.689976"
+}

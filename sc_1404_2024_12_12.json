@@ -1,0 +1,22 @@
+{
+  "id": 28570,
+  "numero": "1404",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 12 de diciembre de 2024, declaró improcedente la acción de amparo constitucional interpuesta por Dimas Alfonso Suárez Silva, representado por Manuel Salvador Pérez Berdugo, contra la sentencia del 17 de noviembre de 2023. La acción se basaba en la alegación de violaciones a derechos constitucionales debido a la inadmisibilidad de una acción de amparo primigenia. La Sala consideró que no se presentaron nuevas violaciones de derechos fundamentales y que la acción de amparo era improponible, ya que se había agotado la vía del amparo en instancias anteriores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1404_E23-1241.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340593-1404-121224-2024-23-1241.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.818304"
+}

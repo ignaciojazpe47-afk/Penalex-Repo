@@ -1,0 +1,24 @@
+{
+  "id": 48830,
+  "numero": "0766",
+  "fecha": "2018-11-07",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una demanda de amparo constitucional interpuesta por el abogado David Liendo Perales en representación de Raoul Rayman Young, alegando la omisión de pronunciamiento del Juzgado Primero de Primera Instancia Estadal y Municipal en Función de Control del Primer Circuito Judicial Penal del Estado Bolívar. La demanda se fundamentó en la violación de derechos a la tutela judicial efectiva y debido proceso, en el contexto de la solicitud de revisión de medida privativa de libertad por el delicado estado de salud del demandado.\n\nLa Sala, tras analizar la competencia, determinó que no le correspondía conocer de la demanda, ya que la omisión denunciada provenía de un juzgado de primera instancia, siendo la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar el tribunal superior competente para pronunciarse sobre la solicitud de amparo. En consecuencia, la Sala se declaró incompetente y declinó la competencia a la Corte de Apelaciones, remitiendo el expediente correspondiente.\n\nFinalmente, la decisión fue firmada y sellada en el Salón de Sesiones de la Sala Constitucional, dejando claro que la protección de los derechos constitucionales debe ser garantizada por el tribunal adecuado según la jerarquía judicial establecida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derechos fundamentales",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre demanda de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-11-07_S0766_E18-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/302193-0766-71118-2018-18-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.930088"
+}

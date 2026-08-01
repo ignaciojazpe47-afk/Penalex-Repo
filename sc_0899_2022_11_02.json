@@ -1,0 +1,23 @@
+{
+  "id": 37149,
+  "numero": "0899",
+  "fecha": "2022-11-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Recurso de Hecho",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de hecho interpuesto por el abogado Miguel Ángel Puentes Urgilés, en representación de Marisol Puentes Urgilés, contra un auto del Juzgado Superior Primero que negó un recurso de apelación por considerarlo extemporáneo. La Sala determinó que el recurso de hecho era procedente y que la apelación debía ser admitida, dado que la parte demandante no fue debidamente notificada de la decisión que declaró procedente la acción de amparo constitucional. La Sala declaró con lugar el recurso de hecho y ordenó al Juzgado Superior oír el recurso de apelación correspondiente.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "notificación",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-02_S0899_E21-0334.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320501-0899-21122-2022-21-0334.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.414107"
+}

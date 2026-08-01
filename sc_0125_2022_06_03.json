@@ -1,0 +1,26 @@
+{
+  "id": 34994,
+  "numero": "0125",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Jesús Carrero en representación de José Miguel Villalobos, por violación de derechos y garantías constitucionales. La acción fue presentada vía correo electrónico y no fue ratificada en el plazo establecido por la ley, lo que llevó a la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "internet",
+    "justicia",
+    "ratificación"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0125_E21-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316889-0125-3622-2022-21-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.413826"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 24143,
+  "numero": "0090",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de febrero de 2024, declaró su competencia para conocer la solicitud de revisión interpuesta por el abogado Wiliem Asskoul Saab, en representación de Nilda Sarais Barrios Fuentes, contra la sentencia número 187 dictada por la Sala de Casación Penal el 26 de mayo de 2023. En esta sentencia, se desestimaron los recursos de casación interpuestos por la defensa, alegando violaciones a derechos fundamentales y al debido proceso. Sin embargo, la Sala Constitucional concluyó que la revisión solicitada no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, por lo que se declaró no ha lugar a la solicitud de revisión.",
+  "palabras_clave": [
+    "inmotivación",
+    "libertad personal",
+    "derechos fundamentales",
+    "Código Orgánico Procesal Penal",
+    "violación de derechos",
+    "prueba",
+    "sentencia",
+    "recursos"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0090_E23-1202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332461-0090-7224-2024-23-1202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.574131"
+}

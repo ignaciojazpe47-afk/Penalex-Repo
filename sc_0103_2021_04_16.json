@@ -1,0 +1,26 @@
+{
+  "id": 38478,
+  "numero": "0103",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 16 de abril de 2021, declaró improcedente la acción de amparo interpuesta por Milanyely Valentina Muñoz Peña contra la decisión del Juzgado Superior Segundo de Protección de Niños, Niñas y Adolescentes, que había revocado la perención de la instancia en un juicio de unión estable de hecho. La Sala argumentó que el retardo en el proceso fue imputable al tribunal de instancia y no a la parte actora, por lo que no se cumplían los requisitos para declarar la perención. Se ordenó la fijación de la audiencia de sustanciación sin necesidad de notificar a las partes, ya que se encontraban a derecho.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "derecho a la defensa",
+    "notificaciones",
+    "violaciones constitucionales",
+    "juzgado superior",
+    "circuito judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0103_E19-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311816-0103-16421-2021-19-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.891231"
+}

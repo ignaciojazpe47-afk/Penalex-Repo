@@ -1,0 +1,22 @@
+{
+  "id": 23071,
+  "numero": "1839",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo interpuesta por varios ciudadanos contra una decisión de la Corte de Apelaciones del estado Apure. La sentencia de la Corte había declarado Sin Lugar la pretensión de los demandantes, quienes argumentaban violaciones a sus derechos en el proceso penal que enfrentaban. La Sala Constitucional, tras evaluar los argumentos, decidió confirmar la decisión de la Corte de Apelaciones, manteniendo la medida de privación judicial preventiva de libertad de los acusados.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1839_E23-0634.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349963-1839-181125-2025-23-0634.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.058738"
+}

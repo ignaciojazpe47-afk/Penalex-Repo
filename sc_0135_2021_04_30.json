@@ -1,0 +1,26 @@
+{
+  "id": 38580,
+  "numero": "0135",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La ciudadana Mariely Betzaida Ruiz Nieves interpuso una acción de amparo constitucional en representación de su hijo, alegando violaciones a sus derechos por parte de varios funcionarios y ciudadanos. La Sala Constitucional del Tribunal Supremo de Justicia, tras examinar la acumulación de pretensiones, determinó que la acción era inadmisible por inepta acumulación, ya que las pretensiones eran incompatibles y debían ser conocidas por diferentes tribunales. En consecuencia, se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "violencia",
+    "derechos",
+    "niños",
+    "familia",
+    "justicia",
+    "protección",
+    "denuncia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0135_E17-0865.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311999-0135-30421-2021-17-0865.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.883045"
+}

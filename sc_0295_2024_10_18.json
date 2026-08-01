@@ -1,0 +1,24 @@
+{
+  "id": 26685,
+  "numero": "0295",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia n.° 0209, dictada por la Sala de Casación Civil. La decisión original había declarado sin lugar un recurso de casación relacionado con una demanda por cumplimiento de contrato de opción de compra venta. La Sala consideró que la sentencia impugnada desatendió criterios jurisprudenciales y vulneró derechos fundamentales de la demandante, como el derecho a la defensa y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "incongruencia omisiva",
+    "equilibrio procesal",
+    "recurso de casación"
+  ],
+  "titulo": "Solicitud de revisión constitucional de la sentencia n.° 0209",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0295_E23-0710.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337886-0295-181024-2024-23-0710.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.059878"
+}

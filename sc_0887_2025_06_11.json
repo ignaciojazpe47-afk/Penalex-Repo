@@ -1,0 +1,25 @@
+{
+  "id": 20302,
+  "numero": "0887",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por los abogados de la sociedad mercantil El Centro Mercantil, C.A. contra la sentencia N° 0482 de la Sala de Casación Penal. La inadmisibilidad se fundamenta en la falta de legitimación de los solicitantes, quienes no presentaron el poder correspondiente que los facultara para actuar en nombre de la empresa. La decisión se basa en el artículo 133.3 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece la necesidad de demostrar la representación legal adecuada para interponer tales solicitudes.",
+  "palabras_clave": [
+    "prescripción",
+    "acción penal",
+    "amparo constitucional",
+    "delito",
+    "jurisdicción",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0887_E08-0100.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344682-0887-11625-2025-08-0100.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.298950"
+}

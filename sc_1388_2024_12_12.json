@@ -1,0 +1,25 @@
+{
+  "id": 28483,
+  "numero": "1388",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Gritzko Gabriel Terán Mogollón contra el Defensor Público General, argumentando que la parte accionante no ha recibido respuesta a sus solicitudes, lo que no configura una violación a su derecho de petición. La Sala establece que la acción de amparo fue presentada sin la debida asistencia jurídica y que se han cumplido los requisitos establecidos en la ley para su admisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "defensor público",
+    "derecho de petición",
+    "justicia",
+    "tutela",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1388_E23-1271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340505-1388-121224-2024-23-1271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.817451"
+}

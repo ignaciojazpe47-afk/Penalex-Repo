@@ -1,0 +1,26 @@
+{
+  "id": 36795,
+  "numero": "0806",
+  "fecha": "2022-10-20",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Carlos Luis Gutiérrez Escalona, quien alegó violaciones a sus derechos constitucionales por parte de fiscales del Ministerio Público en varias causas penales. La Sala determina que el órgano competente para conocer de la acción es un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Zulia. Se ordena la remisión del expediente a dicho juzgado para su trámite correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "Ministerio Público",
+    "jurisdicción",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-20_S0806_E21-0018.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320060-0806-201022-2022-21-0018.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.101350"
+}

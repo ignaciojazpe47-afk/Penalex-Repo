@@ -1,0 +1,25 @@
+{
+  "id": 36130,
+  "numero": "0499",
+  "fecha": "2022-08-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con una solicitud de amparo constitucional por omisión de pronunciamiento contra el Tribunal Penal de Primera Instancia del Estado Mérida. La acción fue interpuesta por el abogado Allen Peña Rangel en representación de varios ciudadanos, quienes alegaron violaciones a sus derechos procesales debido a la falta de respuesta del tribunal a un recurso de apelación presentado en julio de 2017.\nLa Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida había declarado inadmisible la acción de amparo, argumentando que el recurso de apelación no había sido resuelto. La Sala Constitucional, al analizar el caso, decidió oficiar a la Corte de Apelaciones para que informara sobre el estado del recurso de apelación y ordenó que se remita copia certificada de cualquier pronunciamiento realizado al respecto.\nFinalmente, la Sala Constitucional ordenó que se cumpla con lo establecido en la Ley Orgánica sobre Derechos y Garantías Constitucionales, garantizando así la tutela judicial efectiva de los derechos de los ciudadanos involucrados.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "apelación",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-08_S0499_E17-0991.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319155-0499-8822-2022-17-0991.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.572414"
+}

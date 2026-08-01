@@ -1,0 +1,23 @@
+{
+  "id": 19585,
+  "numero": "0603",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, revisó la sentencia del Juzgado Superior Primero que declaró inadmisible la acción de amparo constitucional presentada por Emilio Juan Bali Asapchi. La Sala encontró que la decisión del juzgado inferior incurrió en errores al considerar caducada la acción y al no reconocer la continuidad de la violación de derechos constitucionales. Se declaró con lugar la revisión, anulando la sentencia impugnada y ordenando que el Juzgado Cuarto se pronuncie sobre la admisibilidad del caso y fije la audiencia constitucional correspondiente. La decisión reafirma la protección de los derechos de propiedad y el acceso a la justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derecho de propiedad",
+    "inadmisibilidad"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Amparo Inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0603_E23-1288.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343462-0603-30425-2025-23-1288.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.033497"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 29942,
+  "numero": "0351",
+  "fecha": "2022-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 00317 dictada por la Sala Político Administrativa, que declaró improcedente la ejecución forzosa de la sentencia n.° 00965 y cerró el expediente. El abogado José Reinaldo Torres, en representación de Guillermo Antonio Torres Ochoa, solicitó la revisión argumentando violaciones a derechos fundamentales y a la tutela judicial efectiva. La Sala Constitucional, tras analizar los argumentos, concluyó que la administración había cumplido con lo ordenado en la sentencia n.° 00965, y que las objeciones del actor no eran viables, por lo que declaró que no había lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "debido_proceso",
+    "ejecucion_forzosa",
+    "sentencia",
+    "reincorporacion",
+    "justicia",
+    "administracion_publica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia n.° 00317",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0351_E22-0956.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324621-0351-28423-2023-22-0956.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.765797"
+}

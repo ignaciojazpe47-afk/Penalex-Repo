@@ -1,0 +1,22 @@
+{
+  "id": 10811,
+  "numero": null,
+  "fecha": "2012-05-30",
+  "anio": 2012,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Sala Nº 2 de la Corte de Apelaciones declaró sin lugar el recurso de apelación interpuesto por la defensa del ciudadano Carlos Arturo Jaramillo Rojas, quien había sido condenado a ocho años de prisión por extorsión. La defensa alegó vicios en la sentencia de la Corte de Apelaciones, incluyendo la ilicitud de medios de prueba y falta de motivación en la decisión. El Tribunal Supremo de Justicia, al revisar el caso, concluyó que los vicios alegados eran atribuibles al juzgador de la primera instancia y desestimó el recurso de casación.",
+  "palabras_clave": [
+    "extorsión",
+    "recurso de casación",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Decisión sobre recurso de casación en caso de extorsión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_ae0c6695718d2cea10159824a3313b9a_CoronadoFlores.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:46.549410"
+}

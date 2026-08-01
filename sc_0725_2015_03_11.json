@@ -1,0 +1,24 @@
+{
+  "id": 30777,
+  "numero": "0725",
+  "fecha": "2015-03-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 247, donde se declaró conforme a derecho la desaplicación del Decreto número 058 del 3 de noviembre de 2000, por el Alcalde del Municipio Girardot, por contradecir la reserva legal en materia de seguridad social. Se ordenó iniciar el procedimiento de nulidad por inconstitucionalidad del mencionado decreto, así como del Decreto número 006 del 27 de febrero de 2003, ambos relacionados con jubilaciones especiales para funcionarios municipales.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "jubilaciones",
+    "decreto municipal",
+    "control difuso"
+  ],
+  "titulo": "Sentencia sobre nulidad de decretos municipales en materia de jubilaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0725_E15-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325996-0725-9623-2023-15-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.353189"
+}

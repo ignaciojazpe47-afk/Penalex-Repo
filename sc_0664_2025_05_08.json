@@ -1,0 +1,25 @@
+{
+  "id": 19692,
+  "numero": "0664",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Carlos Julio Morón Calderón contra la decisión del Juzgado Superior Quinto en lo Civil, Mercantil y del Tránsito, que había dictado el 1 de marzo de 2023. La inadmisibilidad se fundamenta en que la acción fue presentada fuera del lapso de caducidad establecido, ya que el demandante no actuó en un plazo de seis meses tras la supuesta violación de sus derechos. Además, se considera que las violaciones denunciadas no afectan el orden público ni las buenas costumbres, sino que son de carácter particular.",
+  "palabras_clave": [
+    "desalojo",
+    "vivienda",
+    "derechos humanos",
+    "ejecución forzosa",
+    "protección familiar",
+    "justicia social"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0664_E24-0776.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343611-0664-8525-2025-24-0776.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.731079"
+}

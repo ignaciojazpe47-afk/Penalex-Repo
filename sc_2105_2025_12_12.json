@@ -1,0 +1,26 @@
+{
+  "id": 23891,
+  "numero": "2105",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara no ha lugar la solicitud de revisión constitucional presentada por la Universidad del Zulia respecto a las sentencias números 134, 57 y 178 dictadas por la Sala Electoral. Se argumenta que las decisiones no contradicen ninguna norma constitucional y que la revisión solicitada busca una nueva instancia, lo cual no es procedente. Además, se deja sin efecto la medida cautelar dictada anteriormente.",
+  "palabras_clave": [
+    "derechos políticos",
+    "educación",
+    "universidades",
+    "democracia",
+    "participación",
+    "autonomía",
+    "Ley Orgánica de Educación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencias electorales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2105_E12-0748-14-0059-14-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351952-2105-121225-2025-12-0748-14-0059-14-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.077859"
+}

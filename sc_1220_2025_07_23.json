@@ -1,0 +1,27 @@
+{
+  "id": 21206,
+  "numero": "1220",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ, presidida por Lourdes Benicia Suárez Anderson, decidió no ha lugar la solicitud de revisión planteada por el Laboratorio de Análisis Clínicos Vista Alegre C.A. contra la sentencia n.° 314 de la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por el laboratorio. La Sala consideró que la revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, y que no se había menoscabado el derecho a la defensa ni el debido proceso, ya que ambas partes fueron notificadas del extravío y reconstrucción del expediente, manteniendo el equilibrio procesal.",
+  "palabras_clave": [
+    "reconstrucción",
+    "proceso civil",
+    "notificación",
+    "Ministerio Público",
+    "derecho a la defensa",
+    "inmovilización",
+    "sentencia",
+    "formalidades"
+  ],
+  "titulo": "Revisión de sentencia de casación civil sobre nulidad y resolución de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1220_E13-0695.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346517-1220-28725-2025-13-0695.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.383194"
+}

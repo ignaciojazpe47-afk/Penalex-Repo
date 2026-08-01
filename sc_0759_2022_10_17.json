@@ -1,0 +1,23 @@
+{
+  "id": 36748,
+  "numero": "0759",
+  "fecha": "2022-10-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Orlando José Ramírez, quien impugnó una sentencia del Juzgado Tercero Superior del Trabajo que declaró sin lugar su apelación sobre la jubilación. El demandante alegó discriminación en la aplicación de convenios colectivos que afectaban el monto de su pensión. La Sala, tras analizar los argumentos, determinó que no había lugar para la revisión, ya que la sentencia impugnada no incurrió en violaciones a derechos constitucionales ni en discriminación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación",
+    "discriminación",
+    "convención colectiva"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-17_S0759_E17-0480.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320013-0759-171022-2022-17-0480.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.113390"
+}

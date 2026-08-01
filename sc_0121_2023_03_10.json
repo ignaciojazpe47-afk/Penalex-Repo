@@ -1,0 +1,23 @@
+{
+  "id": 29123,
+  "numero": "0121",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por los abogados de Nereo Vargas, quien se encontraba bajo medida de privación judicial preventiva de libertad. La decisión impugnada, dictada por la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, había declarado sin lugar la apelación contra un fallo anterior que también había mantenido la medida privativa de libertad. La Sala Constitucional argumentó que las dilaciones en el proceso no eran imputables al órgano judicial, sino a circunstancias procesales complejas y a la incomparecencia de las partes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Nereo Vargas",
+    "medida privativa de libertad",
+    "dilaciones procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en el caso Nereo Vargas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0121_E22-0185.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323289-0121-10323-2023-22-0185.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.337557"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 30239,
+  "numero": "0458",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por Gabriel María De Jesús Kassen Machado, en representación de David Leonardo Guillín Márquez, contra una decisión del Tribunal de Control que negó la revisión de una medida de privación preventiva de libertad. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que existían vías ordinarias para satisfacer la pretensión del demandante, lo que fue confirmado por la Sala Constitucional.\n\nLa Sala destacó que el uso de la acción de amparo no es idóneo cuando existen otros medios judiciales disponibles y que la defensa no había agotado las vías ordinarias pertinentes. Se reiteró que la acción de amparo debe ser un recurso excepcional y no un sustituto de los procedimientos ordinarios establecidos en el Código Orgánico Procesal Penal.\n\nFinalmente, la Sala Constitucional declaró sin lugar la apelación y confirmó la inadmisibilidad de la acción de amparo, reafirmando la competencia de los tribunales ordinarios para revisar las medidas cautelares en el proceso penal.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "medidas_cautelares",
+    "derechos_humanos",
+    "arbitrariedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0458_E20-0260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325079-0458-15523-2023-20-0260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.887036"
+}

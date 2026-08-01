@@ -1,0 +1,25 @@
+{
+  "id": 23080,
+  "numero": "1848",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Johana Medina Hernández en representación de David Akinin Kramper contra la sentencia dictada el 26 de agosto de 2025 por la Sala 10 de la Corte de Apelaciones. La decisión de la Corte de Apelaciones había declarado sin lugar la apelación interpuesta por el accionante, confirmando la inadmisibilidad de la acción de amparo constitucional. La Sala Constitucional concluye que las denuncias presentadas ya habían sido analizadas y decididas, por lo que no constituyen fundamentos novedosos que requieran revisión.",
+  "palabras_clave": [
+    "derecho de amparo",
+    "debido proceso",
+    "derecho a la defensa",
+    "imputación",
+    "investigación penal",
+    "error judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1848_E25-0935.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349972-1848-181125-2025-25-0935.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.058175"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28070,
+  "numero": "1159",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La sentencia se refiere a la solicitud de amparo constitucional interpuesta por Pedro Emilio Hernández Mendoza, presidente de la sociedad mercantil Auto Partes La Fortaleza, C.A., contra una decisión del Tribunal Superior Segundo en lo Civil que declaró sin lugar un recurso de apelación y con lugar una demanda de desalojo. La Sala Constitucional del TSJ, tras analizar el caso, declaró su competencia y terminó el procedimiento por abandono del trámite, imponiendo una multa a la parte actora por falta de impulso procesal durante más de seis meses.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "insolvencia",
+    "contrato",
+    "cánones",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1159_E19-0234.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339756-1159-281124-2024-19-0234.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.473466"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28393,
+  "numero": "1335",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara que no tiene competencia para conocer la acción de amparo presentada por la sociedad Servicios Barboza Arcaya, C.A. contra el Alcalde del Municipio San Francisco y el Servicio Desconcentrado Bolivariano de Administración Tributaria. Se determina que los tribunales competentes son los Juzgados Superiores Estadales Contencioso Administrativos del Estado Zulia. La Sala ordena la remisión del expediente a dichos juzgados y considera inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "impuestos",
+    "legalidad tributaria",
+    "constitución",
+    "exoneración",
+    "municipio",
+    "administración tributaria"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1335_E23-1010.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340349-1335-101224-2024-23-1010.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.225055"
+}

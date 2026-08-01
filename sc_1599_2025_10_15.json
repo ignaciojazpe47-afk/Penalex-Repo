@@ -1,0 +1,22 @@
+{
+  "id": 22259,
+  "numero": "1599",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Rómulo José Soto Piñero, quien alegó violaciones a sus derechos de acceso a la justicia y debido proceso. La Sala determinó su competencia para conocer la apelación y consideró que la decisión de la Corte de Apelaciones que declaró inadmisible el recurso de apelación interpuesto por Soto Piñero era contraria a sus derechos fundamentales como víctima en el proceso penal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo interpuesta por Rómulo José Soto Piñero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1599_E25-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348716-1599-151025-2025-25-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.756257"
+}

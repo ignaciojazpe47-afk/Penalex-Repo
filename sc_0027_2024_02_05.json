@@ -1,0 +1,25 @@
+{
+  "id": 24080,
+  "numero": "0027",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Luis Flores Medina, alegando violaciones a derechos humanos. La Sala determinó que el escrito presentado no cumplía con los requisitos exigidos por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a la decisión de declarar la acción inadmisible. Se ordenó al accionante corregir su solicitud dentro de un plazo de dos días hábiles.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "garantías constitucionales",
+    "silencio administrativo",
+    "acción judicial",
+    "procedimiento administrativo"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0027_E20-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332379-0027-5224-2024-20-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.824365"
+}

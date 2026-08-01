@@ -1,0 +1,25 @@
+{
+  "id": 37567,
+  "numero": "1043",
+  "fecha": "2022-11-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jairo Enrique Cortés Parra, debido a que no se ratificó la solicitud en el plazo establecido. La acción fue presentada vía correo electrónico, pero el demandante no cumplió con los requisitos de ratificación personal o por apoderado dentro de los tres días siguientes a su recepción. La decisión se basa en la interpretación de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "constitucional",
+    "agua",
+    "petición"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional interpuesta por Jairo Enrique Cortés Parra",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-24_S1043_E22-0461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320998-1043-241122-2022-22-0461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.460991"
+}

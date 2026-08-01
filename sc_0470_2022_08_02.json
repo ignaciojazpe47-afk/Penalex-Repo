@@ -1,0 +1,26 @@
+{
+  "id": 35826,
+  "numero": "0470",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Calixto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a un amparo constitucional interpuesto por el Ministerio Público. La decisión se basa en el incumplimiento de órdenes previas por parte del Instituto de Previsión Social de la Fuerza Armada Nacional y la Fiscalía General de la República, quienes debían remitir normativa aplicable al régimen de pensiones y jubilaciones. Se ordena a estas instituciones cumplir con las solicitudes en un plazo determinado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "pensiones",
+    "jubilaciones",
+    "Instituto de Previsión Social",
+    "Fuerza Armada Nacional",
+    "Fiscalía General",
+    "Procuraduría General"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por el Ministerio Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0470_E14-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318411-0470-2822-2022-14-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.763842"
+}

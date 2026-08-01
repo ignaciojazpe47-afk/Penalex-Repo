@@ -1,0 +1,22 @@
+{
+  "id": 10483,
+  "numero": null,
+  "fecha": "2007-02-09",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "ADMITE la primera denuncia y DESESTIMA POR MANIFIESTAMENTE INFUNDADA la segunda denuncia",
+  "ponente": "MIRIAM MORANDY MIJARES",
+  "resumen": "La sentencia se refiere a un caso de homicidio calificado donde el acusado, GUSTAVO ENRIQUE SERRANO BONILLA, fue condenado a veinticinco años de prisión. La Corte de Apelaciones había declarado sin lugar un recurso de apelación interpuesto por la defensa, lo que llevó a la presentación de un recurso de casación ante el Tribunal Supremo de Justicia. La defensa alegó violaciones al debido proceso y la indebida admisión de pruebas en el juicio.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_9207.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:00.507382"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16711,
+  "numero": "0475",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria y ampliación presentada por la abogada Aurys de los Ángeles Hernández Padilla, en representación de Almacenadora JM 2023, C.A. La Sala argumenta que la solicitud excede la finalidad de la figura de aclaratoria, ya que busca un nuevo pronunciamiento sobre el fondo de una controversia ya decidida. Además, se corrige un error material en la identificación de la sociedad mercantil involucrada en la sentencia original.",
+  "palabras_clave": [
+    "colusión",
+    "fraude procesal",
+    "derecho a la defensa",
+    "debido proceso",
+    "jurisdicción",
+    "libertad económica",
+    "tutela judicial",
+    "conflicto penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria y ampliación de la sentencia n.° 0231",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0475_E25-1311.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354926-0475-14426-2026-25-1311.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.570813"
+}

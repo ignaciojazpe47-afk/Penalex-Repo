@@ -1,0 +1,24 @@
+{
+  "id": 22776,
+  "numero": "1726",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de noviembre de 2025, declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Yorgenis Alberto Paredes Fajardo en representación de Jesús Alberto Carrasco. La acción se basaba en la sentencia de la Corte de Apelaciones del 22 de agosto de 2025, que había declarado sin lugar la acción de amparo por falta de pruebas sobre la realización de una audiencia de apertura y admisión de hechos. La Sala consideró que no se cumplían los requisitos para la admisibilidad de la acción de amparo, ya que existían medios ordinarios para impugnar la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "retardo procesal",
+    "violación de derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1726_E25-0946.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349465-1726-31125-2025-25-0946.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.526878"
+}

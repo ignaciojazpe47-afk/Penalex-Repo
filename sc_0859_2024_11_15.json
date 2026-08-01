@@ -1,0 +1,25 @@
+{
+  "id": 27613,
+  "numero": "0859",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, declara no ha lugar la solicitud de revisión constitucional interpuesta por Inversiones Barquipan, C.A. contra la sentencia número 000479 de la Sala de Casación Civil, que había declarado sin lugar el recurso de casación. La Sala concluye que no se vulneraron derechos constitucionales al debido proceso ni a la defensa, y que la decisión impugnada se apegó a la normativa y criterios jurisprudenciales pertinentes sobre la indexación judicial.",
+  "palabras_clave": [
+    "incongruencia",
+    "tutela judicial",
+    "derecho a la defensa",
+    "indexación",
+    "cosa juzgada",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0859_E23-1186.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339050-0859-151124-2024-23-1186.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.200341"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 35209,
+  "numero": "0225",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por el abogado Gustavo Adolfo Blanco Mangieri en representación de Astrid Antonieta Carratalá Puigbo, quien se encuentra evadida de la justicia penal. La Sala fundamentó su decisión en la falta de estadía a derecho de la solicitante, lo que impide que pueda beneficiarse de los derechos y garantías del sistema procesal penal. Además, se ordenó la devolución de los expedientes originales a los tribunales correspondientes para su tramitación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmision",
+    "evadido de la justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0225_E20-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317626-0225-29622-2022-20-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.250234"
+}

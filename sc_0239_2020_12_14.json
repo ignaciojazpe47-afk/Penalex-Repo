@@ -1,0 +1,27 @@
+{
+  "id": 41914,
+  "numero": "0239",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 8 de agosto de 2018 por el Tribunal Superior Segundo del Trabajo de la Circunscripción Judicial del Estado Aragua, que declaró inadmisible la acción de amparo constitucional interpuesta por varios trabajadores contra la entidad de trabajo Sanitarios Maracay, C.A. La Sala concluyó que la decisión del tribunal inferior se ajustaba a derecho, ya que existían vías ordinarias para resolver la situación de los trabajadores, lo que hacía improcedente la acción de amparo. Finalmente, la Sala declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "laboral",
+    "revisión",
+    "sentencia",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0239_E18-0766.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310996-0239-141220-2020-18-0766.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.395745"
+}

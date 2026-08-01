@@ -1,0 +1,26 @@
+{
+  "id": 27831,
+  "numero": "1009",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la defensa de los ciudadanos Douglas Gregorio Paredes González y Aibert Jesús Ojeda Ojeda, quienes se encontraban privados de libertad. La Corte de Apelaciones había declarado inadmisible la acción de amparo constitucional interpuesta por la defensa, argumentando que existían vías ordinarias para resolver la situación jurídica de los demandantes.\nLa Sala Constitucional confirmó la decisión de la Corte de Apelaciones, señalando que la acción de amparo no es un medio sustitutivo de los recursos procesales ordinarios y que la inadmisibilidad se fundamenta en el hecho de que los accionantes no habían agotado los recursos judiciales disponibles. Se destacó que la acción de amparo es un mecanismo excepcional y no debe ser utilizada cuando existen vías ordinarias para resolver el conflicto.\nFinalmente, se declaró sin lugar el recurso de apelación y se confirmó la inadmisibilidad de la acción de amparo, ordenando el cumplimiento de lo decidido.",
+  "palabras_clave": [
+    "libertad",
+    "debido_proceso",
+    "detención",
+    "nulidad",
+    "juez_natural",
+    "derechos_humanos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1009_E24-0312.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339322-1009-211124-2024-24-0312.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.133143"
+}

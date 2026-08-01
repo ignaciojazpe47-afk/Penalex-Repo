@@ -1,0 +1,27 @@
+{
+  "id": 2370,
+  "numero": null,
+  "fecha": "2001-03-22",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JESÚS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Belinda Amelia Magallanes Reyes contra la Comisión de Funcionamiento y Reestructuración del Sistema Judicial. La demandante alegó violaciones a sus derechos al debido proceso, defensa, honor y reputación, tras ser suspendida de su cargo como juez sin un proceso disciplinario previo. La Sala determinó que la medida de suspensión era cautelar y que se había seguido el procedimiento legal correspondiente, por lo que no se configuraron las vías de hecho denunciadas. Además, se concluyó que la situación de la demandante era irreparable, ya que la suspensión había sido regularizada y no se podía restablecer su situación jurídica.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "suspensión",
+    "juez",
+    "debido proceso",
+    "irregularidades",
+    "reputación",
+    "honor"
+  ],
+  "titulo": "Improcedencia de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-22_Constitucional_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.711259"
+}

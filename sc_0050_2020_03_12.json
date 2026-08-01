@@ -1,0 +1,23 @@
+{
+  "id": 41184,
+  "numero": "0050",
+  "fecha": "2020-03-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por los abogados de Cora Gedler Torres, confirmando la decisión del Tribunal Superior Tercero que había declarado inadmisible la acción de amparo constitucional. La Sala argumentó que la acción de amparo no era procedente ya que la violación de derechos había cesado con la inhibición de la jueza del Juzgado Quinto. Se destacó que la acción de amparo es un mecanismo extraordinario que solo se admite cuando no existen vías ordinarias para la protección de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-03-12_S0050_E18-0274.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/309742-0050-12320-2020-18-0274.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.134082"
+}

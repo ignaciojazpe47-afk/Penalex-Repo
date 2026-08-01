@@ -1,0 +1,24 @@
+{
+  "id": 27542,
+  "numero": "0806",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Luis Miguel Maicabares en representación de Oswaldo Alonso Carrero Rujano. La acción se fundamenta en presuntas violaciones de derechos constitucionales en el proceso penal que culminó con una condena de 23 años y 6 meses de prisión por tráfico ilícito de sustancias estupefacientes. La Sala argumenta que el demandante ya había agotado los recursos ordinarios disponibles, específicamente el recurso de casación, lo que hace que la acción de amparo no sea procedente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "tráfico ilícito",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0806_E24-0826.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338979-0806-141124-2024-24-0826.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.027845"
+}

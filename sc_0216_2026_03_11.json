@@ -1,0 +1,25 @@
+{
+  "id": 17388,
+  "numero": "0216",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO ACEPTA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una medida de protección en el contexto de colocación familiar. Se determinó que la Jueza del Tribunal de Primera Instancia no debió remitir la sentencia para revisión, ya que la potestad revisora es exclusiva de la Sala Constitucional y debe ser solicitada directamente. La Sala decidió no aceptar la remisión de la sentencia y ordenó que se remita copia de la decisión al tribunal de origen.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "protección de niños",
+    "revisión de sentencias",
+    "derecho familiar",
+    "jurisdicción",
+    "constitucionalidad"
+  ],
+  "titulo": "Decisión sobre la remisión de sentencia en materia de colocación familiar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0216_E26-0070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353496-0216-11326-2026-26-0070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.570192"
+}

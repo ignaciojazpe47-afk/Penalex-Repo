@@ -1,0 +1,22 @@
+{
+  "id": 31160,
+  "numero": "0867",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La sentencia N° 1119, dictada por la Sala Constitucional del TSJ, aborda la acción de amparo constitucional interpuesta por Luis Arnaldo Alcántara en contra de una decisión de la Corte de Apelaciones del Estado Anzoátegui. Esta decisión había declarado la nulidad de la negativa a la solicitud de decaimiento de la medida privativa de libertad del imputado Carlos Miguel Vargas Reyna, quien enfrenta cargos por desaparición forzada de personas. La Sala Constitucional, tras analizar los alegatos, decidió ordenar a la Corte de Apelaciones que informe sobre el estado actual del proceso penal y si se ha dictado sentencia en el nuevo juicio ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desaparición forzada",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de desaparición forzada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0867_E19-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326687-0867-10723-2023-19-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.534670"
+}

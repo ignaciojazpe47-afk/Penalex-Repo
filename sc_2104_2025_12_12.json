@@ -1,0 +1,26 @@
+{
+  "id": 23884,
+  "numero": "2104",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por la abogada Oneida Chiquinquirá López Castellano en nombre de YOIFRE FRANCISCO RUIZ ESTANGA, quien alegaba la omisión del Ministerio del Poder Popular para el Servicio Penitenciario en relación a su excarcelación. La Sala examinó la competencia para conocer de la demanda y determinó que era competente para ello, pero al analizar la admisibilidad de la acción, concluyó que era inadmisible debido a que el demandante no había agotado las vías judiciales ordinarias disponibles para restablecer su situación jurídica.\n\nLa decisión se fundamentó en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo si el agraviado ha optado por recurrir a las vías judiciales ordinarias. La Sala destacó que el demandante podía haber utilizado la acción de abstención o carencia ante la jurisdicción contencioso administrativa, lo que justificaba la inadmisibilidad de su solicitud de amparo.\n\nFinalmente, la Sala declaró inadmisible la acción de amparo constitucional, ordenando su archivo y registro correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "libertad",
+    "justicia",
+    "tutela",
+    "jurisdicción",
+    "recursos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2104_E25-1310.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351933-2104-121225-2025-25-1310.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.739203"
+}

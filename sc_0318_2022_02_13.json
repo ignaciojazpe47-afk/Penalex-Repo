@@ -1,0 +1,23 @@
+{
+  "id": 35432,
+  "numero": "0318",
+  "fecha": "2022-02-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón, que había declarado sin lugar la acción de habeas corpus solicitada por los defensores de los ciudadanos Ricki Moisés Ávila Sánchez y Aurimir Denisses Rojas Colina. La Sala determinó que la situación alegada como lesiva había cesado, ya que se celebró la audiencia de presentación y se acordó la medida de privación judicial preventiva de libertad, lo que llevó a declarar inadmisible la acción de amparo. La decisión fue revocada y se ordenó el archivo de la causa penal.",
+  "palabras_clave": [
+    "habeas corpus",
+    "inadmision",
+    "privación de libertad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0318_E19-0195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317898-0318-13722-2022-19-0195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.712182"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38240,
+  "numero": "0018",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto Nº 4.440, que prorroga el Estado de Excepción y de Emergencia Económica en Venezuela. La decisión se fundamenta en la necesidad de adoptar medidas urgentes para garantizar los derechos de la población ante la situación económica y social crítica del país. Se destaca que el decreto cumple con los principios constitucionales y tratados internacionales sobre derechos humanos.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "derechos humanos",
+    "poder ejecutivo",
+    "guerra económica"
+  ],
+  "titulo": "Sentencia que declara la constitucionalidad del Decreto Nº 4.440",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0018_E21-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311430-0018-9321-2021-21-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.760719"
+}

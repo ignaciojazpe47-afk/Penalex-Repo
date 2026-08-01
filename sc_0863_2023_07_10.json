@@ -1,0 +1,26 @@
+{
+  "id": 31156,
+  "numero": "0863",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Segundo de Primera Instancia en lo Civil y el Tribunal Primero de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del estado Monagas, relacionado con una acción de amparo constitucional interpuesta por Jesús Rafael Rondón Guzmán y Meglys Margot Guzmán. La Sala determinó que el tribunal competente para conocer la acción de amparo era el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito, dado que no había menores involucrados como sujetos activos o pasivos en el proceso.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "niños",
+    "derechos",
+    "desalojo",
+    "jurisdicción",
+    "protección"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0863_E22-0485.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326683-0863-10723-2023-22-0485.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.532801"
+}

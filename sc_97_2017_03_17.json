@@ -1,0 +1,24 @@
+{
+  "id": 50634,
+  "numero": "97",
+  "fecha": "2017-03-17",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión constitucional presentada por un grupo de ciudadanos en contra de una sentencia de la Sala de Casación Social que había declarado sin lugar un recurso de casación. Los recurrentes alegaron que la Sala de Casación Social incurrió en vicios de inmotivación y violación de derechos constitucionales al no valorar adecuadamente las pruebas presentadas, especialmente ocho contratos de trabajo. Sin embargo, la Sala Constitucional concluyó que no hubo tales vicios y que la decisión de la Sala de Casación Social fue ajustada a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inmotivación",
+    "derechos constitucionales",
+    "contratos de trabajo",
+    "Sala de Casación Social"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-17_S97_E16-0748.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/196966-97-17317-2017-16-0748.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.267233"
+}

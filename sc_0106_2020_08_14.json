@@ -1,0 +1,25 @@
+{
+  "id": 41394,
+  "numero": "0106",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no admitir la revisión constitucional solicitada por la ciudadana Belén Maigualida Moreno, representada por el abogado Manuel Parra Escalona, respecto a la sentencia N° RC-000024 dictada el 29 de enero de 2018 por la Sala de Casación Civil. La revisión fue solicitada por supuestas violaciones a derechos constitucionales y al debido proceso, argumentando que el tribunal de alzada quebrantó formas procesales en detrimento del derecho a la defensa.\n\nLa Sala constató que la decisión impugnada no infringió normas constitucionales ni contradijo criterios interpretativos establecidos por la Sala Constitucional. Se determinó que la revisión no contribuye a la uniformidad de la interpretación de normas y principios constitucionales, y que la solicitud de revisión no puede ser utilizada como una nueva instancia para alegar intereses ya decididos.\n\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión, reafirmando que la revisión constitucional es una potestad extraordinaria y no un medio ordinario para cuestionar decisiones firmes.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "transacción judicial",
+    "derecho a la defensa",
+    "debido proceso",
+    "revisión constitucional",
+    "hechos sobrevenidos"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° RC-000024",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0106_E18-0264.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310045-0106-14820-2020-18-0264.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.104303"
+}

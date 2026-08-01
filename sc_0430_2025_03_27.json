@@ -1,0 +1,26 @@
+{
+  "id": 19130,
+  "numero": "0430",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la acción de amparo constitucional interpuesta por Fabricio Fracchia Borrajo, quien actuó en nombre propio y en representación de su cónyuge, contra la Fiscalía Cuadragésima Quinta Nacional Plena. La decisión se fundamenta en que las actuaciones de los fiscales no están sujetas al fuero especial establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que no son considerados altos funcionarios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ministerio público",
+    "fiscal",
+    "competencia",
+    "derechos",
+    "garantías",
+    "funcionarios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0430_E24-1213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342714-0430-27325-2025-24-1213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.612973"
+}

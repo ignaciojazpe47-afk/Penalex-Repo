@@ -1,0 +1,25 @@
+{
+  "id": 45464,
+  "numero": "0128",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo interpuesta por el abogado Maiker José Oropeza Guzmán en representación de Wilson Geovany Ibarra Ortíz, quien alegaba irregularidades en su proceso penal. La Sala, tras analizar la competencia, determinó que no era competente para conocer de la acción, ya que esta debía ser conocida por la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda. En consecuencia, declinó la competencia y ordenó remitir el expediente a la mencionada Alzada.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "juzgados",
+    "penal",
+    "constitucional",
+    "corte de apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0128_E18-0032.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207687-0128-9218-2018-18-0032.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.441553"
+}

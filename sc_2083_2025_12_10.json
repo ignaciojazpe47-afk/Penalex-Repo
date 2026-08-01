@@ -1,0 +1,23 @@
+{
+  "id": 23862,
+  "numero": "2083",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, confirma la sentencia de la Corte de Apelaciones que declaró sin lugar la acción de amparo constitucional interpuesta por el abogado Asdrúbal Placeres en representación de varios ciudadanos indígenas. La Corte de Apelaciones había argumentado que los derechos de los ciudadanos fueron respetados y que no se evidenció una violación a sus garantías constitucionales. La decisión se basa en la falta de pruebas que sustentaran las alegaciones de amenaza a los derechos de los demandantes.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Indígenas",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2083_E23-0430.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351900-2083-121225-2025-23-0430.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.786291"
+}

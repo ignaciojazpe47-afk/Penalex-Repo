@@ -1,0 +1,25 @@
+{
+  "id": 37120,
+  "numero": "0870",
+  "fecha": "2022-10-31",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar el recurso de apelación interpuesto por el abogado Diego Barboza Sirí en representación de Luis Hernán Hortúa, contra la decisión de la Sala N° 9 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La acción fue fundamentada en la omisión de pronunciamiento del Tribunal Cuarto de Primera Instancia en Función de Control, que había mantenido una medida cautelar de bloqueo e inmovilización de cuentas sin emitir pronunciamiento sobre su levantamiento, lo que se consideró una violación al derecho a la defensa y al debido proceso. La Sala Constitucional concluyó que la inadmisibilidad de la acción de amparo era ajustada a derecho, dado que el Tribunal de Control había emitido un pronunciamiento que cesó la lesión constitucional alegada.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "acción de amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "garantías constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-31_S0870_E17-0922.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320472-0870-311022-2022-17-0922.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.422653"
+}

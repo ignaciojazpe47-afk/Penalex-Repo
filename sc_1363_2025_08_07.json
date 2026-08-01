@@ -1,0 +1,25 @@
+{
+  "id": 21615,
+  "numero": "1363",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento presentada por el abogado Germán Alfredo Castellano García en representación de los ciudadanos José Orlando Bayona Durán y Giovanny Ballona Díaz. La solicitud se refiere a una causa penal en el Tribunal Segundo de Primera Instancia Estadal del estado Zulia. La Sala concluye que no existen motivos suficientes para justificar el avocamiento y decide declinar el conocimiento del asunto a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "derecho a la defensa",
+    "tutela judicial",
+    "violaciones",
+    "constitucionalidad"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1363_E20-0489.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347199-1363-7825-2025-20-0489.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.041492"
+}

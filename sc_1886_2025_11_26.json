@@ -1,0 +1,24 @@
+{
+  "id": 23232,
+  "numero": "1886",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Joan Manuel Ávila Borges contra la sentencia del Juzgado Superior Segundo del Trabajo que declaró inadmisible su acción de amparo. La Sala determinó que no existió renuncia al reenganche y que la amenaza a los derechos laborales del accionante persistía, por lo que revocó la decisión del tribunal inferior y ordenó que se pronuncie sobre la admisión de la acción de amparo. Se destacó la importancia de garantizar el acceso a la justicia y la protección de los derechos laborales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "reenganche",
+    "inadmibilidad",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Joan Manuel Ávila Borges",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1886_E25-0482.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350482-1886-261125-2025-25-0482.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.046439"
+}

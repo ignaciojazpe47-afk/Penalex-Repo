@@ -1,0 +1,25 @@
+{
+  "id": 17455,
+  "numero": "0560",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre una acción de habeas data interpuesta por la abogada Gladys Yadira Ávila Bastidas en representación del ciudadano Jairo Jesús Beltrán Galvis. La acción fue presentada contra el Tribunal Tercero de Primera instancia en Funciones de Control del Circuito Judicial Penal del estado Mérida, solicitando la eliminación de información que afecta la reputación y privacidad del demandante.\nLa Sala, tras analizar la competencia, declaró su incompetencia para conocer del caso, indicando que el tribunal competente sería el Juzgado de Municipio de la Circunscripción Judicial del estado Bolivariano de Mérida. Se fundamentó en la normativa vigente que regula el habeas data y la falta de creación de los tribunales correspondientes para conocer de la acción.\nFinalmente, la Sala resolvió remitir el expediente al tribunal competente y ordenó la publicación y registro de la decisión.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "tribunales",
+    "justicia",
+    "derechos",
+    "administrativo"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0560_E26-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355553-0560-13526-2026-26-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.890007"
+}

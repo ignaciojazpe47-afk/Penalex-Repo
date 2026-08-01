@@ -1,0 +1,24 @@
+{
+  "id": 16001,
+  "numero": "0587",
+  "fecha": "2026-03-20",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por los abogados de los ciudadanos Bertha Teresa Chiquinquirá Jiménez Rivero, Pedro Concepción Jiménez Mota, Magdi Lorena Rivero Ortiz y la sociedad mercantil PEDMABE C.A. contra la sentencia N° 151/2026 de la Sala de Casación Civil, que declaró sin lugar los recursos extraordinarios de casación. La Sala también acordó una medida cautelar de suspensión de efectos de la sentencia impugnada, argumentando la existencia de violaciones constitucionales que justifican la revisión. Se ordenó la remisión del expediente original relacionado con la acción de resolución de contrato de alianzas, daños y perjuicios, levantamiento del velo corporativo y simulación de contrato de cesión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "confesión ficta",
+    "daños y perjuicios",
+    "simulación de contrato",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0587_E26-0483.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355580-0587-13526-2026-26-0483.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.568002"
+}

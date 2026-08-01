@@ -1,0 +1,26 @@
+{
+  "id": 37340,
+  "numero": "0956",
+  "fecha": "2022-11-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Fernando Aparicio Gallo contra la sentencia dictada el 30 de junio de 2015, que declaró con lugar la apelación de Gonzalo Segundo Badell Urdaneta en un caso de desalojo. La Sala determinó que la sentencia cuestionada no violó derechos constitucionales y que el demandante había probado su necesidad de ocupar el inmueble, por lo que se declaró que no ha lugar la solicitud de revisión. Se ordenó el desglose de los anexos correspondientes al expediente de desalojo.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "necesidad justificada",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "carga probatoria",
+    "orden público"
+  ],
+  "titulo": "Revisión constitucional de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-11_S0956_E15-1392.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320742-0956-111122-2022-15-1392.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.357349"
+}

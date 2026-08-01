@@ -1,0 +1,23 @@
+{
+  "id": 42858,
+  "numero": "0113",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Sala de Casación Civil que había declarado sin lugar un recurso extraordinario de casación. La solicitante, Corporación Iskratal, C.A., argumentó que la decisión de la Sala de Casación Civil incurrió en violaciones constitucionales, especialmente en relación al derecho a la defensa y a la tutela judicial efectiva. La Sala Constitucional encontró que la Sala de Casación Civil no se pronunció adecuadamente sobre los alegatos de la parte demandada, lo que constituyó una denegación técnica de justicia. En consecuencia, se declaró con lugar la solicitud de revisión y se anuló la decisión impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "tutela judicial efectiva",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0113_E18-0374.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305031-0113-21519-2019-18-0374.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.859806"
+}

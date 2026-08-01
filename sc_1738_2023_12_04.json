@@ -1,0 +1,23 @@
+{
+  "id": 33235,
+  "numero": "1738",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de diciembre de 2023, declara procedente la acción de amparo constitucional interpuesta por Pedro Eduardo Canelón Luis, en representación de su padre, Edgar Eduardo Canelón Anzola, contra la decisión de la Sala Accidental No. 219 de la Corte de Apelaciones del Estado Aragua, que había confirmado una medida cautelar sustitutiva de la privación de libertad. La Sala considera que la decisión impugnada vulneró los derechos al debido proceso y a la tutela judicial efectiva del accionante, al no analizar adecuadamente las circunstancias que justificaban la medida privativa de libertad inicial y al no motivar su decisión de manera suficiente.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Medida Cautelar",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre medida cautelar sustitutiva de libertad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1738_E23-0057.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330984-1738-41223-2023-23-0057.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.156152"
+}

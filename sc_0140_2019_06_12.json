@@ -1,0 +1,25 @@
+{
+  "id": 43095,
+  "numero": "0140",
+  "fecha": "2019-06-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "El ciudadano Alejandro Díaz interpuso una acción de amparo constitucional contra el Presidente de la República, Nicolás Maduro Moros. La Sala Constitucional determinó su competencia para conocer el caso, pero observó que el escrito presentado no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se ordenó notificar al accionante para que corrigiera y aclarara su solicitud en un plazo de tres días.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "notificación",
+    "inadmisibilidad",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-12_S0140_E19-0014.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305480-0140-12619-2019-19-0014.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.847925"
+}

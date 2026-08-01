@@ -1,0 +1,26 @@
+{
+  "id": 20143,
+  "numero": "0852",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la acción de amparo constitucional interpuesta por Efraín Jesús Moreno Negrín, actuando como defensor técnico de varios ciudadanos, declaró improcedente la acción. La controversia se centró en la nulidad de una sentencia dictada por la Sala Accidental número 4 de la Corte de Apelaciones, que había declarado con lugar un recurso de apelación del Ministerio Público contra una sentencia que absolvió a los acusados de tráfico ilícito de sustancias estupefacientes. La Sala Constitucional determinó que no se configuró la violación constitucional alegada, sino que se evidenció la inconformidad con el fallo.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "sentencia",
+    "motivación",
+    "derechos",
+    "proceso penal",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0852_E24-0975.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344422-0852-3625-2025-24-0975.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.305549"
+}

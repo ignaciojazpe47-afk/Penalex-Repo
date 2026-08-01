@@ -1,0 +1,24 @@
+{
+  "id": 55027,
+  "numero": "1049",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 18 de abril de 2017 por el Juzgado Primero de Primera Instancia Agraria del Estado Guárico, que declaró con lugar una demanda por simulación de compra-venta de un inmueble. Los demandantes argumentaron que la sentencia violó normas sobre competencia y debido proceso, al considerar que el tribunal agrario no tenía jurisdicción sobre el caso. La Sala, tras analizar los argumentos, concluyó que efectivamente el tribunal agrario carecía de competencia para conocer del asunto, ya que se trataba de un contrato de compra-venta que debía ser juzgado por la jurisdicción civil ordinaria.",
+  "palabras_clave": [
+    "simulación",
+    "compra-venta",
+    "inmueble",
+    "jurisdicción agraria",
+    "derecho a la propiedad"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Simulación de Compra-Venta de Inmueble",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1049_E17-0987.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205939-1049-301117-2017-17-0987.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.485359"
+}

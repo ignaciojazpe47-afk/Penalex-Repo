@@ -1,0 +1,24 @@
+{
+  "id": 39113,
+  "numero": "0315",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La sentencia se refiere a la revisión constitucional solicitada por la empresa SEGUROS CARONÍ, S.A. respecto a dos sentencias de la Sala Político Administrativa del TSJ. Se menciona que la solicitud fue presentada por el abogado León Benshimol en representación de la empresa, y se detalla el proceso de revisión y la decisión de la Sala Constitucional de ordenar la remisión de documentos necesarios para continuar con el procedimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencias",
+    "Sala Político Administrativa",
+    "notificaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencias de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0315_E20-0463.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312769-0315-22721-2021-20-0463.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.768328"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33015,
+  "numero": "1584",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a un recurso de amparo constitucional presentado por PAÚL GRAHAM STANLEY contra el Tribunal Séptimo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Aragua, por desacato a un mandamiento de amparo. La Sala Constitucional ordena al tribunal de origen continuar con el procedimiento de extradición activa solicitado por el Ministerio Público, tras la omisión en el cumplimiento de una decisión anterior.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "extradición activa"
+  ],
+  "titulo": "Sentencia sobre desacato a un mandamiento de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1584_E23-0752.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330639-1584-281123-2023-23-0752.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.011673"
+}

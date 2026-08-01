@@ -1,0 +1,25 @@
+{
+  "id": 40804,
+  "numero": "0749",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional interpuesta por Argenis de Jesús Matheus Pérez, relacionada con una decisión de la Corte Primera de lo Contencioso Administrativo sobre su pensión de jubilación. La Sala determinó su competencia para conocer el caso y ordenó al Juzgado Superior Séptimo de lo Contencioso Administrativo remitir el expediente completo para su revisión. Además, se ordenó a la Gobernación del estado La Guaira y a la Fundación Casa del Abuelo informar sobre el estado del pago de la pensión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "pensiones",
+    "tutela judicial",
+    "administración pública",
+    "derechos sociales",
+    "justicia administrativa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de pensión de jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0749_E19-0679.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315201-0749-91221-2021-19-0679.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.727419"
+}

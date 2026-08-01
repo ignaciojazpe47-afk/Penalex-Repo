@@ -1,0 +1,25 @@
+{
+  "id": 42036,
+  "numero": "0003",
+  "fecha": "2017-01-11",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró la inconstitucionalidad por omisión del Poder Legislativo Nacional al no dictar medidas para garantizar el cumplimiento de la Constitución. Se anulan actos parlamentarios de la Asamblea Nacional y se ordena a los diputados asumir funciones directivas para cumplir con las decisiones del Tribunal. Además, se establece que cualquier actuación en contra de esta decisión será nula y carente de validez.",
+  "palabras_clave": [
+    "desobediencia",
+    "inconstitucionalidad",
+    "separacion de poderes",
+    "asamblea nacional",
+    "presidencialismo",
+    "jurisdiccion constitucional"
+  ],
+  "titulo": "Declaración de inconstitucionalidad por omisión del Poder Legislativo Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-01-21_S0003_E17-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/303389-0003-21119-2019-17-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.260481"
+}

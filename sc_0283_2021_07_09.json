@@ -1,0 +1,23 @@
+{
+  "id": 39002,
+  "numero": "0283",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Moisés Santiago Guzmán Mendoza, quien impugnó la sentencia de la Corte Primera de lo Contencioso Administrativo que declaró sin lugar su recurso contencioso administrativo de nulidad contra su destitución. La Corte verificó que el recurrente no cumplía con los requisitos de edad para acceder a la jubilación, ya que tenía 49 años y 27 años de servicio al momento de su destitución, lo que contraviene la normativa que exige 60 años de edad para hombres.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación",
+    "destitución",
+    "derechos laborales"
+  ],
+  "titulo": "Revisión Constitucional sobre nulidad de destitución y derecho a jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0283_E18-0573.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312584-0283-9721-2021-18-0573.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.160177"
+}

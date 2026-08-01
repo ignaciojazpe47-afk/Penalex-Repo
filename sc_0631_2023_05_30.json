@@ -1,0 +1,25 @@
+{
+  "id": 30585,
+  "numero": "0631",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta contra la decisión de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que había declarado inadmisible la acción de amparo constitucional. La acción fue presentada por los defensores de los ciudadanos Hugo Enrique Pérez Herrera, Jorge Luís Pacheco y Ricardo Alfredo Álvarez Quinayas, quienes denunciaron la omisión del Juzgado Sexto de Primera Instancia en pronunciarse sobre una solicitud de prueba. La Sala concluyó que la acción de amparo no era procedente, ya que la supuesta violación de derechos había cesado con la fijación de la audiencia de apertura a juicio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "tutela judicial",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0631_E22-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325719-0631-30523-2023-22-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.930971"
+}

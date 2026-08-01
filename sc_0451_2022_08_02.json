@@ -1,0 +1,22 @@
+{
+  "id": 35807,
+  "numero": "0451",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por Edgardo José Gutiérrez Guillén, en virtud de que la sentencia objeto de revisión tiene carácter de cosa juzgada. La solicitud se fundamenta en la inconformidad con una decisión anterior que declaró sin lugar un recurso de apelación. La Sala enfatiza que la revisión no es un medio para reexaminar fallos adversos, sino un mecanismo excepcional para unificar criterios interpretativos de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0451_E17-0608.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318392-0451-2822-2022-17-0608.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.583502"
+}

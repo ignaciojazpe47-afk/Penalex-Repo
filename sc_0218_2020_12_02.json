@@ -1,0 +1,26 @@
+{
+  "id": 41793,
+  "numero": "0218",
+  "fecha": "2020-12-02",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia N° 46 dictada por la Sala de Casación Civil, declarando la inadmisibilidad de la misma. El solicitante argumentó que la decisión recurrida colidía con jurisprudencia anterior y solicitó su invalidación. Sin embargo, la Sala determinó que el solicitante no presentó los documentos necesarios para la admisión de su solicitud, lo que llevó a la declaración de inadmisibilidad.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "representación",
+    "documentación",
+    "jurisprudencia",
+    "procedimiento",
+    "legitimación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-02_S0218_E19-0138.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310849-0218-21220-2020-19-0138.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.400922"
+}

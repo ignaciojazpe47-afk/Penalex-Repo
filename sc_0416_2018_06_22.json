@@ -1,0 +1,24 @@
+{
+  "id": 47322,
+  "numero": "0416",
+  "fecha": "2018-06-22",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por la Sucesión de Alida Monsanto de Pizzolante contra la decisión del Juzgado Superior Quinto que había declarado con lugar la apelación de la parte demandada, revocando la sentencia de desalojo. Se argumentó que el juez inferior incurrió en vicios al admitir prueba testimonial para justificar el pago tardío de cánones de arrendamiento, contraviniendo el artículo 1.387 del Código Civil que prohíbe tal prueba para obligaciones superiores a dos mil bolívares. La Sala declaró con lugar el amparo, anulando la sentencia impugnada y ordenando un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "arrendamiento",
+    "pago tardío",
+    "prueba testimonial"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-22_S0416_E17-0814.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212292-0416-22618-2018-17-0814.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.872819"
+}

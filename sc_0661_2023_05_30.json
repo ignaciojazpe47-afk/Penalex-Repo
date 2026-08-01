@@ -1,0 +1,25 @@
+{
+  "id": 30615,
+  "numero": "0661",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de amparo constitucional interpuesto por Jane Mercedes Rivas Belisario, quien impugnó una decisión de la Corte de Apelaciones que declaró sin lugar su acción de amparo contra un fallo del Tribunal Primero de Primera Instancia en Funciones de Juicio. La Corte de Apelaciones había ordenado la remisión de actuaciones al Ministerio Público para investigar la posible participación de la accionante en un delito de apropiación indebida calificada.\n\nLa Sala Constitucional determinó que la decisión de la Corte de Apelaciones fue ajustada a derecho, ya que no se vulneraron los derechos constitucionales de la accionante, dado que no existía un proceso penal en su contra. Se concluyó que la remisión de actuaciones al Ministerio Público no constituía una condena anticipada ni violaba el derecho a la defensa, ya que la Jueza actuó conforme a sus competencias al poner en conocimiento de la Fiscalía hechos que podrían constituir un delito.\n\nFinalmente, la Sala declaró sin lugar el recurso de apelación y confirmó la decisión de la Corte de Apelaciones, reafirmando la legalidad de las actuaciones judiciales previas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "denuncia",
+    "funcionarios públicos",
+    "derecho a la defensa",
+    "debido proceso",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional interpuesto por Jane Mercedes Rivas Belisario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0661_E17-0726.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325749-0661-30523-2023-17-0726.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.945101"
+}

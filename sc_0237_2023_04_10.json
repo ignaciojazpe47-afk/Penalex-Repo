@@ -1,0 +1,27 @@
+{
+  "id": 29705,
+  "numero": "0237",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar terminado el procedimiento de amparo constitucional interpuesto por Neris del Carmen Lugo de Briceño, debido a la falta de impulso procesal durante más de seis meses. La acción se refería a una sentencia del Tribunal Superior de Protección de Niños, Niñas y Adolescentes de Barinas, que había declarado parcialmente con lugar un recurso de apelación relacionado con la partición de bienes de la herencia del causante Amadeo Marcelino Briceño Castellano. La Sala consideró que no existía un interés imperioso en la obtención de la tutela constitucional solicitada, lo que llevó a la conclusión de abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "abandonode trámite",
+    "herencia",
+    "interés procesal",
+    "protección de niños",
+    "sentencia",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0237_E18-0265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324324-0237-10423-2023-18-0265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.055559"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 22435,
+  "numero": "1632",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 22 de octubre de 2025, declaró no ha lugar la solicitud de revisión interpuesta por los apoderados judiciales de José Ramón Arroyo Gutiérrez y otros, en relación a la sentencia del 19 de septiembre de 2024, dictada por el Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Lara. La sentencia recurrida había anulado el auto de admisión de la demanda de prescripción adquisitiva por falta de la certificación del Registrador exigida por el Código de Procedimiento Civil.\n\nLa Sala consideró que la decisión del Juzgado Superior se ajustó a derecho y no vulneró derechos constitucionales, ya que la falta de la certificación requerida es un requisito sine qua non para la admisión de la demanda. Asimismo, se enfatizó que la revisión constitucional no debe ser entendida como una nueva instancia, sino como un mecanismo excepcional para garantizar la uniformidad en la interpretación de normas constitucionales.\n\nFinalmente, se declaró inoficioso pronunciarse sobre la medida cautelar solicitada, dado que la solicitud de revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "prescripción adquisitiva",
+    "debido proceso",
+    "inadmision de demanda",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1632_E24-1063.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349014-1632-221025-2025-24-1063.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.749939"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 39121,
+  "numero": "0323",
+  "fecha": "2020-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia N° RC.000858.",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por INMAR CENTRO COMERCIAL LOS ALEROS C.A. contra la sentencia N° RC.000858 de la Sala de Casación Civil, que declaró perecido un recurso de casación. La Sala encontró que la decisión impugnada omitió pronunciarse sobre alegatos centrales, lo que contraviene el derecho a la defensa y a la tutela judicial efectiva. Por lo tanto, se anuló la sentencia y se ordenó a la Sala de Casación Civil emitir un nuevo pronunciamiento considerando los criterios establecidos.",
+  "palabras_clave": [
+    "casación",
+    "reposición",
+    "tutela judicial",
+    "justicia",
+    "proceso",
+    "poder",
+    "legitimidad"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia N° RC.000858",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0323_E17-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312777-0323-22721-2021-17-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.115619"
+}

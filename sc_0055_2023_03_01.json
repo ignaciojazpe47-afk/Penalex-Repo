@@ -1,0 +1,25 @@
+{
+  "id": 28955,
+  "numero": "0055",
+  "fecha": "2023-03-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana María Gabriela Diez Ladera interpuso una acción de amparo constitucional contra una decisión de la Corte de Apelaciones que declaró con lugar una acción de amparo presentada por el abogado de su agresor. La Sala Constitucional del TSJ determinó su competencia para conocer el caso y ordenó la notificación de las partes involucradas, considerando que la decisión de la Corte de Apelaciones fue publicada fuera del lapso legal establecido. Finalmente, se ordenó la práctica de la notificación respectiva de la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "notificación",
+    "responsabilidad administrativa",
+    "Corte de Apelaciones",
+    "violencia contra la mujer",
+    "gestiones administrativas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-01_S0055_E18-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/322985-0055-1323-2023-18-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.286128"
+}

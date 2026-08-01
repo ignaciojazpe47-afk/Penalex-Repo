@@ -1,0 +1,24 @@
+{
+  "id": 34242,
+  "numero": "0001",
+  "fecha": "2021-08-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia 75 de la Sala de Casación Social, que había declarado la falta de cualidad ad causam de los hermanos CISNEROS BLAVIA en un proceso de aceptación de herencia. La Sala Constitucional determinó que la decisión de la Sala de Casación Social violó el derecho a la tutela judicial efectiva y el interés superior de los niños, al exigir el exequátur de sentencias extranjeras de adopción, lo que afectaba directamente a los derechos de los menores involucrados. En consecuencia, se declaró con lugar la solicitud de revisión y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "interés superior del niño",
+    "exequátur",
+    "herencia",
+    "adopción internacional"
+  ],
+  "titulo": "Revisión constitucional de la sentencia 75 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-01-31_S0001_E21-0436.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/315398-0001-31122-2022-21-0436.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.752912"
+}

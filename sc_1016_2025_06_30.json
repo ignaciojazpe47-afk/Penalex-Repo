@@ -1,0 +1,25 @@
+{
+  "id": 20616,
+  "numero": "1016",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por José Horacio Raposo Matías y Alexander José Raposo Estrella contra la sentencia del Juzgado Superior Sexto en lo Civil, que había declarado con lugar un recurso de apelación de MS Gestión de Activos, C.A. La Sala consideró que la acción era inadmisible in limine litis, ya que no se evidenciaron nuevas violaciones de derechos fundamentales que justificaran el amparo. Además, se destacó que los accionantes no habían agotado los recursos ordinarios disponibles antes de recurrir al amparo.",
+  "palabras_clave": [
+    "transacción",
+    "amparo",
+    "derechos",
+    "garantías",
+    "procedimiento",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1016_E23-0894.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345285-1016-30625-2025-23-0894.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.510107"
+}

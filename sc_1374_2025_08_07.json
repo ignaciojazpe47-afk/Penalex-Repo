@@ -1,0 +1,25 @@
+{
+  "id": 21627,
+  "numero": "1374",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de agosto de 2025, declaró sin lugar el recurso de apelación interpuesto por el abogado César Enrique Mavo Yagua, en representación del ciudadano Gustavo Turriziani Raaz, contra la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que la acción de amparo no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en relación a la inminencia de la amenaza a los derechos alegados.\n\nLa Corte de Apelaciones había argumentado que el apelante podía solicitar la revocación o sustitución de la medida privativa de libertad en cualquier momento, lo que fue considerado un error en la interpretación de la inadmisibilidad. La Sala Constitucional reitera que la acción de amparo debe cumplir con los presupuestos de procedencia y que la decisión del tribunal de origen no constituyó una violación directa de los derechos constitucionales del justiciable.\n\nFinalmente, se revocó la decisión de inadmisibilidad y se declaró improcedente in limine litis la acción de amparo interpuesta, enfatizando la necesidad de un análisis cuidadoso por parte de las cortes inferiores en futuros casos similares.",
+  "palabras_clave": [
+    "indefensión",
+    "prueba anticipada",
+    "medida cautelar",
+    "derechos constitucionales",
+    "motivación",
+    "acción de amparo"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1374_E24-1187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347214-1374-7825-2025-24-1187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.032474"
+}

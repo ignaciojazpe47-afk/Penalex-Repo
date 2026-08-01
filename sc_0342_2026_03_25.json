@@ -1,0 +1,24 @@
+{
+  "id": 16898,
+  "numero": "0342",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por Leopoldo Mazza Valero respecto a la sentencia N° 712 del 3 de diciembre de 2021. La solicitud se fundamenta en la alegación de que el recurso ordinario de apelación fue presentado de manera tempestiva, lo cual fue rechazado por la Sala al considerar que la solicitud no encuadra en los supuestos del artículo 252 del Código de Procedimiento Civil, ya que no se trata de una aclaratoria sino de un cuestionamiento a la decisión. La Sala reafirma que la decisión de sobreseimiento dictada el 18 de diciembre de 2018 se mantiene firme.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "inconformidad",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de la sentencia N° 712",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0342_E19-0310.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354330-0342-25326-2026-19-0310.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.563896"
+}

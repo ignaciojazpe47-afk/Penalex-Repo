@@ -1,0 +1,22 @@
+{
+  "id": 38896,
+  "numero": "0255",
+  "fecha": "2021-07-02",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Se declara procedente la solicitud de avocamiento",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por la sociedad mercantil BLARNEY OVERSEAS, S.A. en relación a un proceso de cobro de bolívares contra Servicios JHS 2013, C.A. La solicitud se fundamentó en la violación del derecho a la tutela judicial efectiva y al debido proceso, argumentando la dilación en la respuesta del tribunal de instancia. La Sala, tras analizar los antecedentes y la competencia, decidió declarar procedente la solicitud de avocamiento, ordenando la remisión de un informe pormenorizado del caso al Juzgado Cuarto de Primera Instancia.",
+  "palabras_clave": [
+    "avocamiento",
+    "cobro de bolívares",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de cobro de bolívares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-02_S0255_E20-0436.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312470-0255-2721-2021-20-0436.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.172979"
+}

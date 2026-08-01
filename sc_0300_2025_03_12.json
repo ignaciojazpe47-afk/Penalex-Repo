@@ -1,0 +1,24 @@
+{
+  "id": 18769,
+  "numero": "0300",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional, se anula el fallo objeto de revisión y se repone la causa al estado para que otro Juzgado Superior emita un nuevo pronunciamiento.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por los ciudadanos Miguel Ángel Sifontes Fernández y Mary Yanilex Sifontes Fernández, quienes impugnaron un fallo del Juzgado Superior que había declarado con lugar un recurso de apelación de la sociedad mercantil Studio 8, C.A. La Sala determinó que el fallo objeto de revisión incurrió en incongruencia omisiva y vulneración del derecho a la defensa, ya que no se analizó adecuadamente la prueba de la demolición de una pared divisoria entre locales comerciales. En consecuencia, se anuló el fallo y se ordenó que otro Juzgado Superior emita un nuevo pronunciamiento sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "local comercial",
+    "incongruencia omisiva",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión Constitucional sobre desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0300_E24-0381.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342232-0300-12325-2025-24-0381.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.736324"
+}

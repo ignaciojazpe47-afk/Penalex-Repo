@@ -1,0 +1,25 @@
+{
+  "id": 20934,
+  "numero": "1135",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Rosa Morela Blanco solicitó la revisión constitucional de una sentencia dictada el 15 de diciembre de 2023, que declaró con lugar un recurso de apelación y revocó una sentencia anterior. La Sala Constitucional del TSJ, presidida por Tania D'Amelio Cardiet, declaró no ha lugar la solicitud de revisión, argumentando que la decisión del juzgado inferior se ajustó a derecho y a los criterios establecidos por la jurisprudencia. La Sala concluyó que la Junta de Condominio de las Residencias Riviera tenía la cualidad pasiva necesaria para sostener la demanda de nulidad del acta de asamblea de propietarios.",
+  "palabras_clave": [
+    "inmotivacion",
+    "tutela judicial",
+    "legitimacion",
+    "derecho",
+    "acción",
+    "propiedad horizontal"
+  ],
+  "titulo": "Revisión Constitucional sobre nulidad de acta de asamblea de propietarios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1135_E24-0281.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346042-1135-14725-2025-24-0281.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.497630"
+}

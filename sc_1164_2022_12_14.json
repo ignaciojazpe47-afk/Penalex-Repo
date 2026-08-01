@@ -1,0 +1,26 @@
+{
+  "id": 38023,
+  "numero": "1164",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer el recurso de interpretación interpuesto por Maryori Consuelo Moreno Peñaloza, relacionado con los artículos 352 y 358 de la Ley Orgánica para la Protección de Niños, Niñas y Adolescentes. La Sala determina que la competencia corresponde a la Sala de Casación Social, dado que la materia se relaciona con la protección de los derechos de los niños.",
+  "palabras_clave": [
+    "competencia",
+    "interpretacion",
+    "derechos",
+    "niños",
+    "adolescentes",
+    "leyes",
+    "constitucion"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación de normas de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1164_E19-0688.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321998-1164-141222-2022-19-0688.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.146167"
+}

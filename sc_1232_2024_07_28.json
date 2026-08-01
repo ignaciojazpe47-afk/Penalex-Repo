@@ -1,0 +1,26 @@
+{
+  "id": 21218,
+  "numero": "1232",
+  "fecha": "2024-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo constitucional interpuesta por Wiliem Asskoul Saab en representación de Jesús Ramón Villafañe Hernández y Nelson Antonio Silva Herrera. La acción se refiere a una sentencia dictada el 19 de diciembre de 2022 por la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que declaró sin lugar una apelación. La Sala determina que la parte actora no mostró interés en impulsar el proceso, lo que se califica como abandono del trámite, y por ello se declara terminado el procedimiento.",
+  "palabras_clave": [
+    "debido_proceso",
+    "prueba_ilicita",
+    "igualdad_procesal",
+    "derecho_a_la_defensa",
+    "acción_de_amparo",
+    "ilogoicidad",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1232_E24-0376.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346529-1232-28725-2025-24-0376.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.642894"
+}

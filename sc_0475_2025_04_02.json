@@ -1,0 +1,24 @@
+{
+  "id": 19238,
+  "numero": "0475",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado Julio César Lattán Avalo en nombre de Luis Antonio Garzón Millán, contra la sentencia N° 262 de fecha 22 de octubre de 2018, dictada por la Sala de Casación Penal. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la decisión impugnada, lo cual es un requisito indispensable para la verificación de la admisibilidad de la solicitud de revisión.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "copia certificada",
+    "Sala de Casación Penal",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0475_E21-0458.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342874-0475-2425-2025-21-0458.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.602953"
+}

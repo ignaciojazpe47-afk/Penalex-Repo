@@ -1,0 +1,22 @@
+{
+  "id": 26703,
+  "numero": "0312",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1239 en el marco de un recurso de avocamiento relacionado con una acción de amparo constitucional. Se revocó la sentencia del Juzgado Quinto de Primera Instancia que había decretado medidas cautelares en un juicio de nulidad de contrato. La Sala ordenó la suspensión de las medidas cautelares y la remisión de varios expedientes relacionados con el caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "avocamiento",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre recurso de avocamiento en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0312_E23-0834.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337905-0312-181024-2024-23-0834.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.058552"
+}

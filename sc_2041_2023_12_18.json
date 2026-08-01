@@ -1,0 +1,26 @@
+{
+  "id": 33894,
+  "numero": "2041",
+  "fecha": "2023-12-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "ADMITE la solicitud de avocamiento",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por Marlene Margarita Lazarde Luces y Ruth Andreína Sánchez Bueno Lazarde, quienes argumentaron la vulneración de sus derechos constitucionales en un juicio de amparo. La Sala determinó su competencia para conocer el caso y ordenó la recolección del expediente correspondiente, así como la suspensión de cualquier actuación procesal en el tribunal de instancia. La decisión se fundamenta en la necesidad de garantizar el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "injusticia",
+    "derechos_constitucionales",
+    "avocamiento",
+    "orden_publico",
+    "juez_natural"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2041_E23-1250.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332011-2041-191223-2023-23-1250.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.698142"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 20124,
+  "numero": "0833",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 0129, declaró con lugar la apelación interpuesta por Francisco Antonio Salcines contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes de Cojedes, que había declarado inadmisible su acción de amparo constitucional. La Sala consideró que la causa principal, relacionada con la impugnación de reconocimiento de paternidad, involucra derechos de orden público, específicamente el derecho a la identidad de la menor involucrada, lo que justifica la revisión de la inadmisibilidad a pesar del tiempo transcurrido desde la sentencia original. Se ordenó que otro tribunal superior decidiera sobre la admisibilidad de la acción de amparo, tomando en cuenta lo expuesto en el fallo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "filiación",
+    "identidad",
+    "Cojedes"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional en materia de filiación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0833_E24-0681.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344403-0833-3625-2025-24-0681.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.307624"
+}

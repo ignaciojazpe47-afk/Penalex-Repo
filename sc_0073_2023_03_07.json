@@ -1,0 +1,26 @@
+{
+  "id": 29075,
+  "numero": "0073",
+  "fecha": "2023-03-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por los sucesores de Arquímedes José Beliz contra una decisión del Juzgado Sexto Superior del Circuito Judicial del Trabajo. La acción se basó en la alegación de que la sentencia impugnada había permitido la venta de acciones por parte de las demandadas durante el juicio, afectando los derechos de los trabajadores. La Sala determinó su competencia para conocer el caso y ordenó la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunal",
+    "justicia",
+    "derechos",
+    "garantías",
+    "laboral"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-07_S0073_E22-0835.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323241-0073-7323-2023-22-0835.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.349249"
+}

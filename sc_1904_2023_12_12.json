@@ -1,0 +1,27 @@
+{
+  "id": 33757,
+  "numero": "1904",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento por abandono de trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo interpuesta por Juan Carlos Colmenares García, en su calidad de Director General de Suministros Campesinos C.A., contra el acta de asamblea de accionistas de Construcciones Inmobiliarias Lloca C.A. y un contrato de compra venta. La Sala determina que el tribunal competente es un Juzgado de Primera Instancia en lo Civil, Mercantil y Tránsito del Área Metropolitana de Caracas. Además, se declara terminado el procedimiento por abandono de trámite debido a la inacción del demandante durante más de seis meses.",
+  "palabras_clave": [
+    "nulidad",
+    "contrato",
+    "enajenación",
+    "bienes",
+    "patrimonio",
+    "acción de amparo",
+    "federación campesina",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1904_E19-0772.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331874-1904-121223-2023-19-0772.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.450725"
+}

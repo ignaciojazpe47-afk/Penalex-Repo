@@ -1,0 +1,25 @@
+{
+  "id": 29474,
+  "numero": "0213",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Pedro Miguel Guédez López, actuando como apoderado judicial del ciudadano Rubén Manzur Pacheco. La solicitud se fundamenta en la revisión de la sentencia número 74 dictada el 30 de julio de 2020 por la Sala de Casación Penal, que declaró inadmisible la solicitud de avocamiento en un caso penal específico. La Sala argumenta que la falta de presentación de un poder notariado que acredite la representación del demandante es causal de inadmisibilidad.",
+  "palabras_clave": [
+    "avocamiento",
+    "ministerio público",
+    "debido proceso",
+    "violaciones",
+    "justicia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0213_E22-0396.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323875-0213-27323-2023-22-0396.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.061312"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20016,
+  "numero": "0816",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 11 de julio de 2016 por el Juzgado Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Bolivariano de Miranda, que condenó a las ciudadanas Keisy Nazareth Zapata Charaima, Melissa Anyines Charaima Tovar y Rebeca Ninoska Charaima Tovar por delitos de secuestro agravado, robo agravado de vehículo automotor, homicidio intencional calificado y asociación. Los defensores alegaron que la sentencia carecía de fundamentos y vulneraba derechos constitucionales, solicitando su revisión. Sin embargo, la Sala concluyó que no hubo error en la valoración de pruebas y que la sentencia se ajustó a derecho, por lo que declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia condenatoria",
+    "secuestro agravado",
+    "robo agravado",
+    "homicidio intencional"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia Condenatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0816_E24-1111.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344294-0816-28525-2025-24-1111.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.861929"
+}

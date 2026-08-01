@@ -1,0 +1,26 @@
+{
+  "id": 19234,
+  "numero": "0471",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Ángelo Cutolo, apoderado de Toyota de Venezuela, C.A., contra la sentencia del Juzgado Superior Séptimo que declaró inadmisible la acción de amparo constitucional. La Sala determinó que la apelación era inadmisible debido a la falta de legitimación del abogado que la interpuso, ya que no presentó el poder correspondiente en original o copia certificada. Además, se negó la homologación del desistimiento solicitado por la abogada Génesis Díaz.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "representación",
+    "procedimiento",
+    "derechos",
+    "constitucionales",
+    "jurídico"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0471_E23-0922.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342870-0471-2425-2025-23-0922.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.600911"
+}

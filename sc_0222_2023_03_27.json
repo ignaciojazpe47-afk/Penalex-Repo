@@ -1,0 +1,23 @@
+{
+  "id": 29483,
+  "numero": "0222",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 952, declaró con lugar la acción de amparo constitucional interpuesta por María Inés Moreno Olguín contra el Tribunal Séptimo de Sustanciación, Mediación y Ejecución del Circuito Judicial del Trabajo del Área Metropolitana de Caracas. La decisión se fundamentó en la necesidad de garantizar el derecho a la defensa y debido proceso, ordenando la reposición de la causa para la designación de un experto contable que determine los montos correspondientes a la sentencia de fondo dictada el 9 de diciembre de 2021 y su aclaratoria del 18 de enero de 2022, aplicando las reconversiones monetarias pertinentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "reconversion monetaria"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0222_E22-0491.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323884-0222-27323-2023-22-0491.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.060201"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 30002,
+  "numero": "0411",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Carolina Borrero Marín, quien alegó violaciones a su derecho a la propiedad en el contexto de un procedimiento penal por hurto de vehículo. La Sala argumenta que la acumulación de pretensiones en el libelo es inepta, ya que las decisiones cuestionadas provienen de diferentes instancias y deben ser conocidas por distintos órganos jurisdiccionales. Además, se señala que el amparo no es un medio adecuado para revisar fallos ya resueltos por otros tribunales.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "inadmisibilidad",
+    "tutela constitucional",
+    "derechos constitucionales",
+    "procedimiento civil",
+    "tribunales",
+    "sentencias",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo interpuesta por violación de derecho a la propiedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0411_E21-0208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324681-0411-28423-2023-21-0208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.806374"
+}

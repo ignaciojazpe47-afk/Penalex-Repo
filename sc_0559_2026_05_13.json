@@ -1,0 +1,24 @@
+{
+  "id": 16693,
+  "numero": "0559",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 033 de la Sala de Casación Civil, que había declarado improcedente la indemnización por daño moral a favor de Daniel Francisco Cárdenas Benítez. La Sala Constitucional determinó que la Sala de Casación Civil incurrió en un vicio de silencio de pruebas, ya que no valoró adecuadamente la experticia grafotécnica que demostraba la mala fe del demandado al presentar múltiples denuncias penales infundadas. En consecuencia, se anuló la sentencia de casación y se declaró la firmeza de la sentencia del Juzgado Superior Quinto que había declarado con lugar la pretensión de daño moral.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "daño moral",
+    "silencio de pruebas",
+    "mala fe",
+    "jurisdicción civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0559_E26-0390.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355552-0559-13526-2026-26-0390.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.906549"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 67235,
+  "numero": "1357",
+  "fecha": "2015-05-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión interpuesta por Mammoet Venezuela C.A. contra la sentencia de la Sala de Casación Civil que había declarado sin lugar un recurso de casación. La decisión se fundamentó en la falta de presentación de la documentación necesaria, específicamente el poder original o copia certificada del mismo, lo que contraviene el artículo 129 de la Ley Orgánica del Tribunal Supremo de Justicia. A pesar de que se alegó un error material en la presentación del poder, la Sala consideró que no se cumplían los requisitos para admitir la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-09_S1357_E13-1027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182658-1357-91115-2015-13-1027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:33.789200"
+}

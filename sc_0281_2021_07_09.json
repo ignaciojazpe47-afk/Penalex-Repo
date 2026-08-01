@@ -1,0 +1,22 @@
+{
+  "id": 39000,
+  "numero": "0281",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Recurso de Hecho",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de hecho presentado por los ciudadanos Edgar Alberto de Jesús Torres y Julián Francisco Hernández Corona, a través de su abogada María Cristina Cancino, en contra del Juzgado Superior Sexto en lo Civil, Mercantil y del Tránsito de Caracas. El recurso se fundamentó en la omisión de pronunciamiento del juzgado respecto a una apelación interpuesta el 24 de enero de 2020, relacionada con una decisión de amparo dictada el 22 de enero de 2020.\n\nLa Sala, al analizar el caso, determinó que el juzgado no se había pronunciado sobre la apelación, lo que constituye una vulneración del derecho a la tutela judicial efectiva. Por lo tanto, se ordenó al Juzgado Superior Sexto que remitiera copia certificada del expediente correspondiente al recurso de apelación, advirtiendo que el incumplimiento de esta orden acarrearía sanciones.\n\nFinalmente, se ordenó la notificación de la decisión de forma telefónica, y se publicó y registró la sentencia.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "omisión de pronunciamiento"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0281_E20-0099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312582-0281-9721-2021-20-0099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.160861"
+}

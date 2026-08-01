@@ -1,0 +1,24 @@
+{
+  "id": 31642,
+  "numero": "1000",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Recurso de Hecho",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de hecho interpuesto por el abogado Olbert Escobar Camico, quien actuaba como apoderado sin poder de la ciudadana Miriam Bali de Alemán. Este recurso fue presentado contra la decisión del Juzgado Superior Primero que negó la apelación de la acción de amparo constitucional. La Sala determinó su competencia y analizó si se habían vulnerado los derechos de la demandada al no ser debidamente citada en el proceso judicial en el que se encontraba involucrada.\n\nLa Sala concluyó que la negativa a oír la apelación por parte del Juzgado Superior no generó indefensión, ya que la finalidad del recurso era garantizar el derecho a la defensa de la ciudadana Miriam Bali de Alemán. Se destacó que la citación es un elemento esencial en el proceso judicial y que, al no haberse realizado, se vulneraron derechos fundamentales. Finalmente, se declaró sin lugar el recurso de hecho interpuesto, reafirmando la decisión del Juzgado Superior.\n\nLa sentencia enfatiza la importancia de la citación en el debido proceso y la necesidad de que todos los involucrados en un juicio tengan la oportunidad de ejercer su defensa, conforme a lo establecido en la legislación venezolana y los tratados internacionales aplicables.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "derecho a la defensa",
+    "citaciones",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre recurso de hecho interpuesto por apoderado sin poder",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1000_E19-0009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327531-1000-28723-2023-19-0009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.911605"
+}

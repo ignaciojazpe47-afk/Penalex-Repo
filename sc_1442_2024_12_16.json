@@ -1,0 +1,23 @@
+{
+  "id": 28687,
+  "numero": "1442",
+  "fecha": "2024-12-16",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Anula la decisión de desacato y ordena continuar con la ejecución del mandamiento de amparo.",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia anula la decisión del Tribunal Segundo de Primera Instancia de Juicio del Trabajo que había declarado el desacato al mandamiento de amparo constitucional. Se ordena continuar con la ejecución del mandamiento de amparo dictado el 22 de marzo de 2022, que ordenaba el reenganche y pago de salarios caídos a los trabajadores demandantes. La Sala concluye que no se demostró el desacato, ya que la empresa demandada no estaba operativa al momento de la ejecución forzosa.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "ejecución forzosa",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-16_S1442_E23-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340796-1442-161224-2024-23-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.813534"
+}

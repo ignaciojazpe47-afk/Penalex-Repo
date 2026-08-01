@@ -1,0 +1,25 @@
+{
+  "id": 38084,
+  "numero": "1207",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "CONFIRMA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto contra una decisión de la Corte Marcial que declaró inadmisible una acción de amparo constitucional. Los abogados defensores del ciudadano Gustavo Adolfo González Hernández desistieron del recurso de apelación, argumentando que la situación que motivó el amparo había cesado tras la concesión de un beneficio de suspensión condicional de la pena.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "derechos",
+    "procedimiento",
+    "justicia",
+    "abogados"
+  ],
+  "titulo": "Homologación del desistimiento del recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1207_E21-0083.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322099-1207-151222-2022-21-0083.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.139839"
+}

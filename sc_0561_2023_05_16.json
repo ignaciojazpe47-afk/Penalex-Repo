@@ -1,0 +1,25 @@
+{
+  "id": 30351,
+  "numero": "0561",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 472, donde se declara terminado el procedimiento por abandono del trámite en la acción de amparo constitucional interpuesta por Francisco José Luna Boada. Se argumenta que la parte accionante no realizó actuaciones procesales válidas durante un período superior a seis meses, lo que indica falta de interés en obtener la tutela constitucional demandada.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "apelación",
+    "indefensión",
+    "jurisdicción",
+    "recursos judiciales"
+  ],
+  "titulo": "Sentencia sobre abandono del trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0561_E14-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325201-0561-16523-2023-14-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.855088"
+}

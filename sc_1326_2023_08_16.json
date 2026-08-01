@@ -1,0 +1,25 @@
+{
+  "id": 34217,
+  "numero": "1326",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Edgar Eduardo Canelón Anzola contra las decisiones de la Sala Accidental N° 222 de la Corte de Apelaciones del Estado Aragua. Se argumenta que la parte recurrente no cumplió con los requisitos de admisibilidad establecidos en la ley, específicamente en relación a la presentación de pruebas que sustenten la recusación contra la jueza Elis Coromoto Machado Alvarado. La Sala concluye que no se verifican violaciones a derechos constitucionales en el caso.",
+  "palabras_clave": [
+    "recusación",
+    "derechos",
+    "garantías",
+    "debido proceso",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1326_E22-0997.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328529-1326-16823-2023-22-0997.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.223812"
+}

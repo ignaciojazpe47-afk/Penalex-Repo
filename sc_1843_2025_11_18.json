@@ -1,0 +1,24 @@
+{
+  "id": 23075,
+  "numero": "1843",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia del 18 de noviembre de 2025, declaró con lugar la solicitud de revisión de la sentencia N° 000343, dictada el 13 de junio de 2024, por la Sala de Casación Civil. Se argumentó que la Sala Civil incurrió en errónea valoración probatoria al considerar como válido un estudio heredo biológico realizado fuera del proceso y sin las debidas garantías, lo que vulneró el derecho a la defensa y al debido proceso de la parte demandada. La Sala ordenó la realización de una nueva experticia heredo biológica para establecer la filiación paterna del demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inquisición de paternidad",
+    "filiación",
+    "debido proceso",
+    "valor probatorio"
+  ],
+  "titulo": "Revisión de sentencia sobre inquisición de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1843_E25-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349967-1843-181125-2025-25-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.064565"
+}

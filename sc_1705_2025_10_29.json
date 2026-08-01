@@ -1,0 +1,27 @@
+{
+  "id": 22648,
+  "numero": "1705",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 30 de julio de 2025 por la Sala 6 de la Corte de Apelaciones, que había declarado sin lugar un recurso de apelación interpuesto por la defensa de las ciudadanas María Lisbeth Bello Pernía y Josmary Lisbeth San Juan Bello. La defensa alegó violaciones al debido proceso y a la defensa, argumentando que la Corte de Apelaciones no valoró adecuadamente las pruebas presentadas. Sin embargo, la Sala Constitucional concluyó que no hubo error en la valoración de las pruebas y que la sentencia se ajustó a derecho.",
+  "palabras_clave": [
+    "debido_proceso",
+    "inmotivacion",
+    "perturbacion_posesion",
+    "derecho_defensa",
+    "sentencia",
+    "pruebas",
+    "legalidad",
+    "constitucion"
+  ],
+  "titulo": "Revisión constitucional de sentencia de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1705_E25-0878.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349308-1705-291025-2025-25-0878.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.532176"
+}

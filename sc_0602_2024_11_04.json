@@ -1,0 +1,23 @@
+{
+  "id": 27179,
+  "numero": "0602",
+  "fecha": "2024-11-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Lenin José Colmenarez Leal, quien solicitó un amparo constitucional por la omisión de pronunciamiento del Juzgado Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Lara. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que la lesión denunciada había cesado, ya que los recursos de apelación fueron remitidos y se fijó una nueva audiencia preliminar. La Sala Constitucional confirmó esta decisión, declarando sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "lesión de derechos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-04_S0602_E24--0209.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338565-0602-41124-2024-24--0209.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.301239"
+}

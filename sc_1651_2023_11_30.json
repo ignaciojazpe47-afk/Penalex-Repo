@@ -1,0 +1,26 @@
+{
+  "id": 33142,
+  "numero": "1651",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por el abogado José Antonio Paiva Jiménez en representación de Carol Gabriela Barrera Silva. La solicitud se basaba en la revisión de una sentencia dictada por la Sala de Casación Civil el 2 de mayo de 2023, en un juicio por desalojo. La inadmisibilidad se fundamentó en la falta de presentación de copia certificada de la decisión cuestionada, lo que impidió verificar la certeza de la solicitud.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "documentos",
+    "legitimación",
+    "procedimiento",
+    "sentencia",
+    "copia certificada"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1651_E23-0471.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330818-1651-301123-2023-23-0471.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.172479"
+}

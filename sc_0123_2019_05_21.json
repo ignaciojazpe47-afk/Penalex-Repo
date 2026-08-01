@@ -1,0 +1,22 @@
+{
+  "id": 42867,
+  "numero": "0123",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por José Alberto Liendo González, quien impugnó la decisión del Juzgado Superior en lo Civil, Mercantil, Bancario, Tránsito y Marítimo de Falcón, que declaró sin lugar su apelación contra un auto que mantenía medidas cautelares en un juicio de nulidad de matrimonio. La Sala determinó que la decisión del tribunal inferior se ajustaba a derecho, ya que las medidas cautelares debían mantenerse hasta que se liquidara la comunidad conyugal o se llegara a un acuerdo entre las partes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de matrimonio",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de nulidad de matrimonio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0123_E18-0605.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305041-0123-21519-2019-18-0605.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.861215"
+}

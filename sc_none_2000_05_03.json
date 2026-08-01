@@ -1,0 +1,27 @@
+{
+  "id": 1976,
+  "numero": null,
+  "fecha": "2000-05-03",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derecho Minero",
+  "decision": "NULO DE NULIDAD ABSOLUTA",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Asociación Cooperativa Mixta La Salvación interpuso una acción de nulidad por inconstitucionalidad contra los artículos 132 y 129 del Decreto Nº 295 de la Ley de Minas, alegando violaciones a derechos constitucionales y a la normativa minera vigente. Los actores argumentaron que el decreto favorecía a la Corporación Venezolana de Guayana (C.V.G.) en detrimento de sus derechos como concesionarios de minas. La Sala Constitucional del TSJ, tras analizar los alegatos, determinó que los artículos impugnados vulneraban el derecho al debido proceso y otros derechos fundamentales, declarando su nulidad.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Derecho Minero",
+    "Concesiones",
+    "Due Process",
+    "C.V.G.",
+    "Minería",
+    "Venezuela"
+  ],
+  "titulo": "Nulidad de artículos del Decreto de Minas por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-09_PoliticoAdmin_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.739435"
+}

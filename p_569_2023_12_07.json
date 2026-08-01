@@ -1,0 +1,24 @@
+{
+  "id": 33346,
+  "numero": "569",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Inadmisible",
+  "ponente": "CARMEN MARISELA CASTRO GILLY",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declaró inadmisible el recurso de casación interpuesto por el abogado Jesús Ramón Villafañe Hernández, en representación de Jhonnys Eliecer Sereno Castillo, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del estado Monagas. Esta decisión había declarado sin lugar el recurso de apelación interpuesto por los abogados de la víctima, en relación a la desestimación de una querella por parte del Tribunal Tercero de Primera Instancia en Funciones de Control.\n\nLa Sala fundamentó su decisión en que la desestimación de la querella es irrecurrible en casación, ya que no se había iniciado un proceso penal formal. Se enfatizó que la actuación del Ministerio Público al solicitar la desestimación se basa en la falta de carácter penal de los hechos denunciados, lo que impide el inicio de un proceso penal.\n\nFinalmente, se reafirmó que la desestimación de la querella es una medida destinada a depurar el proceso penal, evitando la judicialización de casos que no cumplen con los requisitos legales para su prosecución.",
+  "palabras_clave": [
+    "casación",
+    "inadmisible",
+    "querella",
+    "desestimación",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2023-12-07_S569_C23-458.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/diciembre/331206-569-71223-2023-C23-458.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:45.528675"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 48319,
+  "numero": "0636",
+  "fecha": "2018-09-18",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 3 de febrero de 2017, que declaró sin lugar el recurso de apelación interpuesto por Etiquetas Sol Sil, C.A. contra la decisión de desalojo a favor de Inversiones Buena Vía, S.A. La Sala encontró que se vulneraron principios constitucionales, como la cosa juzgada y la falta de jurisdicción del poder judicial, ya que existía una cláusula arbitral que impedía el conocimiento del caso por parte de los tribunales ordinarios. En consecuencia, se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada mientras se decide sobre la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "cosa juzgada",
+    "jurisdicción",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-09-18_S0636_E17-0930.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/301297-0636-18918-2018-17-0930.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.660053"
+}

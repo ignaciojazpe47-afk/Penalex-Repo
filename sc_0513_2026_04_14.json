@@ -1,0 +1,18 @@
+{
+  "id": 16019,
+  "numero": "0513",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional presentada por el abogado José Bonifacio Lombano Paredes en representación de Matteo Taschetta Loiacomo, contra una sentencia del Juzgado Superior en lo Civil que declaró inadmisible una demanda de desalojo. La Sala consideró que el juez de alzada quebrantó el debido proceso y la tutela judicial efectiva al no valorar adecuadamente las pruebas presentadas y al declarar inadmisible la demanda sin considerar la integración del litisconsorcio necesario.\n\nEn consecuencia, la Sala anuló la decisión del Juzgado Superior y ordenó que se emita una nueva decisión tomando en cuenta las consideraciones expuestas en el fallo. La sentencia destaca la importancia de garantizar el derecho a la defensa y la correcta valoración de las pruebas en los procesos judiciales.\n\nFinalmente, se establece que la acción de amparo es procedente in limine litis, lo que implica que se debe restablecer la situación jurídica infringida de manera inmediata, asegurando así la protección de los derechos constitucionales del accionante.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0513_E25-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354998-0513-14426-2026-25-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.892309"
+}

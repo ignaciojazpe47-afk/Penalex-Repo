@@ -1,0 +1,25 @@
+{
+  "id": 18880,
+  "numero": "0352",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Freddy José Alcina Pérez, en representación de Leidireine Rivero de Bravo y Jesús Eduardo Bravo, contra la Corte de Apelaciones del Circuito Judicial Penal de Lara. La acción se fundamenta en la presunta omisión de la Corte al no pronunciarse sobre un recurso de apelación interpuesto por la Fiscalía 26 del Ministerio Público. Sin embargo, se determina que la situación jurídica alegada cesó cuando la Corte de Apelaciones resolvió el recurso de apelación, lo que hace que la acción de amparo no sea procedente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "Corte de Apelaciones",
+    "violación de derechos",
+    "normas procesales",
+    "Ministerio Público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0352_E24-0929.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342383-0352-18325-2025-24-0929.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.726833"
+}

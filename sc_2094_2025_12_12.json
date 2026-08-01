@@ -1,0 +1,22 @@
+{
+  "id": 23873,
+  "numero": "2094",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados de LUIS ALBERTO TORRES GARMENDIA, debido a la omisión de pronunciamiento del Juzgado Superior Agrario. La Sala determinó su competencia y consideró que la inhibición de todos los funcionarios del Tribunal constituía un cierre técnico del mismo, afectando el acceso a la justicia de las partes involucradas. Finalmente, se ordenó al Juzgado Superior Agrario realizar las diligencias necesarias para informar sobre el pronunciamiento del recurso de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2094_E25-0617.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351916-2094-121225-2025-25-0617.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.738981"
+}

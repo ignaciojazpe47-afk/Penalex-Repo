@@ -1,0 +1,25 @@
+{
+  "id": 40481,
+  "numero": "0667",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Rafael Moreno Franco en representación de varios ciudadanos. La decisión se basa en la falta de acreditación de la condición de profesional del derecho del solicitante y en la omisión de la violación de normas de orden público que justifiquen la admisibilidad del recurso. Además, se anula la sentencia de la Sala de Casación Social del 30 de mayo de 2019, ordenando la remisión del expediente al tribunal de la causa para ejecutar la decisión dictada el 21 de junio de 2018.",
+  "palabras_clave": [
+    "control de legalidad",
+    "inadmision",
+    "derecho al debido proceso",
+    "jurisprudencia",
+    "constitucionalidad",
+    "normas de orden público"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0667_E19-0708.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314743-0667-261121-2021-19-0708.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.503272"
+}

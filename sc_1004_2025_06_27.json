@@ -1,0 +1,25 @@
+{
+  "id": 20604,
+  "numero": "1004",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Kennia Alejandra Salazar Delgado, representada por el abogado Rafael Eugenio Terán Montilla, contra las actuaciones de la Fiscalía Superior y la Fiscalía de Flagrancia del Ministerio Público del Estado Trujillo. La decisión se basa en la inepta acumulación de pretensiones, ya que se presentaron diversas denuncias contra distintos agraviantes en un solo escrito, lo que contraviene las disposiciones legales sobre la materia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inhibición",
+    "nulidad",
+    "derechos humanos",
+    "poder judicial",
+    "corte de apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1004_E20-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345273-1004-27625-2025-20-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.304089"
+}

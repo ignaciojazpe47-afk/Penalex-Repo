@@ -1,0 +1,26 @@
+{
+  "id": 31201,
+  "numero": "0905",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de interpretación de los artículos 40 y 41 del Reglamento para el Ingreso, Ubicación, Ascenso y Concursos del Personal de la Universidad Rómulo Gallegos. El abogado Daniel Alfredo Acosta Garces solicitó esta interpretación debido a la incertidumbre sobre la legalidad de dichos artículos. Sin embargo, la Sala declaró la solicitud IMPROPONIBLE, argumentando que no tiene competencia para interpretar normas de rango sub-legal como las mencionadas.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucional",
+    "normas",
+    "sub-legal",
+    "derecho",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0905_E17-0966.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326813-0905-12723-2023-17-0966.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.214021"
+}

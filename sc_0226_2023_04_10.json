@@ -1,0 +1,23 @@
+{
+  "id": 29694,
+  "numero": "0226",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de abril de 2023, declaró con lugar el recurso de apelación interpuesto por el abogado Rafael Alberto Latorre Cáceres, actuando en defensa de Francisco Javier López. La apelación se basó en la inadmisibilidad de la acción de amparo dictada el 18 de enero de 2017 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Sucre, que había declarado inadmisible la acción de amparo por falta de subsanación en el plazo establecido.\n\nLa Sala constató que la decisión de inadmisibilidad no se ajustó a derecho, ya que el accionante había cumplido con los requisitos de subsanación dentro del plazo correspondiente. Por lo tanto, se revocó la decisión anterior y se ordenó a la Corte de Apelaciones emitir un nuevo pronunciamiento sobre la subsanación del amparo.\n\nEsta sentencia reafirma la importancia del respeto a los derechos de los ciudadanos en el proceso judicial y la necesidad de garantizar el acceso a la justicia, en cumplimiento de las garantías constitucionales establecidas en la legislación venezolana.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "derechos humanos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0226_E17-0184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324313-0226-10423-2023-17-0184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.052713"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30295,
+  "numero": "0513",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "INADMISIBLE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado José Alberto Navarro Márquez en representación de Jorge José Moreno Rojas, respecto a la sentencia n.° 2019-00251 del Juzgado Nacional Segundo Contencioso Administrativo. La Sala argumenta que el requirente no presentó copia certificada del acto de juzgamiento cuestionado ni de las actuaciones procesales que denunció como lesivas, lo que constituye una causal de inadmisibilidad según la Ley Orgánica del Tribunal Supremo de Justicia.\n\nLa decisión se fundamenta en la necesidad de que se acompañen los documentos indispensables para la admisión de la revisión, enfatizando que la falta de estos documentos impide la verificación de la certeza y la posible tramitación de la solicitud. La Sala también señala que no es posible subsanar esta falta con una posterior consignación, dado que en este tipo de procedimientos no existe una fase de contradicción.\n\nFinalmente, la Sala se declara competente para conocer la solicitud, pero al no cumplirse con los requisitos formales, se decide declarar la inadmisibilidad de la misma y se considera inoficioso pronunciarse sobre el apercibimiento solicitado.",
+  "palabras_clave": [
+    "remoción",
+    "derecho administrativo",
+    "incongruencia",
+    "carrera administrativa",
+    "due process",
+    "tutela judicial",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0513_E21-0402.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325137-0513-16523-2023-21-0402.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.860049"
+}

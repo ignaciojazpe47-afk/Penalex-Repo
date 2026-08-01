@@ -1,0 +1,25 @@
+{
+  "id": 42927,
+  "numero": "0128",
+  "fecha": "2019-05-23",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto n.° 3.844, que decreta el Estado de Excepción y Emergencia Económica en Venezuela. Se argumenta que el decreto es necesario para garantizar la seguridad y el bienestar de la población ante la crisis económica y social que enfrenta el país. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y declara que cualquier acto de la Asamblea Nacional en desacato que intente desaprobar el decreto es nulo e ineficaz.",
+  "palabras_clave": [
+    "constitucionalidad",
+    "decreto",
+    "estado de excepción",
+    "emergencia económica",
+    "poder público",
+    "proporcionalidad"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto n.° 3.844 del 10 de mayo de 2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-23_S0128_E19-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305170-0128-23519-2019-19-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.854938"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34991,
+  "numero": "0121",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional presentada por Hedinmar Agüero y Alexis Goatache, en representación de la población de Venezuela, contra el Ejecutivo Nacional y el Ministerio de Salud, alegando vulneraciones a derechos humanos y garantías constitucionales debido a las medidas sanitarias adoptadas en el contexto de la pandemia de COVID-19. La Sala aceptó la declinatoria de competencia del Tribunal Superior Estadal en lo Contencioso Administrativo y admitió la acción de amparo, pero finalmente declaró la misma improcedente in limine litis, argumentando que no se constató la violación de derechos fundamentales denunciados y que las medidas adoptadas eran constitucionales y necesarias para la protección de la salud pública.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "emergencia sanitaria",
+    "COVID-19",
+    "organismos internacionales",
+    "protocolos sanitarios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el Ejecutivo Nacional por medidas sanitarias",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0121_E21-0502.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316885-0121-3622-2022-21-0502.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.411706"
+}

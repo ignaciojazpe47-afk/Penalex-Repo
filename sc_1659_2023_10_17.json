@@ -1,0 +1,26 @@
+{
+  "id": 22602,
+  "numero": "1659",
+  "fecha": "2023-10-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1468, declaró improcedente la solicitud de avocamiento presentada por la sociedad mercantil Ruedas Hernández y Ortega Inversiones, C.A. (RHOINCA) en relación con el expediente N° CX-2020-034464. La solicitud se fundamentó en alegaciones de desorden procesal y violaciones a las garantías constitucionales del debido proceso y la tutela judicial efectiva, en el contexto de un juicio por estimación e intimación de honorarios profesionales contra la Comercializadora Giraldo y Gómez y Cía., S.A.",
+  "palabras_clave": [
+    "tutela judicial",
+    "medidas cautelares",
+    "cosa juzgada",
+    "debido proceso",
+    "desorden procesal",
+    "jurisdicción",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1659_E23-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349262-1659-291025-2025-23-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.386188"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 19209,
+  "numero": "0454",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado Junior Cárdenas, en su calidad de Fiscal Provisorio, contra la decisión de la Sala Sexta de la Corte de Apelaciones que había declarado sin lugar un recurso de apelación. La Sala consideró que no se cumplían los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que no se evidenció usurpación de funciones ni violación de derechos constitucionales por parte del tribunal apelado.\n\nLa decisión impugnada se refería a la solicitud de medida cautelar de incautación de un vehículo, la cual había sido negada por el Juzgado Cuadragésimo de Primera Instancia. La Sala Sexta, al confirmar dicha decisión, actuó dentro de su competencia y con fundamento en la normativa aplicable, lo que llevó a la conclusión de que la acción de amparo no era procedente.\n\nFinalmente, la Sala Constitucional reafirmó la autonomía e independencia de los jueces en el ejercicio de su función, indicando que la acción de amparo no puede ser utilizada para revisar decisiones que no vulneren derechos constitucionales de manera flagrante.",
+  "palabras_clave": [
+    "inmovilización",
+    "incautación",
+    "debido proceso",
+    "vicios procesales",
+    "derechos constitucionales",
+    "Ministerio Público",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0454_E24-1025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342838-0454-1425-2025-24-1025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.606310"
+}

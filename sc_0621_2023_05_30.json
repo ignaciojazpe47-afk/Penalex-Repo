@@ -1,0 +1,25 @@
+{
+  "id": 30575,
+  "numero": "0621",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rafael Ángel Terán Barroeta en contra de la Iglesia Católica venezolana. La decisión se basa en que el demandante no ratificó personalmente la acción ni presentó los documentos necesarios para su admisibilidad dentro del plazo establecido por la ley. La Sala resalta que el amparo constitucional es un medio excepcional que debe ser ejercido conforme a los requisitos legales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "Iglesia",
+    "constitucional",
+    "justicia",
+    "procesal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0621_E20-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325709-0621-30523-2023-20-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.931921"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28031,
+  "numero": "1120",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por el Fiscal Provisorio Guillermo Jesús Amaya Medina contra la decisión del Tribunal Quinto de Primera Instancia que declaró improcedente el efecto suspensivo del recurso de apelación. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que el Ministerio Público contaba con la vía de apelación ordinaria para impugnar la decisión. La Sala concluyó que la acción de amparo no era procedente, ya que el agraviado había optado por recurrir a las vías judiciales ordinarias.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "doble instancia",
+    "Código Penal",
+    "Código Orgánico Procesal Penal",
+    "inadmision",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1120_E23-0330.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339700-1120-281124-2024-23-0330.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.840650"
+}

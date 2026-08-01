@@ -1,0 +1,22 @@
+{
+  "id": 18801,
+  "numero": "0327",
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia N° 320, dictada por la Sala de Casación Civil. La solicitud fue presentada por los abogados de la sociedad mercantil Distribuidora Bigott, C.A., quienes argumentaron que la Sala de Casación Civil había declarado inadmisible su demanda por cobro de bolívares, basándose en la condición física de una factura presentada como prueba. La Sala Constitucional determinó su competencia para conocer la solicitud y ordenó al Juzgado Octavo de Primera Instancia recabar y remitir el expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "factura"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 320",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0327_E24-0974.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342273-0327-13325-2025-24-0974.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.809551"
+}

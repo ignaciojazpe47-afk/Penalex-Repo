@@ -1,0 +1,24 @@
+{
+  "id": 27935,
+  "numero": "1048",
+  "fecha": "2023-07-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Telefónica Venezolana C.A. contra la sentencia n.° 485 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La Sala Constitucional determinó que la sentencia impugnada había sido debidamente motivada y que no se habían vulnerado derechos constitucionales. Se concluyó que la revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, por lo que se declaró 'No Ha Lugar' la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "Tribunal Supremo de Justicia",
+    "Telefónica Venezolana",
+    "FDL Ingeniería"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 485 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1048_E24-0231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339563-1048-271124-2024-24-0231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.912038"
+}

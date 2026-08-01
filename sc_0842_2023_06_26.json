@@ -1,0 +1,25 @@
+{
+  "id": 31059,
+  "numero": "0842",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Nula",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00838 dictada el 8 de diciembre de 2022 por la Sala Político Administrativa, que había declarado con lugar un recurso de regulación de jurisdicción. Los abogados de la Sociedad Civil Valle Arriba Golf Club solicitaron la revisión argumentando violaciones a preceptos constitucionales. La Sala Constitucional determinó que la sentencia impugnada no se ajustaba a los supuestos que permiten su revisión y, en consecuencia, declaró nula la decisión de la Sala Político Administrativa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencias",
+    "jurisdicción",
+    "arbitraje",
+    "derechos",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 00838",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0842_E23-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326498-0842-26623-2023-23-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.551159"
+}

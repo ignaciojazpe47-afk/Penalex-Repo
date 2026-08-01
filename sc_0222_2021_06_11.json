@@ -1,0 +1,26 @@
+{
+  "id": 38845,
+  "numero": "0222",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de junio de 2021, declaró no ha lugar la solicitud de revisión constitucional interpuesta por los ciudadanos Carlos Humberto Meier Minguet y Greta Meier de Tavera, en contra de la sentencia dictada el 16 de marzo de 2016 por el Juzgado Superior Accidental Agrario del Estado Cojedes. La sentencia en cuestión había declarado con lugar la apelación interpuesta por Rafael Antonio Vera Salazar, revocando parcialmente la decisión anterior y ordenando la restitución de un lote de terreno objeto de una querella interdictal por despojo.\n\nLa Sala argumentó que la revisión no se ajustaba a los fines de la potestad extraordinaria de revisión constitucional, ya que no se evidenció vulneración de derechos o principios constitucionales, ni contravención de criterios vinculantes establecidos por la Sala. Se enfatizó que la revisión constitucional no es un medio para corregir errores de juzgamiento, sino para preservar la uniformidad de la interpretación de normas y principios constitucionales.\n\nFinalmente, se destacó que la decisión del Juzgado Superior fue debidamente motivada y que el análisis del acervo probatorio fue realizado conforme a derecho, por lo que se desestimó la solicitud de revisión presentada por los demandantes.",
+  "palabras_clave": [
+    "debido_proceso",
+    "cosa_juzgada",
+    "tutela_judicial",
+    "pruebas",
+    "derecho_a_la_defensa",
+    "administrativo",
+    "agropecuario"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0222_E16-1096.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312343-0222-11621-2021-16-1096.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.175018"
+}

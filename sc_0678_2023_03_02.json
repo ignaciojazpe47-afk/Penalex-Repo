@@ -1,0 +1,25 @@
+{
+  "id": 30712,
+  "numero": "0678",
+  "fecha": "2023-03-02",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0065 el 2 de marzo de 2023, en la que se ratificó la designación de la Junta Directiva Ad Hoc de la Federación Campesina Bolivariana de Venezuela, estableciendo que esta junta es la única representación válida de la federación. Se ordenó la ejecución de diversas medidas cautelares y se reafirmaron las facultades otorgadas en sentencias anteriores.",
+  "palabras_clave": [
+    "federación",
+    "medidas cautelares",
+    "derechos agrarios",
+    "justicia social",
+    "elecciones",
+    "organismos administrativos"
+  ],
+  "titulo": "Sentencia sobre la Junta Directiva Ad Hoc de la Federación Campesina Bolivariana de Venezuela",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-02_S0678_E21-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325879-0678-2623-2023-21-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.282974"
+}

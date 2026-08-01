@@ -1,0 +1,22 @@
+{
+  "id": 3306,
+  "numero": null,
+  "fecha": "2006-01-12",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Francisco Antonio Carrasquero López",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por varios trabajadores de la empresa Auto Leasing, quienes alegaron que la decisión del Juzgado Sexto de Primera Instancia en Función de Control, que ordenó la congelación de sus cuentas bancarias, vulneraba sus derechos laborales y constitucionales. La Sala consideró que la acción de amparo era procedente, dado que los trabajadores no habían sido considerados en el proceso penal que llevó a la medida de congelación, afectando así sus derechos al salario y a las prestaciones sociales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "congelación de cuentas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-05-11_Constitucional_05.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.512569"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 26676,
+  "numero": "0285",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUAREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró competente para conocer la solicitud de revisión constitucional presentada por los abogados de Adolfo Leonardo Pulido Tovar. En su decisión, la Sala determinó que no ha lugar la revisión de la sentencia dictada por la Corte Marcial, que había declarado sin lugar el recurso de apelación interpuesto por la defensa de Pulido Tovar, quien había sido condenado por la comisión del delito militar de sustracción de fondos pertenecientes a la Fuerza Armada. La Sala concluyó que la Corte Marcial actuó conforme a derecho y que la revisión solicitada no contribuiría a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "Corte Marcial",
+    "sustracción de fondos",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Corte Marcial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0285_E16-1210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337876-0285-181024-2024-16-1210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.061470"
+}

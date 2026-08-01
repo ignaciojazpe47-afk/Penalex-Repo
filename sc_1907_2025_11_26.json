@@ -1,0 +1,22 @@
+{
+  "id": 23252,
+  "numero": "1907",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetencia",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por los abogados de tres ciudadanos contra una sentencia del Juzgado Séptimo en funciones de Control. La acción se fundamenta en la alegación de vicios que vulneran derechos constitucionales. Tras el análisis, la Sala declaró su incompetencia para conocer el caso, indicando que la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas es el tribunal competente para decidir sobre la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Declaración de Incompetencia en Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1907_E25-1079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350504-1907-261125-2025-25-1079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.054324"
+}

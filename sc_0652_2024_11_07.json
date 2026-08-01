@@ -1,0 +1,26 @@
+{
+  "id": 27246,
+  "numero": "0652",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión presentada por Emilia Margarita Mijares Reyes contra la sentencia N° 114 de la Sala de Casación Social. La recurrente alegó que la decisión vulneró sus derechos al no valorar pruebas determinantes en su caso. Sin embargo, la Sala Constitucional concluyó que la Sala de Casación Social actuó conforme a derecho al desestimar las pruebas inadmitidas, considerándolas irrelevantes para la resolución del caso.",
+  "palabras_clave": [
+    "valoración de pruebas",
+    "recurso de casación",
+    "derecho de defensa",
+    "debido proceso",
+    "testimoniales",
+    "inadmision de pruebas",
+    "arbitrariedad judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0652_E23-0382.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338648-0652-71124-2024-23-0382.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.441870"
+}

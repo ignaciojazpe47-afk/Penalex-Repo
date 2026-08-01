@@ -1,0 +1,23 @@
+{
+  "id": 48632,
+  "numero": "0725",
+  "fecha": "2018-10-22",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de Gianmarco Briceño Bacchin sobre la decisión N° 989 de la Sala de Casación Civil, que había declarado con lugar un recurso de casación. El solicitante argumentó que la sentencia violó sus derechos al no pronunciarse sobre alegatos de defensa y al incurrir en vicios de ultrapetita y extrapetita. La Sala, tras analizar los argumentos, decidió que la revisión era procedente y ordenó la consignación de documentos para continuar con el proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "casación civil",
+    "derechos procesales",
+    "indexación judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-22_S0725_E17-0639.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/301820-0725-221018-2018-17-0639.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:08.230106"
+}

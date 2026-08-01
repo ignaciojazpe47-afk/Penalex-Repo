@@ -1,0 +1,24 @@
+{
+  "id": 29431,
+  "numero": "0170",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Fabio Rafael Ulpino Therán, en representación de la sociedad mercantil Instalaciones Ulpino TH, C.A., contra la decisión del Juzgado Superior Primero que declaró con lugar una demanda de desalojo. La Sala determinó que la sentencia impugnada vulneró derechos fundamentales como el debido proceso y la defensa, al no considerar la naturaleza del contrato de arrendamiento, que era a tiempo determinado, y al permitir una acumulación inepta de pretensiones. Se ordenó la nulidad de la decisión del Juzgado Superior y se instruyó a otro tribunal para que emita un nuevo pronunciamiento sobre el recurso de apelación.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Desalojo",
+    "Arrendamiento",
+    "Debido Proceso",
+    "Tutela Judicial"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-22_S0170_E22-0693.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323831-0170-22323-2023-22-0693.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.067585"
+}

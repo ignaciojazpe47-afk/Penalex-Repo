@@ -1,0 +1,22 @@
+{
+  "id": 27735,
+  "numero": "0941",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 20 de noviembre de 2024, declaró inadmisible el amparo constitucional interpuesto por Jesús Ramón Quino González y Lidia Susana González de Quino, en contra de actuaciones judiciales por fraude procesal. La decisión se fundamentó en que existía una vía ordinaria para la resolución del conflicto, lo que llevó a la inadmisibilidad del recurso. Además, se confirmó que el amparo no era el mecanismo adecuado para tratar denuncias de fraude procesal, y se destacó que la situación alegada había cesado, lo que también justificó la inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fraude procesal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0941_E24-0341.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339218-0941-201124-2024-24-0341.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.197705"
+}

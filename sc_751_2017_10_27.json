@@ -1,0 +1,24 @@
+{
+  "id": 54185,
+  "numero": "751",
+  "fecha": "2017-10-27",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agrario",
+  "decision": "No Conforme a Derecho",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 22 de febrero de 2017 por el Juzgado Primero de Primera Instancia Agraria de Barinas, que desaplicó por control difuso los artículos 673 y siguientes del Código de Procedimiento Civil en un juicio de rendición de cuentas. La Sala concluyó que la desaplicación fue errada, ya que el juicio debía tramitarse conforme al procedimiento ordinario agrario establecido en la Ley de Tierras y Desarrollo Agrario, y no bajo las normas del derecho común. Por lo tanto, se declaró no conforme a derecho la desaplicación efectuada y se anuló parcialmente la decisión del juzgado agrario.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "Código de Procedimiento Civil",
+    "derecho agrario",
+    "rendición de cuentas"
+  ],
+  "titulo": "Sentencia sobre desaplicación de normas del Código de Procedimiento Civil en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S751_E17-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204544-751-271017-2017-17-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:58.559039"
+}

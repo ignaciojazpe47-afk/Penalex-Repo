@@ -1,0 +1,23 @@
+{
+  "id": 44981,
+  "numero": "0514",
+  "fecha": "2019-12-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia N° 17-0902, declara inadmisible la acción de amparo constitucional interpuesta por Ana Valentina Heredia Hernández contra las Resoluciones N° 170607-118 y N° 170607-119 del Consejo Nacional Electoral. La Sala acepta la declinatoria de competencia del Tribunal Superior Estadal Contencioso Administrativo de Aragua y se declara competente para conocer el caso, pero determina que la acción es inadmisible debido a la existencia de cosa juzgada sobre el asunto. La decisión se fundamenta en que las resoluciones impugnadas ya habían sido objeto de pronunciamiento previo por parte de la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Consejo Nacional Electoral",
+    "Asamblea Nacional Constituyente",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-18_S0514_E17-0902.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309239-0514-181219-2019-17-0902.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.807033"
+}

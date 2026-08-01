@@ -1,0 +1,23 @@
+{
+  "id": 27010,
+  "numero": "0496",
+  "fecha": "2024-06-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Corte Constitucional declara inadmisible la acción de amparo interpuesta por los abogados Marco Padilla y Rosa Dorita de Freitas Vieira en representación de Danny Josué Padilla Bermúdez, contra la decisión del Tribunal Segundo de Primera Instancia en funciones de Control del Circuito Judicial Penal del Estado Yaracuy. La acción fue considerada inadmisible por no haber agotado las vías ordinarias de apelación. La Corte reafirma que el amparo no puede ser utilizado como sustituto de los recursos ordinarios disponibles en el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0496_E23-0618.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338384-0496-301024-2024-23-0618.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.645736"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 29412,
+  "numero": "0151",
+  "fecha": "2023-03-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Tribunal Superior Primero de Civil y la Sala de Casación Social, en relación a una acción de amparo constitucional interpuesta por Jesús Natera Velásquez. La Sala declaró su competencia para conocer del caso, remitiendo el expediente al Juzgado Superior Agrario del Circuito Judicial del Estado Monagas, dado que la acción de amparo se refería a una sentencia dictada por un tribunal agrario. La decisión se fundamenta en la necesidad de garantizar el debido proceso y la tutela judicial efectiva en el contexto de derechos colectivos y difusos.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "sentencias",
+    "intereses",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-21_S0151_E21-0100.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323812-0151-21323-2023-21-0100.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.329163"
+}

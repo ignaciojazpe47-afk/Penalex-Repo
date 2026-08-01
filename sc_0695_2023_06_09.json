@@ -1,0 +1,25 @@
+{
+  "id": 30747,
+  "numero": "0695",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Noé Enoc Mujica Veliz contra el Consejo Nacional Electoral, argumentando que no se cumplen las condiciones necesarias para su admisión. Se establece que la demanda no se corresponde con una acción de amparo por intereses colectivos y difusos, sino que debe ser considerada como una acción autónoma de amparo constitucional. Además, se señala que el demandante tenía a su disposición vías judiciales idóneas que no fueron utilizadas.",
+  "palabras_clave": [
+    "acción de amparo",
+    "derechos constitucionales",
+    "participación política",
+    "abandonos de trámite",
+    "orden público",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0695_E17-1180.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325966-0695-9623-2023-17-1180.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.415658"
+}

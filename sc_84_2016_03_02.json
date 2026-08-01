@@ -1,0 +1,24 @@
+{
+  "id": 56214,
+  "numero": "84",
+  "fecha": "2016-03-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Quinto de lo Contencioso Administrativo que declaró sin lugar la querella funcionarial presentada por Francisco José Cárdenas contra el Ministerio del Poder Popular para la Salud. La Sala determinó que la sentencia impugnada vulneró los derechos constitucionales de acceso a la justicia y tutela judicial efectiva, al aplicar un lapso de caducidad que no era aplicable a la querella funcionarial. Se concluyó que la querella fue interpuesta dentro del plazo legal, por lo que se declaró ha lugar la solicitud de revisión y se anuló la sentencia del juzgado inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "querella funcionarial",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de querella funcionarial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-02_S84_E15-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185782-84-2316-2016-15-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.603774"
+}

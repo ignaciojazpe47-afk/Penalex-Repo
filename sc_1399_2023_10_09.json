@@ -1,0 +1,25 @@
+{
+  "id": 32170,
+  "numero": "1399",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por el abogado Juan Miguel Aponte Moreno en representación de José Gregorio Peñalver Piñango, contra el presunto retardo procesal del Tribunal Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Aragua. La Sala determina que la competencia corresponde a una de las Salas de la Corte de Apelaciones del mismo circuito judicial.\n\nLa decisión se fundamenta en la Ley Orgánica del Tribunal Supremo de Justicia, que establece que corresponde a la Corte de Apelaciones conocer de las acciones de amparo contra decisiones de tribunales inferiores. La Sala ordena la remisión del expediente a la Presidencia del Circuito Judicial Penal del Estado Aragua para su debida distribución.\n\nFinalmente, se notifica al abogado demandante sobre la decisión y se ordena la publicación y registro de la misma.",
+  "palabras_clave": [
+    "amparo",
+    "retardo procesal",
+    "competencia",
+    "derechos constitucionales",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1399_E21-0660.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328990-1399-91023-2023-21-0660.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.408420"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17544,
+  "numero": "0025",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ANULA la sentencia dictada el 15 de enero de 2025, INADMISIBLE la acción de amparo constitucional",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 15 de enero de 2025 por el Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del estado Lara, que había declarado con lugar una acción de amparo constitucional. La Sala determinó que el recurso de amparo no era la vía idónea, ya que existía un medio ordinario para la protección de los derechos del demandante, lo que llevó a declarar inadmisible la acción de amparo. En consecuencia, se anuló la sentencia impugnada y se mantuvieron vigentes los efectos de la decisión anterior del 4 de diciembre de 2024.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "tutela judicial",
+    "constitucionalidad",
+    "procedimiento administrativo"
+  ],
+  "titulo": "Revisión de sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0025_E25-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352693-0025-18226-2026-25-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.072015"
+}

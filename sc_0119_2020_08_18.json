@@ -1,0 +1,24 @@
+{
+  "id": 41405,
+  "numero": "0119",
+  "fecha": "2020-08-18",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por militantes del Partido TUPAMARO, quienes denunciaron violaciones a sus derechos políticos y al debido proceso por parte de la Dirección Nacional del partido. La Sala declaró competente para conocer del caso y decretó medidas cautelares, incluyendo la suspensión de la actual Junta Directiva y el nombramiento de una Junta Directiva Ad Hoc para reestructurar la organización política.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "TUPAMARO",
+    "Derechos Políticos",
+    "Debido Proceso",
+    "Junta Directiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre la Dirección Nacional del Partido TUPAMARO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-18_S0119_E20-0127.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310058-0119-18820-2020-20-0127.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.095863"
+}

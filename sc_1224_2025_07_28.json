@@ -1,0 +1,27 @@
+{
+  "id": 21210,
+  "numero": "1224",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de julio de 2025, declaró sin lugar el recurso de apelación interpuesto por los abogados Eliezer Navarro y Ramón Navas en representación de Andrés Mauricio Ramírez, contra la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte de Apelaciones había fundamentado su decisión en la existencia de medios ordinarios para resolver la pretensión del accionante, lo que llevó a la inadmisibilidad del amparo. La Sala Constitucional reafirmó la competencia para conocer del recurso y confirmó la decisión de la Corte de Apelaciones, enfatizando la necesidad de agotar las vías ordinarias antes de recurrir al amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "proceso penal",
+    "inadmisibilidad",
+    "recursos",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1224_E24-1169.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346521-1224-28725-2025-24-1169.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.375516"
+}

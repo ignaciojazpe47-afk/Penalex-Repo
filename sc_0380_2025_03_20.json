@@ -1,0 +1,27 @@
+{
+  "id": 18938,
+  "numero": "0380",
+  "fecha": "2025-03-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Carlos Julio González en representación de los ciudadanos Jesús Rafael Andrade Benítez y Luis Gustavo Guevara. La acción se dirigía contra la sentencia dictada el 29 de julio de 2024 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Sucre, que había declarado la nulidad absoluta del acto de imputación. La Sala concluye que no se configura la violación constitucional alegada, confirmando así la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "apelación",
+    "efecto suspensivo",
+    "falta de motivación",
+    "nulidad",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "acción de amparo",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-20_S0380_E24-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342475-0380-20325-2025-24-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.723877"
+}

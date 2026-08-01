@@ -1,0 +1,26 @@
+{
+  "id": 18876,
+  "numero": "0348",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Romer Vásquez en representación de Gerardo Jaime Chirinos, contra el Tribunal Sexto de Primera Instancia en Funciones de Ejecución. La acción se fundamentó en la supuesta violación de derechos constitucionales, incluyendo la libertad y el debido proceso. Tras el análisis del caso, la Sala determinó que no era competente para conocer del amparo y declinó la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "constitucionales",
+    "justicia",
+    "sentencias"
+  ],
+  "titulo": "Declaratoria de incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0348_E24-1119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342379-0348-18325-2025-24-1119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.725837"
+}

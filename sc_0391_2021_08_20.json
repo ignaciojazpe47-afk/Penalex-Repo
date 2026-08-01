@@ -1,0 +1,23 @@
+{
+  "id": 39341,
+  "numero": "0391",
+  "fecha": "2021-08-20",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Astrid Carratalá Puigbo, quien impugnó una sentencia de la Corte de Apelaciones que declaró con lugar un recurso de apelación y anuló un fallo de un tribunal inferior. La Sala determinó que la sentencia impugnada incurrió en un error inexcusable al ordenar la remisión de actuaciones a la Fiscalía, lo que contradice el principio de jurisdicción adecuada en conflictos societarios. En consecuencia, se ordenó la nulidad de las medidas cautelares impuestas y se reafirmaron criterios sobre la prejudicialidad civil sobre la penal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "aprehensión",
+    "jurisdicción penal",
+    "conflicto societario"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de aprehensión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-20_S0391_E20-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/313085-0391-20821-2021-20-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.637918"
+}

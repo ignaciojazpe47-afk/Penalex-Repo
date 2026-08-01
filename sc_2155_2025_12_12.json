@@ -1,0 +1,26 @@
+{
+  "id": 23967,
+  "numero": "2155",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento presentada por el abogado Javier Carvallo Cristo en representación de Antonio Carvallo Cristo. La solicitud se refería a un juicio de nulidad de contrato y del asiento registral, que cursa en el Juzgado Primero de Municipio Ordinario y Ejecutor de Medidas del Municipio Iribarren, estado Lara. La Sala declina el conocimiento del asunto a la Sala de Casación Civil, ordenando el envío del expediente correspondiente.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial efectiva",
+    "inseguridad jurídica",
+    "debido proceso",
+    "juez natural",
+    "competencia",
+    "derechos patrimoniales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2155_E25-0816.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352030-2155-121225-2025-25-0816.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.739379"
+}

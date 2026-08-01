@@ -1,0 +1,25 @@
+{
+  "id": 17588,
+  "numero": "0170",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Audrey del Carmen Dorta Sánchez presentó una acción de amparo constitucional contra el Juez Rector Luis Fernando Jesús Mory Duque por la omisión en la designación de un juez accidental y la falta de respuesta a sus peticiones. La Sala Constitucional del TSJ, tras analizar la solicitud, determinó que la acción de amparo era inadmisible, ya que las violaciones alegadas no eran atribuibles al Juez Rector. La Sala se declaró competente para conocer el caso, pero concluyó que no se cumplían los requisitos para la admisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmisibilidad",
+    "jueces",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0170_E25-1032.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353166-0170-2326-2026-25-1032.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.376949"
+}

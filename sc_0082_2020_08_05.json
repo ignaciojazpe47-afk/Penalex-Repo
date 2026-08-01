@@ -1,0 +1,23 @@
+{
+  "id": 41353,
+  "numero": "0082",
+  "fecha": "2020-08-05",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional interpuesta por ciudadanos en representación de niños, niñas y adolescentes afectados por el cierre del Colegio Inmaculada Concepción. Se argumentó que el cierre del colegio vulneraba el derecho a la educación, en un contexto de emergencia por la pandemia de COVID-19, y que las decisiones tomadas por los propietarios del colegio eran arbitrarias y no cumplían con los procedimientos legales establecidos.\nLa Sala, al analizar la situación, determinó que el derecho a la educación es un derecho colectivo de interés nacional y que el Estado tiene la obligación de garantizarlo. Se ordenó la notificación de las partes y se estableció una audiencia para discutir el caso, enfatizando la necesidad de proteger los derechos de los estudiantes y asegurar su acceso a la educación.\nFinalmente, la Sala declaró la competencia para conocer el caso y admitió la acción de amparo, resaltando la importancia de la tutela judicial efectiva en la protección de los derechos fundamentales de los niños y adolescentes.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la Educación",
+    "Cierre de Colegio",
+    "Derechos Colectivos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por derechos colectivos en protección del derecho a la educación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-05_S0082_E20-0216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/309999-0082-5820-2020-20-0216.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.115001"
+}

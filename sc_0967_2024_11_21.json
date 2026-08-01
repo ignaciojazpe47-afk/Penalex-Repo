@@ -1,0 +1,26 @@
+{
+  "id": 27789,
+  "numero": "0967",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Michael Satrughna Stanley contra decisiones de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui. Se argumenta que la Corte de Apelaciones actuó dentro de su competencia y motivó adecuadamente su decisión, señalando vicios de inmotivación en la sentencia del Tribunal de Primera Instancia que decretó el sobreseimiento de la causa a favor del accionante. La Sala concluye que no se evidencian violaciones a derechos constitucionales en las decisiones impugnadas.",
+  "palabras_clave": [
+    "amparo",
+    "proceso penal",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0967_E23-0237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339280-0967-211124-2024-23-0237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.134924"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20937,
+  "numero": "1138",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Virginia Rosa Parés Rojas contra la decisión del Juzgado Superior Sexto que declaró parcialmente con lugar la acción de amparo constitucional. La Sala determinó que la apelación fue presentada de manera tempestiva y analizó si la sentencia recurrida se ajustaba a derecho, concluyendo que se configuró una vulneración al debido proceso y a la tutela judicial efectiva por parte del Juez de instancia al no permitir la apertura del lapso probatorio correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1138_E24-0628.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346045-1138-14725-2025-24-0628.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.389855"
+}

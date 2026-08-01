@@ -1,0 +1,26 @@
+{
+  "id": 32991,
+  "numero": "1560",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los ciudadanos Josefina Tuguez de Trémols y José Félix Rivas Sánchez, quienes impugnaron un reglamento electoral de la Universidad Nacional Abierta. La Sala determinó su competencia para conocer del caso, pero declaró improcedente la solicitud de avocamiento, argumentando que no existían desordenes procesales ni violaciones al ordenamiento jurídico que justificaran su intervención. Además, se destacó que la Sala Electoral ya había dictado la medida cautelar solicitada.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "justicia",
+    "proceso",
+    "derechos",
+    "tribunal",
+    "normativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1560_E14-1099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330615-1560-271123-2023-14-1099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.419624"
+}

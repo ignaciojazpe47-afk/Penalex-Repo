@@ -1,0 +1,23 @@
+{
+  "id": 3290,
+  "numero": "3.008",
+  "fecha": "2006-03-10",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Jhonny José Istúriz Correa contra la decisión del Juzgado Superior Tercero del Trabajo que declaró sin lugar su apelación sobre la calificación de despido. La Sala encontró que el Juzgado de instancia no consideró adecuadamente los alegatos del accionante sobre la retención de sus prestaciones sociales para compensar una deuda hipotecaria, lo que vulneró sus derechos constitucionales al debido proceso y a la defensa. En consecuencia, se anuló el fallo impugnado y se ordenó al Juzgado Superior que emita una nueva decisión respetando los derechos del trabajador.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "despido injustificado",
+    "prestaciones sociales",
+    "Electricidad de Caracas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-03-10_Constitucional_04.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.504224"
+}

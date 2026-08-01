@@ -1,0 +1,25 @@
+{
+  "id": 31568,
+  "numero": "0963",
+  "fecha": "2023-07-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Elías Antonio Castro Guerra y María del Carmen Navas Alvarado en representación del Teniente Coronel Adrián Madero Vargas. La acción fue presentada contra la omisión de la Corte Marcial en informar sobre la remisión de una apelación. La Sala argumenta que los abogados no presentaron el poder que los acreditara como defensores del accionante, lo que constituye una falta de legitimidad para actuar en juicio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "representación",
+    "poder",
+    "Corte Marcial",
+    "justicia militar"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-21_S0963_E22-0511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327408-0963-21723-2023-22-0511.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.199925"
+}

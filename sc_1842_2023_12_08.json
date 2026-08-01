@@ -1,0 +1,24 @@
+{
+  "id": 33508,
+  "numero": "1842",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 9 de enero de 2020, que declaró con lugar la demanda por resolución de contrato de opción de compra-venta. Se argumentó que la defensora ad litem no cumplió con sus deberes, dejando a la demandada en indefensión. La Sala concluyó que la actuación de la defensora fue deficiente, lo que vicia el proceso y afecta el derecho a la defensa. Por lo tanto, se declaró con lugar la revisión, anulando la sentencia impugnada y ordenando la reposición del proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "defensora ad litem",
+    "indefensión",
+    "resolución de contrato",
+    "compra-venta"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia por Resolución de Contrato de Opción de Compra-Venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1842_E23-0860.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331377-1842-81223-2023-23-0860.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.470271"
+}

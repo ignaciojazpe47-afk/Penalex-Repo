@@ -1,0 +1,26 @@
+{
+  "id": 28034,
+  "numero": "1123",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Braulio de Jesús Solórzano, quien alegó violaciones a sus derechos por la falta de notificación en un proceso de intimación de cobro. La Sala revocó la decisión del Juzgado Superior que había declarado con lugar la acción de amparo, considerando que no se evidenció la falta de estadía de derecho ni la necesidad de notificación a las partes. Se declaró sin lugar la acción de amparo, manteniendo la vigencia del auto de abocamiento dictado anteriormente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "inhibición",
+    "cobro",
+    "procedimiento civil",
+    "juzgado",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1123_E24-0256.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339703-1123-281124-2024-24-0256.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.474838"
+}

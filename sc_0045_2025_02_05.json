@@ -1,0 +1,25 @@
+{
+  "id": 18195,
+  "numero": "0045",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC.000072, dictada por la Sala de Casación Civil, que había declarado con lugar un recurso extraordinario de casación. Los solicitantes argumentaron que la decisión conculcaba sus derechos a la vivienda y a la seguridad social. Sin embargo, la Sala Constitucional determinó que la sentencia de la Sala de Casación Civil fue motivada y congruente, y que no se evidenciaron violaciones a los derechos constitucionales denunciados. Por lo tanto, se declaró no ha lugar la solicitud de revisión y se consideró inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "derechos humanos",
+    "vivienda",
+    "moneda extranjera",
+    "protección al deudor",
+    "tutela judicial",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión de la sentencia RC.000072 del 30 de julio de 2020",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0045_E22-0072.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341211-0045-5225-2025-22-0072.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.566186"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 42747,
+  "numero": "0096",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por C.A. CERVECERÍA REGIONAL contra una sentencia que declaró inadmisible su acción de amparo constitucional. La Sala determinó su competencia para conocer del recurso y consideró que la apelación fue ejercida de manera tempestiva. Se cuestionó la jurisdicción del Poder Judicial para conocer de las acciones por cumplimiento de contrato y daños y perjuicios, alegando la existencia de cosa juzgada en relación a un caso anterior.",
+  "palabras_clave": [
+    "tutela judicial",
+    "medidas cautelares",
+    "derechos constitucionales",
+    "proceso civil",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0096_E19-0019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304838-0096-14519-2019-19-0019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.592124"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33344,
+  "numero": "567",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "ELSA JANETH GÓMEZ MORENO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia, en su sentencia número 249, desestima el recurso de casación interpuesto por los abogados de la víctima, confirmando la decisión de la Corte de Apelaciones que había declarado inadmisibles las acusaciones contra el ciudadano Silverio Cruz Pérez Medina. La Corte de Apelaciones había confirmado el sobreseimiento de la causa dictado por el Tribunal Primero de Primera Instancia Municipal, al considerar que no existían pruebas suficientes para sostener las acusaciones de hurto agravado y agavillamiento.",
+  "palabras_clave": [
+    "casación",
+    "hurto agravado",
+    "agavillamiento",
+    "sobreseimiento"
+  ],
+  "titulo": "Sentencia de Casación sobre el recurso interpuesto por la víctima",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2023-12-07_S567_C23-511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/diciembre/331204-567-71223-2023-C23-511.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:46.905928"
+}

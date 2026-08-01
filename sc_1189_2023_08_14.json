@@ -1,0 +1,24 @@
+{
+  "id": 34082,
+  "numero": "1189",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por Gritzko Gabriel Terán Mogollón contra la decisión de la Sala Única de la Corte de Apelaciones en Materia de Delitos de Violencia contra la Mujer, que declaró inadmisible su acción de amparo constitucional. La Corte de Apelaciones argumentó que la falta de designación de un defensor público no representaba una amenaza posible y realizable para el demandante, dado que el recurso de apelación no estaba en trámite debido a la suspensión del asunto penal por remisión al tribunal de origen para correcciones. La Sala Constitucional confirma esta decisión, enfatizando la importancia de la asistencia legal en los procedimientos de amparo y la necesidad de evitar reposiciones inútiles en el proceso judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "notificación",
+    "derechos humanos",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1189_E18-0401.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328393-1189-14823-2023-18-0401.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.869522"
+}

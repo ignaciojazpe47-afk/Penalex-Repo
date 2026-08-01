@@ -1,0 +1,22 @@
+{
+  "id": 34075,
+  "numero": "1182",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Ha Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Fernando José Marrero, quien impugnó la sentencia del Juzgado Superior Quinto del Trabajo que declaró inadmisible su acción de amparo constitucional. La Sala concluyó que el Juzgado había infringido derechos fundamentales al no considerar la contumacia del patrono en el cumplimiento de órdenes administrativas de reenganche y pago de salarios caídos. Por lo tanto, se declaró ha lugar la revisión y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo laboral",
+    "contumacia patronal"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1182_E22-0916.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328386-1182-14823-2023-22-0916.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.691867"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23421,
+  "numero": "1936",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jesús David González Biord, debido a la falta de presentación de la copia certificada de la decisión impugnada, lo que contraviene el artículo 133.2 de la Ley Orgánica del Tribunal Supremo de Justicia. La decisión de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que declaró sin lugar la apelación, fue el motivo de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "carga procesal",
+    "documentación",
+    "Ley Orgánica",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1936_E25-0838.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350822-1936-281125-2025-25-0838.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.792576"
+}

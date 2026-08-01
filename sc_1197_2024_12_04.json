@@ -1,0 +1,23 @@
+{
+  "id": 28146,
+  "numero": "1197",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la solicitud de revisión constitucional presentada por MOTORES RUDI, C.A. contra la sentencia de la Sala de Casación Civil que había declarado sin lugar un recurso de casación. La Sala constató que el juez de alzada actuó conforme a derecho al determinar la falta de cualidad del demandante para intentar la acción de retracto legal arrendaticio, ya que la relación arrendaticia había concluido antes de la venta de los locales comerciales. Además, se desestimaron las denuncias de incongruencia negativa e inmotivación, así como el quebrantamiento de formas procesales, al no evidenciarse vulneración de derechos fundamentales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "recurso de casación",
+    "retracto legal arrendaticio",
+    "falta de cualidad"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1197_E23-1154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340036-1197-41224-2024-23-1154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.038282"
+}

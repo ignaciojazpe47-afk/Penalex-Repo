@@ -1,0 +1,23 @@
+{
+  "id": 8081,
+  "numero": null,
+  "fecha": "2009-01-26",
+  "anio": 2009,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Desistido",
+  "ponente": "Miriam Morandy Mijares",
+  "resumen": "La sentencia se refiere al caso de Daniel Antonio Alvarado Sereno, quien fue condenado a ocho años y dos meses de prisión por homicidio intencional en grado de frustración y resistencia a la autoridad. La Corte de Apelaciones declaró desistido el recurso de apelación interpuesto por la defensa, argumentando falta de comparecencia a la audiencia. La Sala de Casación Penal revisó el fallo y encontró vicios en el proceso, como la falta de motivación y la inobservancia de las formalidades de citación, lo que afectó el derecho a la defensa del acusado. Finalmente, se ordenó la reposición de la causa para garantizar el derecho a la defensa y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "desistimiento",
+    "recurso de apelación",
+    "homicidio",
+    "resistencia a la autoridad"
+  ],
+  "titulo": "Sentencia sobre desistimiento de recurso de apelación en caso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2009_9.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:53.307457"
+}

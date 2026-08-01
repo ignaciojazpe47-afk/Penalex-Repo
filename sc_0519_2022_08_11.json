@@ -1,0 +1,27 @@
+{
+  "id": 36150,
+  "numero": "0519",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Impropio en Derecho",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible en derecho la acción de amparo ejercida contra la sentencia N° 0068 del 05 de junio de 2020. Los demandantes argumentaron que el Consejo Nacional Electoral había vulnerado sus derechos al establecer un sistema de elección de representantes indígenas que no se ajusta a sus usos y costumbres. Sin embargo, la Sala determinó que no existe un mecanismo procesal para impugnar decisiones de la propia Sala, lo que llevó a la declaración de improponibilidad de la solicitud.",
+  "palabras_clave": [
+    "recurso",
+    "amparo",
+    "constitucional",
+    "jurisprudencia",
+    "cosa juzgada",
+    "inimpugnabilidad",
+    "decisiones",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre recurso de acción de amparo constitucional de revisión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0519_E21-0594.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319176-0519-11822-2022-21-0594.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.563711"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 69075,
+  "numero": "37",
+  "fecha": "2014-02-18",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Segundo que declaró la caducidad de la acción de indemnización presentada por FORMICONI, C.A. contra Multinacional de Seguros, C.A. La Sala determinó que la cláusula de caducidad impuesta por la aseguradora contradecía el artículo 55 de la Ley de Contrato de Seguros, que establece un plazo mínimo de doce meses para demandar tras el rechazo de una reclamación. La Sala concluyó que la cláusula era nula y que el Juzgado había violado el derecho a la tutela judicial efectiva de la demandante al aplicar dicha cláusula.",
+  "palabras_clave": [
+    "caducidad",
+    "contrato de seguro",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión de caducidad en contrato de seguro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-02-18_S37_E13-0234.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/161333-37-18214-2014-13-0234.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:17.055673"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24272,
+  "numero": "0144",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Alcides Antonio Hidalgo Paredes, quien solicitó amparo constitucional tras la inadmisibilidad de su acción por parte de la Corte de Apelaciones del Circuito Judicial Penal. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que el demandante no había agotado las vías ordinarias disponibles para impugnar la decisión que ordenaba su desalojo. La Sala Constitucional confirmó esta decisión, señalando que el demandante contaba con medios judiciales idóneos que no utilizó, lo que llevó a la inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "debido_proceso",
+    "violencia_contra_la_mujer",
+    "desalojo",
+    "derechos_de_propiedad",
+    "medidas_cautelares",
+    "ley_organica"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0144_E22-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332653-0144-20224-2024-22-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.559626"
+}

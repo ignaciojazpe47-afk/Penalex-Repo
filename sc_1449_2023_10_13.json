@@ -1,0 +1,26 @@
+{
+  "id": 32295,
+  "numero": "1449",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Zulay Esther Sanabria Peña interpuso una acción de amparo constitucional contra una sentencia del Juzgado Superior Primero en lo Civil, que declaró inadmisible su recurso de apelación. La Sala Constitucional del TSJ, al analizar el caso, determinó que la acción de amparo era inadmisible debido a que la demandante había consentido la decisión al no interponerla dentro del plazo establecido tras haber sido notificada de la sentencia en julio de 2022. La Sala declaró su competencia para conocer del asunto, pero finalmente inadmitió la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "consentimiento",
+    "derechos",
+    "garantías",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1449_E23-0571.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329324-1449-131023-2023-23-0571.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.399176"
+}

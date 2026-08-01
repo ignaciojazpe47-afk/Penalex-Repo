@@ -1,0 +1,25 @@
+{
+  "id": 35441,
+  "numero": "0327",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por Edgardo Alí Uzcátegui Pavón, en representación de Keiber José Hernández Vale, contra la decisión del Juzgado Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Zulia, que negó una medida humanitaria. La Sala determina que la competencia corresponde a las Cortes de Apelaciones del mismo circuito judicial, declinando así su conocimiento.",
+  "palabras_clave": [
+    "medida humanitaria",
+    "cambio de reclusión",
+    "peligro de fuga",
+    "salud",
+    "derechos humanos",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0327_E22-0139.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317907-0327-13722-2022-22-0139.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.220887"
+}

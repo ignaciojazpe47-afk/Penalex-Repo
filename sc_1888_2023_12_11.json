@@ -1,0 +1,26 @@
+{
+  "id": 33741,
+  "numero": "1888",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento interpuesta por Rosa María Santaromita Pffannennschmitd en representación de Luis Franco de Aveiro y la empresa Grupo + 58 C.A. La solicitud se refiere a una causa penal que se tramita ante el Juzgado Especial Primero de Primera Instancia Estadal en Función de Control, relacionada con delitos asociados al terrorismo y corrupción. La Sala declina la competencia a la Sala de Casación Penal, ordenando el remitir el expediente correspondiente.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "derechos laborales",
+    "jurisdicción",
+    "medidas cautelares",
+    "constitucionalidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1888_E20-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331858-1888-111223-2023-20-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.452014"
+}

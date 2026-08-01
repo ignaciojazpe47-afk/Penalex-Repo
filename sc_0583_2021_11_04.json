@@ -1,0 +1,25 @@
+{
+  "id": 40080,
+  "numero": "0583",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible por extemporáneo el recurso de apelación interpuesto por el abogado Pedro Elías Aristigueta Correa, defensor de los ciudadanos Gerardo Gabriel Escalona Valera y Santis Eliud Montilla González. La apelación fue presentada fuera del lapso de tres días establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a la firmeza de la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara, que había declarado inadmisible la acción de amparo interpuesta el 8 de octubre de 2020.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "libertad",
+    "proceso",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0583_E21-110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314081-0583-41121-2021-21-110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.109849"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30311,
+  "numero": "0529",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional recibió un escrito de amparo constitucional interpuesto por los abogados de Robert Gustavo Terán Barrios, quien se encuentra privado de libertad y sin defensa técnica. Se alegó que la Corte de Apelaciones no había notificado a los abogados sobre su juramentación, lo que vulnera derechos fundamentales del imputado. La Sala ordenó a la Secretaría que oficie al presidente del Circuito Judicial para que informe sobre el estado de la causa y la juramentación de los abogados designados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0529_E23-0113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325157-0529-16523-2023-23-0113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.861337"
+}

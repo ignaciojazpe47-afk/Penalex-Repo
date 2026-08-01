@@ -1,0 +1,24 @@
+{
+  "id": 50662,
+  "numero": "107",
+  "fecha": "2017-03-20",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de apelación interpuesto por las defensoras de Juan Cristóbal Espinoza Briceño, anulando la decisión de la Corte de Apelaciones que había declarado sin lugar el amparo constitucional. Se establece que la decisión del Juzgado Cuarto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Anzoátegui, que no se pronunció adecuadamente sobre la nulidad de las actuaciones policiales, incurrió en inmotivación. La Sala ordena la reposición de la causa para que otro tribunal se pronuncie sobre la solicitud de nulidad y levanta la medida cautelar que mantenía al accionante en reclusión, permitiendo su libertad durante el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "inmotivación",
+    "allanamiento"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Juan Cristóbal Espinoza Briceño",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-20_S107_E16-0630.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/197021-107-20317-2017-16-0630.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.263438"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 16709,
+  "numero": "0608",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Anabel del Carmen Hernández Robles",
+  "resumen": "La Corte Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por el abogado Edgar José Hernández Rodríguez en representación de José Rafael Hernández. La acción fue declarada inadmisible por la Corte de Apelaciones Accidental del Circuito Judicial Penal del estado Anzoátegui, al no evidenciarse una lesión actual, cierta y directa a los derechos constitucionales invocados, dado que la presentación del escrito de acusación por parte del Ministerio Público subsanó el posible supuesto de decaimiento de la medida privativa de libertad impuesta al imputado.\n\nEl tribunal concluyó que la acción de amparo no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que la amenaza contra los derechos alegados no era inmediata ni realizable. Por lo tanto, se confirmó la decisión de la Corte de Apelaciones, declarando sin lugar el recurso de apelación interpuesto por la defensa.\n\nFinalmente, la Sala Constitucional reafirmó su competencia para conocer del recurso y ratificó la inadmisibilidad de la acción de amparo, destacando la importancia de la presentación oportuna de la acusación fiscal en el proceso penal.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0608_E25-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355601-0608-13526-2026-25-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.889124"
+}

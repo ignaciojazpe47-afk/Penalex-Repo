@@ -1,0 +1,25 @@
+{
+  "id": 35223,
+  "numero": "0239",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetencia",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Ghengis Alejandro Mosquera Werner en representación de Ángel Moisés Mosquera Werner, contra el Tribunal Primero de Primera Instancia en Funciones de Juicio con Competencia en Delitos de Violencia contra la Mujer. La acción fue motivada por la omisión en la publicación de la sentencia y el acceso a las copias de las actas del juicio. La Sala también declara terminado el procedimiento por abandono de trámite debido a la inactividad del accionante por más de seis meses.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos constitucionales",
+    "abandonos",
+    "proceso penal",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0239_E21-0582.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317645-0239-29622-2022-21-0582.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.614341"
+}

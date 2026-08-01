@@ -1,0 +1,22 @@
+{
+  "id": 40500,
+  "numero": "0686",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de noviembre de 2021, declaró sin lugar la solicitud de revisión constitucional presentada por el abogado Freddy Ferrer Medina, defensor de Héctor José Cuenca Miranda. La revisión se refería a una sentencia de la Sala N° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había declarado sin lugar un recurso de apelación en un caso de homicidio calificado. La Sala Constitucional concluyó que no se habían vulnerado derechos ni garantías constitucionales en el proceso penal seguido contra los acusados.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "homicidio calificado",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión Constitucional sobre decisión de apelación en caso de homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0686_E19-0620.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314762-0686-261121-2021-19-0620.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.499730"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 31016,
+  "numero": "0799",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por el abogado Raúl Guillermo Díaz Valencia, en representación de los ciudadanos Sandy Beltrán Torres y Johan Enrique Ilarraza Izaguirre, contra la sentencia dictada el 25 de junio de 2021 por la Corte de Apelaciones en Penal Ordinario y Responsabilidad Penal del Adolescente del Circuito Judicial Penal del Estado La Guaira. La Corte de Apelaciones había declarado sin lugar el recurso de apelación interpuesto por la defensa pública, en relación a la presunta comisión del delito de violación de domicilio, previsto en el artículo 184 del Código Penal.\n\nLa Sala Constitucional argumenta que la inviolabilidad del domicilio es un derecho fundamental y que el delito de violación de domicilio no prescribe, por lo que se debe continuar con el proceso penal. Se concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró las garantías constitucionales de los accionantes, quienes pretendían que se revisara un asunto ya resuelto judicialmente.\n\nFinalmente, se confirma la decisión del tribunal inferior, manteniendo las medidas cautelares impuestas a los imputados, y se archiva el expediente.",
+  "palabras_clave": [
+    "violacion de domicilio",
+    "prescripcion",
+    "derechos humanos",
+    "codigo penal",
+    "codigo organico procesal penal",
+    "accion de amparo",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0799_E21-0800.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326455-0799-26623-2023-21-0800.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.546079"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2326,
+  "numero": null,
+  "fecha": "2001-03-02",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derecho Laboral",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 2 de marzo de 2001, declaró improcedente la acción de amparo interpuesta por la empresa FAPARCA contra la decisión del Juzgado Superior que calificó el despido de la trabajadora Migdalia Vargas como injustificado. La empresa alegó que la sentencia lesionó su derecho a la defensa y a una tutela judicial efectiva, argumentando incongruencias en la decisión del tribunal inferior. Sin embargo, la Sala consideró que los planteamientos de la empresa eran de simple apreciación jurídica y no constituían violaciones a derechos constitucionales. La Sala reafirmó su competencia para conocer de acciones de amparo y destacó que el amparo no puede ser utilizado como una tercera instancia para revisar errores de juzgamiento.",
+  "palabras_clave": [
+    "amparo",
+    "despido",
+    "injustificado",
+    "derecho laboral",
+    "tutela judicial",
+    "competencia",
+    "carga de la prueba",
+    "violación constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-02_Constitucional_00_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.712150"
+}

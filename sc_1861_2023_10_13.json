@@ -1,0 +1,23 @@
+{
+  "id": 33527,
+  "numero": "1861",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por las abogadas María Alejandra Palma y Urimare Muñoz Castillo, en representación de José Rafael de la Trinidad Chitty de Angelis, contra la decisión de la Sala Ocho de la Corte de Apelaciones que declaró sin lugar la recusación presentada contra el juez Leider Ramírez Sánchez. La Sala Constitucional consideró que la decisión apelada vulneró el derecho a la defensa y al debido proceso, al no permitir la presentación de pruebas en apoyo a la recusación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recusación",
+    "debido proceso",
+    "imparcialidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1861_E23-1039.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331396-1861-81223-2023-23-1039.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.392599"
+}

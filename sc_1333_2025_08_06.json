@@ -1,0 +1,25 @@
+{
+  "id": 21473,
+  "numero": "1333",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia dictada el 6 de agosto de 2025, declara inadmisible la acción de amparo interpuesta por la defensa de los ciudadanos Carlos Rafael Vidal Bolívar y otros, debido a la falta de presentación de pruebas que sustentaran la solicitud. La Corte de Apelaciones había declarado inadmisible la acción por no cumplir con los requisitos establecidos en la Ley Orgánica sobre Amparo y Derechos Constitucionales. La Sala también revoca la decisión del a quo y se declara competente para conocer de la apelación ejercida.",
+  "palabras_clave": [
+    "incongruencia",
+    "amparo",
+    "derechos humanos",
+    "salud",
+    "libertad",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1333_E24-1229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346995-1333-6825-2025-24-1229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.762311"
+}

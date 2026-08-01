@@ -1,0 +1,22 @@
+{
+  "id": 18437,
+  "numero": "0131",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró inadmisible el recurso de apelación interpuesto por Gerardo José Maguilbray Hernández, debido a que fue presentado fuera del lapso legal establecido. La acción de amparo fue promovida por Sadyalet Andreina Zambrano Guerrero contra una sentencia interlocutoria que dictó una medida preventiva de custodia provisional a favor del padre de los niños, alegando incompetencia territorial del tribunal que dictó dicha medida. La Sala consideró que la acción de amparo era procedente, pero no se concedió todo lo solicitado en el amparo, resultando en una decisión parcial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "incompetencia territorial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0131_E21-0047.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341536-0131-13225-2025-21-0047.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.768620"
+}

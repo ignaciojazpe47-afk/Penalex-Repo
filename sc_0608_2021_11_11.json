@@ -1,0 +1,23 @@
+{
+  "id": 40171,
+  "numero": "0608",
+  "fecha": "2021-11-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Procedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Flora Matilde Higuera Houthon contra la decisión del Juzgado Superior Décimo que declaró sin lugar la recusación contra la jueza Leticia Barrios Ruiz. La Sala consideró que la decisión fue tomada sin el debido proceso, ya que no constaba en el expediente el escrito de recusación, lo que constituye una irregularidad procesal. Por lo tanto, se declaró procedente la acción de amparo y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "amparo",
+    "recusación",
+    "debido proceso",
+    "identidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0608_E19-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314364-0608-111121-2021-19-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.516791"
+}

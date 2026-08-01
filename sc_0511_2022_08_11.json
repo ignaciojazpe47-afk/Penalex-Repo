@@ -1,0 +1,26 @@
+{
+  "id": 36142,
+  "numero": "0511",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de agosto de 2022, declaró competente para conocer la solicitud de revisión de la sentencia N° 00064, dictada por la Sala Político-Administrativa. En esta sentencia, se anuló una decisión anterior que había declarado inadmisible la demanda por abstención interpuesta por Mayelin Vázquez Ferrer contra el SAIME, argumentando que no se habían cumplido los requisitos procesales necesarios. La Sala Constitucional, tras analizar los alegatos, determinó que la solicitud de revisión no cumplía con los supuestos de procedencia establecidos, por lo que se declaró no ha lugar a la misma.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nacionalidad",
+    "SAIME",
+    "inmotivación",
+    "derechos",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 00064",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0511_E22-0499.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319168-0511-11822-2022-22-0499.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.568843"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23918,
+  "numero": "2132",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una solicitud de revisión de la sentencia N° 253, dictada por la Sala de Casación Penal, que declaró procedente la extradición de Julio César Galarza. La solicitante, Jhoaribel Alexandra Araujo Sira, actuando como concubina de Galarza, no fue parte en el proceso de extradición y su solicitud fue considerada inadmisible por falta de legitimidad. La abogada que la representaba no presentó el poder necesario para actuar en nombre de Galarza.",
+  "palabras_clave": [
+    "extradición",
+    "revisión",
+    "legitimidad",
+    "constitucional",
+    "interés legítimo",
+    "sentencia",
+    "tutela"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2132_E25-0754.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351981-2132-121225-2025-25-0754.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.735037"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18202,
+  "numero": "0052",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por DÁMASO HUGO MORALES, pero determina que no ha lugar a la misma. La revisión se solicitó en relación a la sentencia N° RC.000081, del 30 de julio de 2020, dictada por la Sala de Casación Civil, que había declarado con lugar el recurso de casación interpuesto por la parte demandada en un juicio de cumplimiento de contrato privado de compra-venta. La Sala concluye que la decisión impugnada no vulneró principios constitucionales ni derechos fundamentales del solicitante.",
+  "palabras_clave": [
+    "inmotivación",
+    "contrato",
+    "cumplimiento",
+    "jurisprudencia",
+    "obligaciones",
+    "prueba",
+    "derecho"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0052_E20-0461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341218-0052-6225-2025-20-0461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.561164"
+}

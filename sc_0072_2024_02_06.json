@@ -1,0 +1,26 @@
+{
+  "id": 24125,
+  "numero": "0072",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Carmen María Páez y Emiliana Ascanio Páez, representadas por el abogado Freddy E. Torres Jiménez. La Corte de Apelaciones había declarado inadmisible la acción por incumplimiento de los artículos 18 y 19 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, argumentando que la solicitud era confusa y no cumplía con los requisitos necesarios.\n\nLa Sala Constitucional confirmó la decisión de la Corte de Apelaciones, señalando que la acción de amparo no cumplía con los requisitos de claridad y precisión exigidos por la ley. Se destacó que la falta de acreditación del abogado y la ambigüedad en la identificación de los presuntos agraviantes contribuyeron a la inadmisibilidad de la solicitud.\n\nFinalmente, la Sala declaró competente para conocer del recurso de apelación, pero desestimó el mismo, confirmando la inadmisibilidad de la acción de amparo constitucional interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "inadmision",
+    "confusión",
+    "jurisprudencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0072_E23-0268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332427-0072-6224-2024-23-0268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.575752"
+}

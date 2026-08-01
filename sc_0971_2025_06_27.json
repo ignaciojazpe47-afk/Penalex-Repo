@@ -1,0 +1,26 @@
+{
+  "id": 20571,
+  "numero": "0971",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo presentada por Nairelys Carolina Coello Pereira, a través de su apoderado judicial, Víctor Julio Meléndez. La acción se fundamenta en la falta de respuesta de un Fiscal del Ministerio Público ante una denuncia realizada por la accionante. La Sala observa que la solicitud presenta deficiencias que impiden su adecuada tramitación, como la falta de claridad en el objeto de la acción y la insuficiente identificación del agraviante.\n\nLa Sala ordena a la parte actora corregir su demanda, estableciendo con claridad la relación de causalidad entre los hechos denunciados y la presunta violación de sus derechos fundamentales. Se le concede un plazo de dos días para realizar estas correcciones, advirtiendo que, de no hacerlo, la acción será declarada inadmisible.\n\nFinalmente, se notifica al abogado Meléndez para que cumpla con lo ordenado, en cumplimiento de lo dispuesto en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "fiscal",
+    "ministerio público",
+    "procedencia",
+    "causalidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0971_E24-0491.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345240-0971-27625-2025-24-0491.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.305168"
+}

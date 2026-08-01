@@ -1,0 +1,27 @@
+{
+  "id": 34218,
+  "numero": "1327",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Reggie Gutiérrez, en representación del ciudadano Pedro Rafael Montoya Pacheco, contra la sentencia dictada el 24 de mayo de 2019, que declaró inadmisible la acción de amparo constitucional. La Sala fundamenta su decisión en que la acción de amparo fue interpuesta contra la omisión del tribunal de origen, que ya había dado respuesta a las solicitudes del demandante, cesando así la violación de derechos alegada.\n\nSe establece que la acción de amparo no es admisible cuando la violación o amenaza de derechos ha cesado, conforme a lo dispuesto en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala concluye que, al haberse dictado pronunciamiento sobre las solicitudes, la acción deviene inadmisible y se confirma la decisión del tribunal de apelaciones.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como la devolución del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "violencia contra la mujer",
+    "inadmibilidad",
+    "Código Orgánico Procesal Penal",
+    "Corte de Apelaciones",
+    "sentencia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1327_E19-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328531-1327-16823-2023-19-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.231335"
+}

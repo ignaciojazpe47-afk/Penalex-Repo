@@ -1,0 +1,25 @@
+{
+  "id": 33455,
+  "numero": "1789",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ANULA la sentencia número 00286 dictada el 14 de diciembre de 2022",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 00286 dictada por la Sala de Casación Social, que había declarado extemporáneo y, en consecuencia, inadmisible el reclamo judicial presentado por Yerkis Carolina Henríquez Terán. La Sala Constitucional determinó que la Sala de Casación Social erró al declarar inadmisible el reclamo, ya que no se tomó en cuenta la prohibición de anunciar recurso de casación contra decisiones de responsabilidad de crianza, como la obligación de manutención. En consecuencia, se anula la sentencia y se declara improponible el reclamo judicial ejercido por la ciudadana Henríquez Terán.",
+  "palabras_clave": [
+    "recurso de casación",
+    "extemporaneidad",
+    "obstaculización",
+    "tribunales",
+    "protección de niños",
+    "procedimiento civil"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia 00286",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1789_E23-0155.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331324-1789-71223-2023-23-0155.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.477229"
+}

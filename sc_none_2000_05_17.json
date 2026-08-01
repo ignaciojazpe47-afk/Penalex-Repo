@@ -1,0 +1,27 @@
+{
+  "id": 1751,
+  "numero": null,
+  "fecha": "2000-05-17",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "CON LUGAR",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Faitha Marina Nahmens y Ben Ami Fihman, contra una decisión de la Sala nº 3 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La Corte de Apelaciones había decidido sobre un conflicto de competencia y prohibió la resolución de un alegato de prescripción antes de concluir el debate oral. La Sala Constitucional consideró que esta actuación vulneró el derecho a la defensa y el debido proceso, por lo que declaró con lugar la acción de amparo, ordenando que se resolviera la solicitud de prescripción en una audiencia oral.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la defensa",
+    "Debido proceso",
+    "Prescripción",
+    "Corte de Apelaciones",
+    "Sala Constitucional",
+    "Conflicto de competencia",
+    "Derechos y garantías"
+  ],
+  "titulo": "Amparo Constitucional contra decisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-05-17_Constitucional_00_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.737060"
+}

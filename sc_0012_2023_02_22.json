@@ -1,0 +1,22 @@
+{
+  "id": 28892,
+  "numero": "0012",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de una sentencia dictada por el Juzgado Superior Agrario del Estado Guárico. El abogado José Cristóbal Álvarez, en representación de Arturo Celestino Soto Loreto, argumentó que la sentencia impugnada había declarado una presunta cosa juzgada sin asidero jurídico, lo que generó un estado de indefensión para su representado. La Sala, al considerar los vicios procesales denunciados, decidió ordenar al Juzgado Superior Agrario que informara sobre el estado actual de la causa y remitiera copias certificadas del expediente para dictar una decisión ajustada a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia dictada por el Juzgado Superior Agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0012_E22-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322809-0012-22223-2023-22-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.296716"
+}

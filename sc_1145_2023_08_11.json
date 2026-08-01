@@ -1,0 +1,24 @@
+{
+  "id": 34130,
+  "numero": "1145",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Suspender",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Nacional Segundo Contencioso Administrativo. La decisión original había declarado improcedente una acción de amparo constitucional interpuesta por la sociedad mercantil SUMINISTROS PRICE LUNA, C.A. y otras, en relación con el cierre de sus establecimientos por parte de la Dirección de Administración Tributaria del Municipio Chacao.\n\nEn su fallo, la Sala Constitucional declaró su competencia para conocer la solicitud de revisión y ordenó la remisión de los expedientes administrativos relacionados con el cierre de los establecimientos. Además, acordó suspender los efectos de la sentencia impugnada hasta que se decida el fondo de la revisión, considerando las denuncias de violaciones al debido proceso y al derecho a la defensa de las solicitantes.\n\nLa decisión incluye medidas cautelares para cesar la perturbación y cierre de los establecimientos, reafirmando la necesidad de garantizar el derecho a la defensa de las sociedades afectadas.",
+  "palabras_clave": [
+    "sociedades mercantiles",
+    "competencia",
+    "revisión",
+    "administración tributaria",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia contencioso-administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1145_E23-0322.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328442-1145-11823-2023-23-0322.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.334236"
+}

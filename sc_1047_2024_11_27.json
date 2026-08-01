@@ -1,0 +1,26 @@
+{
+  "id": 27934,
+  "numero": "1047",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por Jesús Juvenal González contra el Consejo Nacional Electoral (CNE). La acción se fundamenta en la presunta violación de derechos a la participación política y ciudadana, así como el derecho de petición, debido al silencio administrativo del CNE respecto a una solicitud del partido Movimiento Republicano (MR). La Sala determina que la acción es inadmisible por no haberse agotado los recursos ordinarios previos.",
+  "palabras_clave": [
+    "amparo",
+    "participación política",
+    "derechos humanos",
+    "silencio administrativo",
+    "CNE",
+    "inadmibilidad",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta contra el CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1047_E24-0160.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339562-1047-271124-2024-24-0160.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.489042"
+}

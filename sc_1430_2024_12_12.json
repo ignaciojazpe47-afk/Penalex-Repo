@@ -1,0 +1,25 @@
+{
+  "id": 28599,
+  "numero": "1430",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer del recurso de apelación interpuesto por María Esther Alba, asistida por su abogada. La apelación fue presentada contra la decisión del Tribunal Superior Primero en lo Civil, que declaró inadmisible la acción de amparo constitucional. La Sala concluye que la acción de amparo es inadmisible ya que la demandante no agotó la vía ordinaria antes de recurrir a la vía extraordinaria, confirmando así la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "proceso",
+    "jurisprudencia",
+    "vías judiciales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1430_E22-0319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340623-1430-121224-2024-22-0319.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.825597"
+}

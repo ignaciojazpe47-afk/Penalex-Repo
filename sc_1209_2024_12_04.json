@@ -1,0 +1,22 @@
+{
+  "id": 28249,
+  "numero": "1209",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de amparo constitucional interpuesta por Karina Gouverneur Kann contra la decisión de la Sala N° 6 de la Corte de Apelaciones, que había declarado con lugar el recurso de apelación de Aida Mercedes López-Méndez Gedeón. La Sala constató que el fallo impugnado incurrió en incongruencia omisiva al no valorar adecuadamente las pruebas y alegatos presentados, lo que vulneró el derecho a la tutela judicial efectiva de la parte actora. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se ordenó a otra Corte que decidiera sobre el fondo del recurso de apelación.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional contra decisión de la Sala N° 6 de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1209_E23-0892.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340145-1209-41224-2024-23-0892.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.035950"
+}

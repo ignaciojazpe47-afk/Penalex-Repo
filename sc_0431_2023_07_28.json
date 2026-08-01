@@ -1,0 +1,23 @@
+{
+  "id": 26900,
+  "numero": "0431",
+  "fecha": "2023-07-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D´Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los defensores de la ciudadana Claudia Carolina Monsalve de Aufiero, en relación a una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala constató la falta de cualidad de los defensores para actuar en el caso y, tras evaluar los argumentos presentados, decidió declarar con lugar la apelación, ordenando a la Corte de Apelaciones remitir el cuaderno completo de la acción de amparo. Se establecieron plazos para el cumplimiento de esta orden, advirtiendo sobre posibles responsabilidades administrativas por incumplimiento.",
+  "palabras_clave": [
+    "apelación",
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "Carabobo"
+  ],
+  "titulo": "Sentencia sobre apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0431_E22-1053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338209-0431-251024-2024-22-1053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.916716"
+}

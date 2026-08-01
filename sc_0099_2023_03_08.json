@@ -1,0 +1,24 @@
+{
+  "id": 29101,
+  "numero": "0099",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Freddy E. Torres Jiménez en representación de Katiuska Carolina Ramos Bernatte, quien se encontraba privada de libertad. La acción se interpuso contra la omisión de pronunciamiento del Juzgado único de Primera Instancia de Juicio en Materia de Delitos de Violencia Contra la Mujer del Circuito Judicial Penal del Estado Carabobo, en relación a una solicitud de decaimiento automático de medida judicial preventiva de libertad. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso.",
+  "palabras_clave": [
+    "privacion de libertad",
+    "dilacion procesal",
+    "amparo constitucional",
+    "tutela judicial",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0099_E22-0975.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323267-0099-8323-2023-22-0975.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.341682"
+}

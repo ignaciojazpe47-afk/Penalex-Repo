@@ -1,0 +1,22 @@
+{
+  "id": 32260,
+  "numero": "1414",
+  "fecha": "2022-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Primero de Primera Instancia en lo Civil y el Juzgado Superior Estadal de lo Contencioso Administrativo de Nueva Esparta, en relación a una acción de amparo constitucional presentada por Juan Carlos Macedo Mantilla. La Sala declaró su competencia para conocer del conflicto y determinó que el tribunal competente para decidir sobre la acción de amparo es el Juzgado Superior Estadal de lo Contencioso Administrativo de la misma circunscripción judicial.\n\nLa decisión se fundamenta en la normativa vigente que establece que los conflictos de competencia en materia de amparo constitucional deben ser resueltos por la Sala Constitucional, y se ordenó la remisión del expediente al Juzgado correspondiente para que continúe conociendo del asunto. Se destacó la importancia de la competencia territorial y material en la resolución de este tipo de acciones.\n\nFinalmente, se ordenó la notificación a los juzgados involucrados y se estableció que el expediente debía ser distribuido para su conocimiento por el tribunal competente, garantizando así el acceso a la justicia para el demandante.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "jurisdicción contencioso-administrativa"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1414_E22-0819.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329289-1414-111023-2023-22-0819.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.198772"
+}

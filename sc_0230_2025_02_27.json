@@ -1,0 +1,24 @@
+{
+  "id": 18664,
+  "numero": "0230",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por la abogada Pedro Omar Solórzano Reyes en representación de Débora Mercedes Del Moral Sandoval. La causa se refiere a un juicio por fraude en el que se decretaron medidas cautelares sobre bienes de naturaleza agraria, las cuales se argumenta debieron ser conocidas por tribunales de la jurisdicción agraria. La Sala declina la competencia a la Sala de Casación Social, ordenando la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "avocamiento",
+    "fraude",
+    "medidas cautelares",
+    "jurisdicción agraria",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0230_E24-0266.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342042-0230-27225-2025-24-0266.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.879479"
+}

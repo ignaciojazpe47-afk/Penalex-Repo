@@ -1,0 +1,25 @@
+{
+  "id": 45437,
+  "numero": "0101",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia N.° 00325 dictada por la Sala Político-Administrativa. La inadmisibilidad se fundamenta en la falta de presentación del poder que acredite la representación judicial de los solicitantes, lo cual es un requisito esencial para la admisión de este tipo de solicitudes.",
+  "palabras_clave": [
+    "legitimidad",
+    "representación",
+    "inadmisibilidad",
+    "revisión",
+    "poderes",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0101_E16-0904.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207660-0101-9218-2018-16-0904.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.437698"
+}

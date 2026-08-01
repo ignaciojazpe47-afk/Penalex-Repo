@@ -1,0 +1,22 @@
+{
+  "id": 20590,
+  "numero": "0990",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Neptalí Antonio García De Abreu, en contra de una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción se fundamentó en la presunta vulneración de derechos en un proceso penal donde se le acusaba de extorsión, simulación de hecho punible y agavillamiento.\n\nLa Sala declaró su competencia para conocer del caso y, tras analizar las alegaciones, decidió con lugar la acción de amparo, ordenando la nulidad de la sentencia impugnada y el restablecimiento de la vigencia de la decisión que había decretado el sobreseimiento de la causa. Se enfatizó la importancia de garantizar el debido proceso y la tutela judicial efectiva en el marco de la Constitución.\n\nFinalmente, se ordenó a la Corte de Apelaciones remitir el expediente original para su revisión, advirtiendo sobre las sanciones por incumplimiento de esta orden.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0990_E24-0730.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345259-0990-27625-2025-24-0730.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.298689"
+}

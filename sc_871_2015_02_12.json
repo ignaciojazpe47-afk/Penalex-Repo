@@ -1,0 +1,22 @@
+{
+  "id": 65206,
+  "numero": "871",
+  "fecha": "2015-02-12",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La sentencia se refiere a la acción de amparo constitucional interpuesta por Jonathan Christopher Uzcátegui, quien alegó la violación de sus derechos a la tutela judicial efectiva y al debido proceso, al no permitírsele participar activamente en el juicio penal contra funcionarios de la Policía Nacional. La Corte de Apelaciones había declarado improcedente la demanda, lo que motivó la apelación ante la Sala Constitucional del TSJ. La Sala Constitucional, al revisar el caso, determinó que la apelación era procedente y que la víctima debía tener derecho a participar activamente en el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos de la víctima",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la participación de la víctima en el juicio penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-17_S871_E14-0957.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179668-871-17715-2015-14-0957.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.555120"
+}

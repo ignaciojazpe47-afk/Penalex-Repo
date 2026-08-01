@@ -1,0 +1,23 @@
+{
+  "id": 17661,
+  "numero": "0343",
+  "fecha": "2024-02-06",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de avocamiento presentada por Alí Salim Abdul Hadi, en representación de la Asociación Solidaridad y Sanidad ONLUS, y aclaró que la sentencia N° 73 del 6 de febrero de 2024 establece consideraciones vinculantes sobre el uso de la jurisdicción penal en casos de naturaleza civil. Además, se amplió el contenido de la sentencia para ordenar el desglose del expediente original y su remisión al tribunal correspondiente, reafirmando la importancia del principio de intervención mínima del derecho penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción penal",
+    "naturaleza civil",
+    "principio de intervención mínima"
+  ],
+  "titulo": "Sentencia N° 73 del 6 de febrero de 2024 sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0343_E23-0968.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354332-0343-25326-2026-23-0968.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.820217"
+}

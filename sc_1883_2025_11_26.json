@@ -1,0 +1,25 @@
+{
+  "id": 23229,
+  "numero": "1883",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 26, declaró sin lugar la acción de amparo constitucional interpuesta por la abogada NORA MARGOT AGÜERO CASTILLO, en representación de los ciudadanos DORAIMA VANESSA COLMENAREZ MARTÍNEZ y WALTER DONELLO ZENERE, contra la decisión de la Sala Accidental de la Corte de Apelaciones del Circuito Judicial Penal del estado Portuguesa. La Sala consideró que la parte actora no impulsó el proceso de amparo, lo que llevó a declarar el abandono del trámite y la extinción de la instancia. Además, se impuso una multa a la parte accionante por la falta de seguimiento en el proceso.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "imputación",
+    "terrorismo judicial",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1883_E25-0179.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350479-1883-261125-2025-25-0179.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.048858"
+}

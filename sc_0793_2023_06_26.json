@@ -1,0 +1,26 @@
+{
+  "id": 31010,
+  "numero": "0793",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente de amparo constitucional interpuesto por Tula Dolores Simal Kopp contra una sentencia del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Táchira. La apelación se basó en la inadmisibilidad de la acción de amparo declarada el 16 de julio de 2019. La Sala se declaró competente para conocer el caso y ordenó al juzgado remitente informar sobre las notificaciones realizadas a las partes involucradas en el amparo.",
+  "palabras_clave": [
+    "amparo",
+    "notificación",
+    "juicio",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0793_E19-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326449-0793-26623-2023-19-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.545814"
+}

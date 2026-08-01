@@ -1,0 +1,26 @@
+{
+  "id": 21658,
+  "numero": "1405",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Emily Hernández Márquez, en representación del ciudadano Antonio D’Angelo, contra la sentencia dictada el 25 de agosto de 2023 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. La acción fue considerada inadmisible debido a la falta de presentación de la copia certificada de la decisión impugnada, requisito indispensable para su admisión.\n\nLa Sala también establece su competencia para conocer de la presente acción de amparo, pero al no cumplirse con las cargas procesales requeridas, se declara inoficioso pronunciarse sobre la medida cautelar solicitada. La decisión se fundamenta en la normativa vigente que exige la consignación de documentos indispensables para la admisibilidad de cualquier acción o solicitud.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la importancia de la seguridad jurídica en los procedimientos judiciales.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "carga procesal",
+    "sentencia",
+    "derechos constitucionales",
+    "Ministerio Público",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1405_E24-0211.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347264-1405-7825-2025-24-0211.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.033023"
+}

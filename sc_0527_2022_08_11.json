@@ -1,0 +1,25 @@
+{
+  "id": 36158,
+  "numero": "0527",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un amparo constitucional interpuesto por la sociedad mercantil SERVICIO TÉCNICO VENCAR C.A. contra una decisión cautelar del Juzgado Quinto de Primera Instancia que designó un veedor judicial sin que la mencionada sociedad fuera parte del juicio principal. La Sala determinó que la medida cautelar violó los derechos constitucionales de la empresa, ya que las medidas cautelares deben ser ejecutadas únicamente contra las partes afectadas en el juicio, no contra terceros. Por lo tanto, se declaró con lugar el amparo y se anuló la designación del veedor judicial.",
+  "palabras_clave": [
+    "derechos humanos",
+    "debido proceso",
+    "medidas cautelares",
+    "tutela judicial",
+    "propiedad",
+    "libertad económica"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por SERVICIO TÉCNICO VENCAR C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0527_E21-0569.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319184-0527-11822-2022-21-0569.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.569773"
+}

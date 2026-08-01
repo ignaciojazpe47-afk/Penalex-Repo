@@ -1,0 +1,22 @@
+{
+  "id": 34180,
+  "numero": "1288",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por los defensores de Alexi Enrique Escalona Marrero, quien había solicitado una medida cautelar humanitaria. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que el accionante no había agotado las vías judiciales ordinarias. La Sala Constitucional, tras revisar el caso, determinó que la acción de amparo era inadmisible, ya que el demandante no había solicitado previamente el traslado a un centro hospitalario, lo que evidenció que no se había activado el abanico de recursos disponibles para impugnar la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "salud"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1288_E20-0194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328492-1288-15823-2023-20-0194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.852187"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17509,
+  "numero": "0509",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos Antonio Cunemo Jaspe, en su condición de víctima, por no haber agotado las vías ordinarias. La decisión de la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que declaró desasistida la querella, fue confirmada. Se argumenta que el amparo no es un recurso para obviar los medios judiciales preexistentes y que la acción de amparo es extraordinaria, debiendo ser utilizada solo en casos donde no existan otros recursos disponibles.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0509_E25-1376.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354960-0509-14426-2026-25-1376.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.894078"
+}

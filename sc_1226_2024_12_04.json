@@ -1,0 +1,25 @@
+{
+  "id": 28265,
+  "numero": "1226",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Oliva Consuelo Villamizar Pisani, quien alegó agravio a sus derechos procesales por una sentencia firme del Juzgado Superior Tercero en lo Civil. La Sala determinó que hubo abandono del trámite por parte de la demandante, dado que no se realizaron actuaciones procesales durante más de seis meses. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora por la falta de interés en continuar con la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "derechos",
+    "proceso",
+    "multas",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1226_E17-0957.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340167-1226-41224-2024-17-0957.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.036640"
+}

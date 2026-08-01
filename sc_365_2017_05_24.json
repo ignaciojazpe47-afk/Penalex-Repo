@@ -1,0 +1,24 @@
+{
+  "id": 51841,
+  "numero": "365",
+  "fecha": "2017-05-24",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite una demanda de protección de intereses colectivos y difusos presentada por ciudadanos del Municipio Baruta contra el Alcalde Gerardo Blyde, alegando violaciones a derechos constitucionales debido a la obstrucción de vías públicas por manifestantes. La Sala considera que los hechos denunciados tienen trascendencia nacional y afectan derechos fundamentales como el libre tránsito, la salud y la educación. Se ordena al Alcalde tomar medidas para garantizar el libre tránsito y la seguridad de los ciudadanos.",
+  "palabras_clave": [
+    "intereses colectivos",
+    "derechos constitucionales",
+    "libre tránsito",
+    "Municipio Baruta",
+    "amparo cautelar"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de intereses colectivos y difusos contra el Alcalde del Municipio Baruta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-24_S365_E17-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/199163-365-24517-2017-2017-469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.099379"
+}

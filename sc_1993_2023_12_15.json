@@ -1,0 +1,25 @@
+{
+  "id": 33846,
+  "numero": "1993",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Vitelio José Herrera Lamus, quien actuó en nombre propio. La decisión se fundamenta en la falta de claridad y coherencia en el escrito presentado, lo que impide a la Sala determinar la competencia para conocer del asunto. Además, se impone una multa de cien veces el tipo de cambio oficial de la moneda de mayor valor, debido a las expresiones irrespetuosas contenidas en el escrito del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "irrespeto",
+    "derechos humanos",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1993_E23-0314.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331963-1993-151223-2023-23-0314.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.433207"
+}

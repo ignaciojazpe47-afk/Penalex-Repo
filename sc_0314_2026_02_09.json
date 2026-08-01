@@ -1,0 +1,24 @@
+{
+  "id": 17655,
+  "numero": "0314",
+  "fecha": "2026-02-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a una acción de amparo interpuesta por Francisco José Albarrán Mazutiel contra la decisión de la Sala Sexta de la Corte de Apelaciones que declaró inadmisible su apelación. La Sala Constitucional del TSJ, presidida por Tania D’Amelio Cardiet, determinó que la acción de amparo era procedente y anuló la decisión de inadmisibilidad, argumentando que no existía inepta acumulación de pretensiones como se había alegado. Se ordenó al Tribunal Décimo Sexto que se pronuncie sobre la admisibilidad de la acción de amparo, garantizando así el derecho al debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "inepta acumulación de pretensiones",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0314_E25-1121.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354294-0314-25326-2026-25-1121.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.073104"
+}

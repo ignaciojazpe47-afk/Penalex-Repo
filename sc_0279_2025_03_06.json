@@ -1,0 +1,22 @@
+{
+  "id": 18735,
+  "numero": "0279",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de avocamiento presentada por las abogadas Leiza Idrogo y Elvia Aguilera en representación de los ciudadanos Jhonathan David Moreno Suárez y Jesús Armando Lezama Espinoza. La solicitud se refiere a una causa penal por presunta violación del orden público constitucional, pero la Sala determina que corresponde a la Sala de Casación Penal conocer sobre la procedencia de dicha solicitud. Se declina el conocimiento de la solicitud a la Sala de Casación Penal y se ordena remitir las actuaciones pertinentes.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "orden público constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0279_E24-0709.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342184-0279-6325-2025-24-0709.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.870823"
+}

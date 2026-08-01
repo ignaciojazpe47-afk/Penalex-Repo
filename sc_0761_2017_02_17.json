@@ -1,0 +1,24 @@
+{
+  "id": 36750,
+  "numero": "0761",
+  "fecha": "2017-02-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agraria",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de febrero de 2017 por el Juzgado Primero de Primera Instancia Agraria de Barinas, que desaplicó por control difuso los artículos 338 y siguientes del Código de Procedimiento Civil, así como los artículos 777, 778 y 780 del mismo, en un caso de partición de herencia. La decisión se fundamentó en la necesidad de garantizar el debido proceso y la tutela judicial efectiva en el ámbito agrario, considerando que la aplicación de normas del derecho civil era incompatible con los principios del derecho agrario.\n\nEl tribunal determinó que el procedimiento de partición debía tramitarse conforme a la Ley de Tierras y Desarrollo Agrario, y no bajo el Código de Procedimiento Civil, reafirmando la importancia de la autonomía del derecho agrario y la protección de los derechos fundamentales de las partes involucradas. La sentencia concluyó con la revocación de decisiones anteriores y la anulación de actuaciones que vulneraron el debido proceso, ordenando la subsanación de la pretensión conforme a la normativa agraria.\n\nFinalmente, se estableció que la desaplicación de las normas del Código de Procedimiento Civil era necesaria para asegurar la justicia en el contexto agrario, reafirmando la competencia de la Sala Constitucional para revisar y garantizar la correcta aplicación de la Constitución en estos casos.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "partición",
+    "derecho agrario",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre desaplicación de normas en juicio de partición agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-17_S0761_E17-0422.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320015-0761-171022-2022-17-0422.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.253157"
+}

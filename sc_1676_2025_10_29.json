@@ -1,0 +1,25 @@
+{
+  "id": 22619,
+  "numero": "1676",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Freddy Álvarez Bernee en representación de Miguel Aquiles Chapellín López, debido a la falta de acompañamiento de copias certificadas de las actas conducentes. Se establece que la revisión de decisiones firmes requiere la presentación de documentos que verifiquen la certeza de la solicitud, lo cual no fue cumplido en este caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "documentación",
+    "copia certificada",
+    "procedimiento civil",
+    "inadmisión",
+    "daño moral"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1676_E25-0773.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349279-1676-291025-2025-25-0773.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.742759"
+}

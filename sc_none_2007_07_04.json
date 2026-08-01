@@ -1,0 +1,23 @@
+{
+  "id": 3394,
+  "numero": null,
+  "fecha": "2007-07-04",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de nulidad interpuesto por la COMPAÑÍA ANÓNIMA NACIONAL TELÉFONOS DE VENEZUELA (C.A.N.T.V.) y TELECOMUNICACIONES MOVILNET, C.A. contra la Ordenanza sobre Patente de Industria y Comercio del Municipio Valencia del Estado Carabobo. La decisión se fundamentó en que la normativa impugnada no adolece de inconstitucionalidad, ya que los municipios poseen un poder tributario originario y pueden exigir tributos sobre actividades económicas, aunque la regulación de esas actividades sea competencia del Poder Nacional.",
+  "palabras_clave": [
+    "Nulidad",
+    "Telecomunicaciones",
+    "Ordenanza Municipal",
+    "Tributo"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanza municipal en materia de telecomunicaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-07-04_PoliticoAdmin_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.114017"
+}

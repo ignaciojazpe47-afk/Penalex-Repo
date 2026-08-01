@@ -1,0 +1,24 @@
+{
+  "id": 30630,
+  "numero": "0676",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de avocamiento presentada por Daniel Antonio Otayek Rodríguez, quien busca la ejecución de un régimen de convivencia internacional con su hijo. La solicitud se fundamenta en la existencia de múltiples causas judiciales y presuntas violaciones a los derechos del niño. La Sala admitió la solicitud y ordenó la suspensión de las actuaciones procesales en los tribunales involucrados, así como la remisión de las actuaciones judiciales pertinentes.",
+  "palabras_clave": [
+    "régimen de convivencia",
+    "desacato",
+    "protección de niños",
+    "derechos humanos",
+    "interés superior del niño"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en régimen de convivencia internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0676_E23-0173.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325764-0676-30523-2023-23-0173.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.937725"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24318,
+  "numero": "0181",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Nancy Muro Colitto, representada por el abogado Guillermo Moreno Contreras, contra la omisión de pronunciamiento de la Sala Tres de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción se fundamentó en la falta de respuesta a solicitudes de copias certificadas y pronunciamiento judicial desde octubre de 2019 hasta la fecha de la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "corte de apelaciones",
+    "violación",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0181_E22-0002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332724-0181-22224-2024-22-0002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.660883"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28136,
+  "numero": "1187",
+  "fecha": "2024-11-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HOMOLOGA EL DESISTIMIENTO",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada en 2000, relacionada con el decomiso de acciones de varias empresas. Se declaró competente para conocer la solicitud y se homologó el desistimiento presentado por el abogado Rubén Maestre Wills en representación de Simón Ramos Farías. La decisión se fundamenta en la capacidad del demandante para desistir y la ausencia de violaciones al orden público.",
+  "palabras_clave": [
+    "desistimiento",
+    "transacción",
+    "derecho de propiedad",
+    "jurisprudencia",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Homologación del desistimiento en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1187_E12-0681.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340026-1187-41224-2024-12-0681.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.299942"
+}

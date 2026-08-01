@@ -1,0 +1,24 @@
+{
+  "id": 33448,
+  "numero": "1782",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Lisbeth Josefina Salas Castro contra una decisión de la Corte de Apelaciones que había declarado con lugar una acción de amparo constitucional. La apelante alegó violaciones al derecho a la defensa y al debido proceso. La Sala Constitucional, tras analizar el caso, confirmó la decisión de la Corte de Apelaciones, considerando que se habían salvaguardado los derechos de la víctima y que la decisión del tribunal inferior había sido arbitraria y contraria a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "derecho al trabajo",
+    "debido proceso",
+    "medidas de protección"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1782_E20-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331317-1782-71223-2023-20-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.476751"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31655,
+  "numero": "1013",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró competente para conocer la acción de amparo constitucional interpuesta por Francisco Andrés Briceño Fernández en representación de Luis Alfonso Lara Chaustre, contra la falta de ejecución de una boleta de excarcelación. Sin embargo, la Sala declaró inadmisible la acción debido a que el accionante ya se encontraba cumpliendo una pena de prisión tras admitir los hechos imputados en un proceso penal distinto al que motivó la solicitud de amparo. La decisión se fundamenta en que la situación denunciada no puede ser reparada, ya que el derecho a la libertad del accionante no puede ser restituido en su actual condición de condenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "inadmision",
+    "libertad",
+    "Zulia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en la modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1013_E19-0232.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327545-1013-31723-2023-19-0232.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.907391"
+}

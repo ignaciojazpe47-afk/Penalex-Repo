@@ -1,0 +1,25 @@
+{
+  "id": 23883,
+  "numero": "2103",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Plena del Tribunal Supremo de Justicia se declaró incompetente para conocer el conflicto de competencia planteado entre el Juzgado Tercero de Primera Instancia en lo Civil y el Juzgado Primero de Primera Instancia de Juicio del Trabajo, en el marco de una acción de amparo constitucional interpuesta por Juan Carlos Camacho Chirinos. La Sala Plena declinó la competencia a la Sala Constitucional, considerando que el asunto se relaciona con derechos laborales y arrendaticios, que son competencia de los tribunales civiles. La decisión final fue remitir el expediente a un Juzgado de Municipio Ordinario y Ejecutor de Medidas del Municipio Iribarren.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2103_E25-1276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351931-2103-121225-2025-25-1276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.079976"
+}

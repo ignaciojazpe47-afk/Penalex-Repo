@@ -1,0 +1,25 @@
+{
+  "id": 18291,
+  "numero": "0087",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado José Gregorio Suárez Mosqueda en representación de Yovannys Manuel Rodríguez Bellorín. La acción se fundamentó en la supuesta vulneración de derechos al debido proceso y acceso a la justicia, tras la declaración de inadmisibilidad del recurso de apelación por parte de la Corte de Apelaciones del estado Monagas. La Sala concluye que el recurso fue presentado extemporáneamente, fuera del lapso legal establecido, y que la Corte de Apelaciones actuó dentro de su competencia.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "inadmision",
+    "plazos procesales",
+    "jurisdicción",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional ejercida por Yovannys Manuel Rodríguez Bellorín",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0087_E24-0476.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341349-0087-7225-2025-24-0476.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.551195"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21686,
+  "numero": "1433",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por la abogada Diana Verónica Dos Santos Zapata, actuando en nombre de Ricardo Rojas Rivero, contra la decisión del Tribunal Superior Contencioso Tributario que declaró sin lugar la acción de amparo constitucional. La decisión se fundamenta en la omisión de ejercer los recursos ordinarios correspondientes, lo que lleva a declarar inadmisible la acción de amparo. La sentencia también revoca la medida cautelar preventiva dictada anteriormente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "SENIAT",
+    "derecho a la defensa",
+    "reconocimiento aduanero"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Ricardo Rojas Rivero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1433_E25-0438.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347304-1433-7825-2025-25-0438.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.035263"
+}

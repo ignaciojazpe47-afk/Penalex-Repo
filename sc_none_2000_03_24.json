@@ -1,0 +1,27 @@
+{
+  "id": 1632,
+  "numero": null,
+  "fecha": "2000-03-24",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "Se declara competente para conocer de la acción de amparo constitucional interpuesta y se admite.",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional interpuesta por la sociedad mercantil CORPORACIÓN L’ HOTELS C.A. contra una sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito, Trabajo y Menores de la Circunscripción Judicial del Estado Anzoátegui. La acción se fundamentó en la violación de derechos constitucionales a la defensa, al debido proceso y a la propiedad, al considerar que el Juzgado Superior actuó fuera de su competencia al ordenar la ejecución forzosa y el embargo de bienes de la demandante, que no había sido parte en el juicio. La Sala, tras analizar la admisibilidad de la acción, decidió que existía competencia para conocer del caso y ordenó la notificación del Tribunal de origen, así como la suspensión de los efectos de la sentencia impugnada hasta que se decidiera sobre el fondo del amparo.",
+  "palabras_clave": [
+    "Amparo",
+    "Derechos Constitucionales",
+    "Juzgado Superior",
+    "Embargo",
+    "Sentencia",
+    "Competencia",
+    "Acción de Amparo",
+    "CORPORACIÓN L’ HOTELS C.A."
+  ],
+  "titulo": "Amparo Constitucional contra sentencia de Juzgado Superior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-03-24_CasacionCivil_0436_CabreraRomero.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.676512"
+}

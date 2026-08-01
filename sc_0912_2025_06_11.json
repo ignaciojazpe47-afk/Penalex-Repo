@@ -1,0 +1,23 @@
+{
+  "id": 20336,
+  "numero": "0912",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "No ha lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Juan Carlos Barletta, quien impugnó una decisión del Juzgado Superior Civil que declaró con lugar un recurso de apelación interpuesto por Marly Auxiliadora Vivas Sotillo. La Sala concluyó que no era necesario agotar la vía administrativa previa en el contexto de la acción reivindicatoria, ya que esto habría vulnerado los derechos a la defensa y al debido proceso del solicitante. Finalmente, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción reivindicatoria",
+    "due process",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de apelación en acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0912_E22-0483.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344717-0912-11625-2025-22-0483.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.300355"
+}

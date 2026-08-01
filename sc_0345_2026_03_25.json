@@ -1,0 +1,26 @@
+{
+  "id": 17662,
+  "numero": "0345",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la acción de amparo constitucional interpuesta por Neptalí Antonio García de Abreu, en contra de la sentencia de la Sala 4 de la Corte de Apelaciones que había declarado la nulidad de la decisión del Juzgado Octavo de Primera Instancia. La Sala constató que la decisión impugnada carecía de la debida motivación, lo que vulneraba el derecho a la tutela judicial efectiva y el debido proceso. Se ordenó la celebración de una nueva audiencia preliminar ante un juez distinto al que dictó la decisión recurrida.",
+  "palabras_clave": [
+    "nulidad",
+    "proceso penal",
+    "derechos fundamentales",
+    "debido proceso",
+    "apelación",
+    "fiscalía",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0345_E24-0730.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354336-0345-25326-2026-24-0730.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.037563"
+}

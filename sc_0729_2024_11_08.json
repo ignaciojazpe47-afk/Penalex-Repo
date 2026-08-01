@@ -1,0 +1,22 @@
+{
+  "id": 27349,
+  "numero": "0729",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Michel Adriana Velásquez Grillet, se pronunció sobre una acción de habeas data interpuesta por Carlos Luis León Fuentes. El solicitante argumentó que se vulneraban sus derechos al aparecer información errónea en el portal del Tribunal. La Sala, tras analizar la competencia, declaró su incompetencia para conocer la solicitud, indicando que corresponde a los Juzgados de Municipio de la Circunscripción Judicial del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "habeas data",
+    "derecho a la información",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0729_E23-1085.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338754-0729-81124-2024-23-1085.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.437160"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 15940,
+  "numero": "0210",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo interpuesta por las abogadas de los ciudadanos Dyna Raquel Aponte Manzanilla y Jorge Luis Capella Aponte. La acción fue presentada contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Yaracuy, que declaró sin lugar el recurso de apelación interpuesto por los demandados. La Sala concluye que la acción de amparo es improcedente in limine litis, ya que no se cumplen los requisitos necesarios para su procedencia, dado que los demandados no contestaron la demanda en el tiempo establecido, lo que llevó a la aplicación de la confesión ficta.",
+  "palabras_clave": [
+    "simulación",
+    "venta",
+    "confesión ficta",
+    "procedimiento civil",
+    "derecho civil",
+    "pruebas",
+    "demanda"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0210_E25-0536.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353486-0210-11326-2026-25-0536.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.582186"
+}

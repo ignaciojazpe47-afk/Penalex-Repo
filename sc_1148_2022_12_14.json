@@ -1,0 +1,23 @@
+{
+  "id": 38007,
+  "numero": "1148",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del 20 de febrero de 2020, dictada por el Juzgado Superior Séptimo, que había declarado prescrita la pretensión de cobro de honorarios profesionales. La Sala encontró que el juzgado de instancia no había fijado el término ultramarino para la evacuación de pruebas esenciales, lo que vulneró el derecho a la defensa y al debido proceso. En consecuencia, se declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando al juzgado de origen dictar una nueva decisión conforme a las consideraciones establecidas por la Sala Constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "debido proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1148_E22-0317.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321982-1148-141222-2022-22-0317.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.155118"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 29728,
+  "numero": "0260",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo interpuesta por ciudadanos indígenas contra el Reglamento Especial que regula la elección de la representación indígena para la Asamblea Nacional, aprobado por el Consejo Nacional Electoral. Los demandantes alegaron que dicho reglamento vulnera sus derechos colectivos y difusos, así como su derecho a la participación política, al establecer un sistema de votación que no respeta sus usos y costumbres. La Sala, tras examinar el expediente, declaró la extinción de la instancia por pérdida del interés procesal, dado que los demandantes no realizaron diligencias para impulsar el proceso durante más de un año.",
+  "palabras_clave": [
+    "Amparo",
+    "Derechos Indígenas",
+    "Reglamento Electoral",
+    "Participación Política"
+  ],
+  "titulo": "Sentencia sobre Acción de Amparo contra Reglamento Electoral Indígena",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0260_E20-0272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324347-0260-12423-2023-20-0272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.041775"
+}

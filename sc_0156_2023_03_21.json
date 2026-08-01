@@ -1,0 +1,23 @@
+{
+  "id": 29417,
+  "numero": "0156",
+  "fecha": "2023-03-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Manuel Neves Gouveia Marques, quien alegó la falta de jurisdicción del Poder Judicial para ejecutar un laudo arbitral dictado en su favor. La Sala Político Administrativa había declarado que el Poder Judicial no tenía jurisdicción para conocer de la ejecución del laudo debido a que la entidad demandada, Inverunión Banco Comercial C.A., se encontraba en un proceso de liquidación administrativa. La Sala Constitucional, tras analizar los argumentos, determinó que la revisión no prosperaba y que el demandante debía acudir a la autoridad administrativa competente para hacer valer sus derechos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "laudo arbitral",
+    "Inverunión Banco Comercial"
+  ],
+  "titulo": "Revisión Constitucional sobre la falta de jurisdicción del Poder Judicial para ejecutar un laudo arbitral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-21_S0156_E15-0826.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323817-0156-21323-2023-15-0826.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.324461"
+}

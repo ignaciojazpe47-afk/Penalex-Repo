@@ -1,0 +1,26 @@
+{
+  "id": 34235,
+  "numero": "1344",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los ciudadanos Isamar Coromoto, José Enrique y Juan Miguel Arias Navarro contra la decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Falcón, que había declarado inadmisible la demanda de desalojo de un local comercial. La Sala determinó que la acción de amparo era improcedente in limine litis, al no demostrarse la relación arrendaticia entre las partes, lo que llevó a la conclusión de que los demandantes carecían de legitimación para intentar la acción de desalojo.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "legitimación",
+    "debido_proceso",
+    "tutela_judicial",
+    "inspección_judicial",
+    "acción_de_amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1344_E23-0436.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328549-1344-17823-2023-23-0436.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.218831"
+}

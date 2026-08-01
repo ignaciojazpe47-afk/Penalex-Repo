@@ -1,0 +1,22 @@
+{
+  "id": 2753,
+  "numero": null,
+  "fecha": "2002-04-25",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, revisó el caso de Gustavo Eugenio Caricote Starszy, quien había sido condenado por la Corte de Apelaciones por la suscripción y publicación dolosa de balances inexactos. La defensa interpuso un recurso de casación argumentando infracciones al debido proceso, específicamente el juzgamiento en ausencia del acusado. La Sala determinó que la falta de notificación personal al imputado afectó la validez del proceso.",
+  "palabras_clave": [
+    "casación",
+    "juzgamiento en ausencia",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Casación en el caso de Gustavo Eugenio Caricote Starszy",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-04-25_CasacionPenal_C010573_PerezPerdomo.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:09.616196"
+}

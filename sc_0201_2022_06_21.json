@@ -1,0 +1,26 @@
+{
+  "id": 35133,
+  "numero": "0201",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Mirna Graciela Balle en representación de Abemilec Saray Balle Gutiérrez, debido a la falta de ratificación personal de la solicitud dentro del plazo establecido por la ley. A pesar de que la acción fue presentada por correo electrónico, la parte actora no compareció para ratificar su solicitud, lo que evidencia su falta de interés en obtener la tutela constitucional solicitada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ratificación",
+    "correo electrónico",
+    "urgencia",
+    "derechos",
+    "justicia",
+    "COVID-19"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0201_E20-0506.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317462-0201-21622-2022-20-0506.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.620377"
+}

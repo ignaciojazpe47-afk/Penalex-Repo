@@ -1,0 +1,24 @@
+{
+  "id": 28339,
+  "numero": "1297",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión constitucional presentada por el abogado José Alberto Navarro Márquez en nombre de Denny Yamilet Hernández Rodríguez. Sin embargo, se declara inadmisible la solicitud debido a la falta de poder suficiente que acredite la condición de apoderado judicial del solicitante, ya que el poder otorgado no es válido para este tipo de procedimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder apud acta",
+    "Código de Procedimiento Civil",
+    "representación judicial",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1297_E22-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340256-1297-51224-2024-22-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.032663"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27954,
+  "numero": "1067",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por INVERSIONES STIMC 2002, C.A. contra decisiones de los Juzgados Superiores que generaron contradicciones en un juicio de resolución de contrato de arrendamiento. Se determinó que el Juzgado Décimo Séptimo había violado derechos constitucionales al ignorar una sentencia firme que extinguía el proceso, lo que llevó a la ejecución de una sentencia contradictoria. La Sala declaró nulas las decisiones impugnadas y confirmó la acción de amparo a favor de BAR RESTAURANT OTELHO, C.A.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contradicciones",
+    "arrendamiento",
+    "derechos constitucionales",
+    "sentencias firmes"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisiones contradictorias en juicio de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1067_E23-1025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339590-1067-271124-2024-23-1025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.484222"
+}

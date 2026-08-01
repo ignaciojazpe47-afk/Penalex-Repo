@@ -1,0 +1,25 @@
+{
+  "id": 33768,
+  "numero": "1915",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Carlos Enrique Dallmeier contra el Consejo Nacional Electoral, argumentando que el demandante no agotó los recursos ordinarios disponibles para impugnar la resolución que negaba el uso de denominaciones provisionales para su partido político. La decisión se basa en la interpretación de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que el amparo no es admisible si existen vías judiciales ordinarias que pueden ser utilizadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Consejo Nacional Electoral",
+    "participación política",
+    "resoluciones",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1915_E21-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331885-1915-121223-2023-21-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.453484"
+}

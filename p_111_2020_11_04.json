@@ -1,0 +1,22 @@
+{
+  "id": 41559,
+  "numero": "111",
+  "fecha": "2020-11-04",
+  "anio": 2020,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "IMPROCEDENTE",
+  "ponente": "FRANCIA COELLO GONZÁLEZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia decidió sobre la solicitud de extradición activa de los ciudadanos Cliver Antonio Alcalá Cordones y Antonio José Sequea Torres, quienes están requeridos por la justicia venezolana por delitos graves. La solicitud fue declarada improcedente debido a que se constató que Alcalá Cordones se encuentra en los Estados Unidos y Sequea Torres enfrenta un proceso penal en Venezuela. La decisión se fundamenta en la falta de certeza sobre la ubicación de los solicitados en Colombia, lo que impide iniciar el procedimiento de extradición.",
+  "palabras_clave": [
+    "extradición",
+    "delitos",
+    "Colombia"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición activa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2020-11-04_S111_E20-73.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/noviembre/310469-111-41120-2020-E20-73.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:05.342876"
+}

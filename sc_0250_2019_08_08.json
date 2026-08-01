@@ -1,0 +1,26 @@
+{
+  "id": 43808,
+  "numero": "0250",
+  "fecha": "2019-08-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de nulidad interpuesta por Juan Ernesto Garantón Hernández contra dos ordenanzas municipales del Municipio Chacao, alegando inconstitucionalidades en su contenido. Se argumentó que las ordenanzas anclaban las multas a un valor fiscal basado en el dólar, lo que contraviene la Constitución de la República Bolivariana de Venezuela. La Sala, tras analizar los fundamentos, se declaró competente para conocer del caso y acordó el amparo cautelar solicitado, suspendiendo los efectos de las ordenanzas impugnadas hasta que se dicte sentencia de fondo.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanza",
+    "constitucionalidad",
+    "municipio",
+    "impuestos",
+    "derechos",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanzas municipales en Chacao",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-08_S0250_E19-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/306927-0250-8819-2019-19-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.401570"
+}

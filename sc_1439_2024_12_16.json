@@ -1,0 +1,23 @@
+{
+  "id": 28683,
+  "numero": "1439",
+  "fecha": "2024-12-16",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Se ANULA el fallo emitido por el Tribunal Tercero de Primera Instancia de Juicio del Trabajo de la Circunscripción Judicial del estado Aragua, con sede en Maracay, el 26 de diciembre de 2022, sometido a consulta per saltum, que estableció el desacato de la sociedad mercantil Alimentos Polar Comercial, C.A. y la consecuente sanción de prisión en el ciudadano Rolman Ceballo.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en su Sala Constitucional, revisó el caso de desacato al mandamiento de amparo constitucional dictado el 12 de noviembre de 2019, donde se ordenó el reenganche y pago de salarios caídos a favor de varios trabajadores. El Tribunal Tercero de Primera Instancia de Juicio del Trabajo había declarado el desacato y sancionado al ciudadano Rolman Ceballo. Sin embargo, la Sala Constitucional determinó que el fallo del Tribunal de origen era nulo por no acatar la doctrina vinculante sobre la suficiencia del poder otorgado al abogado de los accionantes para interponer la acción de amparo. En consecuencia, se ordenó la reposición del caso para que se continúe con la ejecución del mandamiento de amparo ya dictado.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "trabajo",
+    "Alimentos Polar Comercial"
+  ],
+  "titulo": "Sentencia sobre desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-16_S1439_E23-0075.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340792-1439-161224-2024-23-0075.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.813831"
+}

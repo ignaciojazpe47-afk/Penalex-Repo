@@ -1,0 +1,23 @@
+{
+  "id": 21232,
+  "numero": "1246",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró SIN LUGAR la acción de amparo constitucional interpuesta por Javier José Machek Colmenares, representado por la abogada Diana Verónica Dos Santos Zapata, contra un acto administrativo del SENIAT que negó un nuevo reconocimiento de mercancía. La decisión se fundamentó en la falta de ejercicio de recursos ordinarios por parte del demandante, lo que llevó a declarar inadmisible la acción de amparo. Se revocó la sentencia interlocutoria anterior que había declarado procedente la medida cautelar preventiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "SENIAT",
+    "derecho a la defensa",
+    "nuevo reconocimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1246_E25-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346543-1246-28725-2025-25-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.778999"
+}

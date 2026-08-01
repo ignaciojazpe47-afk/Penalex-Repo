@@ -1,0 +1,25 @@
+{
+  "id": 36239,
+  "numero": "0608",
+  "fecha": "2022-02-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Consulta Obligatoria",
+  "materia": "Civil",
+  "decision": "Se ordena oficiar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario, relacionado con una sentencia que confirmó un fallo anterior. Se determinó la competencia de la Sala para conocer la consulta obligatoria sobre la desaplicación de ciertos artículos del Código de Comercio. Se ordenó al juzgado remitente que enviara copias certificadas del expediente para poder juzgar adecuadamente sobre el control de constitucionalidad realizado.",
+  "palabras_clave": [
+    "competencia",
+    "control constitucional",
+    "Código de Comercio",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "sentencia",
+    "aplicación de normas"
+  ],
+  "titulo": "Sentencia sobre consulta obligatoria y desaplicación de normas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0608_E22-0120.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319265-0608-12822-2022-22-0120.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.711873"
+}

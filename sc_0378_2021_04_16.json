@@ -1,0 +1,27 @@
+{
+  "id": 35582,
+  "numero": "0378",
+  "fecha": "2021-04-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional admitió una acción popular de nulidad interpuesta por la Superintendencia de Actividades Hípicas contra la reforma de la Ordenanza de Impuestos sobre Juegos y Apuestas Lícitas. La acción se basa en la supresión y liquidación del Instituto Nacional de Hipódromos y la regulación de actividades hípicas. Se ordenó remitir el expediente al Juzgado de Sustanciación para continuar con el procedimiento correspondiente.",
+  "palabras_clave": [
+    "acción popular",
+    "nulidad",
+    "medida cautelar",
+    "impuestos",
+    "juegos",
+    "apuestas",
+    "municipio",
+    "superintendencia"
+  ],
+  "titulo": "Sentencia sobre acción popular de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0378_E19-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318139-0378-25722-2022-19-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.898399"
+}

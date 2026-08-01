@@ -1,0 +1,22 @@
+{
+  "id": 28026,
+  "numero": "1115",
+  "fecha": "2024-04-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional revisó la sentencia N° 177 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso extraordinario de casación interpuesto por Edgar Moreno Bejarano. La decisión original anuló un fallo del Juzgado Superior Tercero en lo Civil, Mercantil y Tránsito de Lara, que había desestimado una demanda por cumplimiento de contrato presentada por varias sociedades mercantiles contra Combustión Service C.A. La Sala Constitucional consideró que la Sala de Casación Civil incurrió en incongruencia positiva al no valorar adecuadamente pruebas presentadas por la parte demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "contrato"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1115_E24-0593.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339695-1115-281124-2024-24-0593.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.650796"
+}

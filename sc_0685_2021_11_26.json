@@ -1,0 +1,25 @@
+{
+  "id": 40499,
+  "numero": "0685",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de noviembre de 2021, declaró inadmisible la solicitud de revisión constitucional presentada por el abogado Luis Betancourt Zurita en representación de Roberto Carlos Zarate Rodríguez. La solicitud se basaba en la alegación de violación del derecho a la defensa y al debido proceso en una sentencia anterior dictada por la Corte Segunda de lo Contencioso Administrativo el 29 de enero de 2019.\n\nLa Sala argumentó que el solicitante no cumplió con la carga procesal de presentar copia certificada de la sentencia cuya revisión se solicitaba, lo que llevó a la inadmisibilidad de la solicitud conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La decisión reafirma la importancia de cumplir con los requisitos procesales para la admisión de recursos ante el Tribunal.\n\nFinalmente, la Sala se declaró competente para conocer la solicitud, pero al no cumplir con los requisitos formales, se procedió a declarar la inadmisibilidad de la misma.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "apelación",
+    "sentencia firme",
+    "jurisdicción contenciosa"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0685_E19-0595.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314761-0685-261121-2021-19-0595.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.491449"
+}

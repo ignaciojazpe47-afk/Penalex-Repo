@@ -1,0 +1,23 @@
+{
+  "id": 30328,
+  "numero": "0546",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la solicitud de revisión presentada por el abogado Reinaldo Jesús Guilarte Lamuño, actuando en nombre del Banco Provincial, S.A. Banco Universal, contra la sentencia N° 266 de la Sala de Casación Social. La revisión se fundamentó en alegaciones de violaciones a derechos constitucionales, específicamente el derecho a la defensa y al debido proceso, en relación con la certificación de enfermedad ocupacional de una trabajadora. La Sala concluyó que no se evidenció el vicio denunciado y que la decisión de la Sala de Casación Social fue ajustada a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acoso laboral",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0546_E22-0146.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325178-0546-16523-2023-22-0146.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.872593"
+}

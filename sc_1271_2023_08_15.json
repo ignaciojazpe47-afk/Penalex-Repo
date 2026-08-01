@@ -1,0 +1,26 @@
+{
+  "id": 34160,
+  "numero": "1271",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por la Jueza Inés María Alonso Aguilera contra la decisión que declaró procedente la acción de amparo constitucional presentada por Ramez Al Hossin Nasser. La Sala consideró que la apelación era improponible, ya que la Jueza no tenía interés legítimo para impugnar la decisión, dado que su función es administrar justicia en nombre de la República y no en interés propio. Además, se anula el auto que oyó la apelación interpuesta, reafirmando la protección de los derechos constitucionales en el proceso judicial.",
+  "palabras_clave": [
+    "inhibición",
+    "medidas cautelares",
+    "derecho al juez natural",
+    "constitución",
+    "procedimiento civil",
+    "justicia",
+    "imparcialidad"
+  ],
+  "titulo": "Decisión sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1271_E22-0767.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328472-1271-15823-2023-22-0767.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.233792"
+}

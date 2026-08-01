@@ -1,0 +1,24 @@
+{
+  "id": 37791,
+  "numero": "1101",
+  "fecha": "2022-12-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda autónoma de protección de derechos e intereses colectivos interpuesta por ciudadanos contra el Alcalde del Municipio Carirubana y otros, debido a la amenaza de embargo sobre bienes de la empresa CARDÓN IV, que afecta el suministro de gas y energía eléctrica en el país. La Sala decidió otorgar medida cautelar innominada, suspendiendo el embargo y ordenando a la Alcaldía abstenerse de ejecutar medidas que interrumpan la actividad de exploración y explotación de hidrocarburos de CARDÓN IV, hasta que se resuelva la controversia en el proceso contencioso-tributario en curso.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "embargo",
+    "hidrocarburos",
+    "gas",
+    "energía eléctrica"
+  ],
+  "titulo": "Sentencia sobre demanda autónoma de protección de derechos e intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-08_S1101_E22-0987.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321659-1101-81222-2022-22-0987.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.437063"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 22650,
+  "numero": "1706",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Sergio Guerrero Villasmil contra la sentencia dictada el 6 de septiembre de 2024, que declaró sin lugar su apelación contra el archivo judicial de las actuaciones en su caso. La Corte de Apelaciones había decidido archivar el caso debido a la inacción del Ministerio Público en presentar un acto conclusivo dentro del plazo legal establecido. La Sala Constitucional determinó que la decisión de la Corte de Apelaciones se ajustó a derecho y no vulneró derechos constitucionales, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "lesiones personales",
+    "archivo judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión de sentencia de apelación en caso de lesiones personales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1706_E25-0881.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349310-1706-291025-2025-25-0881.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.535947"
+}

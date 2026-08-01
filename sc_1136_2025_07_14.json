@@ -1,0 +1,26 @@
+{
+  "id": 20935,
+  "numero": "1136",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Jorge Alberto Hernández Fernández, en representación de la sociedad mercantil Columbus Sport 99, C.A., propietaria del equipo de baloncesto Guaros de Lara B.B.C. La acción se dirigió contra la Junta Directiva de la Superliga Profesional de Baloncesto de Venezuela, alegando violaciones a derechos colectivos y difusos de los deportistas y la fanaticada. La Sala, tras analizar los argumentos, declaró su incompetencia para conocer del caso, declinando la competencia al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del Estado Lara.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "baloncesto",
+    "superliga",
+    "deporte",
+    "derecho al trabajo",
+    "intereses difusos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra la Superliga Profesional de Baloncesto",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1136_E24-0307.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346043-1136-14725-2025-24-0307.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.390051"
+}

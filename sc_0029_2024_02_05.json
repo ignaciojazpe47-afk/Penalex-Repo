@@ -1,0 +1,24 @@
+{
+  "id": 24082,
+  "numero": "0029",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Antonio Lito Gomes de Aguiar, quien alegó daños a su propiedad debido a lluvias en el municipio Carrizal. La Sala observó que la solicitud no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que no se especificaron los hechos ni el órgano contra el cual se dirigía la acción. Por lo tanto, se ordenó al accionante corregir su solicitud en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "requisitos",
+    "acción constitucional",
+    "notificación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0029_E21-0626.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332381-0029-5224-2024-21-0626.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.833196"
+}

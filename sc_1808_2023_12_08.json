@@ -1,0 +1,26 @@
+{
+  "id": 33474,
+  "numero": "1808",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Norka Correa Lugo, apoderada del ciudadano José Ramos de Azevedo, contra la Sala Especial Dos de la Corte de Apelaciones. La acción se basaba en la presunta omisión de pronunciamiento respecto a un recurso de apelación. La Sala concluyó que la omisión denunciada había cesado, ya que la Corte de Apelaciones emitió pronunciamiento sobre el caso en cuestión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derechos fundamentales",
+    "acceso a la justicia",
+    "tutela judicial efectiva",
+    "competencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1808_E22-0762.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331343-1808-81223-2023-22-0762.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.463709"
+}

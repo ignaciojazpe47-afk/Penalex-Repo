@@ -1,0 +1,23 @@
+{
+  "id": 38671,
+  "numero": "0161",
+  "fecha": "2019-11-29",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC-000511 dictada el 29 de noviembre de 2019, que declaró sin lugar el recurso extraordinario de casación interpuesto por WALLMAR C.A. contra la decisión del Juzgado Superior en lo Civil, Mercantil, Bancario, Tránsito y Marítimo de Falcón. La controversia se centró en la legitimación activa de la demandante para solicitar el desalojo, dado que se alegó que el inmueble había sido vendido a VINEX CAPITAL INC. y que esta última debía ser la parte demandante. La Sala concluyó que la demandante tenía la cualidad para actuar, ya que la relación arrendaticia continuó a pesar del cambio de propietario.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "legitimación activa",
+    "arrendamiento"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0161_E20-0004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312121-0161-14521-2021-20-0004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.828079"
+}

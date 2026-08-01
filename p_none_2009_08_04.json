@@ -1,0 +1,22 @@
+{
+  "id": 8091,
+  "numero": null,
+  "fecha": "2009-08-04",
+  "anio": 2009,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "IMPROCEDENTE",
+  "ponente": "ELADIO RAMÓN APONTE APONTE",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara improcedente la solicitud de extradición del ciudadano español Ignacio Echeverría Landazábal, requerido por el Reino de España. La decisión se basa en que la acción penal correspondiente se encuentra prescrita según la legislación venezolana, ya que han transcurrido más de 15 años desde el auto de procesamiento emitido en 1993. La Sala resalta que la extradición no puede proceder al faltar este requisito establecido en el tratado de extradición entre ambos países.",
+  "palabras_clave": [
+    "extradición",
+    "prescripción",
+    "delito"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición del ciudadano Ignacio Echeverría Landazábal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2009_RamonAponte_12.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:51.984160"
+}

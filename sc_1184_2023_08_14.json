@@ -1,0 +1,24 @@
+{
+  "id": 34077,
+  "numero": "1184",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, decidió no ha lugar la revisión constitucional solicitada por Alberto González Crespo, quien impugnó la sentencia del 16 de mayo de 2022 dictada por el Juzgado Tercero de Municipio Ordinario. La decisión del tribunal inferior había declarado con lugar la demanda de desalojo presentada por María Riccobono Longo, confirmando la confesión ficta de la parte demandada por no haber contestado la demanda en el tiempo establecido.\n\nEl tribunal argumentó que la revisión no cumplía con los requisitos para ser admitida, ya que no se evidenció una violación de derechos fundamentales ni un criterio interpretativo de normas constitucionales que justificara la intervención de la Sala. Se destacó que la revisión constitucional es un mecanismo extraordinario y no debe ser confundido con una tercera instancia.\n\nFinalmente, se ordenó la publicación y registro de la decisión, reafirmando la validez de la sentencia apelada y la obligación de desalojo del local comercial en cuestión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "confesión ficta",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1184_E23-0451.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328388-1184-14823-2023-23-0451.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.862072"
+}

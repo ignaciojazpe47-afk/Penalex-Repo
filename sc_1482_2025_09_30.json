@@ -1,0 +1,26 @@
+{
+  "id": 21944,
+  "numero": "1482",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de revisión constitucional presentada por DISTRIBUIDORA FUGARET ARAGUA, C.A. contra una decisión del Juzgado Superior Segundo en lo Civil, que había declarado sin lugar un recurso de apelación. La Sala consideró que existían violaciones al derecho de defensa y al debido proceso en la actuación del juez inferior, lo que justificó la revisión de la sentencia impugnada.",
+  "palabras_clave": [
+    "debido_proceso",
+    "arrendamiento",
+    "jurisdicción",
+    "constitución",
+    "código_procedimiento_civil",
+    "SUNDDE",
+    "regulación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1482_E25-0959.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348097-1482-30925-2025-25-0959.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.202804"
+}

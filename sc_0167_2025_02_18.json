@@ -1,0 +1,25 @@
+{
+  "id": 18480,
+  "numero": "0167",
+  "fecha": "2025-02-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional recibió una solicitud de revisión constitucional presentada por Jorge Luis Segovia Borja en contra de una sentencia de la Corte de Apelaciones que declaró inadmisible su acción de amparo. El solicitante argumentó la falta de legitimidad de la decisión y la violación de su derecho a la defensa. La Sala, tras revisar las actuaciones, decidió ordenar la remisión del expediente original para garantizar la tutela de los derechos constitucionales.",
+  "palabras_clave": [
+    "tutela judicial",
+    "derechos constitucionales",
+    "expediente",
+    "circuito judicial",
+    "remisión",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-18_S0167_E24-1212.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341584-0167-18225-2025-24-1212.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.760792"
+}

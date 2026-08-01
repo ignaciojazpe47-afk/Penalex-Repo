@@ -1,0 +1,22 @@
+{
+  "id": 50321,
+  "numero": "70",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de amparo constitucional interpuesta por la Sociedad de Comercio “AFFINIA VENEZUELA, C.A.” contra la sentencia del Tribunal Superior Segundo del Trabajo de Carabobo, que confirmaba una decisión de nulidad administrativa. Se argumentó que la decisión del tribunal inferior violó derechos fundamentales de la empresa y de los trabajadores, al no considerar adecuadamente los medios alternativos de resolución de conflictos y el debido proceso. La Sala decidió revocar la sentencia impugnada y ordenó la reincorporación de los trabajadores afectados, así como el pago de salarios caídos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "reducción de personal"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra decisión del Tribunal Superior Segundo del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S70_E16-1057.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196376-70-23217-2017-16-1057.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.250335"
+}

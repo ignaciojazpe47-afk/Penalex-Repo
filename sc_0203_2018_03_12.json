@@ -1,0 +1,25 @@
+{
+  "id": 45921,
+  "numero": "0203",
+  "fecha": "2018-03-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional respecto de la sentencia definitiva dictada el 27 de junio de 2016, por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Zulia, la cual se declara nula.",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 27 de junio de 2016, que había declarado con lugar un recurso de apelación y revocado una decisión anterior sobre un juicio de reivindicación. Se argumentó que la sentencia impugnada presentaba contradicciones en su motivación, afectando los derechos constitucionales a la defensa y a la tutela judicial efectiva de los solicitantes. La Sala concluyó que la decisión carecía de fundamentos razonables y ordenó la nulidad de la sentencia, instruyendo a otro juzgado a emitir una nueva decisión sin incurrir en los vicios detectados.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "prescripción adquisitiva",
+    "derechos fundamentales",
+    "infracción constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre reivindicación y usucapión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-12_S0203_E16-1245.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208584-0203-12318-2018-16-1245.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.692101"
+}

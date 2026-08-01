@@ -1,0 +1,24 @@
+{
+  "id": 21470,
+  "numero": "1330",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de avocamiento presentada por José Armando Reyes Martínez, asistido por su abogado León Izaguirre Vásquez. La solicitud se refiere a una serie de denuncias sobre presuntas irregularidades en un proceso penal en curso. La Sala decide declinar el conocimiento de la solicitud a la Sala de Casación Penal, ordenando el remitir las actuaciones correspondientes para su pronunciamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos fundamentales",
+    "debido proceso",
+    "tutela judicial",
+    "intervención judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1330_E24-1148.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346992-1330-6825-2025-24-1148.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.871483"
+}

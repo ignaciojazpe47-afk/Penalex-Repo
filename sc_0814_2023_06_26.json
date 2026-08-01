@@ -1,0 +1,26 @@
+{
+  "id": 31031,
+  "numero": "0814",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Freddy Ferrer Medina, en representación de Rusmeri del Rosario Pineda Cañamo, contra el Jefe del Comando Antiextorsión y Secuestro (CONAS) de la Guardia Nacional Bolivariana. La Sala declaró su incompetencia para conocer la acción, declinando la competencia al Juzgado Quinto de Primera Instancia Estadal con Competencia Funcional Municipal en Funciones de Control del Circuito Judicial Penal del Estado Zulia, donde se había originado el caso.\n\nLa decisión se fundamenta en la normativa que establece que las acciones de amparo deben ser conocidas por los tribunales de primera instancia en la materia afín, en este caso, el Juzgado de Control. La Sala también destacó la importancia de garantizar el respeto a los derechos y garantías constitucionales, así como la necesidad de celeridad en el procedimiento de amparo constitucional.\n\nFinalmente, se ordenó remitir el expediente al juzgado competente para que se decida sobre la acción de amparo constitucional solicitada, asegurando así el cumplimiento de la decisión y la protección de los derechos de la ciudadana involucrada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "libertad",
+    "justicia",
+    "competencia",
+    "constitucional",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en la modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0814_E18-0830.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326470-0814-26623-2023-18-0830.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.553538"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 49653,
+  "numero": "0900",
+  "fecha": "2018-12-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 15 de febrero de 2017, que declaró inadmisible la demanda de cumplimiento de contrato presentada por Wilmer Antonio González Mendoza contra Valentín Antonio Marchena Castillo. La Sala concluyó que el tribunal inferior incurrió en un error al exigir la presentación del documento fundamental de la acción, ya que no existía un contrato escrito entre las partes. Se determinó que la falta de acompañamiento del documento no era causal de inadmisibilidad y que el demandante había alegado que el contrato era verbal, lo que no fue considerado por el tribunal inferior. Por lo tanto, se declaró con lugar la solicitud de revisión y se ordenó al juzgado inferior dictar una nueva decisión sobre el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "cumplimiento de contrato",
+    "derecho a la tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre inadmisibilidad de demanda por cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-13_S0900_E17-0316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/303255-0900-131218-2018-17-0316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.140525"
+}

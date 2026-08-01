@@ -1,0 +1,23 @@
+{
+  "id": 22791,
+  "numero": "1740",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por José Gregorio Lobo Ojeda, presidente de la Asociación Civil Don Jaime, contra decisiones del Juzgado Superior Primero Civil que declararon la nulidad de un asiento registral. La Sala anuló las decisiones impugnadas, argumentando que se basaron en un falso supuesto de hecho, ya que el auto de disposición del Tribunal Penal sí contenía la firma de la secretaria, lo que invalidaba la nulidad declarada. Se concluyó que la acción de nulidad presentada por Iván Alfonzo Herrera Parra carecía de fundamento y se declaró improcedente.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Asociación Civil Don Jaime",
+    "nulidad de asiento registral",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de la Asociación Civil Don Jaime",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1740_E24-0504.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349480-1740-31125-2025-24-0504.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.529853"
+}

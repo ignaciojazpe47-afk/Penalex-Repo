@@ -1,0 +1,27 @@
+{
+  "id": 34136,
+  "numero": "1241",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Manuel Felipe Duarte Abraham, en relación a la sentencia N° 000048/2021 de la Sala de Casación Civil. En esta sentencia, se había declarado con lugar un recurso extraordinario de casación interpuesto contra un fallo del Juzgado Superior Séptimo que había declarado sin lugar una demanda de cumplimiento de contrato de opción de compraventa. La Sala Constitucional, tras analizar los alegatos, concluyó que no había lugar para la revisión, ya que no se evidenció la existencia de vicios en la sentencia impugnada.",
+  "palabras_clave": [
+    "carga de la prueba",
+    "incongruencia negativa",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "contrato de opción de compra",
+    "jurisprudencia",
+    "sentencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1241_E21-0285.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328448-1241-14823-2023-21-0285.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.861210"
+}

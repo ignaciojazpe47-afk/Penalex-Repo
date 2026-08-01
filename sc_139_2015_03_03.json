@@ -1,0 +1,23 @@
+{
+  "id": 62202,
+  "numero": "139",
+  "fecha": "2015-03-03",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por María Georgina Quevedo contra la sentencia del Juzgado Superior Primero del Trabajo de Lara, que había declarado sin lugar su demanda por cobro de prestaciones sociales, alegando prescripción. La Sala constató que la decisión impugnada violó el derecho a la tutela judicial efectiva y el principio in dubio pro operario, ya que no se consideraron actos que interrumpieron la prescripción de la acción laboral. En consecuencia, se declaró con lugar la solicitud de revisión, se anuló la sentencia recurrida y se ordenó que otro Juzgado Superior del Trabajo resolviera la apelación conforme al criterio establecido en el fallo.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia laboral",
+    "prescripción",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-03_S139_E14-1286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/174811-139-3315-2015-14-1286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.146937"
+}

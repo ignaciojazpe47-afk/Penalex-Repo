@@ -1,0 +1,26 @@
+{
+  "id": 20331,
+  "numero": "0907",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Iraima Alejandra Carry Rojas, en representación de los ciudadanos Jairo José Lezama y Pedro Alexander Acosta Manrique, contra la decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La inadmisibilidad se fundamenta en la falta de presentación de documentos necesarios para verificar la legitimidad de la acción. La Sala también se declara competente para conocer del caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad",
+    "poder judicial",
+    "derechos constitucionales",
+    "representación",
+    "carga procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0907_E21-0669.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344712-0907-11625-2025-21-0669.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.299985"
+}

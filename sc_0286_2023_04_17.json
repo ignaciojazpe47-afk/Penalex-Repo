@@ -1,0 +1,25 @@
+{
+  "id": 29754,
+  "numero": "0286",
+  "fecha": "2023-04-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer el amparo constitucional interpuesto por Mercedes Coromoto Salazar, quien actúa como apoderada judicial de Josefa Maigualida Ramírez. La acción fue presentada debido a presuntas arbitrariedades cometidas por integrantes de la Junta de Condominio del Conjunto Residencial Edificio Portera, quienes impiden el uso de servicios públicos en el apartamento de la demandante.\nLa Sala determina que el tribunal competente para conocer el caso es el Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Anzoátegui, Extensión Puerto La Cruz. Se ordena la remisión del expediente a la Unidad de Recepción y Distribución de Documentos de dicha circunscripción judicial para su distribución a un juez competente.\nFinalmente, se publica y registra la decisión, cumpliendo con lo ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "competencia",
+    "servicios públicos",
+    "propiedad",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre incompetencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-17_S0286_E22-0854.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324373-0286-17423-2023-22-0854.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.822345"
+}

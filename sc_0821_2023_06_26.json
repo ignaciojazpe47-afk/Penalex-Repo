@@ -1,0 +1,24 @@
+{
+  "id": 31038,
+  "numero": "0821",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por Williams Gil contra la Dirección Política de la organización CUENTAS CLARAS. La Sala determina que la competencia corresponde a la Sala Electoral, dado que la demanda se relaciona con actos de un partido político en un contexto electoral. Se ordena remitir el expediente a la Sala Electoral para su trámite correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "electoral",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0821_E20-0225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326477-0821-26623-2023-20-0225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.554070"
+}

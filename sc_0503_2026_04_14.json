@@ -1,0 +1,25 @@
+{
+  "id": 17506,
+  "numero": "0503",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la decisión dictada el 13 de agosto de 2025, por el Juzgado Superior en lo Civil, Mercantil, Bancario y del Tránsito del Primer Circuito de la Circunscripción Judicial del Estado Portuguesa. La solicitud fue presentada por John Franklin Sulbarán Viera, quien impugnó la decisión que declaró inadmisible la recusación contra la jueza Mayuly del Valle Martínez Guzmán. La Sala argumenta que la decisión no puso fin al juicio y no adquirió firmeza, lo que impide su revisión.",
+  "palabras_clave": [
+    "recusación",
+    "imparcialidad",
+    "enemistad",
+    "jueces",
+    "Código de Procedimiento Civil",
+    "derecho procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0503_E25-1253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354954-0503-14426-2026-25-1253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.892719"
+}

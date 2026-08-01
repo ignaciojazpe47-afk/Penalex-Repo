@@ -1,0 +1,24 @@
+{
+  "id": 33909,
+  "numero": "2056",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 20 de diciembre de 2023, declaró con lugar el recurso de apelación interpuesto por Isabel Cristina Cortesi de Loyo, revocando la decisión del Juzgado Superior Segundo que había declarado inadmisible la acción de amparo. La Sala determinó que la admisión de la reforma de la demanda por parte del Juzgado Segundo de Primera Instancia había vulnerado derechos constitucionales, ya que no se resolvieron previamente las cuestiones previas planteadas por la demandada. Se ordenó la reposición del juicio al estado de nuevo pronunciamiento sobre la admisión de la reforma de la demanda, garantizando así el derecho a la defensa y el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "reforma de demanda",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre la admisión de reforma de demanda en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2056_E23-0128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332026-2056-201223-2023-23-0128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.683585"
+}

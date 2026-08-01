@@ -1,0 +1,27 @@
+{
+  "id": 17940,
+  "numero": "0102",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por los ciudadanos Miguel Leopoldo Baptista Esteva, Milagro Coromoto Cordero de Baptista y Juan José Baptista Cordero, en relación a una sentencia dictada el 6 de agosto de 2019 por el Juzgado Superior en lo Civil, Mercantil y Tránsito del Estado Portuguesa. La decisión impugnada había declarado sin lugar un recurso de apelación y acordado un mandamiento de amparo constitucional a favor de la colectividad de Araure y Acarigua.\n\nLa Sala fundamentó su decisión en la existencia de cosa juzgada, dado que la misma sentencia ya había sido objeto de revisión previa. Se destacó que el Juzgado Superior había excedido su competencia al dictar un mandamiento de amparo de oficio, lo que afectó el orden público procesal y los derechos al debido proceso de las partes involucradas.\n\nFinalmente, se ordenó archivar el expediente, reafirmando la inadmisibilidad de la solicitud de revisión constitucional presentada por los demandantes.",
+  "palabras_clave": [
+    "convocatoria",
+    "nulidad",
+    "asamblea",
+    "sociedad mercantil",
+    "derechos accionistas",
+    "transparencia",
+    "orden público",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0102_E21-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353083-0102-2326-2026-21-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.383980"
+}

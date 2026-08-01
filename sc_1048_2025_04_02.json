@@ -1,0 +1,25 @@
+{
+  "id": 20649,
+  "numero": "1048",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000542/2024, dictada por la Sala de Casación Civil, que declaró con lugar el recurso extraordinario de casación interpuesto por CONSTRUCTORA NASE, C.A. contra una decisión del Juzgado Superior Quinto. La Sala declaró la nulidad absoluta de la sentencia recurrida y parcialmente con lugar la demanda por nulidad de actas de asambleas de INVERSIONES GELISCAP C.A.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "nulidad",
+    "sociedades",
+    "actas",
+    "inspección ocular"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 000542/2024",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1048_E25-0316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345323-1048-30625-2025-25-0316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.601580"
+}

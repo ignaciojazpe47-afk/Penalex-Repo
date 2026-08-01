@@ -1,0 +1,27 @@
+{
+  "id": 29751,
+  "numero": "0283",
+  "fecha": "2023-04-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por Richard Rodríguez Marchan, apoderado judicial de Franklin Hair Center, C.A., respecto a la sentencia N° RC-000163 de fecha 8 de junio de 2021. La Sala declaró su competencia para conocer la solicitud, pero la consideró inadmisible debido a la falta de presentación de documentos esenciales, como la copia certificada de la decisión impugnada y el poder que acreditara la representación del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "debido proceso",
+    "competencia",
+    "casación",
+    "derechos",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-17_S0283_E21-0694.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324370-0283-17423-2023-21-0694.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.821228"
+}

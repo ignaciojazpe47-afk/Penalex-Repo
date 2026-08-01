@@ -1,0 +1,22 @@
+{
+  "id": 27606,
+  "numero": "0853",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por María Johanna González Astudillo, quien buscaba restablecer sus derechos constitucionales tras la inadmisibilidad de su acción de amparo por parte del Juzgado Superior Civil. La Sala confirmó la decisión del Juzgado, argumentando que la parte recurrente no agotó los recursos ordinarios disponibles antes de acudir al amparo, lo que llevó a declarar sin lugar el recurso de apelación. La decisión se fundamentó en la jurisprudencia que establece que el amparo no debe ser utilizado como un recurso ordinario.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0853_E23-0939.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339043-0853-151124-2024-23-0939.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.202084"
+}

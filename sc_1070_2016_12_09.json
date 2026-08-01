@@ -1,0 +1,24 @@
+{
+  "id": 61114,
+  "numero": "1070",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 812, decide sobre la solicitud de avocamiento presentada por Hugo Armando Carvajal Barrios, quien alegó violaciones al orden público constitucional en el proceso de divorcio que se tramitaba en el Juzgado de Municipio y Ejecutor de Medidas del Municipio Los Salias. La Sala concluye que el Juzgado no siguió el procedimiento adecuado, permitiendo un contradictorio no previsto y abriendo una articulación probatoria extemporáneamente, lo que transgredió derechos fundamentales al debido proceso y a la tutela judicial efectiva.\n\nSe anulan las actuaciones del Juzgado y se decreta el divorcio entre las partes, reconociendo que la ruptura del vínculo matrimonial se fundamenta en la falta de afecto y la incompatibilidad de caracteres, lo que justifica la disolución del matrimonio. La Sala reafirma que las causales de divorcio no son taxativas y que cualquier situación que impida la continuación de la vida en común puede ser alegada como causal de divorcio, garantizando así el libre desenvolvimiento de la personalidad y el derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "avocamiento",
+    "divorcio",
+    "orden público constitucional",
+    "tutela judicial efectiva",
+    "procedimiento contencioso"
+  ],
+  "titulo": "Sentencia sobre avocamiento en solicitud de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1070_E16-0916.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193699-1070-91216-2016-16-0916.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.111220"
+}

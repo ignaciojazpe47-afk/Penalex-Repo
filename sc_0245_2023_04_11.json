@@ -1,0 +1,22 @@
+{
+  "id": 29713,
+  "numero": "0245",
+  "fecha": "2023-04-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la declinatoria de competencia realizada por el Juzgado Superior Estadal de lo Contencioso Administrativo de Táchira, declarando su incompetencia para conocer de la acción de amparo interpuesta por el abogado Mauro Orlando Viloria González en representación del alcalde Gustavo Delgado López. La Sala determinó que el conocimiento de la acción corresponde al Juzgado Superior Estadal en lo Contencioso Administrativo de la misma circunscripción judicial.\n\nLa decisión se fundamenta en la naturaleza del acto administrativo impugnado, que se refiere a la aprobación de la Ordenanza de Presupuesto Anual de Ingresos y Gastos Públicos Municipales para el ejercicio fiscal 2021, y en la necesidad de garantizar el acceso a la justicia y la protección de los derechos fundamentales de los ciudadanos. La Sala enfatizó que la competencia para conocer de acciones de amparo debe ser ejercida por el tribunal más cercano al justiciable, en este caso, el tribunal contencioso administrativo de la región.\n\nFinalmente, la Sala declaró que no era necesario pronunciarse sobre la medida cautelar solicitada, dado que ya se había determinado la incompetencia del tribunal que conoció inicialmente el caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "presupuesto municipal"
+  ],
+  "titulo": "Sentencia sobre declinatoria de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0245_E21-0045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324332-0245-11423-2023-21-0045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.049171"
+}

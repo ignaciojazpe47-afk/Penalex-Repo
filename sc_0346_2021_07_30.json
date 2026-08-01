@@ -1,0 +1,25 @@
+{
+  "id": 39144,
+  "numero": "0346",
+  "fecha": "2021-07-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "CALIxto Ortega Ríos",
+  "resumen": "El ciudadano Edecio José Saez Cordova interpuso una acción de amparo constitucional contra un acto electoral de la Comisión Electoral Ad Hoc de la Caja de Ahorro y Previsión Social de los Empleados del Poder Electoral. La Sala Constitucional, tras revisar el expediente, determinó que el acto era de naturaleza electoral y que no tenía competencia para conocer la acción, declinando dicha competencia a la Sala Electoral del Tribunal Supremo de Justicia. La decisión se fundamenta en la Ley Orgánica del Tribunal Supremo de Justicia, que establece las competencias de cada sala en materia electoral.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "elecciones",
+    "caja de ahorro",
+    "poder electoral",
+    "sufragio"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-30_S0346_E21-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312800-0346-30721-2021-21-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.753908"
+}

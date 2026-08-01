@@ -1,0 +1,24 @@
+{
+  "id": 33511,
+  "numero": "1845",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por la abogada Ana Hilda Acevedo Aguilar, en representación de Vicmore Segundo Segovia Jiménez, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamenta su decisión en que el recurso fue presentado fuera del lapso legal establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "apelación",
+    "competencia",
+    "acción de amparo",
+    "Corte de Apelaciones",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1845_E23-1000.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331380-1845-81223-2023-23-1000.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.470018"
+}

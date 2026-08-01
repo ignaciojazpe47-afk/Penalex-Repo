@@ -1,0 +1,26 @@
+{
+  "id": 27011,
+  "numero": "0497",
+  "fecha": "2024-01-09",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por los abogados de Yosmar Andrés Donaire, contra la decisión del Tribunal Quinto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Bolívar. La acción fue declarada inadmisible por no haberse agotado la vía ordinaria del recurso de apelación, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa decisión del Tribunal Quinto, que decretó el sobreseimiento provisional de la causa, fue objeto de apelación, pero los abogados interpusieron el recurso fuera del lapso legal establecido. La Sala Constitucional reafirmó su competencia para conocer del recurso, pero al ser extemporáneo, declaró firme la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo.\n\nFinalmente, se ordenó la remisión del expediente al tribunal de origen y se dejó firme la decisión del 25 de octubre de 2023, que había declarado inadmisible la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "Ley Contra la Corrupción",
+    "igualdad de partes",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0497_E24-0012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338385-0497-301024-2024-24-0012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.841690"
+}

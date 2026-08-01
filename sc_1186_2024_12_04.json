@@ -1,0 +1,24 @@
+{
+  "id": 28135,
+  "numero": "1186",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por Gustavo Lozano Prada contra la Jueza del Tribunal Décimo Segundo, quien había decretado medidas de protección que limitaban el libre tránsito de la junta directiva del colegio. La Sala consideró que las medidas eran inadecuadas y que la denuncia presentada revestía carácter penal, no de protección. Se declaró sin lugar la apelación interpuesta por los demandantes y se confirmó la decisión del Tribunal Superior que había declarado parcialmente con lugar la acción de amparo, anulando las actuaciones previas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protección de niños",
+    "libre tránsito",
+    "junta ad-hoc",
+    "irregularidades administrativas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en el caso de la Unidad Educativa Nuestra Señora de Pompei",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1186_E24-0781.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340025-1186-41224-2024-24-0781.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.043819"
+}

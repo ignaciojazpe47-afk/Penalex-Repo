@@ -1,0 +1,22 @@
+{
+  "id": 32989,
+  "numero": "1558",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Francisco Labrador en representación del ciudadano Omar Hernández, quien alegó violaciones a su derecho de defensa y debido proceso. La Sala determinó su competencia para conocer el recurso de apelación contra la decisión de la Corte de Apelaciones que declaró inadmisible la tutela constitucional solicitada. Se ordenó al Circuito Judicial Penal que remita copias certificadas de las actuaciones desde la fecha de la sentencia condenatoria hasta su firmeza.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Francisco Labrador",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1558_E21-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330613-1558-271123-2023-21-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.420052"
+}

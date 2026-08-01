@@ -1,0 +1,26 @@
+{
+  "id": 32921,
+  "numero": "1490",
+  "fecha": "2023-11-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por José Gregorio Ocanto Carrasco, quien solicitó amparo constitucional por la inadmisibilidad de su acción ante el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Lara. La Sala declaró su competencia para conocer la apelación, considerando que el Juzgado había incurrido en obstrucción de la justicia al no permitir el acceso al expediente y al no distribuir la causa adecuadamente tras una inhibición del juez.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "proceso",
+    "inhibición",
+    "tutela",
+    "administración"
+  ],
+  "titulo": "Decisión sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-21_S1490_E22-0092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330541-1490-211123-2023-22-0092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.444369"
+}

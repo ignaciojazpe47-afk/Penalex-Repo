@@ -1,0 +1,23 @@
+{
+  "id": 46715,
+  "numero": "0341",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia del Juzgado Superior Primero en lo Civil que había declarado sin lugar un recurso de apelación en un caso de partición de comunidad conyugal. La parte demandada alegó que la sentencia violaba derechos constitucionales, argumentando que la cosa juzgada debía ser considerada como oposición a la partición. La Sala concluyó que la decisión del tribunal inferior fue excesivamente formalista y que la oposición a la partición debía ser admitida, por lo que se declaró con lugar la revisión solicitada y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "partición de comunidad conyugal",
+    "cosa juzgada",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de partición de comunidad conyugal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-11_S0341_E17-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211097-0341-11518-2018-17-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.806890"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2850,
+  "numero": null,
+  "fecha": "2002-08-13",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 13 de agosto de 2002, confirmó la decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito, Trabajo, Menores y Estabilidad Laboral de la Circunscripción Judicial del Estado Aragua, que declaró con lugar la acción de amparo constitucional interpuesta por los ciudadanos Pedro Oscar Vera Colina, Antonio Enrique Arévalo, Donato Modazzi y Carlos González. La decisión se fundamentó en la violación del derecho al debido proceso y a la defensa, al no haberse oído a los administradores denunciados en el procedimiento de jurisdicción voluntaria que se impugnó.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al debido proceso",
+    "irregularidades administrativas"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en relación a irregularidades administrativas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-08-13_Constitucional_01_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.422962"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2405,
+  "numero": null,
+  "fecha": "2001-04-09",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "CONFIRMA",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia confirma la decisión del Juzgado Superior Noveno que declaró terminado el procedimiento de amparo constitucional interpuesto por Jenisa Granadino. La decisión se basa en la falta de comparecencia de la parte accionante a la audiencia constitucional programada. Se ordena la remisión del expediente al Juzgado Sexto de Primera Instancia para continuar con la tramitación de la causa principal y la tercería propuesta.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Jenisa Granadino",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-04-09_CasacionCivil_00_UrdanetaEl.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.707300"
+}

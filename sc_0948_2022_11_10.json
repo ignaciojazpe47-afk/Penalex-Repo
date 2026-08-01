@@ -1,0 +1,24 @@
+{
+  "id": 37254,
+  "numero": "0948",
+  "fecha": "2022-11-10",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un escrito de amparo constitucional presentado por LHORVYZ THAIRHUMA TORRES CALDERON contra una sentencia del Tribunal Octavo de Primera Instancia en lo Civil. Tras el análisis del caso, la Sala determinó su incompetencia para conocer la acción, ya que se trataba de un ataque a decisiones de un tribunal de primera instancia civil, lo cual está vedado para esta Sala.",
+  "palabras_clave": [
+    "competencia",
+    "amparo constitucional",
+    "derechos humanos",
+    "tribunales",
+    "jurisprudencia"
+  ],
+  "titulo": "Declaratoria de incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-10_S0948_E22-0686.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320642-0948-101122-2022-22-0686.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.361253"
+}

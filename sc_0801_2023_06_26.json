@@ -1,0 +1,26 @@
+{
+  "id": 31018,
+  "numero": "0801",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por el abogado Ramón de Jesús Camero Enguaima en representación de Alvio Oliver Hurtado Hernández, en relación a varios expedientes judiciales en el estado Táchira. La solicitud se fundamenta en la presunta violación de derechos y garantías constitucionales, así como en irregularidades procesales en los juicios incoados por cumplimiento de contrato, daños y perjuicios, e interdicto restitutorio contra la ciudadana Iraima Josefina Chacón Espinoza.\n\nLa Sala, tras analizar la solicitud, determinó que no se evidencian violaciones graves al orden público constitucional que justifiquen el avocamiento, ya que el asunto se encuentra en etapa de apelación y no afecta el interés público o social. Por lo tanto, se declaró improcedente la solicitud de avocamiento, aceptando la declinatoria de competencia realizada por la Sala de Casación Civil en una sentencia anterior.\n\nFinalmente, la Sala Constitucional reafirmó su competencia para conocer del caso, pero resolvió que la solicitud de avocamiento no cumplía con los requisitos necesarios para su admisión, por lo que se desestimó la petición presentada.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos humanos",
+    "justicia",
+    "fraude procesal",
+    "debido proceso",
+    "vivienda",
+    "interés público"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0801_E22-0779.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326457-0801-26623-2023-22-0779.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.546346"
+}

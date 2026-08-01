@@ -1,0 +1,22 @@
+{
+  "id": 3109,
+  "numero": null,
+  "fecha": "2004-02-12",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Anula y ordena nuevo juicio",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia anula la sentencia del Juzgado Vigésimo Primero de Juicio y la decisión de la Corte de Apelaciones, debido a un vicio de inmotivación en la condena del acusado Wolfang Enrique Sánchez Torres por homicidio calificado. Se argumenta que el juzgador no especificó las circunstancias calificantes del delito, lo que afecta el derecho a una defensa adecuada y a una sentencia justa. Se ordena la celebración de un nuevo juicio oral y público.",
+  "palabras_clave": [
+    "homicidio calificado",
+    "vicio de inmotivación",
+    "nuevo juicio"
+  ],
+  "titulo": "Anulación de sentencia por vicio de inmotivación en caso de homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-06-03_CasacionPenal_C030510_PerdomoLa.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.739012"
+}

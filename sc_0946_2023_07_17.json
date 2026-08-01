@@ -1,0 +1,26 @@
+{
+  "id": 31408,
+  "numero": "0946",
+  "fecha": "2023-07-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por María Alejandra Lander Márquez contra la sentencia N° RC-000789 de la Sala de Casación Civil. La Sala concluye que la solicitud de avocamiento es improcedente, ya que la causa ya tenía una sentencia definitivamente firme, y no se verifica la afectación del interés público o el orden público. Por lo tanto, se declara NO HA LUGAR la solicitud de revisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "justicia",
+    "interés público",
+    "derechos",
+    "proceso judicial",
+    "injusticia",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-17_S0946_E23-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327148-0946-17723-2023-23-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.206250"
+}

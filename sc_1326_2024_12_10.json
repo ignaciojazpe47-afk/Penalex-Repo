@@ -1,0 +1,27 @@
+{
+  "id": 28384,
+  "numero": "1326",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Ingrid Anggie Osorio Rojas, representada por el abogado José Luis Vásquez Navarro, contra la sentencia del Juzgado Primero Superior del Trabajo de Mérida. La acción se fundamentó en la supuesta violación de derechos constitucionales relacionados con la tutela judicial efectiva y la protección del trabajo, tras la confirmación de un fallo que declaró sin lugar un recurso de apelación sobre prestaciones sociales. La Sala determinó que existían vías judiciales ordinarias que debían ser agotadas antes de recurrir al amparo, lo que llevó a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "sentencia",
+    "derechos laborales",
+    "tutela judicial",
+    "principios constitucionales",
+    "error de juzgamiento",
+    "cobro de prestaciones",
+    "igualdad",
+    "incongruencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1326_E24-0611.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340340-1326-101224-2024-24-0611.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.218274"
+}

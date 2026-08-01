@@ -1,0 +1,25 @@
+{
+  "id": 36602,
+  "numero": "0684",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado José Gabriel Carrasco Ramírez en representación de varios ciudadanos contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. La apelación se basó en la inadmisibilidad de la pretensión constitucional relacionada con la omisión de pronunciamiento del tribunal de primera instancia sobre una solicitud de nulidad de un acta de investigación penal.\nLa Sala declaró su competencia para conocer de la apelación y ordenó la notificación a la Presidencia del Circuito Judicial Penal del Estado Carabobo para que se cumplan las disposiciones establecidas en el auto. Se solicitó información sobre el estado del recurso de apelación y la causa penal correspondiente, con el fin de dictar una decisión ajustada a derecho.\nFinalmente, se ordenó la publicación, registro y notificación de la decisión, cumpliendo con los procedimientos establecidos por la ley.",
+  "palabras_clave": [
+    "audiencia preliminar",
+    "amparo",
+    "decisión",
+    "circuito judicial",
+    "recurso de apelación",
+    "causa penal"
+  ],
+  "titulo": "Sentencia sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0684_E19-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319773-0684-141022-2022-19-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.119255"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 36259,
+  "numero": "0628",
+  "fecha": "2022-08-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional en la modalidad de Hábeas Corpus interpuesta por Evaris Gregorio Figueroa García en nombre de Ventura Ramón Ramos, quien se encontraba detenido sin orden de aprehensión. La Sala consideró que la detención era irregular y violaba derechos fundamentales, pero la solicitud fue declarada inadmisible debido a la falta de ratificación personal de la acción de amparo, que debía realizarse en un plazo específico.",
+  "palabras_clave": [
+    "amparo",
+    "hábeas corpus",
+    "derechos humanos",
+    "justicia",
+    "pandemia",
+    "acceso a la justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional de Hábeas Corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-16_S0628_E20-0277.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319285-0628-16822-2022-20-0277.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.556316"
+}

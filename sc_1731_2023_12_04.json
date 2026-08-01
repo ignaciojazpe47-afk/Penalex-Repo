@@ -1,0 +1,26 @@
+{
+  "id": 33228,
+  "numero": "1731",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 4 de diciembre de 2023, declaró sin lugar el recurso de apelación interpuesto por los defensores privados de Marcelino Escobar Escalona contra la decisión de la Corte de Apelaciones que había declarado parcialmente con lugar el amparo constitucional. La Corte de Apelaciones había constatado la omisión de pronunciamiento del Tribunal de Primera Instancia respecto al recurso de apelación presentado por la defensa, lo que constituyó una violación a los derechos de acceso a la justicia y al debido proceso del imputado. La Sala Constitucional confirmó la decisión apelada, ordenando la remisión del expediente al Tribunal de origen y haciendo un llamado de atención a la jueza por la dilación procesal.",
+  "palabras_clave": [
+    "apelación",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "justicia",
+    "Corte de Apelaciones",
+    "amparo"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1731_E23-0029.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330977-1731-41223-2023-23-0029.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.155017"
+}

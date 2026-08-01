@@ -1,0 +1,25 @@
+{
+  "id": 33885,
+  "numero": "2032",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Se ADMITE la presente solicitud de avocamiento.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite una solicitud de avocamiento presentada por las abogadas Sunlight Díaz Barrios y Rosa Federico del Negro, en relación a un juicio de estimación e intimación de honorarios judiciales contra Canal Point Resort, C.A. y el grupo económico Organización Beckhoff. Se argumenta que ha habido graves irregularidades procesales que afectan el debido proceso y la imagen del Poder Judicial.\nLa Sala declara su competencia para conocer de la solicitud y ordena al Tribunal Tercero de Primera Instancia Civil, Mercantil, Tránsito y Bancario que remita el expediente original del juicio. Además, se ordena la suspensión inmediata de las causas relacionadas, bajo pena de nulidad de las actuaciones que quebranten dicha suspensión.\nFinalmente, se destaca la importancia de garantizar el derecho a la tutela judicial efectiva y se enfatiza la necesidad de evitar decisiones arbitrarias que comprometan la imagen del Poder Judicial.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "derechos humanos",
+    "justicia",
+    "Poder Judicial",
+    "anomalías procesales"
+  ],
+  "titulo": "Admisión de solicitud de avocamiento por irregularidades procesales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2032_E23-0359.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332002-2032-191223-2023-23-0359.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.689003"
+}

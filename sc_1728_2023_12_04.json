@@ -1,0 +1,23 @@
+{
+  "id": 33225,
+  "numero": "1728",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia dictada el 5 de agosto de 2021, por el Tribunal Superior Primero en lo Civil, Mercantil y Tránsito de Miranda, que había declarado parcialmente con lugar la demanda de desalojo interpuesta por las ciudadanas Yannet Mariana Cordovez Sánchez y Nieves María Sánchez Raga contra la empresa MÁRMOLES Y GRANITOS OLIVER 2005, C.A. La inadmisibilidad se fundamenta en la falta de legitimación del abogado que presentó la solicitud, quien no consignó el poder correspondiente que acreditara su representación legal. La Sala reafirma su competencia para conocer de la revisión, pero establece que la falta de los requisitos formales impide avanzar en el análisis del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "desalojo",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1728_E22-0251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330974-1728-41223-2023-22-0251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.162345"
+}

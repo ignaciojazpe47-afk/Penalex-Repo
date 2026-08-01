@@ -1,0 +1,22 @@
+{
+  "id": 18167,
+  "numero": "0021",
+  "fecha": "2024-11-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia n° 0647, en la que se revisó un fallo del Tribunal Superior de Protección de Niños, Niñas y Adolescentes. El caso se originó por una solicitud de revisión presentada por Jesús Gustavo Pérez Barreto, quien alegó que la medida de convivencia impuesta a su hija, tras una denuncia de abuso sexual, vulneraba sus derechos y los de la menor. La Sala ordenó al Circuito Judicial Penal del Estado Mérida informar sobre el estado actual del proceso penal en contra de Luzmary Monzón Fernández, madre de la niña, y solicitó un recorrido procesal de las actuaciones realizadas en la causa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "protección de niños",
+    "abuso sexual"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0021_E21-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341167-0021-4225-2025-21-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.299211"
+}

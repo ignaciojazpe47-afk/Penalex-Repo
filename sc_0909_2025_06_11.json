@@ -1,0 +1,26 @@
+{
+  "id": 20333,
+  "numero": "0909",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Alejandro Andrés Guillén Peña, apoderado de Lourdes Moreno de González, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del estado Mérida, que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada dentro del lapso legal y se fundamentó en la omisión de pronunciamiento del Juzgado Cuarto de Primera Instancia en Funciones de Control sobre la entrega de un inmueble.\nLa Sala determinó que la acción de amparo era inadmisible, ya que no se cumplían los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se concluyó que la falta de respuesta del tribunal no podía ser imputada a la parte demandada, dado que el Ministerio Público aún no había presentado el acto conclusivo de la investigación.\nFinalmente, la Sala confirmó la decisión de inadmisibilidad de la Corte de Apelaciones, declarando sin lugar el recurso de apelación y reafirmando su competencia para conocer del caso.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "proceso penal",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0909_E22-0057.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344714-0909-11625-2025-22-0057.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.300170"
+}

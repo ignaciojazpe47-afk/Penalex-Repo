@@ -1,0 +1,24 @@
+{
+  "id": 22081,
+  "numero": "1514",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de octubre de 2025, declaró sin lugar el recurso de apelación interpuesto por el abogado Frandy Alexis Colmenarez en representación de Hernán Enrrique Medina Gutiérrez. La apelación se basaba en la falta de motivación de la decisión del Tribunal de Control, que había declarado sin lugar las excepciones opuestas por la defensa. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que el amparo no es un medio para revisar decisiones judiciales ordinarias, sino para proteger derechos fundamentales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "inseguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1514_E21-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348260-1514-61025-2025-21-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.186381"
+}

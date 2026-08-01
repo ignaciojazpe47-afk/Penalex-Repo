@@ -1,0 +1,26 @@
+{
+  "id": 21402,
+  "numero": "1265",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revoca la decisión de la Corte de Apelaciones que declaró sin lugar la acción de amparo constitucional interpuesta por Neyla Coromoto Arismendi Fermín. La apelación fue ejercida por su defensor, quien argumentó la omisión de pronunciamiento del Tribunal Segundo de Primera Instancia en relación a la revisión de medida privativa de libertad por razones de salud. La Sala concluye que la acción de amparo es procedente y confirma la inadmisibilidad en los términos expuestos en el fallo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "medida privativa",
+    "justicia",
+    "salud",
+    "tutela judicial",
+    "denegación de justicia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1265_E22-0359.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346917-1265-6825-2025-22-0359.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.765243"
+}

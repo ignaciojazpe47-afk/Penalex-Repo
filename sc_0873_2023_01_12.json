@@ -1,0 +1,22 @@
+{
+  "id": 31166,
+  "numero": "0873",
+  "fecha": "2023-01-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada en 2009 por el Juzgado Primero de Primera Instancia Agrario del Estado Táchira. La solicitud fue presentada por Claudia Patricia Reyes Villamizar, quien se opuso a la partición de bienes de la comunidad conyugal con Luis José Guerrero Carrero. La Sala determinó su competencia para conocer el caso y ordenó al juzgado remitente que enviara la información requerida para continuar con el análisis del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "partición de bienes",
+    "comunidad conyugal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0873_E16-1079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326693-0873-10723-2023-16-1079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.307354"
+}

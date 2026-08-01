@@ -1,0 +1,24 @@
+{
+  "id": 59598,
+  "numero": "823",
+  "fecha": "2016-10-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo interpuesta por Catiz Hugdariz Araque Vásquez contra una decisión del Juzgado Superior Primero en lo Civil, que había declarado inadmisible una demanda de desalojo. La Sala consideró que la decisión del tribunal inferior violó el derecho al debido proceso y a la defensa de la accionante, ya que se había demostrado que el arrendatario no ocupaba el inmueble. La Sala declaró con lugar la acción de amparo y anuló la sentencia del tribunal superior, ordenando la ejecución de la sentencia de desalojo dictada por el Juzgado Sexto.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "arrendamiento",
+    "derecho a la vivienda",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-10-18_S823_E15-1447.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/190906-823-181016-2016-15-1447.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.767200"
+}

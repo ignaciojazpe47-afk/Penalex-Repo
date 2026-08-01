@@ -1,0 +1,26 @@
+{
+  "id": 41450,
+  "numero": "0144",
+  "fecha": "2020-09-22",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Declina la competencia",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió seis acciones de amparo constitucional interpuestas por inquilinas que enfrentan amenazas de desalojo en medio de la pandemia de COVID-19. Las accionantes solicitan protección para permanecer en sus residencias, argumentando que han sido notificadas de desalojo por nuevos propietarios del inmueble. La Sala, tras evaluar las circunstancias, determina que no tiene competencia para conocer del caso, ya que las pretensiones no se ajustan a las competencias atribuidas a la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "pandemia",
+    "constitución",
+    "arrendamientos",
+    "derechos",
+    "urgencia"
+  ],
+  "titulo": "Decisión sobre amparo constitucional y declinación de competencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-09-22_S0144_E20-0314.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/310121-0144-22920-2020-20-0314.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.088141"
+}

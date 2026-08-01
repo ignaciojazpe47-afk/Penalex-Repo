@@ -1,0 +1,26 @@
+{
+  "id": 29082,
+  "numero": "0080",
+  "fecha": "2023-03-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Oscar José Ayala Ramírez en representación de Orangel Oscar López Martínez y Marvelis Marín Moreno. La decisión se fundamenta en la falta de pronunciamiento del Tribunal Quinto de Control sobre la solicitud de sobreseimiento presentada por la Fiscalía, lo que llevó a la defensa a solicitar el amparo por omisión de pronunciamiento. La Sala consideró que la acción de amparo no tenía asidero, dado que la presunta violación de derechos había cesado con el pronunciamiento del tribunal inferior.",
+  "palabras_clave": [
+    "delito",
+    "fiscalía",
+    "sobreseimiento",
+    "tipicidad",
+    "contrabando",
+    "código penal",
+    "responsabilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-07_S0080_E18-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323248-0080-7323-2023-18-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.350405"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1982,
+  "numero": null,
+  "fecha": null,
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Revoca la sentencia dictada por el Juzgado Superior en lo Civil, Mercantil, del Tránsito, del Trabajo y de Menores de la Circunscripción Judicial del Estado Nueva Esparta.",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 10 de agosto de 2000, se pronunció sobre la apelación interpuesta por la Alcaldía del Municipio Mariño del Estado Nueva Esparta contra la decisión del Juzgado Superior que había declarado con lugar la acción de amparo constitucional presentada por Abdul Arman Said Omais, en representación de Arestinga Club, C.A. La acción de amparo se fundamentó en la supuesta violación del derecho al trabajo, al exigir la Alcaldía el pago de deudas por patentes de industria y comercio. La Sala, tras analizar la competencia del tribunal que dictó la sentencia apelada, determinó que este era incompetente y revocó la decisión, ordenando que la causa fuera remitida a un tribunal de primera instancia competente para su conocimiento.",
+  "palabras_clave": [
+    "Amparo",
+    "Derechos Constitucionales",
+    "Competencia",
+    "Revocación",
+    "Tribunal Supremo",
+    "Alcaldía",
+    "Industria y Comercio",
+    "Sentencia"
+  ],
+  "titulo": "Revocación de Sentencia en Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-10_PoliticoAdmin_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.688062"
+}

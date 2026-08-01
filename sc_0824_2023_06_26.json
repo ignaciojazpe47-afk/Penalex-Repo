@@ -1,0 +1,26 @@
+{
+  "id": 31041,
+  "numero": "0824",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Pedro Alfonso Camargo Vargas en representación de varios ciudadanos, contra actos y omisiones de la Fiscalía General de la República. La decisión se basa en la falta de ratificación personal de la solicitud de amparo, lo que impide verificar el cumplimiento de los requisitos establecidos por la ley. La Sala señala que, a pesar de las restricciones por la pandemia, el demandante no compareció para ratificar su solicitud.",
+  "palabras_clave": [
+    "amparo",
+    "tutela constitucional",
+    "correo electrónico",
+    "ratificación",
+    "Ley Orgánica de Amparo",
+    "inadmision",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0824_E20-0475.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326480-0824-26623-2023-20-0475.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.556696"
+}

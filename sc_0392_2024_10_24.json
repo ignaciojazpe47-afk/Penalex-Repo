@@ -1,0 +1,25 @@
+{
+  "id": 26869,
+  "numero": "0392",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un escrito de acción de amparo constitucional interpuesto por los abogados Rosalba Hernández y Juan Figuera. Este recurso se presentó contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de revocación, alegando violaciones al debido proceso y a la tutela judicial efectiva por la falta de notificación a los imputados. La Sala determinó su competencia para conocer de la acción de amparo y ordenó un informe sobre el estado actual de la causa seguida a los imputados.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "derechos humanos",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0392_E22-0858.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338173-0392-241024-2024-22-0858.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.319659"
+}

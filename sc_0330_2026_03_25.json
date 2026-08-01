@@ -1,0 +1,26 @@
+{
+  "id": 17626,
+  "numero": "0330",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión de una sentencia dictada el 26 de enero de 2021 por el Juzgado Superior Agrario. La solicitud fue presentada por los abogados de Juan María Rodríguez Villegas, quien cuestionó la constitucionalidad de la sentencia que declaró con lugar una acción posesoria por despojo interpuesta por Ana Teresa Andrade Rodríguez y Enrique Rodríguez Hernández. La Sala determinó que la revisión no constituye una tercera instancia y que la decisión del juzgado de origen se ajustó a los parámetros legales establecidos, por lo que se declaró NO HA LUGAR la solicitud de revisión.",
+  "palabras_clave": [
+    "posesión",
+    "despojo",
+    "agricultura",
+    "tutela judicial",
+    "confesión ficta",
+    "carga de la prueba",
+    "derecho agrario"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0330_E25-0860.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354310-0330-25326-2026-25-0860.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.562169"
+}

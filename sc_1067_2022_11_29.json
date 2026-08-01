@@ -1,0 +1,25 @@
+{
+  "id": 37712,
+  "numero": "1067",
+  "fecha": "2022-11-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara NO HA LUGAR la solicitud de revisión constitucional presentada por el abogado de Néstor Orlando Meléndez Santéliz, en relación a la sentencia N° 000051/2017 del 24 de febrero de 2017, dictada por la Sala de Casación Civil. Se argumenta que la solicitud no cumple con los requisitos necesarios para la admisión y que la revisión constitucional no debe ser entendida como una nueva instancia, sino como un mecanismo para uniformar la interpretación de normas y principios constitucionales.\n\nLa Sala también se pronuncia sobre el fallo de fecha 27 de julio de 2016, dictado por el Juzgado Superior en lo Civil, Mercantil, del Tránsito y Bancario de la Circunscripción Judicial del Estado Guárico, indicando que este tribunal valoró adecuadamente los elementos del caso y que la revisión constitucional no puede ser utilizada para cuestionar decisiones ya firmes. Se concluye que no se ha demostrado la existencia de vicios que justifiquen la revisión solicitada.\n\nFinalmente, se ordena la publicación y registro de la decisión, reafirmando la autoridad de la Sala Constitucional en la materia.",
+  "palabras_clave": [
+    "daño moral",
+    "derechos de personalidad",
+    "dignidad",
+    "honor",
+    "revisión constitucional",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-29_S1067_E17-0402.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321261-1067-291122-2022-17-0402.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.450305"
+}

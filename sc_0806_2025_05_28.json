@@ -1,0 +1,22 @@
+{
+  "id": 20006,
+  "numero": "0806",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Omar José Morgado Olivieri, quien impugnó la decisión de la Corte de Apelaciones que declaró sin lugar su recurso de apelación. La Corte de Apelaciones había confirmado la condena por violencia psicológica impuesta por el Tribunal Segundo de Primera Instancia, que incluyó una pena de un año de prisión y una indemnización a la víctima. La Sala Constitucional determinó que no hubo violación de derechos constitucionales y que la decisión de la Corte de Apelaciones estaba ajustada a derecho.",
+  "palabras_clave": [
+    "violencia psicológica",
+    "revisión constitucional",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Revisión de sentencia por violencia psicológica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0806_E24-1013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344284-0806-28525-2025-24-1013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.857753"
+}

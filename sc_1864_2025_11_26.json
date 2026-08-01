@@ -1,0 +1,23 @@
+{
+  "id": 23210,
+  "numero": "1864",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión de la sentencia dictada por el Juzgado Vigésimo Cuarto de Municipio Ordinario, que declaró con lugar la solicitud de divorcio de Gustavo José Orsoni Defrenza. La Sala consideró que hubo vicios procesales y constitucionales que afectaron el debido proceso de la demandada, Liliana Aumaitre Méndez, quien no fue debidamente notificada. Se acordó la medida cautelar de suspensión de efectos de la sentencia impugnada hasta que se resuelva el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "divorcio",
+    "fraude procesal",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1864_E24-1045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350460-1864-261125-2025-24-1045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.800973"
+}

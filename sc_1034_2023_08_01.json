@@ -1,0 +1,27 @@
+{
+  "id": 31689,
+  "numero": "1034",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la abogada Zaida Maidelin Jaspe Mora en representación de Yurbis Mallary Hernández Rondón, contra la sentencia n.° 1097 dictada el 8 de diciembre de 2022. La Sala argumenta que, conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, no se admite el amparo contra decisiones de la Corte Suprema de Justicia. Además, se señala que la parte demandante no presentó la copia certificada de la sentencia objeto de amparo, lo que también contribuye a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "copia_certificada",
+    "sentencia",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1034_E23-0009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327593-1034-1823-2023-23-0009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.897663"
+}

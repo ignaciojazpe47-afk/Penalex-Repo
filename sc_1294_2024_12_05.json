@@ -1,0 +1,26 @@
+{
+  "id": 28336,
+  "numero": "1294",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de diciembre de 2024, declaró no ha lugar la solicitud de revisión constitucional interpuesta por Vicente Oscar Leone Martínez, apoderado de Oscar Eduardo Moreno Martínez, contra la sentencia del 7 de junio de 2021. La Sala consideró que la decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito, Bancario y de Protección de Niños, Niñas y Adolecentes de Apure fue motivada y congruente, sin infringir derechos constitucionales como la tutela judicial efectiva y el debido proceso.\n\nSe argumentó que la revisión no constituye una tercera instancia y que no se evidenciaron hechos violatorios que justifiquen la revisión. La Sala enfatizó la importancia de la uniformidad en la interpretación de normas y principios constitucionales, concluyendo que la solicitud no contribuiría a tal uniformidad.\n\nFinalmente, la Sala reafirmó su competencia para conocer la solicitud y la decisión de no ha lugar, ordenando la publicación y archivo del expediente.",
+  "palabras_clave": [
+    "debido_proceso",
+    "juez_natural",
+    "incompetencia",
+    "tercería",
+    "sustanciación",
+    "jurisdicción",
+    "vicios_procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1294_E21-0465.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340253-1294-51224-2024-21-0465.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.230494"
+}

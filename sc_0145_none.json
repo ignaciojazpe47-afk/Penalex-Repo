@@ -1,0 +1,24 @@
+{
+  "id": 38590,
+  "numero": "0145",
+  "fecha": null,
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo constitucional interpuesta por Jhonny Alberto Ramírez Chacón contra la sentencia de la Corte Segunda de lo Contencioso Administrativo. Se establece que la falta de actuación por más de seis meses se considera abandono del trámite, lo que conlleva a la extinción de la instancia. Además, se impone una multa de cinco mil bolívares a la parte actora por el entorpecimiento de las labores judiciales.",
+  "palabras_clave": [
+    "inmotivación",
+    "silencio de pruebas",
+    "debido proceso",
+    "justicia",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0145_E18-0185.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312009-0145-30421-2021-18-0185.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.700483"
+}

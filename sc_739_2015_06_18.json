@@ -1,0 +1,23 @@
+{
+  "id": 64612,
+  "numero": "739",
+  "fecha": "2015-06-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La ciudadana Vilma Josefina Yanez Saavedra solicitó la revisión de una sentencia dictada el 13 de noviembre de 2014, que había declarado con lugar un recurso de apelación y anulado un fallo anterior. La Sala Constitucional del TSJ, al revisar el caso, encontró que la decisión impugnada era incongruente y violaba los derechos a la defensa y al debido proceso de la solicitante. Por lo tanto, se declaró con lugar la solicitud de revisión, anulando la decisión anterior y ordenando que un nuevo Juzgado Superior del Trabajo conociera del caso.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "prestaciones sociales",
+    "derechos laborales"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-18_S739_E15-0471.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178651-739-18615-2015-15-0471.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.322073"
+}

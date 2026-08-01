@@ -1,0 +1,27 @@
+{
+  "id": 23047,
+  "numero": "1815",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de noviembre de 2025, declaró improcedente la solicitud de revisión constitucional presentada por la abogada Marbella Espinoza de Arteaga, en representación de Agropecuaria Platanales, C.A. La solicitud buscaba revisar una sentencia de la Sala de Casación Social que había declarado sin lugar un recurso extraordinario de casación. La Sala Constitucional determinó que no se evidenciaron violaciones a derechos constitucionales ni errores en la aplicación de la ley por parte de la Sala de Casación Social, concluyendo que la revisión no se enmarca dentro de los fines de la potestad extraordinaria de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "debido proceso",
+    "tutela judicial",
+    "doble instancia",
+    "principio pro actione",
+    "inmunidad",
+    "sentencia",
+    "agrario"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1815_E25-0784.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349939-1815-181125-2025-25-0784.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.057466"
+}

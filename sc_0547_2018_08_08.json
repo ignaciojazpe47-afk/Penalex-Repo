@@ -1,0 +1,18 @@
+{
+  "id": 48115,
+  "numero": "0547",
+  "fecha": "2018-08-08",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la demanda presentada por el abogado Henry Alexander Colmenares en representación de varios ciudadanos y una sociedad mercantil, en la que se solicitaba el cese de las vías de hecho por parte de la Procuraduría General de la República. La demanda se fundamenta en la protección de derechos colectivos de los vecinos del parcelamiento 'La Escondida' en Miranda, quienes alegan que sus derechos a la propiedad y a una vivienda digna han sido vulnerados por acciones de la Procuraduría.\n\nLa Sala analiza si se trata de derechos colectivos y concluye que, aunque la demanda tiene características de interés colectivo, los hechos no poseen trascendencia nacional, por lo que la competencia corresponde a un Tribunal de Primera Instancia en lo Civil de la Circunscripción Judicial del Área Metropolitana de Caracas. Se citan diversas sentencias y se establece que la Ley Orgánica del Tribunal Supremo de Justicia permite que cualquier persona demande la protección de sus derechos colectivos, pero en este caso, la competencia no recae en la Sala Constitucional.\n\nFinalmente, se ordena el envío del expediente al tribunal correspondiente para su conocimiento, dejando claro que la Sala Constitucional no tiene jurisdicción sobre el caso presentado.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre competencia en demanda de derechos colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-08_S0547_E17-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/300722-0547-8818-2018-17-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.023970"
+}

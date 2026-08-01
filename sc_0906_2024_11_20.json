@@ -1,0 +1,22 @@
+{
+  "id": 27700,
+  "numero": "0906",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Cristóbal Álvarez en representación de Gregory José Ávila Méndez, debido a la falta de poder que acredite su representación. Se establece que el abogado no puede actuar como 'abogado de confianza' sin la documentación adecuada que respalde su legitimidad para actuar en el caso.\n\nLa decisión se fundamenta en la normativa que exige que cualquier persona que desee interponer un amparo constitucional debe contar con un abogado debidamente acreditado. En este caso, el abogado no presentó el poder correspondiente, lo que llevó a la Sala a declarar la inadmisibilidad de la demanda.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la importancia de cumplir con los requisitos procesales establecidos para la admisión de acciones de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0906_E24-0163.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339183-0906-201124-2024-24-0163.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.190315"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28324,
+  "numero": "1282",
+  "fecha": "2023-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por las ciudadanas Alba Celeste Mosquera Alvarado y Luisa Magaly Mujica Rodríguez, quienes alegaron violaciones a sus derechos constitucionales tras una sentencia condenatoria. La decisión se basa en la falta de presentación de la documentación necesaria para verificar la admisibilidad de la solicitud. La Sala enfatiza la importancia de cumplir con los requisitos procesales establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tutela judicial",
+    "constitucional",
+    "Corte de Apelaciones",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1282_E23-1191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340241-1282-51224-2024-23-1191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.153844"
+}

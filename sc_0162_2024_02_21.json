@@ -1,0 +1,25 @@
+{
+  "id": 24296,
+  "numero": "0162",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional recibió una acción de amparo constitucional interpuesta por Simón José Arrieta Quintero en representación de Jenny Carol Godoy Gil y Neuro José Montes Arias, alegando violaciones al proceso debido legal por parte de los tribunales de primera instancia. La acción fue presentada debido a la inhibición de un juez que impidió el conocimiento del caso por la corte de apelaciones competente. La Sala, tras examinar el expediente, determinó que el escrito no cumplía con los requisitos necesarios y ordenó notificaciones para subsanar las deficiencias.",
+  "palabras_clave": [
+    "amparo",
+    "proceso debido",
+    "tribunales",
+    "inhibición",
+    "tutela judicial",
+    "violencia de género"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0162_E23-1299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332702-0162-21224-2024-23-1299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.667061"
+}

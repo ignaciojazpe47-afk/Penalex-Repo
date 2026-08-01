@@ -1,0 +1,25 @@
+{
+  "id": 40102,
+  "numero": "0596",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por ciudadanos del partido Unidad Popular Venezolana contra la conducta omisiva del Consejo Nacional Electoral. Se argumenta que no hubo actividad procesal por parte de los accionantes durante más de seis meses, lo que se considera un abandono del trámite. Además, se establece que existía un recurso contencioso electoral que debió ser agotado antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "elecciones",
+    "abandonos de trámite",
+    "recurso contencioso electoral",
+    "interés procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta contra el Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0596_E20-0484.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314179-0596-51121-2021-20-0484.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.104741"
+}

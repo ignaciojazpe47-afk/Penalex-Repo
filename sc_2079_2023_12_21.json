@@ -1,0 +1,26 @@
+{
+  "id": 33932,
+  "numero": "2079",
+  "fecha": "2023-12-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de Raúl José Gregorio Martínez Ramírez contra la Sala de Casación Penal. Se argumenta que la Ley Orgánica de Amparo prohíbe la admisión de acciones contra decisiones del Tribunal Supremo de Justicia. La sentencia reafirma la autonomía del Tribunal y la imposibilidad de cuestionar sus decisiones a través de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "constitucional",
+    "poder judicial",
+    "sentencias",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2079_E19-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332049-2079-211223-2023-19-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.844857"
+}

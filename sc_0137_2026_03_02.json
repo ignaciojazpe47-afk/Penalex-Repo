@@ -1,0 +1,25 @@
+{
+  "id": 17576,
+  "numero": "0137",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional de una sentencia dictada por el Juzgado Superior Tercero en lo Civil, Mercantil, Tránsito y Bancario. La abogada Odilces Consolación Contreras Peña, en representación de Iván Ramón Paredes, cuestiona la constitucionalidad de la sentencia por incongruencias y vicios de inmotivación. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente del juicio de prescripción adquisitiva para un mejor proveer.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "incongruencia",
+    "pruebas",
+    "apelación",
+    "orden_público"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0137_E25-1474.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353127-0137-2326-2026-25-1474.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.382664"
+}

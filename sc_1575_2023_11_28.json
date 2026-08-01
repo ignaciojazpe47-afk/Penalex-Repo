@@ -1,0 +1,23 @@
+{
+  "id": 33006,
+  "numero": "1575",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por AURA YULIMAR HERNÁNDEZ OLIVEROS, quien fue detenida por presuntos delitos de extorsión agravada y financiamiento al terrorismo. La Sala declaró que la acción de habeas corpus presentada por sus abogados era procedente y que la detención de la justiciable había violado sus derechos constitucionales, incluyendo el derecho a la libertad y el debido proceso. En consecuencia, se ordenó su inmediata libertad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "derechos humanos",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en favor de AURA YULIMAR HERNÁNDEZ OLIVEROS",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1575_E22-0076.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330630-1575-281123-2023-22-0076.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.014320"
+}

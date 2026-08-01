@@ -1,0 +1,25 @@
+{
+  "id": 32930,
+  "numero": "1499",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, se pronunció sobre una acción de amparo constitucional interpuesta por Yessica Mujica en representación de Javier Armando Mendoza Paralta contra la Oficina Nacional Contra la Delincuencia Organizada y Financiamiento al Terrorismo. La acción se fundamentó en la falta de respuesta de dicha oficina respecto a la devolución de dos vehículos incautados. La Sala, tras analizar el caso, determinó su incompetencia para conocer la ejecución de la decisión emitida por el Tribunal de Primera Instancia Estadal en Función de Control N° 1 del Estado Lara, que había acordado la entrega de los vehículos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución de sentencia",
+    "competencia",
+    "delincuencia organizada",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1499_E23-0055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330551-1499-221123-2023-23-0055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.442247"
+}

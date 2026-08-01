@@ -1,0 +1,26 @@
+{
+  "id": 32154,
+  "numero": "1383",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la acción de amparo constitucional interpuesta por el abogado Julio César Ruiz Araujo en representación de Alseni Alexander Ríos Zerpa. Se determinó que la apelación contra la decisión de inadmisibilidad de la Corte de Apelaciones era procedente, dado que se alegaba la violación de derechos y garantías constitucionales. La Sala declaró su competencia y ordenó la remisión de documentos necesarios para continuar con el proceso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "justicia",
+    "violencia de género",
+    "competencia",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1383_E22-0611.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328973-1383-91023-2023-22-0611.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.406803"
+}

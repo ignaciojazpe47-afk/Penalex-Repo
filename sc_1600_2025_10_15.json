@@ -1,0 +1,26 @@
+{
+  "id": 22260,
+  "numero": "1600",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 15 de octubre de 2025, dictó una sentencia en respuesta a la acción de amparo interpuesta por Juan Manuel Rodríguez Luis contra una decisión de la Corte de Apelaciones. El demandante alegó omisión de pronunciamiento en la sentencia dictada el 27 de junio de 2025, que confirmaba una decisión anterior sobre la admisión de una querella por violencia psicológica y patrimonial. La Sala declaró que la acción de amparo era sin lugar, confirmando la decisión de la Corte de Apelaciones por cumplir con los requisitos de motivación y argumentación jurídica establecidos en la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "cosa juzgada",
+    "debido proceso",
+    "violencia contra la mujer",
+    "competencia",
+    "sentencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1600_E25-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348717-1600-151025-2025-25-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.759550"
+}

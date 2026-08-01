@@ -1,0 +1,22 @@
+{
+  "id": 8042,
+  "numero": null,
+  "fecha": "2009-05-22",
+  "anio": 2009,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, declara con lugar el recurso de casación interpuesto por el Fiscal del Ministerio Público, anulando la sentencia de la Corte de Apelaciones que había declarado la prescripción de la acción penal por homicidio intencional simple en grado de complicidad correspectiva. Se establece que la acción penal no había prescrito, ya que los hechos ocurrieron el 31 de octubre de 1995 y la imputación a los acusados se realizó el 4 de julio de 2006, transcurriendo más de diez años sin interrupciones que afectaran la prescripción ordinaria de la acción penal.",
+  "palabras_clave": [
+    "homicidio",
+    "prescripción",
+    "casación"
+  ],
+  "titulo": "Sentencia de Casación sobre prescripción de la acción penal en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2009_17.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:53.296131"
+}

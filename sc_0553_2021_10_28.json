@@ -1,0 +1,24 @@
+{
+  "id": 40000,
+  "numero": "0553",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la Unidad Educativa YMCA Don Teodoro Gubaira, C.A. contra la sentencia del Juzgado Superior de Protección de Niños, Niñas y Adolescentes de Carabobo, que había declarado con lugar la acción de amparo interpuesta por un grupo de padres y representantes. La Sala concluyó que no se evidenció violación a normas o principios constitucionales, confirmando la decisión del tribunal inferior y ordenando la realización de asambleas para fijar el monto de la matrícula escolar 2019-2020, garantizando así el derecho a la educación y la participación de los niños y adolescentes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derecho a la educación",
+    "participación",
+    "discriminación"
+  ],
+  "titulo": "Revisión Constitucional sobre la Sentencia de Amparo contra la Unidad Educativa YMCA Don Teodoro Gubaira, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0553_E21-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313918-0553-281021-2021-21-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.115391"
+}

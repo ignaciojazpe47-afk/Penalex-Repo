@@ -1,0 +1,24 @@
+{
+  "id": 19341,
+  "numero": "0488",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la abogada María Antonieta Amaro Virguez en representación de Nolyerth Eliseo Heredia Fernández. La acción se dirigía contra el acta de audiencia de imposición de sentencia dictada el 9 de febrero de 2023 por la Corte de Apelaciones en Materia de Delitos de Violencia contra la Mujer, que había declarado inadmisible por extemporáneo un recurso de apelación. La Sala concluye que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder, por lo que no se configuraron las violaciones constitucionales alegadas por la parte accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "violencia contra la mujer",
+    "incompetencia",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0488_E23-1020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343027-0488-9425-2025-23-1020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.593386"
+}

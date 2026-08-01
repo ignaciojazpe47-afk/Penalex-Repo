@@ -1,0 +1,26 @@
+{
+  "id": 23402,
+  "numero": "1917",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Luis Honorio Briceño Mendoza, en representación de la sociedad Hermanos Brimen, S.R.L., contra la sentencia del Juzgado Superior Primero que declaró improcedente la acción de amparo constitucional. La Sala determinó su competencia y analizó la oportunidad del recurso, concluyendo que fue presentado dentro del plazo legal. Finalmente, se declaró sin lugar el recurso de apelación, confirmando la decisión del juzgado inferior que había declarado improcedente la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "competencia",
+    "jurisprudencia",
+    "constitucional",
+    "proceso",
+    "violaciones"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1917_E25-0857.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350803-1917-281125-2025-25-0857.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.793386"
+}

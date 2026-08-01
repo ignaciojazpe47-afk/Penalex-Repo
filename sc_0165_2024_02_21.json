@@ -1,0 +1,24 @@
+{
+  "id": 24300,
+  "numero": "0165",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Filomena Teresa Florio de Vallés, quien alegó que la sentencia de la Sala de Casación Civil vulneró su derecho a la igualdad ante la ley. La Sala declaró que la revisión no se subsume en los supuestos de procedencia establecidos, ya que la solicitante tuvo oportunidad de ejercer su defensa en las instancias anteriores y los alegatos fueron resueltos adecuadamente. Finalmente, se declaró que no ha lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "inmotivación",
+    "contradicción",
+    "sentencia",
+    "derecho procesal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0165_E19-0184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332706-0165-21224-2024-19-0184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.669757"
+}

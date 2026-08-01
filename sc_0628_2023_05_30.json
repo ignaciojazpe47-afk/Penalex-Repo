@@ -1,0 +1,25 @@
+{
+  "id": 30582,
+  "numero": "0628",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por el abogado Pedro Rafael Torres González en representación de José Carlos Cortés Cruz. La solicitud buscaba revisar sentencias dictadas el 02 de mayo de 2005 y el 17 de enero de 2006, pero fue declarada inadmisible debido a la falta de presentación de documentos necesarios que acreditaran la representación del solicitante y las sentencias a revisar.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "debido proceso",
+    "jurisprudencia",
+    "admisibilidad",
+    "sentencias firmes"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0628_E22-0438.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325716-0628-30523-2023-22-0438.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.920732"
+}

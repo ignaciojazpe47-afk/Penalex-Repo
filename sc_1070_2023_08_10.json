@@ -1,0 +1,22 @@
+{
+  "id": 31954,
+  "numero": "1070",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente con lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la desaplicación del artículo 6 del Reglamento Parcial N° 1 de la Ordenanza sobre Actividades Económicas en Materia de Retenciones del municipio Valencia, confirmando la decisión de la Sala Político Administrativa que había declarado la inconstitucionalidad de dicha norma. Se argumentó que la norma contraviene el principio de legalidad tributaria, ya que impone un porcentaje único de retención sin considerar las alícuotas establecidas en el Clasificador de Actividades Económicas. La decisión también ordena al Concejo Municipal informar sobre la vigencia de la norma desaplicada.",
+  "palabras_clave": [
+    "desaplicación",
+    "norma tributaria",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre desaplicación de norma tributaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1070_E18-0142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328205-1070-10823-2023-18-0142.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.344730"
+}

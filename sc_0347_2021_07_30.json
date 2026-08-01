@@ -1,0 +1,25 @@
+{
+  "id": 39145,
+  "numero": "0347",
+  "fecha": "2021-07-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "El ciudadano Carlos Miguel Suárez Guzmán interpuso una acción de amparo constitucional contra un acto electoral de la Comisión Electoral Ad Hoc, alegando violaciones a sus derechos políticos. La Sala Constitucional, tras revisar el expediente, determinó que el acto impugnado era de naturaleza electoral y que no tenía competencia para conocer la acción, declinando dicha competencia a la Sala Electoral del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "acción electoral",
+    "caja de ahorro",
+    "derechos políticos",
+    "sufragio"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-30_S0347_E21-0390.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312801-0347-30721-2021-21-0390.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.755612"
+}

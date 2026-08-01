@@ -1,0 +1,23 @@
+{
+  "id": 8192,
+  "numero": null,
+  "fecha": "2010-05-19",
+  "anio": 2010,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "HÉCTOR CORONADO FLORES",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo declaró sin lugar el recurso de apelación interpuesto por el abogado Gladimiro Uzcategui en defensa de José Alexander Briceño, quien había sido condenado por porte ilícito de arma de fuego. La Sala de Casación Penal, al revisar el caso, encontró que el Tribunal de Juicio incurrió en vicios de nulidad absoluta al no garantizar la tutela judicial efectiva y el debido proceso, lo que llevó a la anulación de la sentencia y a la absolución del acusado. Se destacó que la condena se basó únicamente en el testimonio de dos funcionarios policiales, sin pruebas suficientes que desvirtuaran la presunción de inocencia del acusado.",
+  "palabras_clave": [
+    "anulación",
+    "absolución",
+    "due process",
+    "presunción de inocencia"
+  ],
+  "titulo": "Anulación de sentencia por falta de motivación y absolución del acusado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2010_ManuelCoronado_6.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:50.846732"
+}

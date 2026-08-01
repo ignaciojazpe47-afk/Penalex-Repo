@@ -1,0 +1,24 @@
+{
+  "id": 59705,
+  "numero": "840",
+  "fecha": "2016-10-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió el recurso de nulidad por inconstitucionalidad interpuesto por varios ciudadanos contra el Decreto No. 9.042, que establece el Código Orgánico Procesal Penal. Los recurrentes alegaron violaciones a derechos fundamentales y al procedimiento legislativo, argumentando que el decreto fue emitido sin el debido proceso de consulta pública y que afecta derechos de defensa y participación ciudadana. La Sala, tras analizar los argumentos, decidió declarar la nulidad del decreto impugnado.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Código Orgánico Procesal Penal",
+    "derechos fundamentales",
+    "consulta pública"
+  ],
+  "titulo": "Sentencia sobre nulidad del Decreto No. 9.042 del Código Orgánico Procesal Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-10-18_S840_E12-0844.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/191014-840-181016-2016-12-0844.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.769422"
+}

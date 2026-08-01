@@ -1,0 +1,24 @@
+{
+  "id": 17457,
+  "numero": "0561",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión de una sentencia firme dictada por el Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario. La sentencia original había declarado sin lugar un recurso de apelación y confirmado una decisión de desalojo a favor de SPA ÁVILA FRESCA C.A. contra UNIVERSAL GYM, C.A. La Sala, tras declarar su competencia, ordenó la remisión del expediente original para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "sanciones",
+    "notificación",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0561_E26-0460.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355554-0561-13526-2026-26-0460.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.879859"
+}

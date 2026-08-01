@@ -1,0 +1,27 @@
+{
+  "id": 35029,
+  "numero": "0140",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo constitucional interpuesta por el abogado José Horacio Vásquez Colmenares en representación de Joel Gilberto Vásquez Gutiérrez. La acción se interpuso contra la sentencia dictada el 9 de noviembre de 2018 por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Aragua, que declaró sin lugar el recurso de apelación. La Sala observa que ha transcurrido más de seis meses sin que los accionantes hayan manifestado interés en obtener la tutela constitucional demandada, lo que se califica como abandono del trámite.",
+  "palabras_clave": [
+    "debido_proceso",
+    "buena_fe",
+    "reconocimiento_documento",
+    "abuso_autoridad",
+    "derecho_defensa",
+    "sentencia",
+    "Código_Civil",
+    "Código_Procedimiento_Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0140_E19-200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317325-0140-14622-2022-19-200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.638290"
+}

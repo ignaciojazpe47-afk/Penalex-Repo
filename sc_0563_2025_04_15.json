@@ -1,0 +1,26 @@
+{
+  "id": 19461,
+  "numero": "0563",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por Ana Victoria Pulido Sánchez, quien alegaba violaciones a sus derechos constitucionales en un proceso de restitución internacional. La apelación fue declarada sin lugar, confirmando la decisión del Juzgado Superior que había declarado inadmisible la acción de amparo. La Sala argumentó que la situación jurídica alegada había cesado, dado que la demanda de restitución internacional ya había sido resuelta a favor de la accionante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "inadmision",
+    "jurisdicción",
+    "tutela",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0563_E23-1023.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343168-0563-15425-2025-23-1023.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.036764"
+}

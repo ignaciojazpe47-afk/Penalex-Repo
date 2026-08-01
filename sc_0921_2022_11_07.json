@@ -1,0 +1,23 @@
+{
+  "id": 37223,
+  "numero": "0921",
+  "fecha": "2022-11-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUAREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró competente para conocer la solicitud de revisión presentada por José Francisco Rauseo Acevedo, pero decidió no ha lugar a la misma. La sentencia objeto de revisión, dictada por la Sala de Casación Penal, había declarado procedente el avocamiento y sustraído la causa del Juzgado Cuarto de Primera Instancia en funciones de Juicio del estado Zulia, remitiéndola al estado Portuguesa. La Sala Constitucional concluyó que no se evidenció vulneración de derechos fundamentales y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "avocamiento",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia N° 128",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-07_S0921_E21-0751.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320609-0921-71122-2022-21-0751.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.403002"
+}

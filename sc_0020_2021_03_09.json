@@ -1,0 +1,23 @@
+{
+  "id": 38242,
+  "numero": "0020",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2017-0745 dictada por la Corte Primera de lo Contencioso Administrativo, que había declarado con lugar un recurso contencioso administrativo sobre la jubilación de oficio del ciudadano John Rafael Tovar Cartaya. La Sala encontró que la jubilación se otorgó sin cumplir con los requisitos establecidos en el Reglamento de Jubilaciones y Pensiones, lo que vulneró el derecho a la defensa y al debido proceso del recurrente. En consecuencia, se declaró con lugar la solicitud de revisión y se anuló la sentencia impugnada, ordenando la reincorporación del demandante a su cargo y el pago de los sueldos dejados de percibir desde la fecha de la ilegal jubilación.",
+  "palabras_clave": [
+    "jubilación",
+    "derecho a la defensa",
+    "debido proceso",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0020_E19-0700.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311432-0020-9321-2021-19-0700.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.759658"
+}

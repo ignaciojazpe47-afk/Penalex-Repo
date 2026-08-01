@@ -1,0 +1,23 @@
+{
+  "id": 29939,
+  "numero": "0348",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de abril de 2023, declaró con lugar el recurso de apelación interpuesto por la abogada Obdulia Celenia Díaz Pérez, en representación de Carmen Obdulia Pérez de Díaz, contra la decisión del Juzgado Superior Cuarto Agrario que había declarado sin lugar la acción de amparo. La Sala consideró que el juez de primera instancia había violado el derecho a la defensa y el debido proceso al no pronunciarse sobre las cuestiones previas y la articulación probatoria solicitada por la parte demandada.\n\nLa decisión del tribunal de primera instancia fue revocada, y se ordenó dictar un nuevo fallo que respete los derechos y garantías constitucionales. La Sala enfatizó la importancia de la tutela judicial efectiva y el debido proceso, destacando que el silencio de la parte actora ante las cuestiones previas debía ser considerado como admisión de las mismas.\n\nFinalmente, se ordenó al juez de primera instancia que dictara un nuevo fallo conforme a los preceptos normativos aplicables, garantizando así el respeto a los derechos fundamentales de las partes involucradas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0348_E22-0812.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324618-0348-28423-2023-22-0812.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.055538"
+}

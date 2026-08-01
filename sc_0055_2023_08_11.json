@@ -1,0 +1,26 @@
+{
+  "id": 18205,
+  "numero": "0055",
+  "fecha": "2023-08-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la revisión constitucional solicitada por el abogado Luis Gerardo Pineda Torres en representación de Francisco Fermín Rodríguez, respecto a la sentencia n.° 378 dictada el 11 de agosto de 2023 por la Sala de Casación Social. La solicitud se basó en alegaciones de violaciones a derechos constitucionales y errores en la decisión de la Sala de Casación Social, que había declarado el desistimiento de un recurso de hecho por falta de consignación de copias certificadas en el plazo fijado.",
+  "palabras_clave": [
+    "casación",
+    "fraude procesal",
+    "derecho a la defensa",
+    "tutela judicial",
+    "Código de Procedimiento Civil",
+    "jurisprudencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0055_E23-1082.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341221-0055-6225-2025-23-1082.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.332327"
+}

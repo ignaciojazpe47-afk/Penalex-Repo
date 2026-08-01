@@ -1,0 +1,27 @@
+{
+  "id": 42315,
+  "numero": "0040",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la abogada Edith Sánchez de Paparelli en representación de Ricardo Jesús Osorio García, contra la decisión número 0829 de la Sala de Casación Social. La solicitud se fundamenta en la supuesta vulneración de derechos constitucionales, alegando falta de análisis en la sentencia impugnada. La Sala, tras evaluar la solicitud, se declaró competente para conocer del caso y ordenó notificaciones pertinentes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "medidas cautelares",
+    "contrato de compraventa",
+    "sentencias firmes",
+    "Sala Constitucional",
+    "Ley Orgánica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0040_E18-0810.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303965-0040-27219-2019-18-0810.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.605119"
+}

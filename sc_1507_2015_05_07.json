@@ -1,0 +1,24 @@
+{
+  "id": 67703,
+  "numero": "1507",
+  "fecha": "2015-05-07",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2014-0588 dictada por la Corte Primera de lo Contencioso Administrativo, que había declarado con lugar un recurso de apelación interpuesto por Juan Crisóstomo Gómez Tarazona contra la Corporación Venezolana de Guayana (CVG) por el concepto laboral de 'tiempo de viaje'. La Sala encontró que la Corte Primera incurrió en un error al determinar la ubicación geográfica del Municipio Caroní, lo que afectó la decisión sobre la procedencia del pago del subsidio de transporte. En consecuencia, se declaró con lugar la revisión y se anuló la sentencia impugnada, ordenando que otro tribunal emita una nueva decisión conforme a los criterios establecidos en la presente sentencia.",
+  "palabras_clave": [
+    "revisión",
+    "tiempo de viaje",
+    "subsidio de transporte",
+    "Corte Primera de lo Contencioso Administrativo",
+    "Corporación Venezolana de Guayana"
+  ],
+  "titulo": "Revisión de sentencia sobre pago de tiempo de viaje",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-27_S1507_E15-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183291-1507-271115-2015-15-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:39.532319"
+}

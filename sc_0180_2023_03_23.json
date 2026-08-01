@@ -1,0 +1,25 @@
+{
+  "id": 29441,
+  "numero": "0180",
+  "fecha": "2023-03-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La abogada Aidamer Arocha interpuso una acción de amparo constitucional en favor de Ramón Celestino García Avilez, condenado a 28 años y un mes de prisión por femicidio agravado. La Sala Constitucional del TSJ, tras analizar el caso, determinó que era incompetente para conocer la acción, ya que debía ser la Corte de Apelaciones con competencia en Delitos de Violencia contra la Mujer quien decidiera. Además, se constató una inactividad procesal por parte de la demandante durante más de seis meses, lo que llevó a declarar el procedimiento terminado por abandono del trámite.",
+  "palabras_clave": [
+    "debido_proceso",
+    "amparo_constitucional",
+    "violencia_contra_la_mujer",
+    "pruebas",
+    "sentencia",
+    "derechos_humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-23_S0180_E20-0075.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323841-0180-23323-2023-20-0075.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.070260"
+}

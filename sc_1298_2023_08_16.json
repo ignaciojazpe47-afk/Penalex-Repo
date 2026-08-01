@@ -1,0 +1,27 @@
+{
+  "id": 34190,
+  "numero": "1298",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "HOMOLOGA EL DESISTIMIENTO",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, se pronunció sobre la homologación del desistimiento del recurso de apelación interpuesto por Eduardo Emilio Fernández Oliva Luna contra la decisión del Tribunal Primero Superior del Trabajo de Anzoátegui que declaró inadmisible la acción de amparo constitucional. El desistimiento fue presentado por su abogado, Luis Ernesto Goubat González, quien argumentó que su representado había decidido continuar con el juicio principal tras llegar a un acuerdo con la parte demandada.\n\nLa Sala consideró que el desistimiento era procedente y no afectaba el orden público ni las buenas costumbres, por lo que se homologó. Se destacó que el desistimiento fue realizado de acuerdo con las facultades otorgadas al abogado y que no existían violaciones a derechos constitucionales en este contexto. Finalmente, se declaró firme la sentencia apelada, ordenando la devolución del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "desistimiento",
+    "derechos constitucionales",
+    "trabajo",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Homologación del desistimiento del recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1298_E21-0456.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328502-1298-16823-2023-21-0456.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.220157"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 44737,
+  "numero": "0490",
+  "fecha": "2019-12-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Luis Beltrán Silva, apoderado judicial de Luis Alberto Silva Calderón, contra la omisión de pronunciamiento de la Corte Primera de lo Contencioso Administrativo. La acción se fundamentó en la falta de respuesta a escritos presentados entre abril y julio de 2017, relacionados con un fraude informático presuntamente cometido por CANTV. La Sala consideró que las omisiones denunciadas habían cesado, lo que llevó a la inadmisibilidad de la acción de amparo según lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "CANTV",
+    "omisión de pronunciamiento",
+    "fraude informático"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-04_S0490_E17-0846.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308503-0490-41219-2019-17-0846.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.812928"
+}

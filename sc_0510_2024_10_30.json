@@ -1,0 +1,27 @@
+{
+  "id": 27024,
+  "numero": "0510",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de octubre de 2024, confirmó la inadmisibilidad de la acción de amparo interpuesta por José Gregorio Ocanto Carrasco contra el Juzgado Segundo de Primera Instancia Civil, Mercantil y del Tránsito del estado Lara. La acción fue declarada inadmisible por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la misma circunscripción el 14 de diciembre de 2021, debido a que había cesado la violación de derechos alegada por el demandante.\n\nLa Sala constató que el Juzgado Segundo se había inhibido del conocimiento de la causa y había remitido el expediente a la Unidad de Recepción y Distribución de Documentos, lo que llevó a la conclusión de que no existía interés procesal en la acción de amparo. La decisión se fundamentó en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo cuando hayan cesado las violaciones o amenazas a derechos constitucionales.\n\nFinalmente, la Sala declaró que tiene competencia para conocer de la apelación interpuesta y confirmó la decisión del juzgado inferior, declarando sin lugar la apelación presentada por el abogado Ocanto Carrasco.",
+  "palabras_clave": [
+    "inhibición",
+    "derecho de petición",
+    "debido proceso",
+    "acción de amparo",
+    "error judicial",
+    "Código de Procedimiento Civil",
+    "justicia",
+    "retardo procesal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0510_E22-0092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338398-0510-301024-2024-22-0092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.476020"
+}

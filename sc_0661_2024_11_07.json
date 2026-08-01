@@ -1,0 +1,22 @@
+{
+  "id": 27255,
+  "numero": "0661",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por la abogada Anarosa Tablante Cordero, en representación de Carolina Cabral Fernández, contra la sentencia del Tribunal Superior Tercero que había declarado parcialmente con lugar la acción de amparo constitucional presentada por Juan Carlos Goncalves Rodríguez. La decisión se fundamenta en la dilación en la articulación probatoria y la falta de cumplimiento de la custodia compartida, afectando el derecho del padre a mantener contacto con su hija.\nLa Sala constató que las actuaciones de los tribunales de primera instancia incurrieron en violaciones a los derechos constitucionales del demandante, afectando su derecho a la defensa y a la tutela judicial efectiva. Se ordenó la ejecución inmediata de la sentencia que establece el régimen de convivencia familiar, resaltando la importancia del interés superior del niño en la resolución del caso.\nFinalmente, se confirma la sentencia apelada, reafirmando la competencia de la Sala Constitucional para garantizar el cumplimiento de los derechos fundamentales en el contexto de la protección de niños, niñas y adolescentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia compartida",
+    "derechos del niño"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0661_E17-0538.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338657-0661-71124-2024-17-0538.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.443297"
+}

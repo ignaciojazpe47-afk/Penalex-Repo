@@ -1,0 +1,22 @@
+{
+  "id": 21409,
+  "numero": "1269",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena solicitar el expediente original del juicio primigenio",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisa la solicitud de revisión de una decisión del Juzgado Superior Primero del Trabajo que declaró desistido un recurso de apelación. Se argumenta que la decisión violó derechos constitucionales, incluyendo el debido proceso y la tutela judicial efectiva. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente original del juicio primigenio para su análisis.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos constitucionales",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1269_E24-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346924-1269-6825-2025-24-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.757087"
+}

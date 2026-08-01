@@ -1,0 +1,26 @@
+{
+  "id": 16347,
+  "numero": "0319",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión constitucional solicitada por Yoselyn Garcés Fernández, en relación a sentencias previas sobre un recurso de amparo constitucional y una simulación de daciones de pago. La Sala determinó su competencia para revisar las decisiones de los tribunales inferiores, considerando que se habían presentado irregularidades en el proceso judicial anterior. Finalmente, se ordenó la remisión del expediente al Juzgado correspondiente para que se cumplan las órdenes de citación y se garantice el debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "simulación",
+    "daciones de pago",
+    "competencia",
+    "sentencias",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo y simulación de daciones de pago",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0319_E25-1473.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354299-0319-25326-2026-25-1473.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.565798"
+}

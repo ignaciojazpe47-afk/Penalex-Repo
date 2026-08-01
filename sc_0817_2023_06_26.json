@@ -1,0 +1,26 @@
+{
+  "id": 31034,
+  "numero": "0817",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Pérdida de interés procesal y el abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de interpretación constitucional presentada por Manuel Oswaldo Chávez Pérez, quien buscaba aclarar la sinonimia entre la 'Carta Magna' inglesa y la 'Constitución de la República Bolivariana de Venezuela'. La Sala determinó su competencia para conocer la demanda, pero también constató una inactividad procesal por parte del solicitante desde el 19 de febrero de 2019, lo que llevó a declarar la pérdida de interés procesal y el abandono del trámite. Finalmente, se ordenó archivar el expediente.",
+  "palabras_clave": [
+    "interés procesal",
+    "interpretación constitucional",
+    "inactividad procesal",
+    "acción judicial",
+    "perención de instancia",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre interpretación constitucional solicitada por Manuel Oswaldo Chávez Pérez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0817_E19-0080.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326473-0817-26623-2023-19-0080.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.559909"
+}

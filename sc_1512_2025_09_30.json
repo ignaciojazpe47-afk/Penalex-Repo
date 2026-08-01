@@ -1,0 +1,22 @@
+{
+  "id": 21974,
+  "numero": "1512",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 21-0017 en respuesta a la solicitud de amparo constitucional presentada por Freddy Antonio Contreras, quien alegaba que sus familiares intentaban quitarle su vivienda. La Sala consideró que el escrito presentado era oscuro e ininteligible, lo que impedía identificar claramente los hechos que motivaban la solicitud de amparo. Se ordenó a los defensores públicos subsanar el escrito para que se cumplan los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "vivienda",
+    "familia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1512_E21-0017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348127-1512-30925-2025-21-0017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.201329"
+}

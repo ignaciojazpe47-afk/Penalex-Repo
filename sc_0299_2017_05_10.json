@@ -1,0 +1,22 @@
+{
+  "id": 43995,
+  "numero": "0299",
+  "fecha": "2017-05-10",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Hugo Antonio Martínez Zuñiga en favor de Norbeis Martínez Torres. Se constató que no se había consignado la copia certificada de las actuaciones del habeas corpus, lo que motivó a la Sala a reiterar la orden al Juzgado Cuarto de Primera Instancia para que informara sobre el estado de la causa y remitiera la documentación requerida en un plazo determinado.\n\nLa Sala, al considerar la necesidad de garantizar el derecho al debido proceso, ordenó que se cumpliera con lo dispuesto en el auto anterior y se notificara al Juzgado sobre el incumplimiento de la orden. Además, se instruyó a la Secretaría de la Sala para que realizara la notificación de manera expedita, dejando constancia de ello en el expediente.\n\nFinalmente, se ordenó la remisión de la copia certificada de esta decisión a las autoridades correspondientes para que se tomaran las medidas disciplinarias pertinentes ante el incumplimiento por parte del Juzgado.",
+  "palabras_clave": [
+    "avocamiento",
+    "habeas corpus",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0299_E16-1008.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307164-0299-16819-2019-16-1008.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.348492"
+}

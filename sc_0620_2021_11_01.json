@@ -1,0 +1,26 @@
+{
+  "id": 40183,
+  "numero": "0620",
+  "fecha": "2021-11-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 4 de abril de 2017 por el Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario del Estado Aragua. En dicha sentencia, se declaró parcialmente con lugar un recurso de apelación y se revocó un fallo anterior, lo que llevó a la solicitud de revisión constitucional por parte de los demandantes. La Sala, tras analizar los argumentos presentados, concluyó que no existían violaciones a principios constitucionales y que el Juzgado había actuado conforme a derecho.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "igualdad jurídica",
+    "seguridad jurídica",
+    "derecho de propiedad",
+    "jurisprudencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0620_E19-0042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314376-0620-111121-2021-19-0042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.114336"
+}

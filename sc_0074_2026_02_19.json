@@ -1,0 +1,24 @@
+{
+  "id": 16105,
+  "numero": "0074",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Tania D'Amelio, declaró su competencia para conocer la solicitud de revisión constitucional presentada por Jesús Alberto Salcedo Palomares. La revisión se solicitó en relación a una sentencia del Tribunal Segundo de Primera Instancia que declaró inadmisible una acción de amparo constitucional y anuló todo lo actuado en un procedimiento de reconocimiento de testamento abierto, argumentando quebrantamiento de formas procesales que vulneraron derechos constitucionales. La Sala, tras evaluar los argumentos, decidió no admitir la revisión, considerando que no existían circunstancias que justificaran el ejercicio de su potestad extraordinaria.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "testamento abierto",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0074_E25-0353.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352759-0074-19226-2026-25-0353.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.388683"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38384,
+  "numero": "0062",
+  "fecha": "2021-04-07",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por los abogados de Gianfranco Agostinone Pizzuto contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación fue considerada tempestiva, pero se determinó que los accionantes debieron agotar la vía ordinaria antes de acudir al amparo. La Sala reafirmó que la medida humanitaria de detención domiciliaria solo procede en casos de enfermedad grave o en fase terminal, lo que no se evidenció en este caso.",
+  "palabras_clave": [
+    "apelación",
+    "derechos humanos",
+    "medidas cautelares",
+    "tutela judicial",
+    "salud mental",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-07_S0062_E19-0555.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311619-0062-7421-2021-19-0555.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.751797"
+}

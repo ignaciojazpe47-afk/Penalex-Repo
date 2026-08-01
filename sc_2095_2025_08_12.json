@@ -1,0 +1,24 @@
+{
+  "id": 23874,
+  "numero": "2095",
+  "fecha": "2025-08-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión de la sentencia número 118, emitida por la Sala de Casación Civil, que declaró inadmisible el recurso de casación presentado por Octavio José Mujica Dias. La Sala determina su competencia para conocer la solicitud, afirmando que se trata de una sentencia definitivamente firme. Se ordena oficiar a la Rectoría de la Circunscripción Judicial del Estado Portuguesa para recabar información sobre el estado de la causa relacionada con la nulidad de actas de asamblea general ordinaria de accionistas.",
+  "palabras_clave": [
+    "competencia",
+    "revisión constitucional",
+    "sentencias",
+    "tribunales",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2095_E25-0859.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351918-2095-121225-2025-25-0859.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.208471"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32257,
+  "numero": "1410",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rubén Lisboa Velásquez en representación de Ruzbeila Nicolasa Almeida Padrino, contra el Tribunal Primero de Primera Instancia Municipal en Funciones de Control. La decisión se basa en la falta de acreditación del abogado como defensor privado, lo que impide la procedencia del recurso. La sentencia del 6 de julio de 2023, que declaró inadmisible la acción de amparo, queda firme.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "jurisprudencia",
+    "defensor privado",
+    "inadmision",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1410_E23-0841.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329285-1410-111023-2023-23-0841.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.401853"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27685,
+  "numero": "0891",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "NULA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Tercero de Primera Instancia de Juicio del Trabajo de Sucre, que había declarado el desacato de un mandamiento de amparo constitucional y sancionado al ciudadano José Delgado con quince meses de prisión. La Sala determinó que la notificación al sancionado no fue válida, lo que constituyó una violación del derecho a la defensa y del debido proceso. Por lo tanto, se declaró nula la sentencia impugnada y se ordenó reponer la causa para que se convoque a una nueva audiencia.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "sanciones",
+    "audiencia constitucional"
+  ],
+  "titulo": "Consulta per saltum sobre desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0891_E23-0162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339168-0891-201124-2024-23-0162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.192189"
+}

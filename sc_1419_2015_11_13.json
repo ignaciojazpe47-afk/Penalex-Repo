@@ -1,0 +1,24 @@
+{
+  "id": 67407,
+  "numero": "1419",
+  "fecha": "2015-11-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 02 de mayo de 2013 por el Juzgado Superior Cuarto del Circuito Judicial Laboral de Zulia, que había declarado inadmisible la acción de amparo presentada por Jorge Rafael Linero Lugo contra Bolivariana de Puertos S.A. La Sala encontró que la decisión del juzgado inferior había violado derechos constitucionales al trabajo y a una tutela judicial efectiva, aplicando de manera retroactiva la nueva Ley Orgánica del Trabajo a un procedimiento ya concluido bajo la ley anterior.\n\nLa Sala declaró con lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando que el expediente sea remitido a un nuevo juzgado para que se pronuncie sobre el recurso de apelación, garantizando así el derecho del trabajador a recuperar su puesto de trabajo. La decisión se fundamenta en la necesidad de mantener la uniformidad de la jurisprudencia y en la protección de los derechos laborales consagrados en la Constitución.\n\nFinalmente, se enfatiza que el amparo constitucional es un mecanismo excepcional que debe ser utilizado cuando se han agotado las vías ordinarias, y que en este caso, el procedimiento administrativo no había sido debidamente agotado, lo que justifica la intervención de la Sala Constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derechos laborales",
+    "Bolivariana de Puertos",
+    "Zulia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1419_E15-0942.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182911-1419-131115-2015-15-0942.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:46.375755"
+}

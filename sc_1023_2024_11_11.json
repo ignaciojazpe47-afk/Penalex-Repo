@@ -1,0 +1,25 @@
+{
+  "id": 27845,
+  "numero": "1023",
+  "fecha": "2024-11-11",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado José Alejandro Salas Oliveros en representación de la sociedad mercantil Abogados Sánchez & Asociados. El recurso fue presentado contra una decisión del Tribunal Superior Quinto que declaró improcedente la admisibilidad de la acción de amparo constitucional relacionada con una medida cautelar de secuestro dictada por un juzgado inferior.\n\nLa Sala determinó su competencia para conocer del recurso, considerando que fue interpuesto dentro del plazo legal establecido. Se ordenó al Tribunal Superior Quinto que informe sobre el estado actual de la causa relacionada con la resolución de contrato que cursa ante dicho tribunal, estableciendo un plazo para su cumplimiento.\n\nFinalmente, la decisión fue firmada por la Magistrada Janette Trinidad Córdova Castro, quien asumió la ponencia del caso tras la reasignación correspondiente.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "decisión",
+    "plazo",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1023_E24-0222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339336-1023-211124-2024-24-0222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.425398"
+}

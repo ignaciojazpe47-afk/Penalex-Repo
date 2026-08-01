@@ -1,0 +1,25 @@
+{
+  "id": 28289,
+  "numero": "1247",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por la abogada Dora Delgado, actuando como defensora del ciudadano José Rafael Rodríguez Caldera, contra la decisión de la Sala N° 2 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional por inepta acumulación de pretensiones. La Sala argumenta que la acción de amparo fue interpuesta contra distintos órganos, lo que resulta improcedente al no corresponder a una sola instancia conocer y decidir sobre las pretensiones acumuladas. Se confirma el fallo apelado, manteniendo la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "competencia",
+    "derechos humanos",
+    "tribunales",
+    "procedimiento civil"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1247_E24-0124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340203-1247-51224-2024-24-0124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.031634"
+}

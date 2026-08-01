@@ -1,0 +1,25 @@
+{
+  "id": 26966,
+  "numero": "0477",
+  "fecha": "2024-10-29",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una demanda de habeas data interpuesta por Giselle Calderaro Marcano, solicitando la actualización de datos de su difunto abuelo en los registros del SAIME. Tras el análisis de la competencia, se determinó que el tribunal competente para conocer de la demanda es el Juzgado de Municipio de la Circunscripción Judicial del Área Metropolitana de Caracas. En consecuencia, la Sala se declaró incompetente para conocer la demanda y declinó la competencia al juzgado correspondiente.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "identidad",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre demanda de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-29_S0477_E23-1130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338311-0477-291024-2024-23-1130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.479184"
+}

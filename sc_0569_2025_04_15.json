@@ -1,0 +1,23 @@
+{
+  "id": 19467,
+  "numero": "0569",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Lara declaró improcedente la acción de amparo interpuesta por Larry José Montilla Arellano, quien alegaba la violación de sus derechos a la defensa y al debido proceso debido al diferimiento de una audiencia preliminar. La Sala Constitucional del TSJ, al conocer del recurso de apelación, determinó que el Tribunal de Primera Instancia actuó conforme a derecho al diferir la audiencia, ya que la defensa del imputado no estaba completa. Finalmente, se declaró sin lugar el recurso de apelación y se revocó la decisión apelada, declarando inadmisible la acción de amparo por no existir lesión constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derecho a la defensa",
+    "debido proceso",
+    "improcedencia"
+  ],
+  "titulo": "Decisión sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0569_E22-0429.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343174-0569-15425-2025-22-0429.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.041324"
+}

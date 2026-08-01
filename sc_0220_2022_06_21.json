@@ -1,0 +1,25 @@
+{
+  "id": 35152,
+  "numero": "0220",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Ha Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana Ángela de Jesús Ferreira solicitó la revisión de una sentencia del Juzgado Superior en lo Civil, Mercantil, del Tránsito y de Protección del Niño y del Adolescente de Nueva Esparta, que anuló actos procesales y reponía la causa al estado de nueva citación. La Sala Constitucional, tras analizar la solicitud, concluyó que la decisión recurrida era susceptible de impugnación mediante casación, y que la revisión no era procedente. Finalmente, se declaró 'No Ha Lugar' la solicitud de revisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "litisconsorcio",
+    "tutela_judicial",
+    "contrato_compraventa",
+    "violaciones_constitucionales",
+    "medidas_cautelares"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0220_E16-1097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317481-0220-21622-2022-16-1097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.629907"
+}

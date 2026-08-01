@@ -1,0 +1,26 @@
+{
+  "id": 34122,
+  "numero": "1229",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de avocamiento interpuesta por Gustavo Silva Araque en representación de la sociedad mercantil Agropecuaria El Chupón C.A. La solicitud se fundamentó en la falta de rendición de cuentas por parte del administrador Jorge Alfredo Silva Cardona, quien ha impedido el acceso a la información financiera de la compañía desde 2017. Sin embargo, la Sala concluye que no se evidencian desórdenes procesales que justifiquen el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "derechos",
+    "justicia",
+    "tribunales",
+    "procedimiento",
+    "injusticia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1229_E20-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328433-1229-14823-2023-20-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.877039"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 23693,
+  "numero": "1984",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por MERCANTIL, C.A., Banco Universal, contra la sentencia del Juzgado Quinto Superior del Trabajo que había declarado sin lugar la demanda de nulidad contra una providencia administrativa. La Sala anuló la decisión del juzgado inferior, argumentando que se vulneraron derechos fundamentales como el debido proceso y la defensa, y ordenó la reposición de la causa para que otro juzgado se pronuncie nuevamente sobre el recurso de apelación. La decisión se fundamenta en la falta de valoración de pruebas y en la incongruencia del fallo anterior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "debido proceso",
+    "nulidad",
+    "despido justificado"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por MERCANTIL, C.A., BANCO UNIVERSAL",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1984_E24-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351692-1984-101225-2025-24-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.742780"
+}

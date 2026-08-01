@@ -1,0 +1,25 @@
+{
+  "id": 28412,
+  "numero": "1354",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 0368, declaró su competencia para conocer la solicitud de revisión presentada por la sociedad mercantil Centro Comercial Juana de Ávila, C.A. contra la sentencia N° 000780 dictada por la Sala de Casación Civil. La Sala, tras analizar las denuncias de violación de derechos constitucionales, concluyó que no se evidenció vulneración de los derechos a la defensa y a la tutela judicial efectiva, así como del derecho a la propiedad, y por lo tanto, declaró NO HA LUGAR la solicitud de revisión. Además, dejó sin efecto la medida cautelar de suspensión de los efectos del fallo N° 000780.",
+  "palabras_clave": [
+    "inmotivación",
+    "contradicción",
+    "contrato",
+    "propiedad horizontal",
+    "carga de la prueba",
+    "resolución de contrato"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1354_E24-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340368-1354-101224-2024-24-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.223371"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18704,
+  "numero": "0250",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por Oswaldo José Nieto Donis, quien solicitó un amparo constitucional contra un laudo arbitral. La Sala confirmó la decisión del Juzgado Superior Segundo que declaró inadmisible la acción de amparo, argumentando que el apelante tenía a su disposición la vía ordinaria para restablecer su situación jurídica a través del recurso de nulidad previsto en la Ley de Arbitraje Comercial. La Sala concluyó que no se evidenció una situación que justificara el uso del amparo constitucional como medio idóneo para la protección de los derechos alegados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "laudo arbitral",
+    "inadmisibilidad",
+    "derechos fundamentales",
+    "recurso de nulidad"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0250_E24-0997.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342128-0250-5325-2025-24-0997.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.872842"
+}

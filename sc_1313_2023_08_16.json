@@ -1,0 +1,25 @@
+{
+  "id": 34205,
+  "numero": "1313",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por Luis Javier Sánchez Rangel contra la decisión de la Sala N° 6 de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La decisión se fundamenta en la falta de legitimación de los abogados que representaron al demandante, quienes no acreditaron su carácter para actuar en su nombre. La Sala reafirma la importancia de la representación legal adecuada en los procedimientos de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "notificación",
+    "debido proceso",
+    "celeridad procesal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1313_E18-0650.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328517-1313-16823-2023-18-0650.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.228890"
+}

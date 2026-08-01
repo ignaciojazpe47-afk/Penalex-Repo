@@ -1,0 +1,23 @@
+{
+  "id": 69439,
+  "numero": "131",
+  "fecha": "2014-03-06",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "ADMITE el recurso de nulidad ejercido.",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad interpuesto por la abogada Yesenia Polanco, en representación de Pablo Alberto Verastegui, contra la Reforma Parcial de la Ley de Protección Social del Policía del Estado Aragua. La acción se fundamenta en la supuesta inconstitucionalidad de varios artículos de dicha ley, argumentando que vulneran el principio de supremacía constitucional y que el Poder Público Estadal no tiene competencia para legislar sobre materia de seguridad social, que corresponde al Poder Público Nacional.\n\nLa Sala, tras analizar los argumentos presentados, se declaró competente para conocer del recurso y admitió la demanda, ordenando las notificaciones pertinentes. Sin embargo, se consideró improcedente la medida cautelar solicitada, argumentando que la suspensión de los efectos de las normas impugnadas podría generar más perjuicios que beneficios, y que la legislación nacional ya regula adecuadamente la materia de seguridad social.\n\nFinalmente, la Sala ordenó remitir el expediente al Juzgado de Sustanciación para continuar con el procedimiento correspondiente.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Ley de Protección Social",
+    "Policía del Estado Aragua"
+  ],
+  "titulo": "Sentencia sobre la nulidad de la Reforma Parcial de la Ley de Protección Social del Policía del Estado Aragua",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-03-06_S131_E13-1171.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/161802-131-6314-2014-13-1171.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:11.321219"
+}

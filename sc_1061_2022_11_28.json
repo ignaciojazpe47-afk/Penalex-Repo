@@ -1,0 +1,26 @@
+{
+  "id": 37706,
+  "numero": "1061",
+  "fecha": "2022-11-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2022, declaró inadmisible la acción de amparo constitucional interpuesta por los abogados Juan Francisco Alvarado Palacios y Aura Mercedes Pieruzzini Rivero, en representación de varios ciudadanos. La acción se basaba en la supuesta violación de derechos constitucionales por decisiones del Juzgado Superior en lo Civil, Mercantil y Tránsito del Estado Portuguesa, dictadas el 9 de julio y el 21 de septiembre de 2021, que negaron la revocatoria de una sentencia anterior y modificaron su contenido.\n\nLa Sala argumentó que, tras la revisión de oficio de la sentencia de fecha 6 de agosto de 2019, la cual fue anulada, cesaron las causas que motivaron la interposición del amparo, lo que llevó a la inadmisibilidad de la acción. Se destacó que no se puede admitir un amparo cuando la situación que lo motivó ha dejado de existir, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "jurisprudencia",
+    "competencia",
+    "sentencia",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-28_S1061_E22-0070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321255-1061-281122-2022-22-0070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.453704"
+}

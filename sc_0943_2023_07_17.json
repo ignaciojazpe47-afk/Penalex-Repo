@@ -1,0 +1,26 @@
+{
+  "id": 31405,
+  "numero": "0943",
+  "fecha": "2023-07-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Carmen Ramona Caraballo Sosa en representación de Enderson Asdrúbal Ulloa Díaz, contra la Ministra del Poder Popular para el Servicio Penitenciario, debido a la supuesta negativa de ejecutar una boleta de excarcelación. La Sala se declaró competente para conocer el caso y, tras evaluar la situación, determinó que la boleta fue efectivamente ejecutada el 20 de octubre de 2021, lo que llevó a la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "excarcelación",
+    "derechos",
+    "garantías",
+    "justicia",
+    "penitenciario"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Enderson Asdrúbal Ulloa Díaz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-17_S0943_E21-0593.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327145-0943-17723-2023-21-0593.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.207361"
+}

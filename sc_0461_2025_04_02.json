@@ -1,0 +1,25 @@
+{
+  "id": 19224,
+  "numero": "0461",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de abril de 2025, declaró improcedente la acción de amparo constitucional interpuesta por la abogada Jessica M. Volweider R. en representación de WILLIAMS JESÚS BELISARIO NATERA. La acción se dirigía contra un auto de admisión de recurso de apelación emitido por la Corte de Apelaciones del Circuito Judicial Penal del Estado Sucre, que admitió un recurso interpuesto por la Fiscalía Octava en relación a una sentencia que declaró no culpable al accionante de los delitos imputados.\n\nLa Sala determinó que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que la Corte de Apelaciones actuó dentro de su competencia y no se evidenció ninguna violación de derechos constitucionales. Se concluyó que el recurso de apelación fue interpuesto dentro del lapso legal, por lo que la decisión de admisión no causó agravio al accionante.\n\nFinalmente, la Sala se declaró competente para conocer de la acción, pero desestimó la solicitud de amparo, ordenando su archivo y cumplimiento de lo dispuesto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "justicia",
+    "proceso penal",
+    "competencia",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0461_E24-0546.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342860-0461-2425-2025-24-0546.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.600697"
+}

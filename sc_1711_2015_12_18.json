@@ -1,0 +1,23 @@
+{
+  "id": 68420,
+  "numero": "1711",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por la abogada Esperanza Fonseca Duarte, defensora privada del ciudadano Frank Joaquín Azevedo Da Silva, debido a la falta de copia certificada de las actuaciones procesales y la falta de legitimidad de la solicitante. La Sala argumenta que no se presentaron los documentos necesarios para demostrar la condición de defensora privada y que la solicitud carecía de valor probatorio suficiente para ser admitida. La decisión se fundamenta en la normativa vigente que regula el avocamiento y la representación legal en el proceso penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmision",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Solicitud de avocamiento inadmisible por falta de legitimidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1711_E15-1111.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184157-1711-181215-2015-15-1111.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:34.471273"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3418,
+  "numero": "942",
+  "fecha": "2007-10-26",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Norma Janet Parra contra la decisión del Juzgado Superior Primero en lo Civil, que había declarado sin lugar el recurso de apelación. La Sala consideró que se vulneraron los derechos a la defensa y al debido proceso de la accionante, al no haberse realizado la citación personal para la absolución de posiciones juradas, lo que llevó a una situación de indefensión. En consecuencia, se anuló la decisión impugnada y se ordenó que un nuevo juez dictara sentencia en segunda instancia, sin tomar en cuenta las posiciones juradas previamente estampadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "citación personal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Norma Janet Parra Herrera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-10-26_CasacionCivil_07_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.107355"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 62486,
+  "numero": "219",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional presentada por la sociedad mercantil INDUSTRIA METALMECÁNICA EPOTMETAL, C.A. contra la supuesta omisión de pronunciamiento del Tribunal Segundo Superior del Trabajo de la Circunscripción Judicial del Área Metropolitana de Caracas. La acción se fundamentó en la falta de respuesta a los anuncios de un recurso de casación realizados por los trabajadores en noviembre y diciembre de 2014.\n\nLa Sala, tras analizar la competencia y la admisibilidad de la acción, decidió que la omisión del Tribunal Superior afectó el derecho a la defensa y el debido proceso de la parte accionante. Por lo tanto, se declaró competente para conocer del caso y se ordenó la notificación del juez del tribunal inferior para que comparezca ante la Sala.\n\nFinalmente, la Sala negó la medida cautelar solicitada por la parte accionante, pero admitió la acción de amparo, ordenando al tribunal inferior que se pronuncie sobre el recurso de casación en el plazo correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S219_E15-0027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175260-219-11315-2015-15-0027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.358178"
+}

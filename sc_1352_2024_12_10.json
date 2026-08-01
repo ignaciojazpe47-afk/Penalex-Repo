@@ -1,0 +1,25 @@
+{
+  "id": 28410,
+  "numero": "1352",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el Fiscal Titular 38° Nacional Pleno contra una decisión de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala determinó su competencia para conocer el caso y ordenó la remisión de copias certificadas de decisiones anteriores. En su decisión, la Sala consideró que la nulidad del proceso penal, dictada por el Tribunal 2° de Primera Instancia, violó el derecho a la defensa y el debido proceso, ya que se basó en un reconocimiento de firma de un poder no apostillado, lo que no constituye un hecho punible.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "proceso penal",
+    "fiscalía",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de nulidad de proceso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1352_E23-0855.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340366-1352-101224-2024-23-0855.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.210604"
+}

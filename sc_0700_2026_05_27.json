@@ -1,0 +1,22 @@
+{
+  "id": 17711,
+  "numero": "0700",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Janeth Núñez Colmenares contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia. La acción se fundamentó en la supuesta vulneración de derechos constitucionales debido a la incautación de bienes de su propiedad por parte de la Policía Regional del Estado Zulia, sin orden judicial, lo que generó un proceso penal en su contra. La Sala declaró su competencia para conocer el caso y ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incautación de bienes",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0700_E26-0375.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355970-0700-27526-2026-26-0375.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.893847"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32262,
+  "numero": "1416",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "PÉRDIDA DEL INTERÉS PROCESAL",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal en la demanda de nulidad interpuesta por Carlos Brender, debido a la inactividad procesal que se extendió por más de un año. Se argumenta que la falta de acción del demandante implica que no tiene interés en obtener una solución al caso, lo que lleva a la terminación del procedimiento. La decisión se fundamenta en la jurisprudencia que establece que la inactividad puede resultar en la pérdida del interés procesal.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "inactividad procesal",
+    "justicia",
+    "acción",
+    "constitución",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre pérdida del interés procesal en demanda de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1416_E16-1071.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329291-1416-111023-2023-16-1071.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.401301"
+}

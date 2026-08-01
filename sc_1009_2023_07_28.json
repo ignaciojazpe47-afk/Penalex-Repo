@@ -1,0 +1,25 @@
+{
+  "id": 31652,
+  "numero": "1009",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada el 20 de noviembre de 2017, por el Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito del Estado Aragua, que declaró sin lugar un recurso de apelación. La revisión fue solicitada por los apoderados de los ciudadanos Samir Nassib Abi Faraj Souki e Ikhlas Sabbagh de Faraj, quienes argumentaron violaciones a derechos constitucionales en la decisión del juzgado inferior.\nLa Sala, tras analizar los argumentos y la naturaleza de la sentencia objeto de revisión, concluyó que la decisión no era susceptible de revisión constitucional, ya que no cumplía con los requisitos establecidos en la ley. Por lo tanto, se declaró que no había lugar a la solicitud de revisión, reafirmando la competencia de la Sala Constitucional para conocer de tales asuntos.\nFinalmente, se ordenó la publicación y archivo del expediente, dejando firme la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "partidor",
+    "revocatoria",
+    "informe de partición",
+    "Código de Procedimiento Civil",
+    "justicia",
+    "derecho"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1009_E18-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327541-1009-28723-2023-18-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.913745"
+}

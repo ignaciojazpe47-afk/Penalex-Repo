@@ -1,0 +1,26 @@
+{
+  "id": 31968,
+  "numero": "1345",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Rogelio Rodríguez Bencomo contra la sentencia del Juzgado Cuarto Superior del Trabajo. La decisión se fundamenta en que el accionante no agotó los recursos ordinarios disponibles, específicamente el recurso de casación, antes de recurrir al amparo constitucional. Se argumenta que la sentencia impugnada es una decisión definitiva formal, lo que permite su impugnación a través de la casación.",
+  "palabras_clave": [
+    "tutela judicial",
+    "reposiciones",
+    "proceso laboral",
+    "incomparecencia",
+    "responsabilidad",
+    "demanda",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1345_E22-0629.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328550-1345-17823-2023-22-0629.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.217186"
+}

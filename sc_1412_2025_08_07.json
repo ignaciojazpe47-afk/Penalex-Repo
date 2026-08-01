@@ -1,0 +1,25 @@
+{
+  "id": 21665,
+  "numero": "1412",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Kilian Rafael de Jesús Zambrano Álvarez contra la sentencia de la Sala Uno de la Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas, que declaró sin lugar el recurso de apelación. La decisión se basa en que la Corte de Apelaciones actuó dentro de su competencia y no vulneró derechos constitucionales del demandante, garantizando el respeto al principio del juez natural y la tutela judicial efectiva.\n\nSe argumenta que el amparo constitucional no puede ser utilizado para cuestionar decisiones judiciales que han agotado la vía ordinaria, y que la acción de amparo es un recurso extraordinario diseñado para proteger derechos fundamentales vulnerados de manera grave e inmediata. La Sala concluye que no se ha vulnerado el principio non bis in idem, ya que no se ha producido una nueva valoración de los hechos ni una nueva imposición de sanciones.\n\nFinalmente, se declara inoficioso pronunciarse sobre la medida cautelar solicitada, y se ordena la publicación, registro y archivo del expediente.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "acción de amparo",
+    "fraude procesal",
+    "doble persecución penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1412_E24-1029.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347276-1412-7825-2025-24-1029.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.042133"
+}

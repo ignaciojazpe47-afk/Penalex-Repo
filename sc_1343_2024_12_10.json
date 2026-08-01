@@ -1,0 +1,26 @@
+{
+  "id": 28401,
+  "numero": "1343",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la demanda de habeas data interpuesta por Ricardo Ramón Castro Gruber contra la Fundación Alejandro Otero-Mercedes Pardo. Se declina la competencia al Juzgado de Municipio Ordinario y Ejecutor de Medidas de la Circunscripción Judicial de Ciudad Bolívar, Estado Bolívar. La Sala considera que el caso requiere un procedimiento indagatorio que encuadra en los supuestos establecidos para la interposición de una acción de habeas data, conforme al artículo 28 de la Constitución de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "habeas data",
+    "registro de obras",
+    "derechos constitucionales",
+    "fundaciones",
+    "arte",
+    "omisión",
+    "expertos"
+  ],
+  "titulo": "Sentencia sobre la demanda de habeas data interpuesta por Ricardo Ramón Castro Gruber",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1343_E24-0101.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340357-1343-101224-2024-24-0101.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.215390"
+}

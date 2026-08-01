@@ -1,0 +1,26 @@
+{
+  "id": 41007,
+  "numero": "0012",
+  "fecha": "2019-05-30",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La abogada Amenaida María Bustillos Zabaleta solicitó la revisión constitucional de una decisión de la Sala de Casación Civil que declaró sin lugar un recurso extraordinario de casación. La Sala Constitucional, al revisar el caso, determinó que la solicitud de revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, y que el recurso extraordinario de casación no cumplía con los requisitos formales necesarios. Por lo tanto, se declaró improcedente la acumulación solicitada y se negó la revisión.",
+  "palabras_clave": [
+    "tutela judicial",
+    "silencio de pruebas",
+    "cosa juzgada",
+    "derechos constitucionales",
+    "justicia",
+    "Código de Procedimiento Civil",
+    "Sala de Casación Civil"
+  ],
+  "titulo": "Sentencia sobre recurso de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0012_E19-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309522-0012-11220-2020-19-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.854361"
+}

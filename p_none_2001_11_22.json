@@ -1,0 +1,24 @@
+{
+  "id": 8901,
+  "numero": null,
+  "fecha": "2001-11-22",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Avocamiento",
+  "decision": "Con Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre la solicitud de radicación de juicio presentada por la defensa de los imputados Emirson José Ferrini, Miguel Eduardo Briceño Lugo y Luis Ernesto González Miliani, quienes enfrentan cargos por delitos de peculado y malversación. La defensa argumentó que la cobertura mediática y la opinión pública han generado un ambiente de escándalo que podría afectar la imparcialidad del juicio.",
+  "palabras_clave": [
+    "radicación",
+    "juicio",
+    "escándalo público",
+    "delitos",
+    "peculado"
+  ],
+  "titulo": "Solicitud de radicación de juicio en caso de escándalo público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_278583de3d4feaa2c6a38cce770607e2_PerezPerdomo.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:09.625377"
+}

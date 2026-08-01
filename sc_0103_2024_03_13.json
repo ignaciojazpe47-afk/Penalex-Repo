@@ -1,0 +1,24 @@
+{
+  "id": 16184,
+  "numero": "0103",
+  "fecha": "2024-03-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 33 del 13 de marzo de 2024, dictada por la Sala de Casación Social, que declaró procedente la segunda fase del avocamiento en un juicio por cobro de prestaciones sociales. La Sala constató que la notificación a la parte demandada fue defectuosa, lo que generó un vicio procesal. En consecuencia, se declaró la nulidad absoluta de todas las actuaciones a partir del 10 de mayo de 2022 y se ordenó la reposición de la causa al estado de notificación de las partes para continuar con el proceso judicial.",
+  "palabras_clave": [
+    "avocamiento",
+    "nulidad",
+    "notificación",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en juicio laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0103_E24-0386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353090-0103-2326-2026-24-0386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.654747"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 45214,
+  "numero": "0059",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión presentada por el Municipio Atures del Estado Amazonas, representado por la abogada Marina Elena Pineda Duque. La solicitud se refería a la revisión de una sentencia de la Corte Segunda de lo Contencioso Administrativo que había declarado desistido un recurso de apelación. La Sala argumentó que la solicitante no cumplió con los requisitos de presentar copia certificada de la sentencia cuya revisión se solicitaba, así como el poder que acreditara su representación legal.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "celeridad_procesal",
+    "jurisdicción_contencioso_administrativa",
+    "normas_vinculantes",
+    "indefensión",
+    "Código_de_Procedimiento_Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional del Municipio Atures",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0059_E17-1075.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207226-0059-31118-2018-17-1075.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.457936"
+}

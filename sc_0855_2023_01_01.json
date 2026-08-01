@@ -1,0 +1,26 @@
+{
+  "id": 31148,
+  "numero": "0855",
+  "fecha": "2023-01-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la demanda de nulidad interpuesta por José Luis Tamayo Rodríguez y Theresly Malavé Wadskier contra la resolución n.° 008610 del Ministerio del Poder Popular para la Defensa. La demanda cuestiona la legalidad de normas sobre la actuación de la Fuerza Armada Nacional Bolivariana en el control del orden público y su compatibilidad con la Constitución de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "orden público",
+    "Fuerza Armada",
+    "derechos civiles",
+    "seguridad ciudadana",
+    "manifestaciones",
+    "policía"
+  ],
+  "titulo": "Sentencia sobre la demanda de nulidad por razones de inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0855_E15-0208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326675-0855-10723-2023-15-0208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.308016"
+}

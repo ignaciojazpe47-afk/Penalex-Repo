@@ -1,0 +1,25 @@
+{
+  "id": 22622,
+  "numero": "1679",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Nathiel Annarella Peñaloza González, actuando en nombre de los ciudadanos Manuel Pereira Correia y Silvestre Pereira Correia. La decisión se basa en la falta de acreditación de la representación judicial, ya que no se presentó el poder correspondiente en original o copia certificada, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia.\n\nLa sentencia N° 220, objeto de revisión, había declarado 'CON LUGAR' el recurso de casación interpuesto por otros ciudadanos y homologado un acuerdo entre las partes. Sin embargo, la falta de legitimidad en la representación de la solicitante llevó a la inadmisibilidad de la revisión, conforme a lo dispuesto en el artículo 133, numeral 3 de la mencionada ley.\n\nFinalmente, se resalta que la Sala considera que el cumplimiento de la carga de presentar el poder es esencial para garantizar la seguridad jurídica y la correcta representación en los procesos judiciales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder",
+    "copia simple",
+    "sentencia",
+    "jurisdicción",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1679_E22-0216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349282-1679-291025-2025-22-0216.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.536475"
+}

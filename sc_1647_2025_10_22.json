@@ -1,0 +1,25 @@
+{
+  "id": 22459,
+  "numero": "1647",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por Joao Mendes Pedro, debido a la falta de presentación de copia certificada de la decisión cuestionada. Se resalta la importancia de acompañar la solicitud con los documentos necesarios para su admisión, conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La decisión se fundamenta en la necesidad de garantizar la autenticidad y validez de los documentos presentados en el proceso de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "procedimiento",
+    "documentación",
+    "admisibilidad",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1647_E17-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349038-1647-221025-2025-17-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.748386"
+}

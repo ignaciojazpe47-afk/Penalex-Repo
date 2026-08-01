@@ -1,0 +1,26 @@
+{
+  "id": 18103,
+  "numero": "0414",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 1344, declaró con lugar la acción de amparo constitucional interpuesta por los ciudadanos Jesús Enrique Orozco Méndez y Ulises Orozco Méndez, contra la sentencia del Juzgado Tercero de Primera Instancia Agraria que había declarado inadmisible su demanda. La Sala consideró que se vulneraron los derechos de acceso a la justicia y al debido proceso, ya que el juez de instancia no permitió la subsanación de la demanda. Además, se revocó la decisión del Juzgado Superior Agrario que había declarado con lugar la acción de amparo, y se declaró inadmisible la acción de amparo presentada por la sociedad Agropecuaria Santa Lucía, C.A.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "derechos constitucionales",
+    "Ley de Tierras",
+    "Código de Procedimiento Civil",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0414_E24-0117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354866-0414-9426-2026-24-0117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.026250"
+}

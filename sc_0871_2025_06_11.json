@@ -1,0 +1,25 @@
+{
+  "id": 20286,
+  "numero": "0871",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 579, declarando sin lugar la acción de amparo interpuesta por José Alberto Andrade Rodríguez contra la decisión del Juzgado Superior Quinto en lo Civil, Mercantil, del Tránsito y Bancario. La acción de amparo buscaba enervar los efectos de una sentencia que resolvió la apelación de una decisión anterior en un juicio de cumplimiento de contrato. La Sala consideró que el objeto de la acción de amparo había decaído debido al fallecimiento del accionante, lo que llevó a la extinción de la acción de amparo.",
+  "palabras_clave": [
+    "carga de la prueba",
+    "contrato de compra-venta",
+    "obligaciones",
+    "jurisprudencia",
+    "Código Civil",
+    "incumplimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0871_E24-0045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344665-0871-11625-2025-24-0045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.289970"
+}

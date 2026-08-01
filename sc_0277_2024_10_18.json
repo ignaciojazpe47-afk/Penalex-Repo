@@ -1,0 +1,25 @@
+{
+  "id": 26666,
+  "numero": "0277",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por la abogada Miriam Ruiz Ruiz en representación del Instituto Venezolano de los Seguros Sociales. La solicitud se refiere a una decisión anterior que declaró con lugar un recurso de apelación en un caso de destitución laboral. La Sala determina su competencia para conocer la solicitud y ordena la remisión de un informe detallado sobre el estado actual de la causa relacionada con la reincorporación del demandante al cargo que desempeñaba.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contencioso administrativo",
+    "derechos laborales",
+    "instituto venezolano de los seguros sociales",
+    "reincorporación",
+    "mandato judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0277_E16-0997.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337856-0277-181024-2024-16-0997.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.063228"
+}

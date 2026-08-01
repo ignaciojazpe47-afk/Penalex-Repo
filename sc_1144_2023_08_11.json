@@ -1,0 +1,26 @@
+{
+  "id": 34037,
+  "numero": "1144",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con una sentencia firme del Juzgado Superior Primero del Trabajo del Estado Aragua. La revisión se basa en la competencia de la Sala para evaluar sentencias que hayan desconocido precedentes o aplicado incorrectamente normas constitucionales. La Sala considera pertinente solicitar información adicional al juzgado remitente para emitir su fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "error de interpretación",
+    "orden público",
+    "juzgado superior",
+    "trabajo",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1144_E22-0971.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328301-1144-11823-2023-22-0971.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.336347"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41740,
+  "numero": "0174",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 24 de noviembre de 2020, declaró sin lugar la solicitud de revisión constitucional presentada por la Sociedad Mercantil “MASTRO’S, C.A.” contra la sentencia dictada el 22 de mayo de 2017 por el Tribunal Cuarto de Municipio Ordinario, que había ordenado el desalojo de un local comercial. La Sala consideró que no se evidenciaron violaciones al debido proceso ni al derecho a la defensa, y que la decisión impugnada se ajustó a derecho, al haber valorado correctamente las pruebas presentadas en el juicio de desalojo.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "documentos_privados",
+    "código_de_procedimiento_civil",
+    "constitución",
+    "carga_probatoria",
+    "incidencia",
+    "prueba_testimonial"
+  ],
+  "titulo": "Revisión constitucional sobre sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0174_E18-0475.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310779-0174-241120-2020-18-0475.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.415819"
+}

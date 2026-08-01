@@ -1,0 +1,24 @@
+{
+  "id": 32946,
+  "numero": "1515",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de noviembre de 2023, revisó la sentencia dictada el 10 de agosto de 2016 por el Juzgado Séptimo de Primera Instancia en lo Civil, Mercantil, del Tránsito y Bancario de Caracas, que había declarado con lugar la pretensión de partición de un inmueble. La revisión fue solicitada por los ciudadanos Adoración Rodríguez Armero de Romero y Gabriel Romero Giménez, quienes argumentaron que la sentencia original incurrió en errores procesales y violaciones a derechos constitucionales, incluyendo la falta de citación adecuada de la cónyuge del demandado, lo que generó indefensión y afectó el patrimonio familiar.\n\nLa Sala, al analizar los argumentos presentados, determinó que efectivamente existieron vicios en el proceso que afectaron la validez de la decisión impugnada. En consecuencia, se ordenó la nulidad de la sentencia del Juzgado A Quo y se restablecieron los derechos de los recurrentes, garantizando así el debido proceso y la protección de los derechos constitucionales de las partes involucradas.\n\nFinalmente, se ordenó al Juzgado remitente que enviara el expediente correspondiente para su revisión, reafirmando la competencia de la Sala Constitucional para conocer de este tipo de solicitudes de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "partición de comunidad",
+    "derechos constitucionales",
+    "due process",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de partición de comunidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1515_E20-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330569-1515-231123-2023-20-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.431215"
+}

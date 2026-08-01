@@ -1,0 +1,25 @@
+{
+  "id": 21696,
+  "numero": "1443",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia N° 53 de fecha 24 de febrero de 2017, dictada por la Sala de Casación Civil. Se argumentó que la Sala Civil había vulnerado la garantía del juez natural y el debido proceso. Sin embargo, se concluyó que la solicitud de revisión no procedía, ya que el asunto había sido resuelto en un fallo definitivo posterior, lo que hacía la declaratoria de nulidad inútil. Por lo tanto, se declaró no ha lugar la revisión constitucional planteada.",
+  "palabras_clave": [
+    "competencia",
+    "jurisdicción",
+    "actos de comercio",
+    "derecho mercantil",
+    "juez natural",
+    "resolución de contrato"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1443_E18-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347314-1443-7825-2025-18-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.034530"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30362,
+  "numero": "0568",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Jesús Andrés Durán Romero, en representación de César Luis Viña Bonillo, contra una decisión de la Corte de Apelaciones que declaró improcedente in limine litis la acción de amparo constitucional. La Sala determinó que el recurso era inadmisible por haber sido presentado de forma anticipada, antes de que se dictara la decisión que se pretendía impugnar. En consecuencia, se confirmó la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "habeas corpus",
+    "temporalidad",
+    "jurisprudencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0568_E21-0120.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325212-0568-16523-2023-21-0120.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.878197"
+}

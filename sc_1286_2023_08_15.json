@@ -1,0 +1,23 @@
+{
+  "id": 34178,
+  "numero": "1286",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible el recurso de apelación interpuesto por el abogado Juan Carlos Torrealba Escalona, en su calidad de Juez Provisorio del Tribunal Décimo Segundo de Primera Instancia, contra la decisión de la Corte de Apelaciones que había declarado con lugar la acción de amparo constitucional presentada por Marisol Fermín Mendoza en favor de Ramón Elías Sánchez. La Sala fundamentó su decisión en la falta de legitimación del apelante para interponer dicho recurso, dado que su función es la de administrar justicia en nombre de la República y no en interés propio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1286_E19-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328490-1286-15823-2023-19-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.850691"
+}

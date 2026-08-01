@@ -1,0 +1,23 @@
+{
+  "id": 33147,
+  "numero": "1656",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia relacionado con una acción de amparo constitucional interpuesta por Eliezer Miguel Guacuto Ríos y Erika Zuleima Guerra de Coacuto, en contra de la Junta de Condominio del Conjunto Residencial 'El Tulipán 24' y la Comisión de Gas Tulipán 24. La Sala aceptó la declinatoria de competencia realizada por el Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Carabobo, declarando que el Tribunal Tercero de Primera Instancia en lo Civil es competente para conocer el caso.\n\nLa decisión se fundamenta en que las acciones de amparo constitucional deben ser resueltas por los tribunales que tengan competencia en la materia afín, en este caso, la jurisdicción civil, dado que las presuntas vías de hecho fueron ejecutadas por particulares y no por un ente prestador de servicios públicos. La Sala hizo un llamado de atención al Juzgado Cuarto de Municipio Ordinario para que evite remitir conflictos de competencia a los Juzgados Superiores Civiles en lugar de a la Sala Constitucional.\n\nFinalmente, se ordenó la remisión del expediente al Tribunal Tercero de Primera Instancia en lo Civil para que continúe con el conocimiento del amparo constitucional ejercido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "servicio público",
+    "junta de condominio"
+  ],
+  "titulo": "Decisión sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1656_E23-0996.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330823-1656-301123-2023-23-0996.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.965867"
+}

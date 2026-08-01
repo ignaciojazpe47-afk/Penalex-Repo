@@ -1,0 +1,26 @@
+{
+  "id": 33156,
+  "numero": "1665",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara no ha lugar la solicitud de revisión constitucional interpuesta por la abogada Laura Belén Guevara Ramírez, en representación de Ramón Antonio Polanco Navas, contra la decisión N° 250 del 4 de agosto de 2022, dictada por la Sala de Casación Penal. Esta última había declarado inadmisible el recurso de casación ejercido por la defensa del ciudadano, en relación a la sentencia dictada el 23 de febrero de 2022 por la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, que había confirmado el fallo del Tribunal Décimo de Primera Instancia en Funciones de Control que declaró sin lugar las excepciones de prescripción de la acción penal.",
+  "palabras_clave": [
+    "casación",
+    "derechos fundamentales",
+    "prescripción",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "Constitución",
+    "igualdad ante la ley"
+  ],
+  "titulo": "Revisión constitucional de la decisión N° 250 del 4 de agosto de 2022",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1665_E23-0116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330832-1665-301123-2023-23-0116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.966288"
+}

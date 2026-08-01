@@ -1,0 +1,25 @@
+{
+  "id": 21244,
+  "numero": "1255",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° RH-0324, declara no ha lugar la solicitud de revisión interpuesta por Graciela Josefina Arab de Uzcátegui y Alberto Antonio Arab Atramiz contra la decisión de la Sala de Casación Civil. La Sala argumenta que no se evidencian violaciones a derechos constitucionales ni errores grotescos en la interpretación del texto constitucional que justifiquen la revisión. Se reafirma que la revisión no constituye una tercera instancia, sino una potestad extraordinaria y excepcional.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "fraude procesal",
+    "revisión judicial",
+    "Código de Procedimiento Civil",
+    "derechos constitucionales",
+    "Sala de Casación Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1255_E19-0733.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346555-1255-28725-2025-19-0733.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.372015"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 23915,
+  "numero": "2129",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Julio César Tovar López, quien alegó una omisión de pronunciamiento por parte de la Corte de Apelaciones del Circuito Judicial Penal del estado Yaracuy. La Sala determinó que la situación jurídica alegada había cesado, ya que la Corte de Apelaciones se pronunció sobre los alegatos del demandante en una sentencia anterior. Además, se constató que el demandante había actuado sin asistencia técnica y había presentado múltiples escritos en su propio nombre, lo que llevó a la inadmisibilidad de su solicitud.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Yaracuy"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Julio César Tovar López",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2129_E24-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351978-2129-121225-2025-24-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.565025"
+}

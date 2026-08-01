@@ -1,0 +1,26 @@
+{
+  "id": 31013,
+  "numero": "0796",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por el abogado Alfredo José González en representación de Aldo David Romero Ramírez y Yesenia Carine Altuve Torres, contra una decisión de la Corte de Apelaciones del Estado Bolívar. La inadmisibilidad se fundamenta en que la acción no fue ratificada personalmente dentro del plazo establecido por la ley, lo que vulnera el derecho al acceso a la justicia. Además, se ordenó el desglose y la devolución del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "control judicial",
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "competencia",
+    "Corte de Apelaciones",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0796_E20-0379.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326452-0796-26623-2023-20-0379.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.549849"
+}

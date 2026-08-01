@@ -1,0 +1,25 @@
+{
+  "id": 17511,
+  "numero": "0510",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Oswaldo Alexander González Mendoza en representación del ciudadano Ángel Daniel Ortiz Abreu. La inadmisibilidad se fundamenta en la falta de legitimación del abogado para actuar en nombre del demandante, así como en la inepta acumulación de pretensiones al interponer la acción contra dos órganos jurisdiccionales distintos.",
+  "palabras_clave": [
+    "amparo",
+    "inepta acumulación",
+    "derechos constitucionales",
+    "justicia",
+    "procedimiento",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0510_E25-1493.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354961-0510-14426-2026-25-1493.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.013551"
+}

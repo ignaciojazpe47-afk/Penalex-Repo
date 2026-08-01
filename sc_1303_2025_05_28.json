@@ -1,0 +1,22 @@
+{
+  "id": 21443,
+  "numero": "1303",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0793 el 28 de mayo de 2025, en la que se ordena al Presidente del Circuito Judicial del Trabajo de Anzoátegui informar sobre el trámite de consignación de cheques relacionados con un amparo constitucional. La decisión se basa en la falta de documentación que acredite el trámite administrativo de los cheques consignados por la demandada, Cervecería Polar, C.A., en relación a la acción de amparo incoada por varios ciudadanos por violación de derechos laborales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "Cervecería Polar"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1303_E23-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346965-1303-6825-2025-23-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.858045"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 23845,
+  "numero": "2065",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Argelia Margarita Vera Rodríguez contra la decisión de la Corte de Apelaciones que declaró sin lugar su recurso de apelación. La Sala argumenta que la acción de amparo no puede ser utilizada para revisar decisiones judiciales ya resueltas, salvo en casos de abuso de poder o extralimitación de atribuciones. En este caso, se concluye que no hubo violación de derechos constitucionales y que la Corte de Apelaciones actuó dentro de su competencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "Corte de Apelaciones",
+    "Estado Lara"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2065_E22-0928.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351878-2065-121225-2025-22-0928.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.075031"
+}

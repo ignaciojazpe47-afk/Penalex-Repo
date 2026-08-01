@@ -1,0 +1,24 @@
+{
+  "id": 40485,
+  "numero": "0671",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Primero del Trabajo de la Circunscripción Judicial del Estado Portuguesa, que había declarado con lugar un recurso de apelación interpuesto por la empresa TRANSPORTE DE ECLIPSE, C.A. contra una providencia administrativa que ordenaba el reenganche y pago de salarios caídos a favor de LUIS MANUEL GARCÍA SILVA. La Sala encontró que la decisión recurrida incurrió en vicios de inmotivación y violación del derecho a la defensa y al debido proceso, lo que llevó a declarar con lugar la revisión solicitada y anular la sentencia del 30 de abril de 2015.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "salarios caídos"
+  ],
+  "titulo": "Revisión Constitucional sobre nulidad de providencia administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0671_E17-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314747-0671-261121-2021-17-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.509179"
+}

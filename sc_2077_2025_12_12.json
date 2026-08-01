@@ -1,0 +1,27 @@
+{
+  "id": 23857,
+  "numero": "2077",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Laboral",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la presente decisión, declara su competencia para conocer la solicitud de avocamiento presentada por César José Sucre Medina. Sin embargo, se determina que la solicitud es inadmisible debido a la falta de acompañamiento de los documentos necesarios que sustenten la petición. La Sala resalta la importancia de cumplir con las cargas procesales para garantizar la certeza jurídica en el proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "carga procesal",
+    "certificación",
+    "juez natural",
+    "inadmisibilidad",
+    "derechos laborales",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2077_E25-1056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351890-2077-121225-2025-25-1056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.732246"
+}

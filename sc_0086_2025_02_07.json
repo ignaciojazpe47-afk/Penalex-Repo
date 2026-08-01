@@ -1,0 +1,26 @@
+{
+  "id": 18290,
+  "numero": "0086",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión presentada por Jaime Alberto Coronado Lora, quien impugnó una sentencia del Juzgado Superior Noveno Civil que declaró inadmisible su solicitud de reconocimiento de firma electrónica. La Sala concluye que el Juzgado actuó conforme a derecho y no vulneró derechos constitucionales, ya que la firma en cuestión pertenecía a un tercero no emplazado en el proceso. Por lo tanto, se declara que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "firma electrónica",
+    "legitimación",
+    "gerente",
+    "igualdad",
+    "fraude a la ley",
+    "Código de Comercio",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0086_E24-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341348-0086-7225-2025-24-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.554524"
+}

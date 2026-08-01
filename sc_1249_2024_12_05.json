@@ -1,0 +1,26 @@
+{
+  "id": 28291,
+  "numero": "1249",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por varios ciudadanos contra la jueza del Tribunal Tercero en Funciones de Control, alegando vulneraciones al debido proceso y la falta de pronunciamiento sobre excepciones y oposiciones a medidas cautelares. La Corte de Apelaciones había declarado parcialmente con lugar la acción de amparo, señalando omisiones en el pronunciamiento de la jueza agraviante. En su decisión, la Sala Constitucional confirmó la decisión de la Corte de Apelaciones, declarando sin lugar el recurso de apelación interpuesto por los demandantes.",
+  "palabras_clave": [
+    "debido_proceso",
+    "medidas_cautelares",
+    "abuso_de_poder",
+    "imparcialidad",
+    "derechos",
+    "compañías",
+    "administrador_ad_hoc"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1249_E24-0223.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340205-1249-51224-2024-24-0223.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.228178"
+}

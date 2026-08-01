@@ -1,0 +1,25 @@
+{
+  "id": 20131,
+  "numero": "0840",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por María Libera Sabelli Castellanos, en representación de la sucesión de Josefa María Ramona Castellanos de Sabelli y Tito Giuseppe Sabelli Pisillo. La acción se dirigía contra dos sentencias de diferentes órganos jurisdiccionales, lo que constituye una inepta acumulación de pretensiones, ya que cada una de las decisiones emanaba de tribunales distintos y trataba sobre asuntos diferentes.\nLa Sala Constitucional argumenta que la acumulación de demandas o recursos que se excluyen mutuamente o cuyos procedimientos son incompatibles es inadmisible, y que la acción de amparo debe ser interpuesta de forma independiente ante el tribunal competente. En consecuencia, se concluye que la acción de amparo no puede ser admitida por la falta de conexión entre las pretensiones y los órganos jurisdiccionales involucrados.\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente.",
+  "palabras_clave": [
+    "buena fe",
+    "mala fe",
+    "nulidad",
+    "contratos",
+    "propiedad",
+    "acción reivindicatoria"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0840_E24-0581.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344410-0840-3625-2025-24-0581.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.312038"
+}

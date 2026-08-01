@@ -1,0 +1,25 @@
+{
+  "id": 18178,
+  "numero": "0028",
+  "fecha": "2024-01-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana Paula Antonietta Puerta Ramírez interpuso una acción de amparo constitucional contra una sentencia del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala Constitucional, al conocer del caso, decidió fijar un régimen de convivencia familiar temporal para garantizar el contacto entre la niña y su padre. La decisión se fundamenta en la protección de los derechos constitucionales de la menor, estableciendo medidas cautelares hasta que se dicte sentencia de fondo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protección de niños",
+    "derechos constitucionales",
+    "sentencia",
+    "jurisdicción",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0028_E23-0979.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341194-0028-5225-2025-23-0979.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.841937"
+}

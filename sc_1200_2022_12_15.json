@@ -1,0 +1,26 @@
+{
+  "id": 38077,
+  "numero": "1200",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Brígida Vidalina García contra el Consejo Nacional Electoral, argumentando que la parte actora no agotó las vías judiciales ordinarias disponibles para restablecer su situación jurídica. La sentencia destaca que la acción de amparo es de naturaleza restablecedora y no puede ser admitida si no se puede retrotraer la situación a su estado anterior a la violación alegada. Además, se menciona que la situación denunciada es irreparable debido a que las elecciones ya se llevaron a cabo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "participación política",
+    "derechos humanos",
+    "Consejo Nacional Electoral",
+    "Ley de Partidos Políticos",
+    "orden público",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1200_E20-0290.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322092-1200-151222-2022-20-0290.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.140461"
+}

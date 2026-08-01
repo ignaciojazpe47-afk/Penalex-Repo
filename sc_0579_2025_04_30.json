@@ -1,0 +1,25 @@
+{
+  "id": 19560,
+  "numero": "0579",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre una acción de amparo constitucional interpuesta por José Alberto Andrade Rodríguez contra una sentencia del Juzgado Superior Quinto en lo Civil. La Sala se declara competente para conocer el caso, considerando que la acción tiene por objeto una decisión dictada por un juzgado superior. Además, se ordena notificar a los abogados del demandante sobre el fallecimiento del mismo y se establece un plazo para que informen al respecto.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "sentencia",
+    "notificación",
+    "fallecimiento"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0579_E24-0045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343435-0579-30425-2025-24-0045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.034709"
+}

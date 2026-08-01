@@ -1,0 +1,22 @@
+{
+  "id": 20372,
+  "numero": "0923",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional interpuesta por Francisco José Ramos contra una decisión del Juzgado Superior Segundo del Circuito Judicial del Trabajo. La acción se basa en la falta de notificación de una providencia administrativa que autorizó su despido. La Sala determina su competencia para conocer el caso y ordena la remisión de ciertos expedientes para su análisis.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "despido",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0923_E24-0679.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344884-0923-17625-2025-24-0679.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.316801"
+}

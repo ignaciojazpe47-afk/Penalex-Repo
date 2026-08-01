@@ -1,0 +1,26 @@
+{
+  "id": 34203,
+  "numero": "1311",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por José Antonio Hernández Osorio, quien impugnaba la decisión de la Sala Uno de la Corte de Apelaciones que había declarado inadmisible su acción de amparo. La Corte consideró que no existía agravio ni violación de derechos constitucionales, ya que el tribunal de control había cumplido con el procedimiento establecido al admitir las excepciones planteadas por el accionante. La sentencia reafirma la competencia de los tribunales en funciones de control para conocer de delitos menos graves.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "excepciones",
+    "derechos procesales",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "jurisdicción",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1311_E23-0119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328515-1311-16823-2023-23-0119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.221721"
+}

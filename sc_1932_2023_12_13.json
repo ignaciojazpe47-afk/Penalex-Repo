@@ -1,0 +1,23 @@
+{
+  "id": 33784,
+  "numero": "1932",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Lidia Estela Rojas Ramírez, quien alegó que no fue citada en un juicio de ejecución hipotecaria en el que era co-demandada. La Sala declaró que la falta de citación vulneró su derecho a la defensa y al debido proceso, y anuló la sentencia del Juzgado Superior que había declarado parcialmente con lugar el recurso de apelación, ordenando la reposición de la causa para que se practique la intimación correspondiente. La decisión reafirma la importancia de garantizar el derecho a la defensa en procesos judiciales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la Defensa",
+    "Debido Proceso",
+    "Litisconsorcio Pasivo Necesario"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Lidia Estela Rojas Ramírez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1932_E22-0160.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331901-1932-131223-2023-22-0160.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.442741"
+}

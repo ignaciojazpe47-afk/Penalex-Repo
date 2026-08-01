@@ -1,0 +1,23 @@
+{
+  "id": 31063,
+  "numero": "0846",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000765 dictada el 12 de diciembre de 2022, que declaró sin lugar el recurso de casación interpuesto por George Elías Arnawid contra la decisión del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil, Tránsito, Marítimo y Bancario del estado Sucre. La revisión se fundamentó en la alegación de vulneración de derechos a la tutela judicial efectiva y al debido proceso, así como en la caducidad de la acción de invalidación. La Sala decidió suspender los efectos de la sentencia objeto de revisión, considerando la posibilidad de un daño irreparable para el solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0846_E23-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326502-0846-26623-2023-23-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.557780"
+}

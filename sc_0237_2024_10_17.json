@@ -1,0 +1,22 @@
+{
+  "id": 26621,
+  "numero": "0237",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los abogados Frankil José Zurita Valera y Jesús Rafael Real Gamardo, en representación del ciudadano Jesús Manuel Orta, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas, que declaró inadmisible la acción de amparo. La Sala declaró que el recurso era extemporáneo, ya que fue presentado fuera del lapso legal establecido para ello.\nLa decisión de inadmisibilidad se fundamentó en la falta de acreditación de los abogados como defensores del imputado, lo que llevó a la Corte de Apelaciones a no admitir la acción de amparo. La Sala Constitucional reafirmó su competencia para conocer del recurso, pero al considerar que fue presentado fuera de tiempo, lo declaró inadmisible y dejó firme la sentencia apelada.\nFinalmente, se ordenó la remisión del expediente al tribunal de origen y se publicó la decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0237_E22-0789.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337803-0237-171024-2024-22-0789.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.080307"
+}

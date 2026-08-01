@@ -1,0 +1,26 @@
+{
+  "id": 41792,
+  "numero": "0221",
+  "fecha": "2020-02-08",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Jesús Joaquín Campos Gómez en representación de la Unidad Educativa Los Chiquilines, C.A. La solicitud se refiere a la sentencia número 000608, dictada el 6 de diciembre de 2018 por la Sala de Casación Civil. La inadmisibilidad se fundamenta en la falta de acompañamiento de copia certificada del acto de juzgamiento cuestionado, lo que impide verificar la certeza de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia firme",
+    "representación judicial",
+    "inadmisibilidad",
+    "copia certificada",
+    "seguridad jurídica",
+    "legitimación"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-02_S0221_E19-0225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310847-0221-21220-2020-19-0225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.799482"
+}

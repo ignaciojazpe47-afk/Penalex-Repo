@@ -1,0 +1,25 @@
+{
+  "id": 23723,
+  "numero": "2000",
+  "fecha": "2012-05-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio la sentencia número 83 emitida por la Sala Electoral, que declaró el desacato de su decisión número 104 por parte del Consejo Universitario de la Universidad Central de Venezuela. La Sala acordó no ha lugar a la revisión, considerando que no existían infracciones graves a la Constitución ni contradicciones con decisiones previas de la Sala. Además, se dejó sin efecto la medida cautelar dictada en la sentencia número 647 del 21 de mayo de 2012.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "discrecionalidad",
+    "cosa juzgada",
+    "derecho a la defensa",
+    "debido proceso",
+    "normas constitucionales"
+  ],
+  "titulo": "Revisión de oficio de la sentencia número 83 del 17 de mayo de 2012",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2000_E12-0537.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351738-2000-101225-2025-12-0537.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.531370"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33489,
+  "numero": "1823",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Eduardo José Gutiérrez Artiaga, quien solicitó indemnización por la supuesta violación de sus derechos humanos al negar el derecho a la vivienda. La Sala argumenta que el accionante no cumplió con los requisitos mínimos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, al no describir adecuadamente los hechos que motivaron su solicitud ni señalar los derechos constitucionales infringidos.\n\nSe destaca que el accionante había sido notificado previamente para corregir su solicitud, pero no lo hizo de manera adecuada, lo que llevó a la Sala a considerar que no se podía establecer una clara violación de sus derechos. La decisión se fundamenta en la necesidad de que las solicitudes de amparo sean claras y precisas para su admisión.\n\nFinalmente, se ordena la publicación y registro de la decisión, archívese el expediente y cúmplase lo ordenado, reafirmando la importancia de la correcta asesoría legal en estos procedimientos.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "tutela judicial",
+    "defensa pública",
+    "acceso a la justicia",
+    "vivienda"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1823_E23-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331358-1823-81223-2023-23-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.462319"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33737,
+  "numero": "1884",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana Amalia Hernández Castellanos solicitó la aclaratoria de la sentencia n.° 0096 dictada el 14 de agosto de 2020, la cual declaró no ha lugar la solicitud de revisión. La Sala Constitucional, al analizar la solicitud, determinó que fue presentada de manera extemporánea, ya que la norma establece que debe hacerse el día de la publicación o al siguiente. Por lo tanto, se declaró inadmisible la solicitud.",
+  "palabras_clave": [
+    "divorcio",
+    "muerte",
+    "dueño de derechos",
+    "proceso judicial",
+    "fraude procesal",
+    "debido proceso"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1884_E19-0069.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331854-1884-111223-2023-19-0069.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.700969"
+}

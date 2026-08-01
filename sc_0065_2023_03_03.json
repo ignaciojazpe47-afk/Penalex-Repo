@@ -1,0 +1,25 @@
+{
+  "id": 29067,
+  "numero": "0065",
+  "fecha": "2023-03-03",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 21-0086 el 3 de marzo de 2023, ratificando las medidas cautelares establecidas en sentencias anteriores relacionadas con la Junta Directiva Ad Hoc de la Federación Campesina Bolivariana de Venezuela. Se prohíbe a cualquier persona distinta a los miembros designados actuar en nombre de la Federación y se declaran nulos los actos realizados por personas ajenas a la Junta. La decisión busca proteger los derechos colectivos de los campesinos y garantizar el cumplimiento de las normas establecidas por el Tribunal.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "orden público",
+    "agricultura",
+    "constitución",
+    "federación",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre avocamiento y medidas cautelares en la Federación Campesina Bolivariana de Venezuela",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-03_S0065_E21-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323233-0065-3323-2023-21-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.352203"
+}

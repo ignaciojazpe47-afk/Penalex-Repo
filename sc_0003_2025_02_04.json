@@ -1,0 +1,25 @@
+{
+  "id": 18149,
+  "numero": "0003",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por varios ciudadanos contra la decisión del Juzgado Superior Primero del Circuito Judicial del Trabajo, que había declarado inadmisible su acción. La Sala declaró la nulidad de la sentencia recurrida y ordenó a otro tribunal superior que dictara una nueva decisión, prescindiendo de la causal de inadmisibilidad. Se argumentó que la acción de amparo es un medio excepcional que debe ser utilizado cuando no existen otras vías procesales disponibles para restablecer derechos vulnerados.",
+  "palabras_clave": [
+    "derecho al trabajo",
+    "amparo constitucional",
+    "inspectoría del trabajo",
+    "procedimiento administrativo",
+    "denegación de justicia",
+    "estabilidad laboral"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0003_E23-0018.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341149-0003-4225-2025-23-0018.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.572703"
+}

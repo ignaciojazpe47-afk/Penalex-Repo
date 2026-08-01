@@ -1,0 +1,22 @@
+{
+  "id": 43151,
+  "numero": "0154",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo constitucional interpuesta por los defensores de Oswaldo Alberto D'Urso Chávez. La decisión se basa en la vulneración del derecho al debido proceso y la tutela judicial efectiva, al no haberse emplazado a la víctima-querellante en el proceso penal correspondiente. Se anula el auto emitido por el Juzgado Decimosegundo de Primera Instancia en Función de Control, que había omitido el emplazamiento de la víctima, y se ordena reponer la causa para que se cumpla con dicha obligación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0154_E18-0645.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305598-0154-18619-2019-18-0645.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.837651"
+}

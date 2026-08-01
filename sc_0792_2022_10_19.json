@@ -1,0 +1,26 @@
+{
+  "id": 36781,
+  "numero": "0792",
+  "fecha": "2022-10-19",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a la acción de amparo constitucional interpuesta por el abogado Hugo Contreras Molina en representación de Reinaldo José Peña Peña, quien se encuentra privado de libertad desde 2014. La Corte de Apelaciones había declarado sin lugar un recurso de apelación relacionado con la medida de privación de libertad, lo que motivó la acción de amparo. La Sala Constitucional del TSJ, tras analizar el caso, declaró improcedente la acción de amparo, argumentando que no se evidenciaron violaciones a derechos constitucionales ni abuso de poder por parte del tribunal inferior.",
+  "palabras_clave": [
+    "proporcionalidad",
+    "derecho penal",
+    "medidas de coerción",
+    "debido proceso",
+    "libertad",
+    "justicia",
+    "garantías constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Reinaldo José Peña Peña",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-19_S0792_E22-0682.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320046-0792-191022-2022-22-0682.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.104309"
+}

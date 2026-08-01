@@ -1,0 +1,22 @@
+{
+  "id": 38231,
+  "numero": "0010",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el amparo constitucional interpuesto por el abogado Salvador José Guarecuco Cordero en representación de Carlos Eduardo Corona, quien alegó vulneración de derechos en un proceso penal. La Sala constató que el juicio no se había realizado en el tiempo debido, afectando el derecho a una decisión oportuna del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre amparo constitucional interpuesto por la defensa de Carlos Eduardo Corona",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0010_E17-0786.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311404-0010-4321-2021-17-0786.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.766227"
+}

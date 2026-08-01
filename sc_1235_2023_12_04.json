@@ -1,0 +1,22 @@
+{
+  "id": 28276,
+  "numero": "1235",
+  "fecha": "2023-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la abogada Andrea Carolina Huamaní Guerrero, en representación de la empresa Cervecería Polar, C.A., respecto a una decisión del Juzgado Superior Cuarto del Trabajo que declaró sin lugar una apelación. La Sala determinó su competencia para conocer del caso, pero declaró inadmisible la solicitud por falta de presentación de la copia certificada de la sentencia cuestionada, requisito indispensable para la admisión de este tipo de recursos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmision",
+    "laboral"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1235_E22-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340178-1235-41224-2024-22-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.159692"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 22913,
+  "numero": "1775",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RH-000535 emitida el 9 de octubre de 2024 por la Sala de Casación Civil, que declaró inadmisible un recurso de hecho. La abogada Helen Katherine Bermúdez Roa, en representación de Alis Teresa Roa Contreras, argumentó que el recurso fue interpuesto dentro del lapso legal establecido. La Sala Constitucional determinó que la negativa de admisión del recurso fue errónea, ya que se realizó un cómputo incorrecto de los días de despacho, vulnerando así el derecho a la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "recurso de hecho",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia inadmisible de recurso de hecho",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1775_E25-0686.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349767-1775-121125-2025-25-0686.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.514646"
+}

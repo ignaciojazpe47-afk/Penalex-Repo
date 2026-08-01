@@ -1,0 +1,24 @@
+{
+  "id": 64198,
+  "numero": "660",
+  "fecha": "2015-06-01",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Parcialmente Ha Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Cuarto del Trabajo que declaró sin lugar las apelaciones interpuestas por las partes. La revisión se centró en la interpretación de la II Convención Colectiva de Empleados de la Dirección Ejecutiva de la Magistratura y la aplicación de los beneficios laborales al demandante, quien era un trabajador contratado. La Sala determinó que el demandante tenía derecho a los beneficios establecidos en la convención colectiva, a pesar de su condición de contratado, y anuló parcialmente la sentencia en lo que respecta al pago de honorarios del experto contable, ya que la República no puede ser condenada en costas.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "prestaciones sociales",
+    "convención colectiva",
+    "trabajador contratado"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-01_S660_E15-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/177991-660-1615-2015-15-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:33.780812"
+}

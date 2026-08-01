@@ -1,0 +1,24 @@
+{
+  "id": 30209,
+  "numero": "0428",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Víctor Abdala Guzmán Ayub contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. El abogado del demandante solicitó la admisión de la acción de amparo, pero posteriormente desistió de la misma. La Sala, tras evaluar el poder otorgado al abogado, determinó que no tenía la capacidad procesal para desistirse de la acción, por lo que negó la homologación del desistimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "orden público",
+    "remisión de expediente",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0428_E19-0130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325048-0428-15523-2023-19-0130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.889616"
+}

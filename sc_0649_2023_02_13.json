@@ -1,0 +1,26 @@
+{
+  "id": 30603,
+  "numero": "0649",
+  "fecha": "2023-02-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Gabriela Alejandra García Madriz contra la decisión del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de Aragua, que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada tras la negativa de la Jueza a permitir el régimen de convivencia familiar supervisado durante las festividades decembrinas, lo que la demandante consideró una violación de su derecho al debido proceso y al interés superior de su hija.\n\nLa Sala, tras analizar el caso, determinó que la acción de amparo era inadmisible debido a que la situación que motivó la acción había cesado con la medida de convivencia familiar supervisada dictada por el Tribunal de origen. Por lo tanto, se confirmó la decisión del Tribunal Superior, declarando sin lugar la apelación interpuesta y reafirmando la competencia de la Sala para conocer del caso.\n\nFinalmente, se apercibió al Tribunal de origen sobre la necesidad de garantizar el debido proceso en futuras decisiones relacionadas con acciones de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "custodia",
+    "convivencia",
+    "derechos",
+    "niños",
+    "garantías"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0649_E23-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325737-0649-30523-2023-23-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.303829"
+}

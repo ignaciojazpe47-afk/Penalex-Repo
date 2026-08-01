@@ -1,0 +1,22 @@
+{
+  "id": 48628,
+  "numero": "0722",
+  "fecha": "2018-10-22",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 07-0426, en la que se aborda la ejecución de sentencias anteriores relacionadas con la devolución de una vivienda a los ciudadanos Francisco Seijas Padilla y Juan Seijas Padilla. Se destaca el incumplimiento por parte del Ministerio del Poder Popular para Hábitat y Vivienda de las órdenes impartidas en sentencias previas, lo que llevó a la imposición de una multa y a la orden de ejecución inmediata del amparo concedido.\n\nLa decisión incluye la comisionación de un juzgado para que, en un plazo de cinco días, ejecute el amparo y ponga a los demandantes en posesión de su vivienda, así como el desalojo de los terceros que ocupan el inmueble. Se enfatiza la necesidad de cumplimiento de las órdenes judiciales y se establece que el incumplimiento acarreará sanciones adicionales.\n\nFinalmente, se ordena la notificación a las partes involucradas y se establece un procedimiento para asegurar el cumplimiento de la decisión, reafirmando el compromiso del Tribunal con la protección de los derechos de los ciudadanos en materia de vivienda.",
+  "palabras_clave": [
+    "ejecución de sentencias",
+    "vivienda",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre ejecución de sentencias de amparo en materia de vivienda",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-22_S0722_E07-0426.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/301816-0722-221018-2018-07-0426.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:08.228955"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42133,
+  "numero": "0030",
+  "fecha": "2018-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Carlos Arturo Craca Gómez, quien alegó vulneración de sus derechos fundamentales relacionados con la salud, el debido proceso y la jubilación. Se anula el acto administrativo que dejó sin efecto su designación como Juez Tercero Superior y se ordena el pago de las remuneraciones dejadas de percibir desde el 9 de febrero de 2017 hasta que se acuerde su jubilación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "jubilación",
+    "debido proceso",
+    "acto administrativo",
+    "justicia laboral"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional de Carlos Arturo Craca Gómez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0030_E17-0807.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303697-0030-12219-2019-17-0807.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.131626"
+}

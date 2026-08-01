@@ -1,0 +1,22 @@
+{
+  "id": 20613,
+  "numero": "1013",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por María Eugenia Amundaray Martínez en representación de Juan Omar González Naranjo. Sin embargo, se determina que ha transcurrido más de seis meses sin que la parte actora haya realizado acto alguno de impulso procesal, lo que se califica como abandono del trámite. Por lo tanto, se declara la terminación del procedimiento por abandono y se impone una multa a la parte accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonar trámite",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por abandono del trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1013_E21-0830.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345282-1013-27625-2025-21-0830.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.304599"
+}

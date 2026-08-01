@@ -1,0 +1,24 @@
+{
+  "id": 39094,
+  "numero": "0295",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió sobre la apelación interpuesta por la ciudadana YURAI DEL CARMEN SALAZAR AMUNDARAY en relación a la omisión de pronunciamiento de los Tribunales Tercero y Vigésimo de Primera Instancia en asuntos de custodia de sus hijos. La Sala declaró inadmisible la acción de amparo, argumentando que la parte demandante no agotó las vías ordinarias disponibles para cuestionar las decisiones judiciales previas, lo que constituye un requisito esencial para la procedencia del amparo constitucional.\n\nLa decisión también revocó la sentencia del Tribunal Superior Cuarto que había declarado improcedente la acción de amparo, reafirmando que la acción no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala enfatizó que la acción de amparo no puede ser utilizada como un recurso alternativo a las vías judiciales ordinarias, y que la demandante debía haber ejercido los recursos disponibles antes de recurrir al amparo.\n\nFinalmente, la Sala resolvió que la apelación interpuesta por la demandante era sin lugar, reafirmando la inadmisibilidad de la acción de amparo y ordenando el cumplimiento de lo decidido, así como la devolución del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "custodia",
+    "niños",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0295_E19-0556.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312749-0295-22721-2021-19-0556.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.766242"
+}

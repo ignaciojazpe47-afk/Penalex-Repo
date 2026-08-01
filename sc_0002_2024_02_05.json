@@ -1,0 +1,26 @@
+{
+  "id": 24055,
+  "numero": "0002",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la decisión que fue objeto de revisión.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de febrero de 2024, ha declarado ha lugar la solicitud de revisión constitucional presentada por Antonio Alejandro Bucci Yáñez, en su calidad de Presidente de la Sociedad Mercantil Telecomunicaciones AABY, C.A. contra la sentencia de la Sala de Casación Civil que había declarado sin lugar el recurso de casación. La Sala encontró que la Sala de Casación Civil no valoró adecuadamente el acervo probatorio, lo que vulneró el derecho a la defensa y al debido proceso del solicitante. En consecuencia, se anula la decisión impugnada y se ordena a la Sala de Casación Civil dictar una nueva sentencia conforme a lo dispuesto en la presente decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "contrato de comodato",
+    "derecho de preferencia",
+    "jurisprudencia",
+    "interpretación constitucional"
+  ],
+  "titulo": "Revisión Constitucional sobre la decisión de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0002_E21-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332354-0002-5224-2024-21-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.827559"
+}

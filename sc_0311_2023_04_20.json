@@ -1,0 +1,25 @@
+{
+  "id": 29778,
+  "numero": "0311",
+  "fecha": "2023-04-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por Eudis José Marcano Segovia, defensor de Auremy Del Valle Graterol, en contra de una decisión de la Corte de Apelaciones que declaró inadmisible la acción. La Sala determinó que el accionante no había agotado los recursos ordinarios disponibles, específicamente el recurso de apelación, lo que llevó a la inadmisibilidad del amparo. La decisión fue confirmada en todos sus términos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos humanos",
+    "justicia",
+    "tribunales",
+    "legitimación activa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-20_S0311_E21-0735.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324398-0311-20423-2023-21-0735.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.814420"
+}

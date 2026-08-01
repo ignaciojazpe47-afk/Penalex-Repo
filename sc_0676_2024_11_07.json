@@ -1,0 +1,26 @@
+{
+  "id": 27270,
+  "numero": "0676",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Tania D'Amelio Cardiet y con Luis Fernando Damiani Bustillos como ponente, decidió sobre la solicitud de revisión de la sentencia N° 297 dictada el 25 de abril de 2023 por la Sala Político Administrativa, que declaró inadmisible un recurso de abstención interpuesto por José Gregorio Moronta. La revisión fue solicitada debido a la alegación de que la decisión afectaba derechos fundamentales del solicitante, quien argumentó que no se tomaron en cuenta pruebas relevantes en su demanda.\nLa Sala, tras analizar la solicitud, determinó que no se cumplían los requisitos establecidos en la Ley Orgánica de la Jurisdicción Contencioso Administrativa para la admisibilidad de la demanda, ya que no se acompañaron los documentos necesarios que acreditaran las gestiones ante la administración. Por lo tanto, se declaró que la solicitud de revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión, reafirmando su competencia y la naturaleza excepcional de este tipo de recursos, enfatizando que la revisión no constituye una nueva instancia, sino un medio extraordinario de control.",
+  "palabras_clave": [
+    "revisión",
+    "jurisprudencia",
+    "derechos",
+    "constitucional",
+    "discrecionalidad",
+    "justicia",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0676_E23-0757.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338672-0676-71124-2024-23-0757.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.447192"
+}

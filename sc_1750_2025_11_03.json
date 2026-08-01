@@ -1,0 +1,27 @@
+{
+  "id": 22801,
+  "numero": "1750",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° RC-000402, declaró sin lugar la solicitud de revisión presentada por MUEBLES CAMILA, C.A. contra la decisión de la Sala de Casación Civil que había declarado sin lugar un recurso de casación. La Sala Constitucional argumentó que la decisión impugnada se ajustaba a derecho y no vulneraba derechos constitucionales, ya que el arrendatario no cumplió con su obligación de pago de cánones de arrendamiento. Además, se destacó que los tribunales de municipio mantuvieron la competencia para recibir consignaciones de cánones de arrendamiento, a pesar de la falta de creación de un órgano administrativo competente para ello.",
+  "palabras_clave": [
+    "inmotivación",
+    "tutela judicial",
+    "arrendamiento",
+    "jurisdicción",
+    "derecho",
+    "constitución",
+    "normas",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1750_E17-0893.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349490-1750-31125-2025-17-0893.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.527633"
+}

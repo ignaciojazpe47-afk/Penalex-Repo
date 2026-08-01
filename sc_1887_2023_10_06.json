@@ -1,0 +1,24 @@
+{
+  "id": 23233,
+  "numero": "1887",
+  "fecha": "2023-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena recabar y remitir el expediente original",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la revisión constitucional solicitada por ALESSANDRA LOMBARDI CARDOZO, quien impugna dos sentencias previas que declararon inadmisible su querella y admitieron un sobreseimiento. La Sala determina su competencia para conocer del caso y ordena la remisión del expediente original para su revisión, enfatizando la importancia de garantizar el derecho a la tutela judicial efectiva. Se destaca la necesidad de evaluar las alegaciones de la solicitante sobre violaciones a sus derechos constitucionales.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "derechos constitucionales",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "Código Orgánico Procesal Penal",
+    "intervención constitucional"
+  ],
+  "titulo": "Decisión sobre revisión constitucional en el caso de ALESSANDRA LOMBARDI CARDOZO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1887_E23-1009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350483-1887-261125-2025-23-1009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.206761"
+}

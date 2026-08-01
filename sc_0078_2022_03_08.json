@@ -1,0 +1,26 @@
+{
+  "id": 34620,
+  "numero": "0078",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por Jesús Rafael Yeguez Sifontes contra los ciudadanos que se atribuyen la Dirección Nacional del partido La Causa Radical. La Sala determina que la acción es de naturaleza electoral y debe ser conocida por la Sala Electoral, ya que no se dirige contra los órganos electorales establecidos en la ley. Además, se declara terminado el procedimiento por abandono de trámite, dado que no hubo impulso procesal durante más de seis meses.",
+  "palabras_clave": [
+    "derechos políticos",
+    "partidos políticos",
+    "constitucionalidad",
+    "elecciones internas",
+    "suspensión",
+    "expulsión",
+    "Junta Ad Hoc"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0078_E20-0321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315928-0078-8322-2022-20-0321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.440481"
+}

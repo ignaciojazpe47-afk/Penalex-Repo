@@ -1,0 +1,24 @@
+{
+  "id": 33429,
+  "numero": "1763",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Cuarto del Circuito Judicial Laboral de Zulia, que había declarado inadmisible la acción de amparo constitucional interpuesta por José Ángel Rosales contra Cervecería Polar, C.A. La solicitud de revisión fue fundamentada en la contumacia del patrono en no acatar la orden de reenganche y pago de salarios caídos, tras haberse agotado la vía administrativa. La Sala concluyó que la decisión del tribunal inferior vulneró derechos fundamentales y ordenó la anulación de la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo constitucional",
+    "laboral",
+    "Zulia",
+    "Cervecería Polar"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1763_E17-0436.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331298-1763-71223-2023-17-0436.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.476491"
+}

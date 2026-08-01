@@ -1,0 +1,23 @@
+{
+  "id": 41217,
+  "numero": "0057",
+  "fecha": "2020-03-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.160, que establece el Estado de Alarma en todo el territorio nacional debido a la pandemia de COVID-19. Este decreto busca mitigar y erradicar los riesgos de epidemia, garantizando la atención oportuna y efectiva de los casos que se originen, así como la protección de la salud pública y la seguridad de los ciudadanos. La decisión se fundamenta en la necesidad de adoptar medidas urgentes y efectivas en respuesta a la situación extraordinaria que afecta al país.",
+  "palabras_clave": [
+    "Estado de Alarma",
+    "COVID-19",
+    "Constitucionalidad",
+    "Decreto N° 4.160"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 4.160 que establece el Estado de Alarma por COVID-19",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-03-24_S0057_E20-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/309859-0057-24320-2020-20-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.131343"
+}

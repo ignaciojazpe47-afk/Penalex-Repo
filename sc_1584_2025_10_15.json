@@ -1,0 +1,25 @@
+{
+  "id": 22244,
+  "numero": "1584",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer la acción de amparo constitucional interpuesta por Jorge de Jesús Añez Dager contra Google LLC, en la que se solicitaba la eliminación de informaciones lesivas a su honor y reputación. La Sala recalificó la acción como habeas data y determinó que la competencia corresponde a los Juzgados de Municipio con competencia en lo Contencioso Administrativo. Se ordenó la remisión del expediente al tribunal competente para su distribución.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "daño moral",
+    "dignidad humana",
+    "derecho al olvido",
+    "reputación",
+    "libre desarrollo de la personalidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra Google LLC",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1584_E23-1284.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348701-1584-151025-2025-23-1284.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.756643"
+}

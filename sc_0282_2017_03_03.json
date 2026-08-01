@@ -1,0 +1,24 @@
+{
+  "id": 39001,
+  "numero": "0282",
+  "fecha": "2017-03-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agrario",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se desaplicaron los artículos 338 y siguientes del Código de Procedimiento Civil, así como los artículos 777, 778 y 780 del mismo código, en el contexto de un juicio de partición de bienes afectos a la actividad agraria. La decisión se fundamenta en la necesidad de garantizar el debido proceso y la tutela judicial efectiva en el ámbito agrario, considerando que la aplicación de normas civiles podría vulnerar derechos fundamentales establecidos en la Constitución. Se ordena la reconstitución del proceso agrario conforme a las disposiciones de la Ley de Tierras y Desarrollo Agrario.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "derecho agrario",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre desaplicación de normas en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0282_E17-0425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312583-0282-9721-2021-17-0425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.274282"
+}

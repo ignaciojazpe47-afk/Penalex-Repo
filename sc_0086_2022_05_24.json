@@ -1,0 +1,24 @@
+{
+  "id": 34911,
+  "numero": "0086",
+  "fecha": "2022-05-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 14 de julio de 2021, que declaró sin lugar el recurso de apelación interpuesto por Gabriel Dos Santos Papel contra la decisión del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y Tránsito. La revisión se fundamentó en la alegación de violaciones a derechos constitucionales, incluyendo la tutela judicial efectiva y el debido proceso, en el contexto de un conflicto de arrendamiento donde se solicitó la resolución del contrato por falta de pago. La Sala decidió suspender los efectos de la sentencia impugnada, considerando que la ejecución podría causar un daño irreparable a la parte demandada, quien ocupaba el inmueble como vivienda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "resolución de contrato",
+    "arrendamiento",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de resolución de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-05-24_S0086_E22-0341.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/316761-0086-24522-2022-22-0341.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.428628"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33781,
+  "numero": "1929",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Huáscar Francois Fossey Guevara, quien denunció la omisión de pronunciamiento de la Sala 4 de la Corte de Apelaciones en relación a un recurso de apelación. La Sala declaró su competencia para conocer el caso y ordenó a la Secretaría que oficie al Circuito Judicial Penal para informar sobre el estado del proceso y el pronunciamiento correspondiente. Se advirtió que el incumplimiento de lo solicitado conllevaría sanciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Sala 4 de la Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1929_E23-1079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331898-1929-131223-2023-23-1079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.447234"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 30275,
+  "numero": "0494",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 379, declaró sin lugar la solicitud de revisión constitucional presentada por el abogado Luis Alfredo Lemus Sifontes, en representación de CHRISTOPHER JESÚS GARCÍA BOLÍVAR, contra la decisión del Tribunal Sexto de Primera Instancia de Sustanciación, Mediación y Ejecución del Circuito Judicial del Trabajo. La revisión se solicitó en relación a una sentencia dictada el 30 de octubre de 2019, que había condenado el pago de una cantidad mínima por concepto de prestaciones sociales y otros conceptos laborales, argumentando la falta de corrección monetaria adecuada debido a la inflación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "inflación",
+    "sentencia laboral"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0494_E20-0156.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325115-0494-15523-2023-20-0156.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.039522"
+}

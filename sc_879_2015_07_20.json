@@ -1,0 +1,22 @@
+{
+  "id": 65240,
+  "numero": "879",
+  "fecha": "2015-07-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 16 de mayo de 2011, que condenó a Antonio Casildo Villalobos a 29 años de prisión por homicidio calificado. El abogado Juan Bautista Pernía Campos solicitó la revisión argumentando que su defendido actuó bajo un arrebato de intenso dolor. La Sala, tras analizar los alegatos y la decisión del tribunal de juicio, concluyó que no se evidenció una indebida aplicación de normas constitucionales ni un error grave en la interpretación de las mismas. Por lo tanto, se declaró sin lugar la revisión solicitada.",
+  "palabras_clave": [
+    "homicidio calificado",
+    "revisión constitucional",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia por Homicidio Calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-20_S879_E13-0851.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179703-879-20715-2015-13-0851.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.470755"
+}

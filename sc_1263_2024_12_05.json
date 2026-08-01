@@ -1,0 +1,24 @@
+{
+  "id": 28305,
+  "numero": "1263",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Hermágoras Aguiar Rodríguez, en representación de la sociedad mercantil TROIL SERVICES, C.A. La solicitud se fundamentó en presuntas violaciones al orden público constitucional y desorden procesal en un juicio por cumplimiento de contrato. Tras analizar la solicitud, la Sala declaró su incompetencia para conocer del caso, declinando el conocimiento a la Sala de Casación Civil.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "tutela_judicial",
+    "seguridad_juridica"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1263_E23-0563.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340221-1263-51224-2024-23-0563.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.227967"
+}

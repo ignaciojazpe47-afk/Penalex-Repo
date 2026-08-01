@@ -1,0 +1,22 @@
+{
+  "id": 41401,
+  "numero": "0114",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Marco Antonio Aponte en nombre de Cleto Falasca Daniele, respecto a una sentencia del 10 de junio de 2019. La inadmisibilidad se fundamenta en la falta de legitimación del solicitante, ya que no se presentó un poder suficiente que acreditara la representación del abogado. La Sala reafirma que la revisión de sentencias es una atribución exclusiva y que el poder debe ser especial para este tipo de solicitudes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "legitimación"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0114_E19-0527.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310053-0114-14820-2020-19-0527.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.098788"
+}

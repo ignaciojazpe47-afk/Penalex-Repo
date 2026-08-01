@@ -1,0 +1,26 @@
+{
+  "id": 28382,
+  "numero": "1324",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada la acción de amparo por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Carlos Augusto Barrios Aguilar, en contra de una decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Lara. Se constató que el demandante no mostró interés en continuar con el proceso durante más de seis meses, lo que fue considerado como abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa de dos mil bolívares a la parte actora.",
+  "palabras_clave": [
+    "amparo",
+    "inactividad",
+    "abandonotrámite",
+    "multa",
+    "derechos",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1324_E24-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340338-1324-101224-2024-24-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.210986"
+}

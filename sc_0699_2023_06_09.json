@@ -1,0 +1,22 @@
+{
+  "id": 30751,
+  "numero": "0699",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Violeta Cilenia Bello Moreno, quien alegaba violaciones a sus derechos constitucionales en un proceso penal. La Sala declaró su competencia para conocer el caso, pero inadmitió la solicitud debido a la falta de documentos necesarios para su consideración. Se enfatizó la importancia de cumplir con los requisitos procesales para la admisión de este tipo de solicitudes.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos constitucionales",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0699_E21-0004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325970-0699-9623-2023-21-0004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.405875"
+}

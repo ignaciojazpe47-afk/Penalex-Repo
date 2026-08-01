@@ -1,0 +1,26 @@
+{
+  "id": 34409,
+  "numero": "006",
+  "fecha": "2022-02-16",
+  "anio": 2022,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Improcedente",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, declara improcedentes las solicitudes de ampliación de extradición del ciudadano peruano Javier Antonio Salazar Montañez, formuladas por el Gobierno de la República del Perú. Las solicitudes se basan en la presunta comisión de delitos de estafa y asociación ilícita, pero el tribunal establece que no existe en la legislación venezolana un procedimiento para la ampliación de extradición, debiendo presentarse una nueva solicitud para tales fines.\nLa decisión se fundamenta en el principio de especialidad en materia de extradición, que protege los derechos del extraditado y la soberanía del Estado que concede la extradición. Se concluye que el ciudadano no puede ser juzgado por delitos distintos a los que motivaron su extradición, y que la acción penal aún subsiste en el territorio venezolano.\nFinalmente, el tribunal reafirma que las solicitudes de ampliación de extradición no cumplen con los requisitos legales establecidos, por lo que se declaran improcedentes.",
+  "palabras_clave": [
+    "extradición",
+    "derecho internacional",
+    "Código de Bustamante",
+    "estafa",
+    "asociación ilícita",
+    "Código Procesal Penal",
+    "justicia penal"
+  ],
+  "titulo": "Improcedencia de solicitudes de ampliación de extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2022-02-16_S006_E21-209.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/315618-06-16222-2022-E21-209.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:01.279140"
+}

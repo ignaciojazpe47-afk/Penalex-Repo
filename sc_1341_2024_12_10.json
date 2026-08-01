@@ -1,0 +1,22 @@
+{
+  "id": 28399,
+  "numero": "1341",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por el abogado Alfredo Segovia García en representación de María Johanna González Astudillo. La solicitud se refería a un juicio de tacha de falsedad de un acta de nacimiento, donde se alegaban irregularidades procesales y falta de competencia del tribunal de origen. La Sala, tras analizar los argumentos, determinó que no se cumplían los requisitos para avocar el caso, declarándose incompetente y declinando el conocimiento a la Sala de Casación Civil.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "tacha de falsedad"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1341_E24-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340355-1341-101224-2024-24-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.222746"
+}

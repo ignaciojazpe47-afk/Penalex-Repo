@@ -1,0 +1,22 @@
+{
+  "id": 28125,
+  "numero": "1176",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Fahed Ali Awada contra una sentencia que declaró inadmisible su acción de amparo constitucional. La apelación se relaciona con un desalojo de un local comercial en Maturín, Estado Monagas, donde se ordenó la entrega de los locales a Jesús Ramón González. La Sala determinó su competencia para conocer el caso y decidió requerir información adicional para resolver el asunto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "Estado Monagas"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1176_E21-0316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340015-1176-41224-2024-21-0316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.048121"
+}

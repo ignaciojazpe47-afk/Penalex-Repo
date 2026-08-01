@@ -1,0 +1,25 @@
+{
+  "id": 27828,
+  "numero": "1007",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 21 de noviembre de 2024, declaró sin lugar la apelación interpuesta por Elsa Estefanía Mirabal Tablante contra el fallo del Juzgado Superior Civil que había declarado inadmisible su acción de amparo. La apelante alegaba que se le había impedido obtener copias simples de una sentencia, lo que afectaba su derecho a la defensa y al debido proceso. Sin embargo, el tribunal consideró que la apelante había tenido acceso al expediente y que la solicitud de copias debía hacerse por escrito, lo que no realizó en el tiempo adecuado.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "jurisdicción",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1007_E24-0204.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339319-1007-211124-2024-24-0204.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.143312"
+}

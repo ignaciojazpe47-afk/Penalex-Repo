@@ -1,0 +1,25 @@
+{
+  "id": 23939,
+  "numero": "2145",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión de la sentencia N° RC-000624 dictada por la Sala de Casación Civil, que declaró inadmisible una demanda por fraude procesal presentada por INVERSIONES KERCH, C.A. La Sala consideró que la falta de presentación del instrumento fundamental en la demanda original afectó el derecho a la defensa de la parte demandante. En consecuencia, se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada, hasta que se resuelva la revisión solicitada.",
+  "palabras_clave": [
+    "fraude procesal",
+    "admisibilidad",
+    "tutela judicial",
+    "principio pro actione",
+    "documentos fundamentales",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2145_E25-1251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352002-2145-121225-2025-25-1251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.076650"
+}

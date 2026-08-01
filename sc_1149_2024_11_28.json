@@ -1,0 +1,26 @@
+{
+  "id": 28059,
+  "numero": "1149",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió en favor del ciudadano José Gregorio Moreno Baptista, revocando la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolecentes que había declarado sin lugar su acción de amparo. La Sala consideró que el Tribunal de alzada no verificó adecuadamente los supuestos de admisibilidad y que el agraviado contaba con otras vías judiciales ordinarias para resolver su situación, lo que configuró la inadmisibilidad de la acción de amparo. Finalmente, se declaró inadmisible la acción de amparo constitucional interpuesta contra la decisión que declaró concluida la partición y firme la misma.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "procedimiento",
+    "niños",
+    "adolescentes",
+    "liquidación",
+    "expediente"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1149_E23-0560.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339745-1149-281124-2024-23-0560.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.467363"
+}

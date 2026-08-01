@@ -1,0 +1,26 @@
+{
+  "id": 21231,
+  "numero": "1245",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por Edgar Ramón Armas Díaz y Marlyn Chirinos de Armas contra la sentencia del 7 de enero de 2025, que había declarado sin lugar la apelación y la acción de amparo. La decisión se fundamenta en que no se evidenció una actuación violatoria de derechos constitucionales por parte del tribunal inferior, y se reafirma que el amparo constitucional no puede ser utilizado como una tercera instancia para revisar decisiones judiciales firmes. Además, se hace un llamado a los juzgados inferiores para evitar errores en la admisión de acciones de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "jurisprudencia",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "decisión",
+    "procedencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1245_E25-0419.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346542-1245-28725-2025-25-0419.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.373335"
+}

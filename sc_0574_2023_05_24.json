@@ -1,0 +1,26 @@
+{
+  "id": 30416,
+  "numero": "0574",
+  "fecha": "2023-05-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de medidas cautelares presentada por Jesús David Macías Hernández, curador de la sucesión de José Trinidad Rojas Contreras. La Sala admitió la oposición de terceros intervinientes y ordenó la práctica de inspecciones judiciales y experticias grafoquímicas sobre documentos cuestionados relacionados con la herencia. Se declaró procedente la solicitud de medida cautelar y se suspendieron los efectos jurídicos de ciertos documentos relacionados con la propiedad de inmuebles en disputa.",
+  "palabras_clave": [
+    "inspección judicial",
+    "experticias",
+    "huellas dactilares",
+    "notaría",
+    "documentos",
+    "firma",
+    "sociedad mercantil"
+  ],
+  "titulo": "Sentencia sobre medidas cautelares en herencia yacente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-24_S0574_E21-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325525-0574-24523-2023-21-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.946854"
+}

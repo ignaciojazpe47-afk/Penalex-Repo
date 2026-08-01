@@ -1,0 +1,24 @@
+{
+  "id": 67980,
+  "numero": "1573",
+  "fecha": null,
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por CLAM INSTALACIONES S.A. contra la decisión del Tribunal Superior Primero del Trabajo, que había declarado con lugar la apelación de los ciudadanos Echeto. La Sala argumentó que la parte demandada no logró desvirtuar la presunción de admisión de los hechos debido a su incomparecencia a la audiencia preliminar, lo que resultó en una confesión ficta. Se concluyó que la decisión del tribunal inferior se ajustó a derecho al considerar la falta de prueba por parte de la demandada sobre la relación laboral alegada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "relación laboral",
+    "confesión ficta",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre relación laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-09_S1573_E15-0985.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183633-1573-91215-2015-15-0985.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.696089"
+}

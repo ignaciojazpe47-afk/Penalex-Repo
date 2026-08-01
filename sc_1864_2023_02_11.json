@@ -1,0 +1,23 @@
+{
+  "id": 33717,
+  "numero": "1864",
+  "fecha": "2023-02-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por Revlon Overseas Corporation, C.A. contra una sentencia de la Corte de Apelaciones que había declarado parcialmente con lugar recursos de apelación relacionados con medidas precautelativas ambientales. La decisión se fundamenta en que no se observan violaciones constitucionales en la sentencia cuestionada y que la acción de amparo busca una revisión de la decisión de la Corte de Apelaciones, lo cual no es procedente en este caso. Se enfatiza la importancia de proteger el medio ambiente y la salud pública ante el riesgo que representa la edificación en cuestión.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Revlon",
+    "Medidas Precautelativas",
+    "Ambiente"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Revlon Overseas Corporation, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1864_E18-0665.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331834-1864-111223-2023-18-0665.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.304745"
+}

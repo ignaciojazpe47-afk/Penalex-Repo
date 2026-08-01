@@ -1,0 +1,25 @@
+{
+  "id": 26652,
+  "numero": "0268",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento, por abandono del trámite.",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por Randy Leonardo Franco Ling, quien solicitó la tutela constitucional contra una decisión de la Sala 2 de la Corte de Apelaciones. La Sala observa que el demandante no realizó ninguna actuación válida durante más de seis meses, configurándose así el abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa al accionante por incumplimiento.",
+  "palabras_clave": [
+    "debido_proceso",
+    "juicio_oral",
+    "lesiones_culposas",
+    "Código_Orgánico_Procesal_Penal",
+    "absolución",
+    "interrupción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0268_E23-1301.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337834-0268-171024-2024-23-1301.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.065735"
+}

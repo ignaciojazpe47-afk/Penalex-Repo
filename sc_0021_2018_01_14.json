@@ -1,0 +1,26 @@
+{
+  "id": 45020,
+  "numero": "0021",
+  "fecha": "2018-01-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "HA LUGAR",
+  "ponente": "RENE ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Superior Quinto del Trabajo que declaró sin lugar la apelación de la sociedad mercantil PRODUCTOS EFE S.A. contra una providencia administrativa que impuso una multa. La Sala encontró que la sentencia recurrida incurrió en inmotivación al no justificar adecuadamente la validez de la sanción impuesta por la Administración, lo que vulneró los derechos a la tutela judicial efectiva y a la defensa. En consecuencia, se declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y reponiendo la causa para que se dicte una nueva decisión con el debido análisis de motivación y congruencia.",
+  "palabras_clave": [
+    "actos administrativos",
+    "nulidad",
+    "procedimiento",
+    "derecho de defensa",
+    "inspección laboral",
+    "sanciones",
+    "motivación"
+  ],
+  "titulo": "Revisión de sentencia sobre imposición de multa a PRODUCTOS EFE S.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0021_E16-0750.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206876-0021-17118-2018-16-0750.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.273156"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17598,
+  "numero": "0192",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo interpuesta por Milagros Genoveva del Carmen Fernández Velásquez. La Sala constató que hubo vicios procesales en la notificación y en la admisión de la acción, lo que vulneró el derecho a la defensa y al debido proceso. En consecuencia, se declaró la nulidad de las sentencias impugnadas y se ordenó reponer la causa al estado de que el Juzgado Primero de Primera Instancia admita la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0192_E25-1007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353188-0192-2326-2026-25-1007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.370290"
+}

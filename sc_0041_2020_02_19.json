@@ -1,0 +1,24 @@
+{
+  "id": 41004,
+  "numero": "0041",
+  "fecha": "2020-02-19",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "Los ciudadanos Milagro del Carmen Mena González y Gustavo Pindaro Fernández González interpusieron una solicitud de amparo cautelar en contra de la sociedad mercantil Promotora Santa Rita, C.A. y otros, alegando violaciones a los derechos humanos de los inquilinos del edificio Santa Rita en Altamira, municipio Chacao. Los demandantes expusieron una serie de abusos y actos de violencia perpetrados por los demandados, incluyendo desalojos forzosos y torturas, lo que llevó a la solicitud de medidas de protección para los inquilinos y ocupantes del inmueble.\nLa Sala Constitucional del Tribunal Supremo de Justicia, tras analizar la situación, ordenó la notificación a los demandantes para que corrigieran la demanda presentada, la cual fue considerada ininteligible. Se les otorgó un plazo de tres días para realizar las correcciones necesarias, advirtiendo que de no hacerlo, la solicitud podría ser declarada inadmisible. La decisión se fundamentó en la necesidad de que la demanda cumpla con los requisitos de forma establecidos en la ley.\nFinalmente, se destacó la importancia de proteger los derechos colectivos de los inquilinos y la necesidad de una respuesta judicial efectiva ante las violaciones denunciadas, enfatizando el papel del Tribunal en la defensa de los derechos fundamentales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "desalojo",
+    "violencia",
+    "inquilinos"
+  ],
+  "titulo": "Solicitud de amparo cautelar por violación de derechos humanos en el edificio Santa Rita",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-19_S0041_E19-0724.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309516-0041-19220-2020-19-0724.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.139837"
+}

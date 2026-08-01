@@ -1,0 +1,26 @@
+{
+  "id": 33176,
+  "numero": "1685",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por Ernesto Odilio Ortega Pérez contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito de Miranda, que había declarado sin lugar la recusación planteada contra la Jueza Carmen Luisa Salazar Bravo. El accionante alegó vicios de silencio de pruebas y violaciones al debido proceso, argumentando que la Jueza no consideró pruebas relevantes en su decisión. Sin embargo, la Sala concluyó que la recusación no cumplía con los requisitos necesarios para su procedencia y que no se había demostrado la parcialidad del juez recusado.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "competencia",
+    "derechos constitucionales",
+    "decisión judicial",
+    "proceso",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1685_E23-0312.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330854-1685-301123-2023-23-0312.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.976795"
+}

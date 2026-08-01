@@ -1,0 +1,23 @@
+{
+  "id": 2486,
+  "numero": null,
+  "fecha": "2001-06-19",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "DESESTIMA POR INADMISIBLE",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, se pronunció sobre el recurso de casación interpuesto por el Fiscal Primero del Ministerio Público contra la sentencia absolutoria dictada por el Tribunal N° 4 de Juicio del Circuito Judicial Penal del Estado Trujillo. La Sala determinó que no existe norma en el Código Orgánico Procesal Penal que permita recurrir sentencias absolutorias emitidas por tribunales de jurados, lo que llevó a declarar inadmisible el recurso. La decisión se fundamenta en la falta de legitimación para recurrir en estos casos, lo que se considera una limitación a los derechos de las víctimas y del Ministerio Público.",
+  "palabras_clave": [
+    "casación",
+    "homicidio",
+    "absolución",
+    "jurados"
+  ],
+  "titulo": "Decisión sobre recurso de casación interpuesto por el Ministerio Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-06-19_CasacionPenal_C010068.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:10.585953"
+}

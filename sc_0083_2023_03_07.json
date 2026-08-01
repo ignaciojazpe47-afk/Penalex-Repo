@@ -1,0 +1,25 @@
+{
+  "id": 29085,
+  "numero": "0083",
+  "fecha": "2023-03-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por René Alberto Carvajalino Rincón, en representación de Olga Migdalía Cárdenas de Centeno, contra la Superintendencia Nacional Antidrogas (SUNAD) por falta de pronunciamiento sobre peticiones realizadas. La Sala, tras analizar la competencia, determinó que no le corresponde conocer de la acción, ya que la SUNAD no está incluida entre las altas autoridades mencionadas en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "jurisdicción contencioso administrativa",
+    "conducta omisiva",
+    "Superintendencia Nacional Antidrogas",
+    "lesión constitucional"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-07_S0083_E22-0816.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323251-0083-7323-2023-22-0816.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.346951"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 31245,
+  "numero": "0924",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 13 de julio de 2023, declaró SIN LUGAR el recurso de apelación interpuesto por Paul Gerardo Milaneses Olivero, en su calidad de defensor privado de Luis Alberto Urbina y Luis Manuel Tremaría Lovera, contra la sentencia de la Sala Cinco de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala consideró que la acción de amparo no era el medio adecuado para corregir errores de juzgamiento y que se debían agotar los recursos procesales ordinarios antes de recurrir a esta vía. Se confirmó la decisión apelada, manteniendo la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "sentencia",
+    "Corte de Apelaciones",
+    "Código Penal",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0924_E21-0178.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326870-0924-13723-2023-21-0178.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.212143"
+}

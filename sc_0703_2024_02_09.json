@@ -1,0 +1,25 @@
+{
+  "id": 27323,
+  "numero": "0703",
+  "fecha": "2024-02-09",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por Guillermo Enrique Améstica Miranda. Este recurso fue presentado contra una decisión del Juzgado Segundo en Funciones de Control Estadal que declaró inadmisible la acción de amparo por falta de cualidad del demandante. La Sala, tras analizar el caso, se declaró competente para conocer la apelación y ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "proceso",
+    "constitucional"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0703_E24-0143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338726-0703-81124-2024-24-0143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.566704"
+}

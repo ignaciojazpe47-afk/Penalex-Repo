@@ -1,0 +1,25 @@
+{
+  "id": 34014,
+  "numero": "1125",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena requerir información",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa un fallo del Tribunal Tercero de Municipio Ordinario que declaró con lugar una demanda de cumplimiento de contrato. Se destaca la importancia de que el fallo objeto de revisión esté definitivamente firme para proceder con la revisión constitucional. La Sala ordena al juzgado remitente que informe si se ejerció recurso de apelación sobre el fallo en cuestión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "constitucional",
+    "procedimiento",
+    "justicia",
+    "apelación"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1125_E23-0632.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328277-1125-11823-2023-23-0632.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.330788"
+}

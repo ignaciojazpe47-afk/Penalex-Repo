@@ -1,0 +1,24 @@
+{
+  "id": 48204,
+  "numero": "0600",
+  "fecha": "2018-08-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 10 de agosto de 2018, declaró sin lugar la apelación interpuesta por los abogados de los codemandados, confirmando la decisión del Juzgado Superior Sexto que había declarado con lugar la acción de amparo presentada por Zobeida Marina Parra Díaz y Javier Emiro Sosa Totesaut. La acción de amparo se fundamentó en la incongruencia de la sentencia del 8 de febrero de 2017, que no consideró adecuadamente los alegatos de la parte demandante sobre su domicilio y la naturaleza mercantil del contrato en cuestión.\n\nLa Sala destacó que el juzgado de primera instancia había incurrido en un vicio de incongruencia omisiva al no pronunciarse sobre alegatos cruciales que afectaban la exigencia de caución para proceder en juicio. La decisión de la Sala Constitucional busca garantizar el derecho a la tutela judicial efectiva, ordenando que se emita un nuevo pronunciamiento sobre las cuestiones previas planteadas en el proceso.\n\nFinalmente, se negó la medida de embargo preventivo solicitada por la parte accionante, reafirmando que el tribunal de origen debe resolver todos los alegatos presentados en el caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incongruencia omisiva",
+    "caución",
+    "fianza",
+    "derecho a la tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-10_S0600_E17-1132.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/301005-0600-10818-2018-17-1132.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.667076"
+}

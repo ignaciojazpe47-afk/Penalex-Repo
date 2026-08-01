@@ -1,0 +1,25 @@
+{
+  "id": 40492,
+  "numero": "0678",
+  "fecha": "2021-06-08",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número RC 000048 dictada por la Sala de Casación Civil, en la que se decidió a favor del demandante en un caso de cumplimiento de contrato de opción de compra-venta. La revisión se solicitó debido a alegaciones de incongruencia omisiva y falta de pruebas en la decisión anterior. La Sala consideró que tenía competencia para conocer del caso y decidió suspender los efectos de la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial",
+    "medidas cautelares",
+    "carga de la prueba",
+    "sentencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de Revisión Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0678_E21-0285.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314754-0678-261121-2021-21-0285.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.184724"
+}

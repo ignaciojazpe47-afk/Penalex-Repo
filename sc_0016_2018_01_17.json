@@ -1,0 +1,26 @@
+{
+  "id": 45015,
+  "numero": "0016",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por los abogados de Yusmelis Elena Meregote Pereira, quien se encontraba privada de libertad y en estado de gravidez. La acción fue declarada inadmisible por la Corte de Apelaciones debido a la falta de acreditación de la representación legal de la demandante. Sin embargo, la Sala Constitucional estableció que la legitimación activa en estos casos corresponde a la persona afectada o a cualquier persona en su nombre, garantizando así la protección de los derechos del nasciturus.",
+  "palabras_clave": [
+    "amparo",
+    "legitimación",
+    "defensores",
+    "representación",
+    "inadmibilidad",
+    "derechos",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0016_E15-0507.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206871-0016-17118-2018-15-0507.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.256573"
+}

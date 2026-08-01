@@ -1,0 +1,27 @@
+{
+  "id": 21706,
+  "numero": "1453",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible por cosa juzgada",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo constitucional interpuesta por Rosiris Marybeth Acosta Saravia contra la sentencia del Juzgado Superior Quinto en lo Civil, Mercantil, Tránsito y Bancario, que declaró sin lugar la apelación interpuesta. Sin embargo, la Sala declara inadmisible la acción de amparo por existir cosa juzgada, dado que la misma cuestión ya había sido decidida anteriormente. La decisión se fundamenta en la normativa aplicable y en la necesidad de garantizar la seguridad jurídica.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "seguridad jurídica",
+    "sentencia",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1453_E20-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347324-1453-7825-2025-20-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.044239"
+}

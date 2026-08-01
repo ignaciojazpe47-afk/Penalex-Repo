@@ -1,0 +1,24 @@
+{
+  "id": 11633,
+  "numero": null,
+  "fecha": "2009-07-06",
+  "anio": 2009,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia del Juzgado Superior Accidental del Trabajo que había declarado con lugar la solicitud de levantamiento del velo corporativo de varias empresas, incluyendo a la demandada Central Azucarero Las Majaguas C.A. La Sala determinó que la sentencia impugnada violó el derecho a la defensa y el debido proceso, ya que las empresas no fueron demandadas ni citadas en el juicio original. Se concluyó que la extensión de la ejecución de la sentencia a estas empresas era inapropiada y se anuló la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "levantamiento del velo corporativo",
+    "grupo económico",
+    "derecho a la defensa",
+    "debido proceso",
+    "sentencia laboral"
+  ],
+  "titulo": "Revisión de sentencia sobre levantamiento del velo corporativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionSocial_2009.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.942219"
+}

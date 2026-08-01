@@ -1,0 +1,24 @@
+{
+  "id": 34189,
+  "numero": "1297",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por un grupo de trabajadores del fondo de comercio Super Hortalizas Neverí. La acción fue planteada en contra de una decisión interlocutoria que decretó una medida de secuestro sobre el bien objeto de arrendamiento, afectando sus derechos al trabajo y a la alimentación. La Sala determinó que la acción de amparo carecía de objeto, dado que ya había recaído una sentencia definitiva en el juicio principal de desalojo, lo que hacía imposible el restablecimiento del derecho presuntamente afectado.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho al Trabajo",
+    "Derecho a la Alimentación",
+    "Desalojo",
+    "Medida Cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1297_E19-0218.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328501-1297-16823-2023-19-0218.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.220767"
+}

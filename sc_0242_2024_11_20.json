@@ -1,0 +1,22 @@
+{
+  "id": 17402,
+  "numero": "0242",
+  "fecha": "2024-11-20",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un amparo constitucional interpuesto por Fátima Rosalía Henriques Goncalves contra una decisión del Tribunal Superior Tercero que acordó la restitución internacional de su hijo a su padre. La Sala declaró competente para conocer la acción y ordenó la suspensión de los efectos de la sentencia impugnada, así como la remisión del expediente correspondiente. Se destacó la relevancia de una sentencia apostillada proveniente de un juzgado mexicano que otorgó la custodia del menor.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia internacional",
+    "restitución de menor"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de restitución de custodia internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0242_E23-0585.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353547-0242-11326-2026-23-0585.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.198351"
+}

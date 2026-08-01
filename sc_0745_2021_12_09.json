@@ -1,0 +1,25 @@
+{
+  "id": 40800,
+  "numero": "0745",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de diciembre de 2021, declaró sin lugar el recurso de apelación interpuesto por los abogados Luis Eduardo Lima y Johan Lisángel García, en representación de Carlos Eduardo Bastidas Esqueda, contra la sentencia de la Sala Única de la Corte de Apelaciones del Estado Apure que declaró inadmisible la acción de amparo constitucional. La Corte de Apelaciones había fundamentado su decisión en la falta de motivación del fallo impugnado, lo que fue considerado improcedente por la Sala Constitucional, que reafirmó la necesidad de agotar los recursos ordinarios antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "inmotivation",
+    "debido proceso",
+    "tutela judicial",
+    "derecho a la defensa",
+    "amparo constitucional",
+    "violación de derechos"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0745_E17-0557.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315197-0745-91221-2021-17-0557.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.727734"
+}

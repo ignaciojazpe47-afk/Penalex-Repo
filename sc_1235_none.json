@@ -1,0 +1,22 @@
+{
+  "id": 38112,
+  "numero": "1235",
+  "fecha": null,
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Marina del Carmen Indriago Trujillo, quien buscaba la nulidad de una decisión que declaró inadmisible su intervención en un juicio de amparo. La apelante alegó violaciones a sus derechos constitucionales a la defensa y al debido proceso, argumentando que su intervención fue erróneamente considerada extemporánea. Sin embargo, el tribunal confirmó la decisión del juzgado inferior, argumentando que la apelante contaba con medios procesales idóneos para impugnar la decisión y que su solicitud de amparo era inadmisible.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1235_E16-0859.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322127-1235-151222-2022-16-0859.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.698058"
+}

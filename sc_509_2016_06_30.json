@@ -1,0 +1,24 @@
+{
+  "id": 58144,
+  "numero": "509",
+  "fecha": "2016-06-30",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la revisión constitucional solicitada por María Alejandra Cabeza Rodríguez, quien impugnó la sentencia N° 2015-1048 dictada por la Corte Primera de lo Contencioso Administrativo. La solicitante alegó vulneración de sus derechos al debido proceso y a la defensa, argumentando que la notificación del pliego de cargos fue realizada a su madre, lo que consideró inválido. Sin embargo, la Sala concluyó que la Universidad Simón Bolívar cumplió con el procedimiento establecido y que la solicitante tuvo acceso al expediente administrativo, por lo que no se evidenció violación de derechos fundamentales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "derecho a la defensa",
+    "notificación",
+    "Universidad Simón Bolívar"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia N° 2015-1048",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-06-30_S509_E15-1405.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/188644-509-30616-2016-15-1405.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.748173"
+}

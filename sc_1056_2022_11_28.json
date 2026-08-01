@@ -1,0 +1,22 @@
+{
+  "id": 37701,
+  "numero": "1056",
+  "fecha": "2022-11-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Anaska María Hernández Delgado contra la decisión del Juzgado Superior Décimo que declaró extemporáneo el recurso de hecho. La Sala consideró que la falta de notificación adecuada de la sentencia de fondo dictada el 20 de agosto de 2021 vulneró los derechos a la defensa y al debido proceso de la parte demandada. En consecuencia, se anuló la decisión impugnada y se ordenó al Juzgado Undécimo oír el recurso de apelación interpuesto por la parte demandada.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-28_S1056_E22-0477.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321250-1056-281122-2022-22-0477.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.452671"
+}

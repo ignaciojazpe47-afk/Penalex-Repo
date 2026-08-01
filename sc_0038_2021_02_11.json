@@ -1,0 +1,23 @@
+{
+  "id": 34357,
+  "numero": "0038",
+  "fecha": "2021-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Laboral",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados de Faustino Díaz Rivero, en relación a una demanda por indemnización por accidente de trabajo contra PDVSA Petróleo, S.A. La Sala, tras analizar el caso, determinó que no era competente para conocer de la solicitud, declinando el conocimiento a la Sala de Casación Social. La decisión se fundamenta en la normativa que establece la competencia de las Salas del Tribunal Supremo de Justicia y la naturaleza del caso en cuestión.",
+  "palabras_clave": [
+    "avocamiento",
+    "indemnización",
+    "accidente de trabajo",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0038_E20-0129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315550-0038-11222-2022-20-0129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.768584"
+}

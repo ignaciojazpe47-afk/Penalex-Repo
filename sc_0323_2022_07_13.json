@@ -1,0 +1,25 @@
+{
+  "id": 35437,
+  "numero": "0323",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por Ramón José García López, defensor privado de Edgar Aranguren, contra la decisión de la Sala N° 5 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación fue considerada tempestiva y se analizó la competencia de la Sala para conocer el caso. Se concluyó que la situación de agravio denunciada había cesado, por lo que se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "garantías constitucionales",
+    "debido proceso",
+    "amparo constitucional",
+    "inadmibilidad",
+    "libertad",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0323_E20-0438.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317903-0323-13722-2022-20-0438.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.231690"
+}

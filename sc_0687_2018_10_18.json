@@ -1,0 +1,23 @@
+{
+  "id": 48541,
+  "numero": "0687",
+  "fecha": "2018-10-18",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Rafael Antonio Bolaños Loaiza, quien impugnó la decisión del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario del Estado Táchira, que declaró inadmisible su demanda por fraude procesal. La Sala determinó que el Juzgado no notificó adecuadamente a las partes, lo que vulneró el derecho a la defensa y al debido proceso del solicitante. En consecuencia, se declaró ha lugar la solicitud de revisión y se ordenó la reposición del proceso al estado de notificación correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "fraude procesal",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia por fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-18_S0687_E16-1125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/301728-0687-181018-2018-16-1125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:08.251341"
+}

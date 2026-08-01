@@ -1,0 +1,25 @@
+{
+  "id": 22248,
+  "numero": "1588",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por los ciudadanos Jorge de Abaffy Steffens y Anna de Abaffy Steffens contra la Fiscalía 37 del Ministerio Público del Área Metropolitana de Caracas. La Sala determina que el tribunal competente para decidir sobre el asunto es un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas. Se ordena la remisión del expediente a dicho juzgado para su distribución.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "fiscalía",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1588_E24-1285.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348705-1588-151025-2025-24-1285.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.759913"
+}

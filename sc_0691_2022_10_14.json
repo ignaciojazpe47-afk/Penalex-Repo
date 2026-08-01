@@ -1,0 +1,22 @@
+{
+  "id": 36609,
+  "numero": "0691",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió en favor de los ciudadanos Yonys Sarmiento y Eischler Enrique Chacón Arredondo, quienes habían interpuesto una acción de amparo constitucional debido a la negativa del Juzgado Cuadragésimo Noveno de Primera Instancia en Funciones de Control del Área Metropolitana de Caracas de permitirles el acceso al expediente de su causa. La Sala revocó la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo, argumentando que no se había agotado la vía judicial ordinaria y que la negativa del tribunal vulneraba los derechos a la defensa y al debido proceso de los accionantes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0691_E21-0367.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319780-0691-141022-2022-21-0367.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.119566"
+}

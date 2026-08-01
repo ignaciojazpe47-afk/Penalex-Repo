@@ -1,0 +1,27 @@
+{
+  "id": 37135,
+  "numero": "0885",
+  "fecha": "2022-11-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo del Estado Zulia, relacionado con una acción de amparo constitucional interpuesta por LATIN SHIPPING, C.A. contra una resolución que ordenó remitir un expediente para el trámite de apelación. La Sala observó que las copias del expediente eran ilegibles, lo que dificultaba el estudio del caso. Por ello, se ordenó al juzgado remitente que enviara copia certificada del expediente completo para poder dictar una decisión ajustada a derecho.",
+  "palabras_clave": [
+    "amparo",
+    "cautelar",
+    "copia certificada",
+    "expediente",
+    "juicio",
+    "cobro",
+    "puerto",
+    "muelaje"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-01_S0885_E21-0378.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320487-0885-11122-2022-21-0378.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.419205"
+}

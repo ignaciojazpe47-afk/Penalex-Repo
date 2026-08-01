@@ -1,0 +1,18 @@
+{
+  "id": 12399,
+  "numero": null,
+  "fecha": "2006-11-24",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Gustavo González Palacios contra la decisión del Juzgado Superior Primero en lo Civil, que declaró inadmisible su acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que el apelante había optado por recurrir a las vías ordinarias, lo que excluye la posibilidad de un amparo constitucional según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nEl tribunal destacó que el recurso de apelación es el medio adecuado para revisar la materia en cuestión y que la acción de amparo no puede ser utilizada como un recurso supletorio de las vías ordinarias. La Sala reafirmó la importancia del principio de inmutabilidad de las sentencias firmes y la necesidad de agotar los recursos ordinarios antes de recurrir al amparo.\n\nFinalmente, se declaró SIN LUGAR la apelación y se confirmó la decisión del juzgado de origen, ordenando la remisión del expediente correspondiente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_5df170f8a32b6f2a183ebac256080a7f.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.129574"
+}

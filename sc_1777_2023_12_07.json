@@ -1,0 +1,26 @@
+{
+  "id": 33443,
+  "numero": "1777",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 7 de diciembre de 2023, declaró improcedente la acción de amparo constitucional interpuesta por el abogado Leonardo Javier Zuleta Añez en representación de Luis Oswaldo Curiel Fernández. La acción fue presentada contra la decisión de la Sala Nº 5 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado sin lugar los recursos de apelación interpuestos por varios defensores en relación a la admisión de la acusación y el pase a juicio en un caso de sicariato y otros delitos graves.\n\nLa Sala Constitucional determinó que no se configuraron los requisitos necesarios para la procedencia del amparo, ya que la Corte de Apelaciones actuó dentro de su competencia y motivó adecuadamente su decisión. Se concluyó que la prolongación del proceso no era imputable a la defensa ni al órgano jurisdiccional, y que la medida de privación de libertad se mantenía justificada por la gravedad de los delitos imputados y las circunstancias del caso.\n\nFinalmente, se confirmó la decisión recurrida, manteniendo la medida cautelar de privación de libertad sobre los acusados, y se destacó la importancia del debido proceso y la tutela judicial efectiva en el marco del sistema penal venezolano.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "medida_cautelar",
+    "control_judicial",
+    "proceso_penal",
+    "nulidad",
+    "indicios_suficientes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1777_E22-0870.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331312-1777-71223-2023-22-0870.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.480177"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31207,
+  "numero": "0911",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Euclides Alberto González Acosta contra la sentencia del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La Sala confirmó la decisión del Juzgado, argumentando que existían vías ordinarias que podían proporcionar la tutela judicial efectiva, lo que justificaba la inadmisibilidad del amparo. La sentencia se dictó en el contexto de una disputa sobre la propiedad y la posesión de un inmueble.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos humanos",
+    "debido proceso",
+    "jurisprudencia",
+    "vías ordinarias"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0911_E16-0886.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326819-0911-12723-2023-16-0886.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.218225"
+}

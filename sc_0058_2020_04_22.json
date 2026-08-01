@@ -1,0 +1,23 @@
+{
+  "id": 41218,
+  "numero": "0058",
+  "fecha": "2020-04-22",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto n° 4.186, que prorroga el Estado de Alarma en todo el territorio nacional debido a la pandemia de COVID-19. Se argumenta que el decreto cumple con los principios y normas de la Constitución y la Ley Orgánica sobre Estados de Excepción, garantizando la salud y seguridad de la población venezolana. La decisión se fundamenta en la necesidad de adoptar medidas urgentes y efectivas para mitigar los riesgos de epidemia relacionados con el coronavirus.",
+  "palabras_clave": [
+    "Estado de Alarma",
+    "COVID-19",
+    "Constitucionalidad",
+    "Decreto n° 4.186"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto n° 4.186",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-04-22_S0058_E20-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/309860-0058-22420-2020-20-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.130278"
+}

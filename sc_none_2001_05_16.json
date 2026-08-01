@@ -1,0 +1,22 @@
+{
+  "id": 12891,
+  "numero": null,
+  "fecha": "2001-05-16",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió revocar la decisión del Juzgado Superior Segundo del Trabajo que había admitido la acción de amparo constitucional interpuesta por Ramiro Antonio Toro Valbuena. La Sala consideró que la acción era inadmisible, ya que el accionante había optado por recurrir a las vías judiciales ordinarias, lo que cesó la violación alegada de sus derechos constitucionales. La decisión se fundamentó en el cumplimiento de los requisitos establecidos por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_e0f646b246b00b04cac805a0a84911b4.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.703505"
+}

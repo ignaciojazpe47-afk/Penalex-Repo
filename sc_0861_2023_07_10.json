@@ -1,0 +1,26 @@
+{
+  "id": 31154,
+  "numero": "0861",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre dos juzgados en el Estado Falcón, relacionado con una acción de amparo interpuesta por Ledymar Henriquez Marín. La Sala de Casación Civil había declarado su incompetencia, lo que llevó a la Sala Constitucional a aceptar la competencia declinada. Finalmente, se declaró el decaimiento del objeto del conflicto debido a la derogación de la norma que sustentaba la consulta, ordenando remitir el expediente al juzgado de origen para su archivo.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "jurisdicción",
+    "conflicto",
+    "constitución",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0861_E21-0027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326681-0861-10723-2023-21-0027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.529465"
+}

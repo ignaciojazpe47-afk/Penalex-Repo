@@ -1,0 +1,22 @@
+{
+  "id": 19991,
+  "numero": "0791",
+  "fecha": "2025-05-24",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 24 de mayo de 2025, declaró improcedente la acción de amparo interpuesta por la ciudadana Vanessa Andreina Badillo Márquez contra la sentencia de la Corte de Apelaciones que había declarado sin lugar su apelación contra el sobreseimiento de su caso. La Sala consideró que la acción no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, y que el tribunal de alzada actuó dentro de su competencia y sin abuso de poder.\n\nLa decisión se fundamenta en que no se configuraron violaciones constitucionales en el proceso, y que el tribunal de apelaciones había garantizado los derechos de la víctima al notificarla de la solicitud de sobreseimiento. La Sala también destacó que el margen de apreciación del juez no puede ser objeto de revisión a través de la acción de amparo, salvo que se evidencien violaciones flagrantes a derechos constitucionales.\n\nFinalmente, la Sala reafirmó la importancia de la tutela judicial efectiva y el debido proceso, pero concluyó que en este caso no se habían vulnerado tales derechos, por lo que la acción de amparo fue declarada improcedente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "derechos de la mujer"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0791_E25-0285.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344269-0791-28525-2025-25-0285.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.862537"
+}

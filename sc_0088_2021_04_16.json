@@ -1,0 +1,24 @@
+{
+  "id": 38463,
+  "numero": "0088",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ revisó la decisión n.° 2018-0254 emitida por la Corte Primera de lo Contencioso Administrativo, que había declarado con lugar un recurso de apelación. La Sala encontró que el demandante, Oscar Eduardo Mictil Medina, no era un funcionario público de libre nombramiento y remoción, sino un empleado contratado, lo que implicaba que las normas aplicadas en su caso eran erróneas. La Corte revocó la decisión anterior y ordenó un nuevo pronunciamiento considerando lo establecido en su fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "empleado contratado",
+    "funcionario público",
+    "nulidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión constitucional de la decisión n.° 2018-0254",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0088_E18-0719.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311801-0088-16421-2021-18-0719.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.897446"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 37499,
+  "numero": "1020",
+  "fecha": "2022-11-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Impropio",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La ciudadana Eneida Del Carmen Flores Hernández presentó una acción de amparo constitucional contra un decreto de la Asamblea Nacional Constituyente que ordenó la supresión de la Alcaldía Metropolitana de Caracas. La Sala Constitucional, tras analizar la solicitud, determinó que la acción era improponible, ya que se dirigía contra un acto de la Asamblea Nacional Constituyente, que posee carácter de poder constituyente originario y no puede ser objeto de control jurisdiccional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "asamblea nacional constituyente",
+    "soberanía popular",
+    "decreto constituyente",
+    "control jurisdiccional"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-21_S1020_E17-1279.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320926-1020-211122-2022-17-1279.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.340259"
+}

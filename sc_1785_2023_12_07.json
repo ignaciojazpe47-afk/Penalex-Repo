@@ -1,0 +1,27 @@
+{
+  "id": 33451,
+  "numero": "1785",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible por extemporáneo el recurso de apelación interpuesto por el abogado Albert Rojas, defensor de los acusados Cristopher Leandro Escalona González y Luis Alfredo González Tinoco. La apelación se refería a una decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional por falta de presentación de los instrumentos fundamentales que sustentaran la acción. La Sala constató que el recurso fue presentado fuera del lapso legal establecido.",
+  "palabras_clave": [
+    "dilaciones indebidas",
+    "derechos constitucionales",
+    "proceso penal",
+    "justicia",
+    "amparo constitucional",
+    "libertad individual",
+    "fiscal",
+    "juez"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1785_E21-0745.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331320-1785-71223-2023-21-0745.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.478977"
+}

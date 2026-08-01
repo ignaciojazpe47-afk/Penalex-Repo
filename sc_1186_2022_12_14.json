@@ -1,0 +1,26 @@
+{
+  "id": 38045,
+  "numero": "1186",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de diciembre de 2022, declaró no ha lugar la solicitud de revisión constitucional interpuesta por Guillermo Mibelli Díaz contra la decisión N° 00148 de la Sala de Casación Social, que había declarado sin lugar el recurso de casación. La Sala constató que no hubo violación de derechos constitucionales y que la sentencia recurrida no adolecía de vicios que justificaran su nulidad.",
+  "palabras_clave": [
+    "incongruencia",
+    "motivación",
+    "casación",
+    "derecho a la defensa",
+    "Ley de Tierras",
+    "debido proceso",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1186_E22-0829.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322020-1186-141222-2022-22-0829.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.154561"
+}

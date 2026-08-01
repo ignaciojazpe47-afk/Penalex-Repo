@@ -1,0 +1,27 @@
+{
+  "id": 31268,
+  "numero": "0928",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por Gaudy Colina y Yelimar Beatriz Pinto, en representación de los asociados de la Caja de Ahorro y Préstamo de Trabajadores Activos y Jubilados Petroleros del Estado Zulia (CATRAJUP). La acción se dirigía contra la Comisión Provisoria que usurpaba funciones y la omisión de la Comisión Electoral ad hoc en la convocatoria a elecciones. La Sala determina que el tribunal competente es la Sala Electoral, y debido a la inactividad procesal de más de seis meses, se declara el abandono del trámite y se termina el procedimiento.",
+  "palabras_clave": [
+    "derecho electoral",
+    "participación política",
+    "Caja de Ahorro",
+    "Comisión Provisoria",
+    "debido proceso",
+    "sufragio",
+    "asociaciones",
+    "superintendencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y medida cautelar innominada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0928_E20-0268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326893-0928-13723-2023-20-0268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.210148"
+}

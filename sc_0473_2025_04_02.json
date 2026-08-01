@@ -1,0 +1,25 @@
+{
+  "id": 19236,
+  "numero": "0473",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Renny Dixon López Manzano y Miguel Ángel López Durán contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito de Miranda, que había declarado con lugar un recurso de apelación. La Sala concluye que el Juzgado actuó dentro de su competencia y no vulneró derechos constitucionales, ya que los demandantes no demostraron el pago de los cánones de arrendamiento reclamados como insolutos. Además, se establece que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones judiciales previas.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "representación",
+    "poder",
+    "confesión ficta",
+    "sociedades mercantiles"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0473_E24-0340.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342872-0473-2425-2025-24-0340.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.601988"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27827,
+  "numero": "1005",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con una acción de amparo constitucional interpuesta por Albino José Paredes en defensa de Gabriel Ramón Serrudo Vivas, quien fue detenido por presuntos delitos. La Sala, tras analizar la competencia, declaró su incompetencia para conocer de la acción de amparo y decidió remitir el caso a un Juzgado de Primera Instancia en Funciones de Control con competencia en amparo sobre la libertad y seguridad personal en el Estado Zulia.",
+  "palabras_clave": [
+    "competencia",
+    "habeas corpus",
+    "amparo",
+    "derechos humanos",
+    "tribunales",
+    "constitución",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1005_E23-0961.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339318-1005-211124-2024-23-0961.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.139540"
+}

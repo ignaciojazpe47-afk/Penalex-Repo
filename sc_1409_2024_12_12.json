@@ -1,0 +1,25 @@
+{
+  "id": 28578,
+  "numero": "1409",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Edwin Rojas Fuentes, en representación de Gloria Esperanza Mora Rincón, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira, que declaró inadmisible un recurso de apelación por falta de legitimidad. La Corte de Apelaciones argumentó que el poder otorgado por la demandante no cumplía con los requisitos establecidos en el Código Orgánico Procesal Penal.\n\nLa Sala Constitucional, tras analizar el caso, determinó que la parte actora había abandonado el trámite al no realizar ninguna actuación en el expediente durante más de seis meses. Por lo tanto, se declaró terminado el procedimiento y se impuso una multa a la parte actora por abandono del trámite, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nFinalmente, la Sala declaró su competencia para conocer de la acción de amparo y resolvió que el procedimiento se daba por terminado, además de imponer la multa correspondiente a la parte actora.",
+  "palabras_clave": [
+    "apelación",
+    "inadmisibilidad",
+    "poder",
+    "legitimidad",
+    "Código Orgánico Procesal Penal",
+    "acción penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1409_E24-0098.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340601-1409-121224-2024-24-0098.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.821140"
+}

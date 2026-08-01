@@ -1,0 +1,26 @@
+{
+  "id": 27018,
+  "numero": "0504",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por las abogadas Ogla Y. Botto R. y Milagros J. Pumiaca en representación de Rafael José Espidel Pumiaca, contra la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Miranda. La acción se fundamentó en la omisión de pronunciamiento respecto a una audiencia celebrada el 24 de agosto de 2022. La Sala consideró que la violación denunciada había cesado, ya que la Corte de Apelaciones había emitido un fallo el 12 de septiembre de 2023, decretando la nulidad de la sentencia condenatoria y ordenando la reposición del juicio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "debido proceso",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0504_E23-0135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338392-0504-301024-2024-23-0135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.474925"
+}

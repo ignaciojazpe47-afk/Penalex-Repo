@@ -1,0 +1,25 @@
+{
+  "id": 34328,
+  "numero": "0007",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Carmen Daileny Díaz Aparicio interpuso una acción de amparo constitucional contra la omisión de pronunciamiento del Juzgado Superior de Protección de Niños, Niñas y Adolescentes del Estado Cojedes. La Sala Constitucional del TSJ, tras analizar el expediente, determinó que la parte actora había abandonado el trámite al no manifestar interés en más de seis meses. Por lo tanto, se declaró competente para conocer la acción, pero se terminó el procedimiento por abandono y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "amparo",
+    "juez natural",
+    "inhibición",
+    "debido proceso",
+    "recusación",
+    "tutela constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0007_E20-051251621-0042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315519-0007-11222-2022-20-0512[516]21-0042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.717545"
+}

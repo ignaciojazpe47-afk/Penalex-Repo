@@ -1,0 +1,26 @@
+{
+  "id": 28282,
+  "numero": "1240",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, declara competente para conocer el recurso de apelación interpuesto por Edwin José Añon Díaz contra la decisión de la Sala No. 6 de la Corte de Apelaciones, que declaró inadmisible la acción de amparo constitucional. Se argumenta que el apelante no recibió el debido pronunciamiento sobre sus alegatos en la audiencia preliminar, lo que vulneró sus derechos constitucionales. Sin embargo, se concluye que la acción de amparo es inadmisible al haberse optado por la vía judicial ordinaria de apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "audiencia preliminar",
+    "derecho a la defensa",
+    "Código Orgánico Procesal Penal",
+    "Corte de Apelaciones",
+    "nulidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1240_E20-0446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340196-1240-51224-2024-20-446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.032178"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 28765,
+  "numero": "0002",
+  "fecha": "2023-02-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Se ADMITE la presente solicitud de avocamiento.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por Johnny José Curbelo Monroy, en su calidad de Presidente de Granjas La Caridad, C.A. y Agroporc, C.A., en relación a demandas por fraude procesal interpuestas por Agropecuaria Los Tres Robles, C.A. La Sala consideró que existían elementos que justificaban la intervención, dado el posible quebrantamiento de derechos fundamentales y desorden procesal en los juicios en curso. Se ordenó la suspensión de los procesos relacionados y la remisión de los expedientes correspondientes para su revisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "legitimación",
+    "irregularidades",
+    "derechos fundamentales",
+    "proceso judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-09_S0002_E23-0024.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322534-0002-9223-2023-23-0024.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.305639"
+}

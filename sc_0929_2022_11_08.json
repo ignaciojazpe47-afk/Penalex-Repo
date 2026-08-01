@@ -1,0 +1,26 @@
+{
+  "id": 37231,
+  "numero": "0929",
+  "fecha": "2022-11-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Ismael Medina Pacheco, quien impugnó la decisión N° 00799 de la Sala Político Administrativa que declaró parcialmente con lugar su recurso contencioso administrativo de nulidad. La Sala Político Administrativa había anulado actos administrativos impugnados y declarado improcedente la solicitud de reincorporación al cargo y el pago de salarios caídos. La Sala Constitucional determinó que no hubo violación de derechos constitucionales y que la decisión impugnada no incurrió en error grotesco, por lo que declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "reincorporación",
+    "sentencia",
+    "jueces",
+    "constitución",
+    "actos_administrativos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión del Consejo de la Judicatura",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-08_S0929_E18-0035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320617-0929-81122-2022-18-0035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.400042"
+}

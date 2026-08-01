@@ -1,0 +1,24 @@
+{
+  "id": 30599,
+  "numero": "0645",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una solicitud de revisión constitucional interpuesta por los ciudadanos Juan Carlos Angulo Márquez y María Teresa Angulo Zapata, quienes alegaron que la adopción decretada a favor de Juan Carlos Angulo Palencia fue producto de un proceso fraudulento. La Sala determinó que el proceso de adopción fue viciado por la falta de legitimación activa, dado que el solicitante había fallecido antes de la adopción, lo que llevó a la anulación de la sentencia de adopción emitida el 11 de julio de 2018 por el Tribunal Segundo de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Aragua.",
+  "palabras_clave": [
+    "adopción",
+    "revisión constitucional",
+    "fraude",
+    "legitimación",
+    "error judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de adopción plena",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0645_E22-0475.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325733-0645-30523-2023-22-0475.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.925724"
+}

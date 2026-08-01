@@ -1,0 +1,22 @@
+{
+  "id": 3384,
+  "numero": null,
+  "fecha": "2007-05-18",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Belkis Contreras contra la decisión del Juzgado Superior que declaró inadmisible su acción de amparo. La Sala revocó el fallo del 6 de diciembre de 2006, argumentando que la parte actora había sido notificada de manera tardía y que el plazo de 48 horas para subsanar los defectos de la solicitud era excesivamente corto, lo que vulneraba su derecho a la defensa. Se estableció que el plazo debe interpretarse como dos días, permitiendo así una mejor oportunidad para la corrección de los errores en la solicitud de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-05-18_Constitucional_07_DugartePadron.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.117995"
+}

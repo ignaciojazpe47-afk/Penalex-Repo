@@ -1,0 +1,26 @@
+{
+  "id": 27815,
+  "numero": "0993",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara competente para conocer de la acción de amparo constitucional presentada por la sociedad mercantil Cauchos Río de Oro, C.A. contra un fallo del Juzgado Superior Undécimo que había declarado con lugar una apelación y ordenado el desalojo de la demandante. La Sala, tras revisar el expediente, determinó que la parte actora había abandonado el trámite, ya que transcurrieron más de seis meses sin que se impulsara el procedimiento, lo que llevó a la terminación del mismo por falta de interés procesal. Además, se impuso una multa a la parte actora por su inacción en el proceso.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "contrato",
+    "vencimiento",
+    "procedimiento civil",
+    "competencia",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0993_E23-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339306-0993-211124-2024-23-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.154927"
+}

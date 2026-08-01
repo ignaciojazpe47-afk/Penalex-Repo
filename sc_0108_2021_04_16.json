@@ -1,0 +1,24 @@
+{
+  "id": 38483,
+  "numero": "0108",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de nulidad interpuesta por la Superintendencia de Actividades Hípicas contra la reforma de la Ordenanza de Impuestos sobre Juegos y Apuestas Lícitas del Municipio Bolivariano Libertador. La Sala se declaró competente para conocer del caso, argumentando que la ordenanza impugnada podría estar viciada de inconstitucionalidad al imponer cargas tributarias que competen al Poder Público Nacional.\n\nLa decisión incluye la suspensión de los efectos de la ordenanza impugnada, considerando que su aplicación podría causar daños irreparables a los contribuyentes. Se ordenó la notificación a las partes involucradas y la remisión del expediente al Juzgado de Sustanciación para continuar con el procedimiento correspondiente.\n\nFinalmente, se destaca que la Sala enfatiza la importancia de ponderar los intereses en conflicto y la necesidad de proteger los derechos de los ciudadanos frente a posibles abusos en la aplicación de normativas municipales.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanza municipal",
+    "impuestos",
+    "juegos",
+    "apuestas"
+  ],
+  "titulo": "Sentencia que admite demanda de nulidad contra ordenanza municipal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0108_E19-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311821-0108-16421-2021-19-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.894678"
+}

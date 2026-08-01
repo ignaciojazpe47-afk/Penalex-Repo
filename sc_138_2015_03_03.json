@@ -1,0 +1,24 @@
+{
+  "id": 62201,
+  "numero": "138",
+  "fecha": "2015-03-03",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Katty Belén Urdaneta González contra la sentencia del Juzgado Superior Primero que confirmó la nulidad de un documento de venta de un inmueble. La Sala argumentó que la demandante no fue citada en el juicio de tacha de falsedad, lo que vulneró su derecho al debido proceso. Se determinó que el documento en cuestión fue firmado por una persona fallecida, lo que llevó a declarar la nulidad de los documentos relacionados con la venta del inmueble.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tacha de Documento",
+    "Debido Proceso",
+    "Nulidad",
+    "Comunidad de Gananciales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Tacha de Documento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-03_S138_E14-1270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/174808-138-3315-2015-14-1270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.142299"
+}

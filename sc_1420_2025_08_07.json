@@ -1,0 +1,25 @@
+{
+  "id": 21673,
+  "numero": "1420",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por la sociedad mercantil Concreto Premezclado Melemillca, C.A. en relación a una sentencia dictada por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil, Tránsito, Agrario, Bancario y Marítimo del estado Sucre. La solicitud se fundamenta en la violación de derechos constitucionales a la defensa y al debido proceso debido a omisiones del defensor ad litem en el juicio primigenio.\n\nLa Sala determina su competencia para conocer la solicitud de revisión y ordena al juzgado remitente que envíe el expediente correspondiente para su análisis. Se establece un plazo de cinco días para el cumplimiento de esta orden, con la advertencia de sanciones en caso de incumplimiento.\n\nFinalmente, se ordena la notificación electrónica del juzgado para asegurar el cumplimiento de lo dispuesto, garantizando así la tutela efectiva de los derechos constitucionales de la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "sentencias",
+    "tribunales",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1420_E25-0622.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347290-1420-7825-2025-25-0622.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.036698"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 61903,
+  "numero": "30",
+  "fecha": "2015-02-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Manuel Castro Bertolo contra la sentencia del Juzgado Superior Noveno, que había confirmado una decisión de desalojo. Se argumenta que la parte demandante no fue debidamente citada y que se vulneraron sus derechos al debido proceso. Sin embargo, la Sala concluye que la auto-citación del demandante fue válida y que la sentencia impugnada no violó sus derechos constitucionales, ya que se respetaron los procedimientos establecidos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "auto-citación",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-13_S30_E15-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174289-30-13215-2015-15-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.552233"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 47316,
+  "numero": "0412",
+  "fecha": "2018-06-21",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1053 en el expediente N° 2018-0200, donde se resolvió a favor de la acción de amparo constitucional interpuesta por Pedro Alba Linares contra las decisiones del Tribunal Vigésimo Séptimo de Primera Instancia de Protección de Niños, Niñas y Adolescentes. La Sala consideró que existían violaciones a los derechos del niño, lo que justificó la intervención del Tribunal para restablecer el orden público constitucional y garantizar el interés superior de la niña involucrada.\n\nSe ordenó la suspensión de las medidas dictadas por el Consejo de Protección de Niños, Niñas y Adolescentes a favor de la madre, Isabel Antonieta Rinaldo Andazora, y se decretó la custodia provisional de la niña a favor de su padre, Pedro Alba Linares. La Sala enfatizó la necesidad de proteger a la niña de situaciones de riesgo y maltrato, considerando las pruebas presentadas que evidenciaban la vulneración de sus derechos.\n\nFinalmente, la Sala avocó el conocimiento de los procedimientos relacionados con la custodia y el proceso penal que enfrenta la madre, ordenando la remisión de los expedientes pertinentes para garantizar una resolución justa y acorde con el interés superior de la niña.",
+  "palabras_clave": [
+    "custodia",
+    "amparo constitucional",
+    "interés superior del niño",
+    "maltrato infantil",
+    "protección de niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-21_S0412_E18-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212286-0412-21618-2018-18-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.876822"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 26895,
+  "numero": "0426",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por Edgar José Fernández Ruiz, pero decide no ha lugar a la misma. La revisión se solicitó en relación a la sentencia N° 1365 de la Sala de Casación Social, que había declarado con lugar un recurso de casación y modificado aspectos de la sentencia de primera instancia. La Sala concluye que no se evidencian infracciones grotescas ni violaciones a derechos fundamentales, y que la revisión no contribuye a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "derecho a la defensa",
+    "debido proceso",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0426_E17-0670.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338203-0426-251024-2024-17-0670.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.488023"
+}

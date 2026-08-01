@@ -1,0 +1,23 @@
+{
+  "id": 33520,
+  "numero": "1857",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Corte Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por los abogados de José Gregorio Sánchez Rojas, confirmando la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamentó en que la supuesta violación de derechos había cesado, dado que el acta de audiencia preliminar fue incorporada al expediente. La Sala constató que se cumplió con el debido proceso y que no existían violaciones a los derechos alegados por la parte actora.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "inadmisibilidad",
+    "debido proceso",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1857_E23-0617.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331389-1857-81223-2023-23-0617.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.469262"
+}

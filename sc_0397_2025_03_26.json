@@ -1,0 +1,23 @@
+{
+  "id": 19096,
+  "numero": "0397",
+  "fecha": "2025-03-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Salem Louis contra la decisión del Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Lara, que había anulado medidas provisionales a su favor. La Sala fundamentó su decisión en que la violación o amenaza de derechos había cesado, dado que se había homologado un acuerdo de custodia entre las partes. Además, se destacó la falta de actividad del accionante en el expediente durante un período prolongado, lo que llevó a considerar el abandono del trámite, aunque se decidió continuar por tratarse de un asunto de orden público relacionado con la protección de los niños.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "niños",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-26_S0397_E21-0766.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342677-0397-26325-2025-21-0766.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.715019"
+}

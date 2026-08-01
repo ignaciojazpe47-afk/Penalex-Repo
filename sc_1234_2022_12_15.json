@@ -1,0 +1,25 @@
+{
+  "id": 38111,
+  "numero": "1234",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Arístides Giuseppe Morales Flores contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico, que declaró inadmisible su acción de amparo constitucional. La Corte de Apelaciones había fundamentado su decisión en que el Tribunal Segundo de Primera Instancia había emitido pronunciamiento sobre la solicitud de cobro de honorarios profesionales, cesando así la violación del derecho constitucional denunciado por el apelante.\n\nLa Sala Constitucional, tras revisar el expediente, determinó que la apelación fue interpuesta de manera tempestiva y que el Tribunal de origen había restituido la situación jurídica al pronunciarse sobre la solicitud de honorarios. Por lo tanto, se declaró sin lugar el recurso de apelación y se confirmó la decisión de la Corte de Apelaciones, considerando que no existía necesidad de dictar reglamentos especiales para regular la competencia en materia de amparo.\n\nFinalmente, la sentencia fue firmada y sellada en Caracas, destacando la autoridad de la Ley y la administración de justicia en nombre de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "honorarios",
+    "sentencia",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1234_E22-0857.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322126-1234-151222-2022-22-0857.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.131200"
+}

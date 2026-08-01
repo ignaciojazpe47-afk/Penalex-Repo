@@ -1,0 +1,27 @@
+{
+  "id": 40577,
+  "numero": "0702",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con una acción de amparo constitucional interpuesta por Luis Augusto Pacheco Rodríguez, quien alegó no haber sido notificado de la audiencia de juicio. La Sala determinó que la acción era inadmisible, ya que el demandante contaba con vías judiciales ordinarias que no había agotado. Se declaró competente para conocer de la acción, pero inadmitió la misma por no haberse ejercido los recursos procesales correspondientes.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "inadmisibilidad",
+    "jurisdicción",
+    "recursos",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0702_E21-0428.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314942-0702-31221-2021-21-0428.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.734651"
+}

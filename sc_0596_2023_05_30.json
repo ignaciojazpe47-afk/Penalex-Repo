@@ -1,0 +1,23 @@
+{
+  "id": 30550,
+  "numero": "0596",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de nulidad por inconstitucionalidad contra el numeral 2 del Artículo 3 del Estatuto Funcionarial de la Asamblea Nacional y la Resolución de la Junta Directiva de la Asamblea Nacional. Se argumentó que estas disposiciones vulneran principios constitucionales relacionados con la estabilidad laboral y la igualdad ante la ley. La sentencia concluyó declarando la perención de la instancia y la extinción del proceso debido a la inacción de la parte demandante durante más de un año.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Asamblea Nacional",
+    "estabilidad laboral"
+  ],
+  "titulo": "Sentencia sobre nulidad de normas de la Asamblea Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0596_E06-0502.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325684-0596-30523-2023-06-0502.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.933276"
+}

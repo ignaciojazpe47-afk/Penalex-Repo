@@ -1,0 +1,24 @@
+{
+  "id": 22097,
+  "numero": "1530",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Contencioso-Administrativo",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ se pronunció sobre un recurso de hecho presentado por la abogada Miryorg Martínez Roa, quien impugnó una decisión del Tribunal Superior Contencioso Administrativo que declaró extemporáneo su recurso de apelación. La Sala, tras analizar el caso, determinó que no era competente para conocer del recurso y declinó su conocimiento al Juzgado Nacional Contencioso Administrativo de la Región Nor-Oriental. La decisión se fundamenta en la falta de competencia para conocer del recurso de hecho planteado.",
+  "palabras_clave": [
+    "competencia",
+    "recurso de hecho",
+    "amparo constitucional",
+    "tribunal contencioso",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1530_E25-0718.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348276-1530-61025-2025-25-0718.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.192288"
+}

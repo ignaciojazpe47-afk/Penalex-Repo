@@ -1,0 +1,25 @@
+{
+  "id": 31409,
+  "numero": "0947",
+  "fecha": "2023-07-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Pedro Miguel Guédez López, actuando en nombre de Héctor Alberto Corona y Fanny Amalia Blanco. La inadmisibilidad se fundamenta en la falta de legitimidad del abogado como representante judicial, ya que no presentó el poder correspondiente que acredite su condición de apoderado judicial.",
+  "palabras_clave": [
+    "revisión",
+    "legitimidad",
+    "apoderado",
+    "inadmision",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-17_S0947_E23-0321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327149-0947-17723-2023-23-0321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.207824"
+}

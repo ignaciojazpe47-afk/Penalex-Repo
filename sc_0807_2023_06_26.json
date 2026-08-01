@@ -1,0 +1,26 @@
+{
+  "id": 31024,
+  "numero": "0807",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por José Vicente Morao, quien no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se evidenció que el accionante no presentó una descripción clara de los hechos ni de los derechos constitucionales que alegaba haber sido vulnerados, lo que imposibilitó el análisis de su solicitud.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "inadmisibilidad",
+    "defensa pública",
+    "tutela judicial",
+    "justicia",
+    "negligencia"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0807_E23-0216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326463-0807-26623-2023-23-0216.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.555833"
+}

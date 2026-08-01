@@ -1,0 +1,26 @@
+{
+  "id": 33168,
+  "numero": "1677",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Luis Eduardo Garmendia Webel contra decisiones del Tribunal Tercero de Primera Instancia en lo Civil y Mercantil de la Circunscripción Judicial del Estado Aragua. La acción fue considerada improcedente debido a que el demandante no agotó las vías ordinarias antes de recurrir al amparo, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nEl tribunal argumentó que el demandante tenía a su disposición recursos ordinarios para impugnar las decisiones que consideraba adversas, y que el uso del amparo no es supletivo de estos medios. La Sala reafirmó que el amparo debe ser un recurso excepcional, y no un sustituto de las vías ordinarias, lo que llevó a la conclusión de que la pretensión de tutela era inadmisible.\n\nFinalmente, se confirma la decisión del juzgado inferior que había declarado inadmisible la acción de amparo, reafirmando la importancia de seguir los procedimientos establecidos en la ley para la protección de los derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "poder judicial",
+    "tutela",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1677_E23-0820.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330846-1677-301123-2023-23-0820.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.172209"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8251,
+  "numero": null,
+  "fecha": "2011-02-07",
+  "anio": 2011,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "YANINA BEATRIZ KARABÍN DE DÍAZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia admitió el recurso de casación interpuesto por la Fiscalía 127° del Ministerio Público, anulando la decisión de la Corte de Apelaciones que había declarado la nulidad de las actuaciones de investigación en el caso de homicidio. La Sala determinó que las actuaciones realizadas desde la apertura de la investigación hasta la acusación no se ajustaron a los principios del debido proceso, afectando el derecho a la defensa de los acusados. En consecuencia, se absolvió a los acusados de los delitos imputados y se ordenó remitir el expediente a otra Sala de la Corte de Apelaciones para que dictara una nueva sentencia.",
+  "palabras_clave": [
+    "homicidio",
+    "nulidad",
+    "debido proceso",
+    "casación"
+  ],
+  "titulo": "Sentencia de Casación sobre nulidad de actuaciones en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2011_28.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:48.438764"
+}

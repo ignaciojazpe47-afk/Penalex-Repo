@@ -1,0 +1,27 @@
+{
+  "id": 21131,
+  "numero": "1187",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Jorge Alonso Jaramillo Hernández contra el Juzgado Superior Segundo de la Circunscripción Judicial del Estado Aragua por la presunta omisión de pronunciamiento en un recurso de apelación. La Sala, tras analizar el caso, determinó que la acción era inadmisible debido a que la situación alegada por el accionante había cesado tras la emisión de una sentencia por parte del Juzgado Superior el 7 de junio de 2024, que resolvió el recurso de apelación interpuesto. En consecuencia, se declaró inadmisible la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "debido_proceso",
+    "sentencia",
+    "recurso_de_apelacion",
+    "jurisdiccion",
+    "constitucional",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1187_E24-0600.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346414-1187-23725-2025-24-0600.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.380955"
+}

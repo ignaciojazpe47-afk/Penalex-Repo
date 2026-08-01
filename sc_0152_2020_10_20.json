@@ -1,0 +1,24 @@
+{
+  "id": 41477,
+  "numero": "0152",
+  "fecha": "2020-10-20",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, a solicitud de la abogada Isabel Ayllón Thielen, apoderada de Banco Exterior, C.A., decidió avocar el conocimiento de la causa signada con el número AP71-R-2016-000908, debido a la falta de pronunciamiento del Juzgado Superior Sexto en lo Civil, Mercantil, Tránsito y Bancario, que ha generado un retardo procesal de casi cuatro años. La solicitud se fundamenta en la presunta violación del orden público constitucional y el derecho al debido proceso de la parte actora.\n\nLa Sala, tras analizar la situación, consideró que el avocamiento era procedente para garantizar la tutela judicial efectiva y evitar mayores perjuicios a la parte demandante. Se ordenó notificar al Juzgado Superior Sexto para que remita el expediente a la Sala Constitucional, a fin de verificar la procedencia del avocamiento solicitado.\n\nFinalmente, se establece que el incumplimiento de la orden de remisión del expediente podría acarrear sanciones para el tribunal de alzada, reafirmando la importancia de la celeridad en la administración de justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial",
+    "derechos constitucionales",
+    "remisión de actuaciones",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-10-20_S0152_E20-0350.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/310161-0152-201020-2020-20-0350.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.420659"
+}

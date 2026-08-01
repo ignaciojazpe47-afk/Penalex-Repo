@@ -1,0 +1,24 @@
+{
+  "id": 16768,
+  "numero": "0120",
+  "fecha": "2023-08-15",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por el abogado José Gabriel Carrasco Ramírez en representación de Jesús Ramón Castellanos Castellanos. Este recurso se originó tras la declaración de improcedencia de una acción de amparo constitucional por parte de la Corte de Apelaciones del Circuito Judicial Penal del estado Carabobo. La Sala, al revisar el expediente, decidió ordenar al presidente del Circuito Judicial Penal que informe sobre el estado procesal de la causa, considerando la posible extinción de la acción penal debido al fallecimiento del demandado.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "fallecimiento",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0120_E19-0726.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353110-0120-2326-2026-19-0726.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.854723"
+}

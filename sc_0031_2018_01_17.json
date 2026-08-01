@@ -1,0 +1,26 @@
+{
+  "id": 45034,
+  "numero": "0031",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible el recurso de apelación interpuesto por el abogado Dámaso Antonio Cabrera Velásquez, quien actuaba como apoderado judicial de la sociedad mercantil Servicios de Administración de Estacionamientos, C.A. (SIPECA). La decisión se fundamentó en la falta de legitimidad del abogado para actuar en nombre de la empresa, ya que no presentó el poder correspondiente en forma adecuada.\n\nSe argumentó que la acción de amparo constitucional no cumplía con los requisitos procesales necesarios, lo que llevó a la Sala a concluir que no había pruebas suficientes para admitir la acción. La sentencia también destacó la importancia de la representación legal adecuada en los procesos judiciales, enfatizando que la falta de documentación que acreditara dicha representación resultó en la inadmisibilidad de la acción.\n\nFinalmente, se ordenó remitir el expediente al tribunal de origen y se notificó la decisión a las partes involucradas, reafirmando la autoridad del Tribunal Supremo de Justicia en la administración de justicia en nombre de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "inmotivation",
+    "derecho a la defensa",
+    "debido proceso",
+    "acción penal",
+    "medida cautelar",
+    "secuestro",
+    "posesión pacífica"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0031_E17-0735.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206890-0031-17118-2018-17-0735.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.263928"
+}

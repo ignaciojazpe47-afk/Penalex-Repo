@@ -1,0 +1,26 @@
+{
+  "id": 21653,
+  "numero": "1400",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA remitir el expediente al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del estado Carabobo.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La sentencia aborda un conflicto negativo de competencia entre el Juzgado Cuarto de Primera Instancia en lo Civil, Mercantil y Tránsito del estado Carabobo y el Juzgado Nacional Primero Contencioso Administrativo, en relación a una acción de amparo constitucional interpuesta por Vivian Ruiz del Vizo E Iglesias contra el Servicio Autónomo de Registros y Notarías (SAREN). La Sala Constitucional del TSJ declara su competencia para resolver el conflicto y determina que el tribunal competente para conocer la acción es el Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del estado Carabobo.\n\nSe ordena la remisión del expediente al Juzgado Superior Estadal Contencioso Administrativo, enfatizando la importancia de la competencia territorial y material en el contexto de la acción de amparo. La decisión se fundamenta en la necesidad de asegurar el debido proceso y la tutela efectiva de los derechos constitucionales de la parte demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "jurisdicción",
+    "actos administrativos",
+    "derechos",
+    "garantías",
+    "SAREN"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1400_E25-0682.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347254-1400-7825-2025-25-0682.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.037909"
+}

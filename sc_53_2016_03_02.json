@@ -1,0 +1,24 @@
+{
+  "id": 56172,
+  "numero": "53",
+  "fecha": "2016-03-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Gilberto Rúa contra el Servicio Administrativo de Identificación, Migración y Extranjería (SAIME), en la que se denunciaba la violación de derechos fundamentales relacionados con la obtención del pasaporte por ciudadanos venezolanos naturalizados. La Sala aceptó la competencia para conocer la demanda, considerando que la controversia tenía trascendencia nacional, afectando a un grupo amplio de ciudadanos en situación similar.\n\nEn su decisión, la Sala ordenó al SAIME informar sobre la existencia de un procedimiento administrativo especial para la obtención del pasaporte por parte de los ciudadanos naturalizados y estableció que la falta de respuesta a este requerimiento podría acarrear sanciones. La sentencia destaca la importancia de garantizar el derecho a la igualdad ante la ley y la protección de los derechos colectivos de los ciudadanos venezolanos naturalizados.\n\nFinalmente, la Sala admitió la demanda y ordenó la notificación a diversas autoridades, reafirmando su compromiso con la protección de los derechos fundamentales y la justicia social en el país.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "pasaporte",
+    "naturalización",
+    "igualdad ante la ley"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por protección de derechos colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-02_S53_E14-0989.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185726-53-2316-2016-14-0989.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.611013"
+}

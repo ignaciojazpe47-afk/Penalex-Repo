@@ -1,0 +1,26 @@
+{
+  "id": 44522,
+  "numero": "0370",
+  "fecha": "2019-11-22",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto n° 4.019 del 6 de noviembre de 2019, que prorroga el Estado de Excepción y Emergencia Económica en Venezuela. Se argumenta que el Ejecutivo Nacional tiene la facultad de adoptar medidas excepcionales ante situaciones de gravedad que amenazan el orden constitucional y la seguridad de la Nación. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y declara la constitucionalidad del mencionado Decreto, considerando que cumple con los principios y normas de la Constitución.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "derechos humanos",
+    "poder ejecutivo",
+    "legislación",
+    "control constitucional"
+  ],
+  "titulo": "Decisión sobre la constitucionalidad del Decreto n° 4.019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-22_S0370_E19-0511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308229-0370-221119-2019-19-0511.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.370893"
+}

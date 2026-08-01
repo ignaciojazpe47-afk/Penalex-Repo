@@ -1,0 +1,22 @@
+{
+  "id": 35750,
+  "numero": "0407",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer el amparo constitucional interpuesto por Izumi Nakamura Antonacci contra sentencias del Tribunal Décimo Cuarto de Primera Instancia. Se argumenta que el tribunal competente para conocer de la acción es un Tribunal Superior en materia de protección de la niñez y la adolescencia. La decisión se basa en la necesidad de preservar el interés superior de la niña involucrada en el caso y en la correcta aplicación de las normas sobre competencia judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protección de niños",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0407_E21-0362.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318334-0407-2822-2022-21-0362.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.758313"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39338,
+  "numero": "0389",
+  "fecha": "2021-08-20",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 20 de agosto de 2021, declaró sin lugar la revisión constitucional solicitada por María Guadalupe Rivas Mujica, quien impugnaba la sentencia N° 01134 de la Sala Político Administrativa. Esta última había declarado sin lugar el recurso contencioso administrativo de nulidad interpuesto por Rivas, relacionado con su destitución como Jueza de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui, por incurrir en falta disciplinaria según la Ley Orgánica del Consejo de la Judicatura.\n\nLa Sala Constitucional determinó que la revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, y que la sentencia cuestionada había analizado adecuadamente los alegatos y vicios presentados por la solicitante. Se reafirmó que la ley aplicable en el momento de los hechos era la Ley Orgánica del Consejo de la Judicatura, y no el Código de Ética del Juez, que entró en vigencia posteriormente.\n\nFinalmente, la Sala concluyó que no se evidenció ninguna extralimitación en las funciones de la Sala Político Administrativa, y que la solicitud de revisión no cumplía con los requisitos para ser admitida, por lo que se declaró que no ha lugar la misma.",
+  "palabras_clave": [
+    "irretroactividad",
+    "derechos",
+    "administración",
+    "sanciones",
+    "justicia",
+    "revisión",
+    "leyes",
+    "jueces"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia N° 01134",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-20_S0389_E19-0396.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/313082-0389-20821-2021-19-0396.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.640979"
+}

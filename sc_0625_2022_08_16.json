@@ -1,0 +1,26 @@
+{
+  "id": 36256,
+  "numero": "0625",
+  "fecha": "2022-08-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0307, declara la competencia para conocer la acción de amparo interpuesta por Nina Jacinta Hernández contra la sentencia N° 2019-0046 de la Corte Primera de lo Contencioso Administrativo. La Sala determina que la acción es inadmisible por abandono del trámite, ya que la parte accionante no mostró interés en continuar con el proceso durante más de seis meses. Se impone una multa a la parte accionante por este abandono.",
+  "palabras_clave": [
+    "apelación",
+    "jurisdicción",
+    "consultas",
+    "interés general",
+    "derecho administrativo",
+    "sentencias",
+    "procuraduría"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-16_S0625_E21-0061-21-0088.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319282-0625-16822-2022-21-0061-21-0088.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.554259"
+}

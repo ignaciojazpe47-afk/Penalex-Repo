@@ -1,0 +1,26 @@
+{
+  "id": 23964,
+  "numero": "2154",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00019 dictada el 6 de febrero de 2025, por la Sala Político Administrativa, que había declarado firme la improcedencia de la eximente de responsabilidad penal tributaria y parcialmente con lugar la apelación de GALAXIA MÉDICA, C.A. La Sala Constitucional determinó que no hubo vulneración de derechos constitucionales y que la Sala Político Administrativa actuó conforme a derecho. Por lo tanto, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sanciones tributarias",
+    "aplicación retroactiva",
+    "derechos constitucionales",
+    "Código Orgánico Tributario",
+    "principio de legalidad",
+    "control difuso"
+  ],
+  "titulo": "Revisión de la sentencia N° 00019 dictada por la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2154_E25-0802.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352027-2154-121225-2025-25-0802.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.741123"
+}

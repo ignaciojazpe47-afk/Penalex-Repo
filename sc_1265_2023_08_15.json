@@ -1,0 +1,25 @@
+{
+  "id": 34157,
+  "numero": "1265",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre una acción de amparo interpuesta por la sociedad mercantil CONSTRUCTORA ARZA C.A. contra la omisión de pronunciamiento del Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario del Estado Aragua. Se declara competente para conocer del caso y se ordena al juzgado que informe sobre el estado actual del juicio relacionado con la intimación y estimación de honorarios profesionales.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "honorarios",
+    "procedimiento",
+    "justicia",
+    "sociedad mercantil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1265_E23-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328469-1265-15823-2023-23-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.858854"
+}

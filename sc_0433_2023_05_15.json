@@ -1,0 +1,24 @@
+{
+  "id": 30214,
+  "numero": "0433",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por José Gregorio Correa Fernández en representación de Orlando José Vásquez Ojeda, debido a la falta de legitimación. La decisión se basa en la revisión de la sentencia dictada por la Sala Única de la Corte de Apelaciones, que había declarado con lugar la acción de amparo, la cual fue anulada por esta Sala Constitucional. Se resalta la importancia de garantizar el derecho a la defensa y el debido proceso en el contexto de la justicia penal.",
+  "palabras_clave": [
+    "medida cautelar",
+    "privación de libertad",
+    "derechos humanos",
+    "debido proceso",
+    "violencia de género"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0433_E21-0651.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325053-0433-15523-2023-21-0651.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.045888"
+}

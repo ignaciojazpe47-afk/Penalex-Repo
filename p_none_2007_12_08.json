@@ -1,0 +1,24 @@
+{
+  "id": 7913,
+  "numero": null,
+  "fecha": "2007-12-08",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Condenatoria",
+  "ponente": "Miriam Morandy Mijares",
+  "resumen": "El Tribunal Segundo Mixto de Juicio condenó a Eladio Antonio Torres Mogollón a veintiséis años y nueve meses de prisión por homicidio intencional calificado y violación de una niña de siete años. Los hechos ocurrieron el 24 de noviembre de 2004, cuando la niña fue atacada y posteriormente desmembrada. La sentencia se fundamentó en la valoración de pruebas testimoniales y periciales que demostraron la culpabilidad del acusado, quien fue visto en el lugar de los hechos y tenía acceso al apartamento donde ocurrió el crimen.\nLa Corte de Apelaciones rectificó la pena a veinticinco años de prisión, considerando que la decisión del tribunal de juicio fue motivada y que las pruebas eran suficientes para establecer la culpabilidad del acusado. Se destacó la importancia de la prueba de luminol, que evidenció la presencia de sangre en el lugar del crimen, así como la habilidad del acusado como escultor, lo que se consideró relevante para la ejecución del crimen.\nEl fallo fue objeto de apelación, pero la Corte de Apelaciones mantuvo la condena, desestimando las denuncias de la defensa sobre falta de motivación y contradicción en la sentencia.",
+  "palabras_clave": [
+    "homicidio",
+    "violación",
+    "condena",
+    "prisión",
+    "niña"
+  ],
+  "titulo": "Sentencia condenatoria por homicidio calificado y violación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2008_29.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:56.962823"
+}

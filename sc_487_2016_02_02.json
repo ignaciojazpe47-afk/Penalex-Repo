@@ -1,0 +1,24 @@
+{
+  "id": 58100,
+  "numero": "487",
+  "fecha": "2016-02-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la desaplicación de los artículos 13.3 y 22 del Código Penal, que establecen la pena accesoria de sujeción a la vigilancia de la autoridad. Se determinó que dicha pena es excesiva y contraria al derecho a la libertad personal, ya que limita la libertad de un individuo que ya ha cumplido su condena. La Sala declaró la extinción de la pena accesoria y mantuvo la validez de la pena principal, enfatizando la necesidad de adecuar el ordenamiento jurídico a la Constitución.",
+  "palabras_clave": [
+    "desaplicación",
+    "pena accesoria",
+    "sujeción a la vigilancia",
+    "libertad personal",
+    "rehabilitación"
+  ],
+  "titulo": "Sentencia sobre la desaplicación de la pena accesoria de sujeción a la vigilancia de la autoridad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-06-28_S487_E11-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/188598-487-28616-2016-11-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.959090"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18473,
+  "numero": "0160",
+  "fecha": "2025-02-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Simón José Arrieta Quintero en representación de Jenny Carol Godoy Gil y Neuro José Montes Arias. La decisión se basa en que ha cesado la violación de derechos alegada, dado que el proceso penal se encuentra en curso y se han tomado medidas para garantizar el debido proceso. La Sala reafirma su competencia para conocer la acción, pero concluye que no procede el amparo debido a la falta de actualidad de la lesión denunciada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "debido proceso",
+    "justicia",
+    "tutela judicial",
+    "violencia",
+    "niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-18_S0160_E23-0531.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341577-0160-18225-2025-23-0531.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.758862"
+}

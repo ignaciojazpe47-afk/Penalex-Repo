@@ -1,0 +1,26 @@
+{
+  "id": 16360,
+  "numero": "0363",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE por cosa juzgada",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por Gilberto Emiro Correa Romero, debido a que ya existe cosa juzgada respecto al fallo N° RC.000594 de la Sala de Casación Civil. Se establece que la Sala actuó conforme a derecho al declarar sin lugar el recurso de casación formalizado por el solicitante. Además, se hace un llamado a los abogados del solicitante para que eviten presentar solicitudes duplicadas que entorpezcan el trabajo del Tribunal.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "revisión",
+    "sentencia",
+    "derecho",
+    "tribunal",
+    "procedimiento",
+    "acción"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0363_E21-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354372-0363-25326-2026-21-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.564959"
+}

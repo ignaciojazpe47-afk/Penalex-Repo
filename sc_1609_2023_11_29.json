@@ -1,0 +1,25 @@
+{
+  "id": 33100,
+  "numero": "1609",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Raúl Coromoto Orta Marmignón, presidente de la sociedad mercantil Multirepuestos El Frenazo, C.A., en relación a una sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Portuguesa. La sentencia recurrida había declarado con lugar una demanda de reivindicación, revocando un fallo anterior que había declarado sin lugar dicha demanda.\nLa Sala, tras analizar los argumentos de la parte solicitante, concluyó que no se evidenciaron infracciones a derechos constitucionales ni errores en la interpretación de la ley, por lo que declaró que no había lugar a la revisión solicitada. Además, se consideró que la decisión del juzgado inferior se basó en una correcta apreciación de los hechos y del derecho aplicable.\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión, dejando firme la sentencia del Juzgado Superior.",
+  "palabras_clave": [
+    "reivindicación",
+    "posesión",
+    "propiedad",
+    "títulos",
+    "herencia",
+    "carga de la prueba"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre demanda de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1609_E23-0716.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330776-1609-291123-2023-23-0716.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.986823"
+}

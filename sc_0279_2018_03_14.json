@@ -1,0 +1,25 @@
+{
+  "id": 46006,
+  "numero": "0279",
+  "fecha": "2018-03-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer de la solicitud de revisión de la sentencia N° 0507, dictada por la Sala de Casación Social. Se determina que la solicitud es inadmisible debido a la falta de presentación del poder original o copia certificada por parte de la abogada que actúa en nombre del solicitante.",
+  "palabras_clave": [
+    "legitimidad",
+    "representación",
+    "revisión constitucional",
+    "apoderado judicial",
+    "inadmision",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0279_E17-0719.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208723-0279-14318-2018-17-0719.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.839758"
+}

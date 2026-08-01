@@ -1,0 +1,25 @@
+{
+  "id": 33082,
+  "numero": "1592",
+  "fecha": "2001-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, confirma la inadmisibilidad del recurso de amparo interpuesto por Enrry de Jesús Moreno Díaz, argumentando que existían vías ordinarias para resolver la controversia. Se destaca que el Juzgado Superior Agrario había revocado el auto de admisión del amparo y declarado inadmisible la pretensión constitucional. La Sala también señala errores en el cómputo de los plazos procesales por parte del juzgado inferior, pero reafirma la validez de la decisión tomada.",
+  "palabras_clave": [
+    "vías de hecho",
+    "jurisdicción contencioso administrativa",
+    "amparo constitucional",
+    "indemnización",
+    "situaciones jurídicas",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1592_E20-0360.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330757-1592-291123-2023-20-0360.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.457623"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 60122,
+  "numero": "929",
+  "fecha": "2016-11-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior que declaró con lugar el recurso de apelación y la acción de amparo constitucional interpuesta por Douglas Belloso. El tribunal consideró que el desalojo de un local comercial no solicitado en el juicio de desalojo original violó el derecho al debido proceso. La Sala concluyó que la ejecución forzosa de dicho local era improcedente, ya que no formaba parte del fallo original, y por lo tanto, se ordenó la restitución de Belloso en su condición de arrendatario del local en cuestión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho al debido proceso",
+    "acción de amparo"
+  ],
+  "titulo": "Revisión Constitucional sobre desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-02_S929_E16-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/191711-929-21116-2016-16-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.953293"
+}

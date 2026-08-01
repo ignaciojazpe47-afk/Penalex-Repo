@@ -1,0 +1,25 @@
+{
+  "id": 30218,
+  "numero": "0437",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Perención de la instancia",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la perención de la instancia y la extinción del proceso en la demanda de nulidad por inconstitucionalidad interpuesta por la Universidad Central de Venezuela. La decisión se basa en el incumplimiento de la parte actora de la carga procesal de retirar y publicar el cartel de emplazamiento a los interesados, lo que llevó a la extinción de la instancia. La sentencia se fundamenta en la normativa que regula el procedimiento ante el Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "cartel de emplazamiento",
+    "universidad",
+    "administración pública",
+    "derecho procesal"
+  ],
+  "titulo": "Sentencia sobre la perención de la instancia en demanda de nulidad por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0437_E16-0316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325057-0437-15523-2023-16-0316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.882199"
+}

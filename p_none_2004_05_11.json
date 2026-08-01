@@ -1,0 +1,22 @@
+{
+  "id": 3100,
+  "numero": null,
+  "fecha": "2004-05-11",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Magistrada Blanca Rosa Mármol de León presenta la decisión del Tribunal Supremo de Justicia en Sala de Casación Penal, donde se declara sin lugar el recurso de casación interpuesto por el Fiscal para el Régimen Procesal Transitorio del Estado Mérida contra la sentencia de absolución del acusado Ruben Zerpa Molina por homicidio calificado. La Sala considera que no hubo violación de la norma procesal en la admisión del recurso y que la duda razonable no fue adecuadamente fundamentada por el tribunal de juicio, pero se concluye que anular la sentencia sería inútil, ya que probablemente llevaría a una nueva absolución.",
+  "palabras_clave": [
+    "Homicidio Calificado",
+    "Casación Penal",
+    "Duda Razonable"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-05-11_CasacionPenal_C030447_ElRecurso.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.731968"
+}

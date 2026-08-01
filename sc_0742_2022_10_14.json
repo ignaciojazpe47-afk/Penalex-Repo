@@ -1,0 +1,26 @@
+{
+  "id": 36660,
+  "numero": "0742",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró competente para conocer de la acción de amparo interpuesta por Marcos Wilmen Fuentes Sifontes contra una sentencia del Tribunal Superior Tercero del Trabajo. La acción fue presentada debido a la falta de motivación en la decisión del tribunal inferior que declaró sin lugar la apelación de la parte accionante. La Sala observó que hubo un abandono del trámite por parte del accionante, ya que no se realizaron actuaciones durante más de seis meses, lo que llevó a declarar terminado el procedimiento por abandono.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "tutela",
+    "derechos",
+    "interés",
+    "jurisprudencia",
+    "constitucional",
+    "multa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0742_E16-0310.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319831-0742-141022-2022-16-0310.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.187320"
+}

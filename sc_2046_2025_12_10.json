@@ -1,0 +1,22 @@
+{
+  "id": 23826,
+  "numero": "2046",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Freddy Antonio Contreras, debido a la imposibilidad de subsanar el escrito de acción de amparo. Se argumenta que el demandante no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a la Sala a tomar esta decisión. La sentencia se fundamenta en la necesidad de garantizar el derecho de acceso a la justicia y la correcta presentación de las demandas.",
+  "palabras_clave": [
+    "Amparo",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2046_E21-0017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351859-2046-101225-2025-21-0017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.784779"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 35230,
+  "numero": "0246",
+  "fecha": "2022-05-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia conoció de una acción de amparo constitucional presentada por el abogado Miguel Ángel Puentes Urgilés en representación de Ender Enrique Montiel Hernández, contra un fallo del Juzgado Superior Primero del Circuito Judicial del Trabajo. El demandante alegó la violación de sus derechos a la tutela judicial efectiva y al debido proceso, argumentando que el tribunal había fijado una audiencia de apelación sin respetar los plazos legales establecidos.\n\nLa Sala determinó su competencia para conocer la acción y ordenó al Juzgado Superior que remitiera copia certificada de todas las actuaciones procesales desde la decisión del 26 de noviembre de 2019 hasta la sentencia objeto del amparo, dictada el 20 de agosto de 2021. Se destacó la importancia de cumplir con los plazos establecidos por la ley para garantizar el derecho a la defensa del trabajador.\n\nFinalmente, la Sala resolvió que el incumplimiento de la orden impartida podría acarrear sanciones, reafirmando así su autoridad y el respeto a los procedimientos legales en el ámbito laboral.",
+  "palabras_clave": [
+    "amparo",
+    "trabajo",
+    "jurisprudencia",
+    "procedimiento",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0246_E21-0789.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317652-0246-29622-2022-21-0789.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.430256"
+}

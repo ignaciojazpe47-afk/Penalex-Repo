@@ -1,0 +1,22 @@
+{
+  "id": 37500,
+  "numero": "1021",
+  "fecha": "2020-11-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la abogada María Loriana Lara en nombre de Bogdan Iordachi Stefanescu, quien solicitó que se revisara la decisión de la Sala de Casación Penal que declaró procedente su extradición a Rumania. La Sala Constitucional determinó su competencia y analizó los argumentos presentados, concluyendo que no se cumplían las condiciones necesarias para admitir el avocamiento debido a que la sentencia de extradición ya era firme.",
+  "palabras_clave": [
+    "avocamiento",
+    "extradición",
+    "Constitucional"
+  ],
+  "titulo": "Solicitud de avocamiento de extradición pasiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-21_S1021_E21-0754.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320927-1021-211122-2022-21-0754.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.417179"
+}

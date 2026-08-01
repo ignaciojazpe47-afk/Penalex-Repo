@@ -1,0 +1,25 @@
+{
+  "id": 32254,
+  "numero": "1407",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Valentino Raffaele Crocetta Yanuario, a través de su abogado, en relación a una sentencia del Juzgado Superior que declaró inadmisible una demanda de desalojo e indemnización por daños. La Sala determinó que no había lugar para la revisión, ya que la sentencia impugnada no contravenía criterios jurisprudenciales establecidos y no vulneraba derechos fundamentales del solicitante.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "inepta acumulación",
+    "procedimiento civil",
+    "indemnización",
+    "canones insolutos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo e indemnización",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1407_E23-0789.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329282-1407-111023-2023-23-0789.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.404762"
+}

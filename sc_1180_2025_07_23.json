@@ -1,0 +1,26 @@
+{
+  "id": 21116,
+  "numero": "1180",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por los abogados de Doria Alicia Duque Parra y Jorge Luis Arenas Barreto, contra la sentencia de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolívar, que había declarado improcedente la acción de amparo constitucional. La Sala fundamentó su decisión en la inadmisibilidad sobrevenida de la acción de amparo, al considerar que había cesado la violación de derechos constitucionales denunciada por los accionantes.\n\nSe argumentó que la acción de amparo no era procedente, ya que los agraviados habían sido presentados ante el tribunal de control y se había fijado una nueva fecha para la audiencia de presentación. La Sala también destacó que la acción de amparo no puede ser utilizada como un recurso de apelación y que la competencia para conocer de la acción de amparo en modalidad de habeas corpus corresponde al tribunal de control, salvo en casos excepcionales.\n\nFinalmente, la Sala revocó la sentencia de la Corte de Apelaciones y declaró inadmisible la acción de amparo, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo constitucional",
+    "libertad personal",
+    "temporalidad",
+    "garantías procesales",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1180_E20-0391.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346398-1180-23725-2025-20-0391.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.381933"
+}

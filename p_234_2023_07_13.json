@@ -1,0 +1,22 @@
+{
+  "id": 31334,
+  "numero": "234",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "MAIKEL JOSÉ MORENO PÉREZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara procedente la solicitud de extradición activa de la ciudadana Ingrid Lorena Roa, requerida por el delito de tráfico ilícito de sustancias estupefacientes y psicotrópicas en la modalidad de transporte. La decisión se fundamenta en la existencia de una orden de aprehensión emitida por el Juzgado Cuarto de Primera Instancia en Funciones de Juicio del estado Zulia, así como en la verificación de los requisitos exigidos por la normativa nacional e internacional sobre extradición.\nLa Sala establece que el delito por el cual se solicita la extradición es grave y no se considera político, cumpliendo con los principios de territorialidad, doble incriminación y no prescripción. Además, se garantiza que la ciudadana será juzgada con todas las garantías procesales establecidas en la Constitución de la República Bolivariana de Venezuela.\nFinalmente, se ordena remitir copia certificada de la decisión al Poder Ejecutivo Nacional para su cumplimiento.",
+  "palabras_clave": [
+    "extradición",
+    "tráfico ilícito",
+    "sustancias estupefacientes"
+  ],
+  "titulo": "Solicitud de Extradición Activa de Ingrid Lorena Roa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2023-07-13_S234_E23-216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/julio/327011-234-13723-2023-E23-216.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:50.977403"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 37345,
+  "numero": "0961",
+  "fecha": "2018-01-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Adrián Guijarro en representación de Yunier Javier Acevedo Morán, contra la decisión N° 001-2018 de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. Esta decisión anuló un fallo anterior que había declarado no culpable a Acevedo Morán por homicidio calificado, ordenando un nuevo juicio. La Sala argumenta que la situación jurídica denunciada se hizo irreparable debido a la existencia de una sentencia condenatoria firme en el proceso penal, lo que impide el restablecimiento de la situación jurídica infringida.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "apelación",
+    "derechos fundamentales",
+    "justicia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Yunier Javier Acevedo Morán",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-11_S0961_E18-0212.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320747-0961-111122-2022-18-0212.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.248873"
+}

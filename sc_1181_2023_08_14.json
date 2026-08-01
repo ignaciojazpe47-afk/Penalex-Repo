@@ -1,0 +1,25 @@
+{
+  "id": 34074,
+  "numero": "1181",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de agosto de 2023, declaró que no ha lugar la solicitud de revisión presentada por el abogado Gabriel Puche Urdaneta, en representación del ciudadano Ender Eduardo González, respecto a la sentencia dictada el 28 de noviembre de 2018 por el Juzgado Nacional Contencioso Administrativo. La Sala consideró que el fallo impugnado no contraviene principios constitucionales y que la revisión no constituye una tercera instancia, sino un mecanismo excepcional para la unificación de criterios constitucionales.\n\nSe argumentó que el Juzgado Nacional había cumplido con las fases del proceso y que las normas que sustentaron la decisión administrativa de destitución estaban debidamente fundamentadas. La Sala concluyó que la solicitud de revisión no contribuiría a la uniformidad de la interpretación de las normas y principios constitucionales, ya que lo que se evidenció fue una disconformidad del solicitante con la decisión impugnada.\n\nFinalmente, se reafirmó la competencia de la Sala para conocer de la solicitud, pero se determinó que no había lugar a la misma, manteniendo así la decisión del Juzgado Nacional Contencioso Administrativo.",
+  "palabras_clave": [
+    "derecho administrativo",
+    "debido proceso",
+    "igualdad ante la ley",
+    "confianza legítima",
+    "sanciones administrativas",
+    "función policial"
+  ],
+  "titulo": "Revisión de sentencia sobre destitución de funcionario policial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1181_E21-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328385-1181-14823-2023-21-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.863702"
+}

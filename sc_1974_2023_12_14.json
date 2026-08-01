@@ -1,0 +1,25 @@
+{
+  "id": 33827,
+  "numero": "1974",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Wilkar Vicente Sequera Garrido, quien solicitó un amparo constitucional contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción. La Corte de Apelaciones había fundamentado su decisión en la falta de legitimidad del recurrente para impugnar la decisión de un tribunal inferior, así como en el consentimiento expreso del agraviado por la inacción en el lapso correspondiente. La Sala Constitucional confirmó la inadmisibilidad del recurso, argumentando que la acción de amparo fue presentada fuera del plazo legal establecido.",
+  "palabras_clave": [
+    "amparo",
+    "cosa juzgada",
+    "derechos fundamentales",
+    "tribunales",
+    "decisión judicial",
+    "apelación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1974_E22-0380.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331944-1974-141223-2023-22-0380.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.439140"
+}

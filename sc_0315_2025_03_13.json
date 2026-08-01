@@ -1,0 +1,26 @@
+{
+  "id": 18789,
+  "numero": "0315",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 5 de junio de 2023 por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario, que declaró inadmisible la acción de amparo constitucional interpuesta por la Sociedad Mercantil Factory Shoes 11, C.A. contra la Sociedad Mercantil Inversiones Romaco 3000, C.A. La Sala, al analizar los argumentos presentados, decidió declarar con lugar el recurso de apelación y revocar la sentencia impugnada, considerando que la acción de amparo era procedente y que existían vicios en el proceso que justificaban la revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "nulidad",
+    "medida cautelar",
+    "cosa juzgada",
+    "poder",
+    "sociedades"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0315_E23-0933.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342260-0315-13325-2025-23-0933.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.734617"
+}

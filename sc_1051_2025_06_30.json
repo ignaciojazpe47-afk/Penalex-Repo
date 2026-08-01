@@ -1,0 +1,27 @@
+{
+  "id": 20653,
+  "numero": "1051",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la apelación ejercida por Ruth Omaira Ángel Pérez, pero sin lugar la misma, confirmando la decisión del Juzgado Superior Tercero que declaró inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamenta en que la accionante dejó transcurrir más de seis meses desde las decisiones que consideraba lesivas, lo que implica un consentimiento expreso a la presunta violación de sus derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "caducidad",
+    "inadmision",
+    "derechos",
+    "garantías",
+    "jurisprudencia",
+    "acción",
+    "apelación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1051_E25-0423.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345327-1051-30625-2025-25-0423.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.515155"
+}

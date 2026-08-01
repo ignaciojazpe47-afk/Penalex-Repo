@@ -1,0 +1,25 @@
+{
+  "id": 17481,
+  "numero": "0604",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Anabel del Carmen Hernández Robles",
+  "resumen": "El recurso de interpretación constitucional fue interpuesto por Ciro Dolores Guerrero, en su calidad de vicepresidente de una asociación civil, solicitando la interpretación de varios artículos de la Constitución relacionados con la jubilación. La Sala Constitucional, tras revisar la solicitud, determinó que no se cumplían los requisitos de admisibilidad, ya que la petición no especificaba con claridad la ambigüedad o contradicción en las normas constitucionales. Además, se observó que el reclamo fundamental del recurrente se refería a un derecho a la jubilación, lo cual no correspondía al objeto del recurso de interpretación.",
+  "palabras_clave": [
+    "recurso de interpretación",
+    "constitución",
+    "jubilación",
+    "inadmision",
+    "derechos laborales",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0604_E25-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355597-0604-13526-2026-25-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.886161"
+}

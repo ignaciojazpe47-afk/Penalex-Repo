@@ -1,0 +1,26 @@
+{
+  "id": 30331,
+  "numero": "0549",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada el 10 de febrero de 2017, que había declarado con lugar un recurso de apelación interpuesto por la parte demandada. La solicitud fue presentada por los coherederos de la Sucesión Vincenzo Pacillo Iannuzzelli, quienes alegaron violaciones a su derecho de propiedad. Sin embargo, la Sala declaró inadmisible la solicitud debido a la falta de presentación de la copia certificada de la decisión objeto de revisión, lo que impidió verificar la presunta lesión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "copia certificada",
+    "notoriedad judicial",
+    "carga procesal",
+    "sentencia",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0549_E17-1191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325181-0549-16523-2023-17-1191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.874737"
+}

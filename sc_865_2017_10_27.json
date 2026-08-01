@@ -1,0 +1,22 @@
+{
+  "id": 54296,
+  "numero": "865",
+  "fecha": "2017-10-27",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta contra la sentencia del Juzgado Superior Segundo del Circuito Judicial del Trabajo de Carabobo, que había revocado una decisión anterior. Se argumenta que el demandante podía recurrir a otros mecanismos legales para restablecer su situación jurídica. Además, se anulan todas las actuaciones procesales posteriores a la solicitud de acumulación de causas, debido a un desorden procesal que afectó la tutela judicial efectiva de los trabajadores. La Sala ordena al tribunal de instancia pronunciarse sobre la acumulación solicitada en un plazo de cinco días.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desorden procesal",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S865_E16-0964.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204658-865-271017-2017-16-964.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:58.576523"
+}

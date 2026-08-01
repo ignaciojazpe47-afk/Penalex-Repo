@@ -1,0 +1,23 @@
+{
+  "id": 50557,
+  "numero": "91",
+  "fecha": "2014-02-10",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, revisó la solicitud de revisión constitucional presentada por los abogados de Alfonso Nicolás de Conno Alaya, quien había sido condenado a 26 años de prisión por violencia sexual. La defensa argumentó la existencia de vicios procesales y la falta de motivación en las decisiones previas, solicitando la nulidad del proceso. La Sala, al analizar los argumentos, concluyó que efectivamente se habían vulnerado derechos fundamentales, como el derecho a la defensa y el debido proceso, y decidió anular la medida privativa de libertad impuesta al solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "violencia sexual"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la medida privativa de libertad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-15_S91_E14-0130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/196883-91-15317-2017-14-0130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:17.067745"
+}

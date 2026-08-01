@@ -1,0 +1,22 @@
+{
+  "id": 17437,
+  "numero": "0214",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jesús Alejandro Machado Ortiz, quien actúa como víctima directa en un proceso penal. La decisión se basa en que la supuesta violación de derechos constitucionales había cesado tras un pronunciamiento del Tribunal de Instancia que subsanó la omisión de pronunciamiento respecto al cierre del juicio oral y público. La Sala concluye que no existe una omisión lesiva que restaurar, ya que el tribunal de instancia está realizando las gestiones necesarias para la evacuación total de la prueba.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0214_E25-1242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353492-0214-11326-2026-25-1242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.569046"
+}

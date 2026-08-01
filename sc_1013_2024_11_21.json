@@ -1,0 +1,26 @@
+{
+  "id": 27835,
+  "numero": "1013",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por los abogados de los ciudadanos Daniel Barreto de Abreu, Maritza María Barreto Goncalves y José Felipe Barreto Azevedo. La decisión se basa en que la Sala Tres de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas había confirmado una medida cautelar de prohibición de salida del país, dictada por el Juzgado Cuadragésimo Primero, en el contexto de un proceso penal por apropiación indebida y agavillamiento.\n\nLa Sala Constitucional argumentó que la decisión impugnada no vulneró las garantías constitucionales y que la motivación de la medida cautelar, aunque no fue exhaustiva, cumplió con los requisitos de razonabilidad. Se destacó que la acción de amparo no satisface los extremos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que la Corte de Apelaciones actuó dentro de su competencia.\n\nFinalmente, se reafirmó que la tutela judicial efectiva no fue vulnerada y que la decisión de la Corte de Apelaciones fue ajustada a derecho, por lo que se desestimó la pretensión de los recurrentes.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "responsabilidad penal",
+    "derechos constitucionales",
+    "sociedades mercantiles",
+    "apropiación indebida",
+    "fraude",
+    "tutela constitucional"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1013_E24-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339326-1013-211124-2024-24-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.140588"
+}

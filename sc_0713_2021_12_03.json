@@ -1,0 +1,23 @@
+{
+  "id": 40588,
+  "numero": "0713",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 250 dictada por la Sala de Casación Penal, que había declarado la nulidad absoluta de un acto procesal en un caso de femicidio agravado. La revisión fue solicitada por el abogado Jafeth Vicente Pons Briñez, actuando como defensor judicial del ciudadano Luis Alejandro Moncada Gómez. La Sala Constitucional encontró vicios en la aplicación de normas procesales y decidió anular la sentencia impugnada, confirmando la decisión de la Corte de Apelaciones que había declarado con lugar la excepción de falta de requisitos formales para intentar la acusación, decretando el sobreseimiento de la causa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "femicidio agravado",
+    "nulidad absoluta",
+    "sobreseimiento"
+  ],
+  "titulo": "Revisión de la sentencia N° 250 de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0713_E19-0705.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314953-0713-31221-2021-19-0705.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.737587"
+}

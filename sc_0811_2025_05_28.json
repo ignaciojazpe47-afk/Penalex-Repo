@@ -1,0 +1,22 @@
+{
+  "id": 20011,
+  "numero": "0811",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Saúl Alberto Pirela Sosa, quien impugnó una sentencia de la Corte de Apelaciones que declaró sin lugar su apelación contra una condena por violencia psicológica. La Sala determinó su competencia para conocer la revisión, basándose en el artículo 336.10 de la Constitución, que le otorga la potestad de revisar sentencias firmes de amparo constitucional y control de constitucionalidad de leyes. Se ordenó la remisión del expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "violencia psicológica",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de condena por violencia psicológica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0811_E25-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344289-0811-28525-2025-25-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.858323"
+}

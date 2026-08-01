@@ -1,0 +1,27 @@
+{
+  "id": 31637,
+  "numero": "0995",
+  "fecha": "2023-08-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Edgar Rivero, en representación de Meiquel José Hernández Huice, contra la decisión de la Sala 10 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala Constitucional determinó que la apelación era procedente, pero finalmente declaró SIN LUGAR el recurso, confirmando la decisión de inadmisibilidad por falta de legitimidad del defensor público para actuar en nombre del imputado, al no presentar la prueba de su designación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "defensa",
+    "competencia",
+    "derechos",
+    "garantías",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S0995_E17-0995.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327526-0995-28723-2023-17-0995.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.209882"
+}

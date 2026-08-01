@@ -1,0 +1,22 @@
+{
+  "id": 20310,
+  "numero": "0895",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Tribunal Primero de Primera Instancia de Juicio del Trabajo de Mérida, relacionado con un desacato a una sentencia de amparo constitucional a favor de Gabriela Alejandra Maldonado López. La sentencia original, dictada el 8 de mayo de 2024, ordenaba el reenganche y restitución de derechos laborales de la demandante, lo cual fue desacatado por la Asociación Civil CEVAM. La Sala decidió ordenar al tribunal de origen remitir el expediente completo para su revisión.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0895_E24-0912.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344690-0895-11625-2025-24-0912.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.300634"
+}

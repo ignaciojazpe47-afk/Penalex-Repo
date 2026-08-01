@@ -1,0 +1,24 @@
+{
+  "id": 3397,
+  "numero": null,
+  "fecha": "2007-07-16",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por Zoraida Josefina Colls de Colina contra la decisión del Juzgado Superior Cuarto que había declarado con lugar el amparo constitucional de Argenis Barrios. Se ordenó la reposición de la causa al estado de resolver la oposición formulada por Barrios en el juicio principal, garantizando así sus derechos al debido proceso y a la defensa. La Sala también destacó la desproporción en el cobro de intereses, que podría considerarse usurario, y la necesidad de reestructurar los contratos de préstamo con garantía hipotecaria para evitar abusos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución de hipoteca",
+    "intereses usurarios",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en ejecución de hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-07-16_CasacionCivil_06_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.111975"
+}

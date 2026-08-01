@@ -1,0 +1,24 @@
+{
+  "id": 44742,
+  "numero": "0495",
+  "fecha": "2019-12-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del 4 de diciembre de 2018 del Juzgado Primero de Primera Instancia Agrario de Mérida, que declaró la confesión ficta del ciudadano Ricardo de Armas Dávila en un juicio sobre la constitución de un paso de servidumbre. El solicitante argumentó que el tribunal no consideró adecuadamente sus defensas y que hubo violaciones a su derecho a la defensa y a la tutela judicial efectiva. La Sala concluyó que el juzgado incurrió en inmotivación al no pronunciarse sobre alegatos y pruebas relevantes, lo que llevó a declarar con lugar la revisión y anular la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "confesión ficta",
+    "servidumbre",
+    "derecho a la defensa",
+    "inmotivación"
+  ],
+  "titulo": "Revisión constitucional de sentencia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-04_S0495_E19-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308510-0495-41219-2019-19-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.810874"
+}

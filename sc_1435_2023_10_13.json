@@ -1,0 +1,26 @@
+{
+  "id": 32281,
+  "numero": "1435",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, declara inadmisible la acción de amparo constitucional interpuesta por Amílcar Ramón Briceño Carrillo contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito de Miranda, que declaró prescrita su demanda por indemnización de daños y perjuicios. La Sala argumenta que el demandante no agotó las vías judiciales ordinarias antes de recurrir al amparo, lo que hace que su solicitud sea inadmisible según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se destaca que el demandante no contaba con la asistencia de un abogado, lo que afecta su derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "prescripción",
+    "daños y perjuicios",
+    "tutela constitucional",
+    "derechos humanos",
+    "responsabilidad civil",
+    "acción civil",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1435_E23-0413.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329310-1435-131023-2023-23-0413.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.393392"
+}

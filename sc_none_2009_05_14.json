@@ -1,0 +1,22 @@
+{
+  "id": 12075,
+  "numero": null,
+  "fecha": "2009-05-14",
+  "anio": 2009,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por el CONSORCIO MIRANDA 21 contra una decisión del Juzgado Sexto de Sustanciación, Mediación y Ejecución del Trabajo del Estado Miranda. La Sala declaró con lugar la apelación y revocó la decisión que había declarado inadmisible la pretensión de tutela constitucional, argumentando que la parte actora no había sido debidamente notificada de la continuación del proceso, lo que vulneró su derecho a la defensa y al debido proceso.\nLa Sala consideró que la falta de notificación impidió a la parte actora ejercer su derecho a apelar, lo que justificó la admisión del recurso de amparo. Se ordenó la reposición de la causa al estado de que el Juzgado Superior del Trabajo se pronuncie sobre la admisibilidad de la pretensión de amparo, excluyendo la causal de inadmisión por falta de agotamiento de la vía ordinaria.\nFinalmente, la Sala exhortó a los juzgados a considerar la distinción entre inadmisibilidad e improcedencia en sus decisiones futuras.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de la Sala Constitucional sobre Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2009_RondonHaaz_3.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.948097"
+}

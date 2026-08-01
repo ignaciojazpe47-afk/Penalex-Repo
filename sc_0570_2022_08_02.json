@@ -1,0 +1,22 @@
+{
+  "id": 36201,
+  "numero": "0570",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 416 el 2 de agosto de 2022, en la que se ordena a los Tribunales de la República seguir el procedimiento establecido en sentencias anteriores para la ejecución de un mandamiento de amparo constitucional. Esta decisión se basa en la consulta previa establecida en la sentencia N° 145 del 18 de junio de 2019, la cual fue abandonada por la nueva sentencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución",
+    "mandamiento"
+  ],
+  "titulo": "Sentencia sobre la ejecución de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0570_E20-0472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319227-0570-12822-2022-20-0472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.648523"
+}

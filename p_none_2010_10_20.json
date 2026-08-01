@@ -1,0 +1,22 @@
+{
+  "id": 10908,
+  "numero": null,
+  "fecha": "2010-10-20",
+  "anio": 2010,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Avocamiento",
+  "decision": "Inadmisible",
+  "ponente": "ELADIO RAMÓN APONTE APONTE",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por las fiscales del Ministerio Público, en relación con un caso de homicidio. La solicitud fue inadmisible debido a que no se demostraron violaciones graves al debido proceso ni se cumplieron las condiciones requeridas para la admisión del avocamiento. La Corte de Apelaciones había anulado una sentencia condenatoria y ordenado un nuevo juicio, lo que generó la impugnación por parte del Ministerio Público.",
+  "palabras_clave": [
+    "avocamiento",
+    "homicidio",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_b91227ae44a8d522ed5ceff0e91b196b_RamonAponte.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:49.564536"
+}

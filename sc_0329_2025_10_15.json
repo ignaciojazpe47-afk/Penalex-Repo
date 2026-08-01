@@ -1,0 +1,22 @@
+{
+  "id": 17625,
+  "numero": "0329",
+  "fecha": "2025-10-15",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional se pronunció sobre la acción de amparo constitucional interpuesta por Rafael Antonio Amaya Rondón, quien alegó la omisión del Juzgado Nacional Primero Contencioso Administrativo de dictar sentencia en su caso. La Sala declaró la competencia para conocer de la acción y ordenó al juzgado que remitiera un informe sobre el estado del expediente. Se constató que había transcurrido un tiempo excesivo sin que se dictara sentencia, lo que constituyó una violación a los derechos constitucionales del demandante, específicamente al debido proceso y a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Rafael Antonio Amaya Rondón",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0329_E25-0836.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354309-0329-25326-2026-25-0836.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.761655"
+}

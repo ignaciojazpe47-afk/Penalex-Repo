@@ -1,0 +1,24 @@
+{
+  "id": 30286,
+  "numero": "0505",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "DRA. MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó las decisiones N° 000758 y N° 000279, dictadas por la Sala de Casación Civil, en relación a la nulidad de una venta y el cobro de un pagaré. Se argumentó que las decisiones anteriores incurrieron en violaciones al derecho a la defensa y al debido proceso, al no considerar adecuadamente las pruebas y alegatos presentados por la parte demandada. La Sala Constitucional, al analizar los alegatos, determinó que había lugar para la revisión y ordenó la remisión del expediente correspondiente para garantizar el cumplimiento de los derechos procesales de las partes involucradas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de venta",
+    "cobro de pagaré",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencias de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0505_E23-0283.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325126-0505-15523-2023-23-0283.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.041464"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30766,
+  "numero": "0714",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Yolimar Ramona Bermúdez Rodríguez en representación del ciudadano Jorge Eliecer Días Collazos, contra la presunta omisión de la Sala de Casación Penal en un proceso de extradición. La decisión se fundamenta en la prohibición expresa de la ley que impide el ejercicio de la acción de amparo contra decisiones u omisiones de las Salas del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "jurisdicción",
+    "tribunal",
+    "decisiones",
+    "prohibición"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0714_E19-0717.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325985-0714-9623-2023-19-0717.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.421115"
+}

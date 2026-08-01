@@ -1,0 +1,25 @@
+{
+  "id": 38379,
+  "numero": "0057",
+  "fecha": "2021-04-07",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de varias sentencias dictadas por la Sala de Casación Social. Se plantearon dos solicitudes de revisión de la sentencia N° 375 y sus aclaratorias, en el contexto de un proceso de acumulación de causas. La Sala decidió acumular las causas para su resolución conjunta, en virtud de los principios de economía procesal y no contradicción.",
+  "palabras_clave": [
+    "acumulación procesal",
+    "economía procesal",
+    "no contradicción",
+    "Código de Procedimiento Civil",
+    "sentencias contradictorias",
+    "principios del proceso"
+  ],
+  "titulo": "Sentencia sobre acumulación de causas en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-07_S0057_E20-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311614-0057-7421-2021-20-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.748391"
+}

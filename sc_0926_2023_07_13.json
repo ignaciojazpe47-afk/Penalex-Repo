@@ -1,0 +1,26 @@
+{
+  "id": 31251,
+  "numero": "0926",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Yerkis Carolina Henríquez Terán, quien impugnó la decisión del Tribunal Superior Segundo que declaró inadmisible su acción de amparo. La apelante alegó vulneraciones a sus derechos constitucionales debido a la remisión de su causa a otro tribunal. Sin embargo, la Sala determinó que existía un medio judicial ordinario para resolver la controversia, lo que llevó a declarar la acción de amparo inadmisible. Finalmente, la Sala confirmó la decisión del tribunal inferior, declarando sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "proceso judicial",
+    "niños y adolescentes",
+    "debido proceso",
+    "tacha de documento",
+    "jurisdicción voluntaria",
+    "jurisdicción contenciosa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0926_E22-0866.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326876-0926-13723-2023-22-0866.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.209084"
+}

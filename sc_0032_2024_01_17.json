@@ -1,0 +1,26 @@
+{
+  "id": 24085,
+  "numero": "0032",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por Jeniffer Rivas contra el acto administrativo de destitución de su cargo como funcionaria policial. La Sala determina que el tribunal competente para conocer de esta acción es el Juzgado Superior Estadal de la Jurisdicción Contencioso Administrativa de la Región Capital. Se ordena la remisión del expediente al tribunal correspondiente para su tramitación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "derechos",
+    "actos administrativos",
+    "poder público",
+    "jurisdicción",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0032_E23-0375.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332385-0032-5224-2024-23-0375.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.840094"
+}

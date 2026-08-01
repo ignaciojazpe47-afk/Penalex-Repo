@@ -1,0 +1,25 @@
+{
+  "id": 21936,
+  "numero": "1474",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Jaime Jesús Álvarez Mejía en representación de los ciudadanos Karina De Los Ángeles Matos, Wilmer Alfredo Rojas Delgado y Wilfredo Jesús Rojas Delgado. La acción fue presentada contra una decisión de la Corte de Apelaciones en Materia de Delitos de Violencia contra la Mujer de la Región Capital, dictada el 14 de mayo de 2024.\n\nLa Sala argumenta que el demandante no acompañó la documentación necesaria para la admisibilidad de la acción, lo que conlleva a la inadmisión de la pretensión de tutela constitucional. Se destaca que es responsabilidad del accionante presentar los documentos indispensables para verificar la admisibilidad de la demanda.\n\nFinalmente, la Sala se declara competente para conocer la acción, pero al no cumplirse con los requisitos formales, se decide la inadmisibilidad de la misma.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "debido proceso",
+    "constitucionalidad",
+    "indefensión",
+    "violación de derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1474_E24-0559.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348089-1474-30925-2025-24-0559.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.203797"
+}

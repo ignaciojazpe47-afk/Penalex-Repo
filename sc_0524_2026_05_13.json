@@ -1,0 +1,23 @@
+{
+  "id": 16701,
+  "numero": "0524",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 478 del 7 de agosto de 2025, que declaró procedente la extradición pasiva de Leonid Alexandrovich Zakamaldin a la Federación de Rusia. La defensa argumentó que la extradición vulneraba principios constitucionales, alegando que los delitos imputados eran de naturaleza política y que no se valoraron adecuadamente los derechos del solicitante. Sin embargo, la Sala concluyó que no se evidenció ninguna violación a los derechos constitucionales y que la decisión de la Sala de Casación Penal se ajustó a derecho, garantizando la protección de los derechos humanos del extraditable.",
+  "palabras_clave": [
+    "extradición",
+    "revisión",
+    "derechos humanos",
+    "delitos políticos"
+  ],
+  "titulo": "Revisión de la sentencia N° 478 sobre extradición pasiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0524_E25-1141.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355512-0524-13526-2026-25-1141.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.886771"
+}

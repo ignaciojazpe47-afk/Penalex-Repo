@@ -1,0 +1,26 @@
+{
+  "id": 16715,
+  "numero": "0498",
+  "fecha": "2026-02-26",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Rómulo Rojas Zerpa contra las actuaciones de la Fiscalía Sexta del Ministerio Público y el Tribunal Quincuagésimo Primero de Control. La Sala argumenta que el núcleo del agravio se relaciona con la criminalización de una controversia civil-arrendaticia, lo que debe ser resuelto en la jurisdicción civil. Por lo tanto, declina la competencia a un Tribunal de Primera Instancia en funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "fiscal",
+    "tribunales",
+    "derechos",
+    "proceso",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0498_E26-0158.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354949-0498-14426-2026-26-0158.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.386211"
+}

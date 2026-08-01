@@ -1,0 +1,22 @@
+{
+  "id": 27709,
+  "numero": "0915",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado José Lorenzo Faría Adrián, en representación de Hugo Simón Sánchez Betancourt, contra la sentencia del Tribunal Superior que declaró inadmisible la acción de amparo constitucional. La decisión se fundamenta en que existía una vía ordinaria que no fue agotada por el accionante, lo que contraviene el artículo 6, ordinal 5° de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala reafirma que el amparo no puede ser el único medio para restablecer derechos cuando hay recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0915_E19-0537.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339192-0915-201124-2024-19-0537.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.188962"
+}

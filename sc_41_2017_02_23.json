@@ -1,0 +1,23 @@
+{
+  "id": 50296,
+  "numero": "41",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Décimo Superior que había declarado la existencia de una relación concubinaria entre Jorge Gómez Mantellini y Ana Cecilia Useche. La revisión se fundamentó en la falta de publicación de un edicto que llamara a los interesados en el juicio, lo que vulneró el derecho a la defensa y al debido proceso. La Sala declaró con lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando la reposición del expediente al estado de publicar el edicto correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "relación concubinaria",
+    "due process",
+    "publicación de edicto"
+  ],
+  "titulo": "Revisión Constitucional sobre relación concubinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S41_E16-0623.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196351-41-23217-2017-16-0623.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.289076"
+}

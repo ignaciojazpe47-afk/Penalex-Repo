@@ -1,0 +1,18 @@
+{
+  "id": 61234,
+  "numero": "1108",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de amparo constitucional interpuesta por Alberto De Filippis D Agosto contra el Servicio Bolivariano de Inteligencia Nacional (SEBIN), alegando violaciones a sus derechos fundamentales. La Sala determinó que la competencia para conocer de la demanda corresponde a un Juzgado de Primera Instancia en funciones de Control, debido a la naturaleza de los hechos denunciados y la existencia de un expediente en el Ministerio Público relacionado con la situación del demandante.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre incompetencia en demanda de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1108_E16-0732.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194003-1108-151216-2016-16-0732.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.095263"
+}

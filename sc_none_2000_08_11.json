@@ -1,0 +1,27 @@
+{
+  "id": 1984,
+  "numero": null,
+  "fecha": "2000-08-11",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo interpuesta por Asael “Roque” Méndez contra el Consejo Nacional Electoral, quien solicitó que se incluyera su seudónimo en el Tarjetón Electoral. El demandante argumentó que su derecho a la igualdad y a la defensa había sido vulnerado al negarse su solicitud. La Sala, tras analizar los fundamentos legales y la naturaleza del seudónimo, concluyó que no existía una violación de derechos constitucionales, declarando la acción de amparo improcedente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "seudónimo",
+    "igualdad",
+    "Consejo Nacional Electoral",
+    "Tarjetón Electoral",
+    "nombre civil",
+    "improcedente"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-11_Constitucional_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.724756"
+}

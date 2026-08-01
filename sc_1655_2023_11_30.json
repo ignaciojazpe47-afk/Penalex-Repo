@@ -1,0 +1,27 @@
+{
+  "id": 33143,
+  "numero": "1655",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Belkis Coromoto Goitía Jiménez contra la sentencia del 6 de julio de 2023, que había declarado parcialmente con lugar un recurso de apelación. La decisión se basa en que la parte demandante no agotó los recursos ordinarios disponibles para impugnar la sentencia, específicamente el recurso de control de la legalidad previsto en la Ley Orgánica para la Protección de Niños, Niñas y Adolescentes.\n\nLa Sala establece que la acción de amparo no puede ser utilizada como sustituto de los medios procesales ordinarios y que la falta de justificación para no haber utilizado dichos recursos lleva a la inadmisibilidad de la demanda. Se concluye que la acción de amparo no cumple con los requisitos establecidos en la ley, lo que resulta en la declaración de inadmisibilidad de la misma.\n\nFinalmente, se ordena la publicación, registro y archivo del expediente, y se señala que la decisión fue dada, firmada y sellada en Caracas el 30 de noviembre de 2023.",
+  "palabras_clave": [
+    "silencio de prueba",
+    "LOPNNA",
+    "colocación familiar",
+    "sindrome de alienación parental",
+    "prueba de declaración",
+    "infracción",
+    "juez",
+    "valor probatorio"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1655_E23-0890.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330819-1655-301123-2023-23-0890.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.972211"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33197,
+  "numero": "1700",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Pedro Veliz Acuña, presidente de la organización política Bandera Roja, contra el Consejo Nacional Electoral. La decisión se basa en la falta de impulso procesal por parte del accionante desde la interposición de la acción en agosto de 2017, así como en la existencia de vías judiciales ordinarias que no fueron agotadas. La Sala reafirma su competencia para conocer de la acción, pero determina que la inacción del demandante y la irreparabilidad de la situación denunciada justifican la inadmisibilidad.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Consejo Nacional Electoral",
+    "Bandera Roja",
+    "Derechos Políticos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Bandera Roja",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1700_E17-0869.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330943-1700-11223-2023-17-0869.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.168504"
+}

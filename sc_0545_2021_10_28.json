@@ -1,0 +1,26 @@
+{
+  "id": 39992,
+  "numero": "0545",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre su competencia para conocer de una acción de amparo constitucional interpuesta por varias sociedades mercantiles. Se determinó que la acción debía ser presentada ante el Juzgado Superior Civil, Mercantil, Tránsito y del Trabajo de la Circunscripción Judicial del Estado Aragua, dado que la Sala no tenía competencia para conocer del caso. Por lo tanto, se declaró incompetente y se ordenó la remisión del expediente al juzgado correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "justicia",
+    "remisión"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0545_E18-0804.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313910-0545-281021-2021-18-0804.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.118175"
+}

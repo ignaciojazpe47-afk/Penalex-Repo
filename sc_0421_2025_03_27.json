@@ -1,0 +1,26 @@
+{
+  "id": 19121,
+  "numero": "0421",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el Banco Mercantil, C.A., Banco Universal, contra la sentencia del Tribunal Primero de Primera Instancia de Sustanciación, Mediación y Ejecución del Trabajo, que había declarado con lugar la demanda por acreencias laborales. La decisión se fundamenta en la existencia de medios procesales ordinarios que no fueron agotados por la parte demandante, como el recurso de invalidación y el reclamo contra la experticia complementaria del fallo. Se revoca la sentencia apelada y se deja sin efecto la medida cautelar acordada anteriormente.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "amparo_constitucional",
+    "notificación",
+    "caducidad",
+    "legitimidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0421_E23-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342705-0421-27325-2025-23-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.615829"
+}

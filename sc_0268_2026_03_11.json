@@ -1,0 +1,24 @@
+{
+  "id": 17411,
+  "numero": "0268",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Alexander José Parra Ferrer, en representación de la presunta víctima Rosalyn Carolina Hage Barboza, debido a la falta de consignación de documentos indispensables para validar las denuncias formuladas. La decisión se basa en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece la inadmisibilidad cuando no se acompañan los documentos necesarios para verificar la demanda.\n\nLa Sala también reafirma su competencia para conocer de la acción de amparo, pero señala que la carga procesal de presentar la sentencia agraviante recae en el demandante. La falta de presentación de la copia certificada de la sentencia impide la admisibilidad del recurso, lo que lleva a la decisión de declarar la acción inadmisible.\n\nFinalmente, se ordena la publicación, registro y notificación de la decisión, así como el archivo del expediente, cumpliendo con lo establecido por la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "documentos",
+    "carga procesal",
+    "tutela constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0268_E25-1091.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353573-0268-11326-2026-25-1091.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.576777"
+}

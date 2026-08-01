@@ -1,0 +1,22 @@
+{
+  "id": 19459,
+  "numero": "0561",
+  "fecha": null,
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Daniel David Arráiz Prieto, en representación del ciudadano Richard Ramón Bastidas Luna, contra la sentencia de la Sala Uno de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que declaró inadmisible la acción de amparo constitucional. La decisión se fundamenta en la inepta acumulación de pretensiones, ya que las acciones de amparo propuestas contra un hecho imputable a un Fiscal del Ministerio Público deben ser conocidas por los Juzgados de Primera Instancia en Funciones de Juicio, salvo en casos que afecten la libertad personal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0561_E22-0577.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343166-0561-15425-2025-22-0577.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.692548"
+}

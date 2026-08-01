@@ -1,0 +1,26 @@
+{
+  "id": 39564,
+  "numero": "0434",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Juan Miguel Aponte Moreno en representación de Jimmy Nahir López, contra el Fiscal General Tarek William Saab y otros funcionarios, por inepta acumulación de pretensiones. Se argumenta que la acumulación de demandas contra diferentes agraviantes no es procedente, ya que cada uno debe ser conocido por distintos tribunales. La decisión se fundamenta en la falta de competencia del órgano jurisdiccional para conocer de las diversas pretensiones planteadas en un solo libelo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ministerio público",
+    "fiscal general",
+    "derechos fundamentales",
+    "atribuciones",
+    "jurisdicción",
+    "funcionarios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0434_E20-128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313401-0434-16921-2021-20-128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.629123"
+}

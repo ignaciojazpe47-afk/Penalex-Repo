@@ -1,0 +1,25 @@
+{
+  "id": 21198,
+  "numero": "1212",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara que no existe desacato a la sentencia N° 659 del 26 de noviembre de 2021, que había anulado un proceso de partición de herencia. Se ordena el desglose del expediente para su remisión al Juzgado Segundo en lo Civil, Mercantil, Tránsito y Marítimo de la Circunscripción Judicial del Estado Anzoátegui. La decisión se fundamenta en que las actuaciones del juzgado de instancia buscan la devolución de bienes a la comunidad hereditaria, en cumplimiento de la nulidad declarada por la Sala.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "partición de herencia",
+    "debido proceso",
+    "nulidad",
+    "actuaciones judiciales"
+  ],
+  "titulo": "Sentencia sobre desacato a la sentencia N° 659 del 26 de noviembre de 2021",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1212_E21-0554.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346509-1212-28725-2025-21-0554.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.369370"
+}

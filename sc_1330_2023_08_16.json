@@ -1,0 +1,26 @@
+{
+  "id": 34220,
+  "numero": "1330",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de agosto de 2023, abordó la acción de amparo constitucional interpuesta por JOSÉ FRANCISCO SUÁREZ SÁNCHEZ contra la omisión de pronunciamiento del Tribunal Segundo de Primera Instancia en Funciones de Control, Audiencia y Medidas del Circuito Judicial en Materia de Delitos de Violencia Contra la Mujer del Estado Carabobo. La Corte de Apelaciones había declarado parcialmente con lugar la acción, lo que motivó el recurso de apelación por parte de los abogados defensores.\nLa Sala Constitucional determinó que la apelación fue interpuesta de manera tempestiva y que la Corte de Apelaciones actuó dentro de su competencia al declarar parcialmente con lugar la acción de amparo. Sin embargo, se confirmó la decisión de la Corte de Apelaciones, declarando sin lugar el recurso de apelación, al considerar que no hubo violación a los derechos del accionante en relación a la solicitud de revisión de medida privativa de libertad y las solicitudes de copias de actuaciones.\nFinalmente, se ordenó al Tribunal Segundo de Primera Instancia que emita las notificaciones correspondientes a las partes, asegurando el cumplimiento de las formalidades procesales necesarias para garantizar el derecho a la defensa.",
+  "palabras_clave": [
+    "apelacion",
+    "derechos",
+    "garantias",
+    "violencia",
+    "mujer",
+    "notificaciones",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por JOSÉ FRANCISCO SUÁREZ SÁNCHEZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1330_E20-0410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328534-1330-16823-2023-20-0410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.223553"
+}

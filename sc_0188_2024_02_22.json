@@ -1,0 +1,25 @@
+{
+  "id": 24325,
+  "numero": "0188",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional presentada por Rosemary Castro de Tinoco-Smith, en su carácter de cónyuge supérstite de José Rafael Tinoco, contra la Fiscalía Número 70 del Ministerio Público. La acción se relaciona con presuntas actuaciones y omisiones en la investigación penal por homicidio culposo por mala praxis médica, iniciada contra el médico Reinaldo Franklin Castro González. La Sala declina la competencia a un Tribunal de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "derechos humanos",
+    "homicidio culposo",
+    "mala praxis médica",
+    "constitución",
+    "ministerio público",
+    "responsabilidad del estado"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0188_E23-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332731-0188-22224-2024-23-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.665184"
+}

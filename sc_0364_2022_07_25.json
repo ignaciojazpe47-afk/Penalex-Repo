@@ -1,0 +1,23 @@
+{
+  "id": 35569,
+  "numero": "0364",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con un conflicto de competencia entre tribunales, en el marco de una acción de amparo constitucional interpuesta por Ledymar Henríquez Marín contra la Compañía Anónima Electricidad de Occidente. La ciudadana alegó violaciones a sus derechos laborales y solicitó su reenganche tras una providencia administrativa que no fue cumplida por la empresa demandada.\nLa Sala, tras analizar el caso y las competencias de los tribunales involucrados, decidió aceptar la declinatoria de competencia realizada por la Sala de Casación Civil, declarando su propia competencia para conocer del asunto. Finalmente, se ordenó la remisión del expediente al Juzgado Superior Primero del Trabajo con sede en Coro, Estado Falcón, para que decidiera sobre la apelación interpuesta contra la sentencia que declaró con lugar el amparo constitucional.\nLa decisión reafirma la importancia de la protección de los derechos laborales y la estabilidad en el trabajo, así como la correcta asignación de competencias entre los distintos tribunales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "derechos laborales",
+    "reenganche"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y regulación de competencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0364_E20-0097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318125-0364-25722-2022-20-0097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.772136"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 40003,
+  "numero": "0556",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de octubre de 2021, declaró sin lugar los recursos de apelación interpuestos contra la decisión del Juzgado Superior Séptimo que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que las causas que motivaron la interposición del amparo habían cesado, dado que el Juzgado Noveno de Primera Instancia había oído la apelación interpuesta por la parte accionante, restableciendo así la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo",
+    "poder",
+    "legitimación",
+    "representación",
+    "inadmisibilidad",
+    "abogados"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0556_E18-0415.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313921-0556-281021-2021-18-0415.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.120744"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 29100,
+  "numero": "0098",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 8 de marzo de 2023, declaró sin lugar el recurso de apelación interpuesto por la defensora privada Laura Adams en representación de Darwin José Daza Pérez. La apelación se refería a la decisión del 2 de abril de 2020, que había declarado inadmisible la acción de amparo constitucional contra la improcedencia del archivo fiscal dictado por el Juzgado Segundo de Primera Instancia de Violencia contra la Mujer. La Sala consideró que el apelante contaba con un recurso ordinario adecuado para impugnar la decisión, lo que llevó a confirmar la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "violencia",
+    "mujeres",
+    "derechos",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0098_E20-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323266-0098-8323-2023-20-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.344545"
+}

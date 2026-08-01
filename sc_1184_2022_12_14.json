@@ -1,0 +1,24 @@
+{
+  "id": 38043,
+  "numero": "1184",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la sociedad mercantil Inversiones Anny San Miguel Arcángel C.A. contra una decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Miranda. La acción fue considerada inadmisible debido a que el demandante contaba con un recurso idóneo, el de casación, que había sido agotado previamente. La Sala enfatiza que el amparo no puede ser utilizado como una tercera instancia judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "tutela judicial",
+    "jurisdicción",
+    "recursos judiciales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1184_E22-0737.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322018-1184-141222-2022-22-0737.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.147077"
+}

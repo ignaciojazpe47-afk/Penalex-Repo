@@ -1,0 +1,26 @@
+{
+  "id": 37241,
+  "numero": "0939",
+  "fecha": "2022-11-10",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada por el Tribunal Superior Cuarto del Trabajo del Estado Zulia. La solicitud fue presentada por el abogado Wilder Eduardo Márquez Romero, actuando en nombre de la sociedad mercantil Cervecería Regional, C.A. La Sala determinó que la solicitud era inadmisible debido a la falta de presentación de la copia certificada de la sentencia cuya revisión se solicitaba y la falta de justificación de la representación del abogado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "representación",
+    "copia certificada",
+    "sentencia",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0939_E22-0631.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320627-0939-91122-2022-22-0631.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.361619"
+}

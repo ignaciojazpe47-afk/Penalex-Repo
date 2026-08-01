@@ -1,0 +1,26 @@
+{
+  "id": 32283,
+  "numero": "1437",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 13 de octubre de 2023, confirma el fallo del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que había declarado parcialmente con lugar la pretensión de amparo constitucional interpuesta por la ciudadana Maybe Karina Gutiérrez Araujo. La decisión se basa en la inconstitucionalidad de la anulación de actuaciones procesales en el cuaderno separado relacionado con la medida cautelar de prohibición de enajenar y gravar sobre un inmueble en disputa.\n\nEl tribunal destaca que el juez de primera instancia erró al anular la medida cautelar, ya que la competencia es un presupuesto de la sentencia y no del proceso. Se enfatiza la importancia de la tutela judicial efectiva y se ordena la continuación del proceso en la vía ordinaria para la nulidad de la venta del inmueble afectado por la medida cautelar, que había sido protocolizada a pesar de la existencia de la misma.\n\nFinalmente, se declara sin lugar el recurso de apelación interpuesto por la parte actora, reafirmando la validez de la decisión del tribunal inferior y la necesidad de salvaguardar los derechos de la demandante en el contexto de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "tutela judicial",
+    "juez natural",
+    "competencia",
+    "medidas cautelares",
+    "derechos humanos",
+    "constitución",
+    "proceso civil"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1437_E22-0642.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329312-1437-131023-2023-22-0642.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.393947"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 44459,
+  "numero": "0355",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por César Alexander Hernández Villarroel, quien impugnó una sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario del Estado Aragua. La sentencia recurrida había declarado parcialmente con lugar un recurso de apelación interpuesto por la parte demandada, modificando la decisión de primera instancia sobre un contrato de opción de compra venta. El solicitante alegó violaciones a sus derechos y errores en la valoración de pruebas por parte del juez superior.\nLa Sala, tras analizar los alegatos, concluyó que no existían infracciones a la Constitución ni errores en la interpretación de normas, y que la decisión del juzgado superior se ajustó a derecho. Por lo tanto, se declaró que no había lugar a la revisión solicitada, reafirmando la autonomía del juez en la valoración de pruebas y el carácter extraordinario del recurso de revisión constitucional.",
+  "palabras_clave": [
+    "contratos",
+    "propiedad",
+    "derechos",
+    "justicia",
+    "jurisprudencia",
+    "procedimiento civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre cumplimiento de contrato de opción de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0355_E18-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308149-0355-191119-2019-18-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.378574"
+}

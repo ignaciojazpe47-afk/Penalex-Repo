@@ -1,0 +1,18 @@
+{
+  "id": 13659,
+  "numero": null,
+  "fecha": "2000-08-10",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Contencioso-Administrativo",
+  "decision": "INCOMPETENTE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la apelación interpuesta por Leonardo Iván Mata Rojas contra la decisión de la Corte Primera de lo Contencioso Administrativo. La apelación se refiere a una acción de amparo constitucional y un recurso de nulidad contra un acto administrativo del Colegio de Ingenieros de Venezuela. La Sala establece que la competencia corresponde a la Sala Político Administrativa.",
+  "palabras_clave": [],
+  "titulo": "Decisión sobre incompetencia en apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.725460"
+}

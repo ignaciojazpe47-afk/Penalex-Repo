@@ -1,0 +1,22 @@
+{
+  "id": 39212,
+  "numero": "0355",
+  "fecha": "2021-08-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional interpuesta por varios ciudadanos en defensa del derecho a la educación gratuita en Venezuela. Los demandantes argumentaron que el Estado había incumplido con su obligación de garantizar la gratuidad de la educación, violando así los artículos 102 y 103 de la Constitución Nacional. La Sala consideró que la educación es un derecho humano y un deber social fundamental que debe ser garantizado sin limitaciones económicas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "educación gratuita",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por violación del derecho a la educación gratuita",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-05_S0355_E20-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/312869-0355-5821-2021-20-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.747399"
+}

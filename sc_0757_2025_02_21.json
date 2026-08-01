@@ -1,0 +1,22 @@
+{
+  "id": 19894,
+  "numero": "0757",
+  "fecha": "2025-02-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por José Baudilio García y Elizabeth Jiménez, quienes alegaban vulneraciones a sus derechos durante un proceso penal. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que existían vías ordinarias para impugnar la decisión del juez de control. La Sala Constitucional confirmó esta inadmisibilidad, señalando que el amparo constitucional es un recurso extraordinario que solo procede cuando no hay otros medios efectivos para proteger los derechos vulnerados.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0757_E25-0131.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343945-0757-21525-2025-25-0131.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.753253"
+}

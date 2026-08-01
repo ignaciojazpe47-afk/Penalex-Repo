@@ -1,0 +1,27 @@
+{
+  "id": 19382,
+  "numero": "0527",
+  "fecha": null,
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELASQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por IVÁN ENRIQUE HARTING VILLEGAS y otros, por inepta acumulación de pretensiones. Se argumenta que las pretensiones planteadas son incompatibles y no pueden ser tramitadas en un mismo libelo. Además, se ordena notificar a las partes involucradas y al Ministerio Público sobre esta decisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "fraude procesal",
+    "derecho a la defensa",
+    "debido proceso",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "Código de Procedimiento Civil",
+    "inadmisibilidad",
+    "orden público constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-10_S0527_E24-0691.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343080-0527-10425-2025-24-0691.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.701291"
+}

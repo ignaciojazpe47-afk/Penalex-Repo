@@ -1,0 +1,23 @@
+{
+  "id": 48546,
+  "numero": "0689",
+  "fecha": "2018-10-18",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el abogado Pedro Miguel Guédez López en representación de José Adrián López Torres, contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure, que decretó la privación judicial preventiva de libertad del accionante. La Sala encontró que la decisión impugnada incurrió en vicios de inmotivación y extralimitación, al no contar con elementos de convicción suficientes que vincularan al imputado con el delito de Tráfico Ilícito de Sustancias Estupefacientes.\n\nLa Sala declaró procedente la acción de amparo, anulando la sentencia de la Corte de Apelaciones y ordenando que una Corte de Apelaciones Accidental emita un nuevo pronunciamiento sobre el recurso de apelación con efecto suspensivo interpuesto por el Ministerio Público. Se destacó que la actuación policial realizada en el fundo 'Chaparralito' se enmarca en las excepciones que permiten el allanamiento sin orden judicial, dado el contexto del delito investigado.\n\nFinalmente, la Sala enfatizó la importancia de la tutela judicial efectiva y la necesidad de que las decisiones judiciales estén debidamente motivadas, evitando así la vulneración de derechos fundamentales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tráfico Ilícito de Sustancias Estupefacientes",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de José Adrián López Torres",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-18_S0689_E17-1174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/301733-0689-181018-2018-17-1174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:08.244951"
+}

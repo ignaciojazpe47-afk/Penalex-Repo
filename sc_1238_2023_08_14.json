@@ -1,0 +1,24 @@
+{
+  "id": 34132,
+  "numero": "1238",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Gladys María Gutiérrez Alvarado, declaró inadmisible la solicitud de avocamiento presentada por Tom Raúl Sánchez Ayala. La decisión se fundamenta en la existencia de irregularidades en la homologación de una transacción judicial que pretendía modificar decisiones firmes previas, lo que se consideró un desacato a la autoridad de la Sala. Además, se ordenó la remisión de copias de la decisión a la Comisión Judicial y al Ministerio Público para investigar posibles delitos de acción pública relacionados con la transacción.",
+  "palabras_clave": [
+    "avocamiento",
+    "transacción judicial",
+    "desacato",
+    "irregularidades",
+    "decisión firme"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1238_E23-0143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328444-1238-14823-2023-23-0143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.868344"
+}

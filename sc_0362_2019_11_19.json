@@ -1,0 +1,23 @@
+{
+  "id": 44466,
+  "numero": "0362",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 987, ha declarado con lugar la solicitud de revisión constitucional presentada por la abogada Lourdes Celeste Barrios, en representación de la ciudadana Magaly Josefina Apóstol de Hernández. La revisión se fundamenta en la alegación de violaciones a derechos constitucionales, específicamente el derecho al debido proceso y a la defensa, en el contexto de una sentencia de desalojo dictada por el Juzgado Superior en lo Civil y Contencioso Administrativo de la Región Centro Occidental el 13 de enero de 2017.\n\nLa Sala concluyó que el Juzgado Superior no verificó adecuadamente la cualidad o legitimación ad causam del demandante, Aref Chaaban, quien no tenía relación contractual con la demandada, lo que constituye una violación a los derechos de la parte recurrente. Por lo tanto, se anula la sentencia impugnada y se ordena que otro Juzgado Superior en lo Civil dicte una nueva decisión conforme a lo expuesto en el fallo.\n\nLa decisión se basa en la necesidad de garantizar el respeto a los derechos constitucionales y la correcta aplicación de las normas procesales, asegurando que las partes involucradas en un proceso judicial tengan la legitimidad necesaria para actuar en defensa de sus derechos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho al debido proceso",
+    "legitimación ad causam"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0362_E17-0882.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308163-0362-191119-2019-17-0882.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.378182"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32932,
+  "numero": "1501",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con un conflicto negativo de competencia entre dos tribunales en el Estado Aragua, en el contexto de una acción de amparo constitucional presentada por Mayra Alejandra López. La acción se originó debido a la amenaza de desincorporación de la demandante de la Asociación Sin Fines de Lucro Unión de Conductores Turmero Maracay, tras una asamblea ordinaria. El Tribunal Quinto de Primera Instancia de Sustanciación, Mediación y Ejecución del Trabajo había declinado su competencia, remitiendo el caso a la Sala Constitucional para su resolución.\n\nLa Sala Constitucional, tras analizar el caso, determinó que el tribunal competente para conocer de la acción de amparo era el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Aragua. En consecuencia, se ordenó remitir el expediente a dicho juzgado, declarando su competencia para resolver el conflicto planteado y la acción de amparo constitucional.\n\nFinalmente, la decisión fue firmada el 22 de noviembre de 2023, y se ordenó la publicación y registro de la misma, así como el cumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "garantías",
+    "civil",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1501_E23-0066.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330553-1501-221123-2023-23-0066.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.439053"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 23400,
+  "numero": "1915",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a una solicitud de desacato presentada por Gustavo Lozano Prada, declaró parcialmente con lugar el desacato al mandamiento de amparo constitucional dictado el 12 de julio de 2024. La decisión ordena a Francesco Bortignon acatar la sentencia anterior y restituir a Lozano en su cargo como rector del Colegio Nuestra Señora de Pompei. Sin embargo, se determina que no se aplicará la consecuencia jurídica del desacato debido a la relevancia del derecho a la educación de los estudiantes, manteniendo la estructura organizativa actual del colegio hasta que la jurisdicción penal decida sobre las investigaciones pertinentes.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "educación",
+    "colegio",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1915_E24-1151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350801-1915-281125-2025-24-1151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.196378"
+}

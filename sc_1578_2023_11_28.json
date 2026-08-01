@@ -1,0 +1,23 @@
+{
+  "id": 33009,
+  "numero": "1578",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el Banco del Tesoro, C.A. Banco Universal, en relación a una sentencia dictada el 7 de febrero de 2023 por el Juzgado Tercero de Primera Instancia en lo Civil, Mercantil, del Tránsito y Bancario, que declaró con lugar una acción mero declarativa de certeza de propiedad a favor de Inversiones Cachirí, C.A. El Banco del Tesoro argumentó que no se notificó a la Procuraduría General de la República, lo que afectó su derecho a la defensa, ya que es el legítimo propietario del inmueble en disputa.",
+  "palabras_clave": [
+    "Revisión Constitucional",
+    "Certeza de Propiedad",
+    "Banco del Tesoro",
+    "Inversiones Cachirí"
+  ],
+  "titulo": "Solicitud de Revisión Constitucional sobre sentencia de certeza de propiedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1578_E23-0606.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330633-1578-281123-2023-23-0606.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.012820"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33220,
+  "numero": "1723",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, confirma la inadmisibilidad del amparo constitucional interpuesto por FINECONOMICA, C.A. contra decisiones interlocutorias de un juzgado inferior. Se argumenta que la parte accionante tenía a su disposición recursos ordinarios, como la apelación, para impugnar las decisiones cuestionadas. La Sala establece que la falta de presentación de la copia certificada de una de las sentencias impugnadas hace inadmisible la acción de amparo, conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "fraude_procesal",
+    "medida_cautelar",
+    "embargo_ejecutivo",
+    "derechos_constitucionales",
+    "justicia",
+    "juzgado"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1723_E22-0459.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330969-1723-41223-2023-22-0459.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.157810"
+}

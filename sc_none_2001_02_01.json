@@ -1,0 +1,27 @@
+{
+  "id": 2258,
+  "numero": null,
+  "fecha": "2001-02-01",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "Inadmisible",
+  "ponente": "ANTONIO J. GARCÍA GARCÍA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Freddy Guzmán contra la Comisión Nacional de Casinos, Salas de Bingo y Máquinas Traganíqueles. El demandante argumentó que la licencia otorgada para la instalación de una sala de bingo en la Urbanización La Trinidad violaba derechos constitucionales y legales, afectando la calidad de vida de los residentes. Sin embargo, la Sala determinó que existía un recurso contencioso administrativo idóneo para resolver la controversia, lo que hizo inadmisible la acción de amparo. La decisión se fundamenta en la falta de excepcionalidad del caso y la existencia de medios procesales adecuados para la protección de los derechos alegados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "licencia de bingo",
+    "inadmision",
+    "derechos constitucionales",
+    "recursos administrativos",
+    "calidad de vida",
+    "urbanización",
+    "Comisión Nacional de Casinos"
+  ],
+  "titulo": "Inadmisibilidad de Amparo Constitucional por Licencia de Bingo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-01_Constitucional_01_AntonioJ.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.717317"
+}

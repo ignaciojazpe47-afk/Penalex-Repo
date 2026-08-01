@@ -1,0 +1,22 @@
+{
+  "id": 27548,
+  "numero": "0812",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por María Romelia Pérez, quien impugnó la sentencia N° 164 de la Sala de Casación Civil que declaró sin lugar su recurso de casación. La Sala Constitucional determinó su competencia para conocer la solicitud, pero concluyó que no había lugar para la misma, reafirmando que la revisión constitucional no debe ser entendida como una nueva instancia. La decisión se fundamentó en que la Sala de Casación Civil actuó conforme a derecho al desestimar la pretensión de la solicitante, evidenciando que la acción reivindicatoria fue procedente y que la demandada ocupó el inmueble de manera ilegítima.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción reivindicatoria",
+    "posesión ilegítima"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0812_E23-0517.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338985-0812-141124-2024-23-0517.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.022391"
+}

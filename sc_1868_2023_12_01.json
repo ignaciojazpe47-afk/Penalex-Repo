@@ -1,0 +1,25 @@
+{
+  "id": 33721,
+  "numero": "1868",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Karleidys Yasnilet Salas Sánchez contra una decisión que declaró inadmisible su acción de amparo constitucional. La Sala se declaró competente para conocer del recurso, considerando que la apelación fue presentada en la primera oportunidad que la apelante tuvo conocimiento de la sentencia objeto de apelación, lo que la hace tempestiva.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "justicia",
+    "derechos",
+    "garantías",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1868_E21-0705.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331838-1868-111223-2023-21-0705.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.166559"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 36208,
+  "numero": "0577",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un expediente relacionado con una acción de amparo constitucional y una consulta por desacato. Se dictó una sentencia vinculante que ordena a los tribunales seguir un procedimiento específico para la ejecución de mandamientos de amparo. La decisión establece que todas las causas deben ser remitidas a los tribunales correspondientes sin examinar la favorabilidad a trámite de la denuncia de desacato.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "trabajo",
+    "ejecución",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la ejecución de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0577_E21-0262.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319234-0577-12822-2022-21-0262.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.643087"
+}

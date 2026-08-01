@@ -1,0 +1,25 @@
+{
+  "id": 23969,
+  "numero": "2156",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos Alfredo Heredia Rodríguez, en representación de Miguel Ángel Ojeda Mariño, debido a la inepta acumulación de pretensiones. Se argumenta que las denuncias contra diferentes agraviantes, como el Ministerio Público y órganos jurisdiccionales, no pueden ser tramitadas en un solo escrito, ya que corresponden a procedimientos distintos y a competencias de diferentes tribunales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "constitucion",
+    "tribunales",
+    "fiscalia",
+    "justicia_penal",
+    "amparo_constitucional"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2156_E25-0850.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352032-2156-121225-2025-25-0850.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.739821"
+}

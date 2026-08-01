@@ -1,0 +1,24 @@
+{
+  "id": 20637,
+  "numero": "1037",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil Raeca Centroccidente, C.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Lara, que había declarado sin lugar la apelación contra una decisión de desalojo. La Sala concluye que no se cumplen los requisitos de procedencia para la acción de amparo, ya que no se evidencian violaciones a derechos constitucionales en el proceso judicial previo.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "medidas cautelares",
+    "vía administrativa",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1037_E24-0646.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345306-1037-30625-2025-24-0646.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.512114"
+}

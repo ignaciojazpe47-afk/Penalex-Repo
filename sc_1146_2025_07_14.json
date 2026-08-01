@@ -1,0 +1,22 @@
+{
+  "id": 20945,
+  "numero": "1146",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por José Rafael Mata Fuentes, representado por su abogado, en relación a la omisión de pronunciamiento del Tribunal Penal de Primera Instancia. La acción se fundamenta en la tardanza del Ministerio Público en concluir una investigación por invasión de propiedad. La Sala, tras analizar el caso, determina su competencia y ordena a la Secretaría que oficie al Circuito Judicial Penal para obtener un informe sobre el estado de la causa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tardanza procesal",
+    "Ministerio Público"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1146_E25-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346053-1146-14725-2025-25-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.498692"
+}

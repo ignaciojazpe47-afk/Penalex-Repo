@@ -1,0 +1,24 @@
+{
+  "id": 17412,
+  "numero": "0269",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Sinais María Campos Mora contra una decisión que declaró inadmisible su acción de amparo. La apelante argumentó que se le había negado el derecho a nombrar un abogado defensor para su padre, quien se encontraba detenido. La Sala, tras analizar los alegatos y las actas, decidió asumir la competencia y ordenó al juzgado correspondiente remitir información sobre el estado de la causa y las medidas cautelares aplicadas al detenido.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "defensa",
+    "detención"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0269_E25-1273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353574-0269-11326-2026-25-1273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.572399"
+}

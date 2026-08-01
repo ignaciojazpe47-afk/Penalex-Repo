@@ -1,0 +1,26 @@
+{
+  "id": 31060,
+  "numero": "0843",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión presentada por Antonio Coletta Ponticelli contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Lara, que había declarado sin lugar la interdicción civil de sus padres. La Sala encontró vicios en la motivación del fallo recurrido, señalando contradicciones en la valoración de las pruebas presentadas, especialmente en relación a informes médicos psiquiátricos que fueron desechados sin una adecuada fundamentación. Como resultado, se anuló la sentencia impugnada y se ordenó la constitución de un tribunal accidental para que dicte una nueva decisión sobre la apelación.",
+  "palabras_clave": [
+    "interdicción",
+    "capacidad jurídica",
+    "defecto intelectual",
+    "procedimiento civil",
+    "derechos humanos",
+    "testimonios",
+    "igualdad"
+  ],
+  "titulo": "Sentencia sobre revisión de interdicción civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0843_E23-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326499-0843-26623-2023-23-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.551771"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33810,
+  "numero": "1957",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el desacato a un mandamiento de amparo constitucional interpuesto por María Eugenia Salas Camperos. La sentencia del 22 de octubre de 2021 había ordenado la restitución de la posesión del inmueble a la demandante, pero los demandados incumplieron dicha orden, lo que llevó a la declaración de desacato el 13 de diciembre de 2022. La Sala, al revisar el caso, determinó que los demandados no habían cumplido con la decisión judicial y ordenó la remisión del expediente al tribunal de origen para continuar con la ejecución de la sentencia de amparo.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "restitución de posesión"
+  ],
+  "titulo": "Sentencia sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1957_E23-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331927-1957-141223-2023-23-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.436108"
+}

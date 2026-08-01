@@ -1,0 +1,24 @@
+{
+  "id": 22255,
+  "numero": "1595",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento presentada por los abogados de los ciudadanos José Avelino Barreto Diniz y otros, en relación a un juicio penal. Se declina el conocimiento de la solicitud a la Sala de Casación Penal, ordenando el envío de las actuaciones correspondientes. La decisión se fundamenta en la naturaleza del caso y en la falta de competencia de la Sala Constitucional para tratar asuntos penales.",
+  "palabras_clave": [
+    "avocamiento",
+    "derecho penal",
+    "orden público",
+    "proceso penal",
+    "medidas cautelares"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1595_E24-0626.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348712-1595-151025-2025-24-0626.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.757299"
+}

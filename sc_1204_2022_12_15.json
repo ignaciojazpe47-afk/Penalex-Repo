@@ -1,0 +1,25 @@
+{
+  "id": 38081,
+  "numero": "1204",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Eduardo José Castillo Ramírez en representación de Yadira Chirinos de González, debido a la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida. La Sala determinó su competencia para conocer el caso y evidenció que la parte actora había abandonado el trámite al no demostrar interés en la prosecución del asunto durante más de seis meses.\nComo resultado, se declaró el abandono del trámite y la terminación del procedimiento, imponiendo además una multa a la parte demandante por la falta de impulso procesal. La decisión fue firmada por la magistrada Lourdes Benicia Suárez Anderson y otros magistrados, y se ordenó la notificación correspondiente.\nLa sentencia destaca la importancia del interés procesal en las acciones de amparo y establece que la inactividad de la parte actora puede llevar a la extinción del procedimiento, en este caso, por la falta de respuesta de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "abandonode trámite",
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "inactividad procesal",
+    "multa",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1204_E20-0313.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322096-1204-151222-2022-20-0313.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.140132"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 31404,
+  "numero": "0942",
+  "fecha": "2023-07-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 17 de julio de 2023, declaró sin lugar la apelación interpuesta por los abogados de Carlos Esteban Urbano Fermín contra la sentencia de la Sala Séptima de la Corte de Apelaciones, que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que la amenaza contra el derecho o garantía constitucional no era posible ni realizable, dado que el Juzgado Décimo de Primera Instancia carecía de competencia para decidir sobre la solicitud de decaimiento de la medida de coerción personal del imputado. Además, se determinó que la causa de la presunta infracción constitucional había cesado, lo que llevó a la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "libertad",
+    "nulidad",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Carlos Esteban Urbano Fermín",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-17_S0942_E22-0501.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327144-0942-17723-2023-22-0501.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.206550"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32265,
+  "numero": "1419",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Arcángel Mosquera y Pedro Contreras en representación de GIMNASIO A1 FITNESS CENTER C.A. contra una sentencia del Juzgado Superior Décimo en lo Civil, Mercantil, Tránsito y Bancario. La decisión se fundamentó en que existía un recurso de casación disponible que no fue agotado por los demandantes, lo que constituye una causal de inadmisibilidad según la Ley Orgánica de amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala argumentó que el demandante tenía a su disposición un medio idóneo para restablecer su situación jurídica, y que la falta de justificación para optar por el amparo en lugar de la vía de impugnación ordinaria era insuficiente. Se enfatizó que el amparo no debe ser utilizado como un recurso alternativo a la apelación ordinaria, y que la decisión de inadmisibilidad se basa en la falta de agotamiento de los recursos judiciales preexistentes.\n\nFinalmente, se ordenó la publicación, registro y archivo del expediente, reafirmando la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "interdicto",
+    "posesión",
+    "despojo",
+    "arrendamiento",
+    "derecho de propiedad",
+    "Código Civil",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1419_E23-0380.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329294-1419-111023-2023-23-0380.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.405899"
+}

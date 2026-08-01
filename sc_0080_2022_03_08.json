@@ -1,0 +1,25 @@
+{
+  "id": 34622,
+  "numero": "0080",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "NO TIENE COMPETENCIA",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo interpuesta por Luis Eduardo Baciao López, quien solicitó la entrega de un vehículo que había pagado en 2016. La Sala, tras evaluar la competencia, determinó que no tenía jurisdicción para conocer el caso, ya que los demandados no eran altos funcionarios públicos según la ley. Por lo tanto, declinó la competencia a un Juzgado Superior Estadal de la Jurisdicción Contencioso Administrativa del Estado Bolivariano de Carabobo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "constitucionales",
+    "jurisdicción",
+    "sociedad mercantil"
+  ],
+  "titulo": "Decisión sobre la competencia en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0080_E21-0548.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315930-0080-8322-2022-21-0548.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.436260"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27166,
+  "numero": "0591",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "INCOMPETENTE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados de Pedro José Montilla Herrera, en relación a un caso penal en el Tribunal Octavo en Funciones de Control del Estado Lara. La solicitud se fundamentó en la supuesta revocación de medidas cautelares sin la debida notificación a las partes involucradas. La Sala, tras analizar los argumentos, determinó que no era competente para conocer del caso, declinando el conocimiento a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "medidas cautelares",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0591_E24-0071.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338551-0591-11124-2024-24-0071.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.303842"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 39732,
+  "numero": "0469",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los fiscales del Ministerio Público, debido a la falta de consignación de la sentencia impugnada. La acción fue presentada contra una decisión de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala acepta la declinatoria de competencia formulada por la Corte de Apelaciones y se declara competente para conocer de la acción, pero resuelve que no se cumplen los requisitos de admisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "carga procesal",
+    "incompetencia",
+    "fiscalía",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0469_E19-0426.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313578-0469-11021-2021-19-0426.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.617335"
+}

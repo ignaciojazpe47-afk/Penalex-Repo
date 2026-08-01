@@ -1,0 +1,27 @@
+{
+  "id": 32308,
+  "numero": "1455",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por la abogada Susana V. Barreiros R. en representación de los ciudadanos José Alfonzo González Uriana y Maiker José Pinto Sosa. La acción se dirigía contra la decisión de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que admitió un recurso de apelación interpuesto por el Ministerio Público. Sin embargo, se determina que la parte actora no ha mostrado interés en continuar con el proceso, lo que se califica como abandono del trámite.",
+  "palabras_clave": [
+    "apelación",
+    "juicio",
+    "derechos",
+    "constitucionales",
+    "proceso penal",
+    "Código Orgánico Procesal Penal",
+    "amparo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1455_E22-0885.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329361-1455-161023-2023-22-885.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.390215"
+}

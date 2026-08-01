@@ -1,0 +1,22 @@
+{
+  "id": 27259,
+  "numero": "0665",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión de la sentencia n.° 82, dictada el 16 de marzo de 2023 por la Sala de Casación Civil, que desestimó un recurso extraordinario de casación. La decisión se fundamenta en la existencia de vicios procesales que afectaron la tramitación del juicio principal, en el que se alegó un fraude procesal y la inadmisibilidad de pruebas necesarias para la resolución del caso. La Sala ordenó la suspensión de los efectos de la sentencia impugnada y la recolección del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "fraude procesal",
+    "partición de comunidad concubinaria"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de partición de comunidad concubinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0665_E23-0609.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338661-0665-71124-2024-23-0609.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.449359"
+}

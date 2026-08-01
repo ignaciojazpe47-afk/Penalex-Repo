@@ -1,0 +1,25 @@
+{
+  "id": 19345,
+  "numero": "0492",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por Servicios Halliburton de Venezuela, S.A. contra la decisión del Juzgado Superior Tercero del Circuito Judicial del Trabajo de Zulia, que había declarado sin lugar un recurso de hecho. La Sala fundamentó su decisión en que la acción no cumplía con los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "apelación",
+    "debido proceso",
+    "tutela judicial",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica Procesal del Trabajo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0492_E25-0183.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343031-0492-9425-2025-25-0183.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.593787"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22230,
+  "numero": "1570",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 9 de mayo de 2025, que había declarado con lugar la demanda de prescripción adquisitiva interpuesta por los ciudadanos Dietrich Jost Veit Kirch, Gustavo José Reyna Yribarren y Lilian Margarita Reyna Iribarren contra Inversora Germano Venezolana C.A. La Sala encontró que los demandantes carecían de cualidad activa para interponer la acción, ya que su posesión del inmueble era precaria y no legítima. Por lo tanto, se declaró inadmisible la demanda de prescripción adquisitiva y se anuló la sentencia recurrida.",
+  "palabras_clave": [
+    "prescripción adquisitiva",
+    "revisión constitucional",
+    "cualidad activa",
+    "posesión precaria"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1570_E25-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348686-1570-151025-2025-25-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.760976"
+}

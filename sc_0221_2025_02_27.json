@@ -1,0 +1,24 @@
+{
+  "id": 18655,
+  "numero": "0221",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por Estefania Álvarez De Lira, apoderada de José Luis Chávez Rodríguez, respecto a la sentencia número 643 de la Sala de Casación Penal. Esta sentencia había declarado la nulidad de una decisión anterior y el sobreseimiento de la causa por prescripción judicial. La Sala Constitucional determina su competencia para conocer el caso y acuerda la medida cautelar de suspensión de efectos de la decisión impugnada, considerando que podrían verse afectados los derechos constitucionales del solicitante.",
+  "palabras_clave": [
+    "prescripción",
+    "acción penal",
+    "derechos",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0221_E24-1275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342033-0221-27225-2025-24-1275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.879893"
+}

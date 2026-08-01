@@ -1,0 +1,24 @@
+{
+  "id": 18665,
+  "numero": "0231",
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Iván Enrique Harting Villegas en representación de la empresa Mercantil Sucre, C.A. La acción fue declarada inadmisible debido a la falta de representación adecuada, ya que el abogado no presentó el poder correspondiente en original o copia certificada. La Sala también destacó que el accionante no agotó las vías ordinarias antes de interponer la acción de amparo, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "carga de la prueba",
+    "Ley de Abogados"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0231_E24-0369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342043-0231-27225-2025-24-0369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.810628"
+}

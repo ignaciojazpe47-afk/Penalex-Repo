@@ -1,0 +1,26 @@
+{
+  "id": 41729,
+  "numero": "0163",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 88 dictada por la Sala Electoral, que había declarado con lugar un recurso contencioso electoral. El solicitante argumentó que la Sala Electoral incurrió en vicios de incongruencia y violaciones a derechos constitucionales, solicitando la nulidad de la sentencia. Sin embargo, la Sala Constitucional determinó que la Sala Electoral actuó conforme a derecho y desestimó la solicitud de revisión, declarando que no había lugar para la misma.",
+  "palabras_clave": [
+    "revisión",
+    "cosa juzgada",
+    "tutela judicial efectiva",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "Sala Electoral",
+    "normas constitucionales"
+  ],
+  "titulo": "Revisión de sentencia N° 88 de la Sala Electoral del TSJ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0163_E18-0718.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310768-0163-241120-2020-18-0718.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.416831"
+}

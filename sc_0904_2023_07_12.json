@@ -1,0 +1,24 @@
+{
+  "id": 31200,
+  "numero": "0904",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara la PÉRDIDA DEL INTERÉS Y EXTINCIÓN DEL PROCESO",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una demanda en defensa de derechos e intereses colectivos contra la Alcaldía del Municipio Cárdenas, Estado Táchira, por la omisión del Alcalde en el mantenimiento del orden público. La Sala declaró la pérdida del interés y la extinción del proceso debido a la falta de actuación de la parte actora durante más de un año. Se consideró inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "competencia",
+    "intereses colectivos",
+    "extinción del proceso",
+    "acción de protección",
+    "derechos difusos"
+  ],
+  "titulo": "Sentencia sobre la extinción del proceso por pérdida de interés en defensa de derechos colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0904_E17-0906.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326812-0904-12723-2023-17-0906.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.217673"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 24156,
+  "numero": "0103",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de derechos colectivos presentada por José Gregorio Pautt Andrade contra la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN). La decisión se basa en la falta de legitimidad activa del demandante, quien no demostró que sus derechos e intereses fueron afectados por la actuación administrativa impugnada. La Sala también reafirma su competencia para conocer el caso, pero señala que el demandante no cumplió con los requisitos necesarios para la admisibilidad de la acción.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "SUDEBAN",
+    "inadmisibilidad",
+    "legitimidad activa"
+  ],
+  "titulo": "Sentencia sobre demanda de derechos colectivos contra SUDEBAN",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0103_E22-1020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332474-0103-7224-2024-22-1020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.568421"
+}

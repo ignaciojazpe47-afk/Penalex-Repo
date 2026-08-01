@@ -1,0 +1,26 @@
+{
+  "id": 17555,
+  "numero": "0097",
+  "fecha": "2025-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la acción de amparo constitucional interpuesta por Dailin Alexander Nuñez Mendoza, quien alegó omisión judicial por parte de la Corte de Apelaciones en un caso penal. La Sala declara su competencia para conocer el amparo y ordena la corrección del escrito presentado por el abogado del demandante, debido a la falta de claridad en la descripción de los hechos y derechos vulnerados. Se establece un plazo para que el demandante subsane las omisiones, advirtiendo que la falta de corrección podría llevar a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmisibilidad",
+    "tutela",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Dailin Alexander Nuñez Mendoza",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0097_E25-0998.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352785-0097-19226-2026-25-0998.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.756594"
+}

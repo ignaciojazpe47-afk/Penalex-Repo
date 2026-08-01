@@ -1,0 +1,24 @@
+{
+  "id": 53713,
+  "numero": "721",
+  "fecha": "2016-02-11",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la decisión N° 886 de la Sala de Casación Social, que había declarado con lugar un recurso de casación en un caso de homologación de pensiones de jubilación. La magistrada ponente, Carmen Zuleta de Merchán, argumentó que la decisión impugnada violaba derechos constitucionales laborales, en particular el derecho a la igualdad, al establecer diferencias en el tratamiento de pensiones entre el sector público y privado. La Sala concluyó que la homologación de pensiones debe ajustarse al salario mínimo urbano, garantizando así la protección de los derechos de los trabajadores jubilados.",
+  "palabras_clave": [
+    "homologación de pensiones",
+    "derechos laborales",
+    "igualdad",
+    "salario mínimo",
+    "jubilación"
+  ],
+  "titulo": "Sentencia sobre homologación de pensiones de jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-08-14_S721_E14-1227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/203030-721-14817-2017-14-1227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.956708"
+}

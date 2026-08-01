@@ -1,0 +1,25 @@
+{
+  "id": 30003,
+  "numero": "0412",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Nelis Emiro Carrero Soto en representación de Darwin Jesús Pacheco Cruces y Darwin Jesús Pacheco Carrero, alegando que no se cumplió con los requisitos de admisibilidad establecidos en la ley. La acción se refería a una audiencia celebrada el 29 de enero de 2021 por la Corte de Apelaciones del Circuito Judicial Penal del estado Barinas, donde se alegó la falta de representación legal adecuada durante dicha audiencia.\n\nLa Sala argumenta que el accionante no presentó la documentación necesaria, específicamente la copia certificada del acto judicial impugnado, lo que constituye una causal de inadmisibilidad. Se enfatiza que es responsabilidad del demandante aportar los elementos necesarios para que el tribunal pueda evaluar la admisibilidad de la acción de amparo.\n\nFinalmente, se resuelve declarar inadmisible la acción de amparo, indicando que el incumplimiento de los requisitos procesales por parte del accionante ha llevado a esta decisión.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "documentación",
+    "carga procesal",
+    "decisiones judiciales",
+    "requisitos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0412_E21-0266.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324682-0412-28423-2023-21-0266.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.811633"
+}

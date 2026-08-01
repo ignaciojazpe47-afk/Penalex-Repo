@@ -1,0 +1,25 @@
+{
+  "id": 38109,
+  "numero": "1232",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible Sobrevenidamente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por los defensores de Hugo Antonio Terán, quien alegó dilación indebida por parte de la Corte de Apelaciones de Violencia contra la Mujer. La Sala constató que la Corte de Apelaciones se pronunció sobre el recurso de apelación el 7 de noviembre de 2022, lo que llevó a la Sala a declarar la acción de amparo inadmisible sobrevenidamente. La decisión se fundamenta en que la situación jurídica denunciada cesó, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "violencia contra la mujer",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por retardo en pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1232_E22-0723.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322124-1232-151222-2022-22-0723.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.130806"
+}

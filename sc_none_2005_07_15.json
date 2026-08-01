@@ -1,0 +1,23 @@
+{
+  "id": 3248,
+  "numero": null,
+  "fecha": "2005-07-15",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la acción de amparo interpuesta por los abogados de Luis Tascón Gutiérrez, contra la sentencia de la Sala No. 5 de la Corte de Apelaciones que declaró el abandono del trámite de la acusación privada por difamación. La Sala argumenta que el incumplimiento de las cargas procesales por parte del acusador no puede perjudicar a la parte que ha cumplido con sus obligaciones, y que el abandono de la acusación no extingue la acción penal, permitiendo que esta pueda ser intentada nuevamente si no ha prescrito el derecho de acción.",
+  "palabras_clave": [
+    "Amparo",
+    "Abandono de Acusación",
+    "Debido Proceso",
+    "Derecho a la Defensa"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Abandono de Acusación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2005-07-15_Constitucional_04.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.518714"
+}

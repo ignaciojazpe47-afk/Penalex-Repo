@@ -1,0 +1,25 @@
+{
+  "id": 27025,
+  "numero": "0511",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Daniel Cipriano Pérez Rodríguez en representación de José Ángel Álvarez Álvarez, debido a la presunta omisión de pronunciamiento de la Corte de Apelaciones. La Sala determinó que la causa había cesado, ya que la Corte de Apelaciones había emitido una decisión el 15 de enero de 2024, lo que hizo que la acción de amparo no fuera procedente. Se ordena remitir copia certificada del fallo a la Corte de Apelaciones correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial",
+    "debido proceso",
+    "violencia contra la mujer",
+    "Corte de Apelaciones",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0511_E22-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338399-0511-301024-2024-22-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.471992"
+}

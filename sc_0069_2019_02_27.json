@@ -1,0 +1,27 @@
+{
+  "id": 42369,
+  "numero": "0069",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Simón Bastardo, quien alegó violaciones a su derecho al trabajo por parte de funcionarios del Circuito Judicial Penal del Estado Guárico. La Sala argumenta que se incurrió en inepta acumulación de pretensiones al dirigir la solicitud contra varios funcionarios cuyas actuaciones no son conocidas por el mismo órgano jurisdiccional. Se ordena remitir copia del fallo a la jueza del Tribunal de Control N° 5 y al presidente del Circuito Judicial Penal para su conocimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "abogados",
+    "justicia",
+    "arbitrariedad",
+    "libre ejercicio",
+    "vulneración",
+    "circuito judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0069_E17-1154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304020-0069-27219-2019-17-1154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.612517"
+}

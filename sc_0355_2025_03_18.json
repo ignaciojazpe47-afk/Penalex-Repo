@@ -1,0 +1,26 @@
+{
+  "id": 18883,
+  "numero": "0355",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Miguel Ángel Domínguez Franchi en representación de Aquiles Hopkins González. La decisión se basa en la falta de acompañamiento de documentos probatorios necesarios para validar las alegaciones de violaciones al debido proceso y al orden público constitucional. La Sala resalta la importancia de cumplir con las cargas procesales para la admisibilidad de tales solicitudes.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "carga procesal",
+    "pruebas",
+    "documentación",
+    "poder judicial",
+    "derechos"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0355_E24-0526.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342386-0355-18325-2025-24-0526.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.728935"
+}

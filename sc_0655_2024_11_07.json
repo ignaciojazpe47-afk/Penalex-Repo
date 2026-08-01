@@ -1,0 +1,22 @@
+{
+  "id": 27249,
+  "numero": "0655",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D´Amelio Cardiet",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por Antonio Rafael Pérez Yépez contra un auto del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Lara. El demandante argumenta que no fue notificado adecuadamente sobre la reanudación de un proceso de desalojo, lo que vulneró su derecho al debido proceso. La Sala Constitucional determina su competencia para conocer el caso y decide a favor del demandante, ordenando la remisión de un informe detallado sobre el estado actual de la causa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0655_E23-0591.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338651-0655-71124-2024-23-0591.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.442591"
+}

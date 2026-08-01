@@ -1,0 +1,22 @@
+{
+  "id": 32172,
+  "numero": "1243",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "El ciudadano Otoniel Pautt Andrade interpuso una demanda de derechos colectivos contra la inhabilitación administrativa impuesta a María Corina Machado por la Contraloría General de la República. La Sala Constitucional, tras analizar la demanda, determinó que no se trataba de una acción para la protección de intereses colectivos, sino de una acción de amparo autónoma, ya que la afectación era individual y no colectiva. Finalmente, la Sala declaró inadmisible la pretensión por falta de legitimidad del demandante para cuestionar el acto administrativo que afectaba a otra persona.",
+  "palabras_clave": [
+    "inhabilitación administrativa",
+    "derechos colectivos",
+    "amparo constitucional"
+  ],
+  "titulo": "Demanda de derechos colectivos sobre inhabilitación administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1243_E23-0706.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328992-1243-14823-2023-23-0706.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.865138"
+}

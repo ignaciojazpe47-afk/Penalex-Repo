@@ -1,0 +1,24 @@
+{
+  "id": 21118,
+  "numero": "1182",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara NO HA LUGAR la solicitud de revisión interpuesta por los abogados de la empresa Automercado La Vivienda San Juan, C.A., en relación a la sentencia del 18 de julio de 2023. En dicha sentencia, el Juzgado Superior Tercero había declarado con lugar la demanda de desalojo interpuesta por Comercializadora Spinosi e Hijos, C.A., fundamentándose en la confesión ficta de la parte demandada por falta de contestación oportuna a la demanda.\nLa Sala argumenta que la revisión no es un medio para reexaminar el fondo del asunto, sino para garantizar la uniformidad en la interpretación de normas constitucionales. Se concluye que no se evidencian violaciones a derechos fundamentales ni errores de interpretación que justifiquen la revisión solicitada, por lo que se ratifica la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "confesión ficta",
+    "desalojo",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1182_E23-1080.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346400-1182-23725-2025-23-1080.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.383374"
+}

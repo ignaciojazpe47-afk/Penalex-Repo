@@ -1,0 +1,24 @@
+{
+  "id": 41227,
+  "numero": "0070",
+  "fecha": "2020-06-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del TSJ, en su sentencia número 0068, declara la competencia para conocer de la acción de inconstitucionalidad por omisión legislativa presentada por varios ciudadanos. Se admite la demanda y se establece que el desacato de la Asamblea Nacional se mantiene, lo que invalida todos los actos relacionados con la designación de los rectores del Consejo Nacional Electoral. La Sala ordena la convocatoria de comicios y la designación de nuevos rectores, quienes asumirán sus funciones tras la juramentación.",
+  "palabras_clave": [
+    "CNE",
+    "desacato",
+    "designación",
+    "rectores",
+    "inconstitucionalidad"
+  ],
+  "titulo": "Sentencia sobre la omisión legislativa en la designación de rectores del CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-12_S0070_E20-0215.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309872-0070-12620-2020-20-0215.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.123977"
+}

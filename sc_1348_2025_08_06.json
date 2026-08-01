@@ -1,0 +1,24 @@
+{
+  "id": 21488,
+  "numero": "1348",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional se pronunció sobre la competencia para conocer la solicitud de revisión constitucional presentada por Adriana Coromoto Gutiérrez Lozano, quien impugnó una sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito. La solicitud se fundamentó en la alegación de que el Juzgado Superior había declarado sin lugar la acción de desalojo, argumentando que la demandante no demostró la necesidad de ocupar el inmueble. La Sala declaró su competencia y ordenó al Juzgado Rector realizar las gestiones pertinentes para remitir el expediente completo.",
+  "palabras_clave": [
+    "pruebas",
+    "desalojo",
+    "responsabilidad administrativa",
+    "notificación",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1348_E18-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347010-1348-6825-2025-18-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.760156"
+}

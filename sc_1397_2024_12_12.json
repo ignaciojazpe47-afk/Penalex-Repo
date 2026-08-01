@@ -1,0 +1,26 @@
+{
+  "id": 28492,
+  "numero": "1397",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Miguel Ángel Pérez Mellado, actuando como apoderado judicial del ciudadano Antonio Coletta Ponticelli, respecto a la sentencia dictada el 26 de julio de 2024. La inadmisibilidad se fundamenta en la falta de presentación de documentos esenciales, como la copia certificada del poder que acredita la representación del solicitante y la sentencia objeto de revisión. La Sala reafirma la necesidad de cumplir con los requisitos establecidos para la admisión de solicitudes de revisión.",
+  "palabras_clave": [
+    "instrumento privado",
+    "reconocimiento",
+    "procedimiento civil",
+    "prueba",
+    "interdicción",
+    "derechos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1397_E24-0803.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340515-1397-121224-2024-24-0803.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.203910"
+}

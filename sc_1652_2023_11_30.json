@@ -1,0 +1,26 @@
+{
+  "id": 33144,
+  "numero": "1652",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por JHONY SEGUNDO PACHECO MENDOZA, en su carácter de representante de RESTAURANTE EL GUANAREÑO, contra la sentencia del Juzgado Superior en lo Civil, que declaró improcedente por inadmisible la acción de retracto legal arrendaticio. La Sala concluyó que no existían infracciones a derechos constitucionales y que la decisión del juzgado superior se basó en su apreciación soberana de los hechos. Por lo tanto, se declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "retracto legal",
+    "arrendamiento",
+    "nulidad",
+    "contrato",
+    "preferencia",
+    "inmueble",
+    "venta"
+  ],
+  "titulo": "Revisión de sentencia sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1652_E23-0703.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330820-1652-301123-2023-23-0703.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.172741"
+}

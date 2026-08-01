@@ -1,0 +1,22 @@
+{
+  "id": 40175,
+  "numero": "0612",
+  "fecha": "2021-11-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por el abogado Simón José Arrieta Quintero, defensor privado de Nereo Vargas, quien fue condenado a 17 años y seis meses de prisión por tráfico ilícito de drogas. La solicitud fue declarada inadmisible debido a la falta de documentación necesaria que acreditara la legitimidad del abogado como defensor y la ausencia de pruebas que justificaran la petición de avocamiento. La Sala se declaró competente para conocer la solicitud, pero al no cumplirse con los requisitos establecidos, se decidió no admitirla.",
+  "palabras_clave": [
+    "avocamiento",
+    "tráfico ilícito de drogas",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0612_E21-0396.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314368-0612-111121-2021-21-0396.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.520950"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 34202,
+  "numero": "1310",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Damary del Valle Lemus Yánez, en relación a una medida de prohibición de salida del país dictada contra Mario Segundo Ruda. La Sala declaró inadmisible el recurso por extemporáneo, ya que se presentó fuera del lapso establecido por la ley. Se destacó la importancia de la notificación adecuada en procesos judiciales y se hizo un llamado al tribunal inferior para mejorar la revisión de causas y cómputos de plazos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "prohibición de salida",
+    "inadmision",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1310_E22-0906.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328514-1310-16823-2023-22-0906.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.226564"
+}

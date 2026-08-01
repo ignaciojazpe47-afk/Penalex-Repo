@@ -1,0 +1,25 @@
+{
+  "id": 18284,
+  "numero": "0080",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Gabriela Díaz Padrón, quien alegó irregularidades en el proceso penal que se le seguía. La Sala determinó que la solicitud era inadmisible debido a la inepta acumulación de pretensiones, ya que se interponían acciones que no podían ser conocidas simultáneamente por el mismo tribunal. Se concluyó que la solicitud de avocamiento no cumplía con los requisitos legales establecidos.",
+  "palabras_clave": [
+    "inmotividad",
+    "incongruencia",
+    "avocamiento",
+    "derechos constitucionales",
+    "proceso penal",
+    "violación de derechos"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0080_E24-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341342-0080-7225-2025-24-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.551556"
+}

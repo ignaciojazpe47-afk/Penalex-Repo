@@ -1,0 +1,24 @@
+{
+  "id": 37565,
+  "numero": "1041",
+  "fecha": "2022-11-23",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "HA LUGAR a la solicitud de revisión constitucional que interpuso la ciudadana ZULAY EMILIA LÓPEZ MENDOZA contra la sentencia dictada el 24 de abril de 2018.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 24 de abril de 2018, que había declarado parcialmente con lugar un recurso de apelación. La solicitante argumentó que la decisión del tribunal de alzada incurrió en el vicio de NON REFORMATIO IN PEIUS, desmejorando su situación al no ordenar la indexación de las cantidades a devolver. La Sala concluyó que se vulneraron los derechos a la defensa y al debido proceso, ya que el tribunal superior modificó la decisión en perjuicio del único apelante sin que la otra parte hubiera apelado. Por lo tanto, se anuló la decisión impugnada y se ordenó que un nuevo tribunal se pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "resolución de contrato",
+    "opción de compra-venta",
+    "cláusula penal",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre resolución de contrato de opción de compra-venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-23_S1041_E22-0073.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320996-1041-231122-2022-22-0073.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.332566"
+}

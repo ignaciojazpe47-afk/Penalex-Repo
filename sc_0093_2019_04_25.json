@@ -1,0 +1,25 @@
+{
+  "id": 42613,
+  "numero": "0093",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible y Anula",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio la sentencia del 17 de noviembre de 2016, que homologó el desistimiento de la solicitud de divorcio de mutuo acuerdo entre Ana Mireya Moreno y José Ramón Pantoja Aguilar. La Sala declaró inadmisible la solicitud de revisión presentada por Pahola Nataly Mendoza Moreno, apoderada de Ana Mireya, por no cumplir con los requisitos procesales necesarios. Sin embargo, la Sala también anuló la sentencia impugnada, argumentando que se violaron principios fundamentales del debido proceso y el derecho a la defensa, ya que el desistimiento fue homologado sin el consentimiento de ambos cónyuges, lo que contraviene el orden público procesal.",
+  "palabras_clave": [
+    "divorcio",
+    "revisión",
+    "poder",
+    "jurisdicción",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de homologación de desistimiento de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0093_E17-0377.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304642-0093-25419-2019-17-0377.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.600084"
+}

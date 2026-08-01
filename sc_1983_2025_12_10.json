@@ -1,0 +1,25 @@
+{
+  "id": 23691,
+  "numero": "1983",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR a la solicitud de revisión.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia 23-1173, ha decidido a favor de la solicitud de revisión constitucional presentada por Alirio José Mijares Briñez, en contra de las sentencias emitidas por el Juzgado Superior Estadal Noveno de lo Contencioso Administrativo. Se declara nula la decisión del juzgado superior que había declarado con lugar la acción de habeas data interpuesta por el demandante contra la Junta Directiva del Centro Médico Docente La Trinidad, argumentando que se vulneraron derechos constitucionales y el principio del juez natural. La Sala ordena remitir el expediente al juzgado correspondiente para un nuevo pronunciamiento sobre el recurso de apelación.",
+  "palabras_clave": [
+    "cualidad",
+    "legitimidad",
+    "habeas data",
+    "asociación civil",
+    "poderes",
+    "derecho administrativo"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1983_E23-1173.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351690-1983-101225-2025-23-1173.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.744754"
+}

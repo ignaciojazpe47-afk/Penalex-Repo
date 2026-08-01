@@ -1,0 +1,23 @@
+{
+  "id": 30273,
+  "numero": "0492",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Cuadragésimo Primero Superior Accidental del Trabajo que declaró sin lugar un recurso de apelación interpuesto por Alfonso Junior Torres Antequera. El peticionario alegó violaciones a sus derechos constitucionales, específicamente al debido proceso y a la tutela judicial efectiva, debido a la falta de ejecución de una sentencia anterior que ordenaba su reenganche y el pago de salarios caídos tras su despido. La Sala concluyó que la negativa del patrono a cumplir con la orden judicial vulneraba los derechos del trabajador.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "derechos laborales",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0492_E18-0351.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325113-0492-15523-2023-18-0351.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.041850"
+}

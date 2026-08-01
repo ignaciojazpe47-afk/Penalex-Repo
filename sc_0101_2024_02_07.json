@@ -1,0 +1,24 @@
+{
+  "id": 24154,
+  "numero": "0101",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Dayan Arturo Gonzales Jiménez en representación de los ciudadanos García Alvarado José Daniel y Caraballo Ruadez Jhonathan José. La decisión se basa en la omisión de pronunciamiento de la Jueza Helem Carolina Ojeda respecto a la solicitud de nulidad absoluta de la aprehensión en flagrancia, argumentando que los accionantes habían utilizado las vías judiciales ordinarias y obtenido una resolución de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala también establece su competencia para conocer del recurso de apelación, pero concluye que este fue interpuesto de manera extemporánea, por lo que se declara firme la sentencia objeto del recurso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "omisión de pronunciamiento",
+    "Corte de Apelaciones",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0101_E22-0138.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332472-0101-7224-2024-22-0138.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.567929"
+}

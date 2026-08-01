@@ -1,0 +1,22 @@
+{
+  "id": 29068,
+  "numero": "0066",
+  "fecha": "2023-03-03",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la revisión constitucional solicitada y ANULA la decisión identificada como RC.00031 dictada el 16 de marzo de 2021 por la Sala de Casación Civil.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC.00031 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación y sin lugar una demanda por simulación. La Sala Constitucional encontró que la Sala Civil había vulnerado derechos fundamentales al no pronunciarse adecuadamente sobre la simulación solicitada en un 50%. En consecuencia, se declaró ha lugar la revisión y se anuló la decisión impugnada, ordenando a la Sala de Casación Civil dictar una nueva decisión conforme a las consideraciones expuestas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "simulación",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión constitucional de la sentencia RC.00031 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-03_S0066_E21-0198.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323234-0066-3323-2023-21-0198.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.281463"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32953,
+  "numero": "1522",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Luis Roso Moros Ramírez, quien no compareció a ratificar su solicitud ni presentó la documentación necesaria. A pesar de haber sido notificado el 19 de marzo de 2021, el demandante no cumplió con el requisito de ratificación dentro del plazo establecido por la ley, lo que llevó a la Sala a considerar que no había interés en continuar con el proceso.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "jurisprudencia",
+    "ratificación",
+    "derechos",
+    "garantías",
+    "internet"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1522_E21-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330576-1522-231123-2023-21-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.433500"
+}

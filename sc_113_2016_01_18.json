@@ -1,0 +1,23 @@
+{
+  "id": 56310,
+  "numero": "113",
+  "fecha": "2016-01-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se admitió la acción de amparo constitucional interpuesta por las ciudadanas Luz Marina López Abadía Bravo, Virginia Batlle López Abadía de Rincón y Diana López Abadía Bravo, contra una decisión de la Sala Tercera Accidental de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La decisión impugnada había declarado sin lugar un recurso de apelación relacionado con la prescripción penal ordinaria y extraordinaria en un caso de estafa continuada.\n\nLa Sala Constitucional consideró que la decisión de la Corte de Apelaciones incurrió en un grave error al no aplicar correctamente las normas sobre prescripción penal, específicamente el artículo 109 del Código Penal, que establece que la prescripción debe computarse desde la fecha de la comisión del delito y no desde la fecha de la denuncia. Por lo tanto, se declaró con lugar el amparo solicitado y se anuló la decisión de la Corte de Apelaciones.\n\nFinalmente, la Sala enfatizó la importancia de la correcta aplicación de las normas sobre prescripción penal, dado que esta institución interesa al orden público y limita el poder punitivo del Estado.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Prescripción Penal",
+    "Estafa Continuada",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Prescripción Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-04_S113_E15-0827.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185919-113-4316-2016-15-0827.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.961391"
+}

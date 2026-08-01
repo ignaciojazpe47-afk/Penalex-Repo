@@ -1,0 +1,25 @@
+{
+  "id": 18777,
+  "numero": "0308",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Panagiotis Paraskevas Collitiri contra la decisión del Tribunal Segundo de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Táchira. La acción fue motivada por la alegación de violaciones al debido proceso en un juicio de divorcio. La Sala declina la competencia a un Juzgado Superior del mismo circuito judicial.",
+  "palabras_clave": [
+    "amparo",
+    "divorcio",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0308_E22-0568.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342240-0308-12325-2025-22-0568.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.864928"
+}

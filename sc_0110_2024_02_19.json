@@ -1,0 +1,26 @@
+{
+  "id": 24238,
+  "numero": "0110",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, dictó una sentencia el 19 de febrero de 2024, en la que se acordó la medida cautelar de suspensión de efectos de una sentencia anterior del Juzgado Superior Cuarto en lo Civil, Mercantil, Tránsito, Agrario y Bancario del Estado Táchira, que había declarado sin lugar una apelación y confirmado una sentencia de partición de comunidad hereditaria. La revisión fue solicitada por Rodrigo Guerrero Porras, quien alegó violaciones al debido proceso y a su derecho a la defensa en el juicio de partición de la comunidad hereditaria de su madre fallecida, Jeari Guerrero Cardozo.\n\nLa Sala consideró que existían fundamentos suficientes para la revisión, dado que se alegaron vicios en la citación y en la actuación del defensor ad litem. En consecuencia, se decretaron medidas cautelares de prohibición de enajenar y gravar sobre el inmueble objeto del juicio, así como de no innovar sobre el mismo, hasta que se decida el mérito de la solicitud de revisión. La decisión se fundamenta en la necesidad de proteger los derechos constitucionales del solicitante mientras se resuelve el caso.",
+  "palabras_clave": [
+    "herencia",
+    "sucesiones",
+    "partición",
+    "derechos",
+    "inmuebles",
+    "testimonios",
+    "documentos"
+  ],
+  "titulo": "Sentencia sobre revisión de partición de comunidad hereditaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0110_E24-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332619-0110-19224-2024-24-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.565666"
+}

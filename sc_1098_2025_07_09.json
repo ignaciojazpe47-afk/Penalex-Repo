@@ -1,0 +1,26 @@
+{
+  "id": 20839,
+  "numero": "1098",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación presentado por Ciro Dolores Guerrero, relacionado con los artículos 25, 26, 51, 89 y 257 de la Constitución de la República Bolivariana de Venezuela. La decisión se basa en la falta de legitimación del solicitante, quien no demostró un interés jurídico actual y legítimo que justificara la intervención del Tribunal. La Sala reafirma su competencia para interpretar normas constitucionales y establece criterios sobre la admisibilidad de tales recursos.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "derechos humanos",
+    "democracia",
+    "justicia",
+    "recursos",
+    "salas constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1098_E25-0205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345860-1098-9725-2025-25-0205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.500296"
+}

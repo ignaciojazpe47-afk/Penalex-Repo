@@ -1,0 +1,26 @@
+{
+  "id": 33013,
+  "numero": "1582",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Sergio Urdaneta en representación de Calogero Alaimo Mancuso, quien se encontraba detenido en España por una solicitud de aprehensión desde Venezuela. La Sala determinó que no tenía competencia para conocer la acción, ya que debía ser la Corte de Apelaciones de Violencia contra la Mujer del Circuito Judicial Penal del Estado Zulia la que conociera del caso. La decisión se fundamentó en la falta de competencia de la Sala Constitucional para conocer en primera instancia de la acción de amparo.",
+  "palabras_clave": [
+    "derechos",
+    "garantías",
+    "extradición",
+    "defensa",
+    "violencia de género",
+    "jurisprudencia",
+    "competencia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1582_E23-0105.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330637-1582-281123-2023-23-0105.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.015120"
+}

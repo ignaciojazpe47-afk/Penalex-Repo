@@ -1,0 +1,25 @@
+{
+  "id": 40590,
+  "numero": "0715",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer de la remisión de un desacato de mandamiento de amparo constitucional. Se establece que las denuncias de incumplimiento de mandamientos de amparo deben ser sometidas a esta Sala, conforme a la doctrina vinculante establecida en sentencias anteriores. En este caso, se ordena al Tribunal Cuarto de Primera Instancia de Juicio del Trabajo de Anzoátegui que informe sobre las resultas de un recurso de apelación en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "desacato",
+    "justicia",
+    "constitucional",
+    "tribunal",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre la competencia para conocer de la remisión de desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0715_E20-0034.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314955-0715-31221-2021-20-0034.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.489618"
+}

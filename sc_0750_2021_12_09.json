@@ -1,0 +1,24 @@
+{
+  "id": 40805,
+  "numero": "0750",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la apelación interpuesta por Néstor Alfonso Rondón González, apoderado de Wilmer Emilio Cortés Velásquez, contra la sentencia del Juzgado Superior Segundo del Trabajo de Aragua que declaró inadmisible la acción de amparo constitucional. La Sala confirma la decisión del Juzgado, argumentando que el amparo fue incorrectamente calificado como 'sobrevenido' cuando en realidad se trataba de un amparo contra sentencia, y que la falta de presentación de la sentencia impugnada constituye una causal de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "sentencia",
+    "derechos constitucionales",
+    "trabajo"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0750_E19-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315202-0750-91221-2021-19-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.732314"
+}

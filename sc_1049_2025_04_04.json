@@ -1,0 +1,27 @@
+{
+  "id": 20650,
+  "numero": "1049",
+  "fecha": "2025-04-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia número 173, se declaró competente para conocer de la apelación ejercida por Gino José Marcotullio Rodríguez, quien impugnó la decisión de la Corte de Apelaciones en Penal Ordinario y Responsabilidad del Adolescente del Estado La Guaira. La apelación se refería a la declaración de inadmisibilidad de la acción de amparo constitucional interpuesta por el demandante contra el Fiscal Provisorio Tercero del Ministerio Público.\nLa Sala, tras analizar los antecedentes del caso, determinó que el recurso de apelación era inadmisible, ya que el demandante había agotado la doble instancia y la sentencia recurrida había quedado firme, surtiendo los efectos de cosa juzgada. En consecuencia, se declaró la inadmisibilidad del recurso interpuesto por la abogada del demandante.\nFinalmente, la Sala ordenó la publicación y registro de la decisión, remitiendo el expediente al tribunal de origen para su cumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "incompetencia",
+    "apelación",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "decisión",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la apelación interpuesta en el caso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1049_E25-0383.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345324-1049-30625-2025-25-0383.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.600393"
+}

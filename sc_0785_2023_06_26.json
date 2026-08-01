@@ -1,0 +1,26 @@
+{
+  "id": 31002,
+  "numero": "0785",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Gladys María Gutiérrez Alvarado, decidió sobre la apelación de amparo constitucional interpuesta por Maira Andreina Godoy Rangel contra la decisión del Juzgado Superior Primero de Protección de Niños, Niñas y Adolescentes de Trujillo, que declaró inadmisible su acción. La apelante alegó violaciones a sus derechos procesales y a la tutela judicial efectiva, argumentando que no se respetaron los procedimientos establecidos en la ley.\nLa Sala, tras revisar el expediente, determinó que la apelante no había agotado las vías ordinarias de impugnación, lo que llevó a declarar inadmisible la acción de amparo. Se enfatizó que el recurso de apelación era el medio adecuado para cuestionar la decisión del tribunal inferior, y que la falta de ejercicio de este recurso impedía la admisión del amparo constitucional.\nFinalmente, la Sala confirmó la decisión del tribunal inferior, declarando sin lugar la apelación y reafirmando la inadmisibilidad del recurso de amparo constitucional, en cumplimiento de lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "tutela_judicial",
+    "derechos_constitucionales",
+    "recursos_judiciales",
+    "tribunales",
+    "niños_y_adolescentes"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0785_E23-0210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326441-0785-26623-2023-23-0210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.548494"
+}

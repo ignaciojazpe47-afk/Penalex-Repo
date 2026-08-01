@@ -1,0 +1,23 @@
+{
+  "id": 42343,
+  "numero": "0056",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado Alexis Meliton Flores Mata, en representación de Alexis Sulbarán Torres, contra la decisión de la Sala Número Siete de la Corte de Apelaciones. Esta última había declarado la nulidad absoluta de una decisión anterior que había otorgado una medida cautelar de arresto domiciliario, manteniendo la privación judicial preventiva de libertad del accionante. La Sala Constitucional argumentó que la decisión de la Corte de Apelaciones no incurrió en infracciones constitucionales y que la acción de amparo carecía de los presupuestos necesarios para su procedencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad absoluta",
+    "privación de libertad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Alexis Sulbarán Torres",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0056_E17-0308.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303994-0056-27219-2019-17-0308.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.612992"
+}

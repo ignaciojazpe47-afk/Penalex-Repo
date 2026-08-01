@@ -1,0 +1,22 @@
+{
+  "id": 28951,
+  "numero": "0050",
+  "fecha": "2023-02-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Sala de Casación Civil que declaró perecido un recurso de casación. El solicitante argumentó que el cómputo de los plazos para la formalización del recurso fue incorrecto, alegando violaciones a sus derechos constitucionales. La Sala, tras analizar los fundamentos, decidió declarar con lugar la solicitud de revisión, ordenando la remisión de documentos pertinentes para esclarecer la situación procesal.",
+  "palabras_clave": [
+    "Revisión Constitucional",
+    "Perecimiento",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de Revisión Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-28_S0050_E22-0310.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322980-0050-28223-2023-22-0310.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.287805"
+}

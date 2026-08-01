@@ -1,0 +1,24 @@
+{
+  "id": 61226,
+  "numero": "1174",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación en un juicio de partición de bienes. La demandada, Tibisay Elena Carrillo Porras, alegó que el contrato de compra-venta que sustentaba la demanda de partición era nulo, argumentando que había pagado la totalidad del precio del inmueble. La Sala Constitucional determinó que la Sala de Casación Civil había incurrido en un error al considerar la defensa de la demandada como una reconvención, lo que menoscabó el derecho a la defensa de la parte actora. En consecuencia, se declaró con lugar la solicitud de revisión y se anuló la sentencia objeto de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "partición",
+    "bienes"
+  ],
+  "titulo": "Revisión de sentencia de casación en juicio de partición de bienes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1174_E16-0387.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193987-1174-151216-2016-16-0387.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.102063"
+}

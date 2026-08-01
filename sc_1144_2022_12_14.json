@@ -1,0 +1,23 @@
+{
+  "id": 38003,
+  "numero": "1144",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Segundo que había declarado con lugar la demanda por resolución de contrato de compraventa entre Imad Nagib El Asmar y Samer El Asmar. La Sala determinó que la sentencia impugnada violó derechos fundamentales al no considerar adecuadamente las pruebas presentadas, lo que llevó a la nulidad de las decisiones de primera y segunda instancia. Finalmente, se declaró sin lugar la demanda de resolución de contrato, restableciendo la situación jurídica anterior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "resolución de contrato",
+    "compraventa",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión Constitucional sobre resolución de contrato de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1144_E18-0167.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321978-1144-141222-2022-18-0167.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.144977"
+}

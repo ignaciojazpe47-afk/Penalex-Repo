@@ -1,0 +1,26 @@
+{
+  "id": 46638,
+  "numero": "0323",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal y el abandono del trámite de la demanda de nulidad interpuesta por el Alcalde del Municipio Libertad del Estado Anzoátegui, Gustavo Adolfo Mata Peña, contra el acto administrativo del Concejo Legislativo Municipal. Se argumenta que desde la interposición de la acción no hubo actividad procesal por parte del demandante, lo que evidencia la falta de interés en la resolución del caso.\n\nLa sentencia también resalta que el Proyecto de Ordenanza del Presupuesto de Ingresos y Gastos del Municipio Libertad para el año 2016 ya no está vigente, lo que implica que no hay interés en decidir sobre la nulidad solicitada. La Sala concluye que la acción carece de objeto debido a la pérdida de vigencia de la ordenanza impugnada.\n\nFinalmente, se declara competente para conocer la solicitud de nulidad, pero se desestima la misma por falta de interés procesal, archivando el expediente.",
+  "palabras_clave": [
+    "nulidad",
+    "presupuesto",
+    "actos administrativos",
+    "municipio",
+    "constitucionalidad",
+    "leyes",
+    "gobierno local"
+  ],
+  "titulo": "Sentencia sobre nulidad de acto administrativo del Concejo Legislativo Municipal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-10_S0323_E16-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/210996-0323-10518-2018-16-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.815338"
+}

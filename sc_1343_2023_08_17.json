@@ -1,0 +1,22 @@
+{
+  "id": 34234,
+  "numero": "1343",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Oriana Romero Pérez contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes de declarar sin lugar la acción de amparo constitucional. La apelante alegó omisiones en el cumplimiento de la medida de manutención provisional dictada por el Juzgado Segundo de Primera Instancia. Sin embargo, la Sala concluyó que no hubo violación de derechos constitucionales, ya que el tribunal de primera instancia actuó conforme a derecho y no se evidenció falta de pronunciamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "manutención",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de manutención",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1343_E23-0423.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328548-1343-17823-2023-23-0423.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.215164"
+}

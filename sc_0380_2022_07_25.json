@@ -1,0 +1,24 @@
+{
+  "id": 35583,
+  "numero": "0380",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ANTONIO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de revisión de una sentencia dictada el 14 de febrero de 2020, que declaró sin lugar la apelación de un ciudadano en un caso de protección de niños. La Sala, tras analizar el expediente, se declaró competente para conocer la solicitud de revisión y ordenó al tribunal de origen realizar las diligencias necesarias para remitir el expediente correspondiente. Se advierte que el incumplimiento de esta orden conllevará sanciones.",
+  "palabras_clave": [
+    "protección de niños",
+    "amparo constitucional",
+    "revisión de sentencia",
+    "tribunales",
+    "derechos del menor"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0380_E21-0025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318141-0380-25722-2022-21-0025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.781035"
+}

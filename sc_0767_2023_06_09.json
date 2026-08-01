@@ -1,0 +1,25 @@
+{
+  "id": 30819,
+  "numero": "0767",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Félix Medina Bracho, en representación de varios ciudadanos, contra una sentencia del Tribunal Superior Tercero Agrario del Estado Lara. La acción fue presentada debido a la supuesta violación de garantías constitucionales en la decisión del tribunal agrario, que declaró sin lugar un recurso de apelación. La Sala Constitucional determinó que la acción de amparo era improcedente in limine litis, ya que no se cumplían los requisitos necesarios para su admisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "jurisprudencia",
+    "competencia",
+    "debido proceso",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0767_E23-0414.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326038-0767-9623-2023-23-0414.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.427377"
+}

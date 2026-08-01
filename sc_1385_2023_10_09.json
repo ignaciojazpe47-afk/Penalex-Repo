@@ -1,0 +1,23 @@
+{
+  "id": 32156,
+  "numero": "1385",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por los abogados de Alix Yaneth Pinilla Pulido, en relación a una sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario del Estado Aragua. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la decisión cuestionada, lo que impide verificar la certeza de la solicitud. La Sala reafirma la necesidad de cumplir con los requisitos establecidos para la admisión de este tipo de recursos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "Juzgado Superior Primero",
+    "Estado Aragua"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1385_E23-0652.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328975-1385-91023-2023-23-0652.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.408159"
+}

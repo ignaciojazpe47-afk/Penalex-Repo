@@ -1,0 +1,23 @@
+{
+  "id": 37839,
+  "numero": "1124",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Elita María Jiménez Medina, quien impugnó la sentencia del Juzgado Superior Octavo del Circuito Judicial del Trabajo que declaró sin lugar su demanda por calificación de despido. La Sala determinó que la actora ocupaba un cargo de dirección y, por lo tanto, no estaba amparada por la inamovilidad laboral prevista en la ley. La decisión del tribunal inferior fue confirmada, ya que se consideró que no hubo violación de derechos constitucionales ni error en la interpretación de la ley.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "despido",
+    "inamovilidad laboral",
+    "cargo de dirección"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de despido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1124_E16-0342.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321707-1124-91222-2022-16-0342.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.429800"
+}

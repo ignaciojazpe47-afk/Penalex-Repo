@@ -1,0 +1,25 @@
+{
+  "id": 20922,
+  "numero": "1123",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de julio de 2025, declaró improcedente la acción de amparo constitucional interpuesta por el abogado Carlos José Romero Piñero en representación de José Orlando Cuello Plata. La acción buscaba impugnar la decisión de la Sala 3 de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia, que había declarado sin lugar el recurso de apelación contra la medida de privación judicial preventiva de libertad impuesta al demandado. La Sala consideró que la decisión impugnada no vulneró derechos constitucionales y que las dilaciones en el proceso no eran imputables al órgano judicial, sino a circunstancias procesales ajenas a su control.",
+  "palabras_clave": [
+    "proceso penal",
+    "libertad",
+    "medidas cautelares",
+    "derechos humanos",
+    "constitución",
+    "proporcionalidad"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1123_E23-0294.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346030-1123-14725-2025-23-0294.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.391146"
+}

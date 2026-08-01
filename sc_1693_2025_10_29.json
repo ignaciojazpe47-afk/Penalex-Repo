@@ -1,0 +1,23 @@
+{
+  "id": 22636,
+  "numero": "1693",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la revisión constitucional solicitada y ANULA la sentencia N° 000372.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000372 dictada por la Sala de Casación Civil, que había declarado inadmisible la demanda por retracto legal arrendaticio interpuesta por Luciano Fabrizio Di Battista Di Francescantonio. La Sala Constitucional encontró que la Sala de Casación Civil incurrió en incongruencia omisiva al no pronunciarse sobre hechos relevantes, como la segunda venta del inmueble que otorgaba el derecho de preferencia al demandante. En consecuencia, se declaró con lugar la revisión y se anuló la sentencia impugnada, ordenando a la Sala de Casación Civil dictar una nueva decisión considerando lo expuesto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal arrendaticio",
+    "incongruencia",
+    "derecho de preferencia"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 000372",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1693_E25-0106.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349296-1693-291025-2025-25-0106.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.531657"
+}

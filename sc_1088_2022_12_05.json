@@ -1,0 +1,26 @@
+{
+  "id": 37739,
+  "numero": "1088",
+  "fecha": "2022-12-05",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Félix Enrique Carrasquel Pérez contra la sentencia del Juzgado Superior Sexto que declaró sin lugar el recurso de hecho. La Sala determinó que el recurso de apelación fue ejercido de manera extemporánea, superando el lapso legal de tres días para su interposición, lo que llevó a declarar improcedente la acción de amparo. Se concluyó que no existió vulneración de derechos constitucionales en el proceso.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "apelación",
+    "notificación",
+    "debido proceso",
+    "instancia",
+    "jurisdicción",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-05_S1088_E22-0694.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321407-1088-51222-2022-22-0694.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.440823"
+}

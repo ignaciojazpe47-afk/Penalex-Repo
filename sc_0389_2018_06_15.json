@@ -1,0 +1,25 @@
+{
+  "id": 47225,
+  "numero": "0389",
+  "fecha": "2018-06-15",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de interpretación del artículo 279 de la Constitución de la República Bolivariana de Venezuela, interpuesta por el abogado Julio César Rodríguez. La Sala declaró su competencia para conocer la demanda, pero consideró que no se cumplían los requisitos necesarios para su admisibilidad, ya que el solicitante no demostró un interés legítimo actual en la interpretación solicitada.",
+  "palabras_clave": [
+    "interpretacion",
+    "demanda",
+    "constitucion",
+    "legitimacion",
+    "poder ciudadano",
+    "enjuiciamiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda de interpretación del artículo 279 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-15_S0389_E17-0471.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212183-0389-15618-2018-17-0471.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.883265"
+}

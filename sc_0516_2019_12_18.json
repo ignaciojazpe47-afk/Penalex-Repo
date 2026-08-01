@@ -1,0 +1,25 @@
+{
+  "id": 44983,
+  "numero": "0516",
+  "fecha": "2019-12-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara inadmisible la acción de amparo constitucional interpuesta por Juan Andrés Eugenio Díaz contra las Resoluciones N° 170607-118 y 170607-119 del Consejo Nacional Electoral. Estas resoluciones estaban relacionadas con la convocatoria a una Asamblea Nacional Constituyente y la aprobación de las bases comiciales. La Sala argumenta que ya existe cosa juzgada respecto a los actos impugnados, dado que se había declarado la constitucionalidad del Decreto Presidencial que dio origen a dichas resoluciones en una sentencia anterior.",
+  "palabras_clave": [
+    "amparo",
+    "cosa juzgada",
+    "resoluciones",
+    "constitucionalidad",
+    "tribunal",
+    "electoral"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-18_S0516_E17-0900.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309241-0516-181219-2019-17-0900.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.807385"
+}

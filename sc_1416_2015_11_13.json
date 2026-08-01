@@ -1,0 +1,24 @@
+{
+  "id": 67404,
+  "numero": "1416",
+  "fecha": "2015-11-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por las abogadas de Isabella Magual Bravo, quien es la representante legal de una niña. La acción se interpuso contra una decisión del Tribunal Superior Cuarto que anuló una autorización para la tramitación del pasaporte de la niña, argumentando que se vulneraba su derecho a la nacionalidad y a obtener documentos de identidad. La Sala consideró que la decisión del tribunal inferior era prejudicial y debía ser suspendida hasta que se resolviera una medida de protección relacionada con el caso.\n\nLa Sala declaró con lugar la acción de amparo, restableciendo la situación jurídica infringida y ordenando la suspensión de la decisión del Tribunal Superior Cuarto. Además, se establecieron medidas cautelares para proteger los derechos de la niña mientras se resolvía el fondo del asunto. La sentencia enfatiza la importancia de garantizar el derecho a la identidad y nacionalidad de los menores, así como la necesidad de que las decisiones judiciales no obstaculicen estos derechos fundamentales.\n\nFinalmente, se ordenó notificar a los tribunales involucrados y al Ministerio Público sobre la decisión, asegurando que se cumplan los procedimientos establecidos para la protección de los derechos de la niña.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nacionalidad",
+    "identidad",
+    "pasaporte",
+    "medida de protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de identidad y nacionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1416_E15-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182908-1416-131115-2015-15-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:50.534954"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21097,
+  "numero": "1161",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional presentada por Dennis Oswaldo González Cabello. Este recurso fue interpuesto contra una sentencia del Tribunal Superior Cuarto que declaró improcedente la acción de amparo. La Sala, tras revisar el caso, determinó su competencia para conocer la apelación y analizó el desistimiento solicitado por el demandante, el cual fue considerado no homologable debido a la naturaleza de los derechos involucrados, que afectan a niños y adolescentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos de niños"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1161_E24-0303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346379-1161-23725-2025-24-0303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.387121"
+}

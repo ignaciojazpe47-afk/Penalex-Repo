@@ -1,0 +1,26 @@
+{
+  "id": 33435,
+  "numero": "1769",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE por extemporáneo",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados José Ángel Trejo Rodríguez y Richard Torres Núñez en representación de Erika Sangroni Amorini, argumentando que el recurso fue presentado de manera extemporánea. La decisión de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado inadmisible la acción de amparo, se mantiene firme. La Sala también reafirma su competencia para conocer del caso y destaca la importancia de agotar los recursos ordinarios antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "derechos",
+    "garantías",
+    "proceso penal",
+    "inadmisibilidad",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1769_E20-0425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331304-1769-71223-2023-20-0425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.151958"
+}

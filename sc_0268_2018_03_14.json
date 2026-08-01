@@ -1,0 +1,24 @@
+{
+  "id": 45995,
+  "numero": "0268",
+  "fecha": "2018-03-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 802, declaró sin lugar el recurso de apelación interpuesto por el abogado José Gregorio Hernández Oropeza, en representación de los ciudadanos Marcos José Mujica Lozada, Luis Alberto Cordero Urriola y Diego Rafael Cordero, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que la acción de amparo no procede cuando han cesado las causas que la motivaron, en este caso, la negativa de acceso al expediente, ya que posteriormente se celebró la audiencia preliminar y se dictó sentencia en la causa penal correspondiente.\n\nLa Sala también destacó que la acción de amparo constitucional es un medio extraordinario destinado a proteger derechos fundamentales y no puede ser utilizada como un recurso ordinario. En este sentido, se reafirmó que la acción de amparo debe ser admitida solo cuando persista la violación de derechos, lo cual no se evidenció en este caso, dado que se había dado cumplimiento a las solicitudes de la defensa.\n\nFinalmente, se confirmó la decisión de inadmisibilidad de la acción de amparo, resaltando la importancia de respetar los procedimientos establecidos y el acceso a la justicia en el marco de los derechos constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "apelacion",
+    "derechos_humanos",
+    "constitucion",
+    "justicia_penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0268_E15-1086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208712-0268-14318-2018-15-1086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.837422"
+}

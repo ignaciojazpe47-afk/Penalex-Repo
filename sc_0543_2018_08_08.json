@@ -1,0 +1,23 @@
+{
+  "id": 48112,
+  "numero": "0543",
+  "fecha": "2018-08-08",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia número 306 dictada por la Sala de Casación Penal, que declaró procedente la solicitud de extradición del ciudadano George Ranjit Mohamed Jamaloodin. La Sala determinó su competencia para conocer la solicitud, basándose en el artículo 336 de la Constitución y el artículo 25 de la Ley Orgánica del Tribunal Supremo de Justicia. Sin embargo, declaró inadmisible la solicitud de revisión, argumentando que ya había sido objeto de análisis y no violaba derechos constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "extradición",
+    "sentencia",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-08_S0543_E18-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/300718-0543-8818-2018-18-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.023375"
+}

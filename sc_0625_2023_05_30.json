@@ -1,0 +1,24 @@
+{
+  "id": 30579,
+  "numero": "0625",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de mayo de 2023, declaró no ha lugar la solicitud de revisión interpuesta por Leslie Cecilia Orsolani Gómez, en relación a las sentencias de la Corte Primera y Segunda de lo Contencioso Administrativo. La Sala consideró que las sentencias recurridas no violaron los derechos constitucionales de la solicitante y que la revisión no constituye una nueva instancia. Se enfatizó que la solicitud se basaba en la disconformidad con decisiones previas y no en hechos violatorios de derechos.",
+  "palabras_clave": [
+    "revisión",
+    "competencia",
+    "jurisdicción",
+    "función pública",
+    "derechos laborales"
+  ],
+  "titulo": "Revisión Constitucional de Sentencias de la Corte Primera y Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0625_E21-0794.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325713-0625-30523-2023-21-0794.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.940299"
+}

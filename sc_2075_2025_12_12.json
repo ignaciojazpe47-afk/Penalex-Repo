@@ -1,0 +1,25 @@
+{
+  "id": 23855,
+  "numero": "2075",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n° 00114 dictada por la Sala Político Administrativa, que declaró sin lugar la demanda por cobro de bolívares interpuesta por el abogado Cesáreo José Espinal Vásquez. La revisión se solicitó argumentando la denegación de justicia y la nulidad de la sentencia por no cumplir con las formalidades legales. Sin embargo, la Sala concluyó que la obligación demandada era condicional y no se cumplió, por lo que la decisión de la Sala Político Administrativa se ajustaba a derecho.",
+  "palabras_clave": [
+    "contrato",
+    "obligaciones",
+    "código civil",
+    "honorarios",
+    "condición",
+    "pago"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n° 00114 del 26 de febrero de 2025",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2075_E25-0741.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351888-2075-121225-2025-25-0741.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.733845"
+}

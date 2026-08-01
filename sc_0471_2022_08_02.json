@@ -1,0 +1,23 @@
+{
+  "id": 35827,
+  "numero": "0471",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del TSJ revisa una solicitud de revisión de una sentencia dictada en un juicio de liquidación y partición de bienes de la comunidad conyugal. La solicitante argumenta que la sentencia no cumplió con los requisitos legales y que hubo violaciones al debido proceso. La Sala, tras analizar el caso, ordena la remisión de copias certificadas del expediente correspondiente para un mejor análisis y decisión sobre el fondo del asunto.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "partición de bienes",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión de sentencia de partición de bienes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0471_E16-1079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318412-0471-2822-2022-16-1079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.658819"
+}

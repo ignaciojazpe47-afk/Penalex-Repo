@@ -1,0 +1,22 @@
+{
+  "id": 51102,
+  "numero": "169",
+  "fecha": "2014-02-06",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el Ministerio Público contra la decisión de la Corte Primera de lo Contencioso Administrativo que declaró sin lugar un recurso de apelación. La controversia se centró en la remoción del ciudadano Pedro Celestino Ramírez de su cargo como Fiscal Superior, alegando que su derecho a la seguridad social había sido vulnerado. La Corte confirmó la decisión del tribunal inferior, argumentando que el tiempo de servicio en las Fuerzas Armadas debe ser considerado para el cómputo de antigüedad en la administración pública, lo que le otorga derecho a la jubilación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "remoción",
+    "jubilación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por el Ministerio Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-04-07_S169_E14-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/197648-169-7417-2017-14-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:17.068244"
+}

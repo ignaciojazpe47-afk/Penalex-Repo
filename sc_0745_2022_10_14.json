@@ -1,0 +1,22 @@
+{
+  "id": 36663,
+  "numero": "0745",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Juan Gabriel Villegas Rivero, en representación de Julio César Villegas Rivero, por inepta acumulación de pretensiones. Se argumenta que la acción se dirige contra tres agraviantes distintos, lo que impide su tramitación conjunta. La Sala establece que cada pretensión debe ser interpuesta de forma independiente ante el tribunal competente correspondiente.\n\nLa decisión se fundamenta en la normativa aplicable que prohíbe la acumulación de pretensiones que deben ser planteadas ante distintos tribunales, y se resalta que la acción de amparo debe ser presentada de manera separada para cada agraviado. La Sala concluye que la acumulación de pretensiones en un solo escrito resulta en la inadmisibilidad de la acción de amparo.\n\nFinalmente, se ordena la publicación, registro y notificación de la decisión, así como el archivo del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0745_E17-1074.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319834-0745-141022-2022-17-1074.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.197569"
+}

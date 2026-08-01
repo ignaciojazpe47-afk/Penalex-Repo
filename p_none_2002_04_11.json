@@ -1,0 +1,22 @@
+{
+  "id": 2738,
+  "numero": null,
+  "fecha": "2002-04-11",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Desestima por manifiestamente infundado",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, revisó el recurso de casación interpuesto por la defensa de los ciudadanos condenados por robo agravado. La defensa alegó violaciones al debido proceso y a la presunción de inocencia, argumentando que las pruebas eran insuficientes. Sin embargo, el Tribunal determinó que el recurso era manifiestamente infundado debido a la falta de fundamentación legal por parte del recurrente.",
+  "palabras_clave": [
+    "robo agravado",
+    "due process",
+    "presunción de inocencia"
+  ],
+  "titulo": "Decisión sobre recurso de casación en caso de robo agravado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-04-11_CasacionPenal_C020073.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:09.617341"
+}

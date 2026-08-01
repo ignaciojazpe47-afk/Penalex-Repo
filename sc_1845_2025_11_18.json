@@ -1,0 +1,22 @@
+{
+  "id": 23077,
+  "numero": "1845",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta contra una decisión de la Sala Diez de la Corte de Apelaciones, que declaró la nulidad de una audiencia preliminar. La Sala Constitucional determinó su competencia para conocer el caso y decidió declarar con lugar la acción de amparo, argumentando que la decisión impugnada incurrió en irregularidades al no publicar por separado cada auto relacionado con los pronunciamientos realizados por la Jueza de Primera Instancia. Se ordenó la suspensión de los efectos de la sentencia dictada el 3 de julio de 2025.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "audiencia preliminar"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1845_E25-0840.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349969-1845-181125-2025-25-0840.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.063014"
+}

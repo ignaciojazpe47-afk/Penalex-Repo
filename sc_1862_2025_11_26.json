@@ -1,0 +1,26 @@
+{
+  "id": 23208,
+  "numero": "1862",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por William José García Prazuela contra la decisión del Juzgado Superior que había declarado sin lugar la acción de amparo constitucional. La sentencia apelada revocó medidas cautelares de prohibición de zarpe e innominadas de nombramiento de agencia naviera sobre el buque 'Isla Ballena'. La Sala concluye que no se evidencian violaciones a derechos constitucionales, ya que la revocación de las medidas fue consecuencia de la inadmisibilidad de la demanda principal.",
+  "palabras_clave": [
+    "debido proceso",
+    "derechos humanos",
+    "justicia",
+    "defensa",
+    "indefensión",
+    "jurisprudencia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1862_E24-0570.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350458-1862-261125-2025-24-0570.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.050357"
+}

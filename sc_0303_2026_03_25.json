@@ -1,0 +1,26 @@
+{
+  "id": 17618,
+  "numero": "0303",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por el Fiscal Tercero del Ministerio Público contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del estado Anzoátegui. La Corte había declarado la nulidad de una decisión anterior y sustituido medidas cautelares sobre varios imputados por delitos relacionados con el tráfico de sustancias estupefacientes y asociación para delinquir. La Sala Constitucional se declara competente para conocer la acción de amparo y ordena la remisión de copias certificadas de las actas del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "delitos",
+    "sustancias estupefacientes",
+    "asociación para delinquir",
+    "Ley Orgánica de Drogas",
+    "Código Penal",
+    "Ley Orgánica contra la Delincuencia Organizada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0303_E19-0381.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354275-0303-25326-2026-19-0381.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.561839"
+}

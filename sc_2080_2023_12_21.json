@@ -1,0 +1,24 @@
+{
+  "id": 33933,
+  "numero": "2080",
+  "fecha": "2023-12-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara con lugar la acción de amparo constitucional interpuesta por María Teresa Ospino de Núñez y Joerlen Benito Núñez Ospino, en contra del Ministerio del Poder Popular para Hábitat y Vivienda, por el desalojo arbitrario de su vivienda en la urbanización Villa Hermosa, Estado Aragua. La decisión se fundamenta en la violación de derechos constitucionales, específicamente el derecho a la vivienda y la protección del hogar, garantizados por la Constitución de la República Bolivariana de Venezuela.\n\nLa Sala establece que el Tribunal Superior Estadal Contencioso Administrativo de la Circunscripción del Estado Aragua es el órgano competente para conocer de la acción de amparo, dado que los hechos ocurrieron en su jurisdicción. Se ordena la restitución inmediata de los demandantes a su hogar y se prohíbe cualquier acto ilegal en su contra por parte de los representantes del Ministerio demandado.\n\nFinalmente, se resalta la importancia de garantizar el acceso a la justicia y la protección de los derechos humanos en el contexto de la crisis habitacional que enfrenta el país, reafirmando el compromiso del Tribunal Supremo de Justicia con la defensa de los derechos fundamentales de los ciudadanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo arbitrario",
+    "derechos humanos",
+    "vivienda",
+    "Estado Aragua"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por desalojo arbitrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2080_E20-0193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332050-2080-211223-2023-20-0193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.845093"
+}

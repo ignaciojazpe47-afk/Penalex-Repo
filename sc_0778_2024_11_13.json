@@ -1,0 +1,23 @@
+{
+  "id": 27457,
+  "numero": "0778",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por María Elena Moreno contra una sentencia de la Corte de Apelaciones que revocó medidas de protección en su favor. La Sala consideró que la decisión de permitir el reingreso del agresor a la vivienda de la víctima violaba sus derechos fundamentales, incluyendo el derecho a la propiedad y a una vida libre de violencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "derechos humanos",
+    "protección a la víctima"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de violencia de género",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0778_E22-0292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338890-0778-131124-2024-22-0292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.029549"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32248,
+  "numero": "1401",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre el recurso de apelación interpuesto por Manuel Enrique del Corazón de Jesús Ramos Frías contra la sentencia del Juzgado Superior en lo Civil, que declaró inadmisible su demanda de amparo. La Sala confirmó la decisión del juzgado inferior, argumentando que el recurso de apelación era improponible debido a la naturaleza del procedimiento de amparo, que no admite incidencias procesales. La decisión se fundamentó en la necesidad de mantener la celeridad del proceso de amparo y en la irreparabilidad de la situación jurídica del demandante.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "decisión judicial",
+    "juzgado",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1401_E18-0850.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329276-1401-111023-2023-18-0850.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.403275"
+}

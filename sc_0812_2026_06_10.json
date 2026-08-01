@@ -1,0 +1,23 @@
+{
+  "id": 49771,
+  "numero": "0812",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por el abogado Enrique Saer Viso, en representación del ciudadano Pedro Rafael Torres González, contra la omisión de pronunciamiento del Juez Provisorio Orlando Antonio García Pérez. La Sala fundamenta su decisión en que la supuesta violación de derechos ya había cesado, dado que el Tribunal Tercero de Primera Instancia había emitido el pronunciamiento correspondiente el 9 de julio de 2025, lo que desvirtúa la pretensión del accionante.\n\nLa Sala también destaca que la acción de amparo no puede ser admitida cuando la violación o amenaza de derechos ha cesado, conforme a lo establecido en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. En consecuencia, se confirma la decisión de la Sala Segunda de la Corte de Apelaciones que había declarado inadmisible la acción de amparo.\n\nFinalmente, se resuelve que el recurso de apelación interpuesto por el abogado Enrique Saer Viso es declarado sin lugar, confirmando así el fallo apelado y ordenando el cumplimiento de lo dispuesto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0812_E25-1012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356510-0812-10626-2026-25-1012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.928133"
+}

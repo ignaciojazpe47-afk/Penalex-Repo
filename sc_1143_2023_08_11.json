@@ -1,0 +1,26 @@
+{
+  "id": 34036,
+  "numero": "1143",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 137 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Senzani Internacional, C.A. contra una decisión del Juzgado Superior Segundo en lo Civil. La revisión se fundamentó en alegaciones de violaciones a derechos constitucionales y errores en la carga de la prueba. La Sala Constitucional, tras analizar los argumentos, determinó que no había lugar para la revisión, considerando que la sentencia impugnada respetó los criterios vinculantes establecidos por la Sala Constitucional.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "derechos",
+    "jurisprudencia",
+    "sentencias",
+    "autonomía",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1143_E21-0834.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328300-1143-11823-2023-21-0834.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.327342"
+}

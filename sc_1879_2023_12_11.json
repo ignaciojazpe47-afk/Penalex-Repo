@@ -1,0 +1,26 @@
+{
+  "id": 33732,
+  "numero": "1879",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetencia",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Luis Fernando Damiani Bustillos, se pronunció sobre un amparo constitucional interpuesto por Assirvadam Gil Montemayor, en representación de la Asociación Centro Educacional para Adolescentes (C.E.P.A.), contra varias autoridades por presuntas vías de hecho que afectaban el funcionamiento de la institución educativa. La Sala, tras analizar los hechos, determinó su incompetencia para conocer el caso y declinó la competencia a un Juzgado Superior Estadal Contencioso Administrativo de la Región Capital.\n\nLa decisión se fundamenta en la necesidad de que el amparo sea conocido por un tribunal de primera instancia que tenga competencia en la materia y territorialidad, en virtud de la urgencia de restablecer la situación jurídica presuntamente infringida. La Sala enfatizó la importancia del acceso a la justicia y la protección de los derechos fundamentales en el contexto de la actuación administrativa.\n\nFinalmente, se ordenó la remisión del expediente al Juzgado Superior correspondiente para la distribución de la causa, reafirmando el compromiso del Tribunal Supremo de Justicia con la tutela judicial efectiva y la salvaguarda de los derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "competencia",
+    "justicia",
+    "administración pública",
+    "tutela judicial",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y declinación de competencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1879_E23-0409.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331849-1879-111223-2023-23-0409.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.461092"
+}

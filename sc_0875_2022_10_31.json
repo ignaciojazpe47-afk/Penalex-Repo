@@ -1,0 +1,25 @@
+{
+  "id": 37125,
+  "numero": "0875",
+  "fecha": "2022-10-31",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional recibió una solicitud de revisión constitucional relacionada con un fallo del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara. La decisión original había declarado sin lugar los recursos de apelación interpuestos por la ciudadana Janne Josefina Panico González y otros, y había ordenado el cumplimiento de ciertas obligaciones por parte de la demandada. La Sala, al asumir su competencia, determinó la necesidad de revisar el expediente y solicitó la remisión de documentos relevantes para decidir sobre la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho de propiedad",
+    "orden público",
+    "procedimiento civil",
+    "sanciones",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-31_S0875_E21-0012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320477-0875-311022-2022-21-0012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.420865"
+}

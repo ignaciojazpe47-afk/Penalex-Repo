@@ -1,0 +1,24 @@
+{
+  "id": 61214,
+  "numero": "1100",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.º 2015-0440 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Flamingo Beach Hotel, C.A. La Sala Constitucional determinó que la citación a las demandadas fue válida y que no se vulneró el derecho a la defensa, confirmando así la decisión del Juzgado Superior Séptimo. Se declaró sin lugar la solicitud de revisión presentada por INVERSIONES ACE CARIBEAN 2011, C.A., manteniendo firme la decisión del juzgado inferior y condenando en costas a la parte recurrente.",
+  "palabras_clave": [
+    "revisión",
+    "casación",
+    "cumplimiento de contrato",
+    "citación",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de revisión sobre recurso de casación en cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1100_E16-0791.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193973-1100-151216-2016-16-0791.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.104644"
+}

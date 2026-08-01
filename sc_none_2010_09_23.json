@@ -1,0 +1,23 @@
+{
+  "id": 11636,
+  "numero": null,
+  "fecha": "2010-09-23",
+  "anio": 2010,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "FRANCISCO A. CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por la abogada Nurbis Cárdenas en representación de varios trabajadores contra la empresa Central La Pastora, C.A., por la presunta violación de su derecho al trabajo. La decisión se fundamentó en la falta de acreditación de la representación judicial de los accionantes, ya que el poder otorgado a la abogada era específico para actuar ante tribunales laborales y no ante la Sala Constitucional.\n\nLa Sala también estableció un criterio vinculante sobre la competencia para conocer de las acciones relacionadas con providencias administrativas dictadas por las Inspectorías del Trabajo, determinando que corresponde a la jurisdicción laboral y no a la contencioso-administrativa, lo que implica que los tribunales laborales deben conocer de las pretensiones de nulidad y de amparo constitucional en estos casos.\n\nFinalmente, se ordenó la publicación del fallo en la Gaceta Oficial y se remitió copia certificada a las Salas Político Administrativa y de Casación Social del Tribunal Supremo de Justicia para su conocimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al trabajo",
+    "Central La Pastora",
+    "jurisdicción laboral"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra Central La Pastora, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionSocial_2010_FranciscoA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.555972"
+}

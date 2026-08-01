@@ -1,0 +1,26 @@
+{
+  "id": 43322,
+  "numero": "0171",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Detzys Dayana Vicuña de Padrón, quien impugnó la sentencia n.° 1187 de la Sala Político-Administrativa que declaró sin lugar su demanda de nulidad contra un acto administrativo de la Contraloría General. La solicitante argumentó que no fue notificada adecuadamente y que se le atribuyó responsabilidad en un procedimiento que no le correspondía, violando su derecho al debido proceso.\nLa Sala Constitucional determinó que la solicitante estaba sujeta al procedimiento de verificación patrimonial instaurado por la Contraloría, dado que su cónyuge era un funcionario público obligado a declarar sus bienes. La Sala concluyó que no hubo violación de derechos y que la decisión de la Sala Político-Administrativa se ajustaba a derecho, desestimando así la solicitud de revisión.\nFinalmente, se declaró que no ha lugar la solicitud de revisión constitucional presentada, manteniendo firme la decisión de la Sala Político-Administrativa.",
+  "palabras_clave": [
+    "debido_proceso",
+    "verificacion",
+    "declaracion_jurada",
+    "corrupcion",
+    "legitimacion_pasiva",
+    "contraloria",
+    "sancion"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 1187 dictada por la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0171_E18-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305894-0171-4719-2019-18-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.824517"
+}

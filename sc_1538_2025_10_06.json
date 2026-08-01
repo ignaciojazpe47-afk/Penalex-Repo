@@ -1,0 +1,23 @@
+{
+  "id": 22105,
+  "numero": "1538",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El ciudadano Pablo José Pinto Torrealba solicitó revisión constitucional de una sentencia de desalojo, alegando irregularidades en su notificación durante el proceso. La Sala constató que no fue debidamente notificado de actos procesales, lo que afectó su derecho a la defensa y al debido proceso. En consecuencia, se ordenó al Tribunal remitente la entrega del expediente para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "notificación",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1538_E24-1166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348284-1538-61025-2025-24-1166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.191745"
+}

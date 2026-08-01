@@ -1,0 +1,27 @@
+{
+  "id": 32279,
+  "numero": "1433",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia dictada el 13 de octubre de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por los ciudadanos José Manuel Oviedo Morón y Trixi Karen Palma Gómez contra la decisión del Juzgado Superior Noveno en lo Civil, Mercantil, Tránsito y Bancario, que había declarado con lugar la demanda de desalojo. La Sala consideró que la acción fue presentada fuera del lapso establecido, lo que conllevó a la caducidad de la pretensión. Se reafirmó la competencia de la Sala para conocer del caso, pero se determinó que no se comprometía el orden público constitucional.",
+  "palabras_clave": [
+    "proceso",
+    "justicia",
+    "derechos",
+    "tutela judicial",
+    "carga de la prueba",
+    "arrendamiento",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1433_E23-0192.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329308-1433-131023-2023-23-0192.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.393127"
+}

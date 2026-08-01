@@ -1,0 +1,26 @@
+{
+  "id": 31467,
+  "numero": "0954",
+  "fecha": "2023-07-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Fernando José Roa Ramírez, en representación de Orlenys Vanesa Mayora Filloy, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte de Apelaciones había fundamentado su decisión en el incumplimiento de los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en relación a la identificación del agraviado y el agraviante.\nLa Sala Constitucional, tras analizar los argumentos presentados, determinó que la apelación no cumplía con los requisitos formales y que la decisión de la Corte de Apelaciones no vulneraba derechos constitucionales. Por lo tanto, se declaró competente para conocer el recurso y se confirmó la inadmisibilidad de la acción de amparo, manteniendo la decisión de la instancia inferior.\nFinalmente, se ordenó la publicación y remisión del expediente al tribunal de origen, reafirmando la importancia del cumplimiento de los requisitos legales en las solicitudes de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "constitucional",
+    "Corte de Apelaciones",
+    "requisitos",
+    "decisión",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-18_S0954_E23-0207.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327227-0954-18723-2023-23-0207.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.205086"
+}

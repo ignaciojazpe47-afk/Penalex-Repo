@@ -1,0 +1,23 @@
+{
+  "id": 36141,
+  "numero": "0510",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con lugar la solicitud de revisión, se anula la sentencia N° RC.000696 dictada el 24 de noviembre de 2021, por la Sala de Casación Civil.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia N° RC.000696 de la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Valdomero González García. Se alegó la vulneración de derechos constitucionales a la defensa y al debido proceso, así como la incongruencia omisiva en la valoración de pruebas. La Sala concluyó que efectivamente hubo una omisión en el análisis de la contestación de la demanda, lo que afectó el derecho a la tutela judicial efectiva. Por lo tanto, se declaró con lugar la solicitud de revisión y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "simulación de venta",
+    "tutela judicial efectiva",
+    "incongruencia omisiva"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre simulación de venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0510_E22-0436.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319167-0510-11822-2022-22-0436.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.569479"
+}

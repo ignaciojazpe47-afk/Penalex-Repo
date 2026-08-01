@@ -1,0 +1,18 @@
+{
+  "id": 12334,
+  "numero": "246",
+  "fecha": "2000-04-25",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de amparo constitucional interpuesta por Leopoldo López Moros, en contra de un auto que fijó una caución. La Sala declaró improcedente la solicitud de aclaratoria y ordenó remitir copia de las actuaciones al Colegio de Abogados para investigar a la abogada del demandante por afirmaciones contrarias a las normas éticas. La decisión se fundamenta en que el demandante contaba con mecanismos judiciales para impugnar la caución fijada, lo que hace inadmisible el amparo.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Leopoldo López Moros",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_4_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.667248"
+}

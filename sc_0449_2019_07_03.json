@@ -1,0 +1,23 @@
+{
+  "id": 44652,
+  "numero": "0449",
+  "fecha": "2019-07-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La sentencia se refiere a la solicitud de revisión de una decisión del Juzgado Noveno Superior del Trabajo que había declarado sin lugar varios recursos de apelación y confirmaba una sentencia anterior. La Sala Constitucional, al asumir la competencia, ordena la remisión del expediente original y destaca la violación de derechos constitucionales al trabajo y a la estabilidad laboral. Se ordena el restablecimiento inmediato de los trabajadores afectados por la decisión de la empresa Cervecería Polar, C.A.",
+  "palabras_clave": [
+    "revisión",
+    "amparo constitucional",
+    "trabajo",
+    "Cervecería Polar"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0449_E19-0327.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308386-0449-291119-2019-19-0327.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.831295"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23215,
+  "numero": "1869",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia dictada el 4 de marzo de 2023",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Neill Jesús Reaño García, en relación a una sentencia dictada por el Juzgado Superior Sexto en lo Civil, Mercantil, Tránsito y Bancario. La Sala declaró con lugar la solicitud, anulando la sentencia impugnada y las actuaciones subsiguientes, por considerar que se vulneraron derechos fundamentales como el debido proceso y la tutela judicial efectiva. Se ordenó la continuación del proceso en el Juzgado Quinto de Primera Instancia para la ejecución de la sentencia definitiva dictada el 2 de marzo de 2017.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "abuso_de_derecho",
+    "derecho_a_la_defensa",
+    "orden_publico",
+    "legitimatio_ad_procesum",
+    "daño_moral"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión judicial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1869_E24-0852.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350465-1869-261125-2025-24-0852.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.053581"
+}

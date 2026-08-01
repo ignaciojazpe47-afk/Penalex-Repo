@@ -1,0 +1,25 @@
+{
+  "id": 45435,
+  "numero": "0099",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "EXTEMPORÁNEA por tardía la solicitud de aclaratoria",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria presentada por la abogada María Alejandra Salazar Noguera en representación de Elba Isabel Nouel. La solicitud fue considerada extemporánea, ya que fue presentada dos días después de la publicación de la sentencia original. Sin embargo, se identificó un error material en la sentencia original respecto al número de inscripción en el Inpreabogado de la abogada, que fue corregido de oficio por la Sala.",
+  "palabras_clave": [
+    "aclaratoria",
+    "extemporánea",
+    "Código de Procedimiento Civil",
+    "sentencia",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0099_E16-1197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207657-0099-9218-2018-16-1197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.271901"
+}

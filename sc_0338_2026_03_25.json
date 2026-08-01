@@ -1,0 +1,26 @@
+{
+  "id": 16359,
+  "numero": "0338",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 25 de marzo de 2026, revisó el fallo emitido el 17 de enero de 2023 por el Juzgado Superior Octavo, que había declarado con lugar una demanda de cumplimiento de contrato por vencimiento de prórroga legal. La revisión se fundamentó en la falta de capacidad de postulación del demandante, quien no contaba con representación legal adecuada, lo que llevó a la Sala a declarar inadmisible la demanda. Se anula el fallo anterior y se ordena remitir copia certificada del presente fallo a los tribunales correspondientes.",
+  "palabras_clave": [
+    "arrendamiento",
+    "contrato",
+    "prórroga",
+    "cláusula penal",
+    "valor probatorio",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de demanda de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0338_E26-0124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354322-0338-25326-2026-26-0124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.564236"
+}

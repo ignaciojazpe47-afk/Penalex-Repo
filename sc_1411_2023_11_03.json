@@ -1,0 +1,26 @@
+{
+  "id": 21664,
+  "numero": "1411",
+  "fecha": "2023-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Andrés Javier Marcano Martínez en representación de Anarelys del Valle Rodríguez Díaz y Carlos Alfredo Bolívar Ruiz, en relación a la sentencia N° 678 de la Sala de Casación Civil, que declaró perecido un recurso de casación. La Sala determinó que el recurso fue declarado perecido debido a la falta de formalización dentro del lapso establecido por la ley, considerando que el término de la distancia fue correctamente computado. Finalmente, la Sala declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "casación",
+    "debido proceso",
+    "competencia",
+    "normas constitucionales",
+    "principios jurídicos",
+    "término de la distancia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1411_E24-1007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347274-1411-7825-2025-24-1007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.382791"
+}

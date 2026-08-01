@@ -1,0 +1,27 @@
+{
+  "id": 22761,
+  "numero": "1712",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil BOHAI DRILLING SERVICE VENEZUELA, S.A. contra la decisión del Juzgado Segundo Superior del Nuevo Régimen Procesal del Trabajo de Monagas, que había ordenado la reincorporación de un trabajador y el pago de salarios caídos. La Sala concluye que el juzgado actuó dentro de su competencia y no incurrió en abuso de poder al dictar su decisión.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "competencia",
+    "trabajo",
+    "proceso",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1712_E24-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349450-1712-31125-2025-24-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.522845"
+}

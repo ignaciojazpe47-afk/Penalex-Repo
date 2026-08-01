@@ -1,0 +1,25 @@
+{
+  "id": 20895,
+  "numero": "1110",
+  "fecha": "2023-07-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria de la sentencia N° 0853, dictada el 10 de julio de 2023, presentada por el abogado Fredys José Carías Requena en representación de MAEN ATRACH NASER. La solicitud fue declarada inadmisible por extemporánea, ya que fue presentada fuera del lapso legal establecido para tal fin, que es de tres días después de la publicación de la sentencia. La Sala argumentó que la aclaratoria no puede modificar la decisión de fondo emitida, sino que debe limitarse a corregir errores materiales o aclarar puntos oscuros de la sentencia.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "extemporánea",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de sentencia N° 0853",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1110_E21-0032.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345949-1110-9725-2025-21-0032.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.536147"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20642,
+  "numero": "1042",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Carlos Alberto Bracho Catanaima, quien actuaba como defensor privado de los ciudadanos Luis Roso Moro Ramírez y Omaira Reyes Morales. La inadmisibilidad se fundamenta en la falta de representación adecuada del abogado, quien no presentó los documentos necesarios que acreditaran su condición de defensor. Además, se señala que la falta de pronunciamiento por parte de la Corte de Apelaciones constituye una violación a los derechos fundamentales de los demandantes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "defensor",
+    "legitimación",
+    "proceso penal",
+    "representación",
+    "falta de formalidades"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1042_E24-1043.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345311-1042-30625-2025-24-1043.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.513121"
+}

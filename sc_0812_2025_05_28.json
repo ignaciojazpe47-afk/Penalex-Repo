@@ -1,0 +1,26 @@
+{
+  "id": 20012,
+  "numero": "0812",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Yudith Rivas Franco en representación de Victoria Nieto de González, contra la sentencia dictada el 15 de junio de 2021 por el Tribunal Primero de Municipio Ordinario y Ejecutor de Medidas de la Circunscripción Judicial del Área Metropolitana de Caracas. La inadmisibilidad se fundamenta en la falta de presentación de la copia certificada de la sentencia cuestionada, requisito indispensable para la admisión de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "carga procesal",
+    "derechos constitucionales",
+    "sentencia",
+    "documentos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0812_E21-0727.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344290-0812-28525-2025-21-0727.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.856286"
+}

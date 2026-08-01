@@ -1,0 +1,26 @@
+{
+  "id": 37148,
+  "numero": "0898",
+  "fecha": "2022-11-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los abogados de Lirian Josefina Suárez, quien había sido absuelta de un delito de tráfico de sustancias estupefacientes. La Corte de Apelaciones había anulado la sentencia absolutoria y ordenado un nuevo juicio, lo que motivó el recurso de amparo. La Sala concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró las garantías constitucionales.",
+  "palabras_clave": [
+    "apelación",
+    "dueño de la acción",
+    "sustancias estupefacientes",
+    "debido proceso",
+    "nulidad",
+    "motivación",
+    "prueba pericial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-02_S0898_E21-0224.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320500-0898-21122-2022-21-0224.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.413131"
+}

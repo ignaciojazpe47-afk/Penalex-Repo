@@ -1,0 +1,27 @@
+{
+  "id": 35822,
+  "numero": "0466",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Ramón García Tovar en representación de los ciudadanos José Luis Maduro Urdaneta y Rafael Ramón Martínez Pozo. La corte argumenta que la acción no es procedente debido a que la lesión denunciada no es actual, ya que la situación jurídica de los demandados se encuentra firmemente establecida tras una condena previa por robo agravado de vehículo automotor.\n\nLa Sala también establece su competencia para conocer del recurso de apelación interpuesto, recalificando la solicitud de la parte actora como un recurso de apelación en lugar de casación. Finalmente, se confirma la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo, fundamentándose en que no se puede restablecer la situación jurídica infringida, dado que la condena es definitiva.\n\nLa decisión se toma en el contexto de la protección de los derechos constitucionales y la necesidad de que las acciones de amparo sean procedentes solo cuando se pueda restablecer la situación jurídica afectada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "inadmision",
+    "sentencia",
+    "constitucional",
+    "libertad",
+    "recurso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0466_E21-0230.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318407-0466-2822-2022-21-0230.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.660024"
+}

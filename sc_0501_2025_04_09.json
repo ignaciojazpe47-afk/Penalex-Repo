@@ -1,0 +1,24 @@
+{
+  "id": 19354,
+  "numero": "0501",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por la sociedad mercantil Constructora Alfra, C.A. contra la sentencia N°4 del Juzgado Superior Décimo que declaró inadmisible la demanda de desalojo. La Sala consideró que la decisión del juzgado inferior violó el derecho a la defensa y la tutela judicial efectiva del accionante, al declarar inadmisible la demanda por causales inexistentes. En consecuencia, se anuló la sentencia impugnada y se ordenó que un nuevo juzgado superior conociera del caso.",
+  "palabras_clave": [
+    "arrendamiento",
+    "inconstitucionalidad",
+    "derechos fundamentales",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra decisión de inadmisibilidad de demanda de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0501_E24-0705.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343052-0501-9425-2025-24-0705.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.597060"
+}

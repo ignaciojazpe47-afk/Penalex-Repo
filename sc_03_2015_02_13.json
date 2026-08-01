@@ -1,0 +1,23 @@
+{
+  "id": 61876,
+  "numero": "03",
+  "fecha": "2015-02-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la acción de amparo constitucional interpuesta por la abogada Mireya Coromoto Suárez Pardo, actuando en representación de Juan Carlos Quijada Suárez, decidió avocar de oficio la causa relacionada con la custodia de un niño de seis años. La decisión impugnada, dictada el 15 de diciembre de 2014, por el Tribunal Octavo de Primera Instancia, había ordenado la restitución de la custodia al entorno familiar del menor, lo que generó preocupaciones sobre su integridad física y emocional debido a alegaciones de maltrato por parte de su madre y su pareja.\n\nLa Sala, tras evaluar los alegatos y la situación del menor, consideró que existían elementos suficientes para otorgar una medida cautelar, suspendiendo la decisión del tribunal inferior hasta que se resuelva el fondo del asunto. La Sala enfatizó la necesidad de proteger los derechos del niño, garantizando su bienestar y seguridad, y ordenó la remisión del expediente original para su revisión.\n\nFinalmente, la Sala admitió la acción de amparo y ordenó notificaciones pertinentes a las partes involucradas, estableciendo un plazo para la audiencia pública correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "niños",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Custodia de Menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-13_S03_E14-1367.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174250-03-13215-2015-14-1367.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.542907"
+}

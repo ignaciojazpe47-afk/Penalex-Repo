@@ -1,0 +1,23 @@
+{
+  "id": 35782,
+  "numero": "0426",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "No Ha Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró no ha lugar la solicitud de revisión de la sentencia N° 823 dictada el 14 de agosto de 2017 por la Sala de Casación Social. Esta sentencia había declarado con lugar el recurso de casación interpuesto por la parte demandante, anulando el fallo impugnado y sin lugar la demanda por cobro de diferencias de prestaciones sociales. La parte solicitante argumentó que la Sala de Casación Social había infringido la competencia de la Sala Constitucional al revocar una decisión que confirmaba la resolución ministerial que ordenaba la reincorporación de los trabajadores.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "despido masivo",
+    "reincorporación"
+  ],
+  "titulo": "Revisión de la sentencia N° 823 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0426_E18-0709.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318367-0426-2822-2022-18-0709.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.763361"
+}

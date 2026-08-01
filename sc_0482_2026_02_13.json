@@ -1,0 +1,23 @@
+{
+  "id": 16712,
+  "numero": "0482",
+  "fecha": "2026-02-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC-000008 dictada el 13 de febrero de 2026, que declaró inadmisible una demanda por fraude procesal interpuesta por José Miguel Idrogo Martínez. La Sala concluyó que la decisión de inadmisibilidad se basó en un criterio erróneo, ya que no se justificó adecuadamente la falta de acompañamiento del instrumento fundamental como causal de inadmisibilidad. En consecuencia, se declaró con lugar la revisión y se anuló la sentencia objeto de la misma, ordenando la remisión del expediente a la Sala de Casación Civil para un nuevo pronunciamiento sobre la segunda fase del avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "fraude procesal",
+    "inadmisibilidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre avocamiento en caso de fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0482_E26-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354933-0482-14426-2026-26-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.072589"
+}

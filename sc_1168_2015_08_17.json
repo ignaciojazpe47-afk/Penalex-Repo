@@ -1,0 +1,22 @@
+{
+  "id": 66260,
+  "numero": "1168",
+  "fecha": "2015-08-17",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta De Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 223 de la Sala de Casación Civil, que declaró sin lugar un recurso de casación. El solicitante argumentó que la decisión del tribunal de alzada no analizó adecuadamente la forma de posesión de los demandados, quienes ocupaban el inmueble de manera ilegítima. La Sala Constitucional determinó que la falta de pronunciamiento sobre este punto constituía una incongruencia omisiva, afectando el derecho a la tutela judicial efectiva. En consecuencia, se declaró con lugar la revisión y se ordenó a la Sala de Casación Civil que se constituyera en forma accidental para dictar una nueva decisión.",
+  "palabras_clave": [
+    "desalojo",
+    "tutela judicial efectiva",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre desalojo y tutela judicial efectiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-17_S1168_E14-0719.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/181166-1168-17815-2015-14-0719.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.214548"
+}

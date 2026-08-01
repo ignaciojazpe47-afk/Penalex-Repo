@@ -1,0 +1,26 @@
+{
+  "id": 23872,
+  "numero": "2093",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los defensores de Héctor Enrique Peña González, quien enfrenta dos causas penales. La Sala declaró su incompetencia para conocer de la solicitud, argumentando que corresponde a la Sala de Casación Penal decidir sobre el avocamiento. Se expusieron las razones por las cuales se solicitó el avocamiento, destacando presuntas violaciones al debido proceso y la inacción del Ministerio Público en los expedientes.",
+  "palabras_clave": [
+    "intervencion",
+    "derecho laboral",
+    "ministerio publico",
+    "competencia",
+    "debido proceso",
+    "autonomia",
+    "separacion de poderes"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causas penales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2093_E25-0430.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351915-2093-121225-2025-25-0430.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.738791"
+}

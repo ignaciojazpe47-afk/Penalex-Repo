@@ -1,0 +1,23 @@
+{
+  "id": 17454,
+  "numero": "0558",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 13 de mayo de 2026, en la que se revisó una decisión del Juzgado Superior Décimo que había declarado inadmisible un recurso de apelación y confirmado una sentencia sobre prescripción adquisitiva de un inmueble. La Sala consideró que la sentencia recurrida había incurrido en errores al declarar la prescripción de un bien que es considerado de dominio público, afectando así el interés general y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción adquisitiva",
+    "dominio público",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0558_E26-0388.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355551-0558-13526-2026-26-0388.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.890638"
+}

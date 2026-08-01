@@ -1,0 +1,24 @@
+{
+  "id": 21208,
+  "numero": "1222",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia emitida por la Sala de Casación Civil, que había declarado con lugar un recurso de casación en un caso de cumplimiento de contrato de seguro. La revisión se centró en la forma de cálculo de la indemnización y los intereses moratorios. La Sala Constitucional determinó que la sentencia de la Sala de Casación Civil cumplía con los requisitos legales y no encontró motivos suficientes para modificarla, declarando así la solicitud de revisión como 'Sin Lugar'.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "contrato de seguro",
+    "indemnización",
+    "intereses moratorios"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de seguro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1222_E24-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346519-1222-28725-2025-24-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.370887"
+}

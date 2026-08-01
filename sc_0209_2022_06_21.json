@@ -1,0 +1,24 @@
+{
+  "id": 35141,
+  "numero": "0209",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ofíciese lo conducente.",
+  "ponente": "CALIxto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Humberto José Rodríguez Uvieda, en relación a un incumplimiento de la Corte Segunda de lo Contencioso Administrativo respecto a la remisión de un expediente. Se reiteró un auto anterior y se ordenó a la Corte Segunda remitir el expediente solicitado en un plazo de cinco días hábiles, advirtiendo sobre posibles sanciones por reincidencia en la omisión.",
+  "palabras_clave": [
+    "incumplimiento",
+    "multa",
+    "tribunal",
+    "contencioso administrativo",
+    "ley orgánica"
+  ],
+  "titulo": "Sentencia sobre incumplimiento de remisión de expediente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0209_E17-1125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317470-0209-21622-2022-17-1125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.624360"
+}

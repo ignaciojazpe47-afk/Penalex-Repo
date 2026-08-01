@@ -1,0 +1,23 @@
+{
+  "id": 67378,
+  "numero": "1401",
+  "fecha": "2015-11-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Francisco Antonio Carrasquero López",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Jhonny Blanco Mendoza, en representación de la sociedad mercantil Centro de Educación Inicial San Miguel Arcángel, C.A. La decisión se fundamenta en que la acción se interpuso contra una sentencia que ya había sido objeto de pronunciamiento por parte de dos tribunales superiores, lo que generó una situación de cosa juzgada. La Sala consideró que no era posible restablecer la situación jurídica infringida, dado que la demanda por cobro de prestaciones sociales ya había sido resuelta en sede jurisdiccional, lo que constituía una evidente situación irreparable.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "cosa juzgada",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1401_E13-0781.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182855-1401-131115-2015-13-0781.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:50.525960"
+}

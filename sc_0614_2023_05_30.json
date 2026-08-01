@@ -1,0 +1,26 @@
+{
+  "id": 30568,
+  "numero": "0614",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de amparo constitucional interpuesta por Nair Danae Hernández Olivar, contra la sentencia del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que había declarado con lugar una demanda por enriquecimiento sin causa. La Sala anula la sentencia objeto de amparo y ordena la reposición del proceso al estado de que se practique nuevamente la citación de la parte demandada, debido a irregularidades en la citación y en la defensa de la demandada por parte de su defensor ad litem.",
+  "palabras_clave": [
+    "debido_proceso",
+    "defensa",
+    "amparo_constitucional",
+    "justicia",
+    "derechos_fundamentales",
+    "juez",
+    "proceso_judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0614_E17-0188.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325702-0614-30523-2023-17-0188.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.932480"
+}

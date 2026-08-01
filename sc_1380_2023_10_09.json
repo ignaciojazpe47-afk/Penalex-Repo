@@ -1,0 +1,24 @@
+{
+  "id": 32151,
+  "numero": "1380",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre la solicitud de revisión constitucional presentada por Indira Millán en representación de Ricardo De Armas Dávila. La solicitud se refería a la sentencia N° 194 dictada por la Sala de Casación Penal, que desestimó un recurso de casación penal. La Sala Constitucional determinó que no había lugar para la revisión, argumentando que la decisión de la Sala de Casación Penal se ajustaba a derecho y no vulneraba derechos fundamentales.",
+  "palabras_clave": [
+    "recurso de casación",
+    "falta de técnica recursiva",
+    "denuncia infundada",
+    "Código Orgánico Procesal Penal",
+    "principio de utilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1380_E23-0807.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328970-1380-91023-2023-23-0807.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.409357"
+}

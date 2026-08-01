@@ -1,0 +1,23 @@
+{
+  "id": 3525,
+  "numero": "N° 2.234",
+  "fecha": "2008-10-15",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del TSJ decidió a favor de la asociación civil Productores Agropecuarios El Chaparral, anulando la sentencia del Juzgado Superior que había declarado sin lugar la acción de amparo. La decisión se fundamentó en la competencia del tribunal agrario para conocer de la acción, dado que la ejecución forzosa de los bienes de Agroindustria Mandioca, C.A. por parte del Banco Industrial de Venezuela afectaría los derechos constitucionales de los agricultores. Se ordenó remitir el caso al Juzgado de Primera Instancia Agrario de la Circunscripción Judicial del Estado Monagas para la celebración de la audiencia constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos agrarios",
+    "ejecución forzosa",
+    "seguridad alimentaria"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por productores agropecuarios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-10-15_Constitucional_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.961691"
+}

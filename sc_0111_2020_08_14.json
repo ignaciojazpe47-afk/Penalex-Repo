@@ -1,0 +1,22 @@
+{
+  "id": 41399,
+  "numero": "0111",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Paul Gerardo Milanes Oliveros en representación de Oswaldo Antonio Pérez Acevedo. La acción se refiere a la revocación de una medida cautelar de libertad impuesta a Pérez Acevedo en un proceso penal por hurto agravado. La Sala determinó su competencia para conocer la acción y ordenó al juzgado de origen informar sobre el estado actual de la causa y remitir copia certificada de las decisiones pertinentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "revocación",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0111_E18-0787.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310050-0111-14820-2020-18-0787.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.102816"
+}

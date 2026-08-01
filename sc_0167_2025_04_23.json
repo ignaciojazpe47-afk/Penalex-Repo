@@ -1,0 +1,25 @@
+{
+  "id": 16189,
+  "numero": "0167",
+  "fecha": "2025-04-23",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por José Ángel Marcano López, en representación de ASTILLEROS NAVIMCA C.A., contra una sentencia de la Sala de Casación Civil que declaró perecido un recurso extraordinario de casación. La Sala Constitucional, tras analizar el caso, determinó que no se configuraban las causales para la revisión solicitada, ya que no existían infracciones grotescas de interpretación de normas constitucionales ni violaciones a derechos fundamentales.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "constitucionalidad",
+    "derecho a la defensa",
+    "cosa juzgada",
+    "código de procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0167_E25-0410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353163-0167-2326-2026-25-0410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.035560"
+}

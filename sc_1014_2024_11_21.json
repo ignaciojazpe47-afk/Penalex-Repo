@@ -1,0 +1,23 @@
+{
+  "id": 27836,
+  "numero": "1014",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró SIN LUGAR el recurso de apelación interpuesto por la defensa de Edgar Alexander Brito Berbecía contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Cojedes, que había declarado sin lugar la acción de amparo constitucional. La sentencia se fundamenta en que no se evidenció violación de derechos fundamentales durante el proceso, y que las actuaciones del tribunal de origen se ajustaron a derecho, confirmando la legalidad de la medida de privación de libertad impuesta al recurrente. Se destaca que la defensa no ejerció los recursos pertinentes en los plazos establecidos, lo que contribuyó a la decisión final.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "Corte de Apelaciones",
+    "privación de libertad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1014_E19-0173.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339327-1014-211124-2024-19-0173.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.140925"
+}

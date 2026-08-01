@@ -1,0 +1,23 @@
+{
+  "id": 42931,
+  "numero": "0132",
+  "fecha": "2019-05-23",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por INVERSIONES RUFER, C.A. contra la sentencia del Juzgado Superior Noveno que declaró la falta de cualidad de RUBY CUELLO MELGAREJO para actuar en juicio. La Sala consideró que el juzgado inferior había incurrido en un vicio de ultrapetita al pronunciarse sobre aspectos no alegados en el recurso de apelación. Se ordenó la anulación del fallo impugnado y se ordenó a otro juzgado superior emitir un nuevo pronunciamiento sobre el fondo del asunto.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Falta de Cualidad",
+    "Legitimación",
+    "Juzgado Superior Noveno"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre falta de cualidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-23_S0132_E16-1239.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305174-0132-23519-2019-16-1239.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.856627"
+}

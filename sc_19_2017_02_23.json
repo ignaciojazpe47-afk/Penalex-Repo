@@ -1,0 +1,22 @@
+{
+  "id": 50268,
+  "numero": "19",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara no ha lugar la solicitud de revisión interpuesta por Banesco Banco Universal, C.A. contra la decisión de la Sala Político Administrativa que declaró improcedente por extemporánea la solicitud de fijar cartel de emplazamiento. La Sala fundamenta su decisión en la falta de citación del tercero dentro del plazo establecido, lo que llevó a la reanudación del juicio principal sin la intervención del tercero, afectando el derecho a la defensa de Banesco. La Sala concluye que la decisión de la Sala Político Administrativa se ajusta a derecho y no vulnera derechos constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "sentencia interlocutoria"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S19_E16-0966.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196323-19-23217-2017-16-0966.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.280818"
+}

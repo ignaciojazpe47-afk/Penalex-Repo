@@ -1,0 +1,24 @@
+{
+  "id": 16767,
+  "numero": "0110",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de marzo de 2026, declaró procedente la acción de amparo interpuesta por los abogados Franco Cincotti D’Orazio y Franco Amaro Cincotti Paciocco, en representación de los ciudadanos Adrien Roberto Roa Zoppi y María Ángela del Valle Mata Espinoza. La acción fue contra la decisión de la Sala n.° 7 de la Corte de Apelaciones que había declarado la nulidad absoluta de un fallo anterior que decretó el sobreseimiento de la causa por falta de legitimidad en la representación de la víctima.\n\nLa Corte Constitucional determinó que la decisión de la Corte de Apelaciones transgredió normas de orden público, afectando el derecho a la tutela judicial efectiva y al debido proceso. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se declaró firme el fallo del Tribunal Décimo que había decretado el sobreseimiento, estableciendo que este tenía autoridad de cosa juzgada.\n\nFinalmente, se instruyó a la Secretaría para notificar a los órganos jurisdiccionales pertinentes y se dejó sin efecto la medida cautelar decretada en una sentencia anterior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad absoluta",
+    "sobreseimiento",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Declaración de nulidad absoluta de decisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0110_E25-1072.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353100-0110-2326-2026-25-1072.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.597633"
+}

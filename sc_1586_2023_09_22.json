@@ -1,0 +1,25 @@
+{
+  "id": 33016,
+  "numero": "1586",
+  "fecha": "2023-09-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por el abogado Brendys Ramón González en defensa de Juan Antonio Rodríguez, contra una decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala determinó que la acción era inadmisible debido a la falta de consignación de la decisión cuestionada, requisito indispensable para la tramitación del amparo constitucional. La decisión se fundamenta en la jurisprudencia establecida que exige la presentación de copia certificada del fallo impugnado.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "copia certificada",
+    "tutela constitucional",
+    "carga procesal"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1586_E23-0941.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330640-1586-281123-2023-23-0941.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.209098"
+}

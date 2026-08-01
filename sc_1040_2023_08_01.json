@@ -1,0 +1,24 @@
+{
+  "id": 31708,
+  "numero": "1040",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por un grupo de trabajadores contra la entidad Nucita Venezolana C.A. por omisiones de la Inspectoría del Trabajo. Se establece que la jurisdicción competente es la laboral, dado que se trata de una relación laboral y se denuncia la falta de pronunciamiento administrativo sobre la reincorporación de los trabajadores. La Sala concluye que ha habido abandono del trámite por parte de los accionantes, ya que no se presentó actividad procesal durante más de seis meses.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Laborales",
+    "Inspectoría del Trabajo",
+    "Nucita Venezolana",
+    "Reincorporación"
+  ],
+  "titulo": "Decisión sobre Acción de Amparo Constitucional por omisiones laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1040_E20-0219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327612-1040-1823-2023-20-0219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.893212"
+}

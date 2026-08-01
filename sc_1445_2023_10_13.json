@@ -1,0 +1,22 @@
+{
+  "id": 32291,
+  "numero": "1445",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Juan Carlos López Cárdenas en representación de César Augusto Rodríguez Rojas, debido a la falta de acreditación de legitimidad del abogado para actuar en el proceso. La decisión de la Corte de Apelaciones del 9 de junio de 2023, que había declarado inadmisible la acción de amparo, fue confirmada por la Sala Constitucional. Se resalta la importancia de presentar el poder correspondiente para la legitimidad en la representación judicial en acciones de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1445_E23-0817.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329320-1445-131023-2023-23-0817.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.393679"
+}

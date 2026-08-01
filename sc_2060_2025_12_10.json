@@ -1,0 +1,26 @@
+{
+  "id": 23840,
+  "numero": "2060",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó sentencia en respuesta a la acción de amparo constitucional interpuesta por Yorgenis Alberto Paredes Fajardo, quien impugnó la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La Sala consideró que la Corte de Apelaciones no evaluó adecuadamente la situación jurídica del demandante, lo que constituyó una violación a sus derechos fundamentales al debido proceso y a la tutela judicial efectiva.\n\nEn su decisión, la Sala Constitucional admitió la acción de amparo y decretó medidas cautelares, ordenando la suspensión del proceso principal y la restitución de la situación jurídica infringida. Además, se declaró la prescripción de la acción penal en el asunto principal y se ordenó la remisión de copias certificadas de la decisión a las autoridades correspondientes para investigar posibles abusos de autoridad.\n\nLa sentencia enfatiza la importancia de garantizar el derecho a la defensa y la celeridad procesal, así como la necesidad de que los tribunales actúen con exhaustividad en sus pronunciamientos para evitar violaciones a los derechos constitucionales de los ciudadanos.",
+  "palabras_clave": [
+    "derechos fundamentales",
+    "debido proceso",
+    "fraude procesal",
+    "justicia",
+    "medidas cautelares",
+    "prescripción",
+    "desorden procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Yorgenis Alberto Paredes Fajardo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2060_E25-1058.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351873-2060-101225-2025-25-1058.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.747251"
+}

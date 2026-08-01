@@ -1,0 +1,26 @@
+{
+  "id": 23079,
+  "numero": "1847",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Luis Hernán Hortua contra la sentencia dictada el 18 de marzo de 2025 por la Sala Tres de la Corte de Apelaciones. Sin embargo, se declaró improcedente in limine litis la acción, confirmando la sentencia apelada. La decisión se basa en que no se configuró la violación constitucional alegada por el accionante, sino que se evidenció su inconformidad con el fallo.",
+  "palabras_clave": [
+    "apropiación indebida",
+    "arbitrariedad",
+    "jurisdicción civil",
+    "sentencia absolutoria",
+    "contradicción",
+    "derechos fundamentales",
+    "poder judicial"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1847_E25-0926.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349971-1847-181125-2025-25-0926.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.058465"
+}

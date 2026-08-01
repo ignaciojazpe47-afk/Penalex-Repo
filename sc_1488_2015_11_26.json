@@ -1,0 +1,24 @@
+{
+  "id": 67678,
+  "numero": "1488",
+  "fecha": "2015-11-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Antonio Lilo Vidal en representación de Luis Alfonzo Añez, quien había solicitado un amparo constitucional contra la decisión de la Corte de Apelaciones que declaró inadmisible su demanda. La Sala determinó que la apelación fue presentada de manera oportuna, pero que el demandante no agotó las vías ordinarias disponibles para impugnar la decisión del tribunal inferior, lo que llevó a la inadmisibilidad de la acción de amparo. Finalmente, se declaró sin lugar la apelación y se confirmó la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales",
+    "Corte de Apelaciones",
+    "privación de libertad"
+  ],
+  "titulo": "Decisión sobre la apelación interpuesta en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-26_S1488_E15-0918.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183265-1488-261115-2015-15-0918.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:46.362883"
+}

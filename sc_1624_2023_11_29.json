@@ -1,0 +1,24 @@
+{
+  "id": 33115,
+  "numero": "1624",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por María Francia Rodríguez Pérez contra la sentencia del Tribunal Superior Tercero que había declarado sin lugar un recurso de apelación. La Sala determinó que la retención de las niñas en Venezuela se produjo sin el consentimiento del padre, lo que constituyó una infracción al derecho de custodia. En consecuencia, se anularon las decisiones previas y se declaró improcedente la restitución internacional solicitada por el padre, ordenando el levantamiento de medidas cautelares impuestas anteriormente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "derecho de custodia",
+    "niños",
+    "protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de restitución internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1624_E22-0446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330791-1624-291123-2023-22-0446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.001249"
+}

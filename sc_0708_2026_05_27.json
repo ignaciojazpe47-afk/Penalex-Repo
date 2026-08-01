@@ -1,0 +1,27 @@
+{
+  "id": 16969,
+  "numero": "0708",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Raúl Guillermo Díaz Valencia en representación de Andrés José Melián Hernández, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado La Guaira. La Corte había declarado con lugar el recurso de apelación y ordenado un nuevo juicio, pero no se pronunció sobre la restitución del inmueble ni el sobreseimiento de la causa, lo que generó la alegación de incongruencia omisiva por parte del recurrente. Sin embargo, la Sala considera que la Corte actuó dentro de su competencia y que la acción de amparo no es un medio para reabrir un asunto ya decidido.",
+  "palabras_clave": [
+    "invasión",
+    "derechos",
+    "justicia",
+    "proceso penal",
+    "pruebas",
+    "nulidad",
+    "tutela judicial",
+    "due process"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0708_E25-0570.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355978-0708-27526-2026-25-0570.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.940776"
+}

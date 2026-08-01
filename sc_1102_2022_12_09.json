@@ -1,0 +1,23 @@
+{
+  "id": 37817,
+  "numero": "1102",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar a la solicitud de revisión, se anula la sentencia dictada el 11 de abril de 2019 y se declara firme la decisión del Juzgado Superior Séptimo que declaró sin lugar la demanda.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión N° 108/2019 de la Sala de Casación Civil, que había declarado con lugar un recurso de casación y parcialmente con lugar una demanda por cumplimiento de contrato. La Sala Constitucional encontró que la decisión impugnada vulneró derechos constitucionales, como el derecho a un juez imparcial y a la tutela judicial efectiva, al no permitir a la parte demandada contradecir ciertos argumentos que no fueron debatidos en el proceso. En consecuencia, se anuló la sentencia de la Sala de Casación Civil y se declaró firme la decisión del Juzgado Superior que había declarado sin lugar la demanda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "juez imparcial",
+    "casación civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1102_E19-0354.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321685-1102-91222-2022-19-0354.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.424661"
+}

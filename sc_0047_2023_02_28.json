@@ -1,0 +1,26 @@
+{
+  "id": 28948,
+  "numero": "0047",
+  "fecha": "2023-02-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre una acción de habeas data interpuesta por Freddy Eduardo Mattey Sulbarán, quien solicitaba su exclusión del Sistema de Investigación e Información Policial (SIIPOL) debido a una orden de captura que no fue ejecutada tras la extinción de la acción penal en su contra. La Sala, tras analizar el caso, determinó su incompetencia para conocer de la acción, ya que esta debía ser presentada ante el Tribunal de Municipio con competencia en lo Contencioso Administrativo.",
+  "palabras_clave": [
+    "habeas data",
+    "incompetencia",
+    "tribunales",
+    "jurisdicción",
+    "acción penal",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-28_S0047_E22-0726.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322977-0047-28223-2023-22-0726.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.289073"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 31028,
+  "numero": "0811",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la demanda de protección de intereses colectivos interpuesta por Juan Ernesto Garantón Hernández contra el Alcalde del Municipio Baruta, por permitir el transporte público de pasajeros en vehículos no aptos. La Sala determina que la controversia no tiene repercusión nacional, lo que limita su competencia según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "intereses difusos",
+    "competencia",
+    "proceso administrativo",
+    "falta de interés",
+    "derechos colectivos",
+    "perención",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0811_E18-0419.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326467-0811-26623-2023-18-0419.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.552985"
+}

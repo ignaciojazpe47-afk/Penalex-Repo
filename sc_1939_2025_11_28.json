@@ -1,0 +1,26 @@
+{
+  "id": 23424,
+  "numero": "1939",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por la abogada Liliana Amelia Jota Morón, en representación de Verónica Alejandra Petit Jota, contra la decisión del Juzgado Superior Segundo que declaró desistida la recusación. La Sala argumenta que no se configuraron las causales de inadmisibilidad y que el tribunal actuó dentro de su competencia, sin violar derechos constitucionales. Se concluye que la acción de amparo no cumple con los requisitos establecidos en la ley.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "incompetencia",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "procedencia",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1939_E25-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350825-1939-281125-2025-25-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.795818"
+}

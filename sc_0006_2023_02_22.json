@@ -1,0 +1,25 @@
+{
+  "id": 28886,
+  "numero": "0006",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia número 1154, se pronunció sobre la solicitud de avocamiento presentada por los ciudadanos Jesús José Rafael Velásquez Gamero y Sebastián Acosta Castañeda, quienes alegaron violaciones a sus derechos en un proceso penal. La Sala declaró procedente la solicitud, señalando irregularidades en la actuación de los tribunales inferiores, incluyendo la juramentación de un abogado sin que su cliente tuviera la condición de imputado y la falta de notificación a las víctimas en el proceso penal.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "avocamiento",
+    "derechos_constitucionales",
+    "justicia",
+    "irregularidades_procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0006_E22-0989.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322803-0006-22223-2023-22-0989.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.300972"
+}

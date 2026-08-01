@@ -1,0 +1,22 @@
+{
+  "id": 22124,
+  "numero": "1557",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Efraín Bolívar Pinett, quien alegó violaciones a sus derechos en un proceso de desalojo. La sentencia original, dictada por el Juzgado Cuarto de Primera Instancia, había declarado sin lugar la apelación interpuesta por Pinett y ordenado su desalojo. La Sala consideró que la revisión era procedente debido a la falta de valoración de pruebas que demostraban la ocupación del inmueble por más de 20 años y la condición de arrendatario del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derechos de defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1557_E19-0299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348303-1557-61025-2025-19-0299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.188263"
+}

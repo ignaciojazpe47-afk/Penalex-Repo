@@ -1,0 +1,24 @@
+{
+  "id": 18199,
+  "numero": "0049",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La ciudadana Gladys Coromoto Rondón Oviedo solicitó la revisión constitucional de una sentencia, alegando violaciones a sus derechos constitucionales. La Sala Constitucional, tras analizar la solicitud, determinó que no se especificó adecuadamente la sentencia a revisar ni los fundamentos de la tutela invocada. Por lo tanto, se ordenó a la solicitante aclarar su petición en un plazo de tres días.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela",
+    "sentencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0049_E24-0227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341215-0049-5225-2025-24-0227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.569468"
+}

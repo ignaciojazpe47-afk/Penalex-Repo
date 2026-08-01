@@ -1,0 +1,25 @@
+{
+  "id": 19818,
+  "numero": "0708",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inamisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Morelia Beatriz Maldonado Montilla, quien actuó sin asistencia técnica, contra una decisión del Tribunal Tercero de Primera Instancia en lo Civil, Mercantil, Bancario y Marítimo del estado Carabobo. La acción se refería a un desalojo ordenado por dicho tribunal y la omisión de respuesta a su solicitud de suspensión del mismo.\nLa Sala fundamenta su decisión en la inepta acumulación de pretensiones, ya que la demandante formuló en un mismo escrito pretensiones de amparo contra diferentes órganos jurisdiccionales, lo que resulta en una inadmisibilidad conforme a la normativa aplicable. Se destaca la importancia de interponer cada pretensión de forma independiente ante el tribunal competente.\nFinalmente, se ordena la publicación y registro de la decisión, notificando a la accionante sobre la inadmisibilidad de su recurso.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "derechos humanos",
+    "vivienda digna",
+    "tribunales",
+    "competencia"
+  ],
+  "titulo": "Inadmisión de acción de amparo constitucional por inepta acumulación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0708_E24-0427.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343783-0708-14525-2025-24-0427.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.725646"
+}

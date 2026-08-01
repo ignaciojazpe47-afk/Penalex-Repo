@@ -1,0 +1,26 @@
+{
+  "id": 33503,
+  "numero": "1837",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Laboral",
+  "decision": "IMPROPONIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Elisabetta Pasta, en representación de Pepsi Cola Venezuela, C.A., contra una sentencia que declaró el desacato a la autoridad judicial. La apelación fue considerada improponible en derecho, ya que el procedimiento adecuado en casos de desacato es la consulta per saltum ante la Sala Constitucional. La Sala exhortó al tribunal de origen a seguir el procedimiento correcto y devolvió el expediente para su tramitación adecuada.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "jurisdicción",
+    "trabajo",
+    "consulta",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en caso de desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1837_E23-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331372-1837-81223-2023-23-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.470554"
+}

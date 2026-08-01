@@ -1,0 +1,23 @@
+{
+  "id": 17526,
+  "numero": "0033",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara sin lugar la apelación interpuesta por Eduardo Herrera en representación de Daniel Otayek, contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo. La Sala fundamenta su decisión en que existía una vía ordinaria idónea para la protección de los derechos alegados, lo que hacía improcedente el amparo constitucional. Además, se destaca que la medida de autorización de viaje había cesado, lo que también contribuyó a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "viaje",
+    "inadmisible"
+  ],
+  "titulo": "Sentencia sobre acción de amparo interpuesta por Daniel Otayek",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0033_E18-0556.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352712-0033-18226-2026-18-0556.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.068852"
+}

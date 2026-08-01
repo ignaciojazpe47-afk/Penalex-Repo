@@ -1,0 +1,26 @@
+{
+  "id": 39580,
+  "numero": "0450",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por ciudadanos en representación de trabajadores administrativos y obreros de la Gobernación del estado Anzoátegui. La acción se basa en la presunta omisión de la Gobernación y el Consejo Legislativo de pasar a jubilación a un grupo de trabajadores y cancelar sus prestaciones sociales. La Sala declina la competencia al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del Estado Anzoátegui.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "intereses difusos",
+    "Gobernación",
+    "Consejo Legislativo",
+    "prestaciones sociales",
+    "jurisdicción contencioso-administrativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0450_E19-0467.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313417-0450-16921-2021-19-0467.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.629514"
+}

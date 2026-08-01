@@ -1,0 +1,25 @@
+{
+  "id": 20602,
+  "numero": "1002",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de junio de 2025, se pronuncia sobre un recurso de amparo a la libertad y seguridad personal interpuesto por el abogado Antonio García Polanco en representación de Julián Antonio Dass Wilfred. La Sala considera que la demanda es ambigua y confusa, careciendo de una fundamentación legal concreta que permita un pronunciamiento judicial adecuado. Por lo tanto, se ordena al demandante corregir la demanda en un plazo de tres días, so pena de inadmisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "fundamentación legal",
+    "derechos constitucionales",
+    "proceso judicial",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo a la libertad y seguridad personal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1002_E25-0141.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345271-1002-27625-2025-25-0141.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.303906"
+}

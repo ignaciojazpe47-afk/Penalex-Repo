@@ -1,0 +1,25 @@
+{
+  "id": 27456,
+  "numero": "0777",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional presentada por Hernán Jesús Guédez contra el retardo procesal en la investigación penal atribuida a la Fiscalía Ciento Veintiséis del Área Metropolitana de Caracas. La Sala decide declinar la competencia a un Tribunal en funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas y ordena la remisión inmediata de las actuaciones a dicho tribunal. Se establece que el Ministerio Público es único e indivisible, y que la acción de amparo debe ser dirigida a un tribunal competente en función de la materia y el lugar de los hechos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "fiscalía",
+    "debido proceso",
+    "estado venezolano",
+    "conducta omisiva"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0777_E21-0146.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338889-0777-131124-2024-21-0146.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.031997"
+}

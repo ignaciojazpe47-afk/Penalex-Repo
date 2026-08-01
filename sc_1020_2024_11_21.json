@@ -1,0 +1,26 @@
+{
+  "id": 27842,
+  "numero": "1020",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por la abogada Milvida Espinoza López en representación de Eduardo Asdrúbal Espinoza, debido a la existencia de cosa juzgada. La solicitud se refería a causas agrarias y penales relacionadas con el cumplimiento de un contrato verbal y la apropiación indebida de ganado. La Sala también se declara incompetente para conocer de la solicitud de avocamiento sobre la causa penal y decide remitir el caso a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial",
+    "debido proceso",
+    "fraude",
+    "acción penal",
+    "jurisdicción",
+    "agricultura"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1020_E23-1153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339333-1020-211124-2024-23-1153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.152881"
+}

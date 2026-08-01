@@ -1,0 +1,25 @@
+{
+  "id": 45920,
+  "numero": "0202",
+  "fecha": "2018-03-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de nulidad ejercida por Otoniel Pautt Andrade contra el acto de nombramiento y juramentación de magistrados realizado por la Asamblea Nacional. La decisión se fundamenta en la existencia de cosa juzgada, dado que la Sala ya se había pronunciado sobre la constitucionalidad del acto impugnado en sentencias anteriores. Se acepta la declinatoria de competencia de la Sala Político-Administrativa y se ordena la publicación y archivo del expediente.",
+  "palabras_clave": [
+    "nulidad",
+    "asamblea nacional",
+    "magistrados",
+    "constitucionalidad",
+    "cosa juzgada",
+    "fraude constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de nulidad contra el acto de nombramiento de magistrados",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-12_S0202_E16-0575.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208583-0202-12318-2018-16-0575.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.690293"
+}

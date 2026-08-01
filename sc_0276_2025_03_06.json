@@ -1,0 +1,25 @@
+{
+  "id": 18732,
+  "numero": "0276",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la apelación interpuesta por Leida Norelis Parra contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy, que había declarado inadmisible su acción de amparo constitucional. La decisión se basa en la falta de legitimidad de la demandante para actuar en el proceso penal en el que figura como denunciante y no como víctima.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos",
+    "justicia",
+    "abogados",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0276_E24-0261.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342181-0276-6325-2025-24-0261.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.870076"
+}

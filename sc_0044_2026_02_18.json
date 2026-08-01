@@ -1,0 +1,25 @@
+{
+  "id": 17185,
+  "numero": "0044",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 0540 dictada por la Sala de Casación Social, que declaró sin lugar un recurso de apelación interpuesto por la AGROPECUARIA SANTA CLARA, C.A. La parte solicitante alegó violaciones al debido proceso y a la tutela judicial efectiva, argumentando que la sentencia no analizó adecuadamente los vicios procesales denunciados. Sin embargo, la Sala Constitucional determinó que la revisión no constituye una tercera instancia y que la sentencia impugnada no evidenció violaciones a derechos constitucionales fundamentales.",
+  "palabras_clave": [
+    "actos administrativos",
+    "nulidad",
+    "debido proceso",
+    "notificación",
+    "tutela judicial",
+    "incongruencia negativa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 0540 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0044_E18-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352724-0044-18226-2026-18-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.066907"
+}

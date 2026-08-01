@@ -1,0 +1,22 @@
+{
+  "id": 38115,
+  "numero": "1238",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia dictada el 08 de agosto de 2018 por la Sala de Casación Civil, que declaró la caducidad de la querella interdictal por despojo presentada por la Sociedad Mercantil Corporación Vasqueza, C.A. contra Gustavo Luis Rojas y Aiman Fakih Issa. La Sala concluyó que la querella fue interpuesta después de transcurrido más de un año desde el presunto despojo, lo que justificó la caducidad de la acción.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "caducidad",
+    "despojo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1238_E19-0047.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322130-1238-151222-2022-19-0047.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.132220"
+}

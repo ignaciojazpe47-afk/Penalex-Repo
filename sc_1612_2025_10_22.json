@@ -1,0 +1,27 @@
+{
+  "id": 22415,
+  "numero": "1612",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la sociedad mercantil Management And Procurement Global Solutions Corp, debido a la falta de documentación que acredite la legitimidad del poder otorgado por su director. La sentencia revisada, dictada por la Sala Político Administrativa, había declarado sin lugar la demanda de cobro contra la República y SIDOR por la falta de prueba de la deuda reclamada. La Sala Constitucional reafirma su competencia para conocer de la revisión, pero resalta la necesidad de cumplir con los requisitos de representación legal.",
+  "palabras_clave": [
+    "responsabilidad contractual",
+    "pruebas",
+    "justicia",
+    "constitucionalidad",
+    "procedimiento civil",
+    "deuda",
+    "facturas",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1612_E24-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348992-1612-221025-2025-24-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.751289"
+}

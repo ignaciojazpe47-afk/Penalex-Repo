@@ -1,0 +1,27 @@
+{
+  "id": 23706,
+  "numero": "1994",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional propuesta por el ciudadano VICENZO DI MARTINO CARUSO, por lo que se ANULA la sentencia dictada por la Sala de Casación Civil de este Tribunal Supremo de Justicia, identificada con el n.° 527, proferida en fecha 7 de agosto de 2025.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, decidió anular la sentencia N° 527 de la Sala de Casación Civil, que había resuelto la segunda fase de un avocamiento solicitado por Maylin del Rosario Fonseca Jiménez. La decisión se fundamentó en la existencia de irregularidades procesales que afectaron el derecho al debido proceso y a la defensa del solicitante, Vincenzo Di Martino Caruso. La Sala consideró que la intervención del juez en distintas instancias del mismo caso generaba desconfianza en la imparcialidad del juicio.",
+  "palabras_clave": [
+    "avocamiento",
+    "cosa juzgada",
+    "debido proceso",
+    "justicia",
+    "jurisdicción",
+    "constitucionalidad",
+    "derechos",
+    "interés público"
+  ],
+  "titulo": "Revisión constitucional de sentencia por daño moral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1994_E25-1021.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351714-1994-101225-2025-25-1021.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.745599"
+}

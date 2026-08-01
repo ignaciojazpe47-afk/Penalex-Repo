@@ -1,0 +1,24 @@
+{
+  "id": 35137,
+  "numero": "0205",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de revisión constitucional presentada por las abogadas del Estado Bolivariano de Miranda y el Instituto Autónomo Cuerpo de Bomberos, declaró con lugar la revisión de sentencias que habían declarado sin lugar la apelación de un funcionario destituido. Se argumentó que el funcionario había ingresado al Instituto como funcionario público y que la Inspectoría del Trabajo no era competente para decidir sobre su reenganche y pago de salarios caídos. La Sala anula las sentencias previas y ordena la reapertura del lapso para que el funcionario interponga el recurso contencioso administrativo correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "funcionario público",
+    "destitución",
+    "reenganche",
+    "salarios caídos"
+  ],
+  "titulo": "Revisión constitucional sobre la destitución de un funcionario público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0205_E14-1345.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317466-0205-21622-2022-14-1345.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.629599"
+}

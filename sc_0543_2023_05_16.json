@@ -1,0 +1,26 @@
+{
+  "id": 30325,
+  "numero": "0543",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los abogados defensores de Alexis Rojas Hernández, quien había sido imputado por abuso sexual. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimidad de los abogados, quienes no presentaron documentos que acreditaran su representación. La Sala Constitucional confirmó esta decisión, declarando que la acción de amparo era inadmisible por la misma razón.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "derechos",
+    "justicia",
+    "constitucion",
+    "jueces",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0543_E20-0258.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325175-0543-16523-2023-20-0258.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.874287"
+}

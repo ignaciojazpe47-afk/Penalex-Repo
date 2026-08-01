@@ -1,0 +1,24 @@
+{
+  "id": 49984,
+  "numero": "12",
+  "fecha": "2017-01-31",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad por inconstitucionalidad interpuesto por Víctor Clark Boscán contra un acto parlamentario de la Asamblea Nacional que pretendía declarar la responsabilidad política del Presidente Nicolás Maduro. La Sala argumentó que la Asamblea Nacional había desacatado decisiones previas del TSJ y que el procedimiento de responsabilidad política no era aplicable al Presidente de la República según la Constitución. Finalmente, se declaró la nulidad del acto parlamentario y se ordenó la acumulación del expediente con otro caso relacionado.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "responsabilidad política",
+    "Asamblea Nacional",
+    "Nicolás Maduro"
+  ],
+  "titulo": "Sentencia sobre la nulidad del acto parlamentario de la Asamblea Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-01-31_S12_E16-1237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/195656-12-31117-2017-16-1237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.255898"
+}

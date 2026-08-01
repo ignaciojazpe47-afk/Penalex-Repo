@@ -1,0 +1,26 @@
+{
+  "id": 33902,
+  "numero": "2049",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Reyes Adolfo Butrón Viloria, en representación de la ciudadana Xiomara Josefina Valero Araujo, en relación a un juicio por desalojo de local comercial. La solicitud fue inadmisible debido a que ya había recaído sentencia definitivamente firme en el proceso de amparo, lo que impide el avocamiento según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "desalojo",
+    "sentencia",
+    "justicia",
+    "procedimiento",
+    "derechos",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2049_E23-1072.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332019-2049-191223-2023-23-1072.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.692208"
+}

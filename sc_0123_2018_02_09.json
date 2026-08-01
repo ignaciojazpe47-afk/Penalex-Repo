@@ -1,0 +1,24 @@
+{
+  "id": 45459,
+  "numero": "0123",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por TALLER LOS PINOS, C.A. contra una decisión del Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de Anzoátegui. La acción fue considerada inadmisible debido a que el demandante había optado por recurrir a vías ordinarias, específicamente un recurso de apelación, antes de interponer el amparo. La Sala argumentó que la acción de amparo no puede ser utilizada como un sustituto de los recursos ordinarios disponibles en el ordenamiento jurídico.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "medidas cautelares",
+    "derecho a la defensa",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0123_E16-0740.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207682-0123-9218-2018-16-0740.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.446390"
+}

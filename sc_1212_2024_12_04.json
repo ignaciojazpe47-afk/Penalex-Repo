@@ -1,0 +1,25 @@
+{
+  "id": 28252,
+  "numero": "1212",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un amparo constitucional interpuesto por la sociedad mercantil Corrugados Industriales de Venezuela, C.A. contra un decreto de medida cautelar innominada dictado por el Juzgado Tercero de Primera Instancia en lo Civil y Mercantil del Estado Aragua. La Sala consideró que la medida cautelar afectó derechos fundamentales de la sociedad, quien no era parte en el juicio original, lo que justificó la admisibilidad del amparo. Se anuló el decreto de medida cautelar y se declaró inadmisible la acción de amparo interpuesta por la parte demandante.",
+  "palabras_clave": [
+    "disolución",
+    "sociedades mercantiles",
+    "liquidación",
+    "derechos",
+    "amparo",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Corrugados Industriales de Venezuela, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1212_E23-1276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340148-1212-41224-2024-23-1276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.041943"
+}

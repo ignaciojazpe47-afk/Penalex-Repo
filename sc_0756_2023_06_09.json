@@ -1,0 +1,25 @@
+{
+  "id": 30808,
+  "numero": "0756",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional presentada por el abogado José Gregorio Vargas Díaz en representación de la sociedad mercantil Premier Fitness Center, C.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito, Bancario y de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Monagas, que había declarado con lugar una demanda de desalojo. La inadmisibilidad se fundamentó en que el demandante había optado previamente por recurrir a la vía de casación, lo que configuró la causal de inadmisibilidad prevista en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nA pesar de la inadmisibilidad, la Sala observó errores procesales en el juicio de desalojo, como la falta de celebración de la audiencia oral, y decidió anular parcialmente la sentencia del 23 de octubre de 2019, ordenando la reposición de la causa al estado de que se fije nueva oportunidad para la celebración de dicha audiencia. La decisión se fundamentó en la necesidad de garantizar el debido proceso y la tutela judicial efectiva, permitiendo así que la parte actora pueda volver a interponer la demanda cumpliendo con los requisitos legales necesarios.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "cualidad",
+    "sucesión",
+    "legitimación",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0756_E21-0064.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326027-0756-9623-2023-21-0064.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.428561"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38022,
+  "numero": "1163",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional recibió un expediente relacionado con un amparo constitucional solicitado por Jesús Rafael Muñoz Matute en defensa de su hija, debido al incumplimiento de un mandamiento de amparo por parte de Francy Franco Oloyola. La Sala, tras un proceso de revisión y considerando la naturaleza del caso, dictó la sentencia N° 416 con carácter vinculante, eliminando la consulta previa establecida en una sentencia anterior y ordenando a los tribunales seguir un procedimiento específico para la ejecución del mandamiento de amparo constitucional.\n\nLa decisión establece que todas las causas que cursen ante la Sala Constitucional deben ser remitidas a los tribunales correspondientes sin examinar la favorabilidad a trámite de la denuncia de desacato. La Sala ordenó la remisión del expediente al Tribunal Tercero de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes para continuar con la tramitación del procedimiento de ejecución del mandamiento de amparo.\n\nFinalmente, la sentencia fue firmada por los magistrados de la Sala, incluyendo a la Presidenta Gladys María Gutiérrez Alvarado y el ponente Luis Fernando Damiani Bustillos, y se ordenó su publicación y notificación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "niños",
+    "adolescentes",
+    "procedimiento",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1163_E19-0380.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321997-1163-141222-2022-19-0380.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.580548"
+}

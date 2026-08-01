@@ -1,0 +1,25 @@
+{
+  "id": 44010,
+  "numero": "0314",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un amparo constitucional interpuesto por Salvador José Guarecuco Cordero en representación de Carlos Eduardo Corona, por presuntas vulneraciones a sus derechos. La Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón había declarado inadmisible la acción de amparo, lo que motivó el recurso de apelación. La Sala observó que el Juzgado Tercero de Primera Instancia había incurrido en demoras en la celebración de audiencias, afectando el derecho a una decisión oportuna.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "proceso",
+    "juzgado",
+    "audiencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Salvador José Guarecuco Cordero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0314_E17-0786.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307180-0314-16819-2019-17-0786.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.381569"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 19353,
+  "numero": "0500",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por María Josefina Muñoz Reyes, quien impugnó una sentencia del Tribunal Superior que declaró sin lugar su apelación sobre la nulidad de una asamblea. La Sala concluyó que la demanda de nulidad fue interpuesta dentro del lapso legal, considerando que el cómputo de los días debía tener en cuenta el receso judicial. Por lo tanto, se declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y reponiendo la causa para un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "cosa juzgada",
+    "constitución",
+    "derecho procesal",
+    "tutela judicial",
+    "normas",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de asamblea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0500_E24-0347.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343050-0500-9425-2025-24-0347.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.599271"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20118,
+  "numero": "0827",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de junio de 2025, declaró competente para conocer la solicitud de revisión presentada por los apoderados de los ciudadanos Espinoza Borges. La solicitud buscaba revisar la sentencia N° 000241 de la Sala de Casación Civil, que había declarado sin lugar el recurso de casación. La Sala Constitucional determinó que no había lugar a la revisión, ya que la desaplicación del artículo 228 del Código Civil por control difuso fue ajustada a derecho, garantizando así el derecho constitucional de las demandantes a la paternidad y a conocer su identidad biológica.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "paternidad",
+    "caducidad",
+    "control difuso",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en caso de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0827_E24-1263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344397-0827-3625-2025-24-1263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.311838"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 41383,
+  "numero": "0095",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado José Luis Altuve Aular en representación de Julio César Tovar López, contra la Jueza Darcy Lorena Sánchez Nieto. La inadmisibilidad se fundamenta en la falta de presentación del poder notarial que acredite la representación del abogado, lo que impide la legitimación para actuar en juicio. La Sala reitera que la ausencia de este requisito procesal debe ser controlada de oficio por el juez.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "representación legal"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0095_E19-0485.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310034-0095-14820-2020-19-0485.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.103330"
+}

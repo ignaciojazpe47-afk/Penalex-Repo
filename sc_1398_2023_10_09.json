@@ -1,0 +1,26 @@
+{
+  "id": 32169,
+  "numero": "1398",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Rafael Santiago Díaz Ceballos, quien alegó retardo procesal por parte del Tribunal Cuarto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Carabobo. La Sala determinó que no era competente para conocer la acción, ya que corresponde a una de las Salas de la Corte de Apelaciones del mismo circuito judicial. Se ordenó la remisión del expediente a la Presidencia del Circuito Judicial Penal del Estado Carabobo para su debida distribución.",
+  "palabras_clave": [
+    "amparo",
+    "retardo procesal",
+    "competencia",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "justicia",
+    "juez natural"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1398_E21-0630.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328989-1398-91023-2023-21-0630.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.408927"
+}

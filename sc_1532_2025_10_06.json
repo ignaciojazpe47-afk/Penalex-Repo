@@ -1,0 +1,23 @@
+{
+  "id": 22099,
+  "numero": "1532",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Carlos Vicente Silva Apicella, quien alegó violaciones a sus derechos en un proceso penal por robo agravado de ganado. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso, declinando el conocimiento a la Sala de Casación Penal. La decisión se fundamenta en que el avocamiento no corresponde a la materia de competencia exclusiva de la Sala Constitucional.",
+  "palabras_clave": [
+    "avocamiento",
+    "robo agravado",
+    "ganado",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1532_E25-0762.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348278-1532-61025-2025-25-0762.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.192117"
+}

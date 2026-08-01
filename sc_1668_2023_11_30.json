@@ -1,0 +1,26 @@
+{
+  "id": 33160,
+  "numero": "1668",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la sociedad mercantil Inversiones Mercampa, S.A. contra una sentencia del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario. La Sala declaró improcedente la acción de amparo, argumentando que el tribunal de origen actuó dentro de su competencia y sin vulnerar derechos constitucionales. Se destacó la falta de juramentación de la defensora ad litem como un vicio procesal que afectó el derecho a la defensa, pero se concluyó que la decisión del tribunal no era lesiva a los derechos de la parte recurrente.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "derechos",
+    "defensa",
+    "proceso",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1668_E18-0691.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330837-1668-301123-2023-18-0691.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.967160"
+}

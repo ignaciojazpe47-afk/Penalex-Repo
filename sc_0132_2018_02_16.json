@@ -1,0 +1,27 @@
+{
+  "id": 45468,
+  "numero": "0132",
+  "fecha": "2018-02-16",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "El abogado LUIS BELTRÁN SILVA interpuso una acción de amparo constitucional contra la omisión de pronunciamiento del Ministro de Salud, DR. LUIS LOPEZ, solicitando la restitución de sus derechos laborales. La Sala Constitucional, tras evaluar la competencia y la admisibilidad de la acción, determinó que la solicitud era inadmisible debido a la existencia de una vía distinta para la ejecución de la sentencia previa dictada por la Corte Segunda de lo Contencioso Administrativo.",
+  "palabras_clave": [
+    "amparo",
+    "ejecución",
+    "cosa juzgada",
+    "inadmision",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "administrativo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por LUIS BELTRÁN SILVA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0132_E17-0689.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207691-0132-9218-2018-17-0689.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.702648"
+}

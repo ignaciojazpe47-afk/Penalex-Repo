@@ -1,0 +1,22 @@
+{
+  "id": 10425,
+  "numero": null,
+  "fecha": "2006-08-07",
+  "anio": 2006,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Avocamiento",
+  "decision": "Inadmisible",
+  "ponente": "ELADIO RAMÓN APONTE APONTE",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Jorge Paredes Hany en defensa de Carlos José Heredia Fermín. La solicitud se fundamenta en la alegación de que el Tribunal Segundo de Juicio no admitió pruebas fundamentales para demostrar la legítima defensa del imputado. Sin embargo, la Sala concluye que las condiciones para la aceptación del avocamiento no están cumplidas, ya que el juicio oral aún no se ha celebrado y no se evidencian violaciones al debido proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "legítima defensa",
+    "due process"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_8c613ef073bd884bcb401bc367f7b5bc_RamonAponte.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:01.656943"
+}

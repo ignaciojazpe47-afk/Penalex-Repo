@@ -1,0 +1,23 @@
+{
+  "id": 34963,
+  "numero": "0099",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC.000397 del 8 de agosto de 2018, dictada por la Sala de Casación Civil, que declaró sin lugar un recurso extraordinario de casación. La revisión se solicitó por la empresa DISTRIBUIDORA DE ALIMENTOS EL FOGÓN DE LA ABUELA, C.A., argumentando violaciones a la tutela judicial efectiva y al derecho a la defensa debido a la indeterminación objetiva en el fallo. La Sala concluyó que la sentencia recurrida no cumplió con los requisitos de determinación del objeto de la decisión, lo que comprometió el derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indeterminación objetiva",
+    "tutela judicial efectiva",
+    "casación civil"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre indeterminación objetiva en fallo de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0099_E18-0841.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316856-0099-2622-2022-18-0841.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.423020"
+}

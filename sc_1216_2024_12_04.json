@@ -1,0 +1,27 @@
+{
+  "id": 28256,
+  "numero": "1216",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Lenin Alberto Rojas Matos, en contra de la decisión de la Corte de Apelaciones. La acción fue reformulada debido a la falta de pronunciamiento sobre el amparo original. La Sala decide declinar la competencia a las Cortes de Apelaciones con Competencia en Materia de Delitos de Violencia Contra las Mujeres del estado Zulia.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "justicia",
+    "violencia",
+    "mujeres",
+    "sentencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1216_E23-0509.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340152-1216-41224-2024-23-0509.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.041499"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17538,
+  "numero": "0009",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión y se anula la sentencia dictada el 14 de mayo de 2021",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, decidió anular la sentencia dictada el 14 de mayo de 2021 por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil, del Tránsito, Bancario y Marítimo de Mérida, que había declarado con lugar una demanda de prescripción adquisitiva presentada por Billares La Concordia C.A. contra Antonio José Quintero Albornoz. La decisión se fundamenta en la vulneración del derecho a la defensa y al debido proceso, debido a la ineficacia del defensor ad litem designado, quien no cumplió con sus obligaciones procesales, dejando al demandado en indefensión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción adquisitiva",
+    "derecho a la defensa",
+    "due process"
+  ],
+  "titulo": "Revisión de sentencia sobre prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0009_E23-1095.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352666-0009-18226-2026-23-1095.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.059126"
+}

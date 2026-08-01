@@ -1,0 +1,25 @@
+{
+  "id": 31167,
+  "numero": "0874",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión en cuestión.",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por Johan Alberto González Salas contra una decisión del Tribunal Superior Primero Civil, Mercantil, Tránsito y Bancario del Estado Barinas. La Sala determinó que la sentencia objeto de revisión, dictada el 20 de enero de 2017, violó principios constitucionales relacionados con el debido proceso y la tutela judicial efectiva, al no permitir el emplazamiento adecuado de las partes en un juicio interdictal. Como resultado, se declaró la nulidad de la decisión impugnada y se ordenó el reenvío a un nuevo tribunal para que emita una nueva decisión sobre el recurso de apelación interpuesto.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "jurisprudencia",
+    "tribunales",
+    "derechos",
+    "normas"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión del Tribunal Superior Primero Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0874_E17-1229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326694-0874-10723-2023-17-1229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.536778"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38692,
+  "numero": "0182",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de amparo interpuesta por José Rafael Jerez Antúnez en representación de varias víctimas, debido a la falta de representación legal, ya que el demandante no es abogado. La decisión se basa en la jurisprudencia que establece que solo un abogado puede representar a otros en juicio. La Sala también reafirma su competencia para conocer de la demanda, pero concluye que la falta de legitimidad del demandante impide el avance del proceso.",
+  "palabras_clave": [
+    "amparo",
+    "representación",
+    "legitimación",
+    "abogados",
+    "jurisprudencia",
+    "derechos",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0182_E19-0056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312142-0182-14521-2021-19-0056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.870132"
+}

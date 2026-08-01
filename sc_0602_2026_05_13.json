@@ -1,0 +1,24 @@
+{
+  "id": 17126,
+  "numero": "0602",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Ha lugar la solicitud de revisión y se anula la sentencia emitida por el Tribunal Superior Primero del Trabajo.",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Superior Primero del Trabajo que declaró sin lugar el recurso de nulidad interpuesto por Daniela Rosanny Guerrero López contra la providencia administrativa que negó su reenganche y pago de salarios caídos. La Sala encontró que la sentencia impugnada no analizó adecuadamente los elementos probatorios y los supuestos legales para determinar la naturaleza del contrato de trabajo, lo que llevó a una violación de derechos fundamentales como el debido proceso y la tutela judicial efectiva. En consecuencia, se anuló la sentencia y se ordenó la emisión de un nuevo fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "inamovilidad laboral",
+    "derecho a la defensa",
+    "due process"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0602_E25-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355595-0602-13526-2026-25-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.882223"
+}

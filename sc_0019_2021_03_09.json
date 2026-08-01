@@ -1,0 +1,23 @@
+{
+  "id": 38241,
+  "numero": "0019",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por LABORATORIO CLÍNICO CD 26, C.A. contra la sentencia del Juzgado Superior Octavo que declaró la confesión ficta y resolvió el contrato de arrendamiento. La Sala, tras revisar el caso, determinó que hubo abandono del trámite por parte de la accionante y que la sentencia impugnada incurrió en vicios de forma y fondo, lo que llevó a la anulación de las sentencias previas y a declarar inadmisible la demanda de resolución de contrato de arrendamiento. Además, se declaró la nulidad del contrato de concesión por pérdida del objeto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "confesión ficta",
+    "resolución de contrato",
+    "nulidad de contrato"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0019_E16-1124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311431-0019-9321-2021-16-1124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.762045"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30557,
+  "numero": "0603",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por Carlos Eduardo Espinal contra el Tribunal Cuarto de Primera Instancia en Funciones de Control del Estado Bolívar. La Sala determina que la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar es el órgano competente para conocer del caso. La decisión se fundamenta en la normativa que establece la competencia para conocer de acciones de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "justicia",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0603_E20-0175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325691-0603-30523-2023-20-0175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.943895"
+}

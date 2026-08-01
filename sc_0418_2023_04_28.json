@@ -1,0 +1,25 @@
+{
+  "id": 30009,
+  "numero": "0418",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de abril de 2023, confirmó la inadmisibilidad de la acción de amparo interpuesta por Napoleón Alberto Medina Malpica contra la decisión de la Corte de Apelaciones en materia de Delitos de Violencia Contra la Mujer del Estado Carabobo. La Corte había declarado inadmisible la acción de amparo por considerar que el agraviado no había optado por recurrir a las vías judiciales ordinarias antes de presentar el amparo, lo que constituye una causal de inadmisibilidad según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "proceso",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0418_E22-0536.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324688-0418-28423-2023-22-0536.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.807163"
+}

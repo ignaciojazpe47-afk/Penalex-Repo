@@ -1,0 +1,22 @@
+{
+  "id": 33017,
+  "numero": "1587",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La ciudadana Paula Antonietta Puerta Ramírez interpuso una acción de amparo constitucional contra una sentencia del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala Constitucional del TSJ se declaró competente para conocer el caso, dado que la decisión impugnada fue dictada por un tribunal superior. La Sala ordenó informar sobre el estado procesal de un recurso de control de la legalidad relacionado con el caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1587_E23-0979.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330641-1587-281123-2023-23-0979.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.010895"
+}

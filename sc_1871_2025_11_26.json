@@ -1,0 +1,24 @@
+{
+  "id": 23217,
+  "numero": "1871",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "SE HOMOLOGA EL DESISTIMIENTO planteado.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Gino José Marcotullio Rodríguez, quien solicitó desistirse de la revisión de una sentencia dictada el 10 de octubre de 2024. La Sala declaró su competencia para conocer la solicitud y, tras analizar el desistimiento, decidió homologarlo, considerando que no se vulneran derechos de orden público ni buenas costumbres.",
+  "palabras_clave": [
+    "desistimiento",
+    "revisión constitucional",
+    "derechos",
+    "orden público",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Homologación del desistimiento de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1871_E24-1095.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350467-1871-261125-2025-24-1095.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.052097"
+}

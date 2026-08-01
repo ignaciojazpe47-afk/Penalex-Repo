@@ -1,0 +1,26 @@
+{
+  "id": 38123,
+  "numero": "1246",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Mina Elena Randisi Moretti contra el Magistrado Ponente Dr. Edgar Gavidia y otros tribunales, por inepta acumulación de pretensiones. La actora alegó omisiones y retardo procesal en diversas causas relacionadas con la custodia y régimen de convivencia familiar de su hijo. La Sala argumenta que las pretensiones deben ser interpuestas de forma independiente ante los tribunales competentes, ya que la acumulación de acciones contra diferentes agraviantes genera incompetencia.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "amparo constitucional",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1246_E22-0893.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322139-1246-151222-2022-22-0893.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.127153"
+}

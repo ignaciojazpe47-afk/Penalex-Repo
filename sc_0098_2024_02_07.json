@@ -1,0 +1,25 @@
+{
+  "id": 24151,
+  "numero": "0098",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Andrea Betzabeth Motabán Motabán en representación de Adolberto Gutiérrez Quintero, contra la decisión de la Sala N° 4 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La inadmisibilidad se fundamenta en la falta de representación judicial adecuada, ya que la abogada Motabán no contaba con el mandato necesario para actuar en nombre del demandante.",
+  "palabras_clave": [
+    "estafa",
+    "fiscalía",
+    "vehículo",
+    "propiedad",
+    "investigación",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0098_E22-1055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332469-0098-7224-2024-22-1055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.569363"
+}

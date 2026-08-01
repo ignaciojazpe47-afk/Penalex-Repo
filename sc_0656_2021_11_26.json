@@ -1,0 +1,23 @@
+{
+  "id": 40470,
+  "numero": "0656",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La sentencia se refiere a un Amparo Constitucional interpuesto por Xavier Vicente Padrón González, representado por Pedro Luis Matos Blanchoud, contra las actuaciones del Juez Superior Agrario, Luis Enrique Cordoba Flores. El Tribunal Supremo de Justicia, en Sala Constitucional, declara competente para conocer de la acción y admite el amparo, señalando que se vulneró el principio del juez natural al considerar que la jurisdicción agraria no era competente para conocer el caso, que debía ser resuelto por la jurisdicción civil. Se ordena continuar con los procedimientos de restitución posesoria y partición de comunidad en la jurisdicción civil.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Juez Agrario",
+    "Derechos Constitucionales",
+    "Competencia Judicial"
+  ],
+  "titulo": "Sentencia sobre Amparo Constitucional contra actuaciones del Juez Agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0656_E21-0360.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314732-0656-261121-2021-21-0360.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.504240"
+}

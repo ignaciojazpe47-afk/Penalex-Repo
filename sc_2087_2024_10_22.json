@@ -1,0 +1,22 @@
+{
+  "id": 23866,
+  "numero": "2087",
+  "fecha": "2024-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por Gabriel Alejandro Arratia contra la decisión de un Juzgado de Primera Instancia en materia de delitos de violencia contra la mujer. La Corte de Apelaciones había declarado inadmisible la pretensión de amparo, lo que motivó la apelación. La Sala declaró su competencia para conocer del recurso y ordenó a la Secretaría que oficie a la Presidencia del Circuito Judicial Penal para que informe sobre el estado del proceso y la publicación de la sentencia condenatoria.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de delitos de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2087_E24-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351907-2087-121225-2025-24-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.337520"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 23868,
+  "numero": "2089",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Adriana Meaño Díaz contra la decisión de iniciar un procedimiento disciplinario en su contra. La decisión se basa en la inepta acumulación de pretensiones, ya que las demandas no pueden ser tramitadas conjuntamente debido a la incompetencia del juzgador para pronunciarse sobre todas las pretensiones planteadas. La sentencia se fundamenta en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "inepta acumulación",
+    "jurisdicción",
+    "Ministerio Público"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2089_E24-1256.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351910-2089-121225-2025-24-1256.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.739649"
+}

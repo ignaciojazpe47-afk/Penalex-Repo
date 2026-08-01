@@ -1,0 +1,26 @@
+{
+  "id": 40006,
+  "numero": "0559",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Luis Wilfredo Betancourt Zurita, en relación a una sentencia de la Corte Primera de lo Contencioso Administrativo. La Sala determinó su competencia para conocer la solicitud, dado que la sentencia objeto de revisión se encontraba definitivamente firme. Se ordenó al Juzgado Superior Sexto de lo Contencioso Administrativo remitir el expediente correspondiente en un plazo de cinco días.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "derechos fundamentales",
+    "CICPC",
+    "competencia",
+    "sentencia",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre Revisión Constitucional solicitada por Luis Wilfredo Betancourt Zurita",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0559_E17-1255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313924-0559-281021-2021-17-1255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.118998"
+}

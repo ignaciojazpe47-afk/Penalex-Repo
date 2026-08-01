@@ -1,0 +1,24 @@
+{
+  "id": 37566,
+  "numero": "1042",
+  "fecha": "2022-11-23",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento, por abandono del trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por Richard Javier Sierra Pérez en representación de Francesco Pascuale Corréale Mainenti, contra la sentencia del 25 de febrero de 2019. La Sala determina que la parte accionante no realizó actuaciones procesales válidas durante más de seis meses, lo que se califica como abandono del trámite. En consecuencia, se declara la terminación del procedimiento y se impone una multa a la parte accionante.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial efectiva",
+    "abandonos de trámite",
+    "interés procesal",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-23_S1042_E19-0332.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320997-1042-231122-2022-19-0332.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.334108"
+}

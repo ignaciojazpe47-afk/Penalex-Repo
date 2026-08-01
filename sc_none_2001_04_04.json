@@ -1,0 +1,27 @@
+{
+  "id": 2382,
+  "numero": null,
+  "fecha": "2001-04-04",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": null,
+  "decision": "CONFIRMA",
+  "ponente": "JESÚS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por LA MARGARITA, ENTIDAD DE AHORRO Y PRÉSTAMO, en contra de una sentencia dictada en 1997 y un auto de ejecución de 2000. La acción fue declarada improcedente por el Juzgado Superior, argumentando que la demandante había consentido las violaciones denunciadas. La Sala, al analizar el caso, concluyó que la entidad no tenía legitimación para interponer el amparo, ya que no fue parte en el juicio original y no se le había causado lesión alguna en su situación jurídica. Por lo tanto, se confirmó la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "sentencia",
+    "derechos",
+    "legitimación",
+    "juzgado",
+    "ejecución",
+    "hipoteca"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-04-04_Constitucional_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.708914"
+}

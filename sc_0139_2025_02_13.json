@@ -1,0 +1,27 @@
+{
+  "id": 18445,
+  "numero": "0139",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Arnoldo José Quiñones Cardozo, quien alegó irregularidades en los procesos penales en su contra. La solicitud fue fundamentada en la supuesta existencia de un 'terrorismo judicial' en su contra por parte de varios tribunales. Sin embargo, la Sala determinó que existía una inepta acumulación de pretensiones, lo que llevó a declarar inadmisible la solicitud.",
+  "palabras_clave": [
+    "avocamiento",
+    "inepta acumulación",
+    "violencia contra la mujer",
+    "amparo constitucional",
+    "competencia",
+    "inadmisibilidad",
+    "tribunales",
+    "ministerio público"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0139_E24-0715.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341544-0139-13225-2025-24-0715.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.765309"
+}

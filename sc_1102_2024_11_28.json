@@ -1,0 +1,25 @@
+{
+  "id": 28013,
+  "numero": "1102",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Inversiones El Timón C.A. contra la sentencia del Tribunal Superior Undécimo que declaró sin lugar la demanda de simulación. Se argumentó que la sentencia fue dictada fuera de los plazos establecidos, vulnerando derechos al debido proceso y a la defensa. La Sala declaró nula la sentencia del 4 de abril de 2018 y ordenó notificar a las partes para que puedan interponer el recurso de casación correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "notificación",
+    "sentencia",
+    "tutela judicial",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Inversiones El Timón C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1102_E18-0480.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339678-1102-281124-2024-18-0480.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.471629"
+}

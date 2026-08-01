@@ -1,0 +1,23 @@
+{
+  "id": 2617,
+  "numero": "Nº 956",
+  "fecha": "2001-12-14",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ANTONIO J. GARCÍA GARCÍA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia de la Sala Político Administrativa que declaró la perención de la instancia en un recurso contencioso administrativo. La Sala Constitucional determinó que la perención no puede ser declarada cuando la causa se encuentra en estado de sentencia debido a la inactividad del órgano jurisdiccional. Se argumentó que la inacción del juez no puede perjudicar a las partes, quienes tienen derecho a una decisión sobre el fondo de la controversia.",
+  "palabras_clave": [
+    "perención",
+    "revisión",
+    "justicia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión de perención en instancia administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-12-14_CasacionCivil_01_AntonioJ.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.444578"
+}

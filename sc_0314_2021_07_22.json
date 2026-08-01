@@ -1,0 +1,24 @@
+{
+  "id": 39112,
+  "numero": "0314",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la apelación interpuesta por la abogada Sandra Coromoto Peña Viloria, actuando como defensora privada de Edianeth María Peraza Carrizo, decidió revocar la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Corte de Apelaciones había argumentado la falta de legitimación de la abogada, pero la Sala Constitucional determinó que la abogada sí acreditó su representación como defensora privada. Por lo tanto, se ordenó a la Corte de Apelaciones pronunciarse sobre el amparo constitucional ejercido.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "legitimación",
+    "Corte de Apelaciones",
+    "Estado Trujillo"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0314_E20-0180.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312768-0314-22721-2021-20-0180.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.778150"
+}

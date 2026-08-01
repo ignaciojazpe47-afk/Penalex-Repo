@@ -1,0 +1,24 @@
+{
+  "id": 17614,
+  "numero": "0151",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia relacionado con una acción de amparo constitucional interpuesta por varios ciudadanos contra el desalojo arbitrario ejecutado por el Ministerio Público. La acción fue motivada por la denuncia de invasión presentada por el ciudadano Toufic Adel Mustapha, representante de la sucesión del arrendador fallecido. La Sala determinó que el tribunal competente para conocer del caso era el Tribunal Primero de Primera Instancia en Función de Juicio del Circuito Judicial Penal del estado Anzoátegui, dado que el desalojo fue realizado por fiscales del Ministerio Público bajo el programa 'Plan Adulto Mayor'. Se ordenó la remisión del expediente a dicho tribunal para su tramitación correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "competencia",
+    "Ministerio Público",
+    "arrendamiento"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0151_E25-0645.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353147-0151-2326-2026-25-0645.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.368334"
+}

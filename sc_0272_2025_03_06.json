@@ -1,0 +1,23 @@
+{
+  "id": 18728,
+  "numero": "0272",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara incompetente para conocer de la acción de amparo constitucional.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la incompetencia para conocer de la acción de amparo constitucional interpuesta por María Auxiliadora Betancourt contra José Antonio Goncalves Nieves y Jhon A. Oviedo. La acción se relaciona con un presunto desalojo arbitrario de un inmueble donde reside la demandante y sus nietos, alegando violaciones a sus derechos constitucionales. La Sala determinó que la competencia corresponde a los tribunales de juicio del circuito judicial penal, dado que la naturaleza del caso está vinculada a un proceso penal en curso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "desalojo arbitrario",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0272_E24-1228.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342177-0272-6325-2025-24-1228.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.869240"
+}

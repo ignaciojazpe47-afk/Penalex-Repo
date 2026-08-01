@@ -1,0 +1,23 @@
+{
+  "id": 38005,
+  "numero": "1146",
+  "fecha": "2021-12-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 320-2021, en la que se declara con lugar el recurso de amparo constitucional interpuesto por la abogada Rosalyn González Mendoza en representación de Ricardo Luis Méndez Klein. La decisión anula la sentencia N° 073-2020 del Juzgado Quinto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Zulia, retrotrayendo el proceso al estado en que se realice un nuevo acto de presentación de imputados ante un tribunal distinto, debido a vicios procesales que afectaron el debido proceso y la tutela judicial efectiva. Se ordena la reposición de la causa, garantizando así los derechos del imputado y del Ministerio Público.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "manejo indebido de sustancias",
+    "nulidad procesal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de manejo indebido de sustancias peligrosas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1146_E21-0839.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321980-1146-141222-2022-21-0839.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.734312"
+}

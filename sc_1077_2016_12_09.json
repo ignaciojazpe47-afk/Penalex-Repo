@@ -1,0 +1,23 @@
+{
+  "id": 61121,
+  "numero": "1077",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 9 de diciembre de 2016, declaró sin lugar la apelación interpuesta por la abogada Taina Elena Medina en representación de JOSÉ GREGORIO ZAMBRANO MEJÍAS, contra la decisión de la Sala Única de la Corte de Apelaciones del Estado Lara, que había declarado la improcedencia in limine litis de la acción de amparo constitucional. La Sala consideró que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa decisión apelada se basó en la falta de vicios en el auto de apertura a juicio dictado por el Juzgado Noveno de Primera Instancia en Función de Control del Circuito Judicial Penal del Estado Lara, el cual actuó dentro de su competencia y sin violar derechos fundamentales. La Sala Constitucional reafirmó que los jueces tienen autonomía en la valoración de los hechos y que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya tomadas por los jueces de primera instancia.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, manteniendo la improcedencia de la acción de amparo y resaltando la importancia de respetar los márgenes de competencia de los jueces en el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "improcedencia",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre improcedencia de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1077_E16-1037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193707-1077-91216-2016-16-1037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.591427"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 21675,
+  "numero": "1422",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de apelación interpuesto por los abogados de Henrry José Castillo Guevara, quien alegaba violaciones a sus derechos constitucionales. La Corte de Apelaciones había declarado inadmisible la acción de amparo por inepta acumulación de pretensiones. La Sala Constitucional confirmó esta decisión, argumentando que las pretensiones eran incompatibles y que el recurso fue presentado de manera extemporánea.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantias",
+    "temporalidad",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1422_E22-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347293-1422-7825-2025-22-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.208898"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 45062,
+  "numero": "0048",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la decisión objeto de revisión.",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por el Juzgado Superior Quinto en lo Civil, Mercantil, y Tránsito, que había declarado parcialmente con lugar la apelación interpuesta por la parte demandada y la demanda de desalojo. Se determinó que el procedimiento seguido no garantizó el debido proceso, lo que llevó a la anulación de la decisión y a la reposición de la causa a un tribunal distinto para que se ordene el procedimiento adecuado. La Sala concluyó que la pretensión de los demandantes era contraria a derecho, lo que justificó la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "confesión ficta",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de desalojo y declaración de confesión ficta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0048_E17-1105.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206919-0048-17118-2018-17-1105.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.267434"
+}

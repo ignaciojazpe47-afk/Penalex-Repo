@@ -1,0 +1,25 @@
+{
+  "id": 30215,
+  "numero": "0434",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre la apelación interpuesta por el abogado Carlos Luis Moya Gómez en representación de Domingo Rafael González Goitia, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La apelación se fundamentó en la presunta omisión de pronunciamiento del Juzgado Segundo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Nueva Esparta respecto a la solicitud de revisión de medida de privación judicial preventiva de libertad.\nLa Sala concluyó que la acción de amparo era inadmisible, ya que las circunstancias que dieron origen a la solicitud habían cesado, conforme a lo establecido en el artículo 6.1 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Por lo tanto, se declaró competente para conocer el recurso y se confirmó la decisión de la Corte de Apelaciones, declarando sin lugar la apelación interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunales",
+    "decisiones"
+  ],
+  "titulo": "Decisión sobre la apelación de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0434_E21-0743.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325054-0434-15523-2023-21-0743.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.045610"
+}

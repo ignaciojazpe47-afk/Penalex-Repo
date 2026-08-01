@@ -1,0 +1,22 @@
+{
+  "id": 60680,
+  "numero": "987",
+  "fecha": "2016-11-23",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero en lo Civil, que había declarado inadmisible la acción reivindicatoria y revocado un fallo anterior que había declarado con lugar dicha acción. La Sala concluyó que el juzgado de alzada cometió errores al no considerar adecuadamente la pretensión de los actores, quienes solicitaban no solo la reivindicación de la propiedad, sino también la nulidad de ciertos documentos registrales. La Sala declaró ha lugar la revisión y ordenó al juzgado inferior dictar un nuevo fallo conforme a lo verificado.",
+  "palabras_clave": [
+    "acción reivindicatoria",
+    "nulidad de instrumentos registrales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre acción reivindicatoria y nulidad de instrumentos registrales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-23_S987_E16-0619.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193121-987-231116-2016-16-0619.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.615632"
+}

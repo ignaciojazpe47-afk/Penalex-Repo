@@ -1,0 +1,25 @@
+{
+  "id": 17725,
+  "numero": "0719",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo interpuesta por Adilberto Antonio Castillo Castillo contra un decreto de embargo cautelar dictado el 3 de octubre de 2025. Se establece que el tribunal competente para conocer de la acción es un Juzgado de Primera Instancia Civil de la Circunscripción Judicial del Estado Carabobo. Se ordena la remisión del expediente al Juzgado Distribuidor de Primera Instancia en lo Civil, Mercantil y Tránsito de la misma circunscripción.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "embargo",
+    "incongruencia",
+    "usurpación de funciones",
+    "vivienda digna",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0719_E25-1265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355989-0719-27526-2026-25-1265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.895342"
+}

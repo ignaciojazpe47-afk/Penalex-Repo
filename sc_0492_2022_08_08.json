@@ -1,0 +1,26 @@
+{
+  "id": 36123,
+  "numero": "0492",
+  "fecha": "2022-08-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Yulcides María Rojas Riera, quien impugnó la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Carabobo que declaró sin lugar su apelación sobre la oferta real de pago. La Sala determinó que no existían violaciones a los derechos constitucionales denunciados y que el fallo del Juzgado Superior se ajustó a derecho, por lo que se desestimó la solicitud de revisión. La decisión se fundamentó en la falta de justificación para la revisión extraordinaria y en la correcta aplicación de la normativa por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión",
+    "jurisdicción",
+    "derechos",
+    "sentencia",
+    "constitucional",
+    "apelación",
+    "justicia"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre oferta real de pago",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-08_S0492_E17-0840.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319148-0492-8822-2022-17-0840.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.574496"
+}

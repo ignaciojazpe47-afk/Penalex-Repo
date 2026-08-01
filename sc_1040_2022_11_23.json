@@ -1,0 +1,25 @@
+{
+  "id": 37564,
+  "numero": "1040",
+  "fecha": "2022-11-23",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Carmine Romaniello contra el MIPPCI, debido a que el agravio no proviene directamente del Ministro, sino de la Dirección de Personal del ente ministerial. La Sala decide remitir el expediente al Juzgado Superior Estadal de la Jurisdicción Contencioso Administrativa de la Región Capital, instando a dar prioridad al asunto por la avanzada edad del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "función pública",
+    "competencia",
+    "jurisdicción",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-23_S1040_E22-0177.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320995-1040-231122-2022-22-0177.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.331934"
+}

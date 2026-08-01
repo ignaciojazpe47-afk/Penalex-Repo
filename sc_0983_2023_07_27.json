@@ -1,0 +1,26 @@
+{
+  "id": 31599,
+  "numero": "0983",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una solicitud de revisión constitucional presentada por Antonio Alejandro Bucci Yáñez, en su calidad de presidente de la sociedad mercantil Telecomunicaciones AABY, C.A. La solicitud se fundamentó en la violación de derechos a la tutela judicial efectiva y al debido proceso, en relación con una decisión anterior de la Sala de Casación Civil que declaró sin lugar un recurso de casación. La Sala Constitucional se declaró competente para conocer el caso y ordenó la remisión de las actas del expediente correspondiente.",
+  "palabras_clave": [
+    "comodato",
+    "contrato",
+    "preferencia",
+    "venta",
+    "derechos",
+    "tutela judicial",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0983_E21-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327474-0983-27723-2023-21-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.917719"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23415,
+  "numero": "1930",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2025, declaró sin lugar el recurso de apelación interpuesto por los abogados Marco Tulio Domínguez Tovar y Pedro Lara Hurtado, quienes habían solicitado un pronunciamiento sobre la procedencia de una medida cautelar. La Sala consideró que la acción de amparo era inadmisible, ya que el Juzgado Primero de Primera Instancia ya se había pronunciado sobre la medida solicitada el 27 de junio de 2024, lo que cesó la violación alegada de derechos constitucionales. La decisión del Juzgado Superior en lo Civil, Mercantil, Bancario y del Tránsito fue confirmada.",
+  "palabras_clave": [
+    "accion de amparo",
+    "derechos fundamentales",
+    "constitucion",
+    "vías procesales",
+    "inadmision",
+    "justicia",
+    "juez constitucional"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1930_E24-1101.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350816-1930-281125-2025-24-1101.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.791709"
+}

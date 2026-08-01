@@ -1,0 +1,27 @@
+{
+  "id": 2073,
+  "numero": null,
+  "fecha": "2000-10-27",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "SIN LUGAR",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de octubre de 2000, abordó la apelación interpuesta por el abogado José Antonio Olivo Durán, en representación de la sociedad mercantil Industrias Free Ways, C.A., contra la decisión de la Corte Primera de lo Contencioso Administrativo que declaró sin lugar la acción de amparo constitucional. La controversia se originó por la retención de mercancías por parte de la Guardia Nacional, alegando la violación de derechos constitucionales como el derecho a la defensa, a la propiedad y a la no confiscación de bienes. La Sala concluyó que la retención se realizó conforme a la normativa vigente, y que no se vulneraron los derechos alegados, confirmando así la decisión de la Corte Primera.",
+  "palabras_clave": [
+    "retención de mercancías",
+    "derechos constitucionales",
+    "amparo constitucional",
+    "Guardia Nacional",
+    "propiedad",
+    "debido proceso",
+    "importación",
+    "ilícito fiscal"
+  ],
+  "titulo": "Retención de Mercancías y Derechos Constitucionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-10-27_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.722552"
+}

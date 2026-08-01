@@ -1,0 +1,24 @@
+{
+  "id": 43469,
+  "numero": "0211",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara terminada la acción de amparo interpuesta por varios abogados contra el Presidente de la República, Nicolás Maduro Moros, por el anuncio de un censo nacional de transporte. La Sala determinó que hubo abandono del trámite debido a la falta de impulso procesal por parte de los demandantes durante más de seis meses, lo que llevó a la extinción del procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "inactividad",
+    "extinción de instancia",
+    "tutela urgente"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el Presidente de la República",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0211_E18-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306096-0211-12719-2019-18-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.410312"
+}

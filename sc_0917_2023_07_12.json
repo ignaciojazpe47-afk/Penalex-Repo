@@ -1,0 +1,26 @@
+{
+  "id": 31213,
+  "numero": "0917",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre una acción de amparo constitucional interpuesta por Alexis González Torres, quien denuncia la omisión de notificación en una decisión de la Corte de Apelaciones. La Sala determina su competencia para conocer el caso y ordena a la Corte de Apelaciones remitir copias certificadas de las actuaciones relacionadas con el amparo. Se establece un plazo de cinco días para el cumplimiento de esta orden.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "competencia",
+    "notificación",
+    "Corte de Apelaciones",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0917_E23-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326825-0917-12723-2023-23-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.219093"
+}

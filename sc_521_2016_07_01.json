@@ -1,0 +1,23 @@
+{
+  "id": 58189,
+  "numero": "521",
+  "fecha": "2016-07-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero del Trabajo que había declarado con lugar la apelación de un funcionario destituido, argumentando que no era funcionario público por no haber ingresado mediante concurso. La Sala determinó que el ciudadano Oliver Rafael Piñero Suárez sí era un funcionario público, ya que contaba con un acto de nombramiento y había cumplido con los requisitos establecidos por la ley. Por lo tanto, se anuló la sentencia del Juzgado Superior y se declaró ha lugar la revisión constitucional interpuesta por el Estado Bolivariano de Miranda y el Instituto Autónomo Cuerpo de Bomberos del Estado Miranda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "funcionario público",
+    "destitución",
+    "derecho a la estabilidad"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre destitución de funcionario público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-07-01_S521_E14-1354.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/188693-521-1716-2016-14-1354.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.743501"
+}

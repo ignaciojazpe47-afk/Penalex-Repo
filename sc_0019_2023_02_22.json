@@ -1,0 +1,27 @@
+{
+  "id": 28899,
+  "numero": "0019",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-000487 dictada por la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por MAPFRE LA SEGURIDAD C.A. La solicitud de revisión se fundamentó en la supuesta falta de legitimación activa del demandante, EUSEBIO CHAPARRO, quien actuó en nombre de la empresa afectada por un siniestro. La Sala consideró que la decisión de la Sala de Casación Civil vulneró derechos fundamentales como el debido proceso y la defensa, por lo que se acordó la nulidad de la sentencia impugnada y se ordenó la suspensión de sus efectos hasta que se resuelva el fondo del asunto.",
+  "palabras_clave": [
+    "contrato",
+    "seguro",
+    "legitimación",
+    "debido_proceso",
+    "tutela_judicial",
+    "constitución",
+    "derechos",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° RC-000487",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0019_E22-0919.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322817-0019-22223-2023-22-0919.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.298830"
+}

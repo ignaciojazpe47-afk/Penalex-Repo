@@ -1,0 +1,27 @@
+{
+  "id": 2275,
+  "numero": null,
+  "fecha": "2001-02-09",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Con lugar",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "En esta sentencia, la Sala Constitucional del Tribunal Supremo de Justicia de Venezuela se pronunció sobre un recurso de amparo constitucional interpuesto por Nestor Alejandro Arzola, Jesús Berardinelli Lezama y Adriana Coromoto Martínez de Berardinelli. Los demandantes alegaron la violación de sus derechos fundamentales al ser llevados a juicio por delitos que consideraban prescritos. La Corte de Apelaciones había declarado inadmisible su acción de amparo, argumentando que la decisión del Juzgado de Control era inapelable. Sin embargo, la Sala Constitucional determinó que la prescripción de la acción penal era un asunto de orden público que debía ser considerado, y que la acción de amparo era el medio adecuado para restablecer los derechos vulnerados. Finalmente, la Sala declaró con lugar el recurso de apelación, revocando la decisión de la Corte de Apelaciones y ordenando la admisión del amparo.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Prescripción",
+    "Derechos Fundamentales",
+    "Falsificación de Firma",
+    "Estado Yaracuy",
+    "Juzgado de Control",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Amparo Constitucional por Prescripción de Acción Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-09_CasacionPenal_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.714906"
+}

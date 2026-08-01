@@ -1,0 +1,25 @@
+{
+  "id": 34186,
+  "numero": "1294",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO ACEPTA la declinatoria de competencia",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la Sociedad Mercantil Maciagro C.A contra un auto del Juzgado Cuarto de Primera Instancia en lo Civil, que ordenó remitir el expediente a un Juzgado Agrario. La Sala analizó la competencia y decidió no aceptar la declinatoria realizada por el Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito, considerando que el Tribunal competente para conocer de la acción de amparo es un Juzgado Superior en materia Civil de la misma circunscripción judicial.\n\nLa decisión se fundamenta en la vulneración de derechos constitucionales como el acceso a la justicia y el debido proceso, ya que el Juzgado Cuarto omitió la impugnación presentada por la parte accionante. La Sala ordenó la remisión del expediente a un Tribunal Superior en lo Civil para que se pronuncie sobre la admisibilidad y trámite de la acción de amparo.\n\nFinalmente, se ordenó la notificación de la decisión a los representantes legales de la Sociedad Mercantil Maciagro C.A, asegurando el cumplimiento de los derechos procesales de la parte accionante.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos constitucionales",
+    "justicia",
+    "tribunales",
+    "cobro de bolívares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1294_E23-0159.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328498-1294-15823-2023-23-0159.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.853364"
+}

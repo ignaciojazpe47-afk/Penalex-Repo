@@ -1,0 +1,27 @@
+{
+  "id": 33888,
+  "numero": "2035",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional revisa la sentencia proferida por la Corte de Apelaciones que declaró sin lugar los recursos de apelación interpuestos por el Ministerio Público y los solicitantes. Se determina la competencia de la Sala para conocer de la solicitud de revisión constitucional, en virtud de lo establecido en la Constitución y la Ley Orgánica del Tribunal Supremo de Justicia. Se ordena la obtención del expediente original para continuar con el proceso de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "cosa juzgada",
+    "sobreseimiento",
+    "Código Orgánico Procesal Penal",
+    "sentencia",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre revisión constitucional de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2035_E23-0798.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332005-2035-191223-2023-23-0798.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.689245"
+}

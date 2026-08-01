@@ -1,0 +1,23 @@
+{
+  "id": 40802,
+  "numero": "0747",
+  "fecha": "2021-11-25",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional recibió una solicitud de avocamiento presentada por el Banco Exterior, C.A. contra la empresa MMC Automotriz, S.A., en relación a un juicio que cursaba ante el Juzgado Superior Sexto en lo Civil. Se dictó una sentencia que ordenó la remisión del expediente a la Sala Constitucional. Posteriormente, se realizó una audiencia informativa y se solicitó información adicional a la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN). Finalmente, se ordenó la notificación del auto a dicha superintendencia.",
+  "palabras_clave": [
+    "avocamiento",
+    "banco",
+    "automotriz",
+    "SUDEBAN"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de BANCO EXTERIOR contra MMC AUTOMOTRIZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0747_E20-0350.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315199-0747-91221-2021-20-0350.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.511520"
+}

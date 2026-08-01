@@ -1,0 +1,27 @@
+{
+  "id": 31203,
+  "numero": "0907",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar la acción de amparo constitucional interpuesta por Simón José Arrieta Quintero, defensor privado de un adolescente, contra la decisión de la Corte de Apelaciones que había declarado sin lugar la acción de amparo. La Sala argumentó que la práctica de la prueba anticipada solicitada por el Ministerio Público no vulnera los derechos del imputado, ya que se realizó en la fase primigenia del proceso y es necesaria para preservar el testimonio de los menores involucrados en casos de abuso sexual.\n\nSe destacó que la prueba anticipada es un medio idóneo para garantizar los derechos de los niños, niñas y adolescentes, evitando su revictimización y asegurando su aporte efectivo al proceso. La Sala reafirmó que el juez tiene la facultad de practicar pruebas anticipadas en las etapas procesales pertinentes, y que la falta de comparecencia del imputado no puede ser atribuida a la práctica de dicha prueba.\n\nFinalmente, se confirmó la sentencia de la Corte de Apelaciones, manteniendo la decisión de no admitir la acción de amparo, y se ordenó el cumplimiento de lo decidido, remitiendo el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "prueba anticipada",
+    "derechos",
+    "niños",
+    "adolescentes",
+    "debido proceso",
+    "justicia",
+    "penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por defensor privado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0907_E19-0257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326815-0907-12723-2023-19-0257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.219901"
+}

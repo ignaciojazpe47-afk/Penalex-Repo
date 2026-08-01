@@ -1,0 +1,22 @@
+{
+  "id": 10096,
+  "numero": null,
+  "fecha": "2003-12-04",
+  "anio": 2003,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia, presidida por la Magistrada Blanca Rosa Mármol de León, decidió declarar con lugar el recurso de casación interpuesto por la defensa de Williams Alexander Arvelo, quien había sido condenado a quince años de presidio por homicidio calificado. La Corte de Apelaciones había declarado sin lugar el recurso de apelación, lo que motivó la interposición del recurso de casación. La Sala observó que la Corte de Apelaciones incurrió en un vicio de falta de aplicación del artículo 457 del Código Orgánico Procesal Penal al no anular la sentencia impugnada y no ordenar un nuevo juicio oral.",
+  "palabras_clave": [
+    "casación",
+    "homicidio",
+    "penal"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_72821eac8052f23eb1d2f0c47045942f.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.741840"
+}

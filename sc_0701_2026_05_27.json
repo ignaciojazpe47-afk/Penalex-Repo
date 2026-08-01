@@ -1,0 +1,24 @@
+{
+  "id": 17712,
+  "numero": "0701",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Armando Eulises Pérez Aliendo contra la Fiscalía Quinta Municipal de Caracas. Tras el análisis del caso, la Sala determinó que no era competente para conocer de la acción, ya que el sujeto señalado como agraviante no era el Fiscal General de la República, sino un fiscal municipal. Por lo tanto, declinó la competencia a los Juzgados de Primera Instancia en Funciones de Juicio de la misma circunscripción judicial.",
+  "palabras_clave": [
+    "incompetencia",
+    "amparo",
+    "tribunal",
+    "justicia",
+    "remisión"
+  ],
+  "titulo": "Declaración de incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0701_E26-0386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355971-0701-27526-2026-26-0386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.905970"
+}

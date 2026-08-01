@@ -1,0 +1,22 @@
+{
+  "id": 21234,
+  "numero": "1248",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del TSJ recibió una solicitud de revisión de sentencia presentada por el abogado Albert Antonio Rojas, en representación de Leyderman Alberto González Campos, quien fue condenado a 20 años y 4 meses de prisión. La solicitud se basa en la alegación de que la ejecución de la pena se ha realizado de manera irregular, afectando la tutela judicial efectiva y los derechos del penado. La Sala decidió oficiar al abogado para que presente la sentencia cuya revisión se solicita y a la vez, al Tribunal de Primera Instancia en Funciones de Ejecución para que remita un informe sobre la fase actual de ejecución de la pena.",
+  "palabras_clave": [
+    "revisión de sentencia",
+    "tutela judicial efectiva",
+    "ejecución de pena"
+  ],
+  "titulo": "Revisión de sentencia definitivamente firme en caso de Leyderman Alberto González Campos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1248_E25-0493.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346545-1248-28725-2025-25-0493.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.779582"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 36875,
+  "numero": "0811",
+  "fecha": "2022-10-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional de la sentencia número 56, dictada el 4 de abril de 2019, que acordó la extradición del ciudadano Ryszard Wilk al Reino de Nueva Zelanda. El abogado Ismael Silvestre Casquetia Córdova, actuando en nombre de Wilk, argumentó que la sentencia quebrantó el orden público constitucional al no considerar los alegatos sobre la posible imposición de cadena perpetua en Nueva Zelanda.\nLa Sala, tras analizar los fundamentos de la solicitud, concluyó que no se evidenció el desconocimiento de criterios interpretativos de normas constitucionales y que la decisión de la Sala de Casación Penal fue ajustada a derecho, ya que se acordó la extradición bajo el compromiso del Reino de Nueva Zelanda de no imponer prisión perpetua. Por lo tanto, se declaró sin lugar la revisión constitucional solicitada.\nFinalmente, la Sala reafirmó su competencia para conocer de la solicitud y determinó que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales, por lo que se desestimó la solicitud.",
+  "palabras_clave": [
+    "extradición",
+    "derecho internacional",
+    "Código Penal",
+    "Código Orgánico Procesal Penal",
+    "convenciones internacionales",
+    "orden público",
+    "justicia"
+  ],
+  "titulo": "Revisión constitucional de la sentencia de extradición de Ryszard Wilk",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-21_S0811_E19-0393.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320193-0811-211022-2022-19-0393.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.096541"
+}

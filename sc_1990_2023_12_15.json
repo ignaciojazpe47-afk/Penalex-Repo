@@ -1,0 +1,25 @@
+{
+  "id": 33843,
+  "numero": "1990",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación por desacato interpuesto por la abogada Elisabetta Pasta en representación de Pepsi-Cola Venezuela, C.A. contra una decisión del Tribunal Primero de Primera Instancia de Juicio del Trabajo de Anzoátegui. La Sala determinó que el recurso era improponible en derecho, ya que la apelación no estaba prevista en el ordenamiento jurídico venezolano para este tipo de casos, que deben ser tratados bajo el principio de la doble instancia.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "trabajo",
+    "jurisdicción",
+    "constitucional",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en caso de desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1990_E23-0275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331960-1990-151223-2023-23-0275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.704314"
+}

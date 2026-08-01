@@ -1,0 +1,26 @@
+{
+  "id": 33155,
+  "numero": "1664",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Wilmer Rafael Saballe, en representación de John Alexander Andrade Rivas, contra la omisión de pronunciamiento del Juzgado Cuarto en Funciones de Control del Circuito Judicial Penal del Estado Zulia. La decisión se basa en que el accionante contaba con otras vías jurídicas ordinarias para resolver su pretensión, como la revisión de la medida de coerción impuesta a su defendido.\n\nLa Sala Tercera de la Corte de Apelaciones había declarado inadmisible la acción de amparo, considerando que la parte accionante no agotó los recursos ordinarios disponibles antes de acudir a la vía del amparo. La Sala Constitucional confirma esta decisión, señalando que la acción de amparo no es un recurso idóneo para sustituir los mecanismos ordinarios establecidos en el ordenamiento procesal penal.\n\nFinalmente, se establece que la situación denunciada por el accionante se tornó irreparable, ya que la naturaleza de los delitos imputados a Andrade Rivas hacía improcedente la aplicación de medidas menos gravosas, lo que refuerza la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "procedimiento",
+    "justicia",
+    "penal"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1664_E23-0074.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330831-1664-301123-2023-23-0074.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.171957"
+}

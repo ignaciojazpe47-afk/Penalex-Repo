@@ -1,0 +1,23 @@
+{
+  "id": 26748,
+  "numero": "0349",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad interpuesto por la Asociación Civil Universidad de Margarita contra artículos de una ordenanza municipal que imponía impuestos a actividades económicas, argumentando que tales actividades son de naturaleza civil y no deben ser gravadas. La Sala decidió parcialmente a favor de la Universidad, suspendiendo la aplicación del impuesto solo para las actividades educativas, mientras que el resto de las disposiciones de la ordenanza permanecen vigentes para asegurar los ingresos municipales.",
+  "palabras_clave": [
+    "nulidad",
+    "impuesto",
+    "actividades educativas",
+    "ordenanza municipal"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanza municipal que impone impuestos a actividades educativas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0349_E19-0691.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338030-0349-231024-2024-19-0691.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.328251"
+}

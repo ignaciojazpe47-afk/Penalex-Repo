@@ -1,0 +1,25 @@
+{
+  "id": 36145,
+  "numero": "0514",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación interpuesto por Otoniel Pautt Andrade sobre el artículo 187, numeral 11 de la Constitución. Se argumenta que el solicitante no presenta un interés jurídico actual y legítimo que justifique la intervención de la Sala. La decisión se fundamenta en criterios establecidos en sentencias previas sobre la admisibilidad de este tipo de recursos.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "admisibilidad",
+    "jurisprudencia",
+    "recurso",
+    "legitimacion"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0514_E19-0143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319171-0514-11822-2022-19-0143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.567848"
+}

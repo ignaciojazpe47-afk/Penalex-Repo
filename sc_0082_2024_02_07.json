@@ -1,0 +1,25 @@
+{
+  "id": 24135,
+  "numero": "0082",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por Isabel Alicia Agüero Ablan, quien actuó en su propio nombre y como coheredera de la sucesión de Víctor José Agüero Partidas y Rosa Amelia Ablan de Agüero. La solicitud se refería a la sentencia N° 265 de la Sala de Casación Social, que declaró sin lugar un recurso de apelación contra una decisión de inadmisibilidad del Juzgado Superior Agrario.\n\nLa Sala Constitucional determinó su competencia para conocer la solicitud y, tras analizar los argumentos presentados, concluyó que no existían infracciones a derechos constitucionales ni errores en la interpretación de la ley. Por lo tanto, se declaró NO HA LUGAR la solicitud de revisión, confirmando la decisión de la Sala de Casación Social.\n\nFinalmente, la sentencia fue firmada y sellada el 7 de febrero de 2024, y se ordenó su publicación y registro.",
+  "palabras_clave": [
+    "legitimidad activa",
+    "recurso de nulidad",
+    "sucesión",
+    "Instituto Nacional de Tierras",
+    "interés legítimo",
+    "derecho de acceso a la justicia"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 265 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0082_E23-1208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332453-0082-7224-2024-23-1208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.572452"
+}

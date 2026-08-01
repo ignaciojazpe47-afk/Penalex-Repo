@@ -1,0 +1,25 @@
+{
+  "id": 21954,
+  "numero": "1492",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia aceptó la declinatoria de competencia y declaró su competencia para conocer de la acción de amparo interpuesta por Audio Enrique Carrasquero López. Se determinó que la parte actora no mostró interés en continuar con el proceso, lo que llevó a declarar el abandono del trámite. Además, se impuso una multa a la parte actora por la falta de impulso procesal.",
+  "palabras_clave": [
+    "apelación",
+    "derecho a la defensa",
+    "debido proceso",
+    "reforma in peius",
+    "competencia",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1492_E24-1200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348107-1492-30925-2025-24-1200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.202234"
+}

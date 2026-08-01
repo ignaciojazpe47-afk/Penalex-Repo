@@ -1,0 +1,24 @@
+{
+  "id": 12098,
+  "numero": null,
+  "fecha": "2011-06-06",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por los demandantes contra la decisión del Juzgado Superior Tercero que declaró inadmisible la acción de amparo. Se argumenta que la exigencia de caución o fianza para demandantes no domiciliados en Venezuela no es aplicable a los niños, niñas y adolescentes, en virtud de su derecho a la gratuidad en el acceso a la justicia. La Sala confirma la inadmisibilidad del amparo, pero anula parcialmente las decisiones que exigían caución a la adolescente, permitiendo que el juicio continúe sin dicha exigencia.",
+  "palabras_clave": [
+    "amparo",
+    "caución",
+    "niños",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo en caso de caución para menores",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2011_9.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.547757"
+}

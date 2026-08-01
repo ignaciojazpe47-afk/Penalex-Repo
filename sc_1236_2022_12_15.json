@@ -1,0 +1,24 @@
+{
+  "id": 38113,
+  "numero": "1236",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Enso Franco Caserta Cova, representado por el abogado Dámaso Antonio Cabrera Velásquez. La solicitud se refería a una sentencia de la Sala de Casación Civil que declaró sin lugar un recurso de casación. La Sala determinó que la solicitud era inadmisible por no haberse presentado la copia certificada de la decisión objeto de revisión, requisito indispensable para la admisibilidad de tales solicitudes.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión",
+    "tribunal",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1236_E18-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322128-1236-151222-2022-18-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.131779"
+}

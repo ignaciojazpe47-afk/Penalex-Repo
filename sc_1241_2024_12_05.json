@@ -1,0 +1,26 @@
+{
+  "id": 28283,
+  "numero": "1241",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Lino del Carmen González Gutiérrez, quien impugnó una sentencia del Juzgado Superior en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Falcón, dictada el 11 de febrero de 2011. La solicitud se fundamentó en la alegación de violaciones a derechos constitucionales y la falta de litisconsorcio pasivo necesario en el juicio original.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "constitucionalidad",
+    "debido proceso",
+    "tutela judicial",
+    "jurisprudencia",
+    "litisconsorcio"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1241_E23-0110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340197-1241-51224-2024-23-0110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.031093"
+}

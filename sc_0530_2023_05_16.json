@@ -1,0 +1,23 @@
+{
+  "id": 30312,
+  "numero": "0530",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional presentada por Laura Mercedes Silva Ríos, en representación de su hija adolescente, contra Yuleidy María González Ávila, quien presuntamente desalojó a la demandante de su vivienda. El Tribunal Segundo de Primera Instancia se declaró incompetente para conocer el caso, lo que generó un conflicto de competencia que fue elevado a la Sala Constitucional para su resolución.\nLa Sala Constitucional, tras analizar los antecedentes y la naturaleza del caso, determinó que el Tribunal Segundo de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario es el competente para conocer y decidir sobre la acción de amparo. Se ordenó la remisión del expediente a dicho tribunal, afirmando que el conflicto planteado es de naturaleza civil arrendaticia, a pesar de la implicación de derechos de un menor.\nFinalmente, la Sala declaró su competencia para resolver el conflicto y ordenó la remisión del expediente al tribunal correspondiente, reafirmando la importancia de la correcta asignación de competencias en materia de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "conflicto de competencia",
+    "desalojo",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0530_E23-0171.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325158-0530-16523-2023-23-0171.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.871268"
+}

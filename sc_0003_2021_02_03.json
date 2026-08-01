@@ -1,0 +1,22 @@
+{
+  "id": 38159,
+  "numero": "0003",
+  "fecha": "2021-02-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró su competencia para conocer la solicitud de avocamiento presentada por representantes de C.V.G. INDUSTRIA VENEZOLANA DE ALUMINIO, C.A. respecto a un expediente ante la Sala Político Administrativa. Se admitió la solicitud y se acordaron medidas cautelares para proteger los intereses del Estado y del colectivo asegurado, incluyendo la prohibición de enajenar bienes de la empresa demandada.",
+  "palabras_clave": [
+    "avocamiento",
+    "medidas cautelares",
+    "C.V.G. INDUSTRIA VENEZOLANA DE ALUMINIO"
+  ],
+  "titulo": "Sentencia sobre avocamiento y medidas cautelares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-02-03_S0003_E19-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/311281-0003-3221-2021-19-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.385117"
+}

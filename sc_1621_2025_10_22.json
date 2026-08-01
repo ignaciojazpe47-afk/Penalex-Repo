@@ -1,0 +1,22 @@
+{
+  "id": 22424,
+  "numero": "1621",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de avocamiento presentada por el abogado Albert Rojas en nombre de Luis Del Valle Campos, relacionada con la causa Q-1423-23. La solicitud se fundamentó en supuestas violaciones al orden público constitucional y derechos fundamentales, pero la Sala determinó que no se cumplían los requisitos necesarios para admitir el avocamiento, ya que el solicitante aún contaba con vías ordinarias para elevar su pretensión.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos constitucionales",
+    "prestaciones sociales"
+  ],
+  "titulo": "Solicitud de avocamiento improcedente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1621_E24-0979.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349002-1621-221025-2025-24-0979.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.750653"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28575,
+  "numero": "1406",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de apelación interpuesto por Dalia del Valle Rondón Gómez, quien actuó en representación de sus hijos en un caso de amparo constitucional. La apelación se basó en la decisión del Juzgado Superior Primero que declaró el desistimiento de la acción de amparo y terminó el procedimiento por abandono del trámite. La Sala confirmó la decisión del juzgado inferior, argumentando que la falta de comparecencia de la parte actora a la audiencia constitucional conllevó a la terminación del procedimiento por abandono.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "debido proceso",
+    "niños",
+    "adolescentes",
+    "justicia",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1406_E24-0025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340598-1406-121224-2024-24-0025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.838385"
+}

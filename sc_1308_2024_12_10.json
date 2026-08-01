@@ -1,0 +1,27 @@
+{
+  "id": 28366,
+  "numero": "1308",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, dictó una sentencia en la que se acordó la medida cautelar de suspensión de efectos de la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Monagas, que había declarado sin lugar un recurso de apelación. La decisión se fundamenta en la necesidad de proteger los derechos constitucionales del solicitante ante la posible ejecución de la sentencia impugnada.\n\nSe establece que la revisión constitucional se centra en la validez del decreto de intimación emitido el 8 de junio de 2021, el cual fue declarado firme por el Juzgado de Primera Instancia y confirmado por el Juzgado Superior. La Sala considera que la falta de oposición por parte de la demandada a dicho decreto implica que la decisión tiene autoridad de cosa juzgada, lo que justifica la revisión solicitada.\n\nFinalmente, se ordena la notificación de la decisión a las partes involucradas y se establece un plazo para la remisión del expediente correspondiente, asegurando así el cumplimiento de los procedimientos establecidos por la ley.",
+  "palabras_clave": [
+    "medida cautelar",
+    "revisión constitucional",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "sentencia",
+    "juzgado",
+    "cobro"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1308_E23-0472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340322-1308-101224-2024-23-0472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.212930"
+}

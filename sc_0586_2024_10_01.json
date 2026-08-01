@@ -1,0 +1,25 @@
+{
+  "id": 27161,
+  "numero": "0586",
+  "fecha": "2024-10-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Orlando Rafael Carvajal Pérez en representación de Alsy José López Barazarte. La solicitud se refiere a la decisión de la Sala de Casación Penal que desestimó un recurso de casación por manifiestamente infundado. La Sala argumenta que la parte solicitante no cumplió con la carga procesal de presentar una copia certificada de la sentencia sometida a revisión, lo que lleva a la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derechos_constitucionales",
+    "seguridad_juridica",
+    "revisión_constitucional",
+    "justicia",
+    "igualdad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0586_E23-1261.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338546-0586-11124-2024-23-1261.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.641651"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30555,
+  "numero": "0601",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal por abandono del trámite en un recurso de nulidad por inconstitucionalidad interpuesto por Carlos Brender. Se argumenta que hubo inacción por parte del demandante desde noviembre de 2021 hasta febrero de 2023, lo que evidencia la falta de interés en continuar con el proceso. La decisión se fundamenta en la jurisprudencia que establece que el interés procesal debe mantenerse a lo largo del juicio.",
+  "palabras_clave": [
+    "interés procesal",
+    "abandonos del trámite",
+    "inactividad",
+    "justicia",
+    "constitución",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre pérdida del interés procesal en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0601_E18-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325689-0601-30523-2023-18-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.916321"
+}

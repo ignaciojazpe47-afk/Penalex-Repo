@@ -1,0 +1,22 @@
+{
+  "id": 19992,
+  "numero": "0792",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Winder Rafael Torrealba en relación al juicio de inquisición de paternidad, donde se alegó la existencia de dilaciones y excusas por parte de los jueces. La Sala, tras analizar la solicitud, determinó que no se encontraban los requisitos necesarios para ejercer su facultad de avocamiento, declarándose incompetente para conocer del caso y declinando el conocimiento a la Sala de Casación Civil. La decisión se fundamenta en la normativa que regula el avocamiento y la naturaleza civil del asunto.",
+  "palabras_clave": [
+    "avocamiento",
+    "inquisición de paternidad",
+    "incompetencia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en juicio de inquisición de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0792_E21-0714.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344270-0792-28525-2025-21-0714.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.860993"
+}

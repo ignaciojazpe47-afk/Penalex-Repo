@@ -1,0 +1,26 @@
+{
+  "id": 33901,
+  "numero": "2048",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0387, dictada el 11 de agosto de 2023, anuló de oficio el auto de admisión de la demanda de privación de patria potestad interpuesta por Eddy Rubén Verenzuela. Este último solicitó la revisión constitucional argumentando que la sentencia vulneró derechos fundamentales y desconoció precedentes de la Sala Constitucional. La Sala, tras analizar los alegatos, concluyó que no se evidenció una transgresión a los derechos constitucionales y que la decisión de la Sala de Casación Social se ajustó a la doctrina vinculante establecida en sentencias anteriores.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "cosa juzgada",
+    "sentencias",
+    "tribunales"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 0387",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2048_E23-1077.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332018-2048-191223-2023-23-1077.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.688766"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20625,
+  "numero": "1025",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado José De Jesús Barroeta Azcón en representación de Jesús Alberto Mujica Pérez. La acción se dirigía contra la sentencia número 113-2021 de la Corte de Apelaciones del Circuito Judicial Penal del estado Cojedes, que había declarado sin lugar un recurso de apelación relacionado con redenciones de pena. La Sala consideró que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder, confirmando la improcedencia de la solicitud de redención de pena por no haber cumplido las 3/4 partes de la pena impuesta.",
+  "palabras_clave": [
+    "apelación",
+    "redención de pena",
+    "motivación",
+    "tutela judicial",
+    "derechos fundamentales",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1025_E21-0646.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345294-1025-30625-2025-21-0646.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.294714"
+}

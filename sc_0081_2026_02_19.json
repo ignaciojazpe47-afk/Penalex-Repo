@@ -1,0 +1,26 @@
+{
+  "id": 17547,
+  "numero": "0081",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Iris Marú Rojas Rabol, en representación de Judith Gabriela Verburg Martínez, Elizabeth Mary Verburg Martínez y José Manuel Peñuela Mujica, contra la sentencia dictada el 17 de junio de 2019 por la Sala 5 de la Corte de Apelaciones del Circuito Judicial Penal. La decisión se basa en que la lesión denunciada ha cesado tras la condena de los imputados por homicidio calificado, lo que opera como causal de inadmisibilidad según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "apelación",
+    "error_material",
+    "libertad_sin_restricciones",
+    "incongruencia",
+    "Corte_de_Apelaciones"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0081_E19-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352768-0081-19226-2026-19-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.394770"
+}

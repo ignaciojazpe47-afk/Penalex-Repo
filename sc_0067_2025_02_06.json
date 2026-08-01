@@ -1,0 +1,25 @@
+{
+  "id": 18217,
+  "numero": "0067",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de febrero de 2025, declaró sin lugar el recurso de apelación interpuesto por Bernardina Santaella contra la sentencia de la Sala Tercera de la Corte de Apelaciones que declaró inadmisible su acción de amparo constitucional. La Sala constató que la violación de derechos denunciada había cesado, ya que se verificó la notificación tácita a los abogados de la parte accionante sobre la decisión del tribunal de origen. La decisión de inadmisibilidad se fundamentó en la falta de pronunciamiento del tribunal de instancia respecto a la solicitud de amparo, lo que llevó a la confirmación de la decisión recurrida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "derechos",
+    "justicia",
+    "debido proceso",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0067_E24-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341235-0067-6225-2025-24-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.557123"
+}

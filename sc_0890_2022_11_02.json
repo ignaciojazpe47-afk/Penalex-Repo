@@ -1,0 +1,26 @@
+{
+  "id": 37140,
+  "numero": "0890",
+  "fecha": "2022-11-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rodolfo Luís Quijada Marval, en virtud de que se ejerció contra actos y omisiones de la Sala Electoral, lo cual no es procedente según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se considera inoficioso pronunciarse sobre la medida cautelar solicitada, dado que la acción principal fue declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "recusacion",
+    "jurisprudencia",
+    "tribunal",
+    "derechos",
+    "garantias"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-02_S0890_E20-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320492-0890-21122-2022-20-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.413800"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 52124,
+  "numero": "440",
+  "fecha": "2017-06-07",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de protección de intereses colectivos y difusos presentada por varios ciudadanos del Municipio 'Antonio José de Sucre', Estado Barinas, contra el Alcalde Ronald Jesús Aguilar Pérez. La demanda se fundamentó en el incumplimiento del alcalde de sus deberes constitucionales, lo que ha generado una situación de violencia y desorden público en la localidad, afectando los derechos de los ciudadanos a la salud, educación y libre tránsito.\nLa Sala, tras evaluar los alegatos y la situación presentada, decidió otorgar un amparo cautelar, ordenando al alcalde que tome las medidas necesarias para garantizar el libre tránsito y la seguridad de los habitantes del municipio. Se destacó la importancia de la protección de los derechos constitucionales en el contexto de la crisis social que enfrenta la comunidad.\nFinalmente, se ordenó la ejecución inmediata de las medidas cautelares y se estableció la competencia de la Sala para conocer de la demanda, dada la trascendencia nacional de los derechos involucrados.",
+  "palabras_clave": [
+    "intereses colectivos",
+    "amparo cautelar",
+    "violencia",
+    "derechos constitucionales",
+    "Barinas"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de intereses colectivos y difusos con amparo cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-07_S440_E17-0622.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199711-440-7617-2017-17-0622.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.074231"
+}

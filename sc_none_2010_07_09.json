@@ -1,0 +1,24 @@
+{
+  "id": 8172,
+  "numero": null,
+  "fecha": "2010-07-09",
+  "anio": 2010,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Edson Alejandro Rojas Rivas contra la sentencia dictada el 6 de agosto de 2009 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. La decisión de la Corte de Apelaciones anuló de oficio la sentencia que había decretado el sobreseimiento de la causa a favor de Rojas, argumentando vicios de inmotivación en el fallo. La Sala Constitucional considera que la Corte actuó dentro de su competencia y que la falta de motivación en la decisión de sobreseimiento afectó el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "sobreseimiento",
+    "inmotivación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Edson Alejandro Rojas Rivas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2010_54.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.556819"
+}

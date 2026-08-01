@@ -1,0 +1,25 @@
+{
+  "id": 24240,
+  "numero": "0112",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Rosemary Eugenia Del Valle Salazar de Pérez, quien impugnó un acta del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito de Nueva Esparta. La acción fue declarada inadmisible por el Juzgado Superior, lo que motivó la apelación. La Sala determinó que la apelación no fue ejercida oportunamente y que existía un medio judicial idóneo para proteger los derechos de la parte actora, por lo que se confirmó la decisión del juzgado superior.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "nulidad",
+    "defensor judicial",
+    "partición hereditaria",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0112_E16-0131.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332621-0112-19224-2024-16-0131.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.561305"
+}

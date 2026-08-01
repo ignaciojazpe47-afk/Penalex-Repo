@@ -1,0 +1,22 @@
+{
+  "id": 35458,
+  "numero": "0345",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por María Francia Rodríguez Pérez, quien impugnó una decisión del Tribunal Superior Tercero que confirmó una sentencia de restitución internacional de sus hijas a favor de Iván Alberto Hernández Rodríguez. La Sala declaró sin lugar el recurso de apelación interpuesto por la demandante, confirmando la decisión del tribunal inferior que había declarado con lugar la restitución internacional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "derechos de custodia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de restitución internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0345_E22-0446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317932-0345-13722-2022-22-0446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.217620"
+}

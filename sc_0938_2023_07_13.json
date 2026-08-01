@@ -1,0 +1,26 @@
+{
+  "id": 31287,
+  "numero": "0938",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Marienny Valderrama contra las Resoluciones N° 170607-118 y N° 170607-119 del Consejo Nacional Electoral, alegando vulneración de derechos políticos. La Sala aceptó la declinatoria de competencia realizada por la Sala Plena y se declaró competente para conocer del amparo. Sin embargo, se declaró inadmisible la acción de amparo por considerar que la situación denunciada era irreparable y que existía cosa juzgada respecto a los actos impugnados.",
+  "palabras_clave": [
+    "amparo",
+    "constitucionalidad",
+    "derechos",
+    "elecciones",
+    "CNE",
+    "cosa juzgada",
+    "participación política"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta contra resoluciones del CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0938_E21-0254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326912-0938-13723-2023-21-0254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.212427"
+}

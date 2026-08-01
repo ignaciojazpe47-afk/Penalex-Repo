@@ -1,0 +1,27 @@
+{
+  "id": 22768,
+  "numero": "1718",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de noviembre de 2025, declaró sin lugar el recurso de apelación interpuesto por los abogados Nelson A. Barrios Castellanos y Annabell Moncada, en representación del ciudadano Carlos Miguel Herrera Rodríguez, contra la decisión de la Sala Tres de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La apelación se basaba en la supuesta inmotivación de la sentencia que declaró sin lugar las excepciones opuestas en la audiencia preliminar del proceso penal en curso.\nLa Sala Constitucional determinó que la decisión impugnada no incurrió en inmotivación absoluta y que la Corte de Apelaciones actuó conforme a derecho al valorar los argumentos presentados. Se concluyó que la acción de amparo no evidenció la vulneración de derechos constitucionales alegada por la parte actora, confirmando así la decisión de la Corte de Apelaciones y rectificando la figura procesal utilizada en su resolución.\nFinalmente, se reafirmó la competencia de la Sala Constitucional para conocer del recurso de apelación y se ordenó la publicación y remisión del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "incongruencia",
+    "motivación judicial",
+    "Código Orgánico Procesal Penal",
+    "excepciones",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1718_E25-0899.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349457-1718-31125-2025-25-0899.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.522634"
+}

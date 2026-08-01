@@ -1,0 +1,24 @@
+{
+  "id": 20596,
+  "numero": "0996",
+  "fecha": "2022-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000765 dictada el 12 de diciembre de 2022, que declaró sin lugar el recurso de casación interpuesto por George Elías Arnawid contra la decisión del Juzgado Tercero de Primera Instancia que había declarado con lugar la invalidación de una sentencia anterior. La Sala encontró que hubo violación al derecho a la defensa y al debido proceso, ya que el demandado no fue debidamente citado. Por lo tanto, se declaró con lugar la revisión y se anuló la sentencia impugnada, ordenando a la Sala de Casación Civil que se pronuncie nuevamente sobre el recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "due process",
+    "invalidación",
+    "sentencia",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de la sentencia N° 000765 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0996_E23-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345265-0996-27625-2025-23-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.418299"
+}

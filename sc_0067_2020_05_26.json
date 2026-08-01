@@ -1,0 +1,23 @@
+{
+  "id": 41224,
+  "numero": "0067",
+  "fecha": "2020-05-26",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la nulidad de cualquier actuación realizada por la 'Junta Administradora ad-hoc del Banco Central de Venezuela' designada por diputados que usurpan funciones. Se ratifica que la única Junta Directiva válida es la designada conforme a la ley. Además, se exhorta al Ministerio Público a investigar conductas delictivas y se ordena la difusión internacional de la sentencia.",
+  "palabras_clave": [
+    "Banco Central de Venezuela",
+    "Junta Directiva",
+    "Nulidad",
+    "Asamblea Nacional"
+  ],
+  "titulo": "Sentencia sobre la validez de la Junta Directiva del Banco Central de Venezuela",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-05-26_S0067_E17-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/309869-0067-26520-2020-17-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.126261"
+}

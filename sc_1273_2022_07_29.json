@@ -1,0 +1,25 @@
+{
+  "id": 28315,
+  "numero": "1273",
+  "fecha": "2022-07-29",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Fernando Guevara Herrera en representación de Dilia Ojeda Bruguera, debido a la falta de presentación de copia certificada del poder que acredite su representación. La decisión impugnada, dictada por la Sala de Casación Civil, otorgó fuerza ejecutoria a una sentencia extranjera de divorcio, pero la falta de legitimidad del apoderado judicial impide el avance del recurso.",
+  "palabras_clave": [
+    "representación",
+    "legitimidad",
+    "revisión constitucional",
+    "poder judicial",
+    "copia certificada",
+    "inadmisión"
+  ],
+  "titulo": "Inadmisibilidad de la solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1273_E23-0747.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340231-1273-51224-2024-23-0747.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.764834"
+}

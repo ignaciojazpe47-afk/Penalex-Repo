@@ -1,0 +1,26 @@
+{
+  "id": 39988,
+  "numero": "0541",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La ciudadana Olimpia Yurubí Álvarez interpuso una acción de amparo constitucional contra el Consejo Nacional Electoral (CNE) por la supuesta omisión de habilitar a su organización política para postular candidatos en las elecciones regionales y municipales. La Sala Constitucional del TSJ determinó su competencia para conocer del caso, pero declaró inadmisible la acción de amparo, argumentando que la parte actora no agotó los recursos ordinarios disponibles, como el recurso contencioso electoral, antes de acudir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos políticos",
+    "CNE",
+    "recurso contencioso",
+    "participación política",
+    "vías judiciales",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por OLIMPIA YURUBÍ ÁLVAREZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0541_E21-0380.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313906-0541-281021-2021-21-0380.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.116843"
+}

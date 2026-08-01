@@ -1,0 +1,25 @@
+{
+  "id": 31011,
+  "numero": "0794",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de avocamiento presentada por Ana María Colina Romano, quien solicitó el avocamiento de dos causas en el Juzgado Superior Primero Estadal Contencioso Administrativo del estado Zulia. La Sala determinó su competencia para conocer del caso, pero declaró improcedente la solicitud de avocamiento debido a que las causas ya habían sido sentenciadas con fuerza de cosa juzgada, lo que imposibilita su admisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "justicia",
+    "proceso",
+    "derechos",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento interpuesta por Ana María Colina Romano",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0794_E20-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326450-0794-26623-2023-20-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.549033"
+}

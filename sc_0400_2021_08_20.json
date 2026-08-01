@@ -1,0 +1,25 @@
+{
+  "id": 39363,
+  "numero": "0400",
+  "fecha": "2021-08-20",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "El ciudadano Gritzko Gabriel Terán Mogollón interpuso una acción de amparo constitucional contra el Fiscal General de la República, alegando violaciones a sus derechos constitucionales. La Sala Constitucional, tras analizar el caso, determinó que el escrito presentado era oscuro e ininteligible, lo que impedía identificar claramente los hechos que motivaban la solicitud de amparo. Por lo tanto, se ordenó al accionante corregir su escrito y proporcionar una descripción detallada de las omisiones denunciadas.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-20_S0400_E21-0082.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/313107-0400-20821-2021-21-0082.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.636944"
+}

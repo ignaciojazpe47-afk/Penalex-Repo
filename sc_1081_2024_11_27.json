@@ -1,0 +1,25 @@
+{
+  "id": 27968,
+  "numero": "1081",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado José Rafael Rivero Otamendi en representación de Orlando Enrique Chacín Castellanos, debido a la falta de pronunciamiento de la Sala nº. 5 de la Corte de Apelaciones. Se argumenta que la acción de amparo no es procedente ya que la situación que motivó la acción ha cesado, dado que la Corte de Apelaciones emitió un pronunciamiento el 3 de junio de 2024, declarando sin lugar el recurso de apelación interpuesto. La decisión se fundamenta en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo cuando haya cesado la violación o amenaza de algún derecho o garantía constitucional.",
+  "palabras_clave": [
+    "habeas corpus",
+    "detención",
+    "derechos humanos",
+    "apelación",
+    "justicia penal",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en relación a habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1081_E24-0111.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339604-1081-271124-2024-24-0111.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.483458"
+}

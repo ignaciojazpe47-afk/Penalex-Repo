@@ -1,0 +1,23 @@
+{
+  "id": 54220,
+  "numero": "795",
+  "fecha": "2017-10-27",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia del Juzgado Octavo Superior del Trabajo que había declarado sin lugar un recurso de apelación interpuesto por la Junta de Condominio del Centro Residencial Salas Torres B y la Administradora Danoral C.A. La revisión se fundamentó en la alegación de violación del derecho a la defensa y debido proceso, ya que la Administradora Danoral C.A. no fue debidamente representada en el procedimiento administrativo que llevó a la condena de reenganche y pago de salarios caídos a favor de la trabajadora Edilsa Esther España Barcinilla.\n\nLa Sala concluyó que la decisión del Juzgado Octavo Superior del Trabajo se apartó de la doctrina establecida respecto a los derechos a la defensa y al debido proceso, por lo que se declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando que otro Juzgado Superior del Trabajo se pronuncie sobre el recurso de apelación ejercido, conforme a la doctrina de la Sala.\n\nFinalmente, se acordó remitir copia certificada de la decisión a la Coordinación del Circuito Judicial Laboral para la distribución del expediente al tribunal correspondiente.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia laboral",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión de fallo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S795_E16-0892.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204581-795-271017-2017-16-0892.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:58.559888"
+}

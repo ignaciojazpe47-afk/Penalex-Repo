@@ -1,0 +1,25 @@
+{
+  "id": 36136,
+  "numero": "0505",
+  "fecha": "2022-08-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 8 de agosto de 2022, admitió la solicitud de revisión constitucional presentada por la abogada Marianela Peña, en representación de los ciudadanos Yeancarlos González Mosquera y Dionny Omar Mendoza Gómez. La solicitud se fundamentó en la alegación de que la sentencia dictada el 26 de mayo de 2014 por el Juzgado Superior Primero del Trabajo de la Circunscripción Judicial del Estado Lara incurrió en vicios de ilogicidad y vulneración del derecho a la defensa y a la tutela judicial efectiva, al no pronunciarse sobre la inamovilidad laboral de los trabajadores demandantes.\n\nLa Sala, tras analizar los alegatos y la sentencia impugnada, concluyó que efectivamente existió un vicio de incongruencia en el fallo del Juzgado Superior, al no considerar adecuadamente la existencia de la inamovilidad laboral y al no pronunciarse sobre aspectos fundamentales del caso. Por lo tanto, se declaró con lugar la revisión y se anuló la sentencia impugnada, ordenando a otro Juzgado Superior del Trabajo que emita un nuevo pronunciamiento sobre el recurso de apelación, tomando en cuenta los criterios expuestos en la decisión.\n\nEsta decisión reafirma la importancia de garantizar el debido proceso y la protección de los derechos laborales en el marco de la justicia social, asegurando que las decisiones judiciales sean coherentes y fundamentadas en la realidad de los hechos y derechos en juego.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derechos_laborales",
+    "tutela_judicial",
+    "nulidad",
+    "jurisdicción_contencioso_administrativa",
+    "principios_jurídicos"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-08_S0505_E17-1012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319161-0505-8822-2022-17-1012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.571941"
+}

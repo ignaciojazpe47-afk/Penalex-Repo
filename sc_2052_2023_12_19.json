@@ -1,0 +1,24 @@
+{
+  "id": 33905,
+  "numero": "2052",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por José Rafael Maldonado Victoran contra el Tribunal Octavo de Municipio Ordinario, alegando violaciones a sus derechos al debido proceso y a la defensa. La Sala, tras analizar el caso, determinó que no era competente para conocer la acción y declinó la competencia a un Juzgado de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario de la misma circunscripción judicial. La decisión fue firmada el 19 de diciembre de 2023.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "competencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2052_E22-0881.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332022-2052-191223-2023-22-0881.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.691046"
+}

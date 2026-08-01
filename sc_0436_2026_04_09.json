@@ -1,0 +1,23 @@
+{
+  "id": 17759,
+  "numero": "0436",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional presentada por el abogado Enrique Dubuc, en representación de Óscar Alex Hurtado Patiño, contra la sentencia de la Corte de Apelaciones que revocó el sobreseimiento dictado por el Juzgado Primero de Primera Instancia en Funciones de Control. La Corte de Apelaciones había declarado con lugar la apelación de la víctima, lo que llevó a la nulidad de la decisión de sobreseimiento por el delito de violencia psicológica. La Sala Constitucional determinó que la decisión de la Corte de Apelaciones vulneró el principio non bis in idem, al permitir una doble persecución penal por los mismos hechos, lo que contraviene la seguridad jurídica y el debido proceso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Violencia Psicológica",
+    "Due Process",
+    "Non Bis In Idem"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Violencia Psicológica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0436_E25-0502.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354888-0436-9426-2026-25-0502.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.028975"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 28411,
+  "numero": "1353",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Beda Armelinda Sucre Subero, representada por el abogado Rodrigo José Parra Guarapo, contra la sentencia del 2 de mayo de 2023, que declaró improponible el recurso de hecho. La Sala determinó que se vulneraron los derechos al debido proceso y a la tutela judicial efectiva, ordenando la nulidad de la decisión impugnada y la emisión de un nuevo pronunciamiento por parte del Juzgado Superior. La decisión se fundamenta en la falta de representación adecuada del abogado en el proceso original.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Beda Armelinda Sucre Subero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1353_E23-1089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340367-1353-101224-2024-23-1089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.223720"
+}

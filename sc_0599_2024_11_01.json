@@ -1,0 +1,23 @@
+{
+  "id": 27176,
+  "numero": "0599",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, declaró inadmisible la acción de amparo constitucional interpuesta por Anthony Daniel Suárez Palacios contra la decisión del Tribunal Superior Tercero que había declarado inadmisible su solicitud de amparo. La Sala fundamentó su decisión en que el recurrente había optado por interponer la acción de amparo sin esperar la resolución de la audiencia de oposición a la medida de custodia, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa sentencia del 29 de octubre de 2019, que fue objeto de apelación, había declarado inadmisible la acción de amparo por considerar que el agraviado debía haber esperado la decisión del tribunal de instancia antes de recurrir a la acción de amparo. La Sala Constitucional reafirmó que el recurso de apelación presentado por Suárez Palacios fue extemporáneo, ya que se interpuso fuera del lapso legal establecido.\n\nFinalmente, la Sala confirmó la decisión del Tribunal Superior Tercero, manteniendo la inadmisibilidad de la acción de amparo y subrayando la importancia de seguir los procedimientos establecidos para la protección de los derechos de los menores involucrados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "niños",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-04_S0599_E19-0687.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338562-0599-41124-2024-19-0687.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.304521"
+}

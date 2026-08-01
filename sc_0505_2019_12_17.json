@@ -1,0 +1,26 @@
+{
+  "id": 44972,
+  "numero": "0505",
+  "fecha": "2019-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, acepta la declinatoria de competencia de la Sala Electoral y se declara competente para conocer la acción de amparo constitucional interpuesta por María de los Ángeles Rivas Viamonte. La acción se refiere a la corrección de los procesos electorales del Consejo Nacional Electoral (CNE) y la inconstitucionalidad del proceso electoral de la Asamblea Nacional Constituyente. Sin embargo, la Sala declara inadmisible la acción de amparo, argumentando que existe cosa juzgada sobre la constitucionalidad de la convocatoria a la Asamblea Nacional Constituyente y que la acción de amparo no es el medio adecuado para impugnar la elección presidencial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Consejo Nacional Electoral",
+    "cosa juzgada",
+    "Asamblea Nacional Constituyente",
+    "inconstitucionalidad",
+    "decreto presidencial",
+    "elecciones"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta contra el CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-17_S0505_E17-0738.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309230-0505-171219-2019-17-0738.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.808854"
+}

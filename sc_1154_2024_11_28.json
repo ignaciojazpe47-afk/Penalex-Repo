@@ -1,0 +1,22 @@
+{
+  "id": 28064,
+  "numero": "1154",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión presentada por Fabio Aru, asistido por su abogado. La solicitud se refiere a la sentencia N° 461 dictada por la Sala de Casación Penal, que declaró la nulidad absoluta de un acto de audiencia preliminar y decretó el sobreseimiento de la causa. La Sala Constitucional determina que las denuncias del solicitante no encuadran en los supuestos de procedencia para la revisión, ya que no se evidencian violaciones a derechos constitucionales ni errores en la aplicación de la ley.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad absoluta",
+    "sobreseimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1154_E24-0138.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339750-1154-281124-2024-24-0138.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.474125"
+}

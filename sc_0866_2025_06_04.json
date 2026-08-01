@@ -1,0 +1,26 @@
+{
+  "id": 20180,
+  "numero": "0866",
+  "fecha": "2025-06-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria y ampliación del fallo N° 1.060 del 27 de noviembre de 2024, presentada por los abogados del Instituto Nacional de los Espacios Acuáticos (INEA). La decisión se basa en la falta de presentación del poder notarial correspondiente, lo que impide validar la representación de los solicitantes. A pesar de la inadmisibilidad, la Sala aclara de oficio el fallo anterior, enfatizando la necesidad de adecuar la legislación venezolana a las normas internacionales sobre formación y titulación de capitanes de buques.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "representación",
+    "poder",
+    "capitanes",
+    "convenio",
+    "titulación",
+    "marinas"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria y ampliación del fallo N° 1.060",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-04_S0866_E21-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344491-0866-4625-2025-21-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.303764"
+}

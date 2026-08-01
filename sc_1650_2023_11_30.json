@@ -1,0 +1,26 @@
+{
+  "id": 33141,
+  "numero": "1650",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por los abogados de INVERSIONES O.J.B. S.A. contra la decisión del Juzgado Superior Décimo. La solicitud se basa en la falta de legitimación de los apoderados judiciales, quienes no acreditaron su representación de manera válida. La Sala argumenta que la revisión de sentencias es un acto excepcional y que la falta de un poder suficiente para actuar en nombre del solicitante lleva a la inadmisibilidad de la solicitud.",
+  "palabras_clave": [
+    "legitimación",
+    "poder",
+    "revisión",
+    "inadmisibilidad",
+    "justicia",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1650_E22-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330817-1650-301123-2023-22-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.984185"
+}

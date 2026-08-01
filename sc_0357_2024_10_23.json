@@ -1,0 +1,24 @@
+{
+  "id": 26756,
+  "numero": "0357",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Paola Lucarini Bortolani, relacionada con un auto del Juzgado Superior Cuarto en lo Civil, Mercantil, Tránsito y Bancario del Estado Táchira. La Sala determinó su competencia para conocer la solicitud, pero declaró inadmisible la misma, argumentando que el auto cuestionado no constituía una sentencia definitiva con carácter de cosa juzgada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "medida cautelar",
+    "divorcio",
+    "interlocutoria",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0357_E21-0310.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338038-0357-231024-2024-21-0310.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.328825"
+}

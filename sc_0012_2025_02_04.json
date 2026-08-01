@@ -1,0 +1,25 @@
+{
+  "id": 18158,
+  "numero": "0012",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la revisión constitucional solicitada, pero inadmite la solicitud presentada por los abogados de los ciudadanos Abreu Ruiz y otros, debido a la falta de documentos necesarios para su admisibilidad. Se señala que no se acompañó la copia certificada de la sentencia objeto de revisión ni el poder que acredite la facultad de desistir de la solicitud. La decisión se fundamenta en la normativa aplicable y en la necesidad de garantizar la seguridad jurídica en los procedimientos judiciales.",
+  "palabras_clave": [
+    "desistimiento",
+    "revisión constitucional",
+    "poder",
+    "legitimidad",
+    "documentación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0012_E21-0170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341158-0012-4225-2025-21-0170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.571046"
+}

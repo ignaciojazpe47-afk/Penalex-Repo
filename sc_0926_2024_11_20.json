@@ -1,0 +1,23 @@
+{
+  "id": 27720,
+  "numero": "0926",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional interpuesta contra la decisión N° 97 dictada, el 21 de marzo de 2023, por la Sala de Casación Civil del Tribunal Supremo de Justicia, la cual se declara nula.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Marcos Tulio Albarrán Briceño, en su carácter de Presidente del Instituto Oficial de Beneficencia Pública y Asistencia Social del Estado Táchira, contra la decisión N° 97 de la Sala de Casación Civil. La Sala encontró que las instancias inferiores incurrieron en incongruencias al no pronunciarse sobre alegatos fundamentales relacionados con la falta de autorización para la enajenación del inmueble, lo que afectó el derecho a la defensa del demandado. Como resultado, se declaró nula la decisión de la Sala de Casación Civil y se ordenó que el caso sea decidido nuevamente corrigiendo las omisiones detectadas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "preferencia ofertiva",
+    "derecho a la defensa",
+    "incongruencia negativa"
+  ],
+  "titulo": "Revisión Constitucional sobre decisiones de instancias inferiores en caso de preferencia ofertiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0926_E23-1164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339203-0926-201124-2024-23-1164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.191537"
+}

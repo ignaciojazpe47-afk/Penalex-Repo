@@ -1,0 +1,22 @@
+{
+  "id": 20017,
+  "numero": "0817",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional recibió un escrito de amparo constitucional presentado por José Francisco Blanco González contra una decisión del Juzgado Superior Décimo que declaró sin lugar un recurso de apelación. La acción se fundamenta en la violación de derechos constitucionales, alegando que la decisión afectó su derecho a la propiedad y al debido proceso. La Sala, tras analizar los argumentos, decidió ordenar la remisión del expediente para su revisión, destacando la importancia de garantizar el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la propiedad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0817_E25-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344295-0817-28525-2025-25-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.855179"
+}

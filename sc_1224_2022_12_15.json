@@ -1,0 +1,25 @@
+{
+  "id": 38101,
+  "numero": "1224",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por los Fiscales Provisorio y Auxiliar 7º del Ministerio Público. Sin embargo, se determina que ha habido inactividad procesal por parte de los demandantes desde mayo de 2017, lo que se considera como abandono del trámite. Por lo tanto, se declara terminado el procedimiento por falta de interés en continuar con la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "inactividad",
+    "abandonos de trámite",
+    "tutela constitucional",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1224_E17-0456.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322116-1224-151222-2022-17-0456.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.137317"
+}

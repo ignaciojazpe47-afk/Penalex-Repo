@@ -1,0 +1,27 @@
+{
+  "id": 31524,
+  "numero": "0956",
+  "fecha": "2023-07-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del carácter orgánico de la Ley Orgánica de Coordinación y Armonización de las Potestades Tributarias de los Estados y Municipios, sancionada por la Asamblea Nacional el 18 de julio de 2023. La decisión se basa en el análisis de los principios y objetivos de la ley, que busca garantizar la coordinación y armonización de las potestades tributarias, promoviendo el desarrollo armónico de la economía nacional y la justicia tributaria.\n\nLa Sala destacó que la ley se adecúa a los principios establecidos en la Constitución de la República Bolivariana de Venezuela, en particular en relación con la igualdad, libertad y propiedad. Se enfatizó que la ley tiene un carácter orgánico, lo que implica su relevancia dentro del sistema jurídico y su impacto en la regulación de las potestades tributarias de los estados y municipios.\n\nFinalmente, la Sala declaró la constitucionalidad del carácter orgánico de la ley, resaltando su importancia para el desarrollo de derechos constitucionales y la promoción del bienestar del pueblo.",
+  "palabras_clave": [
+    "ley organica",
+    "potestades tributarias",
+    "armonizacion",
+    "impuestos",
+    "estados",
+    "municipios",
+    "constitucion",
+    "fiscalizacion"
+  ],
+  "titulo": "Declaración de constitucionalidad del carácter orgánico de la Ley Orgánica de Coordinación y Armonización de las Potestades Tributarias de los Estados y Municipios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-20_S0956_E23-0753.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327364-0956-20723-2023-23-0753.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.202021"
+}

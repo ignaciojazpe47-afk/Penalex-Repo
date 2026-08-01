@@ -1,0 +1,27 @@
+{
+  "id": 19686,
+  "numero": "0658",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente el amparo constitucional interpuesto por la abogada Patricia de la Trinidad Ballesteros Omaña, en representación de la sociedad IDEA GLOBAL, C.A., contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de Táchira. La decisión impugnada había declarado improcedente la recusación de la juez Fanny Trinidad Ramírez Sánchez, fundamentada en la supuesta falta de imparcialidad al designar a la parte actora como administradora ad hoc de la empresa en cuestión.\n\nLa Sala argumenta que la recusación no se basa en violaciones constitucionales, sino en disensiones con respecto a decisiones judiciales, lo que no justifica la procedencia del amparo. Se enfatiza que el juez no puede ser cuestionado por la interpretación del derecho o la valoración de pruebas, salvo que se demuestre una violación directa a derechos constitucionales.\n\nFinalmente, se resalta que el amparo no puede ser utilizado como un medio para reabrir asuntos ya resueltos judicialmente, garantizando así la inmutabilidad de las decisiones firmes.",
+  "palabras_clave": [
+    "herencia",
+    "error judicial",
+    "pruebas",
+    "imparcialidad",
+    "legitimidad",
+    "derechos",
+    "procedimiento",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto contra decisión de recusación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0658_E24-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343605-0658-8525-2025-24-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.733262"
+}

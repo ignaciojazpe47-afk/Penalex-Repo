@@ -1,0 +1,22 @@
+{
+  "id": 23439,
+  "numero": "1954",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declaró sin lugar el recurso de apelación interpuesto por la abogada Adriana Eugenia González Dávila, en representación del ciudadano Guillermo José González Dávila, contra la decisión del Juzgado Superior que había admitido la acción de amparo constitucional presentada por Idali Yelitza Campo Bedoya. La Sala consideró que la caducidad alegada por el apelante no era aplicable, ya que la demandada no tuvo conocimiento directo de la sentencia que motivó el amparo, lo que impidió el inicio del lapso de caducidad. Además, se destacó la deficiencia en la defensa ad-litem de la demandada, lo que vulneró su derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1954_E24-1000.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350840-1954-281125-2025-24-1000.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.791263"
+}

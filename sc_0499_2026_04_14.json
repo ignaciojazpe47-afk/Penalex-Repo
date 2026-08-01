@@ -1,0 +1,26 @@
+{
+  "id": 17503,
+  "numero": "0499",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana María Emely Delgado Acevedo interpuso una acción de amparo constitucional en modalidad habeas corpus en favor de su hijo Jorgen Yoneyker Guanares Delgado, quien fue privado de libertad sin orden judicial. La Sala Constitucional del TSJ, tras analizar el caso, determinó que no era competente para conocer de la solicitud y declinó la competencia al Juzgado de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Táchira. La decisión se fundamenta en la protección del derecho a la libertad personal y la necesidad de que el tribunal adecuado se pronuncie sobre la acción de amparo solicitada.",
+  "palabras_clave": [
+    "habeas corpus",
+    "derechos humanos",
+    "justicia",
+    "competencia",
+    "seguridad jurídica",
+    "tribunales",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0499_E26-0219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354950-0499-14426-2026-26-0219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.014294"
+}

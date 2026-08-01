@@ -1,0 +1,26 @@
+{
+  "id": 31687,
+  "numero": "1033",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Eusebio Igor Vizcaya Paz, quien alegó desacato por parte del Ministerio del Poder Popular para la Educación Universitaria y la Universidad Nacional Experimental Sur del Lago a sentencias previas. La decisión se basa en la necesidad de salvaguardar la tutela judicial efectiva y se ordena al Ministerio que remita información sobre la situación administrativa del accionante en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "derechos laborales",
+    "denegación de justicia",
+    "abuso de poder",
+    "constitución",
+    "educación universitaria"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1033_E22-0582.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327591-1033-1823-2023-22-0582.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.894162"
+}

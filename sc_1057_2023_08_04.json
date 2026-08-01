@@ -1,0 +1,24 @@
+{
+  "id": 31814,
+  "numero": "1057",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de protección de intereses difusos y colectivos interpuesta por el Fiscal General de la República, Tarek William Saab, contra el Comité Directivo Nacional de la Cruz Roja Venezolana, presidido por Mario Villarroel Lander. La demanda se fundamenta en denuncias de abusos de poder y maltrato hacia voluntarios y trabajadores de la organización, así como irregularidades en el uso de recursos destinados a la labor humanitaria.\nLa Sala decidió ordenar la reestructuración de la Cruz Roja Venezolana, estableciendo una Junta Reestructuradora Ad Hoc para garantizar el funcionamiento de la institución y la protección de los derechos de sus trabajadores. Se ordenó el cese inmediato del Presidente y los miembros del Comité Directivo Nacional, así como la colaboración con el Ministerio Público en la investigación penal en curso.\nLa decisión busca asegurar que la Cruz Roja Venezolana continúe su labor humanitaria en beneficio de los sectores más vulnerables de la sociedad, promoviendo un proceso participativo y democrático en la elección de nuevas autoridades.",
+  "palabras_clave": [
+    "Cruz Roja Venezolana",
+    "intereses difusos",
+    "abuso de poder",
+    "restructuración",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de intereses difusos y colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1057_E23-0802.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327890-1057-4823-2023-23-0802.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.888988"
+}

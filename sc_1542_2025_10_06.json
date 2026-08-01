@@ -1,0 +1,23 @@
+{
+  "id": 22109,
+  "numero": "1542",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el ciudadano Henrique Antonio Pocaterra Mejías, en relación a una sentencia del Juzgado Segundo Superior del Trabajo que declaró parcialmente con lugar las apelaciones interpuestas por las partes. El solicitante alegó vulneraciones a sus derechos laborales y solicitó indemnización por despido indirecto. Sin embargo, la Sala determinó que el solicitante era un trabajador de dirección y no estaba amparado por la estabilidad laboral, confirmando así la decisión del tribunal inferior y declarando que no había lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos laborales",
+    "indemnización",
+    "trabajador de dirección"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1542_E24-1241.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348288-1542-61025-2025-24-1241.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.191248"
+}

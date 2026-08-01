@@ -1,0 +1,25 @@
+{
+  "id": 20308,
+  "numero": "0893",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Yender Eduardo Campo Durán, a través de su abogado Romer Vásquez, contra la decisión de la Corte Segunda de Apelaciones que declaró inadmisible un recurso de apelación. La Sala argumenta que la falta de presentación de la copia certificada de la decisión impugnada es un requisito indispensable para la admisibilidad de la acción de amparo, lo que conlleva a la preclusión del lapso para su consignación.\n\nLa decisión se fundamenta en la jurisprudencia que establece que es responsabilidad del accionante presentar los documentos necesarios para que el juez constitucional pueda evaluar la admisibilidad de la acción. En este caso, el abogado no acreditó su representación ni presentó la documentación requerida, lo que llevó a la Sala a confirmar la inadmisibilidad del recurso.\n\nFinalmente, se resalta que la acción de amparo fue declarada inadmisible por estar incurso en las causales previstas en la Ley Orgánica del Tribunal Supremo de Justicia, y se ordena el archivo del expediente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmision",
+    "derechos humanos",
+    "debido proceso",
+    "Código Penal",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0893_E24-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344688-0893-11625-2025-24-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.296476"
+}

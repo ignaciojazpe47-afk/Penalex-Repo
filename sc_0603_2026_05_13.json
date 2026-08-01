@@ -1,0 +1,24 @@
+{
+  "id": 16003,
+  "numero": "0603",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 234 de la Sala de Casación Civil, que había declarado con lugar la demanda por cumplimiento de contrato de opción de compra venta. La Sala Constitucional encontró que la Sala de Casación Civil había impuesto erróneamente una carga probatoria a la parte actora, al no considerar que el crédito hipotecario fue solicitado y aprobado en tiempo hábil, y que la demora en su otorgamiento era imputable al banco. Además, se determinó que la parte demandante no cumplió con su obligación de pagar el precio total del contrato, lo que justificaba la excepción de contrato no cumplido opuesta por la parte demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "opción de compra venta",
+    "carga probatoria",
+    "excepción de contrato no cumplido"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cumplimiento de contrato de opción de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0603_E25-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355596-0603-13526-2026-25-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.906375"
+}

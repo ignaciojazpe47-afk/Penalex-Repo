@@ -1,0 +1,25 @@
+{
+  "id": 16350,
+  "numero": "0389",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rosservia de la Trinidad Matos Sivira contra decisiones de dos juzgados. La acción fue considerada inepta por acumular pretensiones dirigidas a diferentes órganos jurisdiccionales, lo que contraviene la normativa procesal. La Sala establece que la acumulación de acciones debe ser independiente y separada según los sujetos agraviantes, lo que lleva a la inadmisibilidad de la demanda.",
+  "palabras_clave": [
+    "periculum in mora",
+    "medidas cautelares",
+    "jurisprudencia",
+    "doctrina",
+    "inmueble",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0389_E24-1069.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354405-0389-25326-2026-24-1069.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.566254"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33783,
+  "numero": "1931",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por Rafael Santiago Díaz Ceballos, quien actuó en su propio nombre y representación como víctima. El recurso fue presentado el 18 de septiembre de 2023, contra la sentencia dictada el 8 de septiembre de 2023, que declaró sin lugar la acción de amparo interpuesta, al considerar que no existía falta de pronunciamiento por parte del juez. La Sala concluye que el recurso es extemporáneo, ya que el lapso para su interposición había vencido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión judicial",
+    "derecho a la vivienda",
+    "debido proceso",
+    "tutela judicial",
+    "juzgador",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1931_E23-1128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331900-1931-131223-2023-23-1128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.446988"
+}

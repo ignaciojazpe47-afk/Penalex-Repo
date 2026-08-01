@@ -1,0 +1,25 @@
+{
+  "id": 38235,
+  "numero": "0014",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 19-0095, declaró sin lugar la revisión solicitada por la abogada Lilina Núñez Coa, actuando en nombre de Magaly Josefina Batista, contra la sentencia N° 2017-0921 de la Corte Primera de lo Contencioso Administrativo. Esta última había declarado la competencia para conocer del recurso de apelación interpuesto por el Instituto de Salud Pública del Estado Bolívar, revocando la decisión del Juzgado Superior que había declarado con lugar la querella funcionarial de Batista.\nLa Corte Constitucional argumentó que la revisión no constituye una tercera instancia y que las denuncias de violaciones a derechos constitucionales no se configuraron, ya que la Corte Primera actuó dentro de sus competencias y no se extralimitó en sus funciones. Se enfatizó que la revisión es un mecanismo excepcional y no un medio ordinario de impugnación.\nFinalmente, se desestimó la solicitud de revisión, reafirmando que no se demostró ninguna situación que justificara la intervención de la Sala Constitucional en este caso.",
+  "palabras_clave": [
+    "contencioso administrativo",
+    "apelación",
+    "desistimiento",
+    "función pública",
+    "jurisdicción",
+    "reincorporación"
+  ],
+  "titulo": "Revisión de sentencia sobre destitución de funcionaria pública",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0014_E19-0095.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311408-0014-4321-2021-19-0095.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.764896"
+}

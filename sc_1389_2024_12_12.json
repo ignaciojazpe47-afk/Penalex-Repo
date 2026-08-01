@@ -1,0 +1,23 @@
+{
+  "id": 28484,
+  "numero": "1389",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de revisión constitucional presentada por los abogados de Víctor Leopoldo Fun Hung, ha declarado con lugar la revisión de la sentencia n.° 785 dictada el 1 de diciembre de 2023 por la Sala de Casación Civil. Esta sentencia había declarado inadmisible la demanda de desalojo de un inmueble comercial, argumentando una supuesta inepta acumulación de pretensiones. La Sala Constitucional determinó que la aplicación de criterios jurisprudenciales posteriores a la interposición de la demanda vulneró el derecho a la tutela judicial efectiva y la expectativa legítima del demandante, por lo que se anula la sentencia impugnada y se ordena que se pronuncie nuevamente sobre el recurso de casación, asegurando el respeto a los principios y garantías constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "inmueble comercial",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo de inmueble comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1389_E24-0181.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340506-1389-121224-2024-24-0181.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.823748"
+}

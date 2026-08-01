@@ -1,0 +1,23 @@
+{
+  "id": 28261,
+  "numero": "1222",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por Mauro Junior Bragazza Canevese y otros, en contra de una sentencia que otorgó la propiedad de un inmueble a Javier Rafael Millán Guerrero. La Sala concluyó que hubo violaciones a los derechos constitucionales de los accionantes, específicamente al debido proceso y al derecho de defensa, debido a la falta de notificación en el juicio original. Por lo tanto, se declaró procedente el amparo y se ordenó la reposición de la causa al estado de que se notifique a las partes para que ejerzan sus recursos.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la defensa",
+    "Debido proceso",
+    "Propiedad"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1222_E23-1238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340160-1222-41224-2024-23-1238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.035730"
+}

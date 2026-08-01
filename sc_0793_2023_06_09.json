@@ -1,0 +1,23 @@
+{
+  "id": 19993,
+  "numero": "0793",
+  "fecha": "2023-06-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Tribunal Cuarto de Primera Instancia de Juicio del Trabajo de Anzoátegui, relacionado con un amparo constitucional solicitado por varios ciudadanos contra Cervecería Polar, C.A. La sentencia del 30 de enero de 2020 había declarado procedente el amparo, ordenando la ejecución de un acto administrativo de reenganche y restitución de derechos. Sin embargo, el Tribunal a quo declaró el desacato al mandamiento de amparo por parte del gerente de planta de la empresa, lo que motivó la consulta a la Sala Constitucional.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "trabajo",
+    "Cervecería Polar"
+  ],
+  "titulo": "Sentencia sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0793_E23-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344271-0793-28525-2025-23-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.400970"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34591,
+  "numero": "0054",
+  "fecha": "2022-03-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados Junior Paradas, Ibrahin Pérez y José Ramón Flores en representación de Carlos Smirt Pérez Gil, contra la omisión de formalidades esenciales y un acto jurisdiccional del Tribunal Quinto en Funciones de Control del Estado Anzoátegui. Tras el análisis, la Sala determinó su incompetencia para conocer el caso, declinando la competencia a la Corte de Apelaciones del Circuito Judicial Penal del mismo estado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "libertad",
+    "tutela judicial",
+    "competencia",
+    "jurisdicción",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-07_S0054_E18-0839.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315890-0054-7322-2022-18-0839.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.705919"
+}

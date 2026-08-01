@@ -1,0 +1,25 @@
+{
+  "id": 45000,
+  "numero": "0003",
+  "fecha": "2018-01-01",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró sin lugar el recurso de apelación interpuesto por los abogados representantes de las víctimas, en contra de la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala fundamentó su decisión en la falta de presentación de los documentos necesarios que sustentaran la acción de amparo, lo que llevó a la inadmisibilidad del recurso. Se confirma la decisión de la Corte de Apelaciones, reiterando la importancia de cumplir con los requisitos procesales establecidos para la admisión de acciones de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0003_E16-1202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206856-0003-17118-2018-16-1202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.274657"
+}

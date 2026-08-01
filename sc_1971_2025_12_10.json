@@ -1,0 +1,23 @@
+{
+  "id": 23676,
+  "numero": "1971",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Luis Alberto Henríquez Contreras contra la sentencia de la Sala n.° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que confirmó el sobreseimiento de la causa por prescripción de la acción penal. La Sala argumenta que el solicitante carece de legitimidad activa, ya que el sistema de contabilidad en cuestión pertenece a una sociedad mercantil disuelta, y no a él como persona natural. Se enfatiza que la revisión constitucional no es un medio ordinario, sino una potestad extraordinaria para unificar criterios constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción",
+    "legitimidad activa",
+    "acción penal"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1971_E24-1194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351673-1971-101225-2025-24-1194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.746103"
+}

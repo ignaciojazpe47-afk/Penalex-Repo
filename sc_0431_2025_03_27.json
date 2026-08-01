@@ -1,0 +1,22 @@
+{
+  "id": 19131,
+  "numero": "0431",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por los apoderados de la Sucesión de Antonio Goncalves Da Silva. La Sala determinó su competencia para conocer de la solicitud, dado que se trataba de una sentencia firmada por un juzgado inferior. Se ordenó la remisión del expediente correspondiente para una mejor evaluación del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia firme",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0431_E22-0093.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342715-0431-27325-2025-22-0093.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.612764"
+}

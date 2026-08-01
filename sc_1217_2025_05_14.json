@@ -1,0 +1,27 @@
+{
+  "id": 21203,
+  "numero": "1217",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Ingrid Norelia Calvo Rodríguez contra la decisión del Tribunal Segundo de Primera Instancia que declaró inadmisible su acción de amparo. En la sentencia N° 0687, la Sala declaró su competencia y ordenó al tribunal remitente la presentación de informes sobre el estado de los expedientes relacionados con la custodia de la niña involucrada. La Sala también solicitó un informe sobre la salud y condiciones de vida de la niña, enfatizando la importancia del interés superior del menor en la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "derechos",
+    "justicia",
+    "protección",
+    "constitucional",
+    "juez",
+    "informe"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1217_E25-0091.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346514-1217-28725-2025-25-0091.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.722865"
+}

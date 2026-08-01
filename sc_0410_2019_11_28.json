@@ -1,0 +1,23 @@
+{
+  "id": 44603,
+  "numero": "0410",
+  "fecha": "2019-11-28",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por C.V.G. INDUSTRIA VENEZOLANA DE ALUMINIO, C.A. (CVG VENALUM) en relación a un caso de cumplimiento de contrato contra MULTINACIONAL DE SEGUROS, C.A. La decisión se fundamenta en la necesidad de proteger los intereses del Estado y del colectivo asegurado, considerando la posible afectación por el incumplimiento de la aseguradora. Se ordena la remisión del expediente y se mantienen medidas cautelares sobre los bienes de la demandada.",
+  "palabras_clave": [
+    "avocamiento",
+    "C.V.G. VENALUM",
+    "MULTINACIONAL DE SEGUROS",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento de C.V.G. VENALUM",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-28_S0410_E19-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308336-0410-281119-2019-19-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.366095"
+}

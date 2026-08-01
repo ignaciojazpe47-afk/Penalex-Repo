@@ -1,0 +1,27 @@
+{
+  "id": 23241,
+  "numero": "1895",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Ana Virginia Guerra Rendón, en representación de Andreína del Valle García, contra una sentencia de la Corte de Apelaciones que declaró inadmisible una acción de amparo constitucional. La apelación fue considerada extemporánea, ya que se interpuso fuera del plazo legal establecido de tres días después de la notificación de la decisión impugnada. La Sala reafirmó la necesidad de agotar las vías ordinarias antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "recurso",
+    "revocación",
+    "amparo",
+    "inadmision",
+    "procedimiento",
+    "derechos",
+    "garantías",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1895_E25-1139-25-1149.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350491-1895-261125-2025-25-1139-25-1149.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.047175"
+}

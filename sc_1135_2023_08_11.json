@@ -1,0 +1,27 @@
+{
+  "id": 34027,
+  "numero": "1135",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Yzqueya Josefina Oses Rodríguez interpuso una acción de amparo constitucional contra la Institución FUNDAYACUCHO, solicitando el recalculo del pago de su liquidación. La Sala Constitucional, tras revisar el expediente, determinó que la acción fue presentada vía correo electrónico el 29 de agosto de 2022, pero no fue ratificada dentro del plazo de tres días establecido por la ley, lo que llevó a declarar la solicitud inadmisible. La decisión se fundamenta en la falta de cumplimiento de los requisitos formales para la interposición de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "correo electrónico",
+    "ratificación",
+    "urgencia",
+    "justicia",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Yzqueya Josefina Oses Rodríguez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1135_E22-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328291-1135-11823-2023-22-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.330225"
+}

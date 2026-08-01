@@ -1,0 +1,26 @@
+{
+  "id": 21408,
+  "numero": "1268",
+  "fecha": "2024-01-24",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La abogada Maribel del Valle Hernández Mariño solicitó la revisión de una sentencia firme dictada por la Sala de Casación Civil. La Sala Constitucional, al revisar el caso, se declaró competente para conocer la solicitud, argumentando que se alegaba la vulneración de derechos constitucionales, especialmente el derecho a la salud. La decisión de la Sala fue declarar parcialmente con lugar la demanda contra los co-demandados, condenándolos a pagar una suma en bolívares.",
+  "palabras_clave": [
+    "revisión",
+    "derechos",
+    "constitucional",
+    "salud",
+    "indemnización",
+    "jurisdicción",
+    "responsabilidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia firme",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1268_E24-0070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346923-1268-6825-2025-24-0070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.836523"
+}

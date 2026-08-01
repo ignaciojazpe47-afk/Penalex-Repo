@@ -1,0 +1,27 @@
+{
+  "id": 37439,
+  "numero": "0995",
+  "fecha": "2022-11-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de noviembre de 2022, declaró con lugar el recurso de apelación interpuesto por el abogado Alexander Enrique Blanco Reyes, en representación del ciudadano Carlos Enrique Martínez Mundaraín, contra la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que el abogado tenía la legitimidad para actuar en el proceso, dado que había demostrado su condición de defensor del imputado en el expediente correspondiente.\n\nLa decisión de la Corte de Apelaciones fue revocada, y se ordenó que se pronuncie sobre el amparo constitucional ejercido, dado que se había denunciado la falta de pronunciamiento respecto al acto conclusivo interpuesto por el Ministerio Público, que solicitaba el sobreseimiento de la causa. La Sala Constitucional también advirtió que la acción de amparo no debía ser inadmisible, ya que la lesión de los derechos constitucionales invocados aún estaba vigente.\n\nFinalmente, la Sala declaró inadmisible la acción de amparo, conforme a lo señalado en el artículo 6.1 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, debido a que la privación de libertad del ciudadano había cesado, lo que hacía que la acción no tuviera objeto.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "proceso penal",
+    "legitimidad",
+    "poder",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-16_S0995_E21-0475.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320844-0995-161122-2022-21-0475.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.350570"
+}

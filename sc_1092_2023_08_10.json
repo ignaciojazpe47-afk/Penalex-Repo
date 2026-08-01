@@ -1,0 +1,26 @@
+{
+  "id": 33966,
+  "numero": "1092",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión de la sentencia N° 0231, dictada por la Sala de Casación Social, que declaró con lugar un recurso de casación. El solicitante, JOSÉ DE JESÚS LOMELLY, alegó violaciones a su derecho a la defensa y al debido proceso en la decisión anterior. La Sala se declaró competente para conocer la solicitud de revisión y ordenó la obtención de información adicional para emitir su fallo.",
+  "palabras_clave": [
+    "revisión",
+    "casación",
+    "constitucional",
+    "trabajo",
+    "jurisdicción",
+    "derechos",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1092_E21-0741.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328229-1092-10823-2023-21-0741.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.879328"
+}

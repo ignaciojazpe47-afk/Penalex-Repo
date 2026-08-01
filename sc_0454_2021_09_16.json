@@ -1,0 +1,23 @@
+{
+  "id": 39584,
+  "numero": "0454",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión planteada y ANULA la decisión dictada el 16 de diciembre de 2020.",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Carlos Alberto Medori Díaz, en representación de Comercializadora M.C.R., C.A., contra la sentencia del Juzgado Superior Primero que declaró con lugar una demanda de desalojo. La Sala determinó que la sentencia impugnada vulneró derechos fundamentales como el derecho a la defensa y el debido proceso, al invertir la carga de la prueba y basarse en pruebas que no demostraron las reformas no autorizadas al inmueble. En consecuencia, se anuló la decisión del 16 de diciembre de 2020 y se ordenó el reenvío del caso a un tribunal superior distinto para su nueva consideración.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0454_E21-0099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313421-0454-16921-2021-21-0099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.621069"
+}

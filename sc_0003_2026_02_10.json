@@ -1,0 +1,22 @@
+{
+  "id": 17385,
+  "numero": "0003",
+  "fecha": "2026-02-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto N° 5.242, que prorroga el Estado de Emergencia Económica en Venezuela. La decisión se basa en la necesidad de atender la grave situación económica del país, justificada por la Presidenta Encargada de la República, Delcy Eloína Rodríguez Gómez. La Sala concluyó que el decreto cumple con los requisitos constitucionales y es necesario para garantizar los derechos de la población ante circunstancias extraordinarias.",
+  "palabras_clave": [
+    "Estado de Emergencia",
+    "Constitucionalidad",
+    "Decreto N° 5.242"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 5.242 de prórroga del Estado de Emergencia Económica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-10_S0003_E25-1424.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352497-0003-10226-2026-25-1424.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.072938"
+}

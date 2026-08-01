@@ -1,0 +1,23 @@
+{
+  "id": 68709,
+  "numero": "02",
+  "fecha": "2013-10-17",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional revisó la sentencia Nº 873 de la Sala Político Administrativa, que declaró la falta de jurisdicción del Poder Judicial para conocer una demanda por prestaciones sociales presentada por Fernando Emilio García Noriega contra el Banco Federal C.A. La revisión se fundamentó en la interpretación de normas relacionadas con la intervención y liquidación de entidades financieras. La Sala concluyó que la falta de jurisdicción fue correctamente declarada, ya que la demanda se refería a hechos anteriores a la intervención del banco, y que el procedimiento debía seguir ante el ente liquidador, FOGADE.",
+  "palabras_clave": [
+    "jurisdicción",
+    "prestaciones sociales",
+    "Banco Federal",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre falta de jurisdicción en demanda laboral contra Banco Federal C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-01-30_S02_E12-0953.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/160749-02-30114-2014-12-0953.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:17.074249"
+}

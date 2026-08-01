@@ -1,0 +1,25 @@
+{
+  "id": 36758,
+  "numero": "0769",
+  "fecha": "2022-10-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Freddy Omar Guerrero Chacón, en representación de varios ciudadanos, contra una sentencia de la Corte Primera de lo Contencioso Administrativo. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la sentencia objeto de revisión, lo cual es un requisito indispensable según la Ley Orgánica del Tribunal Supremo de Justicia. La decisión se basa en el artículo 133 de dicha ley, que establece las causales de inadmisibilidad para las demandas.",
+  "palabras_clave": [
+    "apelación",
+    "prestaciones sociales",
+    "justicia",
+    "nulidad",
+    "administración",
+    "equidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-17_S0769_E18-0236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320023-0769-171022-2022-18-0236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.107640"
+}

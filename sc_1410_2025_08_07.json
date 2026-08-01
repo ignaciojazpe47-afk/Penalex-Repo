@@ -1,0 +1,22 @@
+{
+  "id": 21663,
+  "numero": "1410",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la defensora de la ciudadana Yesenia Soledad Mejías, quien alegaba la vulneración de su derecho a la salud tras la negativa del Tribunal Cuarto de Control a revisar una medida cautelar. La Sala confirmó la decisión de la Corte de Apelaciones que había declarado sin lugar la acción de amparo, argumentando que el tribunal de origen había garantizado el debido proceso y la tutela judicial efectiva al otorgar traslados médicos a la imputada. Finalmente, se desestimó el recurso de apelación y se confirmó el fallo apelado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la salud",
+    "homicidio intencional"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional sobrevenido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1410_E24-0903.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347273-1410-7825-2025-24-0903.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.030793"
+}

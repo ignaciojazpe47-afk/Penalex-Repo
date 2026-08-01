@@ -1,0 +1,25 @@
+{
+  "id": 29749,
+  "numero": "0281",
+  "fecha": "2023-04-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de Richard Oswaldo Marín Torres, quien fue condenado a 30 años de prisión por delitos de abuso sexual a niños. La decisión impugnada fue dictada por la Sala 5 Accidental de la Corte de Apelaciones, que había subsanado una omisión de pronunciamiento respecto a la admisibilidad de los medios probatorios ofrecidos en el recurso de apelación. La Sala Constitucional concluye que la acción de amparo no es procedente, ya que el agraviado no agotó las vías ordinarias disponibles.",
+  "palabras_clave": [
+    "prueba",
+    "apelación",
+    "inadmision",
+    "juicio",
+    "derechos",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-13_S0281_E19-0255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324368-0281-13423-2023-19-0255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.825271"
+}

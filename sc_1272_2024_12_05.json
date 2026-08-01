@@ -1,0 +1,25 @@
+{
+  "id": 28314,
+  "numero": "1272",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Javier Armando Pérez Oliveros en representación de Karl Alexander Díaz Aparicio, relacionada con dos causas penales. La Sala declaró su incompetencia para conocer del asunto, argumentando que corresponde a la Sala de Casación Penal decidir sobre la procedencia de la solicitud de avocamiento. La decisión se fundamenta en la naturaleza del caso y la falta de competencias atribuidas a la Sala Constitucional en este contexto.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos humanos",
+    "debido proceso",
+    "justicia constitucional",
+    "jurisdicción",
+    "protección constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1272_E22-0797.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340230-1272-51224-2024-22-0797.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.033567"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27162,
+  "numero": "0587",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Antonio Márquez Valente contra una sentencia del Tribunal Superior en lo Civil que declaró inadmisible la acumulación de pretensiones en un juicio por cobro de bolívares. La Sala determinó su competencia para conocer del caso y decidió que la sentencia objeto de amparo era procedente, ordenando al juzgado remitente que informara sobre el estado actual de la causa. La decisión busca garantizar la tutela de los derechos constitucionales del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela de derechos",
+    "proceso civil",
+    "ejecución de sentencia",
+    "notificación",
+    "causa paralizada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0587_E23-1292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338547-0587-11124-2024-23-1292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.306780"
+}

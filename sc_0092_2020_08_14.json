@@ -1,0 +1,25 @@
+{
+  "id": 41380,
+  "numero": "0092",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la apelación interpuesta por la abogada Anayensi Mora Páez, quien actuaba como defensora privada de los ciudadanos Williams Albrey Mora y Omar José Mora. La apelación fue considerada extemporánea, ya que se interpuso fuera del lapso de tres días establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimidad procesal de la abogada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "apelación",
+    "legitimidad procesal",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0092_E19-0215.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310031-0092-14820-2020-19-0215.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.099347"
+}

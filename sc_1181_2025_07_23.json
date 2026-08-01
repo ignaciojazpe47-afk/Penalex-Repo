@@ -1,0 +1,24 @@
+{
+  "id": 21117,
+  "numero": "1181",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULO el fallo nro. 0199 dictado por la Sala de Casación Social del Tribunal Supremo de Justicia el 21 de octubre de 2022.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia nro. 0199 de la Sala de Casación Social, que había declarado inadmisible un recurso de apelación y firme un fallo que anulaba un poder de representación. La Sala Constitucional determinó que la Sala de Casación Social incurrió en un error al considerar que el poder se extinguió por la muerte del otorgante, ya que este poder fue conferido en nombre de una persona jurídica. En consecuencia, se declaró la nulidad de la sentencia impugnada y se ordenó al Juzgado Superior Agrario que emita un nuevo pronunciamiento sobre la admisibilidad del recurso de nulidad interpuesto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder de representación",
+    "nulidad",
+    "agropecuaria",
+    "justicia"
+  ],
+  "titulo": "Revisión constitucional de la sentencia nro. 0199 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1181_E22-0937.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346399-1181-23725-2025-22-0937.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.383586"
+}

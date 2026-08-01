@@ -1,0 +1,27 @@
+{
+  "id": 34021,
+  "numero": "1129",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Extinción de la instancia por pérdida del interés",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la extinción de la instancia por pérdida del interés en la demanda de nulidad parcial interpuesta por Carlos Brender contra varios artículos del Decreto de Regulación del Arrendamiento Inmobiliario. Se argumenta que la parte actora no mostró interés en el proceso durante un lapso superior a un año, lo que llevó a la conclusión de que no había razón para continuar con el procedimiento. La decisión se fundamenta en la falta de actividad procesal y el derecho al acceso a la justicia.",
+  "palabras_clave": [
+    "interés procesal",
+    "extinción de la acción",
+    "inactividad",
+    "nulidad",
+    "constitucionalidad",
+    "decreto",
+    "justicia",
+    "administración"
+  ],
+  "titulo": "Extinción de la instancia por pérdida del interés en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1129_E15-1369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328284-1129-11823-2023-15-1369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.324183"
+}

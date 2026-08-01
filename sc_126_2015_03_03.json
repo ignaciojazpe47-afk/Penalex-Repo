@@ -1,0 +1,24 @@
+{
+  "id": 62173,
+  "numero": "126",
+  "fecha": "2015-03-03",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta De Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió a favor de la sociedad mercantil INVERSIONES EDAC C.A., revocando la decisión del Juzgado Superior Segundo que había declarado inadmisible la acción de amparo. Se argumentó que existió un fraude procesal en el proceso principal, donde el abogado Jhoel Saúl Ortega López actuó en nombre de la empresa sin autorización, comprometiendo sus intereses. La Sala declaró la nulidad de todo lo actuado ante el Juzgado Tercero de Primera Instancia y ordenó que un nuevo juez se pronuncie sobre la admisión de la demanda por cobro de bolívares interpuesta por el endosatario en procuración Miguel Alfredo Pineda Álvarez.",
+  "palabras_clave": [
+    "amparo",
+    "fraude procesal",
+    "INVERSIONES EDAC C.A.",
+    "Jhoel Saúl Ortega López",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por INVERSIONES EDAC C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-03_S126_E14-1319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/174774-126-3315-2015-14-1319.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.143736"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34103,
+  "numero": "1214",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por Julio César Cuesta Eisler contra la sentencia N° RC-000575 de la Sala de Casación Civil. En esta decisión, se declaró que la demanda de cobro de bolívares presentada por el demandante era inadmisible debido a la falta de prueba escrita que acreditara la existencia y condiciones de la obligación crediticia. La Sala Constitucional, al revisar el caso, determinó que no se verificaban los requisitos de admisibilidad establecidos en el Código de Procedimiento Civil, lo que llevó a declarar sin lugar la solicitud de revisión y a dejar sin efecto la medida cautelar previamente acordada.",
+  "palabras_clave": [
+    "procedimiento civil",
+    "carga de la prueba",
+    "inadmisibilidad",
+    "documentos",
+    "derechos constitucionales",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1214_E22-0915.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328414-1214-14823-2023-22-0915.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.872813"
+}

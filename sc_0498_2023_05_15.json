@@ -1,0 +1,25 @@
+{
+  "id": 30279,
+  "numero": "0498",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por los abogados Oliver Uribe Pinto y Angie Carfi en representación de Iván Alfredo Gómez Flores. La acción se dirigía contra una sentencia dictada el 11 de noviembre de 2021 por la Sala Novena de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado con lugar un recurso de apelación y ordenado la nulidad de una decisión anterior sobre una orden de aprehensión.\n\nLa Sala Constitucional fundamentó su decisión en la falta de presentación de la copia certificada de la sentencia objeto de amparo, lo que constituye un requisito indispensable para la admisibilidad de la acción. Se destacó que la ausencia de este documento impide verificar la admisibilidad de la demanda, lo que llevó a la declaratoria de inadmisibilidad conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia.\n\nFinalmente, se ordenó la publicación y registro de la decisión, archivando el expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "documentación",
+    "jurisprudencia",
+    "derechos",
+    "decisiones judiciales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0498_E21-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325119-0498-15523-2023-21-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.040104"
+}

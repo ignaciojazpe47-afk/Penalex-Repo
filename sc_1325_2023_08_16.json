@@ -1,0 +1,25 @@
+{
+  "id": 34216,
+  "numero": "1325",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Dianora Eunises Lares Castejón, quien fue removida de su cargo como Jueza Provisoria. La acción fue presentada el 9 de septiembre de 2020, pero no fue ratificada conforme a la normativa vigente, lo que llevó a la Sala a declararla inadmisible. La decisión se fundamenta en la falta de cumplimiento de los plazos establecidos para la ratificación de la solicitud de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "justicia",
+    "derechos",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1325_E20-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328528-1325-16823-2023-20-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.224084"
+}

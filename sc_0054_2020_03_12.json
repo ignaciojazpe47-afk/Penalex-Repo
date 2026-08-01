@@ -1,0 +1,23 @@
+{
+  "id": 41193,
+  "numero": "0054",
+  "fecha": "2020-03-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Séptimo Superior del Trabajo que había declarado con lugar un recurso de apelación interpuesto por la empresa Grupo San Bento C.A. y sin lugar la demanda de nulidad presentada por Jorge Eliecer Ariza Ariza. La Sala determinó que la sentencia recurrida incurrió en vicios de falso supuesto de derecho y falsa aplicación de la ley, al no considerar la normativa laboral vigente al momento del despido del trabajador. En consecuencia, se anuló la decisión del Juzgado y se ordenó que otro Juzgado Superior emita un nuevo pronunciamiento conforme a lo expuesto en el fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inamovilidad laboral",
+    "falso supuesto de derecho",
+    "falsa aplicación de la ley"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la decisión del Juzgado Séptimo Superior del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-03-12_S0054_E17-0119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/309751-0054-12320-2020-17-0119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.134708"
+}

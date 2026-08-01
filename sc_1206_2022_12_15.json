@@ -1,0 +1,25 @@
+{
+  "id": 38083,
+  "numero": "1206",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la demanda de nulidad interpuesta por la abogada Rim Aldarawsha Farah, en representación de Amílcar Josué Jaspe Castellano, contra los artículos 280 y 310 del Código de Comercio. La Sala determina que la parte demandante no ha mostrado interés en la causa, lo que lleva a declarar la pérdida del interés procesal y el abandono del trámite. Finalmente, se decide la nulidad de los artículos mencionados por colidir con varios preceptos constitucionales.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "inactividad procesal",
+    "acción",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre la nulidad de artículos del Código de Comercio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1206_E20-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322098-1206-151222-2022-20-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.142027"
+}

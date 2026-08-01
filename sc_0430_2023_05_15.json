@@ -1,0 +1,22 @@
+{
+  "id": 30211,
+  "numero": "0430",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre la solicitud de revisión constitucional presentada por DYNOS ENERGY, C.A. respecto a una sentencia del Tribunal Primero de Municipio que resolvió la demanda de resolución de contrato de arrendamiento. La Sala determinó que la solicitud no cumplía con los requisitos para proceder, ya que no se evidenció una violación de derechos constitucionales ni un error en la interpretación de la ley por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato de arrendamiento",
+    "DYNOS ENERGY"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0430_E21-0065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325050-0430-15523-2023-21-0065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.883092"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21120,
+  "numero": "1184",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por el abogado Gabriel María de Jesús Kassen Machado, en representación de José Gregorio Rodríguez Álvarez, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa. La acción se fundamentó en la supuesta violación de derechos constitucionales al debido proceso y a la tutela judicial efectiva, alegando que no se verificó la prescripción de la acción penal en el caso de su defendido.\nLa Sala concluyó que la Corte de Apelaciones actuó dentro de su competencia y ajustada a derecho, ya que la orden de aprehensión emitida interrumpió el lapso de prescripción de la acción penal. Se determinó que no existieron vicios que justificaran la intervención del Tribunal Supremo, considerando que la acción de amparo no debe ser utilizada como una nueva instancia para reabrir un asunto ya resuelto judicialmente.\nFinalmente, se declara inoficioso pronunciarse sobre la medida cautelar solicitada, dado que la acción de amparo fue desestimada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "prescripción",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "Código Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1184_E24-0448.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346403-1184-23725-2025-24-0448.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.381140"
+}

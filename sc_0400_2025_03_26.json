@@ -1,0 +1,25 @@
+{
+  "id": 19099,
+  "numero": "0400",
+  "fecha": "2025-03-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Adriana Villarroel Núñez, actuando como apoderada de los ciudadanos Demetrio Paredes Piñeiro y José Paredes Piñeiro. La decisión se basa en la falta de presentación de copia certificada del poder que acredite la representación de la abogada, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La Sala también reafirma su competencia para conocer del asunto, dado que la sentencia impugnada había quedado firme.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "COVID-19",
+    "derecho a la defensa",
+    "apelación",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-26_S0400_E24-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342680-0400-26325-2025-24-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.716151"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12487,
+  "numero": "190",
+  "fecha": "2008-02-28",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "PEDRO RAFAEL RONDÃ“N HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia resolvió la solicitud de aclaratoria presentada por JosÃ© RamÃ³n Merentes, quien buscaba que se aclarara la posibilidad de reconocimiento de derechos sociales para parejas del mismo sexo. La Sala determinó que la solicitud excedía los términos de la interpretación inicial y que los derechos patrimoniales y civiles de estas parejas son competencia del legislador nacional, no del tribunal. Por lo tanto, se declaró improcedente la solicitud de aclaratoria.",
+  "palabras_clave": [
+    "aclaratoria",
+    "derechos",
+    "parejas del mismo sexo",
+    "interpretación constitucional"
+  ],
+  "titulo": "Solicitud de aclaratoria sobre derechos de parejas del mismo sexo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_734b84af8a44d187f783eae5b4f6e606_RafaelRonda.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.100686"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31685,
+  "numero": "1032",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Alberto Herrera Coronel, en representación de Yván Alfredo García Lozada, contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo constitucional. La Sala confirma la decisión de inadmisibilidad, argumentando que el apelante no cuestiona la inadmisibilidad de la solicitud de tutela constitucional, sino que centra sus impugnaciones en el auto de fecha 20 de octubre de 2020, lo cual resulta improcedente. Además, se establece que el uso de medios alternativos de resolución de conflictos en fase de ejecución no suspende la ejecución del régimen de convivencia familiar, y que la decisión cuestionada no afecta la eficacia de la sentencia que homologó dicho régimen.",
+  "palabras_clave": [
+    "custodia",
+    "niños",
+    "adolescentes",
+    "protección",
+    "derechos",
+    "familia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1032_E21-0037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327589-1032-1823-2023-21-0037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.895092"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24103,
+  "numero": "0050",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Yaris Beatriz Palmar contra la sentencia del Tribunal Superior Primero del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que declaró inadmisible la acción de amparo constitucional. La apelante alegó omisión de pronunciamiento por parte del juzgado respecto a la solicitud de custodia de su hija, lo que vulneró sus derechos al acceso a la justicia y al debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "omisión de pronunciamiento"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0050_E23-0967.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332404-0050-5224-2024-23-0967.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.823741"
+}

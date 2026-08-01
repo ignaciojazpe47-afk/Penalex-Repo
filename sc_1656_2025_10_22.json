@@ -1,0 +1,26 @@
+{
+  "id": 22468,
+  "numero": "1656",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La ciudadana Yildris Alejandra Rendón Colina interpuso una acción de amparo constitucional contra la Fiscal Provisoria Andry Marcely Alarcón Ramírez, alegando violaciones a sus derechos fundamentales en un procedimiento de desalojo. La Sala Constitucional, tras evaluar la competencia, determinó que no era competente para conocer el caso, ya que el agravio provenía de un fiscal del Ministerio Público y no del Fiscal General de la República. Por lo tanto, declinó la competencia a los tribunales de primera instancia en funciones de juicio del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "fiscalía",
+    "invasión",
+    "orden público",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1656_E25-0901.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349047-1656-221025-2025-25-0901.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.754002"
+}

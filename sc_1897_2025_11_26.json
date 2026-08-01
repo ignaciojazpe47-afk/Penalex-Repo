@@ -1,0 +1,23 @@
+{
+  "id": 23243,
+  "numero": "1897",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n° RC-327 de la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Industrias Filtros Laboratorios INFIL, C.A. La Sala Constitucional encontró que la Sala de Casación Civil incurrió en un vicio de incongruencia omisiva al no considerar los alegatos de la parte demandante, vulnerando así su derecho a la defensa y al debido proceso. En consecuencia, se declaró con lugar la solicitud de revisión y se anuló la sentencia de la Sala de Casación Civil, quedando firme la decisión del Juzgado Superior Noveno que había declarado con lugar la demanda de cumplimiento de contrato de arrendamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incongruencia omisiva",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1897_E16-1223.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350493-1897-261125-2025-16-1223.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.799558"
+}

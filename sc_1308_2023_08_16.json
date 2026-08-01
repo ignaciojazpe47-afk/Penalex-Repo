@@ -1,0 +1,24 @@
+{
+  "id": 34200,
+  "numero": "1308",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la abogada Liliana Camejo Gutiérrez, en representación del teniente de fragata Elías José Noriega Manrique. La acción se dirigía contra la decisión de la Corte Marcial que había declarado sin lugar el recurso de apelación contra la negativa de decaimiento de la medida de privación judicial preventiva de libertad impuesta al recurrente por la presunta comisión de delitos militares. La Sala concluye que la decisión impugnada no vulneró los derechos constitucionales alegados por el accionante, ya que se respetaron las garantías procesales y se actuó dentro de los límites de la competencia judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte Marcial",
+    "privación de libertad",
+    "instigación a la rebelión",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Elías José Noriega Manrique",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1308_E22-0478.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328512-1308-16823-2023-22-0478.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.221974"
+}

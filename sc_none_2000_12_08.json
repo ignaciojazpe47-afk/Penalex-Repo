@@ -1,0 +1,27 @@
+{
+  "id": 2191,
+  "numero": null,
+  "fecha": "2000-12-08",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "CONFIRMA la decisión dictada por el Juzgado Superior Décimo en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Area Metropolitana de Caracas, de fecha 8 de agosto del año 2000, que declaró SIN LUGAR la acción de amparo constitucional interpuesta.",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 8 de diciembre de 2000, confirma la decisión del Juzgado Superior Décimo que declaró sin lugar la acción de amparo constitucional interpuesta por Haydee Morela Fernández Parra. La demandante había apelado una sentencia del Juzgado Quinto de Primera Instancia que había declarado la confesión ficta y resuelto el contrato de arrendamiento entre ella y la Sociedad Mercantil Inversiones Lovipan C.A. La Sala argumenta que la acción de amparo no puede ser utilizada como un medio para revisar decisiones judiciales ordinarias y que no se evidenció la violación de derechos constitucionales. Se reafirma el carácter extraordinario de la acción de amparo, que no debe ser un recurso para corregir errores procesales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "confesión ficta",
+    "arrendamiento",
+    "juzgado",
+    "sentencia",
+    "proceso",
+    "vulneración"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-12-08_Constitucional_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.721560"
+}

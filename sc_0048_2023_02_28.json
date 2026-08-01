@@ -1,0 +1,26 @@
+{
+  "id": 28949,
+  "numero": "0048",
+  "fecha": "2023-02-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Rosemary Castro interpuso un recurso de nulidad por inconstitucionalidad contra el artículo 407, segundo aparte del Código Orgánico Procesal Penal, argumentando que establece una carga desproporcionada para la parte acusadora en comparación con la parte acusada. La Sala Constitucional, tras analizar los argumentos, concluyó que la norma impugnada quebranta el principio de igualdad procesal, pero decidió declarar sin lugar la demanda de nulidad, considerando que no se vulneran los derechos fundamentales a la igualdad y no discriminación. La Sala también declaró inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "acción penal",
+    "derecho a la igualdad",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "audiencia de conciliación",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la nulidad del artículo 407 del Código Orgánico Procesal Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-28_S0048_E21-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322978-0048-28223-2023-21-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.288092"
+}

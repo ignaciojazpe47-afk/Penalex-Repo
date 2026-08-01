@@ -1,0 +1,26 @@
+{
+  "id": 23405,
+  "numero": "1920",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Eduardo Enrique Guevara Vásquez contra el Ministro del Poder Popular para el Proceso Social del Trabajo, por presunta omisión en la respuesta a su solicitud relacionada con la aplicación de la convención colectiva del sector petrolero. La Sala declaró su competencia para conocer el caso, pero inadmitió la acción de amparo por no haberse agotado los recursos ordinarios disponibles para restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "Poder Público",
+    "derechos",
+    "garantías",
+    "interpretación",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1920_E24-1018.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350806-1920-281125-2025-24-1018.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.794327"
+}

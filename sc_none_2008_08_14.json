@@ -1,0 +1,24 @@
+{
+  "id": 3522,
+  "numero": null,
+  "fecha": "2008-08-14",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de amparo constitucional interpuesta por Yolima Pérez Carreño, madre de una adolescente de 12 años, quien se opuso a la transfusión de hemoderivados por motivos religiosos. La Sala determinó que, aunque se debe respetar la libertad religiosa, en situaciones de urgencia y peligro de muerte, el derecho a la vida prevalece. La decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo fue confirmada, considerando que la adolescente había sido oída y que la transfusión era necesaria para preservar su vida.",
+  "palabras_clave": [
+    "transfusión",
+    "hemoderivados",
+    "derecho a la vida",
+    "libertad religiosa",
+    "menores de edad"
+  ],
+  "titulo": "Revisión de sentencia sobre transfusión de hemoderivados a menor de edad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-08-14_Constitucional_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.963004"
+}

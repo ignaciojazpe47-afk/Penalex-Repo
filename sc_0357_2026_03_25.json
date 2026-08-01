@@ -1,0 +1,24 @@
+{
+  "id": 17657,
+  "numero": "0357",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por la abogada Hilda María Nava Mendoza, en representación de Luzneidi Paola Segovia Araujo, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelante argumentó que la decisión de la juez que negó la revisión de la medida de privación de libertad afectó derechos fundamentales de su representada, quien se encontraba embarazada. Sin embargo, la Sala confirmó la inadmisibilidad del amparo, argumentando que la situación denunciada se tornó irreparable tras el nacimiento del hijo de la ciudadana, ya que el período de lactancia había transcurrido, lo que imposibilitaba la aplicación del artículo 231 del Código Orgánico Procesal Penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "privación de libertad",
+    "maternidad",
+    "lactancia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Luzneidi Paola Segovia Araujo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0357_E25-0651.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354355-0357-25326-2026-25-0651.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.562941"
+}

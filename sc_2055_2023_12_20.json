@@ -1,0 +1,25 @@
+{
+  "id": 33908,
+  "numero": "2055",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación en un caso de amparo constitucional. La apelación fue interpuesta por la abogada Rebeca Henríquez en representación de Luis Enrique Briceño, contra una decisión de la Sala Especial Dos de la Corte de Apelaciones que declaró improponible la acción de amparo. La Sala Constitucional determinó su competencia para conocer del recurso y solicitó un informe al Juzgado Segundo Especial sobre el estado actual de la causa relacionada con el amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2055_E23-0046.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332025-2055-201223-2023-23-0046.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.688037"
+}

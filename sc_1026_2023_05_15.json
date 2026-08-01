@@ -1,0 +1,25 @@
+{
+  "id": 31668,
+  "numero": "1026",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia N° 0487, declara sin lugar el recurso de apelación interpuesto por Jorge Luis Mogollón, quien alegaba la violación de derechos constitucionales por parte del Tribunal de Primera Instancia. La Corte de Apelaciones había declarado improcedente la acción de amparo, argumentando que el tribunal denunciado estaba tramitando lo necesario para la entrega de vehículos solicitados por el apelante. La Sala Constitucional confirma esta decisión, indicando que no se constató la vulneración de derechos.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1026_E23-0250.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327558-1026-31723-2023-23-0250.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.888755"
+}

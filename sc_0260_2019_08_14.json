@@ -1,0 +1,26 @@
+{
+  "id": 43899,
+  "numero": "0260",
+  "fecha": "2019-08-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Jesús Rafael Muñoz Matute contra la sentencia del Juzgado Superior Décimo en lo Civil, Mercantil, Tránsito y Bancario. La acción se fundamentó en la alegación de vicios en la citación del co-demandado Yorman Jesús Muñoz Franco, así como en la actuación de la defensora ad-litem. La Sala concluye que no se evidencian violaciones a derechos constitucionales y que el tribunal actuó dentro de su competencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "citación",
+    "defensor ad litem",
+    "nulidad",
+    "derechos constitucionales",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-14_S0260_E19-0199.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307021-0260-14819-2019-19-0199.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.397672"
+}

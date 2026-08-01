@@ -1,0 +1,25 @@
+{
+  "id": 39213,
+  "numero": "0356",
+  "fecha": "2021-08-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Gregorio Amundaraín Velázquez en representación de Yenny Mirieya Vital Cabriles, debido a la inepta acumulación de pretensiones. Se argumenta que la acción se dirige contra las omisiones del Tribunal Trigésimo Quinto, lo que corresponde a una Corte de Apelaciones y no a esta Sala Constitucional. La decisión se fundamenta en la normativa aplicable que establece la competencia de los tribunales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "competencia",
+    "tribunales",
+    "derechos constitucionales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Yenny Mirieya Vital Cabriles",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-05_S0356_E21-0015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/312870-0356-5821-2021-21-0015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.738375"
+}

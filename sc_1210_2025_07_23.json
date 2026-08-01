@@ -1,0 +1,22 @@
+{
+  "id": 21176,
+  "numero": "1210",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió a favor de la acción de amparo constitucional presentada por Oscar José Gómez, quien se encontraba privado de libertad. La decisión impugnada fue emitida por la Corte de Apelaciones con Competencia en Delitos de Violencia contra la Mujer, que revocó una medida cautelar de detención domiciliaria a favor del demandante. La Sala consideró que se habían vulnerado derechos fundamentales del accionante, como el derecho a la libertad y al debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la libertad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional a favor de Oscar José Gómez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1210_E19-0533.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346459-1210-23725-2025-19-0533.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.379092"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18478,
+  "numero": "0165",
+  "fecha": "2025-02-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por los abogados Moisés Obed Mujica Véliz, Manuel Aguiar y Luis Rangel, en representación de los ciudadanos Douglas Gregorio Paredes González y Aibert Jesús Ojeda Ojeda, por la presunta omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal en Materia de Delitos de Violencia contra la Mujer del Estado Carabobo. La decisión se fundamenta en que la Corte de Apelaciones ya se había pronunciado sobre la acción de amparo el 26 de febrero de 2024, declarando inadmisible la misma, lo que llevó a la Sala a considerar que las violaciones alegadas habían cesado.",
+  "palabras_clave": [
+    "Amparo",
+    "Habeas Corpus",
+    "Inadmisibilidad",
+    "Corte de Apelaciones",
+    "Violencia contra la Mujer"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-18_S0165_E24-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341582-0165-18225-2025-24-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.761606"
+}

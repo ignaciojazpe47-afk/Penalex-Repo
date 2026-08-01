@@ -1,0 +1,26 @@
+{
+  "id": 22936,
+  "numero": "1799",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1249, ordenando al abogado defensor Juan Ramón Gaetano Espinoza subsanar el escrito presentado en el recurso de casación. Se abordó la solicitud de amparo en contra de la Corte de Apelaciones N° 6, alegando negación de justicia y privación ilegítima de libertad del ciudadano Leonel David Noriega Sánchez, imputado por abuso sexual. La Sala consideró necesario recabar información adicional para garantizar la tutela de los derechos constitucionales.",
+  "palabras_clave": [
+    "recurso de casación",
+    "derechos humanos",
+    "justicia",
+    "tribunales",
+    "libertad personal",
+    "abuso sexual",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo en caso de abuso sexual",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1799_E25-0522.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349790-1799-121125-2025-25-0522.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.779262"
+}

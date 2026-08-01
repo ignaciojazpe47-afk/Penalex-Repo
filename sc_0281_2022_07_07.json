@@ -1,0 +1,25 @@
+{
+  "id": 35306,
+  "numero": "0281",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 181 de la Sala de Casación Social, que había declarado sin lugar un recurso de casación interpuesto por Jesús Enrique Valera. La revisión se fundamentó en la vulneración del derecho a la defensa y del debido proceso, al no considerar adecuadamente las pruebas presentadas por el demandante, que evidenciaban la relación laboral con la empresa Construcciones Serca C.A. La Sala concluyó que el fallo impugnado incurrió en error al desestimar las pruebas documentales y testimoniales que demostraban la existencia de la relación laboral.",
+  "palabras_clave": [
+    "inmovilización",
+    "pruebas",
+    "valoración",
+    "relación laboral",
+    "testigos",
+    "derecho laboral"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0281_E17-0593.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317733-0281-7722-2022-17-0593.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.243606"
+}

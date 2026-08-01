@@ -1,0 +1,22 @@
+{
+  "id": 22101,
+  "numero": "1534",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por el abogado Luis Cecilio Perdomo Franco en representación de Enrique Moisés Blanco, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala fundamenta su decisión en que la supuesta violación de derechos constitucionales cesó al haberse materializado la orden de excarcelación del ciudadano, quien cumplió su pena. Se destaca que la acción de amparo es inadmisible cuando la violación o amenaza de derechos ha cesado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "libertad",
+    "excarcelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en favor de Enrique Moisés Blanco",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1534_E23-0944.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348280-1534-61025-2025-23-0944.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.191934"
+}

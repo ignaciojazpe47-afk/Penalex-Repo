@@ -1,0 +1,22 @@
+{
+  "id": 38472,
+  "numero": "0097",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la demanda de protección de derechos e intereses colectivos interpuesta por el abogado Roberto León Parilli en representación de varios ciudadanos. La demanda se fundamenta en la supuesta violación de derechos relacionados con la libertad económica y el acceso a bienes de calidad, debido a incumplimientos por parte de la empresa ARKINATURA DEL ESTE, C.A. en la construcción de un centro comercial.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "libertad económica",
+    "ARKINATURA DEL ESTE"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de derechos e intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0097_E17-1086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311810-0097-16421-2021-17-1086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.896429"
+}

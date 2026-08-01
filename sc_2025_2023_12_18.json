@@ -1,0 +1,25 @@
+{
+  "id": 33877,
+  "numero": "2025",
+  "fecha": "2023-12-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un amparo constitucional interpuesto por Bello Martínez Hermes en representación de Yohargui José Márquez Aponte, contra el Tribunal 4° de Primera Instancia en Funciones de Control del estado La Guaira. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso y declinó la competencia a la Corte de Apelaciones del Circuito Penal de la misma circunscripción judicial.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos constitucionales",
+    "tribunales",
+    "justicia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-18_S2025_E22-0543.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331994-2025-181223-2023-22-0543.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.699474"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3800,
+  "numero": "225-7-4-00",
+  "fecha": "2000-04-07",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por Zoraida Aguilera Rondón contra la sentencia del Juzgado Primero de Primera Instancia en lo Civil y Mercantil de Aragua. La apelante alegó que su derecho a la defensa fue vulnerado al ser notificada de una sentencia mediante un cartel publicado en un diario, en lugar de su domicilio procesal. La Sala concluyó que la notificación no fue válida y que se había violado el derecho a la defensa, por lo que declaró procedente la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de defensa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0277.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.673051"
+}

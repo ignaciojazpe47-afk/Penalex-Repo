@@ -1,0 +1,22 @@
+{
+  "id": 31586,
+  "numero": "0970",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, se pronunció sobre la acción de amparo constitucional interpuesta por Luis Eduardo Castillo Contreras, quien impugnó la decisión del Juzgado Tercero de Primera Instancia que acordó la entrega en guardia y custodia de un vehículo. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimación activa del abogado que representaba al demandante.\nLa Sala Constitucional, tras analizar el caso, determinó que el abogado Luis Alberto Pino había asistido al demandante durante todo el proceso, lo que justificaba su representación. Por lo tanto, se revocó la decisión de la Corte de Apelaciones y se ordenó la constitución de una Corte Accidental de Apelaciones para que conociera nuevamente la acción de amparo.\nFinalmente, la Sala declaró con lugar el recurso de apelación y ordenó que se pronuncie sobre los requisitos de admisibilidad de la acción de amparo, asegurando así el respeto a los derechos y garantías constitucionales del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación activa",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0970_E22-0297.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327461-0970-27723-2023-22-0297.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.196591"
+}

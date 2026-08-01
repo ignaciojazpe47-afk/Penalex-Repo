@@ -1,0 +1,24 @@
+{
+  "id": 68418,
+  "numero": "1709",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo interpuesta por el abogado Lombardo Castillo Grillet, en representación del Condominio del Centro Comercial 'ITC', contra una decisión del Juzgado Superior Primero en lo Civil y Mercantil del Estado Lara. La sentencia impugnada había declarado inadmisible la demanda por cobro de bolívares interpuesta contra la sociedad mercantil ROUTE 66 ACCESORIOS, C.A., argumentando que los recibos de condominio no eran títulos ejecutivos según el artículo 630 del Código de Procedimiento Civil.\n\nLa Sala consideró que la inadmisibilidad de la demanda violaba los derechos constitucionales de acceso a la justicia y debido proceso, ya que los recibos de condominio tienen fuerza ejecutiva conforme a la Ley de Propiedad Horizontal. En consecuencia, la Sala declaró procedente la acción de amparo, anuló la sentencia impugnada y ordenó a un Juzgado Superior diferente emitir una nueva decisión, corrigiendo el error de juzgamiento.\n\nLa decisión reafirma la importancia del derecho a la tutela judicial efectiva y el acceso a la justicia, destacando que el proceso debe permitir a los ciudadanos obtener decisiones sobre el fondo de sus pretensiones, sin ser obstaculizados por formalismos innecesarios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la justicia",
+    "títulos ejecutivos",
+    "recibos de condominio"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de demanda por cobro de bolívares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1709_E15-0888.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184155-1709-181215-2015-15-0888.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:34.469612"
+}

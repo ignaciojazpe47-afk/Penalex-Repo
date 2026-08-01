@@ -1,0 +1,25 @@
+{
+  "id": 22417,
+  "numero": "1615",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia N° 0428, dictada por la Sala de Casación Civil. La decisión se basa en la falta de representación válida del abogado Rafael Pérez Anzola, quien actuó como apoderado judicial de CEMENTACIONES PETROLERAS VENEZOLANAS, S.A. La Sala enfatiza que es imperativo presentar copia certificada del poder que acredite la representación para la admisibilidad de la solicitud de revisión.",
+  "palabras_clave": [
+    "competencia",
+    "inadmisibilidad",
+    "representación",
+    "poder",
+    "revisión constitucional",
+    "carga procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1615_E25-0813.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348995-1615-221025-2025-25-0813.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.751129"
+}

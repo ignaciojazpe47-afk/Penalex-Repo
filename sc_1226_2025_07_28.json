@@ -1,0 +1,26 @@
+{
+  "id": 21212,
+  "numero": "1226",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior que declaró sin lugar la acción mero declarativa de concubinato presentada por Rosangel del Valle Alcalá Albertini contra José Pestana Goncalves. La Sala determinó que no se cumplían los requisitos necesarios para declarar la existencia de una unión estable de hecho, ya que no se probó la relación pública y notoria entre las partes ni la estabilidad de la misma durante el tiempo requerido. Por lo tanto, se declaró sin lugar la revisión solicitada, reafirmando la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "concubinato",
+    "acción declarativa",
+    "requisitos",
+    "sentencia",
+    "jurisprudencia",
+    "derechos",
+    "constitución"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre acción mero declarativa de concubinato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1226_E25-0434.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346523-1226-28725-2025-25-0434.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.375220"
+}

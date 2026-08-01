@@ -1,0 +1,25 @@
+{
+  "id": 19782,
+  "numero": "0675",
+  "fecha": "2025-05-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Yudith del Valle Velázquez contra la decisión del Tribunal Superior Segundo en lo Civil, que declaró inadmisible su acción de amparo constitucional. La Sala determinó que la apelación fue presentada dentro del plazo legal y que la acción de amparo no era la vía idónea, ya que existían recursos ordinarios que no habían sido agotados por la parte actora. Por lo tanto, se declaró sin lugar el recurso de apelación y se confirmó la sentencia apelada.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "derechos",
+    "constitucionales",
+    "inadmisibilidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-12_S0675_E24-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343741-0675-12525-2025-24-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.727260"
+}

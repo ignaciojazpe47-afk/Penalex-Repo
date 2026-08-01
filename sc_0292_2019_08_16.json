@@ -1,0 +1,26 @@
+{
+  "id": 43988,
+  "numero": "0292",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 2 de mayo de 2017, que había declarado con lugar un recurso de apelación en un caso de desalojo. La parte demandante argumentó que la decisión del juzgado inferior violó derechos constitucionales, como el debido proceso y la tutela judicial efectiva, al no considerar adecuadamente las pruebas presentadas. La Sala encontró que efectivamente hubo una vulneración de estos derechos y decidió anular la sentencia impugnada, ordenando la emisión de un nuevo fallo que considere todos los alegatos y pruebas.",
+  "palabras_clave": [
+    "excepción",
+    "debido proceso",
+    "arrendamiento",
+    "tutela judicial",
+    "incongruencia",
+    "pruebas",
+    "constitución"
+  ],
+  "titulo": "Revisión de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0292_E17-0796.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307157-0292-16819-2019-17-0796.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.377752"
+}

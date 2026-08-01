@@ -1,0 +1,25 @@
+{
+  "id": 30581,
+  "numero": "0627",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó el fallo del Juzgado Superior Segundo en lo Civil, que había declarado sin lugar un recurso de apelación interpuesto por Tiberio Faneca y María Isilda Marques de Faneca contra la sentencia de desalojo de un local comercial. La Sala determinó que el Juzgado había vulnerado el debido proceso y la tutela judicial efectiva al no considerar la prórroga legal arrendaticia y al imponer requisitos no pactados en el contrato de arrendamiento. En consecuencia, se anuló la sentencia recurrida y se ordenó que otro Juzgado Superior se pronuncie nuevamente sobre el recurso de apelación.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "contrato",
+    "obligaciones",
+    "prórroga",
+    "pago"
+  ],
+  "titulo": "Revisión constitucional del fallo del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Aragua",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0627_E22-0165.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325715-0627-30523-2023-22-0165.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.931658"
+}

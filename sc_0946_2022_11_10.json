@@ -1,0 +1,24 @@
+{
+  "id": 37252,
+  "numero": "0946",
+  "fecha": "2022-11-10",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de noviembre de 2022, declaró inadmisible la solicitud de revisión constitucional presentada por el abogado Moisés Enrique Martínez Silva en representación de Rosalía D’Angelo de Palmieri. La solicitud se refería a una decisión del Juzgado Superior Noveno en lo Civil, Mercantil, del Tránsito y Bancario de Caracas, dictada el 31 de mayo de 2019, que había declarado improcedente la reposición de la causa al estado de que se libre edicto a los herederos desconocidos en un proceso de partición de comunidad hereditaria.\n\nLa Sala fundamentó su decisión en que la solicitud de revisión no cumplía con los requisitos establecidos para ser admitida, ya que la decisión objeto de revisión no era una sentencia definitivamente firme sobre el fondo de la causa, sino una decisión interlocutoria que no ponía fin al juicio. Por lo tanto, se concluyó que la solicitud de revisión no era procedente conforme a la normativa vigente.\n\nFinalmente, se ordenó la publicación, registro y archivo del expediente correspondiente a esta decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "derecho de defensa",
+    "apelación",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-10_S0946_E20-0015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320640-0946-101122-2022-20-0015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.360487"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 41280,
+  "numero": "0080",
+  "fecha": "2020-07-13",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.242, que prorroga el Estado de Excepción y de Emergencia Económica en Venezuela. Este decreto busca adoptar medidas urgentes para asegurar el disfrute de derechos fundamentales ante la crisis económica y social. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y destaca el desacato de la Asamblea Nacional a las decisiones del Tribunal.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "poder ejecutivo",
+    "derechos humanos",
+    "guerra económica"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 4.242",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-07-13_S0080_E20-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/309925-0080-13720-2020-20-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.116729"
+}

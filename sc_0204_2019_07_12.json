@@ -1,0 +1,26 @@
+{
+  "id": 43462,
+  "numero": "0204",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Luis Oldenburg, debido a una inepta acumulación de pretensiones. Se argumenta que la acción se dirige simultáneamente contra jueces y una fiscal, lo que implica que las peticiones son de diferente naturaleza y no pueden acumularse. La Sala reitera que cada pretensión debe ser interpuesta de forma independiente ante el tribunal competente.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "amparo constitucional",
+    "competencia",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "funcionarios"
+  ],
+  "titulo": "Sentencia de inadmisión de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0204_E19-0126.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306089-0204-12719-2019-19-0126.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.817231"
+}

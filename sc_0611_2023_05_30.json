@@ -1,0 +1,25 @@
+{
+  "id": 30565,
+  "numero": "0611",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la ciudadana Claudia Carolina Monsalve de Aufiero, a través de su abogado, en contra del Tribunal Cuarto de Primera Instancia en Función de Juicio del Circuito Judicial Penal del Estado Carabobo. La acción se fundamentó en la presunta omisión de pronunciamiento respecto a una solicitud de sobreseimiento presentada por la defensa. La Sala, tras analizar el caso, determinó que no era competente para conocer de la acción y declinó la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo.",
+  "palabras_clave": [
+    "omisión",
+    "debido proceso",
+    "sobreseimiento",
+    "juicio oral",
+    "privación de libertad",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Claudia Carolina Monsalve de Aufiero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0611_E23-0260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325699-0611-30523-2023-23-0260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.937112"
+}

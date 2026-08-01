@@ -1,0 +1,24 @@
+{
+  "id": 18350,
+  "numero": "0106",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió a favor de la ciudadana Mayulbis Mercedes Vallenilla Andrade, anulando la sentencia del Tribunal Primero de Primera Instancia que había modificado la custodia de su hija a favor del padre, Omar José Licet Yendez. La decisión se fundamentó en la violación de derechos constitucionales, específicamente el derecho a la defensa y al debido proceso, debido a la ineficacia de la defensora ad litem designada. Se ordenó la reposición de la causa al estado de celebración de nueva audiencia de juicio para garantizar una defensa adecuada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "modificación de custodia",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional en caso de modificación de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0106_E18-0615.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341441-0106-12225-2025-18-0615.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.771118"
+}

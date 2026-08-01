@@ -1,0 +1,22 @@
+{
+  "id": 30301,
+  "numero": "0519",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se declaró incompetente para conocer de una demanda de protección de derechos e intereses colectivos presentada por un grupo de ciudadanos contra las empresas Concepto Urbanístico 2014, C.A. y Constructora Vega Abajo 2011, C.A. La demanda se fundamentaba en la vulneración del derecho a la vivienda digna, ya que las empresas no construyeron las viviendas prometidas a los demandantes. La Sala determinó que la controversia no tenía trascendencia nacional y debía ser resuelta por un tribunal de primera instancia en la localidad donde se generaron los hechos.",
+  "palabras_clave": [
+    "derecho a la vivienda",
+    "intereses colectivos",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre incompetencia en demanda de protección de derechos colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0519_E16-1094.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325145-0519-16523-2023-16-1094.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.857282"
+}

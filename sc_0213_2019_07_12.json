@@ -1,0 +1,27 @@
+{
+  "id": 43471,
+  "numero": "0213",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2014-1.202 dictada por la Corte Primera de lo Contencioso Administrativo, que declaró extinguida la acción por pérdida del interés procesal. La Sala determinó que la decisión de la Corte Primera no consideró el término de prescripción del derecho controvertido, lo que contraviene la jurisprudencia establecida. Por lo tanto, se declaró ha lugar la solicitud de revisión y se ordenó a la Corte Primera dictar una nueva decisión conforme a lo establecido en el fallo de la Sala Constitucional.",
+  "palabras_clave": [
+    "prescripción",
+    "inmovilización",
+    "interés procesal",
+    "nulidad",
+    "sentencia",
+    "revisión",
+    "Corte",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Corte Primera de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0213_E18-0355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306098-0213-12719-2019-18-0355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.408821"
+}

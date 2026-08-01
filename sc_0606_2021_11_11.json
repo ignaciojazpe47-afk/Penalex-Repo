@@ -1,0 +1,23 @@
+{
+  "id": 40169,
+  "numero": "0606",
+  "fecha": "2021-11-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 3 de diciembre de 2020, que había declarado parcialmente con lugar la acción de amparo constitucional interpuesta por Carmen Mercedes Rausseo de Velazco contra Bernardo José Rausseo Morales. La Sala determinó que la acción de amparo era admisible debido a la imposibilidad de acceder a vías ordinarias durante el estado de excepción por la COVID-19. Sin embargo, al analizar la solicitud de revisión, la Sala concluyó que no se configuraron las violaciones denunciadas y que el fallo del Juzgado Superior se ajustaba a derecho, por lo que se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "revisión",
+    "derechos constitucionales",
+    "Estado Trujillo"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0606_E21-0236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314362-0606-111121-2021-21-0236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.515197"
+}

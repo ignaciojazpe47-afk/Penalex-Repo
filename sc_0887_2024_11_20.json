@@ -1,0 +1,27 @@
+{
+  "id": 27680,
+  "numero": "0887",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, decidió sobre un recurso de apelación interpuesto por el abogado José Navarro Adeyán, en representación del ciudadano Armando Reinaldo Guevara, contra la decisión de la Sala N° 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La apelación fue presentada debido a la supuesta violación del derecho a la libertad del demandante, quien fue detenido sin orden judicial.\nLa Sala Constitucional, tras analizar los argumentos y la normativa aplicable, concluyó que la acción de amparo era inadmisible, ya que la supuesta violación había cesado con la nulidad de la aprehensión decretada por el Tribunal Undécimo. Por lo tanto, se confirmó la decisión de la Corte de Apelaciones, declarando sin lugar el recurso de apelación.\nFinalmente, se ordenó la publicación y registro de la decisión, que fue firmada el 20 de noviembre de 2024.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "homicidio",
+    "constitución",
+    "justicia",
+    "circuito judicial"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0887_E19-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339163-0887-201124-2024-19-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.193283"
+}

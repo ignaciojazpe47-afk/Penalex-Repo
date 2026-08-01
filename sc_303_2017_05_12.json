@@ -1,0 +1,24 @@
+{
+  "id": 51654,
+  "numero": "303",
+  "fecha": "2017-05-12",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la demanda interpuesta por la Defensoría del Pueblo contra la Sociedad Mercantil Inversiones RS&M C.A., por la presunta vulneración de derechos a la salud y la vivienda de las familias que habitan en el Conjunto Residencial Santa Eduviges II. La Sala argumentó que la situación denunciada no tiene trascendencia nacional, ya que los efectos de la controversia se limitan al ámbito regional del Estado Bolivariano de Mérida.\n\nLa decisión se basa en la consideración de que la problemática presentada no se equipara a situaciones de emergencia nacional y que el tribunal competente para conocer de la demanda es el Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito de la misma circunscripción judicial. La Sala enfatizó que la cercanía geográfica facilitaría el acceso a la justicia para los ciudadanos afectados.\n\nFinalmente, se ordenó la remisión del expediente al tribunal competente para que este se pronuncie sobre la admisibilidad de la demanda presentada por la Defensoría del Pueblo.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "vivienda digna",
+    "salud",
+    "incompetencia",
+    "remisión"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de derechos e intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-12_S303_E16-1013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198857-303-12517-2017-16-1013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.342958"
+}

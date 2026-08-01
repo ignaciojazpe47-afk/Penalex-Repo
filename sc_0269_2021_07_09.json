@@ -1,0 +1,22 @@
+{
+  "id": 38988,
+  "numero": "0269",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Vigésimo Tercero que había declarado con lugar una demanda de cumplimiento de contrato de servicios. Los solicitantes argumentaron que no eran partes del contrato en cuestión y que la sentencia original incurrió en error inexcusable. La Sala determinó que efectivamente los solicitantes carecían de cualidad pasiva para ser demandados en el juicio, lo que llevó a modificar la decisión anterior y declarar parcialmente con lugar la demanda, manteniendo la condena a los verdaderos obligados del contrato.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "falta de cualidad pasiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0269_E16-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312570-0269-9721-2021-16-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.165664"
+}

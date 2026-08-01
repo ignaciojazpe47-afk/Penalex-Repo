@@ -1,0 +1,26 @@
+{
+  "id": 24332,
+  "numero": "0195",
+  "fecha": "2024-02-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia dictada por la Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por Rubén Martín Aliza Macías en representación de su hijo. Se establece que la acción fue presentada contra una decisión de la Corte de Apelaciones del Estado Aragua que declaró inadmisible un recurso de apelación y sin lugar una solicitud de libertad plena del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "tribunal supremo",
+    "derechos",
+    "garantías",
+    "sanciones",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0195_E22-0794.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332738-0195-22224-2024-22-0794.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.836211"
+}

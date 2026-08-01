@@ -1,0 +1,24 @@
+{
+  "id": 34128,
+  "numero": "1235",
+  "fecha": "2023-02-02",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia se refiere a la solicitud de revisión constitucional de un fallo de casación dictado por la Sala de Casación Civil. La Sala Constitucional, al asumir la competencia, analiza los argumentos del solicitante sobre la interpretación de la ley en relación con el plazo de prescripción de acciones sucesorias. Se destaca la necesidad de remitir el expediente del juicio de nulidad de testamento para un mejor análisis del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de testamento",
+    "competencia",
+    "procedimiento civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de fallo de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1235_E23-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328440-1235-14823-2023-23-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.306224"
+}

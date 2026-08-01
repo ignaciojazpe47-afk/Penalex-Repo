@@ -1,0 +1,23 @@
+{
+  "id": 3755,
+  "numero": "442",
+  "fecha": "2000-05-23",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia confirma la sentencia del Juzgado Superior del Tránsito y del Trabajo que declaró con lugar la acción de amparo interpuesta por José Agustín Briceño Méndez contra la homologación de un desistimiento en un juicio laboral. Se argumenta que el desistimiento homologado violó el principio de irrenunciabilidad de los derechos laborales, ya que el abogado del demandante actuó sin su consentimiento. La Sala destaca la importancia de proteger los derechos laborales y la necesidad de garantizar la voluntad del trabajador en el proceso judicial.",
+  "palabras_clave": [
+    "amparo",
+    "derechos laborales",
+    "desistimiento",
+    "irrenunciabilidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.734897"
+}

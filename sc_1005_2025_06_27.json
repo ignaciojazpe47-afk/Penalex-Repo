@@ -1,0 +1,26 @@
+{
+  "id": 20605,
+  "numero": "1005",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Raíza Ramírez Pino en representación de los ciudadanos Rozbet Daniel Maldonado Molina y Robert Joan Maldonado Molina. La decisión se basa en la inepta acumulación de pretensiones, ya que se denunciaron violaciones a derechos constitucionales por parte de distintos órganos, lo que implica que cada pretensión debe ser interpuesta de forma independiente ante el tribunal competente.\n\nSe argumenta que la Fiscalía Trigésima Tercera del Ministerio Público y el Tribunal Décimo Tercero de Primera Instancia en Funciones de Control del Circuito Judicial Penal Militar del Estado Táchira incurrieron en irregularidades que afectaron el debido proceso. Sin embargo, la Sala concluye que la acumulación de pretensiones en un solo escrito es inadmisible, ya que cada una debe ser evaluada por el órgano correspondiente.\n\nFinalmente, la Sala reafirma que la acción de amparo debe ser declarada inadmisible por la inepta acumulación de pretensiones, lo que impide que un mismo tribunal resuelva sobre diversas denuncias dirigidas a diferentes agraviantes.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "tutela constitucional",
+    "competencia",
+    "amparo",
+    "derechos constitucionales",
+    "tribunales",
+    "jurisprudencia"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1005_E20-0213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345274-1005-27625-2025-20-0213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.307340"
+}

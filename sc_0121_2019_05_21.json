@@ -1,0 +1,27 @@
+{
+  "id": 42865,
+  "numero": "0121",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por el abogado Juan Luis Núñez García en representación de Kelly Jesús Rodríguez Hernández, quien no fue parte en el juicio original pero fue afectado por las decisiones de los tribunales inferiores. La Sala determinó que las sentencias dictadas por el Juzgado Superior y la Sala de Casación Civil violaron el derecho a la defensa y el debido proceso al extender los efectos de sus decisiones a un tercero no demandado. En consecuencia, se declaró ha lugar la solicitud de revisión y se anuló la decisión de la Sala de Casación Civil, ordenando que se pronuncie nuevamente sobre el recurso de casación interpuesto.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "constitucionalidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "jurisprudencia",
+    "casación",
+    "seguridad jurídica"
+  ],
+  "titulo": "Revisión de sentencias en materia de cumplimiento de contrato de opción de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0121_E17-1116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305039-0121-21519-2019-17-1116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.857179"
+}

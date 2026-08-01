@@ -1,0 +1,23 @@
+{
+  "id": 11245,
+  "numero": null,
+  "fecha": "2005-05-05",
+  "anio": 2005,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Desestima por manifiestamente infundado el recurso de casación",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "La sentencia se refiere a un recurso de casación interpuesto por la defensa de los ciudadanos JOSÉ ANTONIO MEDINA y JAVIER ANTONIO TORRES ROMERO, condenados por los delitos de lesiones personales y robo agravado. La Corte de Apelaciones había declarado sin lugar el recurso de apelación, lo que llevó a la defensa a solicitar la revisión del fallo ante el Tribunal Supremo de Justicia. La Sala Penal del TSJ desestimó el recurso, considerando que no se vulneraron los derechos de los imputados y que el fallo de la Corte de Apelaciones estaba ajustado a derecho.",
+  "palabras_clave": [
+    "casación",
+    "violación",
+    "robo agravado",
+    "lesiones personales"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de violación y robo agravado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_ddcec065d17a25521760345fee0efc61.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:03.616017"
+}

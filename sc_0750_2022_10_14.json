@@ -1,0 +1,25 @@
+{
+  "id": 36668,
+  "numero": "0750",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por los abogados de Yomar Alberto Reyes, contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala determina que ha habido abandono del trámite por parte de la parte accionante, ya que no se ha realizado actuación procesal válida en más de seis meses, lo que lleva a declarar terminado el procedimiento. Además, se impone una multa a la parte accionante por no mantener el interés en el proceso.",
+  "palabras_clave": [
+    "derechos humanos",
+    "abandonos de trámite",
+    "acción de amparo",
+    "salud",
+    "tutela constitucional",
+    "interés procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0750_E20-0209.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319839-0750-141022-2022-20-0209.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.181174"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 63512,
+  "numero": "500",
+  "fecha": "2015-04-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "HA LUGAR la solicitud de revisión interpuesta por el ciudadano FERNANDO CONTRERAS PÉREZ, contra la sentencia N° 2369, dictada por la Corte Segunda de lo Contencioso Administrativo el 20 de noviembre de 2012.",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2369 de la Corte Segunda de lo Contencioso Administrativo, que había declarado sin lugar un recurso de apelación interpuesto por Fernando Contreras Pérez. La Sala determinó que la competencia para conocer de las acciones relacionadas con providencias administrativas dictadas por las Inspectorías del Trabajo corresponde a los tribunales laborales, no a los contenciosos administrativos. En consecuencia, se anularon las sentencias de primera y segunda instancia y se ordenó que el juicio se repondría a un tribunal laboral para su decisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "competencia",
+    "jurisdicción laboral",
+    "nulidad"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de providencia administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-04-27_S500_E13-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/176720-500-27415-2015-13-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:39.540899"
+}

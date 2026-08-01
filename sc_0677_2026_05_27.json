@@ -1,0 +1,27 @@
+{
+  "id": 17703,
+  "numero": "0677",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Irismer Coromoto Villarroel Ramos, en representación de Yoswal Jesús Coronado Mundaraín y Micell Andreina Cruz García, contra una decisión de la Sala 7 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La apelación fue considerada extemporánea, ya que se presentó fuera del lapso legal establecido para tal efecto.\nLa Sala Constitucional determinó su competencia para conocer del recurso, pero concluyó que la apelación no cumplía con los requisitos de tiempo, lo que llevó a declarar inadmisible el recurso. Se hizo un llamado a la Corte de Apelaciones para evitar errores en el cómputo de los plazos procesales en el futuro.\nFinalmente, la decisión de la Corte de Apelaciones fue confirmada, manteniendo firme la inadmisibilidad de la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "acusación",
+    "pruebas",
+    "derecho a la defensa",
+    "retardo procesal",
+    "audiencia preliminar",
+    "tutela judicial",
+    "experticias",
+    "acta policial"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0677_E26-0355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355947-0677-27526-2026-26-0355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.900969"
+}

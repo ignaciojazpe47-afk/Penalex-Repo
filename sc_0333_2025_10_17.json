@@ -1,0 +1,24 @@
+{
+  "id": 16891,
+  "numero": "0333",
+  "fecha": "2025-10-17",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el abogado Miguel Antonio Jiménez en representación de Eliezer José Rea Arroyo, en relación a la Sentencia Nro. 615 dictada por la Sala de Casación Penal. La solicitud se fundamentó en la alegación de vicios de nulidad y violaciones a derechos fundamentales, argumentando que la Sala de Casación Penal había incurrido en un formalismo excesivo que afectó la tutela judicial efectiva y el debido proceso. La Sala Constitucional, tras analizar los argumentos, declaró que no se evidenciaron infracciones a normas constitucionales y que la revisión no contribuiría a la uniformidad de la interpretación de principios constitucionales, por lo que se desestimó la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "formalismo",
+    "sentencia"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia Nro. 615",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0333_E25-1389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354313-0333-25326-2026-25-1389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.755544"
+}

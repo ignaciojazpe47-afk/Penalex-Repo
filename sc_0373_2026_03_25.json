@@ -1,0 +1,24 @@
+{
+  "id": 17327,
+  "numero": "0373",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Gustavo Adolfo Mirabal Castro, en relación a la sentencia N° 00745 dictada por la Sala Político Administrativa el 12 de agosto de 2025. En esta sentencia, se declaró que el Poder Judicial venezolano no tiene jurisdicción frente al juez extranjero para conocer la solicitud de divorcio por incompatibilidad de caracteres. La Sala Constitucional, al revisar el caso, determinó que se debía suspender los efectos de la sentencia impugnada, considerando que se habían vulnerado principios fundamentales del debido proceso y el derecho a la defensa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "divorcio",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0373_E25-1093.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354389-0373-25326-2026-25-1093.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.565495"
+}

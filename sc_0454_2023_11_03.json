@@ -1,0 +1,25 @@
+{
+  "id": 26930,
+  "numero": "0454",
+  "fecha": "2023-11-03",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000670 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación. La revisión se solicitó por la sociedad CONSULTEL, C.A., argumentando violaciones a derechos constitucionales en el proceso. La Sala determinó su competencia para conocer la solicitud de revisión y ordenó al Juzgado Sexto de Primera Instancia en lo Civil que remitiera el expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "debido proceso",
+    "tutela judicial",
+    "competencia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0454_E24-0048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338240-0454-251024-2024-24-0048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.381741"
+}

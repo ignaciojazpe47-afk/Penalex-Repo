@@ -1,0 +1,22 @@
+{
+  "id": 22265,
+  "numero": "1605",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por el abogado Juan Carlos Márquez González, en representación de Ricardo Antonio González Longa, contra la decisión del Juzgado Superior Quinto del Trabajo que declaró inadmisible la acción de amparo constitucional. La Sala determinó que la acción era inadmisible debido a que el agraviado tenía a su disposición recursos ordinarios que no había ejercido, lo que llevó a confirmar la decisión apelada. Finalmente, se declaró sin lugar el recurso de apelación y se confirmó la decisión del tribunal de origen.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1605_E18-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348722-1605-151025-2025-18-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.759146"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21205,
+  "numero": "1219",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de mayo de 2025, que declaró inadmisible la solicitud de entrega material presentada por Luis Fernando Antonio Romero Hernández. La Sala acordó medida cautelar de suspensión de efectos de dicha sentencia, argumentando que su ejecución podría afectar los derechos constitucionales del solicitante. Finalmente, se declaró con lugar el recurso de apelación interpuesto por la parte demandada, declarando inadmisible la solicitud de entrega material y nulidad de todas las actuaciones del proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "medida cautelar",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1219_E25-0564.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346516-1219-28725-2025-25-0564.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.376094"
+}

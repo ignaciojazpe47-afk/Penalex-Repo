@@ -1,0 +1,24 @@
+{
+  "id": 60677,
+  "numero": "997",
+  "fecha": "2016-11-23",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de noviembre de 2016, declaró sin lugar la solicitud de revisión de la sentencia número 1.600 dictada el 3 de noviembre de 2014 por la Sala de Casación Social. La parte solicitante argumentó que la sentencia vulneró su derecho a la defensa al desestimar la prueba de informes solicitada, pero la Sala consideró que la decisión impugnada no incurrió en errores que justificaran la revisión. Se concluyó que la causa de terminación de la relación laboral fue el retiro voluntario y no se demostró la existencia de un despido justificado.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "derecho a la defensa",
+    "trabajo",
+    "indemnización"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-23_S997_E15-0963.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193118-997-231116-2016-15-0963.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.945052"
+}

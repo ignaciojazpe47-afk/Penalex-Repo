@@ -1,0 +1,26 @@
+{
+  "id": 22242,
+  "numero": "1582",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Ludilma Mercedes Rodríguez Salcedo interpuso una acción de amparo constitucional contra una sentencia dictada por el Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Portuguesa, que había declarado con lugar un recurso de apelación en un juicio de desalojo. La Sala Constitucional del TSJ, al analizar el caso, determinó que el juzgado inferior había incurrido en errores al declarar la nulidad del proceso, ya que el inmueble en cuestión era utilizado como vivienda y no como local comercial, lo que violaba derechos constitucionales como el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "vivienda",
+    "contrato",
+    "uso",
+    "propiedad",
+    "inmueble"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo de inmueble",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1582_E25-0876.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348699-1582-151025-2025-25-0876.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.757645"
+}

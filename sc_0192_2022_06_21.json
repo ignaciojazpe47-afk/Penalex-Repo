@@ -1,0 +1,26 @@
+{
+  "id": 35124,
+  "numero": "0192",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el amparo constitucional interpuesto por Aníbal José Lairet Vidal en representación de la Sociedad Mercantil INVERSIONES ANTODAVI, C.A. contra una sentencia del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito. La inadmisibilidad se fundamenta en la falta de representación legal adecuada, ya que no se presentó el poder que acreditara dicha representación ante el tribunal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "representación",
+    "inadmisibilidad",
+    "poder",
+    "derechos",
+    "justicia",
+    "sociedad mercantil"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0192_E22-0175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317453-0192-21622-2022-22-0175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.625907"
+}

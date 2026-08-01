@@ -1,0 +1,25 @@
+{
+  "id": 24059,
+  "numero": "0006",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de Habeas Data interpuesta por Elizabeth Elena Tovar de Castillo contra la Superintendencia Nacional de Arrendamiento de Vivienda del Estado Aragua. La acción fue presentada debido a la falta de respuesta a una solicitud de información sobre un procedimiento de ocupación ilegítima de un inmueble. La Sala determina que el tribunal competente para conocer el caso es el Juzgado de Municipio Ordinario y Ejecutor de Medidas de los Municipios Girardot y Mario Briceño Iragorry.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "tribunales",
+    "contencioso administrativo",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de Habeas Data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0006_E23-1050.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332358-0006-5224-2024-23-1050.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.825047"
+}

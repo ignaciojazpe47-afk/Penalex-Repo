@@ -1,0 +1,25 @@
+{
+  "id": 17601,
+  "numero": "0108",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La ciudadana Silvana Suegart Hidalgo interpuso una acción de amparo constitucional contra una decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala Constitucional del TSJ, tras analizar la solicitud, determinó que la acción de amparo era improcedente, ya que no se cumplían los requisitos establecidos en la ley para su admisión. La Sala concluyó que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder al declarar inadmisible el recurso.",
+  "palabras_clave": [
+    "apelación",
+    "debido proceso",
+    "tutela judicial",
+    "inadmision",
+    "Código Orgánico Procesal Penal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0108_E25-0026.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353098-0108-2326-2026-25-0026.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.600509"
+}

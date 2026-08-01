@@ -1,0 +1,22 @@
+{
+  "id": 40009,
+  "numero": "0562",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Félix Medina Bracho, en representación de Xabier Berrizbeitia López, en relación a la custodia de sus hijos. Se alegó que el Juzgado Décimo Tercero había revocado una medida de custodia provisional sin justificación adecuada, lo que generó un desorden procesal y violaciones al debido proceso. La Sala, tras evaluar los antecedentes, decidió admitir el avocamiento y ordenó la restitución de los derechos constitucionales violados.",
+  "palabras_clave": [
+    "avocamiento",
+    "custodia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre avocamiento en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0562_E21-0531.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313927-0562-281021-2021-21-0531.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.115067"
+}

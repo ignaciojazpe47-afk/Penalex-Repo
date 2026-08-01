@@ -1,0 +1,25 @@
+{
+  "id": 44729,
+  "numero": "0482",
+  "fecha": "2019-12-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Carlos Rojas Marín, defensor privado de Manuel Alejandro Ortiz Salazar, contra una decisión del Juzgado Décimo Primero de Primera Instancia que suspendió los efectos de actos de comunicación relacionados con la libertad del demandante. La Corte de Apelaciones había declarado inadmisible la demanda de amparo por considerar que existía una inepta acumulación de pretensiones. Sin embargo, la Sala Constitucional determinó que ambas pretensiones podían ser acumuladas y que el amparo tenía un carácter cautelar para proteger los derechos del demandante mientras se resolvía el recurso de apelación.\n\nFinalmente, la Sala Constitucional declaró con lugar el recurso de apelación, revocando la decisión de la Corte de Apelaciones y ordenando que se pronuncie sobre el amparo propuesto, reafirmando la importancia de la tutela judicial efectiva y el derecho a la libertad personal. Esta decisión subraya la capacidad del tribunal para garantizar los derechos fundamentales en el marco de un proceso judicial.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "libertad",
+    "tutela judicial",
+    "inseguridad jurídica",
+    "prohibición de reforma"
+  ],
+  "titulo": "Decisión sobre amparo sobrevenido en caso de Manuel Alejandro Ortiz Salazar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0482_E18-0539.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308468-0482-31219-2019-18-0539.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.816475"
+}

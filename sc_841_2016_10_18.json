@@ -1,0 +1,24 @@
+{
+  "id": 59707,
+  "numero": "841",
+  "fecha": "2016-10-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia número RC-00376 dictada por la Sala de Casación Civil, que declaró sin lugar el recurso de casación presentado por Carlos Brender Ackerman. El recurrente argumentó que la sentencia impugnada no se fundamentaba en derecho y violaba sus derechos a la tutela judicial efectiva y al debido proceso. La Sala concluyó que la decisión de la Sala de Casación Civil fue correcta, ya que el abogado no puede cobrar honorarios a la parte vencida si ya ha recibido el pago de su cliente, lo que constituiría un enriquecimiento sin causa.",
+  "palabras_clave": [
+    "revisión",
+    "honorarios",
+    "abogados",
+    "sentencia",
+    "constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre cobro de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-10-18_S841_E15-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/191016-841-181016-2016-15-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.769903"
+}

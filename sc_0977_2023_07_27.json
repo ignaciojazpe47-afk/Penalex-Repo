@@ -1,0 +1,23 @@
+{
+  "id": 31593,
+  "numero": "0977",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la nulidad de la parte in fine del artículo 228 del Código Civil, que limitaba a cinco años la acción de inquisición de paternidad contra los herederos. Se argumenta que esta limitación colide con el derecho constitucional a la identidad y a investigar la maternidad y paternidad, consagrado en el artículo 56 de la Constitución. La decisión se fundamenta en la primacía de la norma constitucional sobre disposiciones legales que establecen plazos para el ejercicio de derechos fundamentales.",
+  "palabras_clave": [
+    "inquisición de paternidad",
+    "nulidad",
+    "control difuso",
+    "derecho a la identidad"
+  ],
+  "titulo": "Sentencia sobre la nulidad de la parte in fine del artículo 228 del Código Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0977_E19-0391.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327468-0977-27723-2023-19-0391.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.919010"
+}

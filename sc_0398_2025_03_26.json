@@ -1,0 +1,25 @@
+{
+  "id": 19097,
+  "numero": "0398",
+  "fecha": "2025-03-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Huáscar Francois Fossey Guevara contra la sentencia del Juzgado Quincuagésimo que declaró sin lugar la solicitud de control judicial. La Sala declina la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la normativa que establece que el amparo debe ser conocido por un tribunal superior al que emitió el pronunciamiento impugnado.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "justicia",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-26_S0398_E23-0608.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342678-0398-26325-2025-23-0608.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.717612"
+}

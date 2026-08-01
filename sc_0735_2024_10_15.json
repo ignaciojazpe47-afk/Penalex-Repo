@@ -1,0 +1,26 @@
+{
+  "id": 27355,
+  "numero": "0735",
+  "fecha": "2024-10-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo y habeas corpus interpuesto por Matt Shirzad contra el SAIME, argumentando violaciones a sus derechos fundamentales. La Sala observó que el escrito presentado era confuso y no cumplía con los requisitos necesarios para su admisión. Se ordenó al demandante corregir su solicitud en un plazo de dos días, advirtiendo que de no hacerlo, su acción sería declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "derechos humanos",
+    "debido proceso",
+    "SAIME",
+    "constitución",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre recurso de amparo y habeas corpus interpuesto por Matt Shirzad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0735_E24-0284.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338761-0735-81124-2024-24-0284.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.634132"
+}

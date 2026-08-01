@@ -1,0 +1,24 @@
+{
+  "id": 50314,
+  "numero": "74",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, declaró inadmisible la solicitud de revisión presentada por la abogada Diva Leonor Maestre Zapata, en relación a una sentencia del Tribunal Superior Marítimo. La decisión se basa en que la solicitante no demostró cómo se encontraba afectada por la sentencia objeto de revisión, la cual ya había adquirido carácter de cosa juzgada. La Sala reafirmó la aplicabilidad del Protocolo de 1992 que enmienda el Convenio del Fondo de 1971 para el siniestro del buque Plate Princess, ocurrido en 1997, y estableció que el Fondo de 1992 es responsable de cubrir indemnizaciones por daños causados por dicho incidente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "Fondo Internacional de Indemnización",
+    "contaminación por hidrocarburos",
+    "buque Plate Princess",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional relacionada con el derrame del buque Plate Princess",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S74_E16-1193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196369-74-23217-2017-16-1193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.291287"
+}

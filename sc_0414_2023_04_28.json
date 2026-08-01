@@ -1,0 +1,23 @@
+{
+  "id": 30005,
+  "numero": "0414",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo constitucional interpuesta por Xiomerluys Mayrut Marín Pérez, contra decisiones del Tribunal Trigésimo Tercero que afectaron sus derechos en un proceso de partición de comunidad conyugal. Se anulan varias sentencias previas y se ordena la reposición del caso al estado de que se notifique a las partes para celebrar nuevamente la audiencia de mediación. La decisión resalta la importancia del debido proceso y el derecho a la defensa en los procedimientos judiciales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "partición de comunidad conyugal",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0414_E21-0479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324684-0414-28423-2023-21-0479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.806754"
+}

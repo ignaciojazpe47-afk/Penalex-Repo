@@ -1,0 +1,24 @@
+{
+  "id": 28148,
+  "numero": "1199",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 4 de diciembre de 2024, en la que se admitió la acción de amparo constitucional interpuesta por Edilee Josefina Méndez Córdova contra la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La acción se fundamentó en la violación de derechos constitucionales, específicamente el derecho a la tutela judicial efectiva y al debido proceso, tras la nulidad de una sentencia de sobreseimiento dictada el 15 de diciembre de 2022.\n\nLa Corte de Apelaciones había declarado con lugar las apelaciones interpuestas por el Ministerio Público y la parte demandante, a pesar de que la defensa argumentó que el recurso del Ministerio Público era inadmisible por extemporáneo. La Sala Constitucional consideró que la decisión de la Corte de Apelaciones violó principios constitucionales y ordenó la nulidad de la sentencia impugnada, reafirmando la validez del sobreseimiento dictado anteriormente.\n\nFinalmente, se solicitó la suspensión del proceso penal en curso, argumentando que los hechos denunciados no revisten carácter penal, y se ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "nulidad de sentencia",
+    "sobreseimiento"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de sentencia de sobreseimiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1199_E24-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340038-1199-41224-2024-24-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.043034"
+}

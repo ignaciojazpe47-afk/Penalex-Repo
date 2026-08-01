@@ -1,0 +1,22 @@
+{
+  "id": 35440,
+  "numero": "0326",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Ángel Bernardo López Ahumada en representación de Marianne Margarita Sánchez Pinto, en relación con un expediente de protección de niños. La Sala, tras analizar las circunstancias del caso, determinó que no tenía competencia para conocer la solicitud, ya que el asunto debía ser tratado por la Sala de Casación Social, declinando así el conocimiento del caso a dicha sala.",
+  "palabras_clave": [
+    "avocamiento",
+    "protección de niños",
+    "incompetencia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0326_E21-0658.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317906-0326-13722-2022-21-0658.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.221199"
+}

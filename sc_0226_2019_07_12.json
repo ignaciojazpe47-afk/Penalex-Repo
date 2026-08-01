@@ -1,0 +1,25 @@
+{
+  "id": 43484,
+  "numero": "0226",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Soraya Daboín Cañizales contra la omisión del Juzgado Décimo de Primera Instancia en lo Penal. La acción fue motivada por la dilación en la respuesta a varias solicitudes presentadas por los apoderados judiciales de la accionante. La Sala declaró su competencia para conocer del caso y ordenó al Juzgado que informara sobre el estado de las solicitudes pendientes.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "tutela_judicial",
+    "juzgado",
+    "sanciones",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0226_E17-0207.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306111-0226-12719-2019-17-0207.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.812293"
+}

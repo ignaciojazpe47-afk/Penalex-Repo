@@ -1,0 +1,25 @@
+{
+  "id": 20626,
+  "numero": "1026",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación interpuesto por Pedro Luis Marín Cardona sobre los artículos 178, 179 en su cardinal 2 y 180 de la Constitución. Se argumenta que el solicitante no presenta un interés jurídico actual y legítimo que justifique la solicitud de interpretación, lo que es un requisito indispensable para la admisibilidad del recurso. La Sala reafirma su competencia exclusiva para interpretar la Constitución y establece que el recurso de interpretación no debe ser considerado como un medio normal para resolver cualquier duda.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "admisibilidad",
+    "legitimacion",
+    "recurso",
+    "jurisdiccion"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1026_E24-0194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345295-1026-30625-2025-24-0194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.510504"
+}

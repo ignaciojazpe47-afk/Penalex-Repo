@@ -1,0 +1,25 @@
+{
+  "id": 30233,
+  "numero": "0449",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de una sentencia proferida el 3 de noviembre de 2017, por el Tribunal Tercero de Municipio Ordinario y Ejecutor de Medidas de los Municipios San Cristóbal y Torbes. La solicitud fue presentada por el abogado Cristian Jonathan Faria Maldonado, quien actuaba en nombre de las ciudadanas Doris Josefina Monsalve Blanco y Ángela Virginia Monsalve Blanco. La inadmisibilidad se fundamenta en la falta de acreditación de la representación judicial del abogado, quien solo presentó una copia simple del poder.",
+  "palabras_clave": [
+    "prueba",
+    "contrato",
+    "obligaciones",
+    "derechos",
+    "inmuebles",
+    "litigio"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0449_E23-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325073-0449-15523-2023-23-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.886182"
+}

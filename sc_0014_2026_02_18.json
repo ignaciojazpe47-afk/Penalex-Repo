@@ -1,0 +1,26 @@
+{
+  "id": 16082,
+  "numero": "0014",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de avocamiento presentada por Neill Jesús Reaño García, actuando en nombre propio y en representación de varios ciudadanos. Sin embargo, se determina que la solicitud es improcedente debido a que no se cumplen los requisitos necesarios para su admisibilidad, ya que la causa se encuentra en fase de ejecución y no se evidencian desórdenes procesales que justifiquen el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisprudencia",
+    "proceso",
+    "sentencia",
+    "derechos",
+    "justicia",
+    "interés público"
+  ],
+  "titulo": "Solicitud de avocamiento improcedente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0014_E24-1199.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352674-0014-18226-2026-24-1199.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.069288"
+}

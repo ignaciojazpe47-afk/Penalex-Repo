@@ -1,0 +1,25 @@
+{
+  "id": 38119,
+  "numero": "1242",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "PERENCIÓN DE LA INSTANCIA Y LA EXTINCIÓN DEL PROCESO",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de colisión de leyes entre los artículos 1.160 y 1.362 del Código Civil venezolano, presentado por el abogado Carlos Brender. La Sala determinó su competencia para conocer de la demanda y analizó la inactividad del procedimiento, que había estado paralizado por más de un año desde la solicitud inicial.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "inactividad",
+    "derechos humanos",
+    "patrimonio público",
+    "tráfico de estupefacientes"
+  ],
+  "titulo": "Sentencia sobre colisión de leyes en el Código Civil venezolano",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1242_E21-0211.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322134-1242-151222-2022-21-0211.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.138268"
+}

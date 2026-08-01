@@ -1,0 +1,24 @@
+{
+  "id": 30361,
+  "numero": "0567",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional de la Sentencia N° RC-000277, dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación. Los abogados del peticionario argumentaron violaciones a derechos constitucionales y errores en la decisión impugnada. Sin embargo, la Sala concluyó que no se evidenció vulneración de principios jurídicos y que la inconformidad del peticionario no justificaba la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incongruencia",
+    "tutela judicial efectiva",
+    "silencio de pruebas",
+    "casación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0567_E19-0456.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325211-0567-16523-2023-19-0456.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.865196"
+}

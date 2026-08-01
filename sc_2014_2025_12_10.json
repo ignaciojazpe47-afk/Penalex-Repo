@@ -1,0 +1,25 @@
+{
+  "id": 23751,
+  "numero": "2014",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00334 dictada por la Sala Político Administrativa, que había declarado con lugar el recurso de apelación del Fisco Nacional y revocado la decisión del Tribunal Superior de lo Contencioso Tributario. La revisión se solicitó por la empresa Distribuidora Mérida Pan, C.A. (DIMEPACA), alegando violaciones al debido proceso y a la seguridad jurídica debido a la pandemia de COVID-19. Sin embargo, la Sala Constitucional determinó que no había lugar para la revisión, considerando que la Sala Político Administrativa actuó conforme a derecho y no se evidenció violación de derechos constitucionales.",
+  "palabras_clave": [
+    "nulidad",
+    "debido proceso",
+    "administración tributaria",
+    "incongruencia",
+    "pruebas",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 00334 de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2014_E25-0265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351771-2014-101225-2025-25-0265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.788341"
+}

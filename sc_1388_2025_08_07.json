@@ -1,0 +1,27 @@
+{
+  "id": 21641,
+  "numero": "1388",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de agosto de 2025, declaró sin lugar la solicitud de revisión constitucional presentada por las abogadas Gladis Quiñones y Ledys Sotillo, en representación de Luis José Brito Santana. La solicitud se refería a la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Amazonas, que había ratificado una condena de 12 años de prisión por abuso sexual sin penetración, argumentando la indebida aplicación de la Ley Orgánica sobre el Derecho de las Mujeres a Una Vida Libre de Violencia en lugar de la Ley para la Protección de Niños, Niñas y Adolescentes.\n\nLa Sala consideró que la Corte de Apelaciones actuó conforme a derecho y que no se evidenció ninguna violación a los derechos fundamentales del solicitante. Se enfatizó que la revisión no es un medio ordinario de impugnación, sino una potestad extraordinaria que busca la uniformidad en la interpretación de normas constitucionales. Por lo tanto, se desestimaron los alegatos de la defensa, concluyendo que la sentencia impugnada estaba suficientemente motivada y ajustada a derecho.",
+  "palabras_clave": [
+    "derechos humanos",
+    "justicia",
+    "proceso penal",
+    "indefensión",
+    "discriminación",
+    "tutela judicial",
+    "leyes",
+    "sentencia"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1388_E24-0732.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347241-1388-7825-2025-24-0732.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.045003"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38767,
+  "numero": "0202",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de mayo de 2021, declaró sin lugar la solicitud de revisión interpuesta por los abogados de Franklin Espinoza Balcalcer contra la sentencia N° 2018-0062 de la Corte Segunda de lo Contencioso Administrativo. La Corte había confirmado la perención de la instancia y la extinción del proceso administrativo disciplinario que había llevado a la destitución de Espinoza por presuntas faltas graves en su desempeño como funcionario policial.\n\nLos abogados argumentaron que la sentencia vulneró derechos constitucionales, como el derecho a la defensa y al debido proceso, alegando que su representado se encontraba privado de libertad y no pudo cumplir con las cargas procesales. Sin embargo, la Sala Constitucional concluyó que la Corte Segunda actuó dentro de su competencia y que la destitución fue válida, ya que se demostró que Espinoza incurrió en causales de destitución, independientemente de su absolución en el ámbito penal.\n\nFinalmente, la Sala reafirmó que la revisión de sentencias es una facultad discrecional y que no se vulneraron derechos constitucionales en este caso, por lo que se desestimó la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "jurisprudencia",
+    "derecho a la defensa",
+    "debido proceso",
+    "cosa juzgada",
+    "constitución"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 2018-0062",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0202_E19-0419.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312223-0202-28521-2021-19-0419.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.191511"
+}

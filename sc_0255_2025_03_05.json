@@ -1,0 +1,26 @@
+{
+  "id": 18709,
+  "numero": "0255",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión constitucional interpuesta por Cristóbal Marapacuto contra la decisión del Tribunal Superior Segundo del Trabajo de Aragua, que había declarado sin lugar su recurso de apelación y el recurso contencioso administrativo de nulidad. La Sala fundamentó su decisión en que la relación laboral del solicitante culminó por causas ajenas a la voluntad de las partes, debido a su incapacidad permanente, y que el acto administrativo impugnado se dictó ajustándose a los hechos y normativa aplicable.",
+  "palabras_clave": [
+    "motivación",
+    "inmotivación",
+    "falso supuesto",
+    "relaciones laborales",
+    "actos administrativos",
+    "competencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0255_E23-1119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342133-0255-5325-2025-23-1119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.874029"
+}

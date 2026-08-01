@@ -1,0 +1,23 @@
+{
+  "id": 28150,
+  "numero": "1201",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre la Sala Político Administrativa y la Sala de Casación Social, relacionado con un juicio de expropiación iniciado en 1971 por el Instituto Agrario Nacional contra José Luis Fuenmayor Ruíz. La Sala determinó que la competencia para conocer del recurso de apelación corresponde al Juzgado Agrario Superior de la Circunscripción Judicial del Estado Zulia, dada la naturaleza agraria del caso y las disposiciones legales aplicables en materia de expropiación agraria.\n\nSe destacó que la solicitud de expropiación fue admitida en 1971 y que la Sala Político Administrativa había declinado su competencia en favor de la Sala de Casación Social, lo cual fue objeto de revisión. La Sala Constitucional reafirmó que las expropiaciones agrarias deben ser conocidas por la jurisdicción agraria, conforme a la legislación vigente.\n\nFinalmente, se ordenó remitir el expediente al Juzgado Agrario Superior de la Circunscripción Judicial del Estado Zulia para su conocimiento y resolución, reafirmando la importancia de la competencia territorial y material en los procesos de expropiación agraria.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "expropiación agraria",
+    "Instituto Agrario Nacional",
+    "Juzgado Agrario Superior"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en expropiación agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1201_E24-0683.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340040-1201-41224-2024-24-0683.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.042818"
+}

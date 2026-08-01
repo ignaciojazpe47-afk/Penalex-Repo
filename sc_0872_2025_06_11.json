@@ -1,0 +1,24 @@
+{
+  "id": 20287,
+  "numero": "0872",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Dra. Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de febrero de 2024, que declaró la nulidad total de un laudo arbitral. La revisión fue solicitada por la Fundación 21536, representada por Francisco Briceño Corrales, quien argumentó que el laudo había violado derechos constitucionales. La Sala encontró que el Juzgado Superior había vulnerado el derecho al debido proceso al anular el laudo en su totalidad, cuando debió hacerlo solo en lo que respecta a la condena de Juan Carlos Álvaro como coobligado solidario. La Sala decidió anular la sentencia del Juzgado y declarar con lugar el recurso de nulidad interpuesto por Grupo TX, S.A.",
+  "palabras_clave": [
+    "revisión",
+    "nulidad",
+    "laudo arbitral",
+    "derecho al debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de laudo arbitral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0872_E24-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344666-0872-11625-2025-24-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.301015"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21950,
+  "numero": "1488",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara con lugar la apelación interpuesta por Francisco Márquez Corredor contra la sentencia del Juzgado Primero de Primera Instancia Agrario que había declarado improcedente su acción de amparo constitucional. La Sala concluye que el tribunal de origen vulneró el derecho al debido proceso al no notificar adecuadamente a las partes involucradas, lo que llevó a una paralización del proceso. Se anula el acta de la audiencia probatoria y se ordena la reposición de la causa para que otro tribunal notifique a las partes y realice la audiencia de pruebas conforme a la ley.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido_proceso",
+    "inseguridad_juridica",
+    "constitucion",
+    "sentencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1488_E24-0233.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348103-1488-30925-2025-24-0233.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.204645"
+}

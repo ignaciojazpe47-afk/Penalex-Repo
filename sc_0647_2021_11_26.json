@@ -1,0 +1,24 @@
+{
+  "id": 40461,
+  "numero": "0647",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por Martín Guillermo Bravo Sánchez contra una sentencia del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito de Miranda. Se argumenta que el tribunal superior correspondiente debe conocer el caso, y se determina que la parte accionante no ha realizado actuaciones procesales válidas durante un tiempo prolongado, lo que se considera abandono del trámite. Como consecuencia, se declara terminado el procedimiento y se impone una multa al accionante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "incompetencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0647_E19-0494.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314723-0647-261121-2021-19-0494.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.505934"
+}

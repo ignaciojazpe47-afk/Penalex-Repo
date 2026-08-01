@@ -1,0 +1,27 @@
+{
+  "id": 30626,
+  "numero": "0672",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE POR FALTA DE LEGITIMACIÓN",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la inadmisibilidad de la acción de amparo interpuesta por el abogado David Ricardo Carrizales Gualta, quien actuaba como defensor privado del ciudadano Jesús Omar Quintana Ribas. La decisión se basa en la falta de legitimación, ya que el abogado no presentó el poder que acreditara su representación en el proceso. La Sala reafirma que la falta de legitimación es una causal de inadmisibilidad que debe ser declarada de oficio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "defensor privado",
+    "admisibilidad",
+    "documentación",
+    "poder",
+    "Corte de Apelaciones",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0672_E22-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325760-0672-30523-2023-22-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.932744"
+}

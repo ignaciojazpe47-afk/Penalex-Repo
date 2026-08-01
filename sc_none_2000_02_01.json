@@ -1,0 +1,27 @@
+{
+  "id": 1507,
+  "numero": null,
+  "fecha": "2000-02-01",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Se admite el amparo",
+  "ponente": "Jesús Eduardo Cabrera",
+  "resumen": "En esta sentencia, la Sala Constitucional del Tribunal Supremo de Justicia de Venezuela admite una acción de amparo constitucional interpuesta por varios ciudadanos en contra de actos del Ministerio Público y un Juzgado de Control. Los demandantes alegan que sus derechos constitucionales han sido vulnerados debido a la acusación penal en su contra por el uso de un documento falso, en el contexto de un proceso civil en el que estaban involucrados. La Sala analiza los antecedentes del caso, donde se cuestiona la validez de un documento que fue objeto de controversia en un juicio civil. Se argumenta que la acusación penal fue emitida sin el debido proceso, ya que los demandantes no fueron notificados ni llamados a declarar durante la fase de investigación. La Sala concluye que existe un conflicto entre las decisiones de los tribunales civil y penal, lo que justifica la intervención del Tribunal Supremo para proteger los derechos constitucionales de los actores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "fiscalía",
+    "documento falso",
+    "jurisdicción",
+    "conflicto de jueces",
+    "transparencia judicial"
+  ],
+  "titulo": "Amparo Constitucional contra actos del Ministerio Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-02-01_PoliticoAdmin_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.683470"
+}

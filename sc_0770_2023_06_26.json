@@ -1,0 +1,25 @@
+{
+  "id": 30987,
+  "numero": "0770",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Tribunal Primero de Primera Instancia en lo Civil y Mercantil y el Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Monagas. Se determinó que el tribunal competente para conocer de la acción de amparo interpuesta por el abogado Ronald Antonio Castillo Blanco, en representación de Ramón Joaquín Alemán Sánchez, es el Juzgado de Primera Instancia en lo Civil y Mercantil de la misma circunscripción judicial.\n\nLa decisión se fundamenta en la normativa vigente que establece que los tribunales de primera instancia son los competentes para conocer de las acciones de amparo, y se aclara que los tribunales superiores no tienen competencia en primera instancia para estos casos. La Sala ordenó la remisión del expediente al tribunal competente para su conocimiento.\n\nFinalmente, se resalta la importancia de la regulación de competencia en el acceso a la justicia, garantizando así la tutela judicial efectiva de los derechos constitucionales de los ciudadanos.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "sentencias"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0770_E17-0142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326426-0770-26623-2023-17-0142.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.542316"
+}

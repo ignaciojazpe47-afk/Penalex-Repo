@@ -1,0 +1,26 @@
+{
+  "id": 44718,
+  "numero": "0471",
+  "fecha": "2019-12-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por el abogado Félix Enrique Carrasquel Pérez en representación de Cristy Marlene Reyes Pérez, en relación a una demanda de divorcio. La solicitud se fundamentó en la supuesta vulneración del orden público constitucional, citando una sentencia vinculante anterior. Sin embargo, el 12 de noviembre de 2019, se solicitó el desistimiento de la acción, lo que llevó a la Sala a evaluar la competencia para conocer la solicitud de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "divorcio",
+    "orden público",
+    "competencia",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "garantías",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0471_E19-0113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308457-0471-31219-2019-19-0113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.819184"
+}

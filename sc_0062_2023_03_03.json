@@ -1,0 +1,24 @@
+{
+  "id": 29064,
+  "numero": "0062",
+  "fecha": "2023-03-03",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Melis José Cordero y Brian José Cordero contra la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón. La Sala determinó su competencia para conocer el caso y ordenó a la Corte de Apelaciones que informara sobre el estado del recurso de apelación interpuesto por los demandantes. La decisión se fundamenta en la necesidad de proteger los derechos fundamentales de los accionantes, quienes alegan que su libertad está en juego.",
+  "palabras_clave": [
+    "amparo",
+    "orden público",
+    "Corte de Apelaciones",
+    "recurso de apelación",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-03_S0062_E21-0159.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323230-0062-3323-2023-21-0159.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.282499"
+}

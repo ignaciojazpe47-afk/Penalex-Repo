@@ -1,0 +1,24 @@
+{
+  "id": 38098,
+  "numero": "1221",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por Oswmer Eduardo Istúriz Otero en contra de la Jueza Provisoria del Tribunal Superior de Protección de Niños, Niñas y Adolescentes del Estado Yaracuy. Se establece que la falta de actuación del demandante por más de seis meses constituye abandono del trámite, lo que lleva a la terminación del procedimiento. Además, se impone una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "abandonode trámite",
+    "inactividad",
+    "derechos constitucionales",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1221_E22-0355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322113-1221-151222-2022-22-0355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.137042"
+}

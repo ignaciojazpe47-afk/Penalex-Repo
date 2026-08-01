@@ -1,0 +1,27 @@
+{
+  "id": 17585,
+  "numero": "0160",
+  "fecha": "2025-07-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la abogada Marly Giodemy Altuve Uzcátegui en nombre de Erlanda Coromoto Obando Dugarte. La solicitud se fundamentó en la existencia de dilaciones procesales y presuntas violaciones al debido proceso en un juicio de amparo constitucional. Sin embargo, la Sala declaró improcedente la solicitud, argumentando que ya se había dictado una sentencia definitivamente firme en el caso, lo que imposibilita el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "cosa juzgada",
+    "jurisdicción",
+    "competencia",
+    "sentencia",
+    "derechos",
+    "constitucional",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0160_E24-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353156-0160-2326-2026-24-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.508405"
+}

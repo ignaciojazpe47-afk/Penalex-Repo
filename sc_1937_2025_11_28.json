@@ -1,0 +1,23 @@
+{
+  "id": 23422,
+  "numero": "1937",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rosalyn González Mendoza en defensa de Ricardo Luis Méndez Klein, contra la decisión N° 320-2021 de la Corte de Apelaciones del estado Zulia. La inadmisibilidad se fundamenta en que la lesión denunciada ha cesado, dado que se ha dictado el archivo judicial de la causa penal seguida contra el accionante, lo que implica que no hay violación actual de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "derechos constitucionales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1937_E21-0839.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350823-1937-281125-2025-21-0839.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.796938"
+}

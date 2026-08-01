@@ -1,0 +1,25 @@
+{
+  "id": 32934,
+  "numero": "1503",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil Distribuidora JJ CAR C.A. contra la decisión del Juzgado Nacional en lo Contencioso Administrativo que había declarado sin lugar un recurso de apelación. La Sala fundamenta su decisión en la falta de cumplimiento de los requisitos legales para la admisión del amparo, señalando que la sentencia impugnada no vulnera derechos constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "motivación",
+    "sentencia",
+    "constitución",
+    "vicios_procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1503_E23-0782.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330555-1503-221123-2023-23-0782.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.441500"
+}

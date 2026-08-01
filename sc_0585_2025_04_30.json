@@ -1,0 +1,23 @@
+{
+  "id": 19566,
+  "numero": "0585",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Sala de Casación Civil que declaró inadmisible un recurso de casación interpuesto por Yusmari José Landaeta Sumoza. La abogada Conny García, en representación de Landaeta, argumentó que la inadmisibilidad violaba derechos constitucionales y solicitó la revisión de la decisión. La Sala Constitucional, tras analizar el caso, determinó que la Sala de Casación Civil incurrió en un excesivo formalismo al declarar la inadmisibilidad, lo que afectó el acceso a la justicia de la demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "recurso de casación",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0585_E22-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343443-0585-30425-2025-22-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.033001"
+}

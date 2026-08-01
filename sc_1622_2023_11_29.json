@@ -1,0 +1,27 @@
+{
+  "id": 33113,
+  "numero": "1622",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 29 de noviembre de 2023, declaró con lugar el recurso de apelación interpuesto por los abogados Felipe Medina y Katery Rojas, en representación del ciudadano Marcos Isidro Colan Párraga. La apelación se fundamentó en la inadmisibilidad de la acción de amparo constitucional dictada el 16 de diciembre de 2022 por la Sala N° 9 de la Corte de Apelaciones, la cual consideró que la lesión a los derechos constitucionales había cesado. Sin embargo, la Sala Constitucional determinó que la omisión de pronunciamiento del Tribunal Trigésimo Quinto sobre la solicitud de desestimación de la querella constituía una violación a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "querella",
+    "ministerio público",
+    "retardo procesal",
+    "Código Orgánico Procesal Penal",
+    "Constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por dilación indebida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1622_E23-0006.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330789-1622-291123-2023-23-0006.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.000805"
+}

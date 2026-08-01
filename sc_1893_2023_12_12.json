@@ -1,0 +1,23 @@
+{
+  "id": 33746,
+  "numero": "1893",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de apelación interpuesto por el abogado Miguel Garrido en representación de Henry José Charagua Toledo. La acción de amparo fue declarada inadmisible por no haberse agotado el medio de impugnación ordinario, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala constató que el recurso fue presentado fuera del plazo legal establecido, confirmando así la decisión de la Corte de Apelaciones del estado Bolívar.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "recurso de apelación",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1893_E19-0321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331863-1893-121223-2023-19-0321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.448188"
+}

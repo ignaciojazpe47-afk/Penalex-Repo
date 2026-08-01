@@ -1,0 +1,25 @@
+{
+  "id": 36672,
+  "numero": "0754",
+  "fecha": "2022-10-04",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda en tutela de derechos colectivos y difusos interpuesta por los ciudadanos Carlos Vivas Teneúd y María Dolores Molina contra la junta de condominio del Parque Residencial Manarí, así como la solicitud de nulidad de la Ordenanza sobre Instalación de Antenas y Similares en Jurisdicción del Municipio El Hatillo del Estado Miranda. La decisión se fundamenta en la inepta acumulación de pretensiones, ya que las demandas planteadas corresponden a tribunales distintos y procedimientos incompatibles.",
+  "palabras_clave": [
+    "acumulación",
+    "derechos colectivos",
+    "nulidad",
+    "competencia",
+    "ordenanzas",
+    "salud"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda en tutela de derechos colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0754_E21-0546.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319843-0754-141022-2022-21-0546.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.199679"
+}

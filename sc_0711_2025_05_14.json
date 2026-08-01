@@ -1,0 +1,24 @@
+{
+  "id": 19821,
+  "numero": "0711",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio de la Sala Segunda de la Corte Accidental de Apelaciones, declinando la competencia en un caso de amparo constitucional interpuesto por Aniello Gabino Cusati Borges. La acción se relaciona con la revocación de un sobreseimiento en un proceso penal por presunta violencia contra la mujer. La Sala Constitucional determinó su competencia para conocer el caso y decidió declarar con lugar la acción de amparo, considerando que se habían vulnerado derechos constitucionales del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "violencia contra la mujer",
+    "debido proceso",
+    "inmunidad procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0711_E25-0035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343786-0711-14525-2025-25-0035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.720205"
+}

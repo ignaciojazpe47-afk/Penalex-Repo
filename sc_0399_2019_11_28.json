@@ -1,0 +1,22 @@
+{
+  "id": 44592,
+  "numero": "0399",
+  "fecha": "2019-11-28",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2017-0572 dictada por la Corte Primera de lo Contencioso Administrativo, que había declarado inadmisible un recurso contencioso administrativo funcionarial por caducidad. La solicitante, Magaly José Morao Romero, argumentó que el hecho generador de su reclamación eran los pagos parciales de prestaciones sociales, y que la Corte había incurrido en vicios de hecho y derecho al no considerar adecuadamente los plazos de caducidad. La Sala Constitucional determinó que el hecho generador se produjo con la notificación del finiquito de pago y no con la transferencia bancaria, lo que llevó a la caducidad de la acción. Finalmente, la Sala declaró con lugar la revisión y anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "caducidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 2017-0572",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-28_S0399_E18-0368.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308325-0399-281119-2019-18-0368.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.359047"
+}

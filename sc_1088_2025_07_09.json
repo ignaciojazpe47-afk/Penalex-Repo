@@ -1,0 +1,27 @@
+{
+  "id": 20829,
+  "numero": "1088",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la sociedad mercantil FARMACIA INDUSTRIAL VALENCIA SUR, C.A. contra la sentencia del Juzgado Superior Primero del Trabajo de Carabobo, que había confirmado la impugnación de un poder otorgado. La Sala fundamenta su decisión en que la acción fue presentada fuera del plazo establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que implica el consentimiento tácito de la parte demandante respecto a la decisión impugnada. Además, se establece que no se evidencian violaciones de orden público que justifiquen la excepción a la caducidad de la acción.",
+  "palabras_clave": [
+    "poderes",
+    "derecho de defensa",
+    "personas jurídicas",
+    "Código de Procedimiento Civil",
+    "exhibición de documentos",
+    "representación",
+    "justicia",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1088_E24-0247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345850-1088-9725-2025-24-0247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.506754"
+}

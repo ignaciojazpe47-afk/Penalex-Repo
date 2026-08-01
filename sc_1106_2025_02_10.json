@@ -1,0 +1,24 @@
+{
+  "id": 20847,
+  "numero": "1106",
+  "fecha": "2025-02-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena la remisión del expediente",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional recibió una solicitud de revisión constitucional relacionada con una decisión del Juzgado Superior Segundo en lo Civil, que declaró con lugar un recurso de apelación y revocó una decisión anterior. La Sala se declaró competente para conocer la revisión solicitada, considerando que la sentencia impugnada había violado derechos y garantías constitucionales. Se ordenó la remisión del expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "herencia",
+    "revisión constitucional",
+    "cosa juzgada",
+    "debido proceso",
+    "jurisdicción contenciosa"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1106_E19-0564.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345868-1106-9725-2025-19-0564.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.547386"
+}

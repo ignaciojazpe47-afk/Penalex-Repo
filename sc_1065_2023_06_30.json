@@ -1,0 +1,22 @@
+{
+  "id": 20807,
+  "numero": "1065",
+  "fecha": "2023-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por Jesús Herrera Machado. La apelación fue presentada contra una sentencia que declaró inadmisible dicha acción. La Sala determinó su competencia para conocer el caso y consideró que el recurso fue interpuesto dentro del plazo legal establecido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "competencia"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1065_E23-0681.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345827-1065-9725-2025-23-0681.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.538914"
+}

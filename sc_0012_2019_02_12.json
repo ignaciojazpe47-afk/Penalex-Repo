@@ -1,0 +1,22 @@
+{
+  "id": 42115,
+  "numero": "0012",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La sentencia se refiere a la revisión constitucional solicitada por NERVIN RAFAEL REYES y JACOB GUDIÑO, quienes impugnaron una decisión del Juzgado Superior Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Zulia. Esta decisión había declarado con lugar una apelación interpuesta por la Sociedad Mercantil JOYERÍA COMERCIO COMPAÑÍA ANÓNIMA, revocando una decisión anterior que había declarado improcedente la oposición de dicha sociedad a la entrega de inmuebles.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "decisión interlocutoria",
+    "aplicación de derechos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de apelación en materia civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0012_E18-0644.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303669-0012-12219-2019-18-0644.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.619205"
+}

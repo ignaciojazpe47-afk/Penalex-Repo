@@ -1,0 +1,25 @@
+{
+  "id": 33806,
+  "numero": "1953",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por Carlos Gabriel Villarroel Meza en representación de Ginaginesca Tyxebel Gines, quien alega violación del derecho a la educación de su hija. La Sala determina que el tribunal competente para conocer del caso es un Tribunal de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del estado Miranda. Se ordena remitir el asunto a la Coordinación de la Unidad de Recepción y Distribución de Documentos del mencionado circuito judicial.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "niños",
+    "competencia",
+    "jurisdicción",
+    "protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1953_E22-0036.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331923-1953-141223-2023-22-0036.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.438645"
+}

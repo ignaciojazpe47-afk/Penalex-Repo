@@ -1,0 +1,26 @@
+{
+  "id": 17391,
+  "numero": "0224",
+  "fecha": "2026-02-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana María Mercedes Tibisay Martínez Verastegui interpuso una acción de amparo constitucional contra funcionarios de la Unidad Médico Forense del Ministerio Público, alegando violaciones a sus derechos durante un procedimiento médico. La Sala Constitucional del TSJ, tras analizar la competencia, declaró su incompetencia para conocer del caso, remitiendo el expediente a los Juzgados Superiores Estadales Contencioso Administrativo de la Circunscripción Judicial de la Región Capital. La decisión se fundamenta en la normativa que establece la competencia en materia de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "competencia",
+    "derechos",
+    "administrativa",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0224_E24-0832.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353526-0224-11326-2026-24-0832.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.072779"
+}

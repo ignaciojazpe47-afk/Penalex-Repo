@@ -1,0 +1,25 @@
+{
+  "id": 37505,
+  "numero": "1027",
+  "fecha": "2022-11-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por la abogada AMENAIDA MARÍA BUSTILLOS ZABALETA contra la decisión del Juzgado Superior Cuarto en lo Civil, Mercantil, Tránsito y Bancario, que había declarado con lugar un recurso de apelación. La acción fue presentada fuera del lapso de caducidad establecido, lo que llevó a la Sala a considerar que no existían razones de orden público que justificaran su admisión.\n\nSe argumenta que la apelación interpuesta por la parte demandante fue extemporánea, ya que transcurrieron más de seis meses desde la notificación de la decisión impugnada. La Sala también señala que la acción de amparo no puede ser utilizada como sustituto de los medios procesales ordinarios, y que la parte demandante había agotado previamente los recursos disponibles sin éxito.\n\nFinalmente, se establece que la decisión del Juzgado Superior Cuarto, que anuló un auto de admisión de apelación, es firme y con carácter de cosa juzgada, lo que refuerza la inadmisibilidad de la acción de amparo presentada.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "debido proceso",
+    "apelación",
+    "nulidad",
+    "derechos constitucionales",
+    "procedimiento civil"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-21_S1027_E21-0023.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320932-1027-211122-2022-21-0023.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.338674"
+}

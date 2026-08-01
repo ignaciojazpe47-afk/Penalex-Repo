@@ -1,0 +1,23 @@
+{
+  "id": 27170,
+  "numero": "0595",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de avocamiento presentada por Nilyan Esneira Chacín Gutiérrez, relacionada con un proceso penal en curso ante el Juzgado Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Lara. La Sala decide declinar el conocimiento del caso a la Sala de Casación Penal, argumentando que no se han alegado violaciones al orden público constitucional que justifiquen su intervención en el proceso penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "derechos humanos",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0595_E24-0276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338555-0595-11124-2024-24-0276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.303303"
+}

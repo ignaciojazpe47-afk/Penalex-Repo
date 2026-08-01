@@ -1,0 +1,26 @@
+{
+  "id": 34062,
+  "numero": "1169",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por la sociedad mercantil Panadería, Pastelería, Charcutería, Pizzería y Delicateses Barquicenter, C.A. contra la decisión del Juzgado Superior en lo Civil y Contencioso Administrativo que había declarado sin lugar el recurso de apelación interpuesto. La parte solicitante alegó violaciones a derechos constitucionales y a la tutela judicial efectiva, argumentando que la sentencia recurrida convalidó un fraude procesal.\nLa Sala, tras analizar los alegatos, determinó que la decisión del Juzgado Superior fue motivada y congruente, y que no se evidenciaron violaciones a derechos fundamentales. Se concluyó que la revisión no constituye una tercera instancia y que la solicitud no contribuiría a la uniformidad de la interpretación de normas constitucionales.\nFinalmente, la Sala declaró competente para conocer la solicitud, pero resolvió que no ha lugar a la misma, reafirmando la legalidad de la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "fraude procesal",
+    "arrendamiento",
+    "due process",
+    "tutela judicial",
+    "dolo procesal",
+    "derechos laborales",
+    "seguridad jurídica"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1169_E18-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328373-1169-14823-2023-18-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.873383"
+}

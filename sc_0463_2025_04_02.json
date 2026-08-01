@@ -1,0 +1,26 @@
+{
+  "id": 19226,
+  "numero": "0463",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 2 de abril de 2025, declaró con lugar el recurso de apelación interpuesto por la abogada María Claret Muñoz, actuando como apoderada judicial de la víctima Manyore Lugo. La apelación se basó en la omisión de pronunciamiento del juez Alexander Infante Bolívar, quien no fundamentó su negativa a incorporar pruebas solicitadas durante el juicio oral, lo que dejó a la víctima en un estado de indefensión y vulneró sus derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "indefensión",
+    "juzgador",
+    "pruebas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0463_E24-0935.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342862-0463-2425-2025-24-0935.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.604505"
+}

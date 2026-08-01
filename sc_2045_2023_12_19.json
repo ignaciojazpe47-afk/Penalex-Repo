@@ -1,0 +1,26 @@
+{
+  "id": 33898,
+  "numero": "2045",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara no ha lugar la solicitud de revisión constitucional interpuesta por Antonio José Peralta contra la sentencia N° 501 de la Sala de Casación Civil. La Sala argumenta que la revisión no debe ser entendida como una nueva instancia y que la solicitud no se subsume en los supuestos previstos para su procedencia, ya que no se evidencian violaciones a derechos constitucionales ni errores en la interpretación de la ley por parte de la Sala de Casación Civil. Se concluye que la técnica de formalización del recurso de casación debe ser acatada por el recurrente.",
+  "palabras_clave": [
+    "casación",
+    "contrato de seguros",
+    "deber de indemnización",
+    "debido proceso",
+    "técnica de formalización",
+    "Código Civil",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2045_E23-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332015-2045-191223-2023-23-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.695009"
+}

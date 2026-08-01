@@ -1,0 +1,25 @@
+{
+  "id": 30611,
+  "numero": "0657",
+  "fecha": "2022-11-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 964, en la que se ordena solicitar al Juzgado Vigésimo Quinto de Primera Instancia de Sustanciación, Mediación y Ejecución del Circuito Judicial del Trabajo que remita el expediente correspondiente. La decisión se basa en la revisión de una sentencia anterior que había declarado con lugar una demanda por prestaciones sociales y salarios interpuesta por Andrés Suárez Párraga contra el IVSS. La Sala considera que es vital determinar el órgano de adscripción del centro de salud involucrado para emitir una decisión ajustada a derecho.",
+  "palabras_clave": [
+    "prestaciones sociales",
+    "trabajo",
+    "IVSS",
+    "patrono",
+    "sentencia",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0657_E16-0052.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325745-0657-30523-2023-16-0052.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.358335"
+}

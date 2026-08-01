@@ -1,0 +1,22 @@
+{
+  "id": 39008,
+  "numero": "0289",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo interpuesta por Aurora del Rosario González Contreras y Germán Antonio Ibarra en beneficio de sus hijos. La acción fue presentada contra un acto de ejecución de sentencia dictado en un expediente anterior. La Sala declaró la competencia para conocer del recurso de apelación interpuesto contra un fallo que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "acción constitucional",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0289_E17-0015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312590-0289-9721-2021-17-0015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.169305"
+}

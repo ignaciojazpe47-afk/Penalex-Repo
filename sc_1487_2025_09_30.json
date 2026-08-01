@@ -1,0 +1,23 @@
+{
+  "id": 21949,
+  "numero": "1487",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Jesús Eduardo González González en representación del adolescente Y.M.H.C., debido a la omisión de pronunciamiento por parte de la Sala N° 1 de la Corte de Apelaciones. La decisión se basa en que la omisión fue subsanada con la sentencia dictada el 18 de septiembre de 2023, que confirmó la condena del adolescente por homicidio intencional en grado de frustración.\n\nSe argumenta que la acción de amparo no es procedente ya que la lesión denunciada cesó con la decisión de la Corte de Apelaciones. La Sala reitera que para que la acción de amparo sea admisible, es necesario que la lesión sea actual y presente, lo cual no se cumple en este caso.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Omisión de Pronunciamiento",
+    "Homicidio Intencional",
+    "Indefensión"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por el abogado Jesús Eduardo González González",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1487_E24-0129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348102-1487-30925-2025-24-0129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.204351"
+}

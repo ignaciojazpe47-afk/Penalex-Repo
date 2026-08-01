@@ -1,0 +1,27 @@
+{
+  "id": 27324,
+  "numero": "0704",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Simón José Arrieta Quintero en representación de Ana María Salas Zabala y Guillermo José Salas Zabala, por la presunta omisión de pronunciamiento del Tribunal Especial Segundo de Primera Instancia. La decisión se fundamenta en que la violación alegada ha cesado, conforme a lo establecido en el artículo 6 cardinal 1 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nEl tribunal de alzada verificó que el Juzgado Especial Segundo había dado respuesta a las solicitudes realizadas por la defensa, lo que llevó a concluir que no existía una violación actual de derechos. Por lo tanto, se confirma la decisión de inadmisibilidad dictada el 9 de diciembre de 2022 por la Sala Especial Uno de la Corte de Apelaciones.\n\nFinalmente, se declara sin lugar el recurso de apelación y se confirma la decisión objeto de apelación, reafirmando la competencia del tribunal para conocer del caso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "inadmibilidad",
+    "jurisdicción",
+    "constitucional",
+    "proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0704_E22-1062.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338727-0704-81124-2024-22-1062.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.429163"
+}

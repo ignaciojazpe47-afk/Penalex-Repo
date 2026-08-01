@@ -1,0 +1,25 @@
+{
+  "id": 45909,
+  "numero": "0192",
+  "fecha": "2018-03-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Henry José Hernández Rodríguez, en su calidad de Presidente de la organización UNIDAD POPULAR VENEZOLANA, en contra de una sentencia de la Sala Electoral. La Sala se declara competente para conocer la solicitud y decide otorgar una medida cautelar para garantizar la participación de la organización en los procesos electorales. Se establece una directiva provisional para la organización mientras se resuelve el fondo del asunto.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "participación política",
+    "elecciones",
+    "medidas cautelares",
+    "organizaciones políticas",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-12_S0192_E17-1236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208572-0192-12318-2018-17-1236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.684942"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27812,
+  "numero": "0990",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Rogelio Rafael Ramírez Marriaga en representación de Luis Fernando Pérez Pérez, quien había solicitado un amparo constitucional por retardo procesal. La Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia había declarado inadmisible la acción de amparo por falta de cualidad del abogado defensor, al no presentar el poder correspondiente. La Sala Constitucional, tras revisar el caso, confirmó la inadmisibilidad de la acción de amparo, argumentando que el abogado no cumplió con los requisitos legales necesarios para actuar en nombre del demandante.",
+  "palabras_clave": [
+    "retardo procesal",
+    "medida privativa de libertad",
+    "audiencia preliminar",
+    "tutela judicial efectiva",
+    "derecho a la libertad",
+    "Código Orgánico Procesal Penal",
+    "Constitución"
+  ],
+  "titulo": "Decisión sobre la apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0990_E20-0081.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339303-0990-211124-2024-20-0081.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.137143"
+}

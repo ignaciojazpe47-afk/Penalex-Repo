@@ -1,0 +1,27 @@
+{
+  "id": 34611,
+  "numero": "0069",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada la acción de amparo por abandono del trámite.",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Adrián Rafael Piñango Figueroa y José Argenis Martínez contra la Consultoría Jurídica del Consejo Nacional Electoral, por la negativa de acceso a un expediente electoral. La Sala, tras analizar el caso, determinó que había un conflicto de competencia entre tribunales, ya que tanto el Juzgado Superior Estadal Cuarto Contencioso Administrativo como la Sala Electoral se declararon incompetentes para conocer el asunto. Finalmente, la Sala Constitucional aceptó la declinatoria de competencia y declaró terminado el procedimiento por abandono del trámite debido a la inactividad de los demandantes.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "derechos",
+    "justicia",
+    "procedimiento",
+    "tutela",
+    "interés",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0069_E21-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315919-0069-8322-2022-21-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.436899"
+}

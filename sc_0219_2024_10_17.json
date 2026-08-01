@@ -1,0 +1,26 @@
+{
+  "id": 26603,
+  "numero": "0219",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional de una sentencia dictada el 28 de julio de 2006, que había declarado con lugar una demanda de daños y perjuicios presentada por Kandy Josefina Cova Filpo contra General Motors Venezolana C.A. y Autocentro M.D.S., C.A. La revisión fue solicitada debido a la supuesta incongruencia negativa en la sentencia original, donde se omitieron ciertos puntos del petitorio de la demandante.\n\nEn su decisión, la Sala consideró que no existían infracciones grotescas de interpretación constitucional ni errores que justificaran la revisión. Se determinó que el Juzgado Cuarto de Primera Instancia había actuado dentro de sus facultades y que la decisión impugnada no contradecía principios jurídicos fundamentales. Por lo tanto, se declaró competente para conocer la solicitud, pero se resolvió que no había lugar a la revisión solicitada.\n\nFinalmente, la Sala declaró que la solicitud de revisión no prosperaba, reafirmando la validez de la sentencia original y la competencia del tribunal para decidir sobre el caso.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "sentencias",
+    "derechos",
+    "jurisdicción",
+    "facultad",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0219_E17-0262.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337785-0219-171024-2024-17-0262.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.072771"
+}

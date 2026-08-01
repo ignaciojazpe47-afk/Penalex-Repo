@@ -1,0 +1,23 @@
+{
+  "id": 45041,
+  "numero": "0034",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 4 de agosto de 2016, que declaró la confesión ficta del demandado en un juicio por cumplimiento de contrato. La Sala encontró violaciones al debido proceso y al derecho de defensa, ya que la citación no se realizó conforme a lo establecido en el contrato. Se anularon la decisión y todos los actos posteriores, ordenando la reposición del caso para realizar las citaciones adecuadas. La medida cautelar acordada previamente fue dejada sin efecto.",
+  "palabras_clave": [
+    "confesión ficta",
+    "cumplimiento de contrato",
+    "derecho de defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0034_E17-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206898-0034-17118-2018-17-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.268894"
+}

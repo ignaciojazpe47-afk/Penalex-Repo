@@ -1,0 +1,22 @@
+{
+  "id": 44639,
+  "numero": "0436",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara SIN LUGAR el recurso de apelación interpuesto por el abogado Pablo López en representación de Vicente Alexander Rebolledo, confirmando la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Corte de Apelaciones fundamentó su decisión en la falta de agotamiento de los recursos ordinarios previos a la acción de amparo, conforme al artículo 6, numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nSe establece que la acción de amparo no debe ser un medio sustitutivo de los recursos procesales ordinarios, y que es inadmisible cuando existen vías judiciales que pueden ser utilizadas para restablecer derechos. La Sala Constitucional reitera que el agraviado debe agotar los medios procesales ordinarios antes de recurrir a la acción de amparo, y en este caso, se concluye que no se agotaron tales recursos.\n\nFinalmente, se ordena la publicación y remisión del expediente al tribunal de origen, dejando constancia de la decisión tomada en el salón de sesiones de la Sala Constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0436_E19-0129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308373-0436-291119-2019-19-0129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.830475"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 54107,
+  "numero": "739",
+  "fecha": "2017-10-25",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 976, declara la nulidad parcial de varios artículos de la Ordenanza de Reforma Parcial de la Ordenanza sobre Ejidos y demás Terrenos Municipales, sancionada por el Concejo Municipal del Municipio Araure, por considerarlos inconstitucionales. Se argumenta que el Concejo Municipal usurpó funciones que corresponden al Alcalde, violando así la Ley Orgánica del Poder Público Municipal y la Constitución de la República Bolivariana de Venezuela.\n\nLa decisión se fundamenta en la falta de competencia del Concejo Municipal para administrar y disponer de terrenos municipales, lo que se traduce en una violación de los principios de separación de poderes y de la autonomía municipal. La Sala establece que el Alcalde es la autoridad competente para gestionar estos asuntos, y que cualquier normativa que contradiga esto es nula.\n\nFinalmente, se ordena la publicación de la sentencia en la Gaceta Oficial y se fijan los efectos del fallo de manera ex tunc, es decir, hacia el pasado, asegurando así la protección de los derechos de los ciudadanos afectados por la aplicación de la ordenanza impugnada.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Concejo Municipal",
+    "ejidos",
+    "competencias"
+  ],
+  "titulo": "Sentencia que declara la nulidad de disposiciones de la Ordenanza sobre Ejidos y Terrenos Municipales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-25_S739_E16-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204460-739-251017-2017-16-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:04.599434"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17539,
+  "numero": "0011",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D´Amelio Cardiet",
+  "resumen": "La Sala Constitucional revisa la solicitud de revisión constitucional presentada por Guillermo Antonio Riut Hernández, en su calidad de Rector de la Universidad Nacional Experimental Marítima del Caribe, contra la sentencia N° 2014-1592 del Juzgado Nacional Primero de la Jurisdicción Contencioso Administrativo. La decisión impugnada declaró improcedente la solicitud de participación en un curso de formación de Primeros Oficiales de la Marina Mercante por parte del ciudadano Jorge Primera Díaz. La Sala considera que se configuró un vicio de falso supuesto de hecho en la valoración de los documentos presentados por el recurrente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "actos administrativos",
+    "títulos de marina mercante"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de acto administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0011_E25-0392.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352669-0011-18226-2026-25-0392.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.060364"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 26874,
+  "numero": "0406",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por Lucía Lismary García Sequera en representación de Leonel Alberto Pérez Rodríguez. Sin embargo, la acción es declarada inadmisible debido a la falta de presentación de la copia de la sentencia impugnada, lo que impide verificar las alegaciones de vulneración de derechos constitucionales. La decisión se fundamenta en los artículos 129 y 133 de la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "decaimiento",
+    "medida cautelar",
+    "justicia",
+    "derechos humanos",
+    "proceso penal",
+    "retardo judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0406_E23-0854.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338178-0406-241024-2024-23-0854.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.320193"
+}

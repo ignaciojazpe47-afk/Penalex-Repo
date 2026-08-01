@@ -1,0 +1,23 @@
+{
+  "id": 54409,
+  "numero": "877",
+  "fecha": "2017-11-03",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la decisión N° RC.000641.",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión N° RC.000641 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. Se argumentó que la decisión de reposición de la causa fue mal decretada, afectando el derecho a la defensa del demandado. La Sala concluyó que hubo una indefensión procesal debido a la incorrecta actuación del defensor ad litem, lo que llevó a la anulación de la decisión impugnada y a la reposición de la causa para que se pronuncie nuevamente sobre el recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indefensión procesal",
+    "defensor ad litem",
+    "anulación de decisión"
+  ],
+  "titulo": "Revisión constitucional de la decisión N° RC.000641 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-03_S877_E15-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/204825-877-31117-2017-15-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.734996"
+}

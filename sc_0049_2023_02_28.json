@@ -1,0 +1,25 @@
+{
+  "id": 28950,
+  "numero": "0049",
+  "fecha": "2023-02-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por Jorge Díaz Méndez. Se establece que ha habido inactividad procesal por parte del demandante durante un lapso de 48 meses, lo que se considera como abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa de dos mil bolívares a la parte accionante por entorpecer las labores del Tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "inactividad",
+    "derechos fundamentales",
+    "abandonos de trámite",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-28_S0049_E18-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322979-0049-28223-2023-18-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.289375"
+}

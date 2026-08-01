@@ -1,0 +1,23 @@
+{
+  "id": 20330,
+  "numero": "0906",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Bancario y el Juzgado Noveno de Primera Instancia de Sustanciación, Mediación y Ejecución del Trabajo, en relación a una acción de amparo constitucional interpuesta por Sandra Lorena Hernández Blanco contra Carlos José Terán Mendoza. La Sala determinó que la competencia para conocer de la demanda corresponde al Juzgado de Primera Instancia Civil de la Circunscripción Judicial del estado Carabobo, debido a la naturaleza civil de la relación arrendaticia entre las partes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "conflicto de competencia",
+    "derecho al trabajo",
+    "arrendamiento"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0906_E25-0427.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344711-0906-11625-2025-25-0427.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.294823"
+}

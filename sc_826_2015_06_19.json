@@ -1,0 +1,24 @@
+{
+  "id": 64710,
+  "numero": "826",
+  "fecha": "2015-06-19",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Corte Primera de lo Contencioso Administrativo que había declarado sin lugar un recurso contencioso administrativo funcionarial sobre la jubilación de oficio del ciudadano José Alexander Aldama Reyes. La Sala encontró que la sentencia impugnada incurrió en vicios que vulneraron derechos constitucionales, como el derecho a la tutela judicial efectiva y el principio in dubio pro operario, al no considerar adecuadamente las normativas aplicables a la jubilación anticipada de funcionarios policiales.\n\nLa Sala declaró con lugar la revisión constitucional, anulando la sentencia de la Corte Primera y ordenando a la Corte Segunda de lo Contencioso Administrativo dictar un nuevo fallo, ajustándose a los criterios establecidos en la presente decisión. Se enfatizó que la jubilación puede ser acordada de oficio, siempre que se garantice el pago máximo de la pensión correspondiente, protegiendo así los derechos del funcionario.\n\nFinalmente, la Sala dejó claro que no le corresponde pronunciarse sobre la reincorporación del solicitante a su cargo anterior, ya que eso escapa a su potestad de revisión, limitándose a corregir las violaciones a los derechos constitucionales detectadas en la sentencia impugnada.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión constitucional",
+    "derechos laborales",
+    "CICPC",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-19_S826_E15-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178811-826-19615-2015-15-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.249071"
+}

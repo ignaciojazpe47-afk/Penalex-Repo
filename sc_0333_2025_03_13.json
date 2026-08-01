@@ -1,0 +1,25 @@
+{
+  "id": 18807,
+  "numero": "0333",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 13 de marzo de 2025, declaró con lugar la acción de amparo constitucional interpuesta por MMG SHIPPING GROUP INC, NÁUTICA AMAZONAS, C.A., y MARÍTIMA SEAMAR, C.A., contra las actuaciones del Juzgado Décimo Tercero de Primera Instancia. La decisión revoca el fallo apelado y declara firme la medida de embargo preventivo sobre los bienes de las empresas solicitantes. Se establece que la acción de amparo es inadmisible debido a que los demandantes contaban con medios procesales ordinarios para proteger sus derechos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "medida cautelar",
+    "embargo",
+    "procedimiento civil",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0333_E24-1260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342280-0333-13325-2025-24-1260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.734393"
+}

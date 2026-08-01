@@ -1,0 +1,24 @@
+{
+  "id": 20635,
+  "numero": "1035",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Anula la decisión emitida por el Tribunal Primero de Primera Instancia de Juicio del Trabajo de la Circunscripción Judicial del estado Bolivariano de Nueva Esparta, del 29 de noviembre de 2022, que estableció el desacato de la sociedad mercantil Pepsi-Cola Venezuela, C.A.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia anula la decisión del Tribunal Primero de Primera Instancia de Juicio del Trabajo que había declarado en desacato a Pepsi-Cola Venezuela, C.A. y ordenado prisión a sus directivos. Se determina que no se garantizó el derecho a la defensa y se ordena reponer el proceso para notificar adecuadamente a los responsables. Además, se ordena continuar con la ejecución del mandamiento de amparo a favor del trabajador Robel Zurita Luces, quien había sido despedido injustificadamente.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Pepsi-Cola Venezuela",
+    "trabajo",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1035_E23-0325.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345304-1035-30625-2025-23-0325.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.512538"
+}

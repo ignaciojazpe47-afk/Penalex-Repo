@@ -1,0 +1,22 @@
+{
+  "id": 23205,
+  "numero": "1859",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 1006, declaró con lugar el recurso de apelación interpuesto por los abogados de Farid Djowrrayed Kahouati, revocando la sentencia de la Sala N° 5 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala constató que la falta de notificación efectiva a la víctima durante la audiencia preliminar constituyó una violación a sus derechos al debido proceso y a la defensa, lo que justificó la admisión del recurso de apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "notificación efectiva"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1859_E23-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350455-1859-261125-2025-23-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.801284"
+}

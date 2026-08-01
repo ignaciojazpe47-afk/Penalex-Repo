@@ -1,0 +1,25 @@
+{
+  "id": 36789,
+  "numero": "0800",
+  "fecha": "2022-10-20",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de nulidad por inconstitucionalidad interpuesta por el ciudadano Ángel Zerpa Aponte contra la Ley Orgánica de Reforma de la Ley Orgánica del Tribunal Supremo de Justicia. La Sala declaró su competencia para conocer del recurso, pero inadmitió la acción propuesta, argumentando que ya se había emitido un pronunciamiento previo sobre la constitucionalidad de la ley cuestionada, lo que constituye cosa juzgada.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "competencia",
+    "Ley Orgánica",
+    "Tribunal Supremo de Justicia",
+    "derechos humanos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-20_S0800_E22-0404.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320054-0800-201022-2022-22-0404.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.099284"
+}

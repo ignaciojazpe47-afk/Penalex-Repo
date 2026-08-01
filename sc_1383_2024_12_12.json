@@ -1,0 +1,24 @@
+{
+  "id": 28479,
+  "numero": "1383",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Graciano Briñez Manzanero en representación de María Alexandra Suárez Cepeda, respecto a la sentencia dictada el 26 de enero de 2024 por el Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Zulia. La inadmisibilidad se fundamenta en la falta de representación adecuada, ya que el poder presentado no cumplía con los requisitos legales establecidos. La Sala reafirma su competencia para conocer de la revisión, pero subraya que la falta de legitimación del abogado impide el avance del proceso.",
+  "palabras_clave": [
+    "nulidad de venta",
+    "resolución de contrato",
+    "procedimiento civil",
+    "tutela judicial",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1383_E24-0617.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340496-1383-121224-2024-24-0617.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.816355"
+}

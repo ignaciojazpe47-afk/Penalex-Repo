@@ -1,0 +1,24 @@
+{
+  "id": 26899,
+  "numero": "0430",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de Tyrone Vicente Serrao Baptista, en contra de la decisión de la Sala n°3 de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La inadmisibilidad se fundamenta en la falta de legitimación de los apoderados judiciales, debido a que el representado no se encontraba a derecho en el proceso penal que le seguía. La Sala argumenta que la falta de estadía a derecho invalida las actuaciones de los abogados y, por ende, la acción de amparo no puede ser admitida.",
+  "palabras_clave": [
+    "apelación",
+    "extradición",
+    "orden de aprehensión",
+    "defensor",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0430_E20-0069.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338208-0430-251024-2024-20-0069.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.479858"
+}

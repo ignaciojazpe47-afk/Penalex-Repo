@@ -1,0 +1,23 @@
+{
+  "id": 29415,
+  "numero": "0154",
+  "fecha": "2023-03-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Franklin Leonardo Duarte y Manuel de Jesús González Marrero contra los Estatutos de COPEI aprobados por la Asamblea Nacional. La Sala, tras analizar la competencia, determinó que no era competente para conocer la demanda, ya que esta debía ser tramitada por la Sala Electoral, dado que se trataba de una actividad electoral del partido político. En consecuencia, declinó la competencia a la Sala Electoral del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "Amparo",
+    "Competencia",
+    "COPEI",
+    "Estatutos"
+  ],
+  "titulo": "Decisión sobre la competencia en la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-21_S0154_E20-0224.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323815-0154-21323-2023-20-0224.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.325733"
+}

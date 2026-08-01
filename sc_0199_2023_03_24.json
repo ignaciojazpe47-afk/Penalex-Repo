@@ -1,0 +1,25 @@
+{
+  "id": 29460,
+  "numero": "0199",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta contra una sentencia de la Sala Tercera de la Corte de Apelaciones que declaró inadmisible una recusación. La defensa argumentó violaciones al debido proceso y a la tutela judicial efectiva. La Sala, tras analizar la inactividad procesal de la parte actora, declaró el abandono del trámite y la terminación del procedimiento, imponiendo una multa a la parte accionante.",
+  "palabras_clave": [
+    "recusación",
+    "debido proceso",
+    "derecho a la defensa",
+    "tutela judicial",
+    "admisibilidad de pruebas",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-24_S0199_E20-0499.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323860-0199-24323-2023-20-0499.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.066805"
+}

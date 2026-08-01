@@ -1,0 +1,26 @@
+{
+  "id": 24112,
+  "numero": "0059",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de febrero de 2024, confirma la inadmisibilidad de la acción de amparo constitucional interpuesta por los abogados de las víctimas contra el Tribunal Quinto de Primera Instancia. La Corte de Apelaciones había declarado inadmisible la acción el 15 de agosto de 2023, argumentando que la supuesta violación de derechos había cesado, ya que el recurso de apelación había sido remitido a la instancia superior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "falta de motivación",
+    "tribunal",
+    "decisión judicial",
+    "corte de apelaciones",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0059_E23-0976.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332414-0059-6224-2024-23-0976.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.574963"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33510,
+  "numero": "1844",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de amparo constitucional interpuesta por Paula Antonietta Puerta Ramírez contra la sentencia del Tribunal Superior que declaró parcialmente con lugar un recurso de apelación en un caso de restitución internacional de su hija. La Sala consideró que la restitución de la menor a España podría poner en riesgo su bienestar emocional y psicológico, dado el contexto de violencia familiar alegado por la madre. Por lo tanto, se declaró sin lugar la solicitud de restitución internacional, priorizando el interés superior de la niña y su permanencia con su madre en Venezuela.",
+  "palabras_clave": [
+    "restitución internacional",
+    "menores",
+    "violencia de género",
+    "interés superior"
+  ],
+  "titulo": "Decisión sobre solicitud de restitución internacional de menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1844_E23-0979.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331379-1844-81223-2023-23-0979.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.465277"
+}

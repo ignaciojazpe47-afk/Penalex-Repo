@@ -1,0 +1,23 @@
+{
+  "id": 62478,
+  "numero": "211",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Segundo que declaró la nulidad de las actas de asambleas de la Iglesia Apostólica Emmanuel. Se argumentó que la sentencia adolecía de incongruencia negativa y violaba el derecho a la defensa y el debido proceso, ya que la iglesia no fue parte en el juicio. La Sala concluyó que la decisión impugnada era nula y que la asociación civil debía ser parte en el proceso, garantizando así su derecho a la defensa. Se declaró con lugar la solicitud de revisión y se anularon las decisiones previas.",
+  "palabras_clave": [
+    "nulidad de asambleas",
+    "derecho a la defensa",
+    "debido proceso",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de nulidad de actas de asambleas de la Iglesia Apostólica Emmanuel",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S211_E14-0305.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175252-211-11315-2015-14-0305.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.356756"
+}

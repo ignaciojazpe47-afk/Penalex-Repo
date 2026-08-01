@@ -1,0 +1,24 @@
+{
+  "id": 45925,
+  "numero": "0207",
+  "fecha": "2018-03-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por los abogados Adrián Guijarro y Freddy Urbina en representación de Yunier Javier Acevedo Morán, contra la decisión de la Corte de Apelaciones del Estado Zulia. La Corte de Apelaciones había declarado la nulidad de actuaciones posteriores a un fallo absolutorio, ordenando la notificación personal del acusado, lo que fue considerado un requisito esencial para la admisibilidad del recurso de apelación. La Sala concluye que no se configuró la violación constitucional alegada por el accionante, ya que la Corte actuó dentro de sus atribuciones y sin abuso de poder.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-12_S0207_E17-1009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208589-0207-12318-2018-17-1009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.693607"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 42215,
+  "numero": "009",
+  "fecha": "2019-02-15",
+  "anio": 2019,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia dictó una decisión sobre la solicitud de extradición activa del ciudadano Luis Carlos Ruíz Arvelo, quien está acusado de homicidio calificado, robo agravado y agavillamiento. La solicitud fue presentada por el Ministerio Público tras la detención del solicitado en España, en virtud de una Notificación Roja de INTERPOL. La Sala declaró su competencia para conocer del caso y consideró que se cumplían los requisitos legales para la extradición, incluyendo la no prescripción de la acción penal y la doble incriminación de los delitos en ambas legislaciones.",
+  "palabras_clave": [
+    "extradición",
+    "homicidio",
+    "robo agravado",
+    "agavillamiento",
+    "INTERPOL"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición activa del ciudadano Luis Carlos Ruíz Arvelo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2019-02-15_S009_E19-4.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/303816-009-15219-2019-E19-4.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:10.821301"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 17530,
+  "numero": "0041",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero que había declarado con lugar la acción de amparo constitucional interpuesta por Héctor Eduardo Reglero Montaner contra Universal Music Publishing Venezuela, S.A. La Sala determinó que la acción de amparo era inadmisible por caducidad, ya que el demandante había tenido conocimiento de la situación desde octubre de 2023 y no había actuado en el plazo establecido por la ley. Además, se concluyó que no existían violaciones de derechos constitucionales que justificaran la admisión del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "revisión constitucional",
+    "derechos de autor",
+    "caducidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0041_E25-1321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352721-0041-18226-2026-25-1321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.069017"
+}

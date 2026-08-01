@@ -1,0 +1,25 @@
+{
+  "id": 21674,
+  "numero": "1421",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de apelación interpuesto por los abogados Gloria Pinho y Nelson Barrios en representación de Maury Carolina Carrero, contra una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala constató que la acción de amparo era inadmisible debido a que la supuesta violación de derechos había cesado, ya que el Juez de instancia se había pronunciado sobre las solicitudes de revisión de medida cautelar. Por lo tanto, se confirmó la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "inadmisibilidad",
+    "constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1421_E20-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347292-1421-7825-2025-20-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.036517"
+}

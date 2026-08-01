@@ -1,0 +1,26 @@
+{
+  "id": 23216,
+  "numero": "1870",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de noviembre de 2025, declaró inadmisible la acción de amparo interpuesta por Donatina D Andrea De Pepe y Karolin Pepe D Andrea contra Alejandro Donato Pepe D Andrea. La Sala argumentó que existían vías ordinarias que debieron ser agotadas antes de recurrir al amparo constitucional, lo que llevó a la nulidad de la decisión del Juzgado Superior Quinto que había declarado sin lugar el recurso de apelación. La sentencia reafirma la importancia de respetar los procedimientos ordinarios en la resolución de conflictos societarios.",
+  "palabras_clave": [
+    "amparo",
+    "accionistas",
+    "autonomía",
+    "derechos",
+    "sociedades",
+    "constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1870_E24-0987.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350466-1870-261125-2025-24-0987.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.052488"
+}

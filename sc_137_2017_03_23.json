@@ -1,0 +1,24 @@
+{
+  "id": 50717,
+  "numero": "137",
+  "fecha": "2017-03-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos juzgados de la Circunscripción Judicial del Estado Monagas, respecto a una acción de amparo constitucional interpuesta por la sociedad mercantil MONAGAS DEALER, C.A. contra un grupo de trabajadores que obstaculizaban su actividad económica. Ambos juzgados se declararon incompetentes, lo que llevó a la Sala a decidir sobre la competencia para conocer del caso.\nLa Sala determinó que, dado el nexo laboral entre la empresa demandante y los trabajadores, corresponde a los tribunales laborales conocer de la acción de amparo. En consecuencia, se declaró competente para conocer del conflicto y se ordenó la remisión del expediente al Juzgado Segundo de Primera Instancia de Juicio del Nuevo Régimen Procesal del Trabajo, además de declarar la nulidad de la sentencia previa que admitió la acción de amparo por parte del juzgado civil.\nFinalmente, la Sala resolvió que el Juzgado de Trabajo deberá pronunciarse sobre la admisibilidad del amparo y, de ser el caso, sustanciarlo en primera instancia.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "derecho a la actividad económica",
+    "Juzgado de Trabajo",
+    "Estado Monagas"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-23_S137_E16-0666.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/197119-137-23317-2017-16-0666.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.242127"
+}

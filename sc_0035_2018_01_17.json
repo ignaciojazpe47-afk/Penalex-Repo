@@ -1,0 +1,25 @@
+{
+  "id": 45044,
+  "numero": "0035",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 17 de enero de 2018, declaró inadmisible la solicitud de revisión interpuesta por Luis Alberto Rodríguez Castillo contra la sentencia del 20 de junio de 2016, emitida por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Lara. La solicitud de revisión se fundamentó en la alegación de incongruencia en la sentencia impugnada, que había declarado sin lugar la apelación interpuesta por el demandante contra una sentencia anterior que resolvía un contrato de opción de compra-venta.\n\nLa Sala consideró que la sentencia impugnada no cumplía con el requisito de ser definitivamente firme, dado que había sido objeto de un recurso de casación que fue declarado sin lugar. Por lo tanto, la Sala Constitucional determinó que no era competente para conocer la solicitud de revisión, desestimando así el recurso presentado por el solicitante.\n\nFinalmente, se ordenó la publicación y registro de la decisión, archivando el expediente correspondiente.",
+  "palabras_clave": [
+    "contrato",
+    "resolución",
+    "compra-venta",
+    "obligaciones",
+    "hipoteca",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0035_E17-0847.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206901-0035-17118-2018-17-0847.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.263563"
+}

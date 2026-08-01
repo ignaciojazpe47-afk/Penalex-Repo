@@ -1,0 +1,26 @@
+{
+  "id": 33157,
+  "numero": "1666",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Dixon Pérez Mota en representación de Alfonso Sánchez Ruisanchez. La decisión se fundamenta en la falta de legitimidad del apoderado judicial para actuar en nombre de la víctima, ya que no presentó el poder especial requerido por la ley. La Sala enfatiza que la legitimidad es un requisito sine qua non para la admisión de recursos en materia penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "copia certificada",
+    "tutela judicial",
+    "derechos constitucionales",
+    "procedimiento",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1666_E23-0172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330833-1666-301123-2023-23-0172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.963862"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 19941,
+  "numero": "0772",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por Repsol Venezuela, S.A. respecto a la sentencia N° 0398 de la Sala de Casación Social. Sin embargo, se determina que la solicitud es inadmisible por existir cosa juzgada, dado que la Sala ya se pronunció sobre la constitucionalidad de la sentencia en cuestión. La decisión se basa en el principio de cosa juzgada, que impide que se reexamine un fallo ya decidido, independientemente de que las partes sean diferentes.",
+  "palabras_clave": [
+    "indemnización",
+    "despido",
+    "obra determinada",
+    "Ley Orgánica del Trabajo",
+    "justificación",
+    "contrato",
+    "trabajadores"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0772_E21-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344204-0772-28525-2025-21-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.861296"
+}

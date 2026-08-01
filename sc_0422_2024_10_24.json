@@ -1,0 +1,26 @@
+{
+  "id": 26890,
+  "numero": "0422",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados Jean Rosmer Tuarez y Tanimar Medina Quintero en representación de varios ciudadanos, en contra de la Oficina Nacional Contra la Delincuencia Organizada y Financiamiento al Terrorismo (ONCDOFT) y el Servicio Bolivariano de Inteligencia Nacional (SEBIN), por incumplimiento de una orden judicial de devolución de bienes. La Sala, tras analizar la competencia, declaró su incompetencia para conocer del caso, remitiendo el expediente al Juzgado Superior Estadal en lo Contencioso Administrativo de la Circunscripción Judicial del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción contencioso administrativa",
+    "derechos constitucionales",
+    "actos administrativos",
+    "competencia",
+    "legalidad",
+    "devolución de bienes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0422_E22-0476.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338194-0422-241024-2024-22-0476.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.491091"
+}

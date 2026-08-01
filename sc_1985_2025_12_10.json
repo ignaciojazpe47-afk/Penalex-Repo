@@ -1,0 +1,27 @@
+{
+  "id": 23695,
+  "numero": "1985",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis la referida acción de amparo constitucional.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Herlander Giovanni Ferreira Pacífico, presidente de la compañía anónima 'La Roscio de la Encrucijada, C.A.', contra la sentencia dictada el 12 de diciembre de 2023, que confirmó la decisión de desalojo de un local comercial. La Sala determina que la acción no cumple con los requisitos de admisibilidad establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad",
+    "tutela judicial",
+    "incongruencia",
+    "Código Procesal Civil",
+    "sentencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1985_E24-0906.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351694-1985-101225-2025-24-0906.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743269"
+}

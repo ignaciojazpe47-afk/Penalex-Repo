@@ -1,0 +1,25 @@
+{
+  "id": 24116,
+  "numero": "0063",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 0920, dictada el 6 de febrero de 2024, se pronunció sobre la solicitud de revisión interpuesta por Jorge Gómez Coello, en relación a la sentencia de la Sala Político-Administrativa que declaró que el Poder Judicial venezolano no tenía jurisdicción para conocer de la demanda por cumplimiento de contrato de préstamo. La Sala Constitucional determinó su competencia para conocer la solicitud, pero declaró no ha lugar a la misma, argumentando que no se evidencian violaciones a derechos constitucionales ni errores en la interpretación de la ley por parte de la Sala Político-Administrativa.",
+  "palabras_clave": [
+    "jurisdicción",
+    "contrato",
+    "préstamo",
+    "derecho internacional",
+    "competencia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia en materia de jurisdicción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0063_E23-1231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332418-0063-6224-2024-23-1231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.576860"
+}

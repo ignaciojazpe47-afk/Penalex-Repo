@@ -1,0 +1,27 @@
+{
+  "id": 28493,
+  "numero": "1398",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana María Mercedes Tibisay Martínez Verastegui interpuso una acción de amparo constitucional contra la Dirección para la Defensa de La Mujer del Ministerio Público y la Fiscalía 144° por la presunta vulneración de su derecho de acceso a la justicia. La Sala Constitucional, tras analizar el caso, determinó que no era competente para conocer de la acción interpuesta, declinando la competencia a un Tribunal de Juicio del Circuito Judicial Penal de la Circunscripción Judicial del Área Metropolitana de Caracas. La decisión se fundamenta en la naturaleza del derecho vulnerado y la competencia territorial correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "justicia",
+    "violencia",
+    "constitucional",
+    "fiscal",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1398_E24-0831.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340516-1398-121224-2024-24-0831.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.203020"
+}

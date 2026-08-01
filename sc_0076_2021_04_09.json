@@ -1,0 +1,23 @@
+{
+  "id": 38396,
+  "numero": "0076",
+  "fecha": "2021-04-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por Humberto José Agudo Pérez contra la omisión del Instituto Venezolano de los Seguros Sociales en el pago de pensiones. La Sala determina que la competencia corresponde al Juzgado Superior Estadal de lo Contencioso Administrativo de la Circunscripción Judicial del Estado Lara, dado que la acción se basa en derechos individuales y no en intereses colectivos o difusos. La decisión se fundamenta en la falta de acreditación de la representación de un grupo determinado de pensionados.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Intereses Colectivos",
+    "Pensiones",
+    "Incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por intereses colectivos y difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-09_S0076_E18-0658.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311631-0076-9421-2021-18-0658.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.743599"
+}

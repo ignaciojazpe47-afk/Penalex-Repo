@@ -1,0 +1,23 @@
+{
+  "id": 41396,
+  "numero": "0108",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de revisión constitucional presentada por Ronari Marina Blanco Álvarez, en relación a decisiones de un Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Lara. La solicitante alegó violaciones a sus derechos a la tutela judicial efectiva y al debido proceso, argumentando que no tuvo acceso al expediente del caso desde febrero de 2018.\n\nLa Sala, tras analizar la solicitud y la competencia para conocer del caso, decidió ordenar al Juzgado Primero de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito de Protección de Niños, Niñas y Adolescentes que remita el expediente original de la causa. Se estableció un plazo para el cumplimiento de esta orden, advirtiendo sobre las sanciones en caso de incumplimiento.\n\nFinalmente, se ordenó la notificación del Juzgado para asegurar el cumplimiento de lo dispuesto, garantizando así la tutela de los derechos constitucionales involucrados en la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "protección de niños"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0108_E18-0743.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310047-0108-14820-2020-18-0743.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.111072"
+}

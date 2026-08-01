@@ -1,0 +1,24 @@
+{
+  "id": 30817,
+  "numero": "0765",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de nulidad interpuesta por los ciudadanos Alberto José Zanardi Gómez e Iván Cristóbal Delima Seijas contra varias reformas de ordenanzas municipales que consideraron inconstitucionales. Los demandantes argumentaron que las reformas impositivas vulneran principios constitucionales de proporcionalidad y progresividad del tributo, afectando gravemente su actividad comercial y la de otros comerciantes en el municipio. La Sala, tras analizar la competencia y los fundamentos de la demanda, decidió declarar la nulidad de las reformas impugnadas y ordenó las notificaciones pertinentes.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "ordenanzas",
+    "municipio",
+    "competencia",
+    "control constitucional"
+  ],
+  "titulo": "Sentencia sobre nulidad de reformas municipales en el Municipio Libertador",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0765_E23-0292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326036-0765-9623-2023-23-0292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.426949"
+}

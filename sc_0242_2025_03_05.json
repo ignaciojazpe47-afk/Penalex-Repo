@@ -1,0 +1,26 @@
+{
+  "id": 18696,
+  "numero": "0242",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena a la Secretaría de esta Sala Constitucional que oficie a la Rectoría Civil de la Circunscripción Judicial del estado La Guaira.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de revisión constitucional presentada por los ciudadanos José Goncalves Ferreira y Anginson José Alves de Gouveia, a través de su apoderado judicial, Elio Enrique Castrillo Carrillo. La solicitud se refiere a una sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito del estado Vargas, que había declarado con lugar un recurso de apelación y decidido sobre una acción de retracto legal entre comuneros.\n\nEn la decisión, la Sala Constitucional determinó su competencia para conocer la solicitud y consideró pertinente requerir información adicional para verificar las alegaciones de violaciones de derechos constitucionales. Se ordenó a la Secretaría de la Sala que oficie a la Rectoría Civil del estado La Guaira para que remita un informe detallado sobre la decisión del Juzgado Superior, así como los elementos necesarios para el análisis del caso.\n\nFinalmente, se estableció un plazo para la remisión de la información solicitada y se ordenó la notificación de la sentencia de forma telefónica, conforme a lo dispuesto en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "interpretación constitucional",
+    "jurisdicción",
+    "competencia",
+    "violación de derechos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0242_E17-0507.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342120-0242-5325-2025-17-0507.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.874235"
+}

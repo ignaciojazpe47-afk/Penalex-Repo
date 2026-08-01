@@ -1,0 +1,24 @@
+{
+  "id": 18181,
+  "numero": "0032",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de febrero de 2025, declaró competente para conocer la solicitud de revisión constitucional presentada por el abogado Omar Ramón Patriz Jiménez, en representación de los ciudadanos Edwin José Camejo Larez, Jhon Carlos Salazar Centeno y Williams Óscar Bello Arvelaez. La solicitud se refería a una sentencia dictada el 21 de septiembre de 2020 por el Juzgado Segundo de Primera Instancia en funciones de Control del Estado Delta Amacuro, que había condenado a los mencionados ciudadanos por tráfico ilícito de drogas.\n\nLa Sala, tras analizar los alegatos, concluyó que no había lugar para la revisión constitucional, ya que no se evidenció vulneración de derechos fundamentales ni interpretación errónea de normas constitucionales. Se determinó que el tribunal de instancia actuó conforme a derecho y que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales.\n\nFinalmente, se confirmó la decisión del tribunal de instancia y se ordenó el archivo del expediente.",
+  "palabras_clave": [
+    "revisión",
+    "cosa juzgada",
+    "interpretación constitucional",
+    "seguridad jurídica",
+    "facultad discrecional"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0032_E23-0829.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341197-0032-5225-2025-23-0829.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.566852"
+}

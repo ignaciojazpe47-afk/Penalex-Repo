@@ -1,0 +1,23 @@
+{
+  "id": 19202,
+  "numero": "0447",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Fernando José Montilla Pantoja, en relación a la sentencia del Tribunal Superior Octavo que declaró con lugar la demanda de desalojo y condenó al pago de cánones arrendaticios. La Sala determinó que la acumulación de pretensiones de desalojo y cobro de cánones no constituye inepta acumulación, ya que ambas pretensiones son conexas y derivan de la misma relación contractual. Finalmente, se declaró no ha lugar la solicitud de revisión, confirmando la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "desalojo",
+    "acumulación de pretensiones",
+    "revisión constitucional",
+    "cánones arrendaticios"
+  ],
+  "titulo": "Revisión Constitucional sobre desalojo y acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0447_E24-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342831-0447-1425-2025-24-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.605634"
+}

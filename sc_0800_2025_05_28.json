@@ -1,0 +1,25 @@
+{
+  "id": 20000,
+  "numero": "0800",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por la abogada Yoleide Nagari Batista Muchacho, actuando como apoderada judicial del ciudadano Giordano Severino Micozzi Vagnoni, contra la decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del estado Aragua, que declaró inadmisible la acción de amparo constitucional. La Sala Constitucional revocó dicha decisión, considerando que la acción de amparo era procedente y que la negativa de las copias solicitadas por la abogada constituía una violación a los derechos fundamentales del demandante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "debido proceso",
+    "tutela judicial",
+    "constitución",
+    "acción judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0800_E24-0809.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344278-0800-28525-2025-24-0809.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.848787"
+}

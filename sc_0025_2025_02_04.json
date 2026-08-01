@@ -1,0 +1,26 @@
+{
+  "id": 18171,
+  "numero": "0025",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia del Juzgado Superior Cuarto en lo Civil, Mercantil, del Tránsito y Bancario del Estado Táchira, que había declarado con lugar un recurso de apelación y revocado una sentencia anterior. La decisión original condenaba a la demandada, Alicia Rosa Florez Durán, a entregar un local comercial y a pagar indemnizaciones por el uso del inmueble. La revisión se fundamentó en alegaciones de violaciones al debido proceso y a derechos constitucionales por parte del demandante, Gleyder Irving Galvis Jaimes.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "indemnización",
+    "contrato",
+    "mora",
+    "experticia",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión de desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0025_E24-1116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341171-0025-4225-2025-24-1116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.570744"
+}

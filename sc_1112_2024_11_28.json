@@ -1,0 +1,24 @@
+{
+  "id": 28023,
+  "numero": "1112",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Dra. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la sociedad mercantil C.A. CENTRAL LA PASTORA contra la decisión del Juzgado Superior Primero del Trabajo que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que el accionante había optado por recurrir a las vías ordinarias, lo que excluye la posibilidad de amparo. La decisión se basa en la falta de justificación del uso del amparo en lugar de los recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "recurso de apelación",
+    "acción de amparo",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1112_E24-0062.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339692-1112-281124-2024-24-0062.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.481903"
+}

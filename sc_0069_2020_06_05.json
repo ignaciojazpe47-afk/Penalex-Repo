@@ -1,0 +1,24 @@
+{
+  "id": 41226,
+  "numero": "0069",
+  "fecha": "2020-06-05",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del TSJ dictó la sentencia número 0068, admitiendo la demanda por omisión legislativa presentada por varios ciudadanos contra la Asamblea Nacional. Se declara que el desacato de la Asamblea se mantiene, invalidando todos los actos relacionados con la designación de los rectores del Consejo Nacional Electoral. La decisión ordena al CNE convocar elecciones y desaplica varios artículos de la Ley Orgánica de Procesos Electorales.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "asamblea nacional",
+    "consejo nacional electoral",
+    "desacato",
+    "comicios"
+  ],
+  "titulo": "Sentencia sobre omisión legislativa de la Asamblea Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-10_S0069_E20-0215.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309871-0069-10620-2020-20-0215.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.124563"
+}

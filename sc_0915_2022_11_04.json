@@ -1,0 +1,26 @@
+{
+  "id": 37217,
+  "numero": "0915",
+  "fecha": "2022-11-04",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Daniel Alexander Zapata Zuria, quien actuó en su propio nombre y como representante legal de la empresa Sublimania's C.A. contra una decisión del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito del Estado Aragua que declaró improponible su acción de amparo. La Sala consideró que la acción de amparo era procedente, ya que se denunciaba la falta de tramitación del recurso de apelación y la no remisión de copias certificadas al tribunal superior, lo que vulneraba el derecho a la defensa y al debido proceso del apelante.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "derechos",
+    "constitucionales",
+    "debido_proceso",
+    "jurisdicción",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-04_S0915_E19-0730.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320603-0915-41122-2022-19-0730.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.406305"
+}

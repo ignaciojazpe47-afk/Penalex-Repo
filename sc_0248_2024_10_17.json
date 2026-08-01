@@ -1,0 +1,23 @@
+{
+  "id": 26632,
+  "numero": "0248",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la acción de amparo constitucional interpuesta por los abogados de Adriannis del Jesús Copeland Ramos. Se determinó que la Corte de Apelaciones en Materia de Delitos de Violencia Contra la Mujer del Estado Bolívar es el tribunal competente para conocer el caso, dado que la acción de amparo se dirigió contra una decisión judicial de un tribunal de primera instancia. La Sala declaró que la solicitud de amparo era admisible y que la privación de libertad de la ciudadana fue ilegítima, ordenando su libertad plena.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "violación de derechos",
+    "Estado Bolívar"
+  ],
+  "titulo": "Decisión sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0248_E23-0264.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337814-0248-171024-2024-23-0264.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.070817"
+}

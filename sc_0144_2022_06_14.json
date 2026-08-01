@@ -1,0 +1,26 @@
+{
+  "id": 35033,
+  "numero": "0144",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia RC-000483, declaró sin lugar la solicitud de revisión constitucional presentada por Juvenal de Jesús Pinto Pereira, en relación a la decisión de la Sala de Casación Civil que había declarado sin lugar su recurso de casación. La Sala Constitucional argumentó que la revisión no es un medio para corregir injusticias, sino para mantener la uniformidad de criterios constitucionales. Se destacó que el derecho a la defensa y el debido proceso fueron respetados durante el procedimiento, y que la decisión de la Sala de Casación Civil fue motivada y congruente, desestimando así las alegaciones de vicios procesales presentadas por el recurrente.",
+  "palabras_clave": [
+    "inmotivación",
+    "técnica casacional",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "indeterminación subjetiva",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0144_E21-0827.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317329-0144-14622-2022-21-0827.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.637057"
+}

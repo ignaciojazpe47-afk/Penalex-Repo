@@ -1,0 +1,23 @@
+{
+  "id": 3075,
+  "numero": null,
+  "fecha": "2004-02-16",
+  "anio": 2004,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JOSÉ MANUEL DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Claudio Ramón Betancourt Liscano, en representación de los estudiantes de la Unidad Experimental Puerto Ordaz de la Universidad de Oriente, contra la decisión del Consejo del Núcleo Bolívar que suspendió actividades académicas. La Sala fundamenta su decisión en que la causa que motivó la suspensión, el 'paro cívico nacional', ha cesado y las actividades han sido reiniciadas, configurándose así la causal de inadmisibilidad por cesación de la violación denunciada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "educación",
+    "universidad",
+    "suspensión de actividades"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional interpuesta por estudiante universitario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-02-16_Constitucional_03.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.401195"
+}

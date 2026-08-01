@@ -1,0 +1,23 @@
+{
+  "id": 41229,
+  "numero": "0072",
+  "fecha": "2020-06-16",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los ciudadanos José Dionisio Brito y Conrado Pérez Linares, quienes denunciaron violaciones a sus derechos políticos por parte de las autoridades del partido 'Movimiento Primero Justicia'. Se argumentó que fueron sancionados sin el debido proceso, lo que constituyó una violación grave a sus derechos constitucionales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Movimiento Primero Justicia",
+    "Derechos Políticos",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre suspensión de militancia en el partido Primero Justicia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-16_S0072_E20-0026.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309874-0072-16620-2020-20-0026.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.120975"
+}

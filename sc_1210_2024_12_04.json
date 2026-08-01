@@ -1,0 +1,24 @@
+{
+  "id": 28250,
+  "numero": "1210",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Andrés Hermoleo Márquez Delgado contra una decisión de la Corte de Apelaciones. La Sala determinó su competencia para conocer el caso y ordenó al Juez del Juzgado Vigésimo Quinto que informe sobre la celebración de la audiencia preliminar pendiente en la causa. Se estableció un plazo de cinco días para el cumplimiento de esta orden.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "audiencia",
+    "juzgado",
+    "decisión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1210_E23-1096.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340146-1210-41224-2024-23-1096.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.050384"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20648,
+  "numero": "1047",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional presentada por Héctor Rafael Cabello Flores en representación de Lilian Josefina Alcalá Cayama, debido a la presunta omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón. La decisión se fundamenta en que la situación jurídica alegada como infringida había cesado tras la decisión de la Corte de Apelaciones del 26 de mayo de 2025, que resolvió el recurso de apelación interpuesto por el abogado.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "omisión",
+    "Corte de Apelaciones",
+    "derechos constitucionales",
+    "inadmibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1047_E25-0253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345320-1047-30625-2025-25-0253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.872344"
+}

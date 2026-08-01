@@ -1,0 +1,22 @@
+{
+  "id": 38161,
+  "numero": "0005",
+  "fecha": "2020-12-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La sentencia N° 0381 de la Sala Constitucional del TSJ se pronuncia sobre la solicitud de revisión constitucional interpuesta por Sergio Arancibia, en su calidad de Presidente de la Respetable Logia Esperanza 7 del Este, contra una decisión del Juzgado Vigésimo que declaró sin lugar una acción reivindicatoria. La Sala, tras analizar las pruebas y alegaciones, concluye que la decisión del juzgado inferior fue errónea al valorar las pruebas, afectando el derecho a la propiedad del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción reivindicatoria",
+    "derecho a la propiedad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-02-08_S0005_E17-1222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/311283-0005-8221-2021-17-1222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.403036"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 37571,
+  "numero": "1047",
+  "fecha": "2022-11-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jorge Luis Ramos Rojas y Juan Bernardo Escalona Escalona, por falta de legitimidad. Se argumenta que no se demostró la representación adecuada de los demandantes ni se aportaron pruebas que validen su capacidad para actuar en nombre del otro. La jurisprudencia establece que la acción de amparo debe ser presentada por quien se aduce como agraviado, y en este caso, no se cumplió con los requisitos necesarios para su admisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimidad",
+    "proceso penal",
+    "jurisprudencia",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-24_S1047_E19-0740.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321002-1047-241122-2022-19-0740.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.461934"
+}

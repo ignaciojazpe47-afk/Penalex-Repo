@@ -1,0 +1,22 @@
+{
+  "id": 40467,
+  "numero": "0653",
+  "fecha": "2020-01-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 474, confirma la decisión de la Sala Diez de la Corte de Apelaciones que declaró inadmisible la acción de amparo interpuesta por el abogado Pedro Víctor Réquiz Cisneros en representación de Juan Eduardo Atencio Martínez. La inadmisibilidad se fundamentó en la falta de legitimación del abogado para actuar en nombre del agraviado, al no presentar el acta de juramentación correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0653_E17-0605.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314729-0653-261121-2021-17-0605.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.802132"
+}

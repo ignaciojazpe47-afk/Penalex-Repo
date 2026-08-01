@@ -1,0 +1,25 @@
+{
+  "id": 26873,
+  "numero": "0405",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por María de Jesús Machado Barrios en representación de su hijo, Jesús Herrera Machado, en un caso penal que involucra delitos de asociación para delinquir y otros. La Sala declaró su incompetencia para conocer de la solicitud, argumentando que el asunto debía ser tratado por la Sala de Casación Penal, dado que la naturaleza del caso se relaciona con la justicia penal y no con la constitucional. Finalmente, se declinó el conocimiento de la causa a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "nulidad",
+    "acusación",
+    "ministerio público",
+    "tutela judicial",
+    "apelación",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0405_E23-0804.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338177-0405-241024-2024-23-0804.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.318802"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16197,
+  "numero": "0186",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró procedente la acción de amparo interpuesta por Pedro José Varela Milos contra una decisión del Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario de Carabobo. La sentencia recurrida había admitido una reconvención que generaba un desorden procesal y violaba el debido proceso, al no considerar adecuadamente los recursos de apelación pendientes. La Sala anuló la decisión impugnada y ordenó la acumulación de los recursos de apelación interpuestos, reponiendo la causa para que otro Juzgado Superior decidiera nuevamente sobre los recursos.",
+  "palabras_clave": [
+    "reconvencion",
+    "inepta acumulacion",
+    "daños",
+    "contrato",
+    "procedimiento civil",
+    "legitimacion",
+    "derecho",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0186_E22-0555.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353182-0186-2326-2026-22-0555.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.599937"
+}

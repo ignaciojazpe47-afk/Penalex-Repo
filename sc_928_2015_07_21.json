@@ -1,0 +1,24 @@
+{
+  "id": 65310,
+  "numero": "928",
+  "fecha": "2015-07-21",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 25 de mayo de 1971 por el Juzgado Militar de Primera Instancia Permanente de Maturín, que declaró terminada la averiguación sumarial sobre la muerte de Santos Martiarena, considerando que los hechos no revisten carácter punible. El Ministerio Público solicitó la revisión argumentando violaciones a derechos humanos y la existencia de pruebas que evidencian la materialidad de delitos de lesa humanidad. La Sala decidió anular la sentencia de 1971 y ordenar la reapertura de la investigación penal.",
+  "palabras_clave": [
+    "derechos humanos",
+    "revisión constitucional",
+    "sentencia",
+    "impunidad",
+    "lesa humanidad"
+  ],
+  "titulo": "Revisión de sentencia por violaciones a derechos humanos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-21_S928_E14-0822.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179810-928-21715-2015-14-0822.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.459725"
+}

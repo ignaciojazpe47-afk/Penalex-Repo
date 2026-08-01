@@ -1,0 +1,23 @@
+{
+  "id": 65250,
+  "numero": "889",
+  "fecha": "2015-07-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de octubre de 2012 por el Juzgado Superior Cuarto del Trabajo, que había declarado parcialmente con lugar un recurso de apelación. El demandante argumentó que se habían violado principios constitucionales en la valoración de pruebas, específicamente en relación a la tacha de documentos. La Sala concluyó que el Juzgado de Alzada no justificó adecuadamente su decisión de desestimar el informe pericial sobre la falsedad de documentos, lo que llevó a la anulación de la sentencia y a la orden de que un nuevo Juzgado se pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "tacha de documentos",
+    "principios constitucionales"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-20_S889_E15-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179713-889-20715-2015-15-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.470062"
+}

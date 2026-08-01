@@ -1,0 +1,25 @@
+{
+  "id": 35041,
+  "numero": "0152",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Luis Alfredo Lemus Sifontes en nombre de Antonio José Maldonado Toyo. La solicitud se refiere a una decisión del Juzgado Nacional Segundo Contencioso Administrativo que revocó un fallo anterior y declaró sin lugar un recurso contencioso administrativo funcionarial. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada del poder que acredite la representación del solicitante.",
+  "palabras_clave": [
+    "vicio administrativo",
+    "falso supuesto",
+    "anulabilidad",
+    "jurisprudencia",
+    "derechos subjetivos",
+    "decisión administrativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0152_E20-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317340-0152-14622-2022-20-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.634642"
+}

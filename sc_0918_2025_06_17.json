@@ -1,0 +1,25 @@
+{
+  "id": 20367,
+  "numero": "0918",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0609, declaró inadmisible sobrevenidamente la acción de amparo constitucional interpuesta por Mary Luz Giannetti León contra la sentencia del 10 de junio de 2022, emitida por el Tribunal Superior Tercero. La acción se fundamentó en la alegación de vulneración de derechos constitucionales en el contexto de un juicio de divorcio y medidas cautelares sobre bienes comunes. Sin embargo, se determinó que las circunstancias que dieron origen a la acción de amparo habían cesado, ya que se había dictado sentencia definitiva de divorcio y levantado las medidas cautelares.",
+  "palabras_clave": [
+    "divorcio",
+    "tutela judicial",
+    "derechos constitucionales",
+    "medida cautelar",
+    "bienes",
+    "proceso judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0918_E22-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344879-0918-17625-2025-22-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.314226"
+}

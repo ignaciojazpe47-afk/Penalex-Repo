@@ -1,0 +1,24 @@
+{
+  "id": 30228,
+  "numero": "0447",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUAREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados David Páez y Jennis Reyes en representación de Mario Marcial Pérez Franco. La decisión se basa en la falta de legitimidad de los abogados, quienes no presentaron el poder que acreditara su representación legal. La Sala establece que para interponer un amparo, es necesario que el abogado tenga un mandato o poder auténtico y suficiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "defensores",
+    "legitimidad",
+    "proceso penal",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0447_E22-0933.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325068-0447-15523-2023-22-0933.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.885317"
+}

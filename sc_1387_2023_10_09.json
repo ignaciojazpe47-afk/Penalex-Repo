@@ -1,0 +1,25 @@
+{
+  "id": 32158,
+  "numero": "1387",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "NO TIENE COMPETENCIA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de nulidad contra el artículo 8 de los estatutos de la Asociación de Productores Rurales de Turén, alegando inconstitucionalidad por discriminación en la participación de los asociados. Tras el análisis, la Sala determinó que no tiene competencia para conocer del recurso, ya que se trata de una norma estatutaria de una asociación civil, lo que corresponde a los Juzgados de Primera Instancia en lo Civil. La decisión fue publicada y se ordenó remitir el expediente al juzgado competente.",
+  "palabras_clave": [
+    "competencia",
+    "nulidad",
+    "asociaciones civiles",
+    "control constitucional",
+    "tribunales civiles",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad contra estatutos de asociación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-09_S1387_E22-0974.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/328977-1387-91023-2023-22-0974.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.407898"
+}

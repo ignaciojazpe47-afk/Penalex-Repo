@@ -1,0 +1,24 @@
+{
+  "id": 49752,
+  "numero": "0793",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Margarita Tandioy Jajoy contra la orden de captura emitida por el Tribunal Sexto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Aragua. La decisión se basa en la extemporaneidad del recurso de apelación presentado por la demandante, quien alegó violaciones a sus derechos fundamentales en el proceso penal de su hijo, Darwin Javier Boyer Tandioy.\n\nLa Sala establece que el recurso de apelación fue interpuesto fuera del plazo legal de tres días, lo que lleva a confirmar la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. Se enfatiza la importancia de respetar los plazos procesales para garantizar el debido proceso y la tutela judicial efectiva.\n\nFinalmente, se declara firme la sentencia de la Corte de Apelaciones y se ordena el cumplimiento de lo dispuesto, remitiendo el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Fundamentales",
+    "Debido Proceso",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0793_E26-0034.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356491-0793-10626-2026-26-0034.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.932058"
+}

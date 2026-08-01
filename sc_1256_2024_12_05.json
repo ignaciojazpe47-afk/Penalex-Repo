@@ -1,0 +1,26 @@
+{
+  "id": 28298,
+  "numero": "1256",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara sin lugar el recurso de apelación interpuesto contra la decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal de Miranda, que había declarado inadmisible la acción de amparo constitucional. Se argumenta que el accionante no agotó las vías ordinarias para impugnar la decisión judicial, lo que lleva a la inadmisibilidad de la acción de amparo. Además, se confirma que los ciudadanos involucrados se encuentran privados de libertad legítimamente tras una sentencia condenatoria.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo",
+    "libertad personal",
+    "debido proceso",
+    "derechos constitucionales",
+    "justicia",
+    "circuito judicial"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1256_E18-0271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340212-1256-51224-2024-18-0271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.230055"
+}

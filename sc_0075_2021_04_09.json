@@ -1,0 +1,26 @@
+{
+  "id": 38397,
+  "numero": "0075",
+  "fecha": "2021-04-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por Orlando Pacheco Padrón, actuando como apoderado judicial de la sociedad mercantil P.L. Fundición, C.A., contra la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Aragua, que declaró inadmisible la acción de amparo constitucional. La Sala consideró que el apelante no agotó los recursos ordinarios disponibles para impugnar la medida cautelar dictada en su contra, lo que llevó a la inadmisibilidad de su acción de amparo.\n\nLa decisión se fundamenta en la falta de uso de los medios judiciales ordinarios, como la oposición a la medida cautelar, que debió ser ejercida dentro del plazo establecido. La Sala reafirmó que el amparo constitucional no es un recurso sustituto de los medios ordinarios y que la acción de amparo solo es procedente cuando no existen vías judiciales adecuadas para restablecer los derechos vulnerados.\n\nFinalmente, la Sala declaró sin lugar la apelación y confirmó la decisión del juzgado inferior, manteniendo la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "medida cautelar",
+    "derechos constitucionales",
+    "debido proceso",
+    "actividad económica",
+    "libertad de trabajo",
+    "acción de amparo",
+    "derecho de propiedad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-09_S0075_E18-0609.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311632-0075-9421-2021-18-0609.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.739581"
+}

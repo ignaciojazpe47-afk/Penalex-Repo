@@ -1,0 +1,25 @@
+{
+  "id": 33798,
+  "numero": "1945",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un escrito de amparo constitucional interpuesto por Jairo Morón contra el Ministerio del Poder Popular para las Comunas y los Movimientos Sociales, debido a la falta de respuesta a su denuncia sobre irregularidades en un proceso electoral. La Sala, tras evaluar las actuaciones, decidió ordenar la notificación al accionante para que corrija las omisiones en su solicitud en un plazo de 48 horas, advirtiendo que de no hacerlo, la acción sería declarada inadmisible. La decisión fue firmada por la Presidenta y otros magistrados en Caracas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación",
+    "derechos",
+    "garantías",
+    "administración pública",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1945_E22-0116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331915-1945-131223-2023-22-0116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.443664"
+}

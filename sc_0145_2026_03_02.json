@@ -1,0 +1,24 @@
+{
+  "id": 17611,
+  "numero": "0145",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jorge Eliecer Escalante Rodríguez, en representación de Mary Josefina Moreno de Rivera y Maximiano Rivera Rivera, contra la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del estado Trujillo. La Sala considera que la pretensión del accionante ha cesado, ya que la Corte de Apelaciones emitió pronunciamiento sobre el recurso de apelación interpuesto, declarando sin lugar el mismo.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "Corte de Apelaciones",
+    "procedimiento civil",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0145_E25-0512.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353141-0145-2326-2026-25-0512.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.381524"
+}

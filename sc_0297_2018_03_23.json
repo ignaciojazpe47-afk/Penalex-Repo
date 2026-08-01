@@ -1,0 +1,25 @@
+{
+  "id": 46214,
+  "numero": "0297",
+  "fecha": "2018-03-23",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2012-2575 de la Corte Segunda de lo Contencioso Administrativo, que declaró sin lugar un recurso contencioso administrativo sobre la jubilación de oficio del ciudadano Maruf Amador Halagui. La Sala determinó que el acto administrativo impugnado adolecía de vicios de falso supuesto y desviación de poder, ya que el recurrente cumplía con los requisitos para la jubilación. Se concluyó que la decisión de la Corte Segunda no se ajustó a derecho, por lo que se declaró con lugar la revisión solicitada y se ordenó remitir el caso a la Corte Primera de lo Contencioso Administrativo para que dicte nueva decisión conforme a la doctrina establecida en el fallo.",
+  "palabras_clave": [
+    "jubilación",
+    "debido proceso",
+    "reserva legal",
+    "administración pública",
+    "pensión",
+    "vicio de suposición falsa"
+  ],
+  "titulo": "Revisión de sentencia sobre jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-23_S0297_E14-0472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/209151-0297-23318-2018-14-0472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.823910"
+}

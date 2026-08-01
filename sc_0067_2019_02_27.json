@@ -1,0 +1,24 @@
+{
+  "id": 42366,
+  "numero": "0067",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior que declaró válida una oferta real presentada por Mary Flor Bueno. La revisión se solicitó argumentando violaciones a derechos constitucionales. Sin embargo, la Sala concluyó que la oferta no cumplía con los requisitos establecidos en el Código Civil, específicamente el ordinal 3° del artículo 1.307, que exige que la oferta comprenda la suma íntegra de la obligación. Por lo tanto, se declaró 'Sin Lugar' la solicitud de revisión.",
+  "palabras_clave": [
+    "oferta real",
+    "depósito",
+    "revisión constitucional",
+    "Código Civil",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión de sentencia sobre oferta real y depósito",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0067_E17-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304017-0067-27219-2019-17-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.611139"
+}

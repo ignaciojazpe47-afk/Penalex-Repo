@@ -1,0 +1,26 @@
+{
+  "id": 29112,
+  "numero": "0110",
+  "fecha": "2023-03-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por José Antonio Rachadell Ortiz, en representación de IA MARKET C.A., contra la sentencia RC.000398 de la Sala de Casación Civil. La decisión cuestionada había declarado con lugar una demanda de cumplimiento de contrato de opción de compra venta. La Sala Constitucional, tras analizar los argumentos, determinó que no había lugar para la revisión, ya que la sentencia impugnada no incurrió en violaciones de derechos constitucionales ni en errores de interpretación de la ley.",
+  "palabras_clave": [
+    "contrato",
+    "opcion de compra",
+    "excepcion",
+    "obligaciones",
+    "banco",
+    "sucesiones",
+    "inmuebles"
+  ],
+  "titulo": "Revisión constitucional de la sentencia RC.000398",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-09_S0110_E21-0836.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323278-0110-9323-2023-21-0836.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.339347"
+}

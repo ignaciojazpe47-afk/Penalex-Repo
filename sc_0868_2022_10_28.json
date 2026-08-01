@@ -1,0 +1,25 @@
+{
+  "id": 37118,
+  "numero": "0868",
+  "fecha": "2022-10-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por las fiscales auxiliares del Ministerio Público contra una decisión de la Corte de Apelaciones del Estado Trujillo. La acción se fundamentó en la presunta vulneración de derechos fundamentales relacionados con la acción penal y el debido proceso en un caso de delito de acto carnal con víctima especialmente vulnerable. La Corte de Apelaciones había dictado una decisión que modificaba la medida de privación judicial preventiva de libertad del imputado, lo que motivó la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "libertad",
+    "acción penal",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-28_S0868_E18-0246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320470-0868-281022-2022-18-0246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.423254"
+}

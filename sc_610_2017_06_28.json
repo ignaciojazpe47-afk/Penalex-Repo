@@ -1,0 +1,23 @@
+{
+  "id": 53537,
+  "numero": "610",
+  "fecha": "2017-06-28",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Jorge Edgardo Arellano Pedraza, quien solicitó la restitución de su derecho a obtener una respuesta oportuna del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Mérida. El accionante alegó que había transcurrido un tiempo excesivo sin pronunciamiento sobre su recurso de apelación, lo que constituyó un retardo procesal.\n\nLa Sala, al analizar la competencia en materia de amparo constitucional, declaró su competencia para conocer de la acción interpuesta y ordenó al Juzgado Superior que informara sobre el estado del expediente correspondiente. Se enfatizó la importancia de la celeridad en la administración de justicia y se advirtió sobre las sanciones por la falta de respuesta a las órdenes del Tribunal.\n\nFinalmente, la Sala ordenó la notificación al Juzgado Superior y la publicación de la decisión, reafirmando su compromiso con la protección de los derechos constitucionales de los ciudadanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "retardo procesal",
+    "competencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-08-11_S610_E17-0667.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/202791-610-11817-2017-17-0667.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.681072"
+}

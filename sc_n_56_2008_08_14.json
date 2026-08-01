@@ -1,0 +1,22 @@
+{
+  "id": 11052,
+  "numero": "N° 56",
+  "fecha": "2008-08-14",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por los abogados de Carlos Eduardo Giménez Colmenárez, debido a la falta de poder suficiente para actuar en su representación. Se argumenta que la representación judicial debe estar debidamente acreditada y que la solicitud de revisión no puede ser entendida como una nueva instancia. La decisión se basa en la insuficiencia del poder presentado por los apoderados judiciales.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisible",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_c99e3376e5f342e6f56beb269a481f59_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.963486"
+}

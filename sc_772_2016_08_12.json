@@ -1,0 +1,24 @@
+{
+  "id": 59263,
+  "numero": "772",
+  "fecha": "2016-08-12",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo constitucional interpuesta por Germán Jesús Rosales Nieto, asistido por su abogado Eleazar León Morín Aguilera. La Corte de Apelaciones había declarado con lugar la demanda de amparo, argumentando que la Jueza Rosarito Méndez Barone había excluido de manera arbitraria al abogado de confianza del imputado, vulnerando así su derecho a la defensa y al debido proceso.\n\nLa decisión de la Sala Constitucional enfatiza que la revocación de un defensor es una potestad exclusiva del imputado, y que la actuación de la Jueza en cuestión conculcó los derechos del mismo al no aceptar al abogado designado. Se ordena el restablecimiento de la situación jurídica infringida, incluyendo la juramentación inmediata de los abogados de confianza del encausado.\n\nFinalmente, se declara inadmisible la apelación interpuesta por la Jueza Barone, reafirmando que los jueces no pueden ejercer amparo contra decisiones que afectan su función, ya que no tienen una situación jurídica personal que les permita hacerlo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "exclusión arbitraria",
+    "defensor de confianza"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Germán Jesús Rosales Nieto",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-12_S772_E16-0461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/190315-772-12816-2016-16-0461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.800052"
+}

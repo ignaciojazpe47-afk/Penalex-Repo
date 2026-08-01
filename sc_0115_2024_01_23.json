@@ -1,0 +1,23 @@
+{
+  "id": 24243,
+  "numero": "0115",
+  "fecha": "2024-01-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia dictada el 26 de octubre de 2023 por la Sala de Casación Civil",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia dictada el 26 de octubre de 2023 por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por la parte demandada. La parte demandante, AGROPECUARIA GRUBER, C.A., solicitó la revisión alegando vicios de inmotivación en la decisión del juez de alzada. La Sala Constitucional concluyó que la Sala de Casación Civil incurrió en un vicio de inmotivación al no explicar adecuadamente la falta de cualidad de la parte demandada, lo que afectó el derecho a la tutela judicial efectiva de la demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "inmovilización",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0115_E23-1221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332624-0115-19224-2024-23-1221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.837029"
+}

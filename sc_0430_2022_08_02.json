@@ -1,0 +1,26 @@
+{
+  "id": 35786,
+  "numero": "0430",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Reimundo Antonio Piña Hernández, quien impugnaba una sentencia del Juzgado Superior en lo Civil que declaró sin lugar su demanda por cobro de bolívares. La Sala, tras analizar los argumentos y la documentación presentada, concluyó que el demandante no cumplió con la carga de demostrar la relación subyacente y la obligación insatisfecha, lo que llevó a la confirmación de la decisión del tribunal inferior. Finalmente, se declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisprudencia",
+    "sentencia firme",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "supremacía constitucional",
+    "incongruencia omisiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0430_E15-1227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318371-0430-2822-2022-15-1227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.668479"
+}

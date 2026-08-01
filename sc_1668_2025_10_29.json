@@ -1,0 +1,23 @@
+{
+  "id": 22611,
+  "numero": "1668",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de apelación interpuesto por los abogados de Henry José Niño Morillo, quien alegaba violaciones a su derecho a la tutela judicial efectiva y al debido proceso. La Corte de Apelaciones había declarado improcedente la acción de amparo, argumentando que la notificación personal de la sentencia condenatoria era un trámite procesal obligatorio. La Sala Constitucional confirmó esta decisión, señalando que la notificación personal es esencial para garantizar los derechos fundamentales del acusado.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tutela Judicial Efectiva",
+    "Debido Proceso",
+    "Violencia contra la Mujer"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1668_E23-1212.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349271-1668-291025-2025-23-1212.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.535330"
+}

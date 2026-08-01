@@ -1,0 +1,24 @@
+{
+  "id": 24086,
+  "numero": "0033",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente ha lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 1236 de la Sala de Casación Social, que declaró la nulidad del procedimiento de separación de cuerpos y bienes entre Michele Floro Costanzo y Nancy Muro de Floro, alegando incapacidad de la demandada. La Sala determinó que la decisión de nulidad fue incorrecta, ya que se basó en una interdicción provisional sin el debido proceso. Se ordenó reponer la causa para abrir y tramitar la articulación probatoria correspondiente, garantizando el derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "separación de cuerpos",
+    "divorcio",
+    "interdicción"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la nulidad del procedimiento de separación de cuerpos y bienes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0033_E16-0478.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332386-0033-5224-2024-16-0478.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.829637"
+}

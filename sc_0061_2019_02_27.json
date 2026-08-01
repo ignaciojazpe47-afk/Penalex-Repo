@@ -1,0 +1,25 @@
+{
+  "id": 42351,
+  "numero": "0061",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 01477 dictada por la Sala Político Administrativa, que declaró sin lugar la demanda de nulidad interpuesta por Douglas Rafael Centeno contra un acto administrativo de la Comisión Judicial. La revisión se centró en la competencia de la Comisión Judicial para dejar sin efecto la designación de Centeno como Inspector de Tribunales. La Sala concluyó que la Comisión actuó dentro de sus atribuciones y que no se vulneraron derechos fundamentales del solicitante.",
+  "palabras_clave": [
+    "debido proceso",
+    "derechos constitucionales",
+    "Comisión Judicial",
+    "Inspector de Tribunales",
+    "remoción",
+    "potestad discrecional"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de acto administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0061_E17-1246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304002-0061-27219-2019-17-1246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.609119"
+}

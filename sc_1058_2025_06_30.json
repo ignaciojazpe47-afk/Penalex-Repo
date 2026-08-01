@@ -1,0 +1,24 @@
+{
+  "id": 20661,
+  "numero": "1058",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo constitucional interpuesta por Antonio Pennimpede Longo, en su calidad de administrador de Pepino Pizza's, C.A. contra una sentencia del Tribunal Superior Primero en lo Civil, Mercantil y del Tránsito de Miranda. Sin embargo, se determina que el accionante abandonó el trámite al no realizar actuaciones procesales válidas durante más de seis meses, lo que lleva a declarar terminado el procedimiento. Además, se impone una multa de Dos Mil Bolívares por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonos de trámite",
+    "derechos constitucionales",
+    "debido proceso",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por abandono de trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1058_E21-0393.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345338-1058-30625-2025-21-0393.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.514047"
+}

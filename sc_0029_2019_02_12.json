@@ -1,0 +1,25 @@
+{
+  "id": 42132,
+  "numero": "0029",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologa el desistimiento de la acción incoada y del procedimiento",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Douglas Granadillo Perozo en representación de Jean Carlos Gurgullón Bravo y Numan Alberto Cardozo Carmona. Se homologó el desistimiento de la acción de amparo constitucional presentada, quedando firme la sentencia dictada por la Corte de Apelaciones el 10 de octubre de 2018. La Sala consideró que los derechos denunciados no afectaban el orden público ni las buenas costumbres, permitiendo así el desistimiento.",
+  "palabras_clave": [
+    "amparo",
+    "desistimiento",
+    "derechos",
+    "justicia",
+    "sentencia",
+    "tribunales"
+  ],
+  "titulo": "Homologación de desistimiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0029_E18-0761.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303696-0029-12219-2019-18-0761.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.117192"
+}

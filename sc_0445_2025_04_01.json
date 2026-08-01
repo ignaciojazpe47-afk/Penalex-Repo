@@ -1,0 +1,25 @@
+{
+  "id": 19200,
+  "numero": "0445",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 295, declara no ha lugar la solicitud de revisión constitucional presentada por la abogada Andrea Carolina Huamani Guerrero, en representación de Servicios Halliburton de Venezuela, S.A. La revisión se solicitó en contra de una decisión de la Sala de Casación Social que había casado de oficio un fallo anterior, argumentando violaciones a derechos constitucionales y a la doctrina vinculante. La Sala Constitucional concluyó que no se evidencian infracciones a principios constitucionales y que la decisión de la Sala de Casación Social fue ajustada a derecho, por lo que se desestimó la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "derechos laborales",
+    "casación",
+    "debido proceso",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0445_E24-1292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342829-0445-1425-2025-24-1292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.606557"
+}

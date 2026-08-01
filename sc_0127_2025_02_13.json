@@ -1,0 +1,25 @@
+{
+  "id": 18433,
+  "numero": "0127",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Yilder Sánchez en representación de YEFERSON RAIBER RAMÍREZ MALDONADO. La acción se fundamentó en la supuesta violación de derechos constitucionales por parte de la Corte de Apelaciones del Estado Yaracuy, que había declarado con lugar un recurso de apelación interpuesto por el Ministerio Público. La Sala concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró las garantías constitucionales denunciadas.",
+  "palabras_clave": [
+    "detencion domiciliaria",
+    "debido proceso",
+    "tutela judicial",
+    "derechos humanos",
+    "amparo",
+    "seguridad juridica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0127_E24-0398.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341532-0127-13225-2025-24-0398.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.769006"
+}

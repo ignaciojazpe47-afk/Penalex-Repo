@@ -1,0 +1,25 @@
+{
+  "id": 34243,
+  "numero": "0002",
+  "fecha": "2022-01-31",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 1986, declaró parcialmente con lugar la demanda de nulidad por inconstitucionalidad presentada por Juan Carlos Velásquez y Javier Simón Gómez González. Se anulan varios artículos de la Ley sobre la Academia de Ciencias Políticas y Sociales y del Reglamento correspondiente, en relación con el aval de postulación de candidatos y la distinción entre Individuos de Número y Miembros Correspondientes Nacionales.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "academias",
+    "derechos",
+    "legislación",
+    "justicia",
+    "normativa"
+  ],
+  "titulo": "Sentencia que anula disposiciones de la Ley sobre la Academia de Ciencias Políticas y Sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-01-31_S0002_E04-1961.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/315399-0002-31122-2022-04-1961.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.725214"
+}

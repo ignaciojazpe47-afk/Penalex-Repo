@@ -1,0 +1,26 @@
+{
+  "id": 30788,
+  "numero": "0736",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar la reconvención y se ordena la devolución de 180.500$ a la demandada.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisó la sentencia N° 000354 del 12 de agosto de 2022, dictada por la Sala de Casación Civil, que había casado un fallo anterior por inmotivación. La Sala Constitucional determinó que la decisión de la Sala de Casación Civil adolecía de vicios procesales que vulneraban derechos constitucionales, por lo que se declaró con lugar la reconvención presentada por la parte demandada, ordenando la devolución de 180.500$ y el pago de intereses por daños y perjuicios. Además, se suspendieron los efectos de la sentencia impugnada hasta la resolución del caso.",
+  "palabras_clave": [
+    "inmotivación",
+    "indemnización",
+    "contrato",
+    "daños",
+    "tutela judicial",
+    "debido proceso",
+    "casación"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0736_E22-0945.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326007-0736-9623-2023-22-0945.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.407867"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 65251,
+  "numero": "890",
+  "fecha": "2015-07-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por Charalampe Marmanidis, quien alegaba violaciones a sus derechos constitucionales en un proceso de entrega material de un inmueble. La Sala declaró inadmisible la acción de amparo, argumentando que el demandante había agotado las vías judiciales ordinarias y que la apelación era el medio idóneo para resolver la situación. Se revocó la sentencia del Juzgado Superior que había declarado con lugar la acción de amparo y se ordenó la continuidad de la entrega material del inmueble.",
+  "palabras_clave": [
+    "amparo",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo interpuesta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-20_S890_E15-0490.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179714-890-20715-2015-15-0490.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.469733"
+}

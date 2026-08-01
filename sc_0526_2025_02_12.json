@@ -1,0 +1,25 @@
+{
+  "id": 19381,
+  "numero": "0526",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de amparo interpuesta por Hernán Jesús Guédez, debido a la falta de claridad y coherencia en el escrito presentado. Se señala que el demandante no cumplió con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia, lo que imposibilita su tramitación. La decisión se fundamenta en la ambigüedad del contenido de la acción y la ausencia de una narración cronológica y fundamentación lógica de los hechos alegados.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "demanda",
+    "confusión",
+    "derechos constitucionales",
+    "tribunal supremo",
+    "proceso judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-10_S0526_E24-0486.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343079-0526-10425-2025-24-0486.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.543213"
+}

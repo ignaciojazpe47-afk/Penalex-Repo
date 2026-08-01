@@ -1,0 +1,24 @@
+{
+  "id": 65339,
+  "numero": "956",
+  "fecha": "2015-07-21",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, acepta la declinatoria de competencia del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito de Yaracuy y se declara competente para conocer de la acción de amparo interpuesta por la abogada Leonor González del Moral en representación de Yolman Octavio García del Moral. Sin embargo, la Sala determina que la acción de amparo es improcedente in limine litis, ya que no se cumplen los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales para su admisión.\n\nLa Sala argumenta que las presuntas violaciones a los derechos constitucionales alegadas por el demandante no se configuran como tales, dado que la decisión del Juzgado Superior en lo Civil, Mercantil y Tránsito de Yaracuy fue debidamente fundamentada y no incurrió en vicios de incongruencia negativa. La Sala concluye que el juez actuó conforme a derecho al declarar inadmisible el recurso de apelación interpuesto, ya que no se evidencian errores que justifiquen la intervención del amparo constitucional.\n\nFinalmente, se resuelve que la solicitud de medida cautelar presentada por el demandante es inoficiosa, dado que la acción de amparo fue declarada improcedente, y se ordena el archivo del expediente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "ejecución voluntaria"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-21_S956_E15-0446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179840-956-21715-2015-15-0446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.464654"
+}

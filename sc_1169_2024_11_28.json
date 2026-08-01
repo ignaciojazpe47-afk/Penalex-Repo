@@ -1,0 +1,25 @@
+{
+  "id": 28080,
+  "numero": "1169",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por los abogados Carlos Augusto Ramírez Ramírez y Vicente Emilio Muñoz Gil, en relación a causas penales que cursan ante los Juzgados Trigésimo Cuarto y Cuadragésimo Sexto del Área Metropolitana de Caracas. La Sala concluye que corresponde a la Sala de Casación Penal conocer sobre la procedencia de la solicitud, dado que no se evidencian violaciones al ordenamiento jurídico que justifiquen el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "competencia",
+    "justicia constitucional",
+    "derechos fundamentales",
+    "garantías",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1169_E22-0781.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339766-1169-281124-2024-22-0781.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.472307"
+}

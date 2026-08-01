@@ -1,0 +1,25 @@
+{
+  "id": 35415,
+  "numero": "0301",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la solicitud de revisión constitucional presentada por Luis Alberto Pinto, quien impugna una sentencia del Juzgado Superior Quinto que declaró sin lugar una apelación en un caso de desalojo. La Sala admite la solicitud y suspende temporalmente la ejecución de la sentencia impugnada.",
+  "palabras_clave": [
+    "medida cautelar",
+    "falsificación",
+    "documento público",
+    "proceso penal",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0301_E18-0818.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317881-0301-13722-2022-18-0818.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.221933"
+}

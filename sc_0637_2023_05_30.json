@@ -1,0 +1,26 @@
+{
+  "id": 30591,
+  "numero": "0637",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Dra. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por la defensora privada de Yulimar del Valle Yarbouh Larez, quien alegaba la omisión en la tramitación de su recurso de apelación. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que no había cesado la violación de derechos. Sin embargo, la Sala Constitucional determinó que el recurso de apelación fue interpuesto de manera extemporánea, por lo que declaró inadmisible el mismo y confirmó la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "temporalidad",
+    "cómputo",
+    "derechos",
+    "garantías",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0637_E18-0763.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325725-0637-30523-2023-18-0763.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.940579"
+}

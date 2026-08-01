@@ -1,0 +1,23 @@
+{
+  "id": 29765,
+  "numero": "0298",
+  "fecha": "2023-04-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por Wendy Del Socorro Tellechea Meléndez y Edgar Enrique Rodríguez Mogollón contra el Consejo Nacional Electoral (CNE) por omisión en dar respuesta a solicitudes de inscripción de candidatos. Sin embargo, la Sala determina que la acción es inadmisible, ya que la parte actora contaba con vías judiciales ordinarias para restablecer su situación jurídica, específicamente el recurso contencioso electoral.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "CNE",
+    "Inadmisible",
+    "Derechos Políticos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0298_E20-0287.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324385-0298-18423-2023-20-0287.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.818483"
+}

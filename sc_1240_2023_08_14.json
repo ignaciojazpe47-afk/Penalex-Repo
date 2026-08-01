@@ -1,0 +1,25 @@
+{
+  "id": 34135,
+  "numero": "1240",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados Evelinda Arráiz Hernández y Tutankamen Hernández Rojas, en representación de los ciudadanos Carlos Goncalves de Abreu y María Clara Cámara Andrade. La solicitud se fundamentó en la alegación de violaciones al orden público constitucional en el proceso penal que se sigue en su contra ante el Juzgado Cuadragésimo Octavo de Control del Circuito Judicial Penal del Área Metropolitana de Caracas.\n\nLa Sala, tras examinar la naturaleza de la solicitud, determinó que no era competente para conocer del caso, ya que se trataba de un proceso penal que debía ser atendido por la Sala de Casación Penal. En consecuencia, declinó el conocimiento de la causa y ordenó remitir las actuaciones a dicha sala, declarando su incompetencia para conocer de la solicitud de avocamiento planteada.\n\nFinalmente, la decisión fue firmada y sellada en el Salón de Sesiones de la Sala Constitucional, en Caracas, el 14 de agosto de 2023.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "derecho a la libertad",
+    "control externo",
+    "medidas cautelares",
+    "Ministerio Público",
+    "arresto domiciliario"
+  ],
+  "titulo": "Solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1240_E21-0467.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328447-1240-14823-2023-21-0467.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.319929"
+}

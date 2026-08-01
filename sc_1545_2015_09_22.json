@@ -1,0 +1,24 @@
+{
+  "id": 67741,
+  "numero": "1545",
+  "fecha": "2015-09-22",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto N° 2.096, que prorroga por sesenta días el estado de excepción en los municipios Catatumbo, Jesús María Semprún y Colón del estado Zulia. La decisión se fundamenta en la necesidad de garantizar la seguridad y el orden público ante circunstancias extraordinarias que afectan la paz social y el ejercicio de derechos fundamentales de los ciudadanos en la región.",
+  "palabras_clave": [
+    "estado de excepción",
+    "constitucionalidad",
+    "Decreto N° 2.096",
+    "seguridad ciudadana",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia que declara la constitucionalidad del Decreto N° 2.096",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-27_S1545_E15-0994.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183329-1545-271115-2015-15-0994.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.209710"
+}

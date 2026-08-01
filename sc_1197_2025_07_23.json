@@ -1,0 +1,25 @@
+{
+  "id": 21163,
+  "numero": "1197",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Carmen Dinorath González Zerpa, en representación de Inversiones Lovera C.A., contra una sentencia de la Sala de Casación Civil. La decisión original había declarado con lugar un recurso de casación y ordenado indemnizar a Fung Wenjie Ching por un monto significativo. La Sala Constitucional determinó su competencia para conocer el caso y ordenó la remisión del expediente correspondiente para un análisis más profundo.",
+  "palabras_clave": [
+    "contratos",
+    "arrendamiento",
+    "obligaciones",
+    "moneda extranjera",
+    "jurisprudencia",
+    "indemnización"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1197_E25-0209.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346446-1197-23725-2025-25-0209.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.380071"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23916,
+  "numero": "2130",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Joel Enrique Pérez Monsalve en representación de la ciudadana Jazmín Elena Acevedo Silvera. La acción fue presentada contra la decisión de la Sala 8 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional, argumentando que no existía omisión de tramitación por parte del Juzgado Décimo Municipal. La Sala Constitucional concluyó que no se evidenció vulneración de derechos constitucionales, ya que el emplazamiento dirigido a la Fiscalía fue recibido dentro del lapso correspondiente para la contestación.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "jurisdicción",
+    "competencia"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional Inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2130_E25-0499.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351979-2130-121225-2025-25-0499.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.736295"
+}

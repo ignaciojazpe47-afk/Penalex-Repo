@@ -1,0 +1,23 @@
+{
+  "id": 12330,
+  "numero": "290",
+  "fecha": "2000-04-25",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MOISÉS A. TROCONIS VILLARREAL",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por la Corte de Apelaciones del Estado Vargas, que había declarado improcedente un habeas corpus a favor de Marco Antonio Monasterio Pérez, quien fue detenido por funcionarios del Ejército y luego entregado a la DISIP. El accionante, Hely Vladimir Villegas Poljak, argumentó que la Corte no había considerado adecuadamente la situación de desaparición forzada y solicitó la nulidad de la sentencia de la Corte de Apelaciones. La Sala, reconociendo la gravedad del hecho denunciado, decidió revisar la sentencia en virtud de su competencia constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desaparición forzada",
+    "habeas corpus",
+    "Estado Vargas"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional sobre desaparición forzada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_4_MoisesA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.740104"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 23209,
+  "numero": "1863",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio varias decisiones relacionadas con el proceso penal seguido a los ciudadanos César Alejandro Liendo Muñoz, Javier José Arenas Morgado y Freddy Yosmel Bulle González. Se determinó que la Corte de Apelaciones había vulnerado el debido proceso al revocar una decisión de desestimación de un delito y ordenar el enjuiciamiento por delitos que ya habían sido desestimados, lo que llevó a la nulidad de varias sentencias. La Sala decidió anular las decisiones impugnadas y ordenar la reposición del proceso al estado anterior a la audiencia preliminar, garantizando así el respeto a los derechos de los imputados.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "nulidad",
+    "Corte de Apelaciones",
+    "La Guaira"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisiones penales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1863_E24-0748-24-0921.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350459-1863-261125-2025-24-0748-24-0921.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.047538"
+}

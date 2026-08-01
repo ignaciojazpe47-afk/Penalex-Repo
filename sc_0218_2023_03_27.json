@@ -1,0 +1,22 @@
+{
+  "id": 29479,
+  "numero": "0218",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Rafael Ramón Ávila en representación de Jaime Raúl Villarreal Ferrini, quien había solicitado un amparo constitucional por la omisión de pronunciamiento del Tribunal de Primera Instancia Penal. La Corte de Apelaciones había declarado inadmisible la acción de amparo, lo que motivó la apelación. La Sala Constitucional, tras analizar el caso, determinó que la acción de amparo era inadmisible debido a que la situación denunciada había cesado, ya que el Tribunal de Primera Instancia había decretado la extinción de la pena y la excarcelación del ciudadano.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "omisión judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0218_E22-0128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323880-0218-27323-2023-22-0128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.057046"
+}

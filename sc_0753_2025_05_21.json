@@ -1,0 +1,26 @@
+{
+  "id": 19890,
+  "numero": "0753",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA la sentencia de la Sala de Casación Civil y queda definitivamente FIRME la decisión recurrida en casación.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 632, revisó la decisión de la Sala de Casación Civil que había declarado inadmisible la demanda interpuesta por los herederos de los accionistas de Inmobiliaria Montes, C.A. La Sala Constitucional determinó que los demandantes, como herederos, tienen la legitimidad para demandar la nulidad de la asamblea, a pesar de no estar inscritos en el libro de accionistas, lo que contradice el artículo 296 del Código de Comercio. En consecuencia, se declaró nula la sentencia de la Sala de Casación Civil y se confirmó la decisión del Juzgado Superior que había declarado inadmisible la demanda por falta de cualidad.",
+  "palabras_clave": [
+    "nulidad",
+    "asambleas",
+    "accionistas",
+    "legitimidad",
+    "sociedades",
+    "derecho",
+    "procedimiento"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 632 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0753_E25-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343918-0753-21525-2025-25-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.869652"
+}

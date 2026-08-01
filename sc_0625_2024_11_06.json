@@ -1,0 +1,24 @@
+{
+  "id": 27209,
+  "numero": "0625",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la empresa Global Shipping Agentes Navieros, C.A. contra la sentencia N° 2016-1178 de la Sala Político Administrativa, que había declarado 'CON LUGAR' la apelación interpuesta por la empresa y 'SIN LUGAR' el recurso contencioso tributario contra resoluciones de multa. La Sala Constitucional determinó que no había lugar para la revisión, argumentando que la solicitud no justificaba el ejercicio de su potestad extraordinaria y que la decisión impugnada no contradecía principios constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "sanciones administrativas",
+    "Sala Político Administrativa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 2016-1178",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0625_E17-0612.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338608-0625-61124-2024-17-0612.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.296602"
+}

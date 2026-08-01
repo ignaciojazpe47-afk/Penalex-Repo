@@ -1,0 +1,24 @@
+{
+  "id": 62915,
+  "numero": "133",
+  "fecha": "2015-03-23",
+  "anio": 2015,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "DEYANIRA NIEVES BASTIDAS",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia, bajo la ponencia de la Magistrada Deyanira Nieves Bastidas, declaró con lugar el recurso de casación interpuesto por la defensa del ciudadano Elizaul Zambrano, argumentando que la Corte de Apelaciones incurrió en inmotivación al no resolver adecuadamente las denuncias planteadas. La decisión original había condenado a Zambrano a 30 años de prisión por homicidio calificado, privación ilegítima de libertad y uso indebido de arma de fuego, basándose en la declaración de un taxista que no compareció al juicio. La Sala determinó que la falta de testimonio del taxista no afectó la culpabilidad del acusado, pero la Corte de Apelaciones no fundamentó adecuadamente su decisión, lo que llevó a la anulación del fallo y a la remisión del expediente para un nuevo análisis.",
+  "palabras_clave": [
+    "homicidio",
+    "privación ilegítima de libertad",
+    "uso indebido de arma de fuego",
+    "inmotivación de sentencia",
+    "recurso de casación"
+  ],
+  "titulo": "Sentencia de Casación sobre inmotivación de fallo en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2015-03-23_S133_C13-239.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/marzo/175849-133-23315-2015-C13-239.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:39.684712"
+}

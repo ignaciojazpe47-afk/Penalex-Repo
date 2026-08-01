@@ -1,0 +1,26 @@
+{
+  "id": 33522,
+  "numero": "1855",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la abogada Gretdy Solarte Pineda en representación de Lenin Alberto Rojas Matos, contra la omisión de pronunciamiento de la Corte de Apelaciones. La Sala determinó su competencia para conocer del caso, dado que la acción se dirigía contra un fallo que declaró inadmisible un recurso de apelación en un proceso penal por delitos de violencia contra la mujer.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "apelación",
+    "delitos",
+    "violencia",
+    "justicia",
+    "normativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1855_E23-0509.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331391-1855-81223-2023-23-0509.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.475323"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38107,
+  "numero": "1230",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por el abogado Valerio Becerra en representación de Robert Miguel Melo Muñoz, contra la Fiscalía Vigésima Tercera. Se argumenta que la apelación con efecto suspensivo realizada por el Ministerio Público no se encuentra dentro de las excepciones establecidas en el Código Orgánico Procesal Penal. Además, se declara terminado el procedimiento por abandono de trámite debido a la inactividad del demandante durante más de seis meses.",
+  "palabras_clave": [
+    "tutela judicial",
+    "privación de libertad",
+    "amparo constitucional",
+    "derechos humanos",
+    "fiscalía",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Valerio Becerra",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1230_E20-0221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322122-1230-151222-2022-20-0221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.138905"
+}

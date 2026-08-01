@@ -1,0 +1,25 @@
+{
+  "id": 43473,
+  "numero": "0215",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió con lugar el recurso de apelación interpuesto por Jorge Luis Rivas Moreno contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que había declarado sin lugar la acción de amparo constitucional. La Corte determinó que la juez de control había vulnerado los derechos de Rivas al no notificarle sobre la entrega de un vehículo en el que reclamaba derechos, lo que le impidió ejercer su derecho a la defensa y a la tutela judicial efectiva. Se revocó el fallo apelado y se ordenó la reposición de la causa al estado de notificar a las partes sobre la entrega del vehículo.",
+  "palabras_clave": [
+    "amparo",
+    "vehículos",
+    "tutela judicial",
+    "derechos",
+    "propiedad",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0215_E18-0391.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306100-0215-12719-2019-18-0391.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.408485"
+}

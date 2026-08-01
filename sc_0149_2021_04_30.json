@@ -1,0 +1,27 @@
+{
+  "id": 38594,
+  "numero": "0149",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los ciudadanos Yoly Thais Ramírez de Perdomo y Miguel Alejandro Perdomo Ramírez contra la sentencia del Juzgado Superior Cuarto en lo Civil, Mercantil, Tránsito y Bancario del Estado Táchira, que había declarado con lugar un recurso de apelación y sin lugar la demanda de resolución de contrato. La Sala encontró vicios constitucionales en la decisión recurrida, incluyendo incongruencia omisiva y falta de análisis de pruebas, lo que vulneró los derechos de los demandantes a la tutela judicial efectiva y al debido proceso.",
+  "palabras_clave": [
+    "incongruencia",
+    "inmotivación",
+    "carga de la prueba",
+    "derecho a la defensa",
+    "debido proceso",
+    "arrendamiento",
+    "tutela judicial",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0149_E19-0560.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312013-0149-30421-2021-19-0560.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.884220"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 38874,
+  "numero": "0251",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible por extemporáneo el recurso de apelación interpuesto por Vicky Lee De Gordillo, en su calidad de defensora del ciudadano Luis Alexander Bastardo Matute. La apelación fue presentada contra la decisión de la Corte de Apelaciones que declaró improcedente la acción de amparo constitucional. La Sala establece que el recurso fue ejercido antes de que existiera una decisión que pudiera ser impugnada, lo que resulta en la falta de interés para recurrir.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial",
+    "violencia de género",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0251_E18-0620.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312372-0251-11621-2021-18-0620.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.170384"
+}

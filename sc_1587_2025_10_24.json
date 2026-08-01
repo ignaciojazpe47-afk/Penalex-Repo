@@ -1,0 +1,26 @@
+{
+  "id": 22247,
+  "numero": "1587",
+  "fecha": "2025-10-24",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara ha lugar la solicitud de revisión de la sentencia N° 583 dictada por la Sala de Casación Civil, que había declarado sin lugar el recurso extraordinario de casación interpuesto por Aly José Ferrer Pérez. La decisión original fue anulada debido a la falta de pronunciamiento sobre la solicitud de una nueva experticia grafotécnica, lo que vulneró el derecho a la defensa y la tutela judicial efectiva del demandante. Se ordena a la Sala de Casación Civil emitir un nuevo pronunciamiento sobre el recurso de casación planteado.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "indefension",
+    "experticia",
+    "igualdad_ante_la_ley",
+    "confianza_legitima",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión de la sentencia N° 583 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1587_E24-1202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348704-1587-151025-2025-24-1202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.745085"
+}

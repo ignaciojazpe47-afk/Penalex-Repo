@@ -1,0 +1,24 @@
+{
+  "id": 37244,
+  "numero": "0942",
+  "fecha": "2022-11-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° RC-000044, en la que se revisó una decisión de la Sala de Casación Civil que había declarado con lugar un recurso de casación. La revisión se fundamentó en la alegación de violación de principios constitucionales, como la seguridad jurídica, en relación con la constitución de una sociedad de hecho. La Sala Constitucional acordó medidas cautelares de suspensión de efectos de la sentencia impugnada, argumentando que su ejecución podría afectar el derecho a la salud de los pacientes atendidos en el inmueble objeto del litigio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "sociedad de hecho",
+    "medida cautelar",
+    "derecho a la salud"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0942_E22-0188.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320630-0942-91122-2022-22-0188.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.363450"
+}

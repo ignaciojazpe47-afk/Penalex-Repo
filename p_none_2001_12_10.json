@@ -1,0 +1,23 @@
+{
+  "id": 2615,
+  "numero": null,
+  "fecha": "2001-12-10",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Con Lugar",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, decide sobre la solicitud de extradición del ciudadano JOSÉ MARÍA BALLESTAS TIRADO, solicitado por el gobierno de Colombia por los delitos de secuestro extorsivo y apoderamiento y desviación de aeronaves. La Sala concluye que los delitos imputados no son políticos y que se cumplen los requisitos para conceder la extradición, dado que no están prescritos y no implican penas de muerte o perpetuas en el país requirente.",
+  "palabras_clave": [
+    "extradición",
+    "secuestro extorsivo",
+    "apoderamiento de aeronaves",
+    "derechos humanos"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición de JOSÉ MARÍA BALLESTAS TIRADO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-12-10_CasacionPenal_E010847.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:09.624826"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 12102,
+  "numero": null,
+  "fecha": "2012-01-17",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción popular de nulidad interpuesta por la Cámara Licorera y Afines del Estado Zulia contra la Ordenanza que regula el Impuesto sobre Actividades Económicas del Municipio San Francisco. La Sala declaró sin lugar la demanda, argumentando que las disposiciones impugnadas no usurpan la competencia del Poder Nacional en materia tributaria, ya que el impuesto municipal sobre actividades económicas es distinto al impuesto nacional sobre el consumo de licores. Además, se destacó que la regulación municipal se fundamenta en la necesidad de proteger la salud pública y el medio ambiente, lo que justifica un tratamiento fiscal diferenciado para el sector licorero.",
+  "palabras_clave": [
+    "Nulidad",
+    "Impuesto",
+    "Actividades Económicas",
+    "Municipio San Francisco",
+    "Salud Pública"
+  ],
+  "titulo": "Sentencia sobre la nulidad de la Ordenanza que regula el Impuesto sobre Actividades Económicas del Municipio San Francisco del Estado Zulia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2012_2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.535997"
+}

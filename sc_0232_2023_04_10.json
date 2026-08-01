@@ -1,0 +1,27 @@
+{
+  "id": 29700,
+  "numero": "0232",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara NO HA LUGAR la revisión constitucional solicitada por Raúl Antonio Avendaño González, quien impugnaba la sentencia N° 378 de la Corte Primera de lo Contencioso Administrativo. Esta última había declarado desistida la apelación contra un auto que resolvió la inadmisibilidad de pruebas y sin lugar la apelación contra un fallo anterior. La Sala concluye que la decisión de la Corte Primera se ajustó a derecho y no vulneró los derechos constitucionales alegados por el solicitante.",
+  "palabras_clave": [
+    "competencia",
+    "paralelismo",
+    "remoción",
+    "fuero paternal",
+    "funcionarios",
+    "decisiones administrativas",
+    "Ley Orgánica",
+    "Reglamento Interno"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Corte Primera de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0232_E17-0783.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324319-0232-10423-2023-17-0783.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.051933"
+}

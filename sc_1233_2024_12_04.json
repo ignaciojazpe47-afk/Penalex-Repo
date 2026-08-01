@@ -1,0 +1,25 @@
+{
+  "id": 28274,
+  "numero": "1233",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETT TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por el abogado Isidro Antonio Hamilton Muñoz en representación de Oscar Enrique Gómez Mier y Terán y Álvaro José Guerra Ojeda. La acción se originó a raíz de una decisión de la Corte de Apelaciones que modificó pronunciamientos previos y revocó medidas cautelares. La Sala ordenó verificar actuaciones procesales y solicitó información sobre el estado actual de la causa, advirtiendo sobre sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "medidas cautelares",
+    "Corte de Apelaciones",
+    "tutela judicial",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1233_E22-0140.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340176-1233-41224-2024-22-0140.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.037063"
+}

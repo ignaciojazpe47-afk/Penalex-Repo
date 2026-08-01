@@ -1,0 +1,23 @@
+{
+  "id": 22426,
+  "numero": "1623",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por José Alberto Navarro Márquez contra la omisión de pronunciamiento del Juzgado Décimo de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario. La decisión se fundamenta en que la supuesta violación de derechos constitucionales había cesado, ya que el expediente fue redistribuido a otro tribunal antes de la resolución del amparo. La Sala también destacó la importancia de la celeridad en la administración de justicia y la obligación de los jueces de garantizar el acceso a los tribunales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "acceso a la justicia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1623_E25-0355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349004-1623-221025-2025-25-0355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.750482"
+}

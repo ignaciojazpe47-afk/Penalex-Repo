@@ -1,0 +1,22 @@
+{
+  "id": 3477,
+  "numero": null,
+  "fecha": "2008-03-28",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 8 de junio de 2007 por el Juzgado Segundo Superior del Trabajo, que había declarado con lugar un recurso de apelación interpuesto por la empresa CVG Electrificación del Caroní, C.A. (CVG EDELCA), revocando un fallo anterior que ordenaba la restitución del pago de jubilación a Félix Eduardo Rivas Anzola. La Sala determinó que la sentencia recurrida incurrió en un error de interpretación del artículo 148 de la Constitución, al considerar incompatible el ejercicio de la actividad docente con la condición de jubilado de Rivas Anzola.",
+  "palabras_clave": [
+    "jubilación",
+    "ejercicio docente",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre jubilación y ejercicio docente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-03-28_CasacionPenal_07_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.095494"
+}

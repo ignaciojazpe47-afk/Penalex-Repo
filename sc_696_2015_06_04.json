@@ -1,0 +1,23 @@
+{
+  "id": 64314,
+  "numero": "696",
+  "fecha": "2015-06-04",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2014-1297 dictada por la Corte Segunda de lo Contencioso Administrativo, que declaró inadmisible un recurso contencioso administrativo por caducidad. El solicitante argumentó que la notificación del acto administrativo fue defectuosa, lo que vulneró su derecho a la defensa y al debido proceso. La Sala concluyó que la caducidad no debía computarse debido a la notificación defectuosa, lo que llevó a revocar la sentencia impugnada y ordenar a la Corte que decidiera nuevamente sobre la apelación interpuesta.",
+  "palabras_clave": [
+    "caducidad",
+    "notificación defectuosa",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre caducidad de acción contenciosa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-04_S696_E14-0974.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178177-696-4615-2015-14-0974.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.334908"
+}

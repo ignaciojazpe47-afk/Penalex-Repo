@@ -1,0 +1,23 @@
+{
+  "id": 44465,
+  "numero": "0361",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Pedro Rafael González Fernández contra la sentencia del Tribunal Superior Primero del Trabajo de la Circunscripción Judicial del Estado Falcón, que había declarado inadmisible su recurso de apelación en un juicio por calificación de despido. La Sala determinó que el demandante era un empleado de dirección y, por lo tanto, no estaba protegido por la inamovilidad laboral. La revisión fue declarada improcedente, ya que la valoración de pruebas es competencia de los tribunales de instancia y no puede ser objeto de revisión constitucional, salvo en casos de abuso de derecho o error evidente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "despido",
+    "estabilidad laboral",
+    "empleado de dirección"
+  ],
+  "titulo": "Revisión Constitucional sobre despido y estabilidad laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0361_E17-1253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308162-0361-191119-2019-17-1253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.381392"
+}

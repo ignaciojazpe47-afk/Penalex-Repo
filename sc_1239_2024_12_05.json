@@ -1,0 +1,26 @@
+{
+  "id": 28281,
+  "numero": "1239",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de hecho interpuesto por Alberto Antonio Vallés Gutiérrez, quien cuestionó la improcedencia de su apelación ante el Juzgado Superior Agrario. La Sala determinó que la apelación fue declarada improcedente debido a la falta de presentación del poder original o copia certificada que acreditara la representación del abogado. La Sala consideró que el Juzgado actuó conforme a derecho al no admitir la apelación por esta omisión.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "apelación",
+    "amparo constitucional",
+    "embargo",
+    "legitimación",
+    "poder",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre recurso de hecho interpuesto por Alberto Antonio Vallés Gutiérrez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1239_E18-0296.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340195-1239-51224-2024-18-0296.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.034709"
+}

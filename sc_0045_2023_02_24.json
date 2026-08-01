@@ -1,0 +1,22 @@
+{
+  "id": 28925,
+  "numero": "0045",
+  "fecha": "2023-02-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 574 dictada por la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La revisión se solicitó por la parte demandante, argumentando violaciones al debido proceso y derechos constitucionales. La Sala consideró que la falta de notificación adecuada y el incumplimiento de formalidades procesales afectaron el derecho a la defensa, lo que justificó la reposición de la causa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de la sentencia N° 574 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-24_S0045_E22-0904.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322843-0045-24223-2023-22-0904.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.292398"
+}

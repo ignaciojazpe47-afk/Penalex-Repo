@@ -1,0 +1,26 @@
+{
+  "id": 34345,
+  "numero": "0024",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Rafael Enrique Montserrat Prato, en representación de los ciudadanos Eduardo José Montserrat Guillén y Douglas Rafael Montserrat Guillén, contra la decisión de la Sala de Casación Penal. La Sala establece que no tiene competencia para conocer de la acción de amparo debido a que la decisión impugnada proviene de un órgano superior jerárquicamente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "extradición",
+    "derechos",
+    "garantías",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0024_E19-0771.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315536-0024-11222-2022-19-0771.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.715174"
+}

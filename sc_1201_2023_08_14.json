@@ -1,0 +1,24 @@
+{
+  "id": 34094,
+  "numero": "1201",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por MADERAS DEL ORINOCO C.A. en relación a la causa penal que se sigue contra Andrés Salvador Cristancho Silva y Luis Emilio Ortega Aguilera por delitos de peculado doloso, alteración fraudulenta, boicot y agavillamiento. La Sala consideró que existían razones de interés público y graves desórdenes procesales que justificaban su intervención. Se ordenó la remisión del expediente y la suspensión de la causa, así como la prohibición de realizar cualquier actuación procesal hasta nueva orden.",
+  "palabras_clave": [
+    "avocamiento",
+    "peculado doloso",
+    "alteración fraudulenta",
+    "boicot",
+    "agavillamiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1201_E23-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328405-1201-14823-2023-23-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.874497"
+}

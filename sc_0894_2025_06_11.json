@@ -1,0 +1,26 @@
+{
+  "id": 20309,
+  "numero": "0894",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por el abogado Jorge Luis Mendoza en nombre de Carlos Enrique Morillo Yépez, relacionada con un proceso penal por lesiones personales leves. La solicitud se refiere a irregularidades procesales en un juicio que cursa ante el Juzgado Quinto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Bolívar. La Sala declina el conocimiento del caso a la Sala de Casación Penal del TSJ.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "justicia constitucional",
+    "irregularidades procesales",
+    "derechos constitucionales",
+    "Poder Judicial",
+    "interés público"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0894_E24-0780.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344689-0894-11625-2025-24-0780.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.302156"
+}

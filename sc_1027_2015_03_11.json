@@ -1,0 +1,23 @@
+{
+  "id": 65798,
+  "numero": "1027",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ordenar para mejor proveer",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un caso de revisión de un laudo arbitral dictado por el Tribunal Arbitral en el que se declaró con lugar una demanda de arbitraje por cumplimiento de contrato de arrendamiento. La decisión del Tribunal Arbitral fue remitida a la Sala para su revisión, conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La Sala observa que no se ha acreditado que el fallo tenga carácter de definitivamente firme, lo que es necesario para determinar su existencia jurídica y estatus respectivo.",
+  "palabras_clave": [
+    "revisión",
+    "laudo arbitral",
+    "arrendamiento",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre revisión de laudo arbitral en caso de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-07_S1027_E15-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180502-1027-7815-2015-15-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.351230"
+}

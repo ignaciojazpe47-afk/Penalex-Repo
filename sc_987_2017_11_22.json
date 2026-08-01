@@ -1,0 +1,24 @@
+{
+  "id": 54788,
+  "numero": "987",
+  "fecha": "2017-11-22",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior en lo Civil y Contencioso Administrativo que declaró 'SIN LUGAR' el recurso de apelación interpuesto por Magaly Josefina Apóstol de Hernández en un caso de desalojo. La abogada de la demandante argumentó que la sentencia violó derechos constitucionales, como el debido proceso y la defensa, al no verificar la relación contractual entre las partes. La Sala decidió suspender los efectos de la sentencia impugnada hasta resolver el fondo de la revisión, considerando que existía un peligro en la demora que podría causar un daño irreparable a la demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho al debido proceso",
+    "legitimidad",
+    "medida cautelar"
+  ],
+  "titulo": "Revisión de sentencia sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-22_S987_E17-0882.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205547-987-221117-2017-17-0882.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.500796"
+}

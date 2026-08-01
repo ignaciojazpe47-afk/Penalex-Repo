@@ -1,0 +1,26 @@
+{
+  "id": 33844,
+  "numero": "1991",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Laboral",
+  "decision": "IMPROPONIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible la apelación interpuesta por la abogada Elisabetta Pasta, en representación de Pepsi Cola Venezuela, C.A., contra la sentencia del Tribunal Primero de Primera Instancia de Juicio del Trabajo que declaró el desacato ante el incumplimiento de un mandamiento de amparo. La decisión se basa en la falta de procedencia del recurso de apelación en este contexto, ya que solo se admite la consulta per saltum en casos de desacato.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "jurisdicción",
+    "constitucional",
+    "trabajo",
+    "apelación",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en caso de desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1991_E23-0282.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331961-1991-151223-2023-23-0282.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.432228"
+}

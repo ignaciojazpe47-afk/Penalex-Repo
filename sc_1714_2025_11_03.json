@@ -1,0 +1,24 @@
+{
+  "id": 22764,
+  "numero": "1714",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 0732, declaró improcedente la acción de amparo constitucional presentada por varios ciudadanos contra una decisión del Juzgado Superior Primero del Circuito Judicial del Trabajo de Zulia. La acción se fundamentó en la supuesta violación del debido proceso y el derecho a la defensa, alegando que la decisión impugnada había confirmado una reposición de causa que afectaba sus derechos. Sin embargo, la Sala concluyó que no se cumplían los requisitos para la procedencia del amparo, ya que el tribunal actuó dentro de su competencia y no hubo abuso de poder ni usurpación de funciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "derecho a la defensa",
+    "reposición de causa",
+    "incomparecencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1714_E24-1185.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349453-1714-31125-2025-24-1185.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.526100"
+}

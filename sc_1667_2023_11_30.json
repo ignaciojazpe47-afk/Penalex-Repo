@@ -1,0 +1,25 @@
+{
+  "id": 33158,
+  "numero": "1667",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia del Juzgado Superior Civil que declaró sin lugar una apelación. La parte demandante argumentó que la sentencia contravenía la competencia de la jurisdicción ordinaria y que hubo omisiones en la comunicación durante la pandemia. Sin embargo, la Sala concluyó que no se desconocieron precedentes vinculantes ni se incurrió en errores graves de interpretación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial",
+    "jurisdicción",
+    "derechos fundamentales",
+    "normas constitucionales",
+    "potestad excepcional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1667_E23-0227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330834-1667-301123-2023-23-0227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.981561"
+}

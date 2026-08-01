@@ -1,0 +1,23 @@
+{
+  "id": 33878,
+  "numero": "2026",
+  "fecha": "2023-12-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara la terminación del procedimiento por abandono del trámite en la acción de amparo interpuesta por Marian Estefani Vivas Rivas contra la decisión de la Corte de Apelaciones del estado Mérida. La accionante alegó violaciones a su derecho a un tribunal competente e imparcial, debido a la recusación del juez que conocía su caso, argumentando que este tenía vínculos con el imputado. Sin embargo, se determinó que no hubo impulso del procedimiento por parte de la accionante durante más de seis meses, lo que llevó a la Sala a considerar que había perdido interés en la causa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "derecho a un tribunal competente",
+    "abandonar trámite"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-18_S2026_E22-0610.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331995-2026-181223-2023-22-0610.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.700470"
+}

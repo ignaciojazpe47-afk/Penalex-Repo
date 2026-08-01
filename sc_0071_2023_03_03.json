@@ -1,0 +1,25 @@
+{
+  "id": 29073,
+  "numero": "0071",
+  "fecha": "2023-03-03",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Jhonny Gerardo Montes Peña en defensa de Amador José Moreno Moronta, quien alegaba la falta de fijación de fecha para la audiencia preliminar. La Sala determinó que, a pesar del transcurso del tiempo sin actuación, no se podía declarar el abandono del trámite debido a la posible afectación de derechos fundamentales. Sin embargo, concluyó que era incompetente para conocer del caso y declinó la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Miranda.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-03_S0071_E20-0211.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323239-0071-3323-2023-20-0211.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.352849"
+}

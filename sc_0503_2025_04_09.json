@@ -1,0 +1,24 @@
+{
+  "id": 19356,
+  "numero": "0503",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n° 645, se pronunció sobre la solicitud de revisión constitucional presentada por la abogada Davinnia Miranda en representación de Darío Moisés Canelón González, quien fue condenado a quince años de prisión por homicidio intencional calificado. La Sala declaró que no ha lugar a la solicitud, argumentando que no se evidenció vulneración de derechos constitucionales ni errores en la interpretación de la ley por parte del juzgado de juicio.",
+  "palabras_clave": [
+    "presuncion de inocencia",
+    "privacion de libertad",
+    "inconstitucionalidad",
+    "derechos humanos",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0503_E16-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343054-0503-9425-2025-16-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.594535"
+}

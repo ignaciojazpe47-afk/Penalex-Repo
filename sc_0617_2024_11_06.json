@@ -1,0 +1,24 @@
+{
+  "id": 27201,
+  "numero": "0617",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR a la solicitud de revisión interpuesta.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia número 139 dictada por la Sala de Casación Penal, que desestimó un recurso de casación interpuesto por el abogado Juan Carlos Goitia Gómez en representación de Luis Gerardo Contreras Pérez. La Sala determinó su competencia para conocer del caso y concluyó que la solicitud de revisión no contribuía a la uniformidad de la interpretación de normas y principios constitucionales, por lo que se declaró no ha lugar a la misma.",
+  "palabras_clave": [
+    "recurso de casación",
+    "falta de motivación",
+    "incongruencia omisiva",
+    "orden público",
+    "derecho penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0617_E21-0744.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338600-0617-61124-2024-21-0744.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.457758"
+}

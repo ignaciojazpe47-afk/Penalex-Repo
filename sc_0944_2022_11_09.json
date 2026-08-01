@@ -1,0 +1,23 @@
+{
+  "id": 37246,
+  "numero": "0944",
+  "fecha": "2022-11-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional recibió un oficio del Tribunal Superior Primero del Circuito de Protección de Niños, Niñas y Adolescentes, relacionado con un recurso de apelación sobre una sentencia de divorcio. La Sala decidió parcialmente con lugar el recurso de apelación interpuesto por el demandante, anulando la sentencia anterior y desaplicando un artículo del Código Civil. Además, ordenó la partición y liquidación de la comunidad conyugal entre las partes involucradas.",
+  "palabras_clave": [
+    "partición",
+    "liquidación",
+    "comunidad conyugal",
+    "divorcio"
+  ],
+  "titulo": "Sentencia sobre partición y liquidación de comunidad conyugal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0944_E19-0606.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320632-0944-91122-2022-19-0606.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.362854"
+}

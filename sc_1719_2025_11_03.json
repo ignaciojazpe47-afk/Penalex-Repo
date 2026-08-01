@@ -1,0 +1,24 @@
+{
+  "id": 22769,
+  "numero": "1719",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Javier Ramón Villarroel Rodríguez, quien actúa como apoderado judicial de la empresa AQUAMARINA DE LA COSTA C.A. La decisión impugnada fue la admitida por la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui, que admitió un recurso de apelación en un proceso penal. La Sala argumenta que la falta de legitimación del demandante invalida la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "legitimación",
+    "Corte de Apelaciones",
+    "Anzoátegui"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1719_E25-0917.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349458-1719-31125-2025-25-0917.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.525713"
+}

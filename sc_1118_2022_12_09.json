@@ -1,0 +1,26 @@
+{
+  "id": 37833,
+  "numero": "1118",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió una acción de amparo constitucional interpuesta por Alexis Manuel Arguello Biondo contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. La decisión impugnada anuló una resolución anterior que había declarado con lugar una excepción opuesta por el demandante, lo que llevó a un sobreseimiento de la causa penal por extinción de la acción penal. La Sala declaró su competencia para conocer la acción de amparo y decidió a favor del demandante.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "extralimitación",
+    "acción penal",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1118_E22-0194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321701-1118-91222-2022-22-0194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.426558"
+}

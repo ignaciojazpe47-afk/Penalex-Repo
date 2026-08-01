@@ -1,0 +1,24 @@
+{
+  "id": 2465,
+  "numero": null,
+  "fecha": "2001-06-01",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida declaró con lugar el recurso de apelación contra una sentencia absolutoria, condenando al acusado a doce años y veinticinco días de prisión por delitos relacionados con sustancias estupefacientes y un arma de fuego. Posteriormente, la defensa presentó un recurso de casación, alegando inmotivación del fallo impugnado, pero la Sala de Casación Penal del TSJ desestimó el recurso por considerarlo manifiestamente infundado, afirmando que la fundamentación del recurso no cumplía con los requisitos necesarios.",
+  "palabras_clave": [
+    "casación",
+    "penal",
+    "sentencia",
+    "recursos",
+    "delitos"
+  ],
+  "titulo": "Desestimación del recurso de casación en caso de José Gregorio Zerpa Uzcátegui",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-06-01_CasacionPenal_C010133_PerezPerdomo.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:10.586581"
+}

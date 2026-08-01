@@ -1,0 +1,26 @@
+{
+  "id": 18710,
+  "numero": "0256",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Procedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 0019 el 4 de febrero de 2025, homologando un desistimiento presentado por la abogada Rosemary Castro de Tinoco-Smith. Posteriormente, la abogada solicitó la corrección de la sentencia, alegando un error material en la identificación del número de expediente. La Sala, tras revisar el caso, constató que efectivamente hubo un error en la transcripción del número de expediente y decidió revocar la sentencia anterior y reponer la causa al estado correspondiente para continuar con el conocimiento de la solicitud de avocamiento.",
+  "palabras_clave": [
+    "corrección",
+    "sentencia",
+    "error material",
+    "tutela judicial",
+    "procedimiento civil",
+    "abogado",
+    "justicia"
+  ],
+  "titulo": "Corrección de la sentencia número 0019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0256_E24-0494.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342134-0256-5325-2025-24-0494.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.803423"
+}

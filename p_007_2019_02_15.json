@@ -1,0 +1,24 @@
+{
+  "id": 42213,
+  "numero": "007",
+  "fecha": "2019-02-15",
+  "anio": 2019,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Improcedente",
+  "ponente": "FRANCIA COELLO GONZÁLEZ",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, declara improcedente la solicitud de extradición pasiva presentada por la República Francesa contra Jacques Desulme, argumentando que la Constitución de Venezuela prohíbe la extradición de nacionales. Se establece que Desulme, quien tiene nacionalidad venezolana por naturalización, no puede ser extraditado, y se asume el compromiso de continuar con el proceso judicial en Venezuela. La Sala también insta al Ministerio Público a investigar las irregularidades relacionadas con la identidad del requerido.",
+  "palabras_clave": [
+    "extradición",
+    "Jacques Desulme",
+    "nacionalidad",
+    "Venezuela",
+    "Francia"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición pasiva del ciudadano Jacques Desulme",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2019-02-15_S007_E18-293.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/303814-007-15219-2019-E18-293.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:10.821594"
+}

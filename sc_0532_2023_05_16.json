@@ -1,0 +1,26 @@
+{
+  "id": 30314,
+  "numero": "0532",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Luis Alberto Rodríguez, solicitando el restablecimiento de las funciones del Poder Legislativo, alegando que la Asamblea Nacional se encontraba inoperante. La Sala constató que desde la presentación de la acción no hubo interés en continuar el trámite, lo que se consideró abandono del mismo.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "multa",
+    "abandonotramite",
+    "jurisprudencia",
+    "poder legislativo",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por inoperancia de la Asamblea Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0532_E16-0931.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325160-0532-16523-2023-16-0931.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.850962"
+}

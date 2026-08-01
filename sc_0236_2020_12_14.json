@@ -1,0 +1,26 @@
+{
+  "id": 41911,
+  "numero": "0236",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 60 de la Sala de Casación Penal, que anuló una audiencia oral por falta de notificación a la Procuraduría General de la República. Se argumentó que esta omisión violó el derecho a la defensa y la tutela judicial efectiva. La Sala Constitucional concluyó que la reposición del proceso penal a una fase anterior era inoficiosa y contraria a la ley, por lo que declaró con lugar la solicitud de revisión y anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "incongruencia",
+    "prescripción",
+    "tutela judicial",
+    "debido proceso",
+    "defensa",
+    "acción penal",
+    "reposición"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0236_E20-0422.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310993-0236-141220-2020-20-0422.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.397844"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30598,
+  "numero": "0644",
+  "fecha": "2022-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional en la modalidad de habeas corpus interpuesta por los abogados de dos ciudadanas privadas de libertad en el Estado Falcón. Se argumentó que las demandantes habían cumplido la pena impuesta y que no se había realizado pronunciamiento por parte de la Corte de Apelaciones sobre su situación. La Sala, tras analizar la competencia, decidió asumir el caso y ordenó a la Corte de Apelaciones informar sobre el estado de la causa penal y la situación de las demandantes.",
+  "palabras_clave": [
+    "habeas corpus",
+    "competencia",
+    "omisión",
+    "Corte de Apelaciones",
+    "amparo",
+    "libertad"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0644_E22-0017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325732-0644-30523-2023-22-0017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.428238"
+}

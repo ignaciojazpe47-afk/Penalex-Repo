@@ -1,0 +1,23 @@
+{
+  "id": 43139,
+  "numero": "0143",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La ciudadana Anya Teodora Ibarra Páez interpuso una acción de amparo constitucional contra una decisión del Tribunal Superior Octavo que revocó parcialmente un fallo anterior sobre la partición de la comunidad conyugal. La Sala Constitucional del TSJ declaró con lugar la acción de amparo, argumentando que la sentencia impugnada vulneró derechos fundamentales de la demandante, al no considerar adecuadamente la existencia de bienes adquiridos durante el matrimonio. Se ordenó anular la decisión del tribunal inferior y remitir el expediente para que se resuelva la apelación correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "partición de bienes",
+    "comunidad conyugal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0143_E15-1255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305586-0143-18619-2019-15-1255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.833553"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 61954,
+  "numero": "67",
+  "fecha": "2015-02-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Francisco A. Carrasquero López",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por José Ángel Arévalo Naranjo contra la decisión del Juzgado Superior que declaró sin lugar su oferta real y depósito a favor de Carlos Alberto Almeida. La Sala concluye que la oferta no cumplía con los requisitos de validez establecidos en el Código Civil, específicamente la condición bajo la cual se contrajo la deuda no fue cumplida. Se resalta que el procedimiento de oferta real no es idóneo para exigir el cumplimiento de un contrato cuando la obligación está sujeta a una condición suspensiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "oferta real",
+    "Código Civil",
+    "Estado Guárico"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-18_S67_E14-1117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174346-67-18215-2015-14-1117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.530142"
+}

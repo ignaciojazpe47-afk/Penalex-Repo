@@ -1,0 +1,27 @@
+{
+  "id": 28574,
+  "numero": "1405",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Jean Rosmer Tuarez Flores, quien actúa como defensor privado de los ciudadanos Lende José Medina Caro y Luis Alberto Mecía. La inadmisibilidad se fundamenta en la falta de representación adecuada, ya que el abogado no presentó documentación que acredite su condición de defensor. Además, se señala que la acción fue presentada sin los documentos necesarios, lo que también contribuye a su inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "defensor",
+    "legitimación",
+    "proceso penal",
+    "representación",
+    "inadmision",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1405_E24-0014.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340597-1405-121224-2024-24-0014.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.821584"
+}

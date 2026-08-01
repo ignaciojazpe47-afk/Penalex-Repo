@@ -1,0 +1,23 @@
+{
+  "id": 41941,
+  "numero": "0254",
+  "fecha": "2020-12-15",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por José Felipe Bello Castillo, quien alegó violaciones a sus derechos en un proceso de partición de bienes. La decisión se fundamenta en que el demandante había optado por recurrir a la vía ordinaria, específicamente un recurso de apelación, lo que impide la admisión del amparo según lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala confirma el fallo del Juzgado Superior Primero que había declarado inadmisible la acción de amparo el 1 de febrero de 2018.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "partición de bienes"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-15_S0254_E18-0245.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311053-0254-151220-2020-18-0245.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.394639"
+}

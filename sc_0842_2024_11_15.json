@@ -1,0 +1,26 @@
+{
+  "id": 27595,
+  "numero": "0842",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de noviembre de 2024, declaró improcedente la acción de amparo constitucional interpuesta por Francisco Javier Morales Carrasquero, quien alegaba la vulneración de sus derechos al no poder ejercer su defensa técnica. La Corte de Apelaciones había declarado inadmisible su apelación por falta de legitimidad, argumentando que el recurrente no tenía la condición de imputado en la causa. La Sala Constitucional reafirmó que la decisión de la Corte de Apelaciones fue ajustada a derecho, ya que el demandante no había sido formalmente imputado y, por lo tanto, carecía de legitimidad para recurrir.",
+  "palabras_clave": [
+    "derechos humanos",
+    "debido proceso",
+    "tutela judicial",
+    "imputación",
+    "defensa",
+    "arbitrariedad",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Francisco Javier Morales Carrasquero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0842_E22-0848.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339032-0842-151124-2024-22-0848.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.205761"
+}

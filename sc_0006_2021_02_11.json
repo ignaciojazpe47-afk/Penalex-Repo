@@ -1,0 +1,22 @@
+{
+  "id": 38165,
+  "numero": "0006",
+  "fecha": "2021-02-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.428, que prorroga el Estado de Excepción de Alarma en Venezuela debido a la pandemia de COVID-19. Se argumenta que el decreto cumple con los principios y normas de la Constitución y la Ley Orgánica sobre Estados de Excepción, garantizando la salud y seguridad de la población. La decisión resalta la competencia de la Sala para revisar la constitucionalidad de tales decretos y la necesidad de adoptar medidas urgentes para mitigar los riesgos de la epidemia.",
+  "palabras_clave": [
+    "Estado de Excepción",
+    "COVID-19",
+    "Constitucionalidad"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto N° 4.428",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-02-11_S0006_E21-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/311299-0006-11221-2021-21-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.768185"
+}

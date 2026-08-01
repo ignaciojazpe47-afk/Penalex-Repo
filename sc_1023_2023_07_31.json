@@ -1,0 +1,26 @@
+{
+  "id": 31665,
+  "numero": "1023",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis la acción de amparo constitucional interpuesta",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Yohanny José Arias Calvo contra la decisión de la Corte Marcial que declaró sin lugar un recurso de apelación. La Sala declaró su competencia para conocer el caso, pero consideró que la acción era improcedente debido a la falta de los requisitos necesarios para su admisión. Se argumentó que la inacción del demandante durante el proceso evidenció un abandono del trámite, lo que llevó a la conclusión de que no se podía continuar con la acción de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "justicia militar",
+    "falsificación",
+    "documentos",
+    "normas",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1023_E20-0174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327555-1023-31723-2023-20-0174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.905087"
+}

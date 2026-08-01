@@ -1,0 +1,23 @@
+{
+  "id": 65536,
+  "numero": "528",
+  "fecha": "2015-07-27",
+  "anio": 2015,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Improcedente",
+  "ponente": "ELSA JANETH GÓMEZ MORENO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia de Venezuela declara improcedente la solicitud de extradición pasiva del ciudadano Víctor Alfonso Riobueno Ortiz, requerido por el Gobierno de Argentina por el delito de tenencia de estupefacientes con fines de comercialización. La decisión se fundamenta en el principio de no entrega de nacionales, ya que el demandado es venezolano por nacimiento. No obstante, se establece el compromiso del Estado venezolano de procesar penalmente al ciudadano por los hechos que motivaron la solicitud de extradición, permitiendo así que se continúe con el juzgamiento en Venezuela.",
+  "palabras_clave": [
+    "extradición",
+    "tenencia de estupefacientes",
+    "Venezuela",
+    "Argentina"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición pasiva del ciudadano Víctor Alfonso Riobueno Ortiz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2015-07-27_S528_E15-222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/julio/180103-528-27715-2015-E15-222.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:33.654920"
+}

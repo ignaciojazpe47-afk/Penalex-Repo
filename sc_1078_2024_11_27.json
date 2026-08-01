@@ -1,0 +1,25 @@
+{
+  "id": 27965,
+  "numero": "1078",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por el abogado Jesús Antonio Alvarado Rendón en representación de Warner Daniel Mojes, condenado a 12 años de prisión por tráfico ilícito de sustancias estupefacientes y asociación para delinquir. La defensa argumentó vicios en el consentimiento durante el proceso de admisión de hechos, alegando que su defendido actuó bajo presión y sin asesoramiento adecuado.\nLa Sala, tras analizar las actas del expediente, concluyó que la sentencia del Juzgado Tercero de Primera Instancia estaba ajustada a derecho y no vulneraba derechos constitucionales. Se determinó que la solicitud de revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales, por lo que se declaró que no ha lugar a la solicitud de revisión.\nFinalmente, se ratificó la decisión del juzgado de origen y se ordenó el cumplimiento de lo decidido.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "sentencia condenatoria",
+    "admisión de hechos",
+    "derechos humanos",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Revisión de sentencia condenatoria por tráfico ilícito de sustancias estupefacientes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1078_E23-0790.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339601-1078-271124-2024-23-0790.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.488087"
+}

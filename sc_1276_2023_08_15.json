@@ -1,0 +1,24 @@
+{
+  "id": 34166,
+  "numero": "1276",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Iván Rafael Campos Hernández contra la sentencia de la Sala Accidental N° 5 de la Corte de Apelaciones del Estado Aragua, que decretó la nulidad absoluta del sobreseimiento de su causa. La Sala consideró que la apelación admitida por la Corte de Apelaciones fue realizada sin la debida representación legal, lo que constituye una violación al debido proceso y a la tutela judicial efectiva. En consecuencia, se declaró procedente la acción de amparo y se anuló la decisión de la Corte de Apelaciones, manteniendo firme el sobreseimiento dictado por el Juzgado Cuarto de Primera Instancia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad absoluta",
+    "sobreseimiento",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Iván Rafael Campos Hernández",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1276_E23-0142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328478-1276-15823-2023-23-0142.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.848422"
+}

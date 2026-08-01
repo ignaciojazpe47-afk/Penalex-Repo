@@ -1,0 +1,23 @@
+{
+  "id": 18440,
+  "numero": "0134",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar la acción de amparo constitucional interpuesta por Carlos Eduardo Aguilera Arteaga, revocando la decisión del Juzgado Superior Noveno que había declarado inadmisible la acción por caducidad. La Sala ordenó la restitución de la situación jurídica infringida, permitiendo que Aguilera Arteaga recupere la posesión del apartamento en el Edificio Wiosan. Además, se impuso una multa a los demandados por la conducta procesal observada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución de posesión",
+    "caducidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0134_E23-0442.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341539-0134-13225-2025-23-0442.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.768393"
+}

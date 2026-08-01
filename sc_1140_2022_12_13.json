@@ -1,0 +1,22 @@
+{
+  "id": 37953,
+  "numero": "1140",
+  "fecha": "2022-12-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-000623 dictada el 11 de noviembre de 2021 por la Sala de Casación Civil, que declaró con lugar el recurso de casación interpuesto por la parte demandada. La revisión se solicitó por el demandante, quien alegó infracciones a garantías constitucionales y al debido proceso. La Sala, tras analizar los argumentos, concluyó que la decisión recurrida no vulneró derechos fundamentales y que la parte demandada cumplió con sus obligaciones en la transacción homologada, por lo que se declaró NO HA LUGAR la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "obligación de pago",
+    "sentencia de casación"
+  ],
+  "titulo": "Revisión de sentencia de casación sobre obligación de pago",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-13_S1140_E22-0102.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321866-1140-131222-2022-22-0102.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.411850"
+}

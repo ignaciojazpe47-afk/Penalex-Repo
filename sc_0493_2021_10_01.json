@@ -1,0 +1,26 @@
+{
+  "id": 39760,
+  "numero": "0493",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Brígida Vidalina García, Presidenta Nacional de la organización política 'JUVENTUD UNIDA EN ACCIÓN NACIONAL CON BIMBA (JUAN BIMBA)', contra la omisión de pronunciamiento del Consejo Nacional Electoral. La accionante alegó que se le cercena el derecho al debido proceso y a la participación política al no permitir su organización participar en las elecciones del 21 de noviembre de 2021.\n\nLa Sala argumenta que la acción de amparo no es procedente ya que existen vías judiciales ordinarias, como el recurso contencioso electoral, que debieron ser agotadas antes de recurrir al amparo. Se establece que la acción de amparo es un mecanismo extraordinario que solo debe utilizarse cuando no hay medios procesales adecuados para restablecer los derechos vulnerados.\n\nFinalmente, se concluye que la parte actora no justificó la elección del amparo en lugar de los mecanismos ordinarios, lo que lleva a la inadmisibilidad de la acción presentada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "proceso",
+    "electoral",
+    "justicia",
+    "constitucional",
+    "vías judiciales"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional interpuesta por Brígida Vidalina García",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0493_E21-0388.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313607-0493-11021-2021-21-0388.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.615239"
+}

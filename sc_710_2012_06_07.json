@@ -1,0 +1,23 @@
+{
+  "id": 64469,
+  "numero": "710",
+  "fecha": "2012-06-07",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión presentada por la abogada Glesis Johana Machado Fernández en representación de Didalco Antonio Bolívar Graterol. La decisión se fundamenta en la competencia de la Sala para conocer la solicitud y en la falta de motivación suficiente para la admisión de la misma. Además, se suspendieron los efectos de una decisión anterior de la Sala Electoral hasta que se resuelva el fondo de la causa, y se acordó el nombramiento de una Junta ad hoc para la organización política PODEMOS.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmision",
+    "PODEMOS",
+    "Junta ad hoc"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-10_S710_E12-0402.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178381-710-10615-2015-12-0402.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.529208"
+}

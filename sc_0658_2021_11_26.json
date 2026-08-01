@@ -1,0 +1,25 @@
+{
+  "id": 40472,
+  "numero": "0658",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de hábeas data interpuesto por el ciudadano Ángel Ramón Rivas Sumoz, representado por el abogado Aníbal Gregorio Del Valle Rojas, con el objetivo de desbloquear y actualizar su acceso al sistema judicial. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso, ya que el recurso debía ser presentado ante el tribunal de municipio correspondiente.",
+  "palabras_clave": [
+    "hábeas data",
+    "incompetencia",
+    "tribunales",
+    "jurisdicción",
+    "derechos",
+    "administrativo"
+  ],
+  "titulo": "Sentencia sobre recurso de hábeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0658_E21-0508.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314734-0658-261121-2021-21-0508.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.503945"
+}

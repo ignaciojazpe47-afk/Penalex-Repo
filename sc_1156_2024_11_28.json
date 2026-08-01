@@ -1,0 +1,27 @@
+{
+  "id": 28067,
+  "numero": "1156",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "ADMITE la demanda por colisión de leyes.",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda por colisión de normas entre el artículo 1965 del Código Civil y el artículo 114 de la Ley Orgánica para la Protección de Niños, Niñas y Adolescentes. Se argumentó que ambas disposiciones regulan la prescripción de acciones legales de manera contradictoria, afectando los derechos de los menores. La decisión establece la competencia de la Sala para resolver esta colisión y ordena la remisión del expediente al Juzgado de Sustanciación para las notificaciones pertinentes.",
+  "palabras_clave": [
+    "colision normativa",
+    "derechos de los niños",
+    "proteccion infantil",
+    "codigo civil",
+    "ley organica",
+    "competencia",
+    "sentencia",
+    "materia laboral"
+  ],
+  "titulo": "Sentencia sobre colisión de normas entre el Código Civil y la LOPNNA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1156_E24-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339753-1156-281124-2024-24-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.464996"
+}

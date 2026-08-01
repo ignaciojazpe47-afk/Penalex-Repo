@@ -1,0 +1,27 @@
+{
+  "id": 33237,
+  "numero": "1740",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Gladys Graciela Conde Carvajal contra la decisión del Juzgado Superior Undécimo que declaró la caducidad de la acción subsidiaria de nulidad de cesión de bienes. La Sala considera que el agraviado no agotó los recursos ordinarios disponibles, como el recurso de casación, antes de optar por el amparo. Además, se revisa de oficio la sentencia del 27 de abril de 2023, la cual fue anulada por vulnerar derechos constitucionales al no pronunciarse sobre la acción principal de nulidad de matrimonio.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "jurisprudencia",
+    "recursos",
+    "tutela",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1740_E23-0762.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330986-1740-41223-2023-23-0762.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.157269"
+}

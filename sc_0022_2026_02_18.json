@@ -1,0 +1,25 @@
+{
+  "id": 17524,
+  "numero": "0022",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de febrero de 2026, declaró improcedente la acción de amparo interpuesta por la abogada Diurkin Bolívar Lugo en representación de Johan José Lugo, contra la sentencia de la Corte de Apelaciones que había declarado sin lugar la solicitud de decaimiento de la medida de privación judicial preventiva de libertad. La Sala fundamentó su decisión en que la medida de coerción no opera automáticamente y debe evaluarse en función de la gravedad del delito y la protección de las víctimas.",
+  "palabras_clave": [
+    "inmotivación",
+    "derechos fundamentales",
+    "error judicial",
+    "violencia de género",
+    "debido proceso",
+    "medidas de coerción"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Johan José Lugo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0022_E25-1350.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352686-0022-18226-2026-25-1350.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.061346"
+}

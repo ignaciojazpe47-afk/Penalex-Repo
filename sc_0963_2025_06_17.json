@@ -1,0 +1,25 @@
+{
+  "id": 20412,
+  "numero": "0963",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Juan José Domínguez Bolívar contra la sentencia del Tribunal Superior del Trabajo de la Circunscripción Judicial del Estado Guárico, que había confirmado un fallo de primera instancia que declaró con lugar una demanda por prestaciones sociales. La decisión se fundamenta en que el accionante no agotó las vías judiciales ordinarias antes de recurrir al amparo, lo que contraviene la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "incomparecencia",
+    "audiencia",
+    "apelación",
+    "Ley Orgánica Procesal del Trabajo",
+    "carga procesal",
+    "justificación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0963_E25-0296.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344925-0963-17625-2025-25-0296.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.310844"
+}

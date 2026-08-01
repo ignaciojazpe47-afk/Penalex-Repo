@@ -1,0 +1,26 @@
+{
+  "id": 33726,
+  "numero": "1873",
+  "fecha": "2023-12-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por José Abdón Sánchez Suárez contra la decisión del Juzgado Superior Décimo, que había declarado improcedente la acción de amparo constitucional. La Sala consideró que no se habían agotado las vías necesarias para la reconstrucción del expediente y que el tribunal de primera instancia había actuado dentro de los parámetros legales. Además, se revocó de oficio la decisión del juzgado superior y se declaró inadmisible la acción de amparo por no cumplir con los requisitos de procedencia.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "juzgado",
+    "reconstrucción",
+    "expediente",
+    "retardo",
+    "decisión"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1873_E19-0594.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331843-1873-111223-2023-19-0594.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.699713"
+}

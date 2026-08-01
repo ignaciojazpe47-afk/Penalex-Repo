@@ -1,0 +1,24 @@
+{
+  "id": 57620,
+  "numero": "417",
+  "fecha": "2016-05-30",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la desaplicación de los artículos 13.3 y 22 del Código Penal, que establecen la pena accesoria de sujeción a la vigilancia de la autoridad. La Sala consideró que dicha pena es excesiva y colide con el derecho a la libertad personal, ya que restringe la libertad plena del penado una vez cumplida la pena principal. En consecuencia, se declaró la extinción de la pena accesoria a favor del ciudadano Franklin José Rondón Moreno, quien había sido condenado por hurto agravado.",
+  "palabras_clave": [
+    "desaplicación",
+    "pena accesoria",
+    "sujeción a la vigilancia",
+    "libertad personal",
+    "hurto agravado"
+  ],
+  "titulo": "Sentencia sobre la desaplicación de la pena accesoria de sujeción a la vigilancia de la autoridad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-05-30_S417_E11-0612.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/187993-417-30516-2016-11-0612.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:12.214660"
+}

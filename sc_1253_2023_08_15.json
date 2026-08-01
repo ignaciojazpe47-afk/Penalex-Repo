@@ -1,0 +1,24 @@
+{
+  "id": 34145,
+  "numero": "1253",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional recibió un recurso de amparo constitucional interpuesto por Pedro Enrique Velasco Prieto contra una decisión de la Sala Segunda de la Corte de Apelaciones del Estado Carabobo. El demandante alegó que la recusación en su contra fue inadmisible y violó sus derechos a la tutela judicial efectiva y debido proceso. La Sala decidió ordenar a la Presidencia del Circuito Judicial Penal del Estado Carabobo que informe sobre el estado del asunto penal relacionado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recusación",
+    "debido proceso",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1253_E21-0795.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328457-1253-15823-2023-21-0795.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.855624"
+}

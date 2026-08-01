@@ -1,0 +1,24 @@
+{
+  "id": 16729,
+  "numero": "0027",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por el abogado Carlos Javier Chourio, en representación de varios ciudadanos imputados en un proceso penal por presunta estafa y asociación para delinquir. La Sala concluye que el caso debe ser conocido por la Sala de Casación Penal, dado que se trata de un asunto de naturaleza penal que no involucra competencias de la Sala Constitucional. La decisión se fundamenta en la falta de carácter penal de los hechos denunciados y en la necesidad de que el proceso sea tramitado por la jurisdicción correspondiente.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "estafa",
+    "asociación para delinquir",
+    "terrorismo judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0027_E25-0376.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352697-0027-18226-2026-25-0376.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.070015"
+}

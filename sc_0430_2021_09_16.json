@@ -1,0 +1,25 @@
+{
+  "id": 39560,
+  "numero": "0430",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la solicitud de revisión de la sentencia N° 0386 dictada el 14 de agosto de 2019 por la Sala de Casación Civil. La revisión fue solicitada por los abogados de la ciudadana Haruko Aoki Kato, quienes argumentaron que la sentencia de la Sala de Casación no analizó adecuadamente la contradicción denunciada y que debió abstenerse de decidir hasta que el Ministerio Público investigara un fraude procesal. La Sala Constitucional concluyó que la decisión de la Sala de Casación Civil fue exhaustiva y no vulneró principios constitucionales.",
+  "palabras_clave": [
+    "inmotivación",
+    "sentencia",
+    "jurisprudencia",
+    "Código de Procedimiento Civil",
+    "derechos",
+    "carga de la prueba"
+  ],
+  "titulo": "Revisión de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0430_E19-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313397-0430-16921-2021-19-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.628111"
+}

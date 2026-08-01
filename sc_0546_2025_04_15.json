@@ -1,0 +1,22 @@
+{
+  "id": 19444,
+  "numero": "0546",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado Efraín Jesús Moreno Negrín en representación de Jesús Eduardo Marín Hernández. La acción se basaba en la nulidad de una decisión de la Corte de Apelaciones que había declarado la nulidad de oficio de una decisión anterior del Tribunal Segundo de Primera Instancia que había decretado el sobreseimiento de la causa por falta de elementos de convicción. La Sala consideró que la Corte de Apelaciones actuó dentro de su competencia y que la decisión impugnada no vulneró los derechos constitucionales alegados por el accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad de oficio",
+    "sobreseimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0546_E23-0601.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343151-0546-15425-2025-23-0601.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.038731"
+}

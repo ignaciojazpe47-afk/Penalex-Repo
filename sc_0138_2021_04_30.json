@@ -1,0 +1,22 @@
+{
+  "id": 38583,
+  "numero": "0138",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Nacional Segundo de lo Contencioso Administrativo y el Juzgado Superior Séptimo Contencioso Tributario, relacionado con una acción de amparo interpuesta por la Sociedad Mercantil SERVICIO ÓSEO 28, C.A. contra una resolución de la Dirección de Administración Tributaria del Municipio Chacao. La Corte declaró su competencia para conocer del caso y ordenó la remisión del expediente al tribunal correspondiente en materia tributaria.\n\nLa decisión se fundamenta en la naturaleza administrativa de las sanciones impuestas a la empresa, que no corresponden a la jurisdicción contenciosa administrativa ordinaria, sino a la contenciosa tributaria. Se establece que el tribunal competente para conocer de la acción de amparo es el Juzgado Superior Contencioso Tributario de la Circunscripción Judicial del Área Metropolitana de Caracas.\n\nFinalmente, se impuso una multa a los abogados de la parte demandante por el uso excesivo de los mecanismos procesales, destacando la necesidad de un uso adecuado de los recursos judiciales para garantizar la tutela efectiva de los derechos constitucionales.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "acción de amparo",
+    "resolución tributaria"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0138_E17-0549.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312002-0138-30421-2021-17-0549.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.889927"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33782,
+  "numero": "1930",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Eddy Rubén Verenzuela contra el Tribunal Superior Accidental del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Aragua. La acción se fundamenta en la denuncia de violaciones a derechos constitucionales, específicamente el derecho a la defensa y el debido proceso, en relación con una decisión del 6 de octubre de 2023 que declaró inadmisible una acción de amparo anterior.\nLa Sala declaró su competencia para conocer de la acción de amparo y ordenó oficiar a la Coordinación del Circuito Judicial de Protección de Niños, Niñas y Adolescentes para que remita un informe detallado sobre el estado actual de la causa relacionada con la acción de amparo. Se establece un plazo de cinco días para la remisión de la información solicitada, más dos días adicionales por término de distancia.\nFinalmente, se ordena la publicación y registro de la decisión, así como el cumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "niños",
+    "adolescentes",
+    "justicia",
+    "tutela",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1930_E23-1097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331899-1930-131223-2023-23-1097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.444960"
+}

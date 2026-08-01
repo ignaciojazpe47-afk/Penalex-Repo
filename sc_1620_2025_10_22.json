@@ -1,0 +1,25 @@
+{
+  "id": 22423,
+  "numero": "1620",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria presentada por el abogado Simón José Arrieta Quintero en nombre de la ciudadana Jenny Carol Godoy Gil. La solicitud fue presentada fuera del lapso legal establecido, ya que la sentencia original fue dictada el 22 de noviembre de 2023 y la aclaratoria fue solicitada el 11 de enero de 2024. La Sala argumenta que la norma establece que la solicitud debe hacerse el día de la publicación o al siguiente.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "inadmisible",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1620_E23-0897.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349001-1620-221025-2025-23-0897.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.752967"
+}

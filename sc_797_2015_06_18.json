@@ -1,0 +1,24 @@
+{
+  "id": 64673,
+  "numero": "797",
+  "fecha": "2015-06-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Lizet Eloísa Guerrero Acosta, quien alegaba violaciones a sus derechos constitucionales en el contexto de un desalojo. La Sala consideró que la acción no podía restablecer la situación jurídica infringida, dado que la entrega material del inmueble ya se había realizado. Además, se destacó que el amparo no es el medio adecuado para discutir cuestiones de fraude procesal, las cuales deben ser ventiladas en un juicio ordinario.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derechos constitucionales",
+    "inadmision",
+    "fraude procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-18_S797_E14-1287.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178765-797-18615-2015-14-1287.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.255672"
+}

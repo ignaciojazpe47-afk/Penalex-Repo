@@ -1,0 +1,24 @@
+{
+  "id": 31023,
+  "numero": "0806",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena la remisión del expediente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un caso de desacato de un mandamiento de amparo constitucional. La sentencia se dictó en respuesta a la acción de amparo presentada por María Eugenia Salas Camperos contra varios ciudadanos. Se ordena la remisión del expediente al tribunal de origen para el pronunciamiento correspondiente, advirtiendo sobre posibles sanciones por incumplimiento.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "remisión de expediente",
+    "sanciones",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre desacato de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0806_E23-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326462-0806-26623-2023-23-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.560176"
+}

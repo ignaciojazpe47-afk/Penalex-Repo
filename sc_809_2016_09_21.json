@@ -1,0 +1,24 @@
+{
+  "id": 59312,
+  "numero": "809",
+  "fecha": "2016-09-21",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, ha declarado con lugar la solicitud de revisión presentada por la abogada Milagros del Valle Ortiz, en relación a la sentencia N° 2013-2005 de la Corte Segunda de lo Contencioso Administrativo. La Sala determinó que la sentencia recurrida incurrió en violación del artículo 92 de la Constitución, al negar la indexación de las prestaciones sociales adeudadas, lo que constituye una deuda de valor de exigibilidad inmediata. La Corte también destacó que el retardo en el pago de las prestaciones sociales genera intereses moratorios, y que la negativa de la indexación representa un incumplimiento de la obligación del patrono de garantizar un nivel de vida digno al trabajador.\n\nLa Sala ordenó al Juzgado Superior Segundo en lo Civil y Contencioso Administrativo que realice las gestiones necesarias para el cálculo de la corrección monetaria por concepto de retardo en el pago de las prestaciones sociales, desde la fecha de admisión de la querella funcionarial hasta la consignación del informe de experticia. La decisión reafirma la jurisprudencia sobre la procedencia de la indexación y los intereses moratorios en casos de mora en el pago de prestaciones sociales.\n\nFinalmente, se destaca que la Sala Constitucional, al ejercer su potestad revisora, busca proteger los derechos constitucionales de los trabajadores, asegurando que no se vean perjudicados por la inflación y el incumplimiento en el pago de sus derechos laborales.",
+  "palabras_clave": [
+    "indexación",
+    "prestaciones sociales",
+    "intereses moratorios",
+    "derechos laborales",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-09-21_S809_E16-0202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/190407-809-21916-2016-16-0202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.782521"
+}

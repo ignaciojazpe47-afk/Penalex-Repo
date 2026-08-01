@@ -1,0 +1,23 @@
+{
+  "id": 35800,
+  "numero": "0444",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia relacionado con una acción de amparo constitucional interpuesta por el Alcalde del Municipio Sucre y la Síndica Procuradora contra varias asociaciones civiles por el aumento abusivo de tarifas de transporte. La Sala declaró competente al Juzgado Superior Estadal de lo Contencioso Administrativo para conocer de la apelación de la decisión del Juzgado Tercero que había declarado con lugar la acción de amparo. Se ordenó la remisión del expediente a dicho tribunal para su conocimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tarifas de transporte",
+    "conflicto de competencia",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por aumento abusivo de tarifas de transporte",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0444_E20-0018.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318385-0444-2822-2022-20-0018.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.665329"
+}

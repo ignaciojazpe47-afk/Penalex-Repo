@@ -1,0 +1,23 @@
+{
+  "id": 54771,
+  "numero": "970",
+  "fecha": "2017-11-22",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Manuel Rodríguez Silva contra la sentencia del Juzgado Superior del Circuito Civil, que había declarado sin lugar la apelación y confirmado la falta de cualidad activa y pasiva en el juicio de cumplimiento de contrato de compraventa. La Sala argumenta que el demandante carece de legitimación para sostener la demanda, ya que no fue parte en el contrato original y no cumplió con los requisitos de notificación necesarios para la cesión de derechos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "falta de cualidad",
+    "legitimatio ad causam",
+    "contrato de compraventa"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-22_S970_E16-0450.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205530-970-221117-2017-16-0450.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.503132"
+}

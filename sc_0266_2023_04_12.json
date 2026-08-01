@@ -1,0 +1,24 @@
+{
+  "id": 29734,
+  "numero": "0266",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la homologación de una transacción en un juicio de desalojo, donde se cuestionó la falta de notificación a instancias de protección de derechos de niños y adolescentes. Los solicitantes argumentaron que la decisión afectaba el derecho a la educación de los alumnos de la Unidad Educativa Colegio Yacambú. Sin embargo, la Sala determinó que la transacción ya se había ejecutado y que los estudiantes habían sido reubicados, por lo que no existía vulneración de sus derechos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "educación",
+    "transacción",
+    "derechos de niños"
+  ],
+  "titulo": "Revisión constitucional sobre homologación de transacción en juicio de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0266_E18-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324353-0266-12423-2023-18-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.044263"
+}

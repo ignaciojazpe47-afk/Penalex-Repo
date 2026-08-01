@@ -1,0 +1,25 @@
+{
+  "id": 20815,
+  "numero": "1073",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad interpuesta por varios ciudadanos contra la Constitución del Estado Cojedes, alegando inconstitucionalidad e ilegalidad. La Sala determinó su competencia para conocer la demanda y observó la falta de impulso procesal por parte de los demandantes, quienes no realizaron actos en el proceso durante más de un año. Como resultado, se declaró la pérdida del interés procesal y el abandono del trámite.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "acción",
+    "inactividad",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre nulidad de la Constitución del Estado Cojedes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1073_E15-0722.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345835-1073-9725-2025-15-0722.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.504546"
+}

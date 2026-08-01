@@ -1,0 +1,24 @@
+{
+  "id": 61240,
+  "numero": "1149",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 1.241 de la Sala de Casación Social, que había declarado con lugar el recurso de casación interpuesto por Carlos Julio Rodríguez. La revisión se fundamentó en la violación del principio de confianza legítima y la falta de aplicación de un criterio jurisprudencial consolidado. La Sala decidió anular el fallo recurrido y ordenó que la Sala de Casación Social emita un nuevo pronunciamiento sobre el fondo del asunto, destacando la importancia de un análisis exhaustivo de las pruebas en casos de simulación de contratos laborales.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "confianza legítima",
+    "simulación",
+    "relación laboral"
+  ],
+  "titulo": "Revisión de la sentencia N° 1.241 dictada por la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1149_E16-0501.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194009-1149-151216-2016-16-0501.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.070252"
+}

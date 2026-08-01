@@ -1,0 +1,22 @@
+{
+  "id": 43381,
+  "numero": "0179",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La sentencia se refiere a la acción de amparo constitucional interpuesta por Tibisay Josefina Noguera Morillo contra la decisión del Juzgado Superior Octavo que declaró sin lugar el recurso de apelación y confirmó el fallo anterior que había declarado confeso al demandado. La Sala Constitucional del TSJ determinó que la falta de actuación de la parte actora por más de seis meses constituía abandono del trámite, lo que llevó a declarar terminado el procedimiento. Además, se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonar trámite",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0179_E18-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305954-0179-4719-2019-18-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.829635"
+}

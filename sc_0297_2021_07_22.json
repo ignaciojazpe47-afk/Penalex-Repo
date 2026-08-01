@@ -1,0 +1,23 @@
+{
+  "id": 39096,
+  "numero": "0297",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por ÁVILA SERVICIOS MÉDICOS “AVISERME”, C.A. en relación a tres causas distintas. Se argumenta que no se cumplen los requisitos necesarios para el avocamiento, ya que en dos de las causas ya se dictaron sentencias firmes y en la tercera no se evidencia un desorden procesal que justifique la intervención de la Sala. La decisión se fundamenta en la necesidad de preservar el orden público y la correcta administración de justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmision",
+    "justicia",
+    "orden público"
+  ],
+  "titulo": "Solicitud de avocamiento de la causa por parte de AVISERME, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0297_E20-304.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312751-0297-22721-2021-20-304.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.154784"
+}

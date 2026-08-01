@@ -1,0 +1,24 @@
+{
+  "id": 33752,
+  "numero": "1899",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Nathan Alí Barillas Ramírez en representación del ciudadano Robert José Jiménez Ladera. La acción fue presentada contra una sentencia de la Corte Marcial que declaró sin lugar un recurso de apelación. La Sala determinó su competencia para conocer el caso y, tras analizar el expediente, concluyó que había un abandono del trámite por parte del accionante, dado que no se realizaron actuaciones procesales válidas durante más de seis meses.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonos de trámite",
+    "derechos constitucionales",
+    "debido proceso",
+    "justicia militar"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1899_E22-0600.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331869-1899-121223-2023-22-0600.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.454540"
+}

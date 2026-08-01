@@ -1,0 +1,26 @@
+{
+  "id": 27109,
+  "numero": "0541",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida declaró inadmisibles las acciones de amparo constitucional interpuestas por los defensores de los ciudadanos Paulo Armando Moreno, Arelis Andreina Briceño, Guendy Nataly Angulo Peña y Toni Angulo Flores, por considerar que cesó la presunta violación a sus derechos. La decisión se fundamentó en que el Ministerio Público presentó la acusación dentro del lapso legal, lo que invalidó la solicitud de decaimiento de la medida de privación de libertad.",
+  "palabras_clave": [
+    "debido_proceso",
+    "medida_cautelar",
+    "C.O.P.P.",
+    "constitución",
+    "derechos",
+    "fiscalía",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de acciones de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0541_E23-0625.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338493-0541-311024-2024-23-0625.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.314343"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20111,
+  "numero": "0823",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por el adolescente M. A. C. T. contra una sentencia del Tribunal Superior que declaró sin lugar su acción de amparo. El adolescente alegó que no fue considerado en el régimen de convivencia familiar establecido para su hermano menor, lo que afectó su derecho a la integridad y a compartir con él. La Sala, tras analizar los argumentos y las pruebas, concluyó que el régimen de convivencia no lesionaba los derechos del adolescente, ya que se garantizaba el contacto entre hermanos y se respetaban los derechos de ambos progenitores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "convivencia familiar",
+    "derechos del niño"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional en materia de convivencia familiar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0823_E24-0610.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344390-0823-3625-2025-24-0610.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.309254"
+}

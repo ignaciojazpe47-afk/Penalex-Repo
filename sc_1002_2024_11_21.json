@@ -1,0 +1,25 @@
+{
+  "id": 27824,
+  "numero": "1002",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado David Raúl Terán Guerra en representación de Carlos Esteban Urbano Fermín. La inadmisibilidad se fundamenta en la inepta acumulación de pretensiones, ya que se denunciaron actuaciones de diferentes sujetos agraviantes que corresponden a competencias jurisdiccionales distintas. La Sala resalta que cada pretensión debe ser interpuesta de forma independiente ante el tribunal competente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "competencia",
+    "jurisprudencia",
+    "derechos",
+    "tribunales"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1002_E22-0949.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339315-1002-211124-2024-22-0949.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.144159"
+}

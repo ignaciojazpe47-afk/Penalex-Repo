@@ -1,0 +1,26 @@
+{
+  "id": 19687,
+  "numero": "0659",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo interpuesta por Keila Marina Hernández, quien solicitó la nulidad de una decisión de la Corte de Apelaciones del Estado Zulia. La Sala determina que hubo abandono del trámite por parte de la demandante, ya que no se realizaron actuaciones procesales durante más de seis meses, lo que lleva a la terminación del procedimiento. Además, se impone una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "orden de aprehensión",
+    "debido proceso",
+    "privación de libertad",
+    "homicidio",
+    "Código Penal",
+    "Tribunal de Control",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0659_E24-0638.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343606-0659-8525-2025-24-0638.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.729242"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 42748,
+  "numero": "0097",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en la sentencia N° 719, declaró sin lugar la acción de amparo constitucional interpuesta por Pedro Alba Linares contra las actuaciones del Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La decisión se fundamenta en la protección del interés superior de la niña involucrada, ordenando la devolución de causas avocadas y la investigación penal por su desaparición. Además, se impuso una medida de prohibición de salida del país al demandante y se ordenó alerta de difusión roja.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "niños",
+    "interés superior"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Pedro Alba Linares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0097_E18-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304840-0097-14519-2019-18-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.592520"
+}

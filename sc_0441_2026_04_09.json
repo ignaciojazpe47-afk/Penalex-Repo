@@ -1,0 +1,27 @@
+{
+  "id": 17762,
+  "numero": "0441",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por la abogada Milagros Margarita Zapata Navas en representación de Marcos Julio Ramírez, debido a la falta de legitimación al no presentar el poder correspondiente. La sentencia apelada había declarado terminado el procedimiento por abandono del trámite, lo cual fue considerado erróneo por la Sala, que determinó que la acción de amparo debía ser inadmisible por la falta de representación adecuada. Se revoca la decisión del Juzgado Superior Noveno y se ordena remitir el expediente al Juzgado de origen.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "notificacion",
+    "temporalidad",
+    "jurisprudencia",
+    "derechos",
+    "garantias",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0441_E25-0777.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354893-0441-9426-2026-25-0777.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.025485"
+}

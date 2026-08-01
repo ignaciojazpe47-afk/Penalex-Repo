@@ -1,0 +1,27 @@
+{
+  "id": 33204,
+  "numero": "1707",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por el abogado Jorge Enrique Núñez en representación de Félix Aurelio Sánchez Chaparro, contra la decisión de la Sala 1 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Corte de Apelaciones argumentó que los demandantes no agotaron los recursos ordinarios disponibles para impugnar la medida de privación de libertad dictada el 31 de julio de 2020.\nLa Sala Constitucional confirmó la decisión de inadmisibilidad, señalando que la acción de amparo no era procedente dado que existían vías judiciales ordinarias que no fueron utilizadas por los demandantes. Además, se destacó que la situación de emergencia sanitaria por COVID-19 no justificaba la omisión de los recursos ordinarios.\nFinalmente, se declaró sin lugar el recurso de apelación y se reafirmó la inadmisibilidad de la acción de amparo, ordenando la remisión del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "libertad personal",
+    "presunción de inocencia",
+    "medida cautelar",
+    "derechos humanos",
+    "constitución",
+    "pandemia",
+    "justicia",
+    "proporcionalidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1707_E20-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330953-1707-11223-2023-20-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.167310"
+}

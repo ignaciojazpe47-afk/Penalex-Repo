@@ -1,0 +1,26 @@
+{
+  "id": 17637,
+  "numero": "0383",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado Carlos Alberto Bracho Catanaima en representación de Leonel Santiago González Hurtado. La inadmisibilidad se fundamenta en la falta de presentación de la sentencia cuya revisión se solicita, ya que se presentó una decisión distinta a la requerida. La Sala reafirma que es carga del solicitante presentar copia certificada del fallo a revisarse.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "competencia",
+    "sentencia",
+    "derechos",
+    "justicia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0383_E26-0277.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354399-0383-25326-2026-26-0277.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.035686"
+}

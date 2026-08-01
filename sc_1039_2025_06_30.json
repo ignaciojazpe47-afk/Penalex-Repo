@@ -1,0 +1,26 @@
+{
+  "id": 20639,
+  "numero": "1039",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de apelación interpuesto por los abogados Nelson Barrios y Annabell Moncada, actuando en representación de los ciudadanos Leonel Arrechedera y Antonella Paredes. Se revoca la decisión de la Sala N° 3 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo contra un auto del Tribunal Duodécimo que había declarado sin lugar las excepciones opuestas por la defensa. La Sala ordena que otra Corte de Apelaciones se pronuncie sobre la admisibilidad de la acción de amparo, evitando los vicios señalados en el fallo revocado.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "excepciones",
+    "Código Orgánico Procesal Penal",
+    "jurisdicción",
+    "actuación judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1039_E24-0867.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345308-1039-30625-2025-24-0867.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.511938"
+}

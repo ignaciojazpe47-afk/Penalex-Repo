@@ -1,0 +1,25 @@
+{
+  "id": 23069,
+  "numero": "1837",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional de la sentencia N° 255 dictada por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito del estado Zulia. La sentencia original declaró con lugar una acción reivindicatoria interpuesta por Judith Coromoto Fernández Aguirre contra Úrzula Matilde González y Jenny Josefina Martínez Hernández, ordenando la desocupación del inmueble y el pago de costas procesales. La solicitud de revisión fue inadmisible debido a la falta de documentación que acreditara la firmeza de la sentencia original, lo que impidió a la Sala ejercer su potestad de revisión.",
+  "palabras_clave": [
+    "propiedad",
+    "acción reivindicatoria",
+    "inmueble",
+    "posesión",
+    "derecho",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1837_E25-0286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349961-1837-181125-2025-25-0286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.065813"
+}

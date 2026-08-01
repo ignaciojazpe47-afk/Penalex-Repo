@@ -1,0 +1,26 @@
+{
+  "id": 23666,
+  "numero": "1961",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por los abogados José Ramón Zacarías Moreno y Elizabeth Tovar, en representación del ciudadano Bernardo Moragues Argudo, contra la sentencia N° 148 de la Sala de Casación Penal. La acción se fundamenta en la supuesta vulneración de derechos constitucionales y humanos a la libertad plena del ciudadano, quien se encuentra solicitado en extradición por el Reino de España por delitos de falsedad de documento mercantil y estafa.\nLa Sala argumenta que la pretensión va dirigida contra una decisión judicial ya emitida, lo que la hace inadmisible conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se establece que no es posible intentar una demanda de amparo contra pronunciamientos de la Sala de Casación Penal, dado que esta es la máxima instancia jurisdiccional en la materia.\nFinalmente, se ordena la publicación, registro y archivo de la decisión, reafirmando la autoridad de la Sala Constitucional en el ejercicio de la jurisdicción constitucional.",
+  "palabras_clave": [
+    "extradición",
+    "derecho internacional",
+    "Código Penal",
+    "Código Orgánico Procesal Penal",
+    "justicia",
+    "procedimiento",
+    "nacionalidad"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1961_E22-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351654-1961-101225-2025-22-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.781807"
+}

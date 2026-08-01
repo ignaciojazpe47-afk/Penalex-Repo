@@ -1,0 +1,23 @@
+{
+  "id": 49668,
+  "numero": "0916",
+  "fecha": "2018-12-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 589, declaró con lugar la acción de amparo interpuesta por los abogados Albert Abraham Parra Rodríguez y José Vicente Faria Labarca, en representación de los ciudadanos José Luis Díaz Valecillo y Anny Desireé Huerta Martínez. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que los abogados no demostraron su cualidad de defensores privados. Sin embargo, la Sala constató que existía un vicio de incongruencia omisiva en la decisión de la Corte de Apelaciones, ya que no consideró el alegato de la parte actora sobre la imposibilidad de acceder al expediente penal para demostrar su representación legal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "inadmisibilidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por defensores privados",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-17_S0916_E18-0543.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/303318-0916-171218-2018-18-0543.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.130848"
+}

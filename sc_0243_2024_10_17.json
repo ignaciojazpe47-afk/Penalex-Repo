@@ -1,0 +1,24 @@
+{
+  "id": 26627,
+  "numero": "0243",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó las sentencias nros. RC.000256 del 30 de noviembre de 2020 y RC.000132 del 29 de marzo de 2023, dictadas por la Sala de Casación Civil. En la primera, se declaró la nulidad de un fallo que ordenaba la reposición de la causa, argumentando que no era necesaria dicha reposición debido a la homologación de una transacción. En la segunda, se confirmó un informe pericial y se declaró sin lugar un recurso de apelación interpuesto por la parte actora. La Sala Constitucional determinó que no existían infracciones constitucionales que justificaran la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencias",
+    "Sala de Casación Civil",
+    "nulidad",
+    "informe pericial"
+  ],
+  "titulo": "Revisión de sentencias de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0243_E24-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337809-0243-171024-2024-24-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.065049"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18428,
+  "numero": "0123",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "SU INCOMPETENCIA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de avocamiento presentada por Milagros Alejandra Toledo Villegas, en relación a una causa penal. Se argumenta que las denuncias no justifican el avocamiento y se declina el conocimiento del asunto a la Sala de Casación Penal. La decisión se fundamenta en la falta de motivos suficientes para el avocamiento y la necesidad de respetar el ordenamiento jurídico.",
+  "palabras_clave": [
+    "avocamiento",
+    "proceso penal",
+    "interés general",
+    "desorden procesal",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "victima",
+    "estafa",
+    "jurisprudencia"
+  ],
+  "titulo": "Declaración de incompetencia en solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0123_E24-0248.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341527-0123-13225-2025-24-0248.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.765727"
+}

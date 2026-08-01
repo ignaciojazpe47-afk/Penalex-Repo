@@ -1,0 +1,27 @@
+{
+  "id": 16358,
+  "numero": "0331",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los ciudadanos José Gregorio Cedeño Cedeño y Heidy Yanosky Morales Baptista contra la sentencia dictada el 30 de junio de 2025 por el Juzgado Superior Quinto. La decisión se basa en la existencia de cosa juzgada, ya que la sentencia recurrida había sido previamente decidida sin que se evidenciaran violaciones constitucionales que justificaran un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "prescripción adquisitiva",
+    "defensor ad litem",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "sentencia",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0331_E25-0900.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354311-0331-25326-2026-25-0900.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.562316"
+}

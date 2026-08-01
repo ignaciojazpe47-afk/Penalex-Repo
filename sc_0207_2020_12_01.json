@@ -1,0 +1,26 @@
+{
+  "id": 41784,
+  "numero": "0207",
+  "fecha": "2020-12-01",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "El ciudadano Gritzko Gabriel Terán Mogollón interpuso una acción de amparo constitucional contra el Defensor del Pueblo, alegando omisiones en la respuesta a sus solicitudes. La Sala Constitucional del TSJ determinó su competencia para conocer el caso y analizó la admisibilidad de la acción. Se concluyó que el demandante tenía a su disposición una vía ordinaria para restablecer su situación, lo que llevó a declarar inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "administración",
+    "justicia",
+    "defensoría",
+    "jurisdicción",
+    "obligaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-01_S0207_E19-0228.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310831-0207-11220-2020-19-0228.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.401252"
+}

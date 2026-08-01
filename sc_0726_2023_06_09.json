@@ -1,0 +1,22 @@
+{
+  "id": 30778,
+  "numero": "0726",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Control de Constitucionalidad",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un caso relacionado con la desaplicación del artículo 231 del Código de Procedimiento Civil, en el contexto de una acción mero declarativa interpuesta por Guzmán Domingo Gutiérrez Pacheco. El juzgado de origen había declarado con lugar la solicitud de justicia gratuita, considerando que el demandante no tenía medios económicos para la publicación de edictos. La Sala, tras analizar el caso, determinó su competencia para conocer la consulta de control de constitucionalidad y ordenó al juzgado de origen informar sobre el estado de la sentencia dictada.",
+  "palabras_clave": [
+    "control difuso",
+    "justicia gratuita",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0726_E16-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325997-0726-9623-2023-16-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.413092"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23437,
+  "numero": "1952",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por el abogado Rafael Alberto Latorre Cáceres en representación de los ciudadanos Robert Josué Chávez, Jacinto Gabriel Brito Henríquez, Jonaiker Daniel Lista Rivas y Carlos Eduardo Mota Mota. La acción se fundamenta en la omisión de pronunciamiento de la Corte de Apelaciones del Estado Sucre respecto a un recurso de apelación interpuesto en octubre de 2020. Sin embargo, la Sala considera que ha cesado la violación denunciada, ya que los ciudadanos se encuentran actualmente en libertad tras la ejecución de una sentencia condenatoria por admisión de los hechos.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "privación de libertad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1952_E21-0441.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350838-1952-281125-2025-21-0441.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.795635"
+}

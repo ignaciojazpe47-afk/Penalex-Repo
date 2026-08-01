@@ -1,0 +1,27 @@
+{
+  "id": 41089,
+  "numero": "0045",
+  "fecha": "2020-02-20",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre dos tribunales de Yaracuy, en relación a una acción de amparo constitucional interpuesta por Argénis José Rodríguez Morales. El tribunal de origen se declaró incompetente y remitió el caso a la Sala Constitucional, que a su vez determinó que el conflicto debía ser resuelto por el Juzgado Superior en lo Civil, Mercantil, Tránsito y Protección del Niño, Niña y Adolescente de la misma circunscripción judicial. La decisión se fundamenta en la normativa que regula la competencia en materia de amparo constitucional y la jurisdicción contencioso-administrativa.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "actos administrativos",
+    "derechos constitucionales",
+    "arrendamientos",
+    "jurisdicción",
+    "poder",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-20_S0045_E18-0037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309609-0045-20220-2020-18-0037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.137530"
+}

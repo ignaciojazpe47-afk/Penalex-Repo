@@ -1,0 +1,25 @@
+{
+  "id": 44647,
+  "numero": "0444",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Betty Yajaira Blanco de Bastardo, quien actuaba como apoderada de Ligia Yasmin Blanco Parada. La decisión se basa en la falta de legitimación de la solicitante, ya que no es la afectada directa del fallo cuestionado. Se enfatiza que la representación legal debe ser ejercida por un abogado, y que la asistencia de un abogado no subsana la falta de representación adecuada.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "reintegro",
+    "condominio",
+    "obligaciones",
+    "derecho civil"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0444_E18-0107.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308381-0444-291119-2019-18-0107.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.822525"
+}

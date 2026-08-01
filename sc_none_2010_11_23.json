@@ -1,0 +1,22 @@
+{
+  "id": 3662,
+  "numero": null,
+  "fecha": "2010-11-23",
+  "anio": 2010,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la acción de amparo constitucional interpuesta por Ciro Francisco Toledo contra la sentencia dictada por el Juzgado Primero de Primera Instancia en lo Civil y Mercantil de Barinas. Se argumenta que la Jueza que dictó la sentencia actuó conforme a derecho, ya que tenía la competencia para conocer del caso, a pesar de la existencia de una incidencia de inhibición no resuelta en el momento de la decisión. La Sala también señala que el retardo en la resolución de la inhibición no afecta la validez de la sentencia dictada por el tribunal sustituto interino.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "inhibición"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Ciro Francisco Toledo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2010-11-23_CasacionCivil_2010.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.554782"
+}

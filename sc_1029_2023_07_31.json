@@ -1,0 +1,27 @@
+{
+  "id": 31671,
+  "numero": "1029",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Marigle Soledad Torres Calatayud solicitó aclaratoria de la sentencia N° 1091 dictada el 5 de diciembre de 2022, argumentando que la misma fue declarada inadmisible por no adjuntar copia certificada de la sentencia accionada. La Sala Constitucional del TSJ analizó la solicitud y determinó que esta cumplía con el requisito de temporalidad, ya que fue presentada al día siguiente de la publicación del fallo. Sin embargo, la Sala concluyó que la solicitud de aclaratoria no podía ser utilizada para modificar la decisión de fondo emitida en la sentencia original.",
+  "palabras_clave": [
+    "aclaratoria",
+    "ampliación",
+    "sentencia",
+    "Código de Procedimiento Civil",
+    "tribunal",
+    "derechos",
+    "garantías",
+    "inmutabilidad"
+  ],
+  "titulo": "Aclaratoria de la sentencia N° 1091",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1029_E21-0231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327561-1029-31723-2023-21-0231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.902316"
+}

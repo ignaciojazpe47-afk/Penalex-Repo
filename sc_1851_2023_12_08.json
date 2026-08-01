@@ -1,0 +1,26 @@
+{
+  "id": 33517,
+  "numero": "1851",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Herminio Nieto contra la decisión del Juzgado Superior Segundo en lo Civil, Mercantil y Tránsito de Monagas, que declaró inadmisible su acción de amparo constitucional. La apelación fue considerada tempestiva, pero la Sala concluyó que la vía de amparo no era idónea para atacar la decisión de remate judicial, ya que existían recursos ordinarios disponibles para el demandante. La Sala reafirmó que el remate judicial es intocable y que la única vía para recuperar el bien es la acción reivindicatoria.",
+  "palabras_clave": [
+    "amparo",
+    "remate",
+    "derechos",
+    "garantías",
+    "debido_proceso",
+    "jurisprudencia",
+    "acción_reivindicatoria"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1851_E22-0924.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331386-1851-81223-2023-22-0924.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.474085"
+}

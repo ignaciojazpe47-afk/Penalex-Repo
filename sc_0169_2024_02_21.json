@@ -1,0 +1,25 @@
+{
+  "id": 24304,
+  "numero": "0169",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Culminado",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de amparo presentada por José Gregorio Noriega Figueroa y Lucila de los Ángeles Pacheco, en relación a la organización política Voluntad Popular Activista. Se constató que se llevó a cabo el proceso de consulta interna para la actualización de los estatutos de la organización, cumpliendo con lo ordenado en la sentencia N° 77 del 7 de julio de 2020. Como resultado, se declaró el decaimiento del objeto de la solicitud de amparo, ya que el asunto fue resuelto conforme a lo establecido.",
+  "palabras_clave": [
+    "partidos politicos",
+    "elecciones",
+    "organizacion",
+    "constitucion",
+    "reglamento",
+    "tutela constitucional"
+  ],
+  "titulo": "Decaimiento del objeto de la solicitud de amparo en el caso Voluntad Popular Activista",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0169_E20-0053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332710-0169-21224-2024-20-0053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.551167"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24062,
+  "numero": "0009",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la abogada Ana Hilda Acevedo Aguiar en representación del ciudadano Vicmore Segundo Segovia Jiménez. La acción se fundamentó en la violación de derechos y garantías constitucionales durante el proceso judicial en su contra, destacando irregularidades en la notificación y en la actuación de los jueces involucrados. La Sala declaró su competencia para conocer el caso y ordenó la remisión de la decisión recurrida para su análisis.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "irregularidades judiciales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0009_E23-1195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332361-0009-5224-2024-23-1195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.831118"
+}

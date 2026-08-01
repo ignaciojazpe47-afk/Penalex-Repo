@@ -1,0 +1,26 @@
+{
+  "id": 31812,
+  "numero": "1055",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Yearth Smith Castellanos Lugo, en representación de varios ciudadanos, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo, que declaró improponible un recurso de apelación. La Sala concluye que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder al desestimar el recurso, ya que no se presentaron los argumentos necesarios en la instancia correspondiente.\nLa decisión se fundamenta en que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya firmes, y se enfatiza que la falta de pronunciamiento sobre ciertos aspectos en el recurso de apelación hace que este carezca de contenido. La Sala también hace un llamado a la Corte de Apelaciones para que utilice términos adecuados en sus decisiones futuras.\nFinalmente, se declara competente para conocer de la acción de amparo, pero se desestima la misma por no cumplir con los requisitos procesales establecidos en la ley.",
+  "palabras_clave": [
+    "nulidades",
+    "pruebas",
+    "derecho penal",
+    "CÓDIGO ORGÁNICO PROCESAL PENAL",
+    "presunción de inocencia",
+    "juez de control",
+    "audiencia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1055_E23-0426.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327888-1055-4823-2023-23-0426.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.885880"
+}

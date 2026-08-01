@@ -1,0 +1,22 @@
+{
+  "id": 3383,
+  "numero": null,
+  "fecha": "2007-05-16",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el Síndico Procurador Municipal del Municipio Iribarren, contra una decisión del Juzgado Superior del Trabajo que había declarado con lugar un recurso de apelación. La Sala, en su fallo, ordenó la ejecución de la sentencia impugnada, considerando que la legislación laboral es de orden público y que la tutela judicial efectiva del trabajador debe prevalecer. Se destacó la importancia de la equidad en la resolución del caso, dado que el Municipio no había sido formalmente demandado en el juicio original.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución de sentencia",
+    "legislación laboral"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-05-16_CasacionSocial_05_LopezMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.118479"
+}

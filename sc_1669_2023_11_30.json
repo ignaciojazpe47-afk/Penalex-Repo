@@ -1,0 +1,24 @@
+{
+  "id": 33159,
+  "numero": "1669",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de noviembre de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por los abogados de Yarismar Carolina Moreno de La Cruz, contra la decisión del Tribunal Cuarto de Primera Instancia en Funciones de Control del Estado Cojedes, por presunta incongruencia omisiva. La Sala consideró que la acción había cesado debido a que la ciudadana se encontraba cumpliendo una condena de tres años de prisión impuesta por el Tribunal Segundo de Primera Instancia en Función de Juicio del mismo circuito judicial penal.\n\nLa decisión revoca la sentencia anterior que había declarado parcialmente con lugar la acción de amparo, y se hace un llamado a los jueces para que en futuras ocasiones se pronuncien adecuadamente sobre las medidas preventivas de privación de libertad. La Sala reafirma su competencia para conocer de este tipo de recursos y establece que se deben agotar las vías recursivas antes de interponer acciones de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial",
+    "incongruencia",
+    "medidas cautelares",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional de Yarismar Carolina Moreno de La Cruz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1669_E22-0011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330836-1669-301123-2023-22-0011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.978104"
+}

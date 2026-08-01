@@ -1,0 +1,25 @@
+{
+  "id": 44003,
+  "numero": "0307",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, revisó la solicitud de nulidad de una asamblea de accionistas de la sociedad Corporación 3C, C.A., interpuesta por Michel Mazloum. La sentencia de primera instancia había declarado con lugar la nulidad, pero se argumentó que la acción estaba caducada, ya que la demanda fue presentada más de un año después de la inscripción del acto en el Registro Mercantil. La Sala concluyó que la sentencia impugnada violó la seguridad jurídica y la tutela judicial efectiva, declarando sin lugar la demanda de nulidad de asamblea.",
+  "palabras_clave": [
+    "nulidad",
+    "asamblea",
+    "sociedad mercantil",
+    "registro mercantil",
+    "acciones",
+    "derechos accionistas"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de asamblea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0307_E18-0846.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307172-0307-16819-2019-18-0846.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.379861"
+}

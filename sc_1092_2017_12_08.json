@@ -1,0 +1,22 @@
+{
+  "id": 55228,
+  "numero": "1092",
+  "fecha": "2017-12-08",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Ginimberth Reinaldo Bracho Hernández contra la sentencia n.° 199 de la Corte de Apelaciones del Estado Portuguesa, que revocó una medida cautelar sustitutiva de libertad. La Sala consideró que la Corte de Apelaciones incurrió en incompetencia sustancial al extender la medida privativa de libertad más allá de los plazos establecidos por la ley, vulnerando así derechos fundamentales como la libertad personal y el debido proceso. En consecuencia, se anuló la sentencia impugnada y se ordenó la constitución de una Sala Accidental para que se pronuncie nuevamente sobre el recurso de apelación interpuesto por el Ministerio Público.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-12-08_S1092_E17-0951.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/206272-1092-81217-2017-17-0951.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.288332"
+}

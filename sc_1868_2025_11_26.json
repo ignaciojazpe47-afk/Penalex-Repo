@@ -1,0 +1,27 @@
+{
+  "id": 23214,
+  "numero": "1868",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por Nancy Yadira Crespo Flores, en relación a la sentencia n.° 82 dictada por la Sala de Casación Civil el 16 de marzo de 2023. La Sala encontró que existieron violaciones al debido proceso y al derecho de defensa, así como la declaración de fraude procesal en el juicio de partición de comunidad concubinaria. En consecuencia, se anuló la sentencia impugnada y se ordenó a la Sala de Casación Civil emitir un nuevo pronunciamiento sobre el recurso de casación propuesto por el demandante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "pruebas",
+    "fraude_procesal",
+    "defensa",
+    "constitucional",
+    "CPC",
+    "casación"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de partición de comunidad concubinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1868_E23-0609.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350464-1868-261125-2025-23-0609.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.052817"
+}

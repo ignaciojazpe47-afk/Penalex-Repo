@@ -1,0 +1,27 @@
+{
+  "id": 18887,
+  "numero": "0359",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Ismael Medina Pacheco contra la sentencia N° 00799 del 4 de junio de 2014, dictada por la Sala Político Administrativa. La decisión se basa en la existencia de cosa juzgada, ya que se había emitido un pronunciamiento previo sobre la constitucionalidad del acto impugnado. La Sala reafirma su competencia para conocer de la solicitud, pero concluye que no puede realizar un nuevo análisis sobre el fallo ya decidido.",
+  "palabras_clave": [
+    "remoción",
+    "juez",
+    "debido_proceso",
+    "nulidad",
+    "derechos_humanos",
+    "Ley_de_Carrera_Judicial",
+    "constitución",
+    "expediente_administrativo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia N° 00799",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0359_E22-0532.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342390-0359-18325-2025-22-0532.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.725208"
+}

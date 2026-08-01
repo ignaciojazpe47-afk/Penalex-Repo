@@ -1,0 +1,25 @@
+{
+  "id": 33753,
+  "numero": "1900",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió no ha lugar la solicitud de revisión constitucional presentada por Antonio José Maldonado Toyo contra el fallo n.° 2019-00233 del Juzgado Nacional Segundo Contencioso Administrativo. Este fallo había declarado con lugar un recurso de apelación del Instituto Venezolano de los Seguros Sociales, revocando una decisión anterior que otorgaba una jubilación al solicitante.\n\nLa Sala concluyó que el solicitante no cumplía con los requisitos establecidos para acceder a un segundo beneficio de jubilación, ya que solo acumuló ocho años de servicio en el Instituto Venezolano de los Seguros Sociales, cuando se requerían al menos quince años. Además, se determinó que la interpretación del juzgado de instancia no vulneró derechos constitucionales, y que la revisión solicitada no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales.\n\nFinalmente, se ordenó el desglose y devolución del expediente original al juzgado de origen, con la copia certificada del presente fallo, concluyendo así el proceso de revisión constitucional.",
+  "palabras_clave": [
+    "falso supuesto",
+    "jubilación",
+    "administrativo",
+    "jurisprudencia",
+    "derechos",
+    "normativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1900_E22-0708.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331870-1900-121223-2023-22-0708.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.454777"
+}

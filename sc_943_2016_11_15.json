@@ -1,0 +1,24 @@
+{
+  "id": 60355,
+  "numero": "943",
+  "fecha": "2016-11-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Corte Segunda de lo Contencioso Administrativo que declaró inadmisible un recurso contencioso administrativo funcionarial por caducidad. La Sala encontró que la Corte Segunda violó el principio de la doble instancia al no pronunciarse sobre el amparo cautelar solicitado, lo que afectó el derecho a la defensa del recurrente. En consecuencia, se declaró con lugar la solicitud de revisión, anulando la decisión impugnada y reponiendo la causa para un nuevo pronunciamiento sobre el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "caducidad",
+    "doble instancia",
+    "amparo cautelar",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de la sentencia de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-15_S943_E12-0723.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/192478-943-151116-2016-12-0723.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.947072"
+}

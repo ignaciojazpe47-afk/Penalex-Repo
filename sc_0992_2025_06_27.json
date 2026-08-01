@@ -1,0 +1,24 @@
+{
+  "id": 20592,
+  "numero": "0992",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por los abogados de Héctor Enrique Peña González, contra la decisión de la Sala Tercera de la Corte de Apelaciones que había declarado sin lugar un recurso de apelación. La decisión de la Corte de Apelaciones se basó en la falta de motivación y omisión de pronunciamiento en la negativa de control judicial solicitada por la defensa. La Sala Constitucional concluyó que no se evidenció violación de derechos constitucionales y que la decisión apelada fue ajustada a derecho.",
+  "palabras_clave": [
+    "control judicial",
+    "imputación",
+    "Ministerio Público",
+    "diligencias de investigación",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0992_E24-0824.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345261-0992-27625-2025-24-0824.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.306974"
+}

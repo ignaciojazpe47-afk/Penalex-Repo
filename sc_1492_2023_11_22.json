@@ -1,0 +1,24 @@
+{
+  "id": 32923,
+  "numero": "1492",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HOMOLOGA EL DESISTIMIENTO",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La sentencia se refiere a la homologación del desistimiento de una solicitud de revisión constitucional presentada por Jaime Alberto Coronado contra una decisión del Juzgado Vigésimo Séptimo de Municipio de la Circunscripción Judicial del Área Metropolitana de Caracas. La solicitud de revisión fue motivada por la incongruencia de la decisión impugnada, que afectaba derechos fundamentales del solicitante. Sin embargo, el solicitante desistió de la revisión tras obtener una sentencia de amparo que anuló la decisión original.",
+  "palabras_clave": [
+    "desistimiento",
+    "revisión constitucional",
+    "procedimiento civil",
+    "tutela judicial",
+    "autocomposición"
+  ],
+  "titulo": "Homologación del desistimiento de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1492_E22-0905.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330544-1492-221123-2023-22-0905.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.437660"
+}

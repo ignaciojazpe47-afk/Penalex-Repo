@@ -1,0 +1,22 @@
+{
+  "id": 33238,
+  "numero": "1741",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Carmen Aracelis Rodríguez contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa, que había declarado sin lugar el recurso de apelación sobre la entrega de un vehículo. La Corte de Apelaciones fundamentó su decisión en la falta de documentos que acreditaran la propiedad del vehículo por parte de la demandante, así como en la existencia de dudas razonables sobre la titularidad del mismo. La Sala Constitucional ratifica que no se vulneraron derechos constitucionales en el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "derecho de propiedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1741_E23-0770.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330987-1741-41223-2023-23-0770.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.154112"
+}

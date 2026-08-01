@@ -1,0 +1,23 @@
+{
+  "id": 18188,
+  "numero": "0038",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible el recurso de apelación interpuesto por Orlando Alexis Delgado Rivera, en representación de la sociedad mercantil Birra Express, C.A., contra la decisión del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario del Estado Táchira. La inadmisibilidad se fundamentó en la falta de representación legal adecuada del abogado que actuó en el proceso de amparo, ya que no se presentó el poder correspondiente que le facultara para actuar en nombre de la sociedad mercantil.\n\nEl tribunal destacó que, aunque el abogado había actuado en otros procesos en representación de la sociedad, en el caso del amparo constitucional era necesario que constara el poder en el expediente. La falta de este requisito procesal llevó a la conclusión de que el recurso de apelación no podía ser admitido, resultando firme la decisión apelada.\n\nFinalmente, se ordenó la remisión del expediente al Juzgado Superior correspondiente, cumpliendo con lo establecido en la ley y garantizando el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0038_E23-0435.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341204-0038-5225-2025-23-0435.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.567830"
+}

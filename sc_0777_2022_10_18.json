@@ -1,0 +1,22 @@
+{
+  "id": 36766,
+  "numero": "0777",
+  "fecha": "2022-10-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Así se decide.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió una solicitud de revisión constitucional presentada por el abogado Régulo García en representación de un grupo de trabajadores. La solicitud se basa en la presunta violación de derechos constitucionales por parte de una sentencia dictada en 2019 por el Juzgado Superior Segundo del Trabajo de Aragua, que declaró con lugar una apelación de PEPSI COLA VENEZUELA, C.A. contra una decisión anterior que había declarado inadmisible una acción de amparo constitucional interpuesta por los trabajadores. La Sala decidió solicitar al juzgado de origen la remisión del expediente para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos constitucionales",
+    "sentencia"
+  ],
+  "titulo": "Solicitud de revisión constitucional por violaciones de derechos constitucionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-18_S0777_E21-0808.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320031-0777-181022-2022-21-0808.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.109716"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27833,
+  "numero": "1011",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto contra la decisión de la Corte de Apelaciones que declaró inadmisible un amparo constitucional. El caso se centra en la alegación de que el imputado, ALIRIO MARÍN, padecía de sordera crónica, lo que fue omitido en la decisión del juez de control. La Sala Constitucional determinó que la acción de amparo era inadmisible, ya que el accionante había optado por recurrir a vías ordinarias antes de interponer el amparo, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sordera crónica",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1011_E24-0383.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339324-1011-211124-2024-24-0383.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.142658"
+}

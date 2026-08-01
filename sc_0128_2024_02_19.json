@@ -1,0 +1,25 @@
+{
+  "id": 24256,
+  "numero": "0128",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por María de los Ángeles Mata Valdivieso contra Da Costa Coelho Abilio, alegando violación de su derecho a la vivienda. Tras el análisis del caso, la Sala determinó que no tenía competencia para conocer la acción, ya que esta debía ser atendida por un Tribunal de Primera Instancia en lo Civil de la Circunscripción Judicial del Área Metropolitana de Caracas. En consecuencia, se declinó el conocimiento del amparo y se ordenó la remisión del expediente al órgano jurisdiccional correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos constitucionales",
+    "tribunales",
+    "vivienda",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0128_E23-0524.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332637-0128-19224-2024-23-0524.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.564199"
+}

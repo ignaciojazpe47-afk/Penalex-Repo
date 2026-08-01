@@ -1,0 +1,27 @@
+{
+  "id": 27803,
+  "numero": "0981",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por Yerkis Carolina Henríquez Terán contra la sentencia n.° 554 de la Sala de Casación Social, que había declarado inadmisible un recurso de control de la legalidad. La decisión se fundamenta en la irrecurribilidad de las decisiones sobre inhibiciones y recusaciones, conforme a los artículos 101 del Código de Procedimiento Civil y 45 de la Ley Orgánica Procesal del Trabajo, que prohíben cualquier recurso contra tales decisiones. La Sala también advirtió sobre la inepta acumulación de pretensiones en la solicitud presentada, lo que llevó a su inadmisibilidad.",
+  "palabras_clave": [
+    "debido proceso",
+    "derecho a la defensa",
+    "inhibición",
+    "niños",
+    "justicia",
+    "constitución",
+    "recusación",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0981_E24-0302.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339294-0981-211124-2024-24-0302.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.156491"
+}

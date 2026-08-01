@@ -1,0 +1,26 @@
+{
+  "id": 35112,
+  "numero": "0180",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Luis Ismael Mendoza Morales, argumentando que no es posible el ejercicio de tal acción en contra de decisiones del Tribunal Supremo de Justicia. La decisión se basa en la prohibición expresa de la ley que rige la materia del amparo constitucional, que impide acciones contra decisiones de este Tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "jurisprudencia",
+    "derechos",
+    "garantías",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0180_E21-0153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317441-0180-21622-2022-21-0153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.632756"
+}

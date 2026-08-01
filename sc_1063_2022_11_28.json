@@ -1,0 +1,27 @@
+{
+  "id": 37708,
+  "numero": "1063",
+  "fecha": "2022-11-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2022, declaró NO HA LUGAR la solicitud de revisión presentada por la abogada Iris Santiago de Reyes, en representación de los ciudadanos Jesús Eloy Romero Nicorsin y Elia Margarita Silvio de Romero. La revisión se solicitó respecto a una sentencia dictada el 29 de mayo de 2018 por la Sala de Casación Civil, que había declarado sin lugar un recurso de apelación en un juicio por ejecución de contrato.\n\nLa Sala Constitucional determinó que no existían argumentos suficientes para revisar la decisión de la Sala de Casación Civil, ya que no se evidenciaron infracciones grotescas de interpretación de normas constitucionales. Se enfatizó que la Sala Constitucional no actúa como una tercera instancia y que su función es velar por la integridad de las normas constitucionales, no revisar decisiones ordinarias a menos que se evidencie una violación grave de derechos.\n\nFinalmente, se concluyó que las alegaciones de la parte recurrente eran simplemente desacuerdos con el criterio de juzgamiento de la Sala de Casación Civil, lo que no constituía base suficiente para la revisión solicitada.",
+  "palabras_clave": [
+    "tutela judicial",
+    "contrato",
+    "derechos",
+    "debido proceso",
+    "seguridad jurídica",
+    "congruencia procesal",
+    "vivienda",
+    "hipoteca"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-28_S1063_E18-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321257-1063-281122-2022-18-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.453112"
+}

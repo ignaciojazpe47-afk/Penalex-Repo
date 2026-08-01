@@ -1,0 +1,24 @@
+{
+  "id": 56717,
+  "numero": "200",
+  "fecha": "2016-03-28",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero del Trabajo que había declarado sin lugar el recurso de apelación interpuesto por el Estado Bolivariano de Miranda y el Instituto Autónomo Cuerpo de Bomberos del Estado Miranda, en relación con la solicitud de reenganche y pago de salarios caídos del ciudadano Wilson Marino Morales. La Sala determinó que el mencionado ciudadano era un funcionario público y que la Inspectoría del Trabajo había actuado de manera incompetente al pronunciarse sobre su destitución, lo que violaba su derecho al debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "funcionario público",
+    "derecho al debido proceso",
+    "reenganche",
+    "salarios caídos"
+  ],
+  "titulo": "Sentencia sobre revisión de decisión laboral relacionada con reenganche y pago de salarios caídos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-28_S200_E14-1359.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/186484-200-28316-2016-14-1359.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:23.461832"
+}

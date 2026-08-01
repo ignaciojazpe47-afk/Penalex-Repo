@@ -1,0 +1,24 @@
+{
+  "id": 24150,
+  "numero": "0097",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El ciudadano Rosendo Ramón Román Valero solicitó revisión constitucional de una sentencia que declaró sin lugar su recurso de apelación contra una providencia administrativa que autorizó su despido. La Sala Constitucional, tras analizar los argumentos presentados, concluyó que no se configuraron los vicios alegados por el solicitante, manteniendo la decisión del Juzgado Superior que confirmó la legalidad del despido. Se determinó que la paralización de actividades en la empresa fue general y que el trabajador no desvirtuó las pruebas presentadas por la entidad de trabajo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "despido",
+    "paralización de actividades",
+    "trabajo",
+    "sentencia laboral"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0097_E22-0912.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332468-0097-7224-2024-22-0912.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.573181"
+}

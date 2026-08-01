@@ -1,0 +1,25 @@
+{
+  "id": 30309,
+  "numero": "0527",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Jesús Fernando Ortiz Rivas, quien alegó violaciones a sus derechos en un procedimiento administrativo. La Sala declaró su incompetencia para conocer del caso, declinando la competencia a los Juzgados Nacionales Primero y Segundo Contencioso Administrativo de la Región Capital. La decisión se fundamenta en la falta de notificación y el derecho a la defensa del accionante, así como en la necesidad de un procedimiento administrativo adecuado.",
+  "palabras_clave": [
+    "contencioso administrativo",
+    "debido proceso",
+    "administración",
+    "título supletorio",
+    "presunción favorable",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0527_E22-0948.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325154-0527-16523-2023-22-0948.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.858589"
+}

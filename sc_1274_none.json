@@ -1,0 +1,26 @@
+{
+  "id": 34167,
+  "numero": "1274",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Miguel Ángel de Biase Masi contra la decisión del Juzgado Superior Cuarto que declaró inadmisible su acción de amparo constitucional. El tribunal consideró que la decisión apelada no era definitiva y que existían medios ordinarios para la reparación de los vicios denunciados, por lo que la acción de amparo fue declarada improcedente.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "niños",
+    "adolescentes",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1274_E22-0871.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328479-1274-15823-2023-22-0871.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.699940"
+}

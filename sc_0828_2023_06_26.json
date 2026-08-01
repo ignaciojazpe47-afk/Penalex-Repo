@@ -1,0 +1,24 @@
+{
+  "id": 31045,
+  "numero": "0828",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió el amparo constitucional interpuesto por Jairo Lara Pacheco contra la decisión de la Corte de Apelaciones que revocó una sentencia anterior. La Sala determinó su competencia para conocer del caso, pero observó que el demandante había abandonado el trámite por más de seis meses, lo que llevó a declarar terminado el procedimiento. Además, se impuso una multa al demandante por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "inactividad",
+    "abandonotrámite",
+    "interésprocesal",
+    "LeyOrgánica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0828_E22-0524.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326484-0828-26623-2023-22-0524.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.549287"
+}

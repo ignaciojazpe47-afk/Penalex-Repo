@@ -1,0 +1,22 @@
+{
+  "id": 61067,
+  "numero": "1051",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió en favor del ciudadano Miguel José Ramírez Farías, quien había interpuesto una acción de habeas corpus por su privación de libertad. La Corte de Apelaciones había declarado inadmisible la acción, pero la Sala Constitucional consideró que la detención del ciudadano fue producto de una orden judicial de captura y que la acción de amparo debía ser admitida. Se determinó que la privación de libertad no contaba con un auto formal y que la medida adoptada era contraria a los derechos constitucionales del demandante.",
+  "palabras_clave": [
+    "habeas corpus",
+    "privación de libertad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de privación de libertad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1051_E16-0680.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193647-1051-91216-2016-16-0680.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.598098"
+}

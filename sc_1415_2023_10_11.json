@@ -1,0 +1,27 @@
+{
+  "id": 32261,
+  "numero": "1415",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Ana Teresa López Bustamante en nombre de José Alberto López Bustamante, contra la decisión de la Corte de Apelaciones que había declarado con lugar un recurso de apelación. La Sala argumenta que la acción de amparo no es el medio adecuado para cuestionar decisiones judiciales ya resueltas y que el recurso de apelación era el procedimiento correcto a seguir en este caso.\n\nSe establece que la acción de amparo fue mal calificada como habeas corpus, ya que el ciudadano se encontraba bajo una medida de privación judicial de libertad, lo que excluye la posibilidad de amparo en esta modalidad. La Corte también señala que la abogada accionante tenía los medios judiciales necesarios para impugnar la decisión en el proceso penal, lo que refuerza la improcedencia del amparo.\n\nFinalmente, se niega la solicitud de acumulación de expedientes y se ordena el archivo del caso, reafirmando la importancia de seguir los procedimientos establecidos en la ley para la protección de los derechos y garantías constitucionales.",
+  "palabras_clave": [
+    "derechos humanos",
+    "habeas corpus",
+    "debido proceso",
+    "libertad personal",
+    "incongruencia",
+    "motivación judicial",
+    "impugnación",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1415_E22-0898.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329290-1415-111023-2023-22-0898.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.399431"
+}

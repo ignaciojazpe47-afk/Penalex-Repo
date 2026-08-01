@@ -1,0 +1,26 @@
+{
+  "id": 23817,
+  "numero": "2037",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de diciembre de 2025, declaró sin lugar el recurso de apelación interpuesto por Juan Francisco Martínez Ajuez contra la decisión del Juzgado Superior Agrario de Yaracuy, que había declarado inadmisible su acción de amparo constitucional. La Sala argumentó que el apelante no agotó los recursos ordinarios disponibles antes de acudir al amparo, lo que llevó a la inadmisibilidad de su solicitud. Se reafirmó la competencia del tribunal para conocer del caso y se confirmó la decisión apelada.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "jurisprudencia",
+    "derechos",
+    "procedimiento",
+    "inadmision",
+    "instancia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2037_E25-1011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351850-2037-101225-2025-25-1011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.787393"
+}

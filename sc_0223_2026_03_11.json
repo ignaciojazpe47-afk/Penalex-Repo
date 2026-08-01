@@ -1,0 +1,27 @@
+{
+  "id": 17390,
+  "numero": "0223",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento, por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta contra una decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala determinó su competencia y, tras analizar el caso, declaró el abandono del trámite por parte de los accionantes debido a la falta de impulso procesal durante más de seis meses. Además, se impuso una multa a la parte demandante por el abandono del procedimiento.",
+  "palabras_clave": [
+    "debido_proceso",
+    "doble_instancia",
+    "tutela_judicial",
+    "abandonos_tramite",
+    "amparo_constitucional",
+    "derechos_fundamentales",
+    "Corte_Apelaciones",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0223_E24-0652.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353523-0223-11326-2026-24-0652.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.569857"
+}

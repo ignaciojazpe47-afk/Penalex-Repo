@@ -1,0 +1,25 @@
+{
+  "id": 27334,
+  "numero": "0714",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró inadmisible la acción de amparo constitucional interpuesta por los ciudadanos DANNYS ALEXIS ÁLVAREZ LÓPEZ y DIANA JOSEFINA VÁSQUEZ DE ÁLVAREZ, quienes alegaron violaciones al debido proceso y a la tutela judicial efectiva en relación con una sentencia dictada por el Juzgado Segundo de Primera Instancia. La Sala argumentó que los accionantes contaban con recursos ordinarios que no habían agotado, lo que hacía inadmisible su solicitud de amparo. En consecuencia, se confirmó el fallo apelado que declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "recursos",
+    "derechos",
+    "constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0714_E23-0514.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338739-0714-81124-2024-23-0514.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.431867"
+}

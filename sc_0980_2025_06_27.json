@@ -1,0 +1,22 @@
+{
+  "id": 20580,
+  "numero": "0980",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por Liset Gil, quien alegaba violaciones a sus derechos de tutela judicial efectiva y debido proceso. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que la violación denunciada había cesado tras la interrupción del juicio oral por la falta de citación de la víctima y su representante legal. La Sala Constitucional confirmó esta decisión, considerando que la acción de amparo no procede cuando la lesión alegada ya no está vigente.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0980_E24-0928.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345249-0980-27625-2025-24-0928.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.301881"
+}

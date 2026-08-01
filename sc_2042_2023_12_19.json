@@ -1,0 +1,23 @@
+{
+  "id": 33895,
+  "numero": "2042",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala recibió un oficio del Tribunal Segundo de Primera Instancia de Juicio del Trabajo de Sucre, relacionado con un desacato a un amparo constitucional. Se sancionó al Gerente de Planta con doce meses de prisión por incumplir la orden de reenganche y restitución de derechos. La Sala ordena al tribunal de origen remitir todos los expedientes relacionados con la acción de amparo y la solicitud de desacato en un plazo determinado.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "sanción",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre desacato al amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2042_E23-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332012-2042-191223-2023-23-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.693505"
+}

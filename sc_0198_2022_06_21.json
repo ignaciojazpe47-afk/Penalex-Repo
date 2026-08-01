@@ -1,0 +1,24 @@
+{
+  "id": 35130,
+  "numero": "0198",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por un grupo de pensionados del Instituto Venezolano de los Seguros Sociales (IVSS) por la omisión en el pago de pensiones correspondientes al mes de agosto de 2018. La Sala determina que la competencia corresponde a los Juzgados Superiores de lo Contencioso Administrativo de la Región Capital, dado que la acción se refiere a una omisión administrativa del IVSS, un ente de la Administración Pública Nacional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "IVSS",
+    "Pensiones",
+    "Derechos Colectivos",
+    "Incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión del IVSS en el pago de pensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0198_E18-0627.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317459-0198-21622-2022-18-0627.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.624986"
+}

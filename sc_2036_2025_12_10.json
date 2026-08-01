@@ -1,0 +1,25 @@
+{
+  "id": 23816,
+  "numero": "2036",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara procedente la acción de amparo interpuesta por José Baldomero Ortega Castro, representado por su abogado Víctor Arminio Altuna García, contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure que declaró inadmisible el recurso de apelación. La Corte anula las sentencias previas y ordena a un nuevo tribunal que responda a la acción de amparo, reconociendo la validez de los poderes otorgados al abogado del demandante. Se destaca la importancia del derecho a la tutela judicial efectiva y el cumplimiento de las sentencias por parte de los órganos judiciales.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "justicia",
+    "proceso",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2036_E25-1008.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351849-2036-101225-2025-25-1008.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.748267"
+}

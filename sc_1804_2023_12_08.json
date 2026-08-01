@@ -1,0 +1,25 @@
+{
+  "id": 33470,
+  "numero": "1804",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de interpretación de dos sentencias previas, argumentando que no tiene competencia para conocer de recursos autónomos de interpretación. Se determinó que las sentencias solicitadas no son susceptibles de interpretación, ya que no constituyen normas de rango legal o sub-legal. Por lo tanto, se declaró improponible la solicitud presentada por los demandantes.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "tribunal supremo",
+    "resoluciones",
+    "derecho administrativo",
+    "improponibilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de interpretación de sentencias",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1804_E22-0103.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331339-1804-71223-2023-22-0103.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.464525"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18653,
+  "numero": "0219",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación contra una sentencia que declaró improcedente una acción de amparo constitucional. La apelación fue interpuesta por la abogada Anayibe Rodríguez Mogollón en representación de los ciudadanos Fanny Johana Mundarais Morales y César Gustavo Fernández Estrada, quienes alegan vulneraciones a sus derechos. La Sala se declaró competente para conocer del caso y ordenó la remisión de un informe detallado sobre las actuaciones realizadas en el expediente relacionado con la medida de protección de los niños involucrados.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "justicia",
+    "protección",
+    "constitucional",
+    "derechos",
+    "tribunal",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0219_E24-0318.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342031-0219-27225-2025-24-0318.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.880279"
+}

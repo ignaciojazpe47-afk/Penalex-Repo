@@ -1,0 +1,25 @@
+{
+  "id": 26880,
+  "numero": "0412",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por los abogados María Estela Zanella Torres y Alejandro González Valenzuela en representación de Rosanna Franca Bertolini de Araya. La solicitud buscaba revisar la sentencia N° 165 de la Sala de Casación Penal, que había declarado inadmisible un recurso de casación. La Sala Constitucional determinó su competencia para conocer la solicitud, pero declaró inadmisible la misma por falta de legitimidad, ya que los abogados no acreditaron su representación con el poder correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "poder",
+    "documento fehaciente"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0412_E23-0709.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338184-0412-241024-2024-23-0709.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.323073"
+}

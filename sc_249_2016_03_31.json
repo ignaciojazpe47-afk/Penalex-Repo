@@ -1,0 +1,24 @@
+{
+  "id": 56792,
+  "numero": "249",
+  "fecha": "2016-03-31",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Toufik Al Safadi Al Safadi contra una sentencia del Juzgado Superior Segundo que declaró la reposición de la causa en un juicio por nulidad de acuerdo arrendaticio. La Sala consideró que la reposición decretada era inútil y vulneraba derechos fundamentales como el debido proceso y la tutela judicial efectiva, ya que no se había pronunciado sobre la litispendencia antes de admitir la reconvención propuesta por la parte demandada.\n\nLa Sala revocó la decisión del Juzgado Superior, anuló los actos posteriores y ordenó que se pronunciara sobre la apelación incoada por la parte demandante. Se enfatizó que la reposición de causas debe tener un propósito útil y no meramente formal, y que las decisiones judiciales deben evitar dilaciones innecesarias que afecten el acceso a la justicia.\n\nFinalmente, se destacó la importancia de garantizar la justicia efectiva y se reiteró que el proceso judicial debe ser un medio para resolver conflictos de manera expedita, sin formalismos que obstaculicen el ejercicio de los derechos de las partes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "reposicion de causa",
+    "litispendencia",
+    "derecho al debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre reposición de causa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-31_S249_E15-0922.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/186593-249-31316-2016-15-0922.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:23.444542"
+}

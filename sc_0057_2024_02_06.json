@@ -1,0 +1,25 @@
+{
+  "id": 24110,
+  "numero": "0057",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Antonio Abad en representación de la sociedad mercantil CARNICERÍA CHARCUTERÍA LA ARENERA, C.A. La inadmisibilidad se fundamenta en la falta de representación adecuada del abogado para actuar en nombre de la sociedad en esta acción de amparo. La Sala establece que el poder otorgado al abogado solo era válido para el juicio de desalojo y no para la acción de amparo, lo que conlleva a la falta de legitimidad para presentar la demanda.",
+  "palabras_clave": [
+    "amparo",
+    "poder",
+    "representación",
+    "legitimidad",
+    "acción autónoma",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0057_E23-1144.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332412-0057-6224-2024-23-1144.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.577851"
+}

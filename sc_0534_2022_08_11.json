@@ -1,0 +1,24 @@
+{
+  "id": 36165,
+  "numero": "0534",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Ha Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 9 de febrero de 2021 por el Juzgado Superior Tercero del Trabajo del Estado Carabobo, que había declarado sin lugar la apelación interpuesta por los ciudadanos solicitantes. La revisión se fundamentó en la alegación de que el tribunal inferior había incurrido en un falso supuesto al considerar que la acción de la Inspectoría del Trabajo era una vía ordinaria previa que impedía el amparo constitucional. La Sala concluyó que el incumplimiento de las providencias administrativas afectaba derechos constitucionales, permitiendo así la vía del amparo como mecanismo idóneo para su cumplimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "laboral",
+    "derechos constitucionales",
+    "sentencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0534_E21-0822.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319191-0534-11822-2022-21-0822.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.562815"
+}

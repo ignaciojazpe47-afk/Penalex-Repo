@@ -1,0 +1,24 @@
+{
+  "id": 65846,
+  "numero": "1066",
+  "fecha": "2015-08-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 274 dictada el 12 de agosto de 2014, que había declarado inadmisible el recurso de apelación interpuesto por la defensa de Carlos Luis Mejías Blanco. La Sala concluyó que la apelación fue presentada extemporáneamente debido a que los defensores no contaban con la información necesaria para interponerla, ya que el acta de la audiencia preliminar y la sentencia condenatoria no estaban en el expediente al momento de su juramentación. La Sala declaró con lugar la solicitud de revisión, anulando los actos judiciales en la fase de ejecución del proceso penal y ordenando la notificación personal del condenado sobre la decisión que lo condenó.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "homicidio",
+    "lesiones personales",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de la Sala Constitucional que declara con lugar la revisión de la sentencia N° 274 de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-10_S1066_E14-1292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180601-1066-10815-2015-14-1292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:08.978606"
+}

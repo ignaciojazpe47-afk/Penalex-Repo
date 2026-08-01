@@ -1,0 +1,24 @@
+{
+  "id": 44463,
+  "numero": "0359",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha lugar la solicitud de revisión y se anula el fallo objeto de revisión.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Noveno que había declarado improcedente la demanda por cumplimiento de contrato de arrendamiento. La Sala determinó que el fallo impugnado contradecía criterios establecidos sobre la tácita reconducción de contratos de arrendamiento, lo que vulneraba el derecho a la tutela judicial efectiva y al debido proceso. En consecuencia, se anula la decisión del Juzgado y se ordena que otro Juzgado Superior emita un nuevo pronunciamiento conforme a los criterios expuestos.",
+  "palabras_clave": [
+    "revisión",
+    "contrato de arrendamiento",
+    "tácita reconducción",
+    "derecho a la tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0359_E18-0042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308158-0359-191119-2019-18-0042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.374823"
+}

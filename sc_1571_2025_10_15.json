@@ -1,0 +1,26 @@
+{
+  "id": 22231,
+  "numero": "1571",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por MARTÍN JOSÉ MEZA AFFIGNE contra autos de dos juzgados del trabajo, por inepta acumulación de pretensiones. Se argumenta que las pretensiones dirigidas contra el Juzgado Superior Primero del Trabajo y el Juzgado Segundo de Primera Instancia son incompatibles y deben ser conocidas en diferentes instancias. La decisión se fundamenta en la falta de conexión entre las acciones impugnadas y la violación del debido proceso.",
+  "palabras_clave": [
+    "amparo",
+    "inepta acumulación",
+    "debido proceso",
+    "tutela judicial",
+    "tribunales",
+    "jurisdicción",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1571_E25-0939.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348688-1571-151025-2025-25-0939.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.761815"
+}

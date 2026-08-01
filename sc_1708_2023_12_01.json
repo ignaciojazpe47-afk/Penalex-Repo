@@ -1,0 +1,23 @@
+{
+  "id": 33205,
+  "numero": "1708",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la acción de amparo constitucional interpuesta por Vilma Cecilia Stuve de Ponte contra la decisión del Juzgado Superior Agrario que declaró sin lugar el recurso de hecho. La Sala determinó que la notificación realizada al abogado de la parte actora fue errónea, lo que vulneró su derecho a la defensa y a la tutela judicial efectiva. En consecuencia, se anuló la sentencia del 2 de diciembre de 2020 y se ordenó al Juzgado Segundo de Primera Instancia Agrario oír el recurso de apelación interpuesto el 8 de octubre de 2020.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1708_E21-0268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330954-1708-11223-2023-21-0268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.163201"
+}

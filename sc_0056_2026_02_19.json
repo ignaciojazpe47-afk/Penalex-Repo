@@ -1,0 +1,22 @@
+{
+  "id": 16097,
+  "numero": "0056",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Francisco Antonio Hernández Rodríguez, en representación de la sociedad mercantil Operadora Rent-A-Radio, C.A., contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito, Bancario y Marítimo de la Circunscripción Judicial del Estado Carabobo. La inadmisibilidad se fundamenta en la falta de presentación del poder que acredite la representación del abogado, lo que impide verificar su legitimidad para actuar en nombre de la parte demandante.\n\nLa sentencia destaca que la falta de legitimidad o representación es causal de inadmisibilidad según la Ley Orgánica del Tribunal Supremo de Justicia. Se señala que el abogado no presentó el original o copia certificada del poder, lo que resulta en la imposibilidad de validar su representación ante el tribunal. La Sala, al no poder suplir esta carga procesal, concluye que la acción de amparo no puede ser admitida.\n\nFinalmente, se establece que la Sala se declara competente para conocer de la acción, pero al no cumplirse con los requisitos formales, se decide la inadmisibilidad de la misma, dejando sin efecto la solicitud de amparo constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Representación Judicial"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0056_E24-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352741-0056-19226-2026-24-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.387548"
+}

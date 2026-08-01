@@ -1,0 +1,24 @@
+{
+  "id": 42328,
+  "numero": "0045",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Corte Primera de lo Contencioso Administrativo desaplicó el Reglamento N° 001-96 sobre Cargos de Libre Nombramiento y Remoción, argumentando que vulnera el principio de legalidad y reserva legal. La Sala Constitucional del TSJ confirma esta desaplicación, considerando que el reglamento excede la potestad reglamentaria del legislador municipal y no establece adecuadamente los parámetros para determinar los cargos de libre nombramiento y remoción. Se ordena la reincorporación de la ciudadana Flor Emilia Mújica de Báez al cargo de Asistente III y el pago de los sueldos dejados de percibir.",
+  "palabras_clave": [
+    "desaplicación",
+    "reglamento",
+    "cargos de libre nombramiento",
+    "remoción",
+    "principio de legalidad"
+  ],
+  "titulo": "Desaplicación del Reglamento sobre Cargos de Libre Nombramiento y Remoción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0045_E17-1113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303979-0045-27219-2019-17-1113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.610134"
+}

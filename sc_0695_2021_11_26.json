@@ -1,0 +1,23 @@
+{
+  "id": 40509,
+  "numero": "0695",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Séptimo que había declarado con lugar la demanda de desalojo interpuesta por Gisela Mateus De Boschetti contra las sociedades mercantiles Restaurant Hereford Grill, C.A. y Taninos Casa de Vinos, C.A. La Sala encontró que existía una inepta acumulación de pretensiones, ya que se solicitó el desalojo y la indemnización de daños y perjuicios en una misma demanda, lo cual es incompatible según la normativa procesal. Por lo tanto, se declaró inadmisible la demanda y se anuló la sentencia del Juzgado Superior, así como el proceso que dio lugar a la misma.",
+  "palabras_clave": [
+    "desalojo",
+    "inepta acumulación",
+    "revisión constitucional",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0695_E21-0357.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314771-0695-261121-2021-21-0357.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.501276"
+}

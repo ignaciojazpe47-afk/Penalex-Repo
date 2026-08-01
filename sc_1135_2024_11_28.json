@@ -1,0 +1,22 @@
+{
+  "id": 28046,
+  "numero": "1135",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara con lugar el recurso de apelación interpuesto por los abogados Jhonny Oswaldo Moreno Arévalo y William Alexander García Padrón, actuando como defensores de los ciudadanos José Arcadio Castillo Escalona y Joselis del Valle Blanco Estrada. La apelación fue presentada contra la decisión de la Sala Uno de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado inadmisible la acción de amparo constitucional por considerar que la presunta lesión había cesado.\n\nLa Sala Constitucional concluye que la omisión de pronunciamiento por parte del Tribunal Cuarto de Primera Instancia en Funciones de Control no puede considerarse como un cese de la lesión constitucional, ya que la audiencia fijada para resolver sobre las excepciones no se había llevado a cabo. Por lo tanto, se revoca el fallo de inadmisibilidad y se ordena la remisión del expediente para que se pronuncie sobre la admisibilidad de la acción de amparo.\n\nFinalmente, la Sala reafirma su competencia para conocer el recurso y destaca la importancia de la tutela judicial efectiva en el proceso penal, instando a los tribunales a cumplir con los plazos establecidos para evitar dilaciones indebidas.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tutela Judicial Efectiva",
+    "Inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1135_E23-0845.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339732-1135-281124-2024-23-0845.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.480790"
+}

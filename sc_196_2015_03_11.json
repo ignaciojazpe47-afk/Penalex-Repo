@@ -1,0 +1,24 @@
+{
+  "id": 62442,
+  "numero": "196",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Sexto Superior del Trabajo que declaró parcialmente con lugar una demanda por cobro de prestaciones sociales. Los demandantes alegaron que la sentencia vulneró principios y garantías procesales al invertir la carga de la prueba. La Sala, tras analizar los argumentos, concluyó que no existían errores de interpretación y que el tribunal inferior actuó conforme a la ley, por lo que decidió no hacer lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia laboral",
+    "prestaciones sociales",
+    "carga de la prueba",
+    "principios procesales"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre cobro de prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S196_E12-1113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175216-196-11315-2015-12-1113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.354107"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 34355,
+  "numero": "0036",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió con lugar la apelación interpuesta por la abogada Sobeidy Sangronis Ojeda, actuando como defensora privada del ciudadano Alejandro Trujillo, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón, que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que la Corte de Apelaciones debió solicitar de oficio la remisión del expediente penal original para evaluar la admisibilidad de la acción de amparo, garantizando así el derecho a la salud del penado, que es un derecho constitucional fundamental.\n\nLa decisión de la Corte de Apelaciones fue anulada y se ordenó que se repusiera la causa al estado en que se solicitara la remisión del expediente penal, para que se pronuncie sobre la admisibilidad de la acción de amparo. La Sala enfatizó la importancia de garantizar el derecho a la salud de los privados de libertad y la necesidad de un debido proceso en la administración de justicia.\n\nFinalmente, se destacó que el derecho a la salud es un derecho de orden público que el Estado debe garantizar a todos los ciudadanos, incluyendo a aquellos que se encuentran privados de libertad, y que la justicia debe actuar de manera expedita para proteger estos derechos fundamentales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la salud",
+    "justicia",
+    "due process"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional a favor de Alejandro Trujillo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0036_E19-0132.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315548-0036-11222-2022-19-0132.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.722814"
+}

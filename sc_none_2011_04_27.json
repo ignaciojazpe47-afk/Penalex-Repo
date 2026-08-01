@@ -1,0 +1,18 @@
+{
+  "id": 12306,
+  "numero": null,
+  "fecha": "2011-04-27",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "FRANCISCO A. CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por Geomar José Medina Álvarez contra la decisión de la Sala Nº 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había declarado con lugar un recurso de apelación y ordenado el trámite de una acusación fiscal. La Sala consideró que no hubo violación del debido proceso ni de derechos constitucionales, ya que las partes contaron con los recursos ordinarios para impugnar la decisión. Además, se destacó que la acusación presentada por el Ministerio Público fue considerada extemporánea, lo que justificó el archivo judicial del caso.",
+  "palabras_clave": [],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Geomar José Medina Álvarez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_42768627eb295fcd10f07bdab4ef5943_FranciscoA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.548853"
+}

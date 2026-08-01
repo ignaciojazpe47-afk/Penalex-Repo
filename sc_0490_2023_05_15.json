@@ -1,0 +1,22 @@
+{
+  "id": 30271,
+  "numero": "0490",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de mayo de 2023, ha declarado con lugar la solicitud de revisión constitucional presentada por Pablo Julio Espinoza, quien impugnó la sentencia del 25 de julio de 2016 del Juzgado Superior Séptimo que declaró desistido su recurso de apelación. La Sala concluyó que la decisión impugnada vulneró derechos fundamentales al debido proceso y a la tutela judicial efectiva, al no permitir el ejercicio del derecho a la apelación por falta de consignación de documentos requeridos sin fundamento legal.\n\nLa Sala ordenó la nulidad de la sentencia objeto de revisión y dispuso que el Juzgado Superior Séptimo se pronuncie sobre la apelación ejercida por el solicitante, garantizando así el acceso a la justicia y el respeto a los derechos humanos. Esta decisión reafirma la importancia de la correcta aplicación de los principios procesales y la protección de los derechos de los ciudadanos en el ámbito judicial.\n\nLa sentencia fue firmada por la Magistrada Michel Adriana Velásquez Grillet, quien asumió la ponencia, y se registró en el contexto de la reconstitución de la Sala Constitucional tras la elección de una nueva Junta Directiva del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos humanos",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de desistimiento de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0490_E17-1252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325111-0490-15523-2023-17-1252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.891908"
+}

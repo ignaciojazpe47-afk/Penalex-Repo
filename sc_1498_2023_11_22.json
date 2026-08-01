@@ -1,0 +1,22 @@
+{
+  "id": 32929,
+  "numero": "1498",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional recibió un oficio de la Corte de Apelaciones del estado Cojedes relacionado con una acción de amparo constitucional interpuesta por la abogada Lucia Lismary García Sequera en representación de Belkan José Escobar Abreu. La acción se fundamenta en la omisión de pronunciamiento de la Corte de Apelaciones respecto a un recurso de apelación presentado el 25 de octubre de 2022. La Sala, tras analizar la competencia, decidió conocer de la acción en única instancia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1498_E23-0042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330550-1498-221123-2023-23-0042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.441752"
+}

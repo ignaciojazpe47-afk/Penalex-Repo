@@ -1,0 +1,26 @@
+{
+  "id": 43140,
+  "numero": "0144",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la sociedad mercantil Comercializadora Agroindustrial de Maracaibo C.A. (COSAGRI) contra decisiones del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Zulia. La acción fue presentada debido a la medida cautelar de secuestro sobre un inmueble arrendado, la cual fue considerada improcedente por no haberse agotado la instancia administrativa correspondiente según la ley de arrendamiento inmobiliario.\n\nLa Sala argumenta que la acción de amparo no es admisible cuando la violación del derecho o garantía constitucional constituye una situación irreparable, lo que se configura en este caso. Además, se resalta que las medidas cautelares son accesorias al proceso principal y deben extinguirse con este, lo que justifica la inadmisibilidad de la acción de amparo.\n\nFinalmente, se deja sin efecto la medida cautelar acordada anteriormente, reafirmando que la decisión del Tribunal Superior de Zulia de decretar el secuestro del inmueble es válida y debe ser cumplida.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "secuestro",
+    "apelación",
+    "Código de Procedimiento Civil",
+    "sentencia definitiva",
+    "derechos",
+    "acción real"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo interpuesta por COSAGRI",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0144_E17-0660.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305587-0144-18619-2019-17-0660.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.838186"
+}

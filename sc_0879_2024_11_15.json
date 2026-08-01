@@ -1,0 +1,23 @@
+{
+  "id": 27632,
+  "numero": "0879",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Pedro Pablo Blanco Lauría, quien actuó en representación de las víctimas en una acción de amparo. La Corte de Apelaciones había declarado inadmisible la acción por falta de legitimidad del abogado accionante. La Sala Constitucional determinó que el recurso de apelación era inadmisible, ya que los accionantes debieron agotar la vía ordinaria antes de acudir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "legitimidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0879_E24-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339069-0879-151124-2024-24-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.204604"
+}

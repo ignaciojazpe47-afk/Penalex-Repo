@@ -1,0 +1,23 @@
+{
+  "id": 21640,
+  "numero": "1387",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la abogada Ana Teresa López de Bustamante en representación de José Alberto Bustamante López, debido a la omisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui en pronunciarse sobre una apelación interpuesta. La Sala declaró su competencia para conocer el caso y ordenó a la Secretaría que oficie a la Presidencia del Circuito Judicial Penal para que realice las diligencias necesarias y se informe sobre el pronunciamiento respecto al recurso de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por José Alberto Bustamante López",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1387_E24-0716.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347240-1387-7825-2025-24-0716.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.039351"
+}

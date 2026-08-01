@@ -1,0 +1,25 @@
+{
+  "id": 27146,
+  "numero": "0571",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Alimentos Polar Comercial C.A. contra la decisión del Juzgado Superior Sexto que declaró inadmisible la acción de amparo constitucional. La apelación fue considerada sin lugar, confirmando la decisión del juzgado inferior, al considerar que existían vías ordinarias adecuadas para resolver la controversia. La Sala enfatizó que el amparo no es el único medio para garantizar la protección de derechos constitucionales y que la parte actora no agotó los recursos disponibles.",
+  "palabras_clave": [
+    "debido_proceso",
+    "arbitraje",
+    "inconstitucionalidad",
+    "derechos_humanos",
+    "tutela_judicial",
+    "imparcialidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0571_E21-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338530-0571-11124-2024-21-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.302023"
+}

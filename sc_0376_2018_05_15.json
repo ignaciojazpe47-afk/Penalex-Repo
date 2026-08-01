@@ -1,0 +1,27 @@
+{
+  "id": 46789,
+  "numero": "0376",
+  "fecha": "2018-05-15",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Juan José Mendoza Jover, se pronunció sobre la solicitud de revisión de la sentencia N° 845, dictada por la Sala de Casación Social, que había declarado sin lugar el recurso de casación interpuesto por los ciudadanos Paolo Grassano Castelmezzano y otros. La revisión se fundamentó en alegaciones de violación de derechos constitucionales, específicamente el derecho a la defensa y al debido proceso, debido a limitaciones en la actividad probatoria durante el juicio anterior.\nLa Sala Constitucional determinó que la sentencia objeto de revisión no incurrió en los vicios alegados, ya que la Sala de Casación Social actuó conforme a derecho al confirmar la decisión del Juzgado Superior, que había evaluado adecuadamente las pruebas presentadas. Finalmente, se declaró NO HA LUGAR la solicitud de revisión, reafirmando la validez de la decisión impugnada.",
+  "palabras_clave": [
+    "due_process",
+    "jurisprudencia",
+    "pruebas",
+    "derecho_a_la_defensa",
+    "infracción",
+    "protección_de_ninos",
+    "nulidad",
+    "casación"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 845 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-15_S0376_E18-0213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211287-0376-15518-2018-18-0213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.897211"
+}

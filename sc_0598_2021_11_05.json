@@ -1,0 +1,23 @@
+{
+  "id": 40104,
+  "numero": "0598",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 5 de noviembre de 2021, admitió el recurso de apelación interpuesto por la Fiscal Auxiliar Cuadragésimo Octavo del Ministerio Público, Betcybeth Carolina Borjas Berrueta, contra la decisión de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había declarado improcedente in limine litis la acción de amparo constitucional. La Sala consideró que existían vicios en la decisión del Tribunal Quinto de Primera Instancia en Funciones de Control, que había desestimado la imputación de terrorismo, lo que vulneraba el derecho a la tutela judicial efectiva y el debido proceso.\n\nLa Sala, al revisar de oficio la decisión del Tribunal Quinto, determinó que este no tenía competencia para decidir sobre el delito de terrorismo, ya que dicha competencia corresponde a tribunales especializados. Por lo tanto, se ordenó la anulación de la decisión impugnada y se dispuso que se celebrara una nueva audiencia de presentación ante el tribunal competente en materia de terrorismo, asegurando así el respeto a los derechos constitucionales de las partes involucradas.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Terrorismo",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Decisión sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0598_E21-0114.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314181-0598-51121-2021-21-0114.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.104328"
+}

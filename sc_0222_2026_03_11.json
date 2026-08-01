@@ -1,0 +1,26 @@
+{
+  "id": 17389,
+  "numero": "0222",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por Laura Belén Guevara Ramírez en representación de Víctor José Acosta Mendoza. Sin embargo, se determina que ha habido abandono del trámite por parte del accionante, dado que no se ha impulsado el proceso durante más de seis meses. Por lo tanto, se termina el procedimiento y se impone una multa a la parte demandante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derechos_de_propiedad",
+    "personas_juridicas",
+    "incongruencia_negativa",
+    "falso_supuesto_de_derecho",
+    "tutela_judicial_efectiva",
+    "recursos_de_apelacion"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0222_E24-0366.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353517-0222-11326-2026-24-0366.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.584379"
+}

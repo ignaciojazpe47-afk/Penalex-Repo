@@ -1,0 +1,24 @@
+{
+  "id": 23913,
+  "numero": "2127",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por Wilmer Antonio Rea Giménez contra la decisión del Juzgado Superior Segundo del Trabajo que declaró inadmisible la acción de amparo. Se argumenta que el accionante no agotó las vías ordinarias antes de recurrir al amparo, lo que contraviene la doctrina jurisprudencial establecida. Además, se confirma que el accionante fue debidamente notificado en el proceso de nulidad que originó la acción de amparo, por lo que no se verifica la violación de derechos fundamentales alegada.",
+  "palabras_clave": [
+    "amparo",
+    "laboral",
+    "derechos fundamentales",
+    "notificación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2127_E23-0481.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351976-2127-121225-2025-23-0481.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.078359"
+}

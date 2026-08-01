@@ -1,0 +1,26 @@
+{
+  "id": 30571,
+  "numero": "0617",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la revisión constitucional solicitada por AERO BK, S.A. contra la sentencia N° 213/2017 de la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación. La decisión se fundamenta en la falta de técnica en la formulación del recurso y en que no se evidencian violaciones a derechos constitucionales. La Sala reafirma que la revisión constitucional es un mecanismo excepcional y no una nueva instancia.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "principio de igualdad",
+    "seguridad jurídica",
+    "valoración probatoria",
+    "debido proceso",
+    "justicia",
+    "casación"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 213/2017",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0617_E17-1080.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325705-0617-30523-2023-17-1080.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.922122"
+}

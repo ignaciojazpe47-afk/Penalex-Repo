@@ -1,0 +1,23 @@
+{
+  "id": 34022,
+  "numero": "1130",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de agosto de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por los abogados de la sociedad mercantil LATINO GMBH. La revisión se solicitó en contra de la sentencia dictada el 5 de noviembre de 2018 por la Corte de Apelaciones, que había declarado sin lugar el recurso de apelación interpuesto contra la homologación de un acuerdo reparatorio y el sobreseimiento de la causa penal contra Hans Jurgen Stein por apropiación indebida calificada. La Sala concluyó que la sentencia impugnada no incurrió en violaciones a principios constitucionales y que los alegatos de la parte recurrente no justificaban la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "apropiación indebida",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de apelación en caso de apropiación indebida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1130_E19-0077.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328285-1130-11823-2023-19-0077.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.323919"
+}

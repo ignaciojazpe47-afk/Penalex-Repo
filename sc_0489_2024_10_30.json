@@ -1,0 +1,23 @@
+{
+  "id": 27003,
+  "numero": "0489",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Rómulo Antonio Benavides Rodríguez contra la sentencia del 1° de junio de 2017, que confirmó la decisión de un juzgado inferior. La Sala argumenta que no se evidenció que el tribunal actuara fuera de su competencia ni que se violaran derechos constitucionales del accionante. Además, se levantan las medidas cautelares dictadas en relación con este caso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Yaracuy",
+    "Derechos Constitucionales",
+    "Fraude Procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0489_E17-1060.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338377-0489-301024-2024-17-1060.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.471731"
+}

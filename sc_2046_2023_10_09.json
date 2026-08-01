@@ -1,0 +1,23 @@
+{
+  "id": 33899,
+  "numero": "2046",
+  "fecha": "2023-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1394, revisó la medida de privación judicial preventiva de libertad de la ciudadana Berlice de los Ángeles Casañas Gil, considerando su delicado estado de salud. Se constató que la acusada presenta múltiples condiciones médicas graves que requieren atención urgente y tratamiento especializado, lo que motivó a la Sala a decretar una medida cautelar sustitutiva de libertad en lugar de la privación de libertad. La decisión se fundamenta en el derecho a la salud y la necesidad de garantizar un tratamiento adecuado para la acusada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "salud",
+    "privación de libertad"
+  ],
+  "titulo": "Sentencia sobre medida cautelar sustitutiva de libertad por razones de salud",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2046_E22-0623.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332016-2046-191223-2023-22-0623.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.409901"
+}

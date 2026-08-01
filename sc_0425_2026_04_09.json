@@ -1,0 +1,27 @@
+{
+  "id": 17375,
+  "numero": "0425",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Maribyt Coromoto Brizuela contra una decisión del Tribunal de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes. La acción fue declarada inadmisible por no haberse agotado los recursos ordinarios disponibles, específicamente el recurso de apelación. La Sala confirmó la decisión del tribunal inferior, argumentando que la parte accionante no utilizó los medios legales establecidos para impugnar la sentencia cuestionada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "justicia",
+    "constitucional",
+    "garantías",
+    "juez",
+    "igualdad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0425_E24-0961.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354877-0425-9426-2026-24-0961.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.031747"
+}

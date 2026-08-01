@@ -1,0 +1,26 @@
+{
+  "id": 43459,
+  "numero": "0201",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Darío José Lozada Ramírez en representación de Alexis Enrique Hernández, cuestionando actuaciones de un Juzgado de Municipio Ordinario. Tras el análisis del caso, se determinó que la Sala no era competente para conocer de la acción, declinando la competencia al Tribunal de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Bolivariano de Miranda. La decisión se fundamenta en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece la competencia de los tribunales superiores en materia de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "contrato"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0201_E19-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306086-0201-12719-2019-19-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.411450"
+}

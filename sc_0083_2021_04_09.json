@@ -1,0 +1,23 @@
+{
+  "id": 38405,
+  "numero": "0083",
+  "fecha": "2021-04-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Yilder Sánchez Martínez en representación de Camilo Jesús Miranda Carusi. La acción se fundamenta en la supuesta violación de derechos fundamentales en el proceso penal que culminó con una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy, que rectificó la pena impuesta al acusado. La Sala argumenta que la decisión impugnada es susceptible de ser apelada mediante el recurso extraordinario de casación, lo que configura la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "Corte de Apelaciones",
+    "Yaracuy"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-09_S0083_E18-0655.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311640-0083-9421-2021-18-0655.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.741357"
+}

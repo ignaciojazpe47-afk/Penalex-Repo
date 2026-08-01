@@ -1,0 +1,26 @@
+{
+  "id": 43481,
+  "numero": "0223",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Rafael Santiago Díaz Ceballos, en relación con varias causas llevadas ante distintos tribunales del Estado Carabobo. La decisión se fundamenta en la falta de documentación necesaria para verificar la admisibilidad de la solicitud, así como en la existencia de pronunciamientos previos sobre los mismos asuntos.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "tutela judicial",
+    "justicia",
+    "orden público",
+    "tribunales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0223_E18-0705.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306108-0223-12719-2019-18-0705.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.413191"
+}

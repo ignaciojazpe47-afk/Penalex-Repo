@@ -1,0 +1,24 @@
+{
+  "id": 24328,
+  "numero": "0191",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Rogel Toribio Rosa Mendoza, defensor de Jennifer Carolina Osuna Márquez, contra decisiones de un tribunal inferior. La Sala fundamentó su decisión en la inepta acumulación de pretensiones, ya que se denunciaron agraviantes de distintos órganos judiciales sin relación entre ellos. La apelación fue considerada extemporánea, ya que se interpuso fuera del plazo legal establecido.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisible",
+    "derechos humanos",
+    "tribunal",
+    "corrupción"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0191_E23-0473.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332734-0191-22224-2024-23-0473.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.658899"
+}

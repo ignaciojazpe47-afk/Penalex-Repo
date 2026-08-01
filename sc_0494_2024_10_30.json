@@ -1,0 +1,26 @@
+{
+  "id": 27008,
+  "numero": "0494",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la abogada Ivi Yolimar Herrera en representación de Stephany Andreina Aranguren Briceño, debido a la falta de pronunciamiento de la Corte de Apelaciones. La Sala considera que la acción deviene en inadmisible ya que la Corte de Apelaciones emitió una decisión el 6 de febrero de 2023, lo que cesó la presunta violación de derechos constitucionales denunciada por la parte accionante. La decisión se fundamenta en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo cuando haya cesado la violación o amenaza de derechos.",
+  "palabras_clave": [
+    "amparo",
+    "violencia",
+    "derechos",
+    "constitucionales",
+    "inadmisibilidad",
+    "corte",
+    "apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0494_E23-0099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338382-0494-301024-2024-23-0099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.474461"
+}

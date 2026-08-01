@@ -1,0 +1,22 @@
+{
+  "id": 31001,
+  "numero": "0784",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Homologa el desistimiento",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, homologa el desistimiento presentado por el ciudadano Sergio Arturo López Gámez en su acción de amparo constitucional contra la Coordinación Laboral del Circuito Judicial Laboral del Estado Carabobo. El desistimiento se fundamenta en la falta de respuesta a su solicitud de redistribución de un expediente que se encontraba paralizado por la ausencia de juez en el tribunal correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desistimiento",
+    "justicia laboral"
+  ],
+  "titulo": "Homologación de desistimiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0784_E23-0199.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326440-0784-26623-2023-23-0199.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.545250"
+}

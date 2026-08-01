@@ -1,0 +1,25 @@
+{
+  "id": 16525,
+  "numero": "0451",
+  "fecha": "2025-11-24",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria de la sentencia N° 1843, dictada el 18 de noviembre de 2025, presentada por el abogado Carlos Manuel Guillermo Padrón en representación de Bader Guillermina González Dager. La Sala determinó que la solicitud era improcedente, ya que no se especificaron las dudas u omisiones que se pretendían aclarar en el fallo original.\nLa decisión resalta que la aclaratoria de sentencias tiene como objetivo corregir errores materiales y no modificar el contenido de la decisión de fondo. En este caso, la parte solicitante no cumplió con los requisitos necesarios para que la aclaratoria fuese admitida, lo que llevó a la Sala a declarar improcedente la solicitud.\nFinalmente, se ordenó que la presente decisión se considere parte integrante del fallo original y se notificara a las partes involucradas.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencias",
+    "jurisprudencia",
+    "procedimiento",
+    "justicia",
+    "derechos"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0451_E25-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354903-0451-9426-2026-25-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.056123"
+}

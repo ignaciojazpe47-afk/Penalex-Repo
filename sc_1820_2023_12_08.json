@@ -1,0 +1,25 @@
+{
+  "id": 33485,
+  "numero": "1820",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Edwuard Ernesto Klemm Mujica en representación de Joseph Arianna Suárez Tellechea. La acción fue presentada contra la decisión de la Corte de Apelaciones que declaró sin lugar el recurso de apelación sobre la medida de privación judicial preventiva de libertad impuesta a la ciudadana por delitos graves. La Sala concluye que la decisión impugnada no vulneró las garantías constitucionales de la demandante.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "derecho penal",
+    "privación de libertad",
+    "debido proceso",
+    "tutela judicial",
+    "coacción personal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1820_E23-0287.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331354-1820-81223-2023-23-0287.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.467780"
+}

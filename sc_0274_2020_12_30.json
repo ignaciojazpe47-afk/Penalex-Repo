@@ -1,0 +1,23 @@
+{
+  "id": 42033,
+  "numero": "0274",
+  "fecha": "2020-12-30",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la nulidad absoluta y carencia de efectos jurídicos de la Reforma Parcial del Estatuto que Rige la Transición a la Democracia, emanada de un grupo de diputados a la Asamblea Nacional en desacato. Se argumenta que dicha reforma colide con la Constitución de la República Bolivariana de Venezuela y que cualquier actuación realizada por los diputados en desacato es nula y carente de validez. Además, se ordena al Ministerio Público investigar penalmente las conductas constitutivas de delitos contemplados en la Constitución y se exhorta a la Contraloría General de la República a evaluar los daños patrimoniales causados.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Asamblea Nacional",
+    "Transición a la Democracia"
+  ],
+  "titulo": "Nulidad de la Reforma Parcial del Estatuto que Rige la Transición a la Democracia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-30_S0274_E17-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311231-0274-301220-2020-17-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.388153"
+}

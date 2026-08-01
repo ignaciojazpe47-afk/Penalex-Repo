@@ -1,0 +1,26 @@
+{
+  "id": 28398,
+  "numero": "1340",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Huáscar Francois Fossey Guevara, quien impugnó la decisión de la Sala N° 5 de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La Corte de Apelaciones había confirmado un fallo del Juzgado Vigésimo Séptimo que también había declarado inadmisible la acción de amparo contra la omisión de pronunciamiento del Fiscal Auxiliar Interino Sexagésimo del Ministerio Público. La Sala Constitucional concluyó que la decisión de la Corte de Apelaciones era correcta y que no había lugar para la revisión solicitada, ya que la presunta lesión constitucional había cesado con la respuesta del fiscal a las solicitudes de diligencias de investigación.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "justicia",
+    "proceso",
+    "inadmision",
+    "seguridad_juridica"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1340_E24-0027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340354-1340-101224-2024-24-0027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.208654"
+}

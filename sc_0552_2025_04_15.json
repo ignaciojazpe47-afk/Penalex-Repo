@@ -1,0 +1,22 @@
+{
+  "id": 19451,
+  "numero": "0552",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Carlos Armando Linares Contreras, quien alegaba violaciones a su derecho a la defensa tras la designación de un defensor público en su juicio. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que cesaron las violaciones denunciadas. La Sala Constitucional confirmó esta decisión, señalando que el derecho a la defensa fue garantizado al permitir que el abogado de confianza del acusado asumiera su defensa tras la revocación del defensor público.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0552_E24-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343158-0552-15425-2025-24-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.040886"
+}

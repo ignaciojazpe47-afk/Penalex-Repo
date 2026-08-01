@@ -1,0 +1,26 @@
+{
+  "id": 29129,
+  "numero": "0127",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del estado Lara. La revisión fue solicitada por el abogado David Ernesto Cedeño Carpio en representación de Antonio Coletta Ponticelli, quien impugnó la decisión que declaró sin lugar un recurso de apelación relacionado con una solicitud de interdicción civil. La Sala consideró que tenía competencia para conocer la solicitud y ordenó la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "interdicción",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "incongruencia",
+    "silencio de pruebas",
+    "principio de igualdad",
+    "exhaustividad de la prueba"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0127_E23-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323295-0127-10323-2023-23-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.336977"
+}

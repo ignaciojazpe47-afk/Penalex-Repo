@@ -1,0 +1,25 @@
+{
+  "id": 32266,
+  "numero": "1420",
+  "fecha": "2023-02-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por María Josefina Prieto, argumentando que la recurrente había optado por recurrir a vías ordinarias, específicamente un recurso de apelación, lo cual es incompatible con la admisibilidad del amparo. La decisión se basa en el artículo 6, numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que la acción de amparo no será admitida si el agraviado ha hecho uso de los medios judiciales preexistentes.\n\nLa Sala también reafirma que la acción de amparo es un mecanismo extraordinario que debe ser utilizado solo cuando no existen recursos ordinarios adecuados para restablecer la situación jurídica lesionada. En este caso, se concluye que la parte recurrente contaba con un recurso ordinario idóneo, el cual utilizó, por lo que la acción de amparo es declarada inadmisible.\n\nFinalmente, se confirma la decisión apelada, manteniendo la inadmisibilidad de la acción de amparo y reafirmando la competencia de la Sala para conocer del recurso de apelación interpuesto.",
+  "palabras_clave": [
+    "amparo",
+    "prueba",
+    "juez",
+    "procedimiento",
+    "derecho procesal",
+    "libertad probatoria"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1420_E23-0561.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329295-1420-111023-2023-23-0561.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.304414"
+}

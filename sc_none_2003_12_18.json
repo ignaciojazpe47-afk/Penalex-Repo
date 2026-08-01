@@ -1,0 +1,23 @@
+{
+  "id": 6643,
+  "numero": null,
+  "fecha": "2003-12-18",
+  "anio": 2003,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de diciembre de 2003, revocó la sentencia del 7 de noviembre de 2001 del Juzgado Superior del Tránsito, del Trabajo y de Estabilidad Laboral de la Circunscripción Judicial del Estado Lara, que había declarado sin lugar la acción de amparo constitucional interpuesta por Nicolás García, representante de Constructora Nigarca C.A. La Sala consideró que los hechos alegados configuraban una violación del orden público debido a irregularidades en la juramentación del defensor ad litem, lo que afectó el derecho a la defensa del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "juramentación",
+    "defensor ad litem",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_f954a51d2068ae57d33f6db39805b280_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.401913"
+}

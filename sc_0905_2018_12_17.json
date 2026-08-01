@@ -1,0 +1,22 @@
+{
+  "id": 49658,
+  "numero": "0905",
+  "fecha": "2018-12-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Jeneffer Gaskin Azuaje contra una decisión del Juzgado Noveno de Primera Instancia que había declarado con lugar una cuestión previa. La Sala encontró que la decisión impugnada vulneraba el debido proceso al considerar como no opuestas las cuestiones previas presentadas por la parte demandada, ya que estas se habían presentado conjuntamente con la contestación al fondo de la demanda. En consecuencia, se declaró con lugar la acción de amparo y se anuló la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "cuestiones previas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-14_S0905_E17-0874.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/303260-0905-141218-2018-17-0874.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.133080"
+}

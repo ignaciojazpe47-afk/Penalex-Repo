@@ -1,0 +1,24 @@
+{
+  "id": 34067,
+  "numero": "1174",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de nulidad parcial interpuesta por Cementos Catatumbo, C.A. contra varias ordenanzas del Municipio Rosario de Perijá que obligaban a contratar un porcentaje del transporte con empresas locales, alegando que estas disposiciones vulneran derechos constitucionales como la libertad económica y la prohibición de monopolios. La Sala decidió suspender los efectos de las ordenanzas impugnadas hasta que se dicte sentencia de fondo, considerando que su aplicación podría agravar la situación de la empresa demandante.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "libertad económica",
+    "monopolio",
+    "ordenanzas municipales"
+  ],
+  "titulo": "Sentencia sobre demanda de nulidad parcial por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1174_E23-0655.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328378-1174-14823-2023-23-0655.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.862640"
+}

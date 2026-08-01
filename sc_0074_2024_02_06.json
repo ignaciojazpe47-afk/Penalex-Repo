@@ -1,0 +1,27 @@
+{
+  "id": 24127,
+  "numero": "0074",
+  "fecha": "2024-02-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la competencia para conocer de la acción de amparo constitucional interpuesta por José Ignacio González Briceño, quien alegó falta de notificación por desacato. Sin embargo, se determina que el accionante no ha realizado actuaciones válidas en más de seis meses, configurándose el abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa al accionante.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparo",
+    "tutela",
+    "multa",
+    "competencia",
+    "interés",
+    "derechos",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0074_E16-1152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332429-0074-6224-2024-16-1152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.575507"
+}

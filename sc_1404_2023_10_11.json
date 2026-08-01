@@ -1,0 +1,22 @@
+{
+  "id": 32251,
+  "numero": "1404",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Jesús Antonio Alvarado Rendón, defensor privado de Jesús Enrique Castillo Mata, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en la inepta acumulación de pretensiones, ya que las acciones se dirigían contra distintos órganos jurisdiccionales, lo que impide su acumulación en un solo escrito. La Sala Constitucional confirma la decisión de la Corte de Apelaciones, considerando que la acción de amparo no cumplía con los requisitos legales establecidos.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1404_E21-0292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329279-1404-111023-2023-21-0292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.403002"
+}

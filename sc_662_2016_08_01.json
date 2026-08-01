@@ -1,0 +1,24 @@
+{
+  "id": 58778,
+  "numero": "662",
+  "fecha": "2016-08-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n° RC.000296 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La revisión se fundamentó en la alegación de incongruencia positiva, ya que la Sala de Casación Civil había decidido sobre la falta de cualidad pasiva de la parte demandada, un tema que no había sido planteado en el proceso. La Sala Constitucional determinó que la falta de cualidad es una cuestión de orden público que debe ser atendida de oficio por el juez, y que la decisión de la Sala de Casación Civil vulneró los derechos a la tutela judicial efectiva y al debido proceso del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incongruencia positiva",
+    "falta de cualidad",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de la sentencia de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-01_S662_E15-0747.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/189552-662-1816-2016-15-0747.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:00.037599"
+}

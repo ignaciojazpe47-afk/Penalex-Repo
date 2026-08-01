@@ -1,0 +1,27 @@
+{
+  "id": 19239,
+  "numero": "0476",
+  "fecha": "2025-02-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La abogada Belxis Coromoto Gil García solicitó la aclaratoria de la sentencia N° 1422 dictada el 12 de diciembre de 2024, argumentando que se omitieron actas consignadas. La Sala Constitucional analizó la solicitud y determinó que la petición fue presentada de manera tempestiva, pero no cumplía con los requisitos para ser admitida. Finalmente, la Sala declaró improcedente la solicitud de aclaratoria.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "derechos",
+    "garantías",
+    "debido proceso",
+    "tutela judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Solicitud de aclaratoria de sentencia N° 1422",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0476_E24-0478.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342875-0476-2425-2025-24-0478.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.805867"
+}

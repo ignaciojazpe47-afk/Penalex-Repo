@@ -1,0 +1,26 @@
+{
+  "id": 27282,
+  "numero": "0689",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de Arturo Jesús Salas Felice, debido a la falta de documentación necesaria para su admisibilidad. La decisión se basa en la ausencia de copia certificada de la sentencia cuya vulneración se denuncia, lo que impide verificar la existencia y contenido de dicha decisión. La Sala reafirma su competencia para conocer de la acción de amparo, pero resalta la importancia de cumplir con los requisitos procesales establecidos por la ley.",
+  "palabras_clave": [
+    "amparo",
+    "admisibilidad",
+    "competencia",
+    "documentación",
+    "legitimidad",
+    "Corte de Apelaciones",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0689_E23-1163.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338685-0689-71124-2024-23-1163.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.451226"
+}

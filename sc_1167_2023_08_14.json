@@ -1,0 +1,26 @@
+{
+  "id": 34060,
+  "numero": "1167",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de protección de derechos e intereses difusos interpuesta por varios ciudadanos y asociaciones contra la apertura de un procedimiento administrativo sancionatorio que resultó en la salida del aire del canal CNN en Español. La Sala declaró su competencia para conocer de la demanda, pero posteriormente la consideró inadmisible debido a que la pretensión podía ser satisfecha a través de otras vías contencioso-administrativas.",
+  "palabras_clave": [
+    "competencia",
+    "inadmisibilidad",
+    "derechos",
+    "intereses difusos",
+    "actos administrativos",
+    "jurisdicción",
+    "contencioso administrativo"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la demanda de protección de derechos e intereses difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1167_E17-1070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328371-1167-14823-2023-17-1070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.863446"
+}

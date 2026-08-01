@@ -1,0 +1,24 @@
+{
+  "id": 37437,
+  "numero": "0993",
+  "fecha": "2022-11-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por la abogada Ana Teresa López de Bustamante en representación de José Alberto Bustamante López, quien se encontraba detenido. La acción se interpuso debido a la omisión de pronunciamiento de la Corte de Apelaciones sobre un recurso de apelación interpuesto el 1 de julio de 2022, lo que generó un retardo procesal. La Sala consideró que la libertad personal del ciudadano es un derecho de orden público y decidió dictar un auto de mejor proveer, ordenando a la Corte de Apelaciones que informe sobre el estado del recurso de apelación y las razones de cualquier falta de pronunciamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "retardo procesal",
+    "derechos humanos",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-16_S0993_E22-0662.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320842-0993-161122-2022-22-0662.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.350241"
+}

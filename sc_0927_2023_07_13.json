@@ -1,0 +1,25 @@
+{
+  "id": 31259,
+  "numero": "0927",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por JESÚS ALBERTO COVA URBANEJA contra la Dirección Política Nacional AD HOC del Movimiento Electoral del Pueblo (MEP). La Sala determina que la acción debe ser conocida por la Sala Electoral, dado que se trata de una actividad electoral. Además, se declara terminado el procedimiento por abandono de trámite, ya que el accionante no mostró interés en continuar con el proceso durante más de seis meses.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "acción electoral",
+    "abandonos de trámite",
+    "interés procesal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por JESÚS ALBERTO COVA URBANEJA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0927_E20-0237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326884-0927-13723-2023-20-0237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.209547"
+}

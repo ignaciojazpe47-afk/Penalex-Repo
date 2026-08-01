@@ -1,0 +1,26 @@
+{
+  "id": 28337,
+  "numero": "1295",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Nelson Mercado Hidalgo, actuando como apoderado judicial del ciudadano Pedro José Hidalgo Gutiérrez. La solicitud se refiere a una sentencia dictada el 18 de septiembre de 2018 por el Tribunal Superior Segundo en lo Civil, Mercantil y del Tránsito de Barinas, que había declarado con lugar un recurso de apelación interpuesto por Yolanda de Jesús Santana Garabote. La Sala argumenta que el requirente no presentó copia certificada del acto de juzgamiento cuestionado, lo que es esencial para la admisión de la solicitud.",
+  "palabras_clave": [
+    "incongruencia",
+    "derecho a la defensa",
+    "principio dispositivo",
+    "sentencia",
+    "apelación",
+    "contradicción",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1295_E21-0558.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340254-1295-51224-2024-21-0558.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.226295"
+}

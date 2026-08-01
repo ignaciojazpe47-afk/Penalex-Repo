@@ -1,0 +1,23 @@
+{
+  "id": 16421,
+  "numero": "0662",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la solicitud de aclaratoria presentada por los abogados de Hidroponías Venezolanas C.A. respecto a la sentencia N° 1244. En esta decisión, se reafirmó que la sentencia original estaba debidamente motivada y no presentaba vacíos ni contradicciones. La Sala enfatizó que la aclaratoria no puede ser utilizada para reexaminar aspectos de fondo de la decisión ya adoptada.",
+  "palabras_clave": [
+    "aclaratoria",
+    "improcedente",
+    "sentencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de la sentencia N° 1244",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0662_E24-1137.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355924-0662-27526-2026-24-1137.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.898566"
+}

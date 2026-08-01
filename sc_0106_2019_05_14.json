@@ -1,0 +1,22 @@
+{
+  "id": 42757,
+  "numero": "0106",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "El ciudadano Federico Guillermo Guzmán Guillén interpuso una acción de amparo constitucional contra una sentencia del Juzgado Superior Octavo que declaró sin lugar un recurso de apelación y ordenó el desalojo del inmueble que ocupa. La Sala Constitucional, tras revisar el caso, determinó que se vulneraron derechos fundamentales del demandante, como el derecho a la defensa y al debido proceso, al no considerar pruebas relevantes en la decisión del tribunal inferior. Por lo tanto, se admitió la acción de amparo y se ordenó la suspensión de los efectos de la sentencia impugnada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0106_E17-0439.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304849-0106-14519-2019-17-0439.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.588531"
+}

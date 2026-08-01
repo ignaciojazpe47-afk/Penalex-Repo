@@ -1,0 +1,24 @@
+{
+  "id": 32742,
+  "numero": "1470",
+  "fecha": "2023-11-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por varios diputados en defensa de los derechos colectivos y difusos de los venezolanos a participar en el referendo consultivo del 3 de diciembre de 2023. La Sala declaró que cualquier decisión que impida la celebración del referendo carece de validez jurídica, reafirmando la soberanía de Venezuela sobre el territorio de la Guayana Esequiba y la constitucionalidad del referendo. Se ordenó al Consejo Nacional Electoral continuar con los trámites necesarios para garantizar el derecho a la participación política de los ciudadanos venezolanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "referendo consultivo",
+    "soberanía",
+    "Guayana Esequiba",
+    "participación política"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional en defensa del referendo consultivo del 3 de diciembre de 2023",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-16_S1470_E23-1150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330131-1470-161123-2023-23-1150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.381139"
+}

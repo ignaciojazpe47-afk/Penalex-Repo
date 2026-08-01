@@ -1,0 +1,24 @@
+{
+  "id": 38234,
+  "numero": "0013",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la presente sentencia, declara terminado el procedimiento por abandono de trámite en el amparo constitucional interpuesto por la sociedad mercantil FANNY NAVARRETE STUDIO IMAGEN, C.A. contra la sentencia dictada el 9 de febrero de 2018 por el Tribunal Superior Segundo en lo Civil y Mercantil del Estado Lara. La Sala observa que la parte accionante no realizó actuaciones procesales válidas durante un tiempo que superó los seis meses, lo que indica falta de interés en obtener la tutela constitucional demandada.\n\nSe impone una multa a la parte accionante por la cantidad de cinco mil bolívares, que deberá ser pagada a la Tesorería Nacional. La Sala también declara inoficioso emitir pronunciamiento sobre la medida cautelar innominada solicitada en la causa. Finalmente, se ordena la notificación correspondiente y se remite copia certificada de la decisión a los tribunales involucrados en el caso.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparoconstitucional",
+    "tutela",
+    "interesprocesal",
+    "medidacautelar"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y abandono de trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0013_E18-0393.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311407-0013-4321-2021-18-0393.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.764563"
+}

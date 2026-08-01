@@ -1,0 +1,25 @@
+{
+  "id": 17600,
+  "numero": "0197",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Julio César Rosales Sánchez en representación de Ángel Domingo Rueda Suárez. La acción se fundamenta en la nulidad de decisiones previas emitidas por el Juzgado Segundo de Primera Instancia y la Corte de Apelaciones en materia de violencia contra la mujer, alegando violaciones a derechos constitucionales y un proceso injusto. Sin embargo, se determina que existe una inepta acumulación de pretensiones, ya que las decisiones cuestionadas provienen de órganos jurisdiccionales distintos, lo que impide su conocimiento por un solo tribunal.",
+  "palabras_clave": [
+    "violencia de género",
+    "derechos humanos",
+    "debido proceso",
+    "igualdad",
+    "jurisdicción",
+    "discriminación"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0197_E25-1482.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353193-0197-2326-2026-25-1482.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.374645"
+}

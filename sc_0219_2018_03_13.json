@@ -1,0 +1,25 @@
+{
+  "id": 45941,
+  "numero": "0219",
+  "fecha": "2018-03-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la apelación de amparo constitucional interpuesta por Rafael Elías Soto Chebly, declaró con lugar la acción, revocando la decisión de inadmisibilidad dictada por la Corte de Apelaciones. Se argumentó que la acción de amparo era procedente debido a la omisión de pronunciamiento del tribunal de primera instancia sobre los planteamientos de la defensa, lo que vulneró derechos constitucionales como la tutela judicial efectiva y el debido proceso. La Corte de Apelaciones deberá dictar una nueva decisión considerando los vicios señalados en la sentencia anterior.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "tutela_judicial",
+    "violencia_contra_la_mujer",
+    "incongruencia_omisiva",
+    "derechos_constitucionales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-13_S0219_E17-1238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208654-0219-13318-2018-17-1238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.683800"
+}

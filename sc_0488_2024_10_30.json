@@ -1,0 +1,26 @@
+{
+  "id": 27002,
+  "numero": "0488",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por ciudadanos de Aragua en contra del Alcalde del Municipio José Ángel Lamas y una sociedad mercantil. La Sala observó que el escrito presentado carecía de claridad y fundamentación, lo que dificultaba la comprensión de la pretensión. Se ordenó a los demandantes corregir su escrito en un plazo de dos días, advirtiendo que de no hacerlo, la acción sería declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmision",
+    "justiciable",
+    "normas",
+    "proceso"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0488_E23-0879.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338376-0488-301024-2024-23-0879.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.471333"
+}

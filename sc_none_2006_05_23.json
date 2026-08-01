@@ -1,0 +1,23 @@
+{
+  "id": 3310,
+  "numero": null,
+  "fecha": "2006-05-23",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara con lugar la acción de nulidad parcial interpuesta por Carlos Brender, anulando el último aparte del artículo 90 del Decreto con Fuerza de Ley Orgánica de la Procuraduría General de la República. La Sala argumenta que la norma impugnada vulnera el derecho al debido proceso y la imparcialidad judicial, al exigir que la caución presentada sea aprobada por la representación de la República, lo que constituye una usurpación de funciones judiciales.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "procuraduría",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia que anula el último aparte del artículo 90 del Decreto con Fuerza de Ley Orgánica de la Procuraduría General de la República",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-05-23_PoliticoAdmin_02.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.496442"
+}

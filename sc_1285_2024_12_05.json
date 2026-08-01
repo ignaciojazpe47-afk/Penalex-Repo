@@ -1,0 +1,25 @@
+{
+  "id": 28326,
+  "numero": "1285",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la incompetencia para conocer de una acción de amparo constitucional interpuesta por varios ciudadanos contra la Fiscalía 123 del Área Metropolitana de Caracas y la Policía Nacional Bolivariana. Los accionantes alegaron violaciones a sus derechos constitucionales durante una investigación en su contra por presunta invasión de un inmueble.\nLa Sala, tras examinar los alegatos, determinó que la competencia para conocer del amparo corresponde a los tribunales de primera instancia en funciones de juicio del Circuito Judicial Penal, declinando así su conocimiento. Se ordenó la remisión del expediente a la unidad correspondiente para su distribución y conocimiento.\nFinalmente, la decisión fue firmada por la Magistrada Ponente y otros magistrados, dejando claro que la Sala no tiene competencia en este caso específico.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "justicia",
+    "proceso",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1285_E24-0155.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340243-1285-51224-2024-24-0155.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.229371"
+}

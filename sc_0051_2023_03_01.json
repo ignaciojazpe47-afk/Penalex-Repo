@@ -1,0 +1,24 @@
+{
+  "id": 28952,
+  "numero": "0051",
+  "fecha": "2023-03-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, declaró sin lugar el recurso de apelación interpuesto contra la decisión del Juzgado Superior Civil que había declarado inadmisible la solicitud de amparo constitucional. La decisión se fundamenta en la falta de legitimación activa de la demandante para interponer la acción de amparo, dado que se alegó la nulidad de una venta de inmueble sin el consentimiento de la concubina, cuya relación no fue reconocida judicialmente en el momento de la venta. La Sala también revisó de oficio sentencias anteriores relacionadas con la nulidad de la venta y la reivindicación del inmueble, declarando inadmisibles ambas demandas por falta de cualidad activa de la demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad de venta",
+    "reivindicación",
+    "concubinato",
+    "legitimación activa"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-01_S0051_E22-0490.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/322981-0051-1323-2023-22-0490.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.285832"
+}

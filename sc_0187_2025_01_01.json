@@ -1,0 +1,27 @@
+{
+  "id": 18500,
+  "numero": "0187",
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la solicitud de revisión de una sentencia dictada por la Corte de Apelaciones. Se determinó que la Sala era competente para conocer la solicitud, pero se declaró inadmisible debido a la falta de legitimidad de los abogados que la presentaron, quienes no consignaron el poder que los acreditara como representantes del ciudadano Jonathan Eliezer Armas Vásquez.",
+  "palabras_clave": [
+    "revisión",
+    "competencia",
+    "poder",
+    "legitimidad",
+    "inadmision",
+    "justicia",
+    "constitucional",
+    "abogados"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-19_S0187_E24-1054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341604-0187-19225-2025-24-1054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.809971"
+}

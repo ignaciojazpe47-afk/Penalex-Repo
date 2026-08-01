@@ -1,0 +1,22 @@
+{
+  "id": 41910,
+  "numero": "0235",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número RC-000669 dictada por la Sala de Casación Civil, que había declarado la nulidad absoluta de un fallo anterior. En su decisión, la Sala Constitucional encontró que la sentencia impugnada adolecía de vicios de inmotivación y contradicción, lo que vulneraba los derechos de defensa y a la tutela judicial efectiva. Por lo tanto, se declaró con lugar la solicitud de revisión, confirmando la sentencia del Tribunal Superior en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Miranda, que había conocido la apelación en el marco de una demanda de prescripción adquisitiva.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "prescripción adquisitiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0235_E19-0064.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310992-0235-141220-2020-19-0064.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.395309"
+}

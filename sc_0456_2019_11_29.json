@@ -1,0 +1,26 @@
+{
+  "id": 44659,
+  "numero": "0456",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los fiscales Arturo José Ojeda Alvarado y Víctor José López contra la decisión de la Sala N° 8 de la Corte de Apelaciones que declaró con lugar un recurso de apelación y anuló una decisión del Juzgado Vigésimo Tercero. La Sala constató que la decisión impugnada carecía de motivación adecuada, lo que vulneraba el derecho a la defensa y el debido proceso. En consecuencia, se declaró con lugar el recurso de apelación y se ordenó a un juez distinto que se pronuncie sobre la solicitud de control judicial requerida por la defensa del imputado.",
+  "palabras_clave": [
+    "extorsión",
+    "due process",
+    "tutela judicial",
+    "derecho a la defensa",
+    "inmotivación",
+    "acción de amparo",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de decisión judicial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0456_E16-0992.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308393-0456-291119-2019-16-0992.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.831906"
+}

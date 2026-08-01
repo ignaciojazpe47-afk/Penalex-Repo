@@ -1,0 +1,26 @@
+{
+  "id": 31528,
+  "numero": "0960",
+  "fecha": "2023-07-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 20 de julio de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Pedro Enrique Moreno La Rosa en representación de Ariana Luimar Hernández. La acción se dirigía contra la sentencia dictada el 7 de diciembre de 2022 por el Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que declaró perecido el recurso de apelación interpuesto por el abogado en contra de una decisión anterior del Tribunal Primero de Juicio de Protección de Niños, Niñas y Adolescentes.\n\nLa Sala fundamentó su decisión en que la parte recurrente había optado por recurrir a las vías judiciales ordinarias, lo que conllevaba a la inadmisibilidad de la acción de amparo, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se destacó que el recurso de control de legalidad había sido presentado de manera extemporánea, lo que también afectó la admisibilidad del amparo.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la acción, pero determinó que no procedía el amparo debido a la existencia de medios judiciales ordinarios que habían sido utilizados por la parte agraviada.",
+  "palabras_clave": [
+    "amparo",
+    "patria potestad",
+    "niños",
+    "adolescentes",
+    "apelación",
+    "formalismos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-20_S0960_E23-0350.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327368-0960-20723-2023-23-0350.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.202617"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32103,
+  "numero": "342",
+  "fecha": "2023-10-05",
+  "anio": 2023,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "MAIKEL JOSÉ MORENO PÉREZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara procedente la solicitud de extradición activa del ciudadano ANTONIO JOSÉ LEDEZMA DÍAZ, requerido por la presunta comisión de delitos graves como traición a la patria, conspiración, instigación a delinquir y asociación, todos tipificados en la legislación venezolana. Se establece que los delitos imputados no son de carácter político y que se cumplen los requisitos de procedencia para la extradición, incluyendo la verificación de la nacionalidad del solicitado y la existencia de una orden de aprehensión vigente.",
+  "palabras_clave": [
+    "extradición",
+    "delitos graves",
+    "traición a la patria",
+    "conspiración",
+    "instigación a delinquir",
+    "asociación"
+  ],
+  "titulo": "Solicitud de Extradición Activa de ANTONIO JOSÉ LEDEZMA DÍAZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2023-10-05_S342_E23-333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/octubre/328922-342-51023-2023-E23-333.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:49.595505"
+}

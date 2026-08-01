@@ -1,0 +1,23 @@
+{
+  "id": 29080,
+  "numero": "0077",
+  "fecha": "2023-03-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Alfredo Jaimes contra la decisión del Tribunal Superior Primero en lo Civil, que declaró sin lugar la recusación presentada contra la jueza accidental Daniela Elizabeth Díaz Hernández. La Sala consideró que se vulneraron los derechos a la defensa y al debido proceso al no respetar los lapsos procesales establecidos para la tramitación de la recusación. En consecuencia, se declaró procedente el amparo y se anuló la decisión impugnada, ordenando la reposición del caso para que otro tribunal superior conozca la recusación con los lapsos probatorios correspondientes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recusación",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre recusación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-07_S0077_E22-0721.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323246-0077-7323-2023-22-0721.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.348975"
+}

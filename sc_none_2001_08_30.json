@@ -1,0 +1,18 @@
+{
+  "id": 4188,
+  "numero": null,
+  "fecha": "2001-08-30",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de amparo constitucional interpuesta por LUZ MAGALI SERNA RUGELES contra la omisión de pronunciamiento de la Sala Político-Administrativa. La decisión se basa en que la demanda no fue interpuesta contra una decisión, sino contra una omisión, lo que no es admisible según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_1966065664ce206ed2b181443a0a2549_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.449617"
+}

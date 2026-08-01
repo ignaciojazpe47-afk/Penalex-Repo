@@ -1,0 +1,24 @@
+{
+  "id": 34966,
+  "numero": "0102",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de trámite de denuncia de incumplimiento del mandamiento de amparo constitucional interpuesta por Neyla del Carmen Moreno Aponte contra Yasmin García. La solicitud se basa en el desacato a una sentencia anterior que ordenaba la restitución de servicios básicos en un inmueble destinado a actividades educativas. La Sala declaró competente para conocer la solicitud y decidió con lugar la denuncia de incumplimiento, ordenando remitir el expediente al tribunal de origen para su trámite correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "servicios públicos",
+    "derechos fundamentales",
+    "arrendamiento"
+  ],
+  "titulo": "Sentencia sobre desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0102_E20-0420.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316859-0102-2622-2022-20-0420.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.425098"
+}

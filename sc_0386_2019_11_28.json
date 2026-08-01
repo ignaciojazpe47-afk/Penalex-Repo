@@ -1,0 +1,26 @@
+{
+  "id": 44575,
+  "numero": "0386",
+  "fecha": "2019-11-28",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de noviembre de 2019, se declaró competente para conocer la solicitud de revisión de la sentencia N° 157 dictada por la Sala de Casación Penal el 7 de agosto de 2019. Se argumentó que la revisión era necesaria para preservar la uniformidad en la interpretación de normas constitucionales y garantizar los derechos del ciudadano Jack Ehud Dornbusch Gehl, quien había sido afectado por la decisión anterior.\n\nLa Sala decidió declarar con lugar la solicitud de revisión, anulando la sentencia N° 157 y ordenando la reposición de la causa a un juzgado distinto para que se realicen las notificaciones pertinentes. Además, se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada, así como la suspensión de cualquier actuación procesal relacionada con el caso.\n\nLa decisión fue firmada por el magistrado ponente Juan José Mendoza Jover y otros magistrados, destacando la importancia de garantizar el debido proceso y los derechos constitucionales en el marco de la justicia penal.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "notificación",
+    "víctimas",
+    "nulidad",
+    "Código_Orgánico_Procesal_Penal",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-27_S0386_E19-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308308-0386-271119-2019-19-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.363180"
+}

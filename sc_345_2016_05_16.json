@@ -1,0 +1,23 @@
+{
+  "id": 57455,
+  "numero": "345",
+  "fecha": "2016-05-16",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Mario Signorino Giardina, en su carácter de Presidente de la Junta de Condominio del Conjunto Residencial Gran Marina Tucacas, contra la sentencia del Juzgado Superior que declaró sin lugar la apelación de la parte demandada. La Sala consideró que la decisión del Juzgado Superior vulneró derechos fundamentales al no considerar adecuadamente el cumplimiento de órdenes del Cuerpo de Bomberos y la falta de convocatoria a la Asamblea de copropietarios para decisiones que afectan las áreas comunes del condominio.\n\nLa Sala, al analizar los alegatos, determinó que la Junta Directiva actuó en cumplimiento de un mandato administrativo y que la sentencia impugnada no respetó el debido proceso, por lo que se acordó la medida cautelar de suspensión de los efectos de la sentencia del Juzgado Superior mientras se decide el fondo del amparo. Finalmente, se ordenó la notificación del Juzgado Superior para que comparezca ante la Sala Constitucional y se fije la audiencia correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Junta de Condominio",
+    "Estado Falcón",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por la Junta de Condominio del Conjunto Residencial Gran Marina Tucacas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-05-16_S345_E15-1316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/187701-345-16516-2016-15-1316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:17.476127"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19674,
+  "numero": "0646",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 000381, declaró inadmisible la solicitud de revisión interpuesta por la representación judicial de Frank Briceño Fortique, en relación a la sentencia dictada por la Sala de Casación Civil. La Sala reafirmó su competencia para conocer del caso y argumentó que la revisión no constituye una tercera instancia, sino una potestad extraordinaria que busca la unificación de criterios de interpretación constitucional. Se destacó que la solicitud no contribuía a la uniformidad de la interpretación de normas y principios constitucionales, lo que llevó a la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "incongruencia",
+    "acción pauliana",
+    "Código de Procedimiento Civil",
+    "sentencia",
+    "congruencia",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0646_E23-0990.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343593-0646-8525-2025-23-0990.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.730439"
+}

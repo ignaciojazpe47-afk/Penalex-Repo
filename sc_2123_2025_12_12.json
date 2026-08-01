@@ -1,0 +1,26 @@
+{
+  "id": 23909,
+  "numero": "2123",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por la abogada Ana Sofía Delgado Lareal, en representación de los ciudadanos Carmela Josefina La Marca Bracho y José Luis La Marca Bracho, en relación con la causa penal Nº 5C-23555-24. La solicitud se fundamenta en la alegación de irregularidades procesales en un juicio penal que involucra delitos de hurto calificado, apropiación indebida y agavillamiento. La Sala declina el conocimiento del caso a la Sala de Casación Penal, ordenando el remitir las actuaciones pertinentes.",
+  "palabras_clave": [
+    "contrato",
+    "incumplimiento",
+    "avocamiento",
+    "proceso penal",
+    "extorsión",
+    "jurisprudencia",
+    "constitución"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2123_E25-0535.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351972-2123-121225-2025-25-0535.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.076983"
+}

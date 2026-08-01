@@ -1,0 +1,25 @@
+{
+  "id": 22090,
+  "numero": "1523",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante sentencia del 6 de octubre de 2025, declaró improcedente la acción de amparo constitucional interpuesta por la abogada Sandra Yurisma Avilez en representación de Omar Antonio Labrador, contra la decisión de la Sala 1 de la Corte de Apelaciones que negó el decaimiento de la medida de privación judicial preventiva de libertad. La Sala consideró que la prolongación de la medida no era imputable al tribunal y que existían razones suficientes para mantenerla, dado el carácter grave de los delitos imputados y la complejidad del caso.\n\nLa decisión se fundamenta en el análisis de las circunstancias del proceso penal, destacando que la dilación no fue atribuible a la administración de justicia, y que la medida de coerción personal se ajustaba a derecho. La Sala reafirmó la importancia del debido proceso y la protección de los derechos del imputado, pero concluyó que la acción de amparo no cumplía con los requisitos establecidos en la ley.\n\nFinalmente, se ordenó la publicación y registro de la decisión, archivándose el expediente correspondiente.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "debido proceso",
+    "proporcionalidad",
+    "derechos humanos",
+    "justicia penal",
+    "dilaciones indebidas"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por la defensa de Omar Antonio Labrador",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1523_E24-1214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348269-1523-61025-2025-24-1214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.197574"
+}

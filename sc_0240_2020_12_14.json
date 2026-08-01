@@ -1,0 +1,25 @@
+{
+  "id": 41915,
+  "numero": "0240",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia dictada el 3 de agosto de 2018 por la Sala de Casación Civil, que había declarado con lugar un recurso de casación. El abogado José Vicente Oropeza Plaza, en representación de Adela Abud Addod, alegó que la sentencia vulneró derechos fundamentales al no abrir la incidencia por fraude procesal. La Sala concluyó que la revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales, por lo que declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "fraude procesal",
+    "derecho a la defensa",
+    "procedimiento civil",
+    "articulación probatoria",
+    "sentencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0240_E18-0821.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310997-0240-141220-2020-18-0821.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.398173"
+}

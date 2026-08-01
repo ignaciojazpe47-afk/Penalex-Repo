@@ -1,0 +1,24 @@
+{
+  "id": 54545,
+  "numero": "913",
+  "fecha": "2017-11-09",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de noviembre de 2017, declaró con lugar la acción de amparo interpuesta por David Alexander Morillo Campos, revocando el fallo del Juzgado Superior Décimo que había declarado inadmisible la acción. La Sala determinó que la falta de notificación en el domicilio procesal del demandado violó sus derechos al debido proceso y a la defensa, lo que imposibilitó su acceso a los recursos legales correspondientes. Se ordenó la anulación de las actuaciones realizadas a partir de la decisión del 8 de julio de 2013 y se repondrá la causa al estado de que se practiquen debidamente las notificaciones de las partes de dicha sentencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "derecho a la defensa",
+    "notificación",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-09_S913_E15-0123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205143-913-91117-2017-15-0123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.719847"
+}

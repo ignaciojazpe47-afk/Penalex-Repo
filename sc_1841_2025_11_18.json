@@ -1,0 +1,26 @@
+{
+  "id": 23073,
+  "numero": "1841",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por los abogados Rafael Mujica Noroño y Whill Pérez Colmenarez en representación de los ciudadanos Blanca Nieves Boldrini de Samsó y Aníbal Jesús Samsó Boldrini. La revisión se solicitó en relación a la decisión N° 000311/2024 dictada por la Sala de Casación Civil, que había declarado nulo un fallo anterior y ordenado el cobro de honorarios profesionales. La Sala Constitucional determinó su competencia para conocer el caso y ordenó la remisión de documentos relevantes para la revisión del fallo.",
+  "palabras_clave": [
+    "honorarios",
+    "tutela judicial",
+    "procedimiento civil",
+    "indexación",
+    "casación",
+    "derechos",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1841_E24-1120.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349965-1841-181125-2025-24-1120.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.064256"
+}

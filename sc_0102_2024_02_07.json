@@ -1,0 +1,26 @@
+{
+  "id": 24155,
+  "numero": "0102",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Sorangel Josefina Colmenárez Guevara contra una sentencia que declaró inadmisible su acción de amparo constitucional. La apelante alegó violaciones al debido proceso y a su derecho a la defensa, argumentando que no pudo ejercer el recurso de apelación debido a manipulación de los lapsos procesales por parte del tribunal inferior. Sin embargo, la Sala determinó que la apelación fue interpuesta fuera de los plazos establecidos y que existían vías ordinarias para restablecer sus derechos, lo que llevó a declarar inadmisible la acción de amparo y confirmar la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "vías",
+    "recursos",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0102_E22-0362.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332473-0102-7224-2024-22-0362.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.567695"
+}

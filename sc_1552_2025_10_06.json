@@ -1,0 +1,25 @@
+{
+  "id": 22119,
+  "numero": "1552",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La abogada Mayra Alejandra López interpuso una acción de amparo constitucional contra el Juzgado Octavo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Aragua, por la omisión de pronunciamiento sobre su acusación particular. La Sala Constitucional, tras examinar el caso, se declaró incompetente para conocer de la acción y decidió remitir el expediente a la Corte de Apelaciones del Circuito Judicial Penal del estado Aragua. La decisión se fundamenta en la falta de pronunciamiento del tribunal de origen y la necesidad de garantizar el acceso a la justicia.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1552_E25-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348298-1552-61025-2025-25-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.196046"
+}

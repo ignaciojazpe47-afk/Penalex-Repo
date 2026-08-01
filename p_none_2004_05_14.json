@@ -1,0 +1,23 @@
+{
+  "id": 3103,
+  "numero": null,
+  "fecha": "2004-05-14",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Condena a los ciudadanos HENRY PRADA GÓMEZ y REYES RAFAEL CUMACHE a cumplir la pena de DOCE AÑOS DE PRESIDIO.",
+  "ponente": "JULIO ELÍAS MAYAUDÓN",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, decidió desestimar el recurso de casación interpuesto por el Ministerio Público y la defensa de los imputados, confirmando la decisión de la Sala Accidental que había sobreseído la causa por prescripción. Sin embargo, el TSJ anuló de oficio la decisión en lo que respecta a la culpabilidad de los acusados, estableciendo que los hechos configuraban el delito de homicidio intencional a título de dolo eventual, en lugar de producción de incendio en forma culposa. Se condenó a los imputados a cumplir una pena de doce años de presidio.",
+  "palabras_clave": [
+    "homicidio",
+    "dolo eventual",
+    "casación penal",
+    "prescripción"
+  ],
+  "titulo": "Sentencia de Casación Penal sobre homicidio intencional a título de dolo eventual",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-05-14_CasacionPenal_C020330.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.729806"
+}

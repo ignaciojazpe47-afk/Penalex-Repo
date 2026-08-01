@@ -1,0 +1,24 @@
+{
+  "id": 64705,
+  "numero": "823",
+  "fecha": "2015-06-19",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por el abogado Rubén Darío Vallenilla Jaramillo, en representación de Wucheng Feng, contra la sentencia del 5 de diciembre de 2014, que declaró sin lugar la apelación interpuesta por el solicitante. La Sala determinó que la sentencia cuestionada no violó los derechos al debido proceso y a la defensa, y que no existieron vicios de incongruencia ni falta de motivación en el fallo impugnado.\n\nLa Sala destacó que la revisión no puede ser entendida como una nueva instancia y que la solicitud de revisión no cumplía con los requisitos establecidos. Se concluyó que la sentencia del Tribunal Superior Primero había valorado adecuadamente las pruebas y había determinado la propiedad del inmueble objeto de la controversia, confirmando así la decisión de primera instancia.\n\nFinalmente, la Sala declaró que no ha lugar la solicitud de revisión y consideró inoficioso pronunciarse sobre la medida cautelar solicitada, dado el carácter accesorio de esta última.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "reivindicación",
+    "debido proceso",
+    "defensa"
+  ],
+  "titulo": "Revisión de sentencia en juicio de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-19_S823_E15-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178806-823-19615-2015-15-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.250330"
+}

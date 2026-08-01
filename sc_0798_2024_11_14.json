@@ -1,0 +1,26 @@
+{
+  "id": 27535,
+  "numero": "0798",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de noviembre de 2024, declaró no ha lugar la solicitud de revisión constitucional presentada por la abogada María T. Arrieta en representación de Argenis Alberto Bernal Molinares. La solicitud se refería a la sentencia número 003-23 de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había anulado una sentencia anterior y ordenado un nuevo juicio. La Sala Constitucional determinó que no se evidenció violación de derechos constitucionales ni se incurrió en interpretación contraria a criterios establecidos por la misma.",
+  "palabras_clave": [
+    "debido_proceso",
+    "apelacion",
+    "sentencia",
+    "derechos_humanos",
+    "justicia_penal",
+    "constitucion",
+    "codigo_organico_procesal_penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0798_E23-0542.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338972-0798-141124-2024-23-0542.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.024716"
+}

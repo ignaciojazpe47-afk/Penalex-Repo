@@ -1,0 +1,22 @@
+{
+  "id": 31704,
+  "numero": "1038",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala 8 de la Corte de Apelaciones declaró inadmisible la acción de amparo interpuesta por los abogados de Gilmer Enrique Rubio, argumentando que existían vías ordinarias para satisfacer sus pretensiones. La decisión se basó en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo si el agraviado ha optado por recurrir a las vías judiciales ordinarias. La Sala Constitucional, al revisar el caso, determinó que el recurso de apelación interpuesto fue extemporáneo, por lo que se declaró firme la sentencia de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1038_E23-0032.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327608-1038-1823-2023-23-0032.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.895596"
+}

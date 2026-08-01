@@ -1,0 +1,27 @@
+{
+  "id": 24260,
+  "numero": "0132",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara competente para conocer la acción de amparo interpuesta por Oswaldo Yuseb Escalante Uribe, actuando como apoderado de Jesús Alberto Pérez Oropeza. Sin embargo, se determina la inadmisibilidad de la acción debido a la falta de representación adecuada y la no presentación de documentos necesarios para su admisión. La decisión se basa en la falta de legitimidad del abogado para actuar en nombre del demandante y la omisión de presentar las sentencias impugnadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "representación judicial",
+    "carga procesal",
+    "debido proceso",
+    "tutela judicial",
+    "sentencias",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0132_E22-0886.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332641-0132-20224-2024-22-0886.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.556101"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 41009,
+  "numero": "0014",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional se pronuncia sobre la solicitud de revisión constitucional presentada por Luis Alfonso Bautista Contreras contra una sentencia del Juzgado Superior Estadal de lo Contencioso Administrativo que declaró inadmisible su acción de amparo. La Sala ordena la corrección del escrito libelar y establece un plazo para que el solicitante aclare su pretensión y explique la revisión de la decisión adversa. Se destaca la importancia de la notificación adecuada al solicitante para garantizar su derecho a la defensa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0014_E17-0419.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309524-0014-11220-2020-17-0419.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.147979"
+}

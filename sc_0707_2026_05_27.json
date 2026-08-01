@@ -1,0 +1,25 @@
+{
+  "id": 16432,
+  "numero": "0707",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara no ha lugar la solicitud de revisión interpuesta por las ciudadanas Rosina Russo Montiel y Carolina Russo Montiel, en relación a la sentencia dictada por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo del Estado Zulia, el 2 de julio de 2024. La Sala considera que no se configuraron violaciones al derecho a la defensa ni al debido proceso, ya que las partes intervinientes fueron debidamente citadas y no se acreditó la existencia de herederos desconocidos que requirieran citación por edictos. Además, se resalta que la admisión de la reconvención fue considerada como una oposición válida a la partición, y se insta a la jueza del caso a evitar errores procesales en el futuro.",
+  "palabras_clave": [
+    "sucesiones",
+    "herencia",
+    "procedimiento civil",
+    "reconvención",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0707_E25-0520.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355977-0707-27526-2026-25-0520.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.902017"
+}

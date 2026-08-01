@@ -1,0 +1,24 @@
+{
+  "id": 27419,
+  "numero": "0742",
+  "fecha": "2024-12-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del Juzgado Superior Undécimo que había declarado parcialmente con lugar la demanda de retracto legal arrendaticio presentada por Virginia Santos Guerrero. La Sala determinó que la sentencia impugnada violó el principio de irretroactividad de la ley al aplicar normas vigentes desde 2011 a hechos ocurridos entre 2005 y 2009, afectando así los derechos de defensa y tutela judicial efectiva de los demandados. En consecuencia, se anuló la sentencia del 6 de agosto de 2021 y su aclaratoria del 19 de agosto de 2021, declarando sin lugar la demanda de retracto legal arrendaticio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal arrendaticio",
+    "irretroactividad de la ley",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0742_E23-0733.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338850-0742-131124-2024-23-0733.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.814719"
+}

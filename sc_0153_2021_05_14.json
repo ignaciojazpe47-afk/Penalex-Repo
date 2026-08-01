@@ -1,0 +1,23 @@
+{
+  "id": 38663,
+  "numero": "0153",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre una acción de amparo interpuesta por un grupo de ciudadanos en defensa de sus derechos colectivos y difusos relacionados con el Mercado Libre de Chacao. La acción fue presentada debido a presuntas amenazas de desalojo y demolición del mercado, que los demandantes consideran una violación a su derecho a la cultura y al patrimonio cultural. La Sala, tras analizar los argumentos, declaró improcedente la acción de amparo, argumentando que no se cumplían los requisitos para la protección de derechos colectivos, ya que la disconformidad manifestada por los accionantes se refería a un interés personal y no colectivo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos colectivos",
+    "patrimonio cultural",
+    "Mercado Libre de Chacao"
+  ],
+  "titulo": "Sentencia sobre acción de amparo por derechos colectivos y difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0153_E19-0435.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312113-0153-14521-2021-19-0435.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.877012"
+}

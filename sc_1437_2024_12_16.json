@@ -1,0 +1,25 @@
+{
+  "id": 28686,
+  "numero": "1437",
+  "fecha": "2024-12-16",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por Oswaldo De Jesús Casneiro Itriago, debido a la falta de presentación de la copia certificada de la sentencia objeto de revisión. Se establece que la Sala es competente para conocer de la solicitud, pero el incumplimiento de requisitos legales lleva a la inadmisibilidad de la misma.",
+  "palabras_clave": [
+    "revisión",
+    "competencia",
+    "sentencias",
+    "constitucional",
+    "error",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-16_S1437_E24-1022.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340795-1437-161224-2024-24-1022.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.812844"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27121,
+  "numero": "0552",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 29 de enero de 2021 por el Juzgado Superior Segundo del Trabajo, que había declarado con lugar la apelación interpuesta por Carlos Andrés Campos Hidalgo y revocado la decisión anterior. La solicitud de revisión fue presentada por la abogada María Fernanda Palacios en representación de la empresa INDULAC, argumentando violaciones a derechos constitucionales y errores en la valoración de pruebas. Sin embargo, la Sala declaró no ha lugar la solicitud de revisión, considerando que no existían infracciones grotescas de interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "nulidad",
+    "providencia administrativa",
+    "trabajo",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de nulidad de providencia administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0552_E23-0858.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338505-0552-311024-2024-23-0858.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.311190"
+}

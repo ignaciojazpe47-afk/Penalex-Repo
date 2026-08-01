@@ -1,0 +1,26 @@
+{
+  "id": 30580,
+  "numero": "0626",
+  "fecha": "2022-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de mayo de 2022, admitió la solicitud de revisión constitucional presentada por los apoderados de los ciudadanos recurrentes, quienes impugnaron un fallo del Juzgado Superior Décimo en lo Civil, Mercantil, Tránsito y Bancario. Este fallo había declarado con lugar un recurso de apelación y sin lugar una demanda de cumplimiento de contrato de arrendamiento por vencimiento de prórroga legal, argumentando la tácita reconducción del contrato de arrendamiento.\nLa Sala determinó que el Juzgado Superior había vulnerado el debido proceso y la tutela judicial efectiva al no considerar que la relación arrendaticia se había establecido a tiempo determinado y que la notificación de no renovación del contrato era válida. Por lo tanto, se anuló el fallo impugnado y se ordenó que otro Juzgado Superior se pronuncie nuevamente sobre los recursos de apelación interpuestos.",
+  "palabras_clave": [
+    "arrendamiento",
+    "contrato",
+    "impugnación",
+    "cuantía",
+    "daños",
+    "derechos",
+    "inmueble"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0626_E22-0019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325714-0626-30523-2023-22-0019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.427798"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17685,
+  "numero": "0651",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rafael Antonio Amaya Rondón contra el Juzgado Nacional Primero Contencioso Administrativo de la Región Capital, debido a la falta de pronunciamiento en el plazo legalmente establecido. La Sala constató que la situación jurídica denunciada cesó tras la emisión de la sentencia correspondiente por el juzgado remitente, lo que llevó a la inadmisibilidad de la acción de amparo. Se ordena el archivo del expediente.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0651_E25-0836.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355906-0651-27526-2026-25-0836.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.903522"
+}

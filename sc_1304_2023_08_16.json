@@ -1,0 +1,24 @@
+{
+  "id": 34196,
+  "numero": "1304",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Luis Muñoz y Celimar Josefina Martínez Castro en representación de Alcides Amador Muñoz Martínez. La decisión se basa en la inepta acumulación de pretensiones, ya que las acciones atacadas corresponden a diferentes órganos jurisdiccionales, lo que impide su tramitación conjunta. Se hace referencia a la normativa aplicable que establece la inadmisibilidad de demandas que se excluyen mutuamente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "debido proceso",
+    "tutela judicial",
+    "denegación de justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1304_E20-0186.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328508-1304-16823-2023-20-0186.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.229442"
+}

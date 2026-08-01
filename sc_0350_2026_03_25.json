@@ -1,0 +1,26 @@
+{
+  "id": 17630,
+  "numero": "0350",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la acción de amparo constitucional interpuesta por Shak Tomas Barrios Polanco, quien denuncia la omisión de notificación personal de una decisión judicial que afecta su derecho a la defensa. La Sala determina su competencia y considera que la falta de notificación vulnera derechos constitucionales, por lo que declara con lugar la acción de amparo. Se ordena a la Corte de Apelaciones del Estado Zulia remitir un informe sobre la causa seguida al demandante y se establece un plazo para cumplir con esta orden.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_defensa",
+    "omision_judicial",
+    "recurso_de_casacion",
+    "tutela_judicial",
+    "constitucion",
+    "codigo_organico_procesal_penal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional por Omisión Judicial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0350_E25-0555.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354344-0350-25326-2026-25-0555.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.561685"
+}

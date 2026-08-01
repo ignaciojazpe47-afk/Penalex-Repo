@@ -1,0 +1,26 @@
+{
+  "id": 29440,
+  "numero": "0179",
+  "fecha": "2023-03-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de marzo de 2023, declaró no ha lugar la revisión constitucional solicitada por el abogado Ulbano Miguel García López en representación de los ciudadanos Carlos Romero Rincón, Luz del Mar Romero Quintero y Briggite Elaine Romero Quintero. La solicitud de revisión se refería a la sentencia número 129 de la Sala de Casación Penal, que había declarado procedente el avocamiento de la causa seguida contra varios ciudadanos por el delito de femicidio agravado, y que había ordenado la remisión del expediente a otro tribunal competente.\n\nLa Sala Constitucional consideró que los solicitantes no lograron demostrar que la decisión de la Sala de Casación Penal incurriera en violaciones a derechos fundamentales o en interpretaciones contrarias a criterios establecidos, y que la revisión no contribuiría a la uniformidad en la interpretación de normas constitucionales. Por lo tanto, se reafirmó la competencia de la Sala para conocer del caso y se desestimó la solicitud de revisión, manteniendo la decisión original de la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "tutela judicial",
+    "jurisdicción",
+    "derechos humanos",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia número 129",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-23_S0179_E19-0673.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323840-0179-23323-2023-19-0673.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.073036"
+}

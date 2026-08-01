@@ -1,0 +1,25 @@
+{
+  "id": 29413,
+  "numero": "0152",
+  "fecha": "2023-03-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de revocación y la acción de amparo constitucional interpuesta por el abogado Henry Joaquín Reverón Arvelo en representación de Deiker José González González. La decisión se basa en que la solicitud fue considerada oscura y ambigua, no cumpliendo con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "revocación",
+    "debido proceso",
+    "justicia",
+    "Corte de Apelaciones",
+    "desorden procesal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de un recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-21_S0152_E21-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323813-0152-21323-2023-21-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.325078"
+}

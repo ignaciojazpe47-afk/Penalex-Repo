@@ -1,0 +1,25 @@
+{
+  "id": 21428,
+  "numero": "1288",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una decisión en relación a la solicitud de revisión constitucional presentada por Angélica Alejandra Contreras y Wilmer Orlando Sánchez, en contra de una sentencia del Juzgado Superior Primero en lo Civil, que había declarado sin lugar un recurso de apelación. La Sala consideró que existían vicios en la decisión impugnada, lo que justificaba la revisión solicitada.",
+  "palabras_clave": [
+    "nulidad",
+    "contrato",
+    "due process",
+    "sentencia",
+    "mejoras",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1288_E24-0622.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346948-1288-6825-2025-24-0622.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.770316"
+}

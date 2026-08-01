@@ -1,0 +1,27 @@
+{
+  "id": 21113,
+  "numero": "1177",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 86, declara no ha lugar la solicitud de revisión constitucional presentada por el abogado Juan Ernesto Garantón Hernández en representación de José Gaspard Morell. La Sala considera que no se evidencian violaciones a derechos fundamentales ni a criterios jurisprudenciales establecidos, y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales. Se destaca la importancia del debido proceso y la necesidad de garantizar los derechos de las partes involucradas en el proceso penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos",
+    "garantías",
+    "proceso penal",
+    "sentencia",
+    "revisión",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1177_E25-0317.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346395-1177-23725-2025-25-0317.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.883856"
+}

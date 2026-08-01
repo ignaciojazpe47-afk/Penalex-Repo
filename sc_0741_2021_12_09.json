@@ -1,0 +1,22 @@
+{
+  "id": 40796,
+  "numero": "0741",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Francisco Bastos Teixeira, en contra de una decisión del Tribunal Superior Primero que había declarado con lugar un recurso de apelación en un caso de restitución internacional de una adolescente. La Sala consideró que la acción era improcedente, ya que no se evidenciaron violaciones al debido proceso ni a los derechos de defensa del recurrente. Se destacó la importancia de la opinión de la adolescente en el proceso, aunque no se consideró vinculante para la decisión judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de restitución internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0741_E21-0752.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315193-0741-91221-2021-21-0752.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.728333"
+}

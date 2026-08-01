@@ -1,0 +1,26 @@
+{
+  "id": 17061,
+  "numero": "0420",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por Rómulo José García Ruiz, en representación de Deivid Miguel Guerrero Moreno, Freddy Rafael Deroy Ramírez y Jackbe de los Ángeles Galban Azuaje, contra la sentencia de la Sala 3 de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia. La Corte de Apelaciones había anulado una sentencia anterior por vicios de inmotivación, afectando a todos los acusados, incluidos los absueltos, lo que generó la solicitud de aclaratoria por parte del abogado. Sin embargo, la Sala Constitucional determinó que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "nulidad",
+    "absolución",
+    "derechos",
+    "proceso penal",
+    "garantías",
+    "apelación",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0420_E23-0805.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354872-0420-9426-2026-23-0805.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.031042"
+}

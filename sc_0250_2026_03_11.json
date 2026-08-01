@@ -1,0 +1,25 @@
+{
+  "id": 17404,
+  "numero": "0250",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la solicitud de revisión constitucional presentada por ELIANNY ANDREINA JIMÉNEZ MEZA, quien alega violaciones a su derecho a la defensa en un juicio de divorcio. La parte peticionaria argumenta que no fue debidamente notificada ni representada en el proceso, lo que afectó sus derechos y los de sus hijos menores. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "divorcio",
+    "notificación",
+    "custodia",
+    "menores",
+    "derechos",
+    "proceso judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0250_E25-0563.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353555-0250-11326-2026-25-0563.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.578037"
+}

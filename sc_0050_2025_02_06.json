@@ -1,0 +1,25 @@
+{
+  "id": 18200,
+  "numero": "0050",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia No. 0218, confirma la decisión de la Sala Accidental de la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa, que declaró inadmisible la acción de amparo constitucional interpuesta por los fiscales Eugenio Molina Brizuela y Patricia Josefina Zarzalejo. La acción se fundamentó en la falta de designación de un juez en el Juzgado de Primera Instancia en Funciones de Juicio N° 1, extensión Acarigua, desde el 15 de abril de 2016, lo que generó un retardo procesal y afectó el derecho a la tutela judicial efectiva de los justiciables.",
+  "palabras_clave": [
+    "acción penal",
+    "tutela judicial",
+    "derechos constitucionales",
+    "Ministerio Público",
+    "retardo procesal",
+    "vacante judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0050_E17-0230.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341216-0050-6225-2025-17-0230.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.559238"
+}

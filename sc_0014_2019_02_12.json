@@ -1,0 +1,24 @@
+{
+  "id": 42117,
+  "numero": "0014",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por el abogado Luis Teneud Figuera en representación de Fernando Antonio Cuevas Jiménez. La inadmisibilidad se fundamenta en la falta de acreditación de la representación judicial, ya que el abogado no presentó el poder correspondiente que le otorgara legitimidad para actuar en nombre del solicitante. La Sala enfatiza la necesidad de presentar documentos fehacientes para garantizar la seguridad jurídica en estos procedimientos.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "representación",
+    "sentencias",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0014_E18-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303675-0014-12219-2019-18-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.619541"
+}

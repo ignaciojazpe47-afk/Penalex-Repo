@@ -1,0 +1,25 @@
+{
+  "id": 37726,
+  "numero": "1081",
+  "fecha": "2022-12-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine Litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional contra una sentencia de la Corte de Apelaciones del Estado Guárico que declaró 'SIN LUGAR' un recurso de apelación. La defensa alegó que la decisión del juez de ejecución de anular la libertad condicional del penado, Eulices Garay Pérez, fue arbitraria y vulneró sus derechos a la salud y a la vida, dado que el penado padece cáncer. Sin embargo, la Sala concluyó que el juez actuó dentro de sus competencias al anular la decisión por la falta de notificación al Ministerio Público, lo que vicia el proceso y afecta el debido proceso.",
+  "palabras_clave": [
+    "nulidad",
+    "libertad condicional",
+    "debido proceso",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "error judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-01_S1081_E19-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321275-1081-11222-2022-19-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.445930"
+}

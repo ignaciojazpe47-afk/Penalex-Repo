@@ -1,0 +1,24 @@
+{
+  "id": 35811,
+  "numero": "0455",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo interpuesta por Miguel Antonio Prieto Narváez contra las decisiones de la directiva de la organización política Alianza del Lápiz. Se determina que la acción no fue dirigida contra los órganos electorales competentes, lo que lleva a la conclusión de que la Sala no tiene jurisdicción sobre el caso. Además, se resalta la falta de impulso procesal por parte del demandante, lo que se considera un abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "abandonos de trámite",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0455_E20-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318396-0455-2822-2022-20-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.662692"
+}

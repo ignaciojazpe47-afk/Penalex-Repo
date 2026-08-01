@@ -1,0 +1,25 @@
+{
+  "id": 33154,
+  "numero": "1663",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por Julio Alejandro Pedroza Nieves, quien impugnaba la sentencia N° 109 de la Sala de Casación Social. Esta última había declarado inadmisible la solicitud de avocamiento relacionada con una demanda por enfermedad ocupacional contra la sociedad Cervecerías Polar, C.A. La Sala Constitucional fundamentó su decisión en la falta de cumplimiento de requisitos procesales y en la ausencia de documentos necesarios para evaluar la solicitud.",
+  "palabras_clave": [
+    "avocamiento",
+    "due_process",
+    "experticia",
+    "incongruencia",
+    "tutela_judicial",
+    "derechos_constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1663_E23-0030.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330830-1663-301123-2023-23-0030.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.964795"
+}

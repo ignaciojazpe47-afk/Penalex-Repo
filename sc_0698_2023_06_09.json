@@ -1,0 +1,25 @@
+{
+  "id": 30750,
+  "numero": "0698",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por Mario Alfonso Ruda Machado, debido a la inepta acumulación de pretensiones contra dos órganos jurisdiccionales distintos. Se argumenta que la acumulación de demandas contra diferentes agraviantes no es procedente, ya que cada uno debe ser tratado por el tribunal competente correspondiente a su jerarquía y materia.\n\nLa decisión se fundamenta en la falta de motivación y en la violación de derechos constitucionales denunciadas por el accionante, quien alegó que las decisiones de los tribunales inferiores no cumplían con los requisitos de fundamentación exigidos por la ley. Sin embargo, la Sala concluye que la acción de amparo no puede ser admitida por la acumulación de pretensiones que corresponden a diferentes instancias judiciales.\n\nFinalmente, se ordena la publicación, registro y archivo del expediente, reafirmando la importancia de la correcta administración de justicia y el respeto a los procedimientos establecidos en la ley.",
+  "palabras_clave": [
+    "inmotivación",
+    "debido proceso",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "estafa",
+    "prescripción"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0698_E20-0214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325969-0698-9623-2023-20-0214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.417999"
+}

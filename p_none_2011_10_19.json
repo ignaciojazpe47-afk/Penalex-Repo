@@ -1,0 +1,22 @@
+{
+  "id": 10080,
+  "numero": null,
+  "fecha": "2011-10-19",
+  "anio": 2011,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre el recurso de casación interpuesto por los abogados defensores de Lisandro José Véliz Rodríguez, quien había sido condenado a 10 años de prisión por el delito de violencia sexual. La sentencia de la Corte de Apelaciones que había declarado sin lugar el recurso de apelación fue anulada por la Sala, que consideró que la decisión no había sido debidamente motivada y que se habían ignorado los argumentos de la defensa. Se convocó a las partes a una audiencia pública para continuar con el proceso.",
+  "palabras_clave": [
+    "Violencia Sexual",
+    "Recurso de Casación",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre Recurso de Casación en caso de Violencia Sexual",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_715b7e2aba6d7ba481095c9916de99cb.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:48.424189"
+}

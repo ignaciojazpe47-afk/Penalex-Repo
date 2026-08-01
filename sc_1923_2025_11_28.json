@@ -1,0 +1,27 @@
+{
+  "id": 23408,
+  "numero": "1923",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Antonio García Polanco en representación de los ciudadanos Wilfredo Enrique Sucre Hernández y Julián Antonio Dass Wilfred. La acción se fundamentó en la inadmisibilidad del recurso de apelación interpuesto contra una sentencia de la Corte de Apelaciones, la cual fue declarada extemporánea por el tribunal inferior. La Sala concluye que la decisión de la Corte de Apelaciones fue ajustada a derecho, ya que el recurso fue presentado fuera del plazo legal establecido.",
+  "palabras_clave": [
+    "nulidades",
+    "actas policiales",
+    "libertad",
+    "derechos humanos",
+    "fiscalía",
+    "violencia",
+    "menores",
+    "apelar"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1923_E25-0659.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350809-1923-281125-2025-25-0659.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.794154"
+}

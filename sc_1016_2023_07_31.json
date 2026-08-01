@@ -1,0 +1,27 @@
+{
+  "id": 31658,
+  "numero": "1016",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional interpuesta por Sixto Oswaldo López González, quien impugnaba la decisión del Juzgado Superior Quinto que había declarado con lugar su acción de amparo. La Sala consideró que la decisión recurrida se apartó de la jurisprudencia establecida en materia de amparo constitucional, lo que llevó a la anulación de dicha decisión y a la confirmación de la inadmisibilidad de la acción de amparo. La sentencia reafirma la importancia de seguir los procedimientos ordinarios antes de recurrir a la vía constitucional.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "amparo_constitucional",
+    "normativa_constitucional",
+    "jurisprudencia",
+    "cosa_juzgada",
+    "sentencias",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1016_E18-0115.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327548-1016-31723-2023-18-0115.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.903260"
+}

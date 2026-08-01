@@ -1,0 +1,23 @@
+{
+  "id": 8181,
+  "numero": null,
+  "fecha": "2010-03-10",
+  "anio": 2010,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui declaró sin lugar el recurso de apelación interpuesto por la defensa de Melquíades Alexander Blanco Ochoa, quien había sido condenado a nueve años y un mes de prisión por homicidio calificado y simulación de hecho punible. La defensa alegó violaciones a la ley y falta de motivación en la sentencia, pero la Corte consideró que se habían cumplido los requisitos legales y que la decisión del tribunal de juicio estaba debidamente fundamentada.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "simulación de hecho punible",
+    "derecho penal"
+  ],
+  "titulo": "Decisión sobre recurso de casación en caso de homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2010_ManuelCoronado.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:50.850310"
+}

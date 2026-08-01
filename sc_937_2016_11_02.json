@@ -1,0 +1,24 @@
+{
+  "id": 60130,
+  "numero": "937",
+  "fecha": "2016-11-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Ha lugar la revisión constitucional interpuesta por la Universidad de Oriente y se anula la sentencia dictada el 18 de marzo de 2013.",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 18 de marzo de 2013, que había declarado con lugar el recurso de apelación interpuesto por Edgar Daniel Camacho Marval. La Universidad de Oriente solicitó la revisión alegando violaciones al debido proceso y al derecho a la defensa, argumentando que no fue notificada adecuadamente de la apelación. La Sala encontró que efectivamente se vulneraron los derechos de la universidad al no notificarla, lo que llevó a la anulación de la sentencia y a ordenar que se dicte una nueva decisión en la causa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho al debido proceso",
+    "notificación",
+    "Universidad de Oriente",
+    "Edgar Camacho"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-02_S937_E16-0325.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/191756-937-21116-2016-16-0325.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.954209"
+}

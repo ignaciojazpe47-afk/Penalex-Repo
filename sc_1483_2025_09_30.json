@@ -1,0 +1,25 @@
+{
+  "id": 21945,
+  "numero": "1483",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por L.F. CAMIONES, C.A. contra la sentencia N° 1215 de la Sala Político Administrativa, que había declarado parcialmente con lugar un recurso de apelación. La controversia se centró en la base imponible para el cálculo del impuesto sobre actividades económicas, donde la Sala Político Administrativa había determinado que debía considerarse la totalidad de los ingresos brutos percibidos por la contribuyente, en lugar del margen de comercialización. La Sala Constitucional, tras analizar los argumentos, concluyó que la sentencia impugnada no incurrió en violaciones de derechos constitucionales y declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "impuesto",
+    "concesionario",
+    "jurisprudencia",
+    "competencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 1215 dictada por la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1483_E14-0685.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348098-1483-30925-2025-14-0685.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.203618"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 42857,
+  "numero": "0112",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento, por abandono del trámite",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo interpuesta por José Gregorio Ocanto Carrasco. Se argumenta que la parte accionante no ha realizado actuación procesal válida alguna desde la interposición de la acción, lo que indica falta de interés en obtener la tutela constitucional demandada. Además, se impone una multa de cinco mil bolívares a la parte accionante por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "omisión judicial",
+    "tutela judicial",
+    "abandonos de trámite",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0112_E18-0530.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305030-0112-21519-2019-18-0530.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.858245"
+}

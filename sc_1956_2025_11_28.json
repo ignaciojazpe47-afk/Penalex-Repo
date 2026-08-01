@@ -1,0 +1,27 @@
+{
+  "id": 23441,
+  "numero": "1956",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Pascualino José Mazzariello Álvarez contra dos sentencias. La primera, dictada por el Juzgado Superior Segundo Civil, Mercantil y del Tránsito del Estado Lara, y la segunda por la Sala de Casación Civil del TSJ. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la decisión impugnada, lo que impide verificar la admisibilidad de la demanda.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "tribunal supremo",
+    "justicia",
+    "derechos",
+    "garantías",
+    "decisiones",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1956_E25-0783.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350842-1956-281125-2025-25-0783.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.799307"
+}

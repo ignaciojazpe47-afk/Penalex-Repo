@@ -1,0 +1,23 @@
+{
+  "id": 67401,
+  "numero": "1428",
+  "fecha": "2015-06-01",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró inadmisible la acción de amparo constitucional interpuesta por Cruz Nicomedes Lyon Yáñez, en contra de la decisión del Tribunal de Primera Instancia que decretó el sobreseimiento de la causa. La Sala argumentó que existían vías ordinarias para impugnar la decisión, lo que hacía improcedente el amparo. Sin embargo, se revisó de oficio la sentencia dictada el 14 de mayo de 2014, anulando el sobreseimiento y ordenando la reposición de la causa a la fase de investigación, debido a la falta de diligencias adecuadas por parte del Ministerio Público y la vulneración de derechos constitucionales de la víctima.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sobreseimiento",
+    "derechos constitucionales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1428_E15-0368.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182899-1428-131115-2015-15-0368.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:33.783661"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 21260,
+  "numero": "1257",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados de JOSÉ BENITO FERNÁNDEZ CASTILLO, declarándose incompetente para conocer del asunto. La solicitud se fundamentó en presuntas violaciones al ordenamiento jurídico en el proceso penal seguido contra el ciudadano. La Sala decidió declinar el conocimiento de la solicitud a la Sala de Casación Penal, ordenando el remitir las actuaciones pertinentes para su pronunciamiento.",
+  "palabras_clave": [
+    "delitos",
+    "resistencia",
+    "asociación",
+    "derecho penal",
+    "garantías",
+    "justicia",
+    "libertad",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1257_E21-0332.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346571-1257-28725-2025-21-0332.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.777893"
+}

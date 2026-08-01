@@ -1,0 +1,25 @@
+{
+  "id": 19800,
+  "numero": "0690",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Gisela Irene Aranda Hermida en representación de varios ciudadanos contra una sentencia de la Corte de Apelaciones del Estado Lara que declaró sin lugar un recurso de apelación. La Sala se declaró competente para conocer la acción de amparo, argumentando que la decisión impugnada afectaba derechos constitucionales y no permitía el ejercicio del recurso de casación. Finalmente, la Sala decidió ordenar la remisión del expediente original para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "corte de apelaciones",
+    "denuncia",
+    "desestimación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0690_E23-1193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343765-0690-14525-2025-23-1193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.715260"
+}

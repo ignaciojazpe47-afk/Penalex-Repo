@@ -1,0 +1,26 @@
+{
+  "id": 26933,
+  "numero": "0457",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia número 74 dictada por la Sala de Casación Social, que había declarado sin lugar un recurso de casación. La solicitud fue presentada por los abogados de la sociedad mercantil MSD FARMACÉUTICA, quienes alegaron violaciones al derecho a la defensa y a la tutela judicial efectiva. Sin embargo, la Sala declaró inadmisible la solicitud debido a la falta de legitimidad de los abogados para actuar en el presente asunto, ya que no presentaron el poder correspondiente en copia certificada.",
+  "palabras_clave": [
+    "carga procesal",
+    "poder",
+    "representación",
+    "inadmisibilidad",
+    "revisión constitucional",
+    "justicia",
+    "normas"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0457_E23-0123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338243-0457-251024-2024-23-0123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.484579"
+}

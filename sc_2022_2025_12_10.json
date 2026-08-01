@@ -1,0 +1,23 @@
+{
+  "id": 23802,
+  "numero": "2022",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE la solicitud de revisión constitucional, conforme a lo previsto en el numeral 4 del artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia, por haber operado la cosa juzgada en el presente asunto.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la Universidad Centroccidental Lisandro Alvarado, argumentando que existe cosa juzgada respecto a las sentencias previamente emitidas. La decisión se basa en que no se evidencian infracciones graves a principios constitucionales ni errores en la interpretación de normas. Se exhorta a las autoridades universitarias a cumplir con lo ordenado en sentencias anteriores.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "universidad",
+    "derechos políticos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la UCLA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2022_E11-1134.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351835-2022-101225-2025-11-1134.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.782501"
+}

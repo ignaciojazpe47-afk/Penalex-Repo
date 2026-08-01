@@ -1,0 +1,26 @@
+{
+  "id": 17567,
+  "numero": "0077",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Edward Alexander Barón Medina contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible su acción de amparo constitucional. La apelación se fundamentó en la alegación de vulneración de derechos constitucionales y la existencia de un mandato de ejecución forzosa dictado por el tribunal inferior. La Sala determinó que el recurso de apelación era inadmisible, ya que el agraviado no agotó las vías judiciales ordinarias antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "debido_proceso",
+    "tutela_judicial",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0077_E25-0428.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352762-0077-19226-2026-25-0428.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.393991"
+}

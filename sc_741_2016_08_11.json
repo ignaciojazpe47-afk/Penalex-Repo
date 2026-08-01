@@ -1,0 +1,24 @@
+{
+  "id": 59179,
+  "numero": "741",
+  "fecha": "2016-08-11",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "ADMITE la demanda de nulidad por inconstitucionalidad ejercida.",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad por inconstitucionalidad interpuesta por Pablo Aure Sánchez contra el Anexo A y las Tablas que establecen los valores fiscales de la Ordenanza de Reforma de la Ordenanza de Impuestos sobre Inmuebles Urbanos del Municipio Valencia. La Sala declaró su competencia y admitió la demanda, argumentando que la modificación de los valores fiscales carece de razonabilidad y afecta la capacidad contributiva de los ciudadanos.\n\nSe solicitó una medida cautelar para suspender los efectos de la norma impugnada, la cual fue acordada por la Sala, considerando que el cobro del impuesto podría causar lesiones graves a los contribuyentes. La decisión establece que se ordena citar a las autoridades correspondientes y notificar a las partes involucradas, además de remitir el expediente al Juzgado de Sustanciación para continuar con el procedimiento.\n\nLa Sala fundamentó su decisión en la necesidad de proteger los derechos de los ciudadanos frente a un aumento desproporcionado en los impuestos, que podría transgredir principios constitucionales como la capacidad contributiva y la no confiscatoriedad del tributo.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "impuestos",
+    "ordenanza municipal",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanza municipal de impuestos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-11_S741_E16-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/190190-741-11816-2016-16-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:00.019615"
+}

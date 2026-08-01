@@ -1,0 +1,25 @@
+{
+  "id": 45939,
+  "numero": "0217",
+  "fecha": "2018-03-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia n.° RC-000937 dictada por la Sala de Casación Civil. La sentencia recurrida había declarado con lugar un recurso de casación y extinguido un proceso de divorcio por abandono voluntario. La Sala Constitucional determinó su competencia para conocer la solicitud y ordenó la consignación de documentos necesarios para la resolución del caso.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "divorcio",
+    "incomparecencia",
+    "sentencia",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-13_S0217_E17-0661.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208652-0217-13318-2018-17-0661.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.677147"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20152,
+  "numero": "0861",
+  "fecha": "2025-01-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del TSJ recibió una acción de amparo constitucional presentada por el abogado José Gregorio Sánchez García en representación de Keidy Carolina Ale Armario y Jesús Aníbal García, en contra de la omisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, respecto a la notificación de una sentencia. La acción se fundamentó en la violación del derecho al debido proceso y a la tutela judicial efectiva, alegando que no se notificó adecuadamente a las partes sobre decisiones que les afectaban.",
+  "palabras_clave": [
+    "amparo",
+    "omisiones judiciales",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "derecho de petición",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0861_E25-0048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344431-0861-3625-2025-25-0048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.807828"
+}

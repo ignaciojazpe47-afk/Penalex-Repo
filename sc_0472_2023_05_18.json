@@ -1,0 +1,25 @@
+{
+  "id": 30253,
+  "numero": "0472",
+  "fecha": "2023-05-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO ACEPTA conocer de la acción de amparo constitucional interpuesta",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia relacionado con una acción de amparo constitucional interpuesta por José Cristóbal Álvarez contra la Policía del estado Guárico. El Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito se declaró incompetente, remitiendo el caso al Juzgado Superior Contencioso Administrativo, que también se declaró incompetente y solicitó la regulación de competencia a la Sala Constitucional.\nLa Sala Constitucional determinó que el tribunal competente para conocer la demanda por intereses difusos y colectivos es el Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del estado Guárico, Valle de la Pascua. Se ordenó la remisión del expediente a dicho juzgado para su distribución y conocimiento en primera instancia.\nFinalmente, la Sala reafirmó su competencia para dirimir el conflicto de competencia planteado entre los tribunales involucrados, estableciendo que los hechos no poseen trascendencia nacional, lo que limita la competencia de la Sala Constitucional.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos colectivos",
+    "salud",
+    "libre tránsito",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0472_E22-0852.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325093-0472-15523-2023-22-0852.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.848374"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19636,
+  "numero": "0619",
+  "fecha": "2025-05-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Servicios Halliburton de Venezuela, S.A. contra la decisión del Juzgado Superior Tercero del Circuito Judicial del Trabajo, que declaró inadmisible un recurso de hecho. La Sala argumenta que la decisión impugnada no vulneró derechos constitucionales y que el juzgado actuó dentro de su competencia al declarar inadmisible el recurso por falta de consignación de copias certificadas necesarias para su sustanciación.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "inadmision",
+    "copia certificada",
+    "proceso judicial",
+    "tribunal superior",
+    "derechos procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Servicios Halliburton de Venezuela, S.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-06_S0619_E25-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343555-0619-6525-2025-25-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.736738"
+}

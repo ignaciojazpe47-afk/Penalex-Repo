@@ -1,0 +1,25 @@
+{
+  "id": 18157,
+  "numero": "0011",
+  "fecha": "2022-07-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0322 el 13 de julio de 2022, declarando su competencia para conocer del recurso de apelación interpuesto contra un fallo de la Corte de Apelaciones del Estado Carabobo. Se ordenó al Tribunal Segundo de Primera Instancia en Funciones de Control que informara sobre la notificación a la víctima de un Archivo Fiscal. Ante el incumplimiento de esta orden, se impuso una sanción al juez Antonio María García Araujo por desacato, equivalente a doscientas veces el tipo de cambio oficial de la moneda de mayor valor, que deberá ser pagada a la Tesorería Nacional.",
+  "palabras_clave": [
+    "desacato",
+    "sanciones",
+    "tribunal",
+    "justicia",
+    "proceso",
+    "mujer"
+  ],
+  "titulo": "Sentencia sobre apelación y sanción a juez por desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0011_E20-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341157-0011-4225-2025-20-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.232621"
+}

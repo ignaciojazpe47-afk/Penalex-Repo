@@ -1,0 +1,26 @@
+{
+  "id": 30790,
+  "numero": "0738",
+  "fecha": "2023-06-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por María Lastenia Palacios contra la negativa del Tribunal Primero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Lara. La decisión se basa en que existía un recurso ordinario que debía ser agotado antes de interponer el amparo, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\nLa sentencia resalta que el amparo constitucional es un recurso extraordinario y no debe ser utilizado como sustituto de los medios ordinarios. Se enfatiza que la acción de amparo solo procede cuando no existen vías judiciales ordinarias para restablecer la situación jurídica infringida.\nFinalmente, se confirma la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo, quedando firme la resolución del caso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "jurisprudencia",
+    "procedimiento",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0738_E22-1029.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326009-0738-9623-2023-22-1029.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.397993"
+}

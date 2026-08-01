@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "numero": null,
+  "fecha": "2002-03-15",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por el abogado Antonio Mantilla Litle en representación de Carlos Rafael Martínez Rivero, contra una sentencia del Juzgado Superior que confirmó la inadmisibilidad de su acción de amparo constitucional. La Sala acordó la acumulación de otro expediente relacionado y decidió no hacer lugar a la solicitud de revisión, considerando que la sentencia impugnada no presentaba errores constitucionales evidentes.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre solicitud de revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_5e5e8b4eb3f2fb348372523bfa8015ee_UrdanetaPor.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.440818"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28891,
+  "numero": "0011",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional, tras recibir una acción de amparo constitucional presentada por la sociedad mercantil 'LA VALENCIANA CENTER C.A.', declara inadmisible la solicitud debido a la falta de claridad y precisión en los alegatos presentados. Se observa que el escrito no cumple con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que impide determinar los actos que se consideran lesivos a los derechos constitucionales del demandante. Se ordena al abogado que subsane las deficiencias en un plazo de tres días.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "notificación",
+    "inadmisibilidad",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0011_E22-0973.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322808-0011-22223-2023-22-0973.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.299131"
+}

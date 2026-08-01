@@ -1,0 +1,23 @@
+{
+  "id": 16885,
+  "numero": "0380",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional recibió una acción de amparo constitucional interpuesta por el abogado Fermín Santana Veitía Marín en representación de Pedro Martín Álvarez Seminario, alegando violaciones al orden público constitucional y derechos fundamentales. Se cuestionan decisiones previas de la Corte de Apelaciones y del Juzgado Primero de Control, solicitando la nulidad de dichas actuaciones por considerarlas ilegítimas y vulneratorias de derechos. La Sala, tras analizar el caso, decide admitir la acción y ordena la corrección del escrito presentado por el demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "derechos fundamentales",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0380_E25-1461.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354396-0380-25326-2026-25-1461.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.037090"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 36220,
+  "numero": "0589",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 416 el 2 de agosto de 2022, en la que se establece un procedimiento vinculante para la ejecución de mandamientos de amparo constitucional. Esta decisión se basa en la consulta previa establecida en la sentencia N° 145 del 18 de junio de 2019, la cual fue abandonada. Se ordena a los tribunales que tramiten la ejecución de mandamientos de amparo seguir los procedimientos establecidos en sentencias anteriores.",
+  "palabras_clave": [
+    "amparo",
+    "desacato",
+    "contencioso administrativo",
+    "ejecución",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre ejecución de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0589_E21-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319246-0589-12822-2022-21-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.755233"
+}

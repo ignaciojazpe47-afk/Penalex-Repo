@@ -1,0 +1,26 @@
+{
+  "id": 31062,
+  "numero": "0845",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Lizeth Pastora Acosta Guanipa en representación de los ciudadanos Héctor García y Alí Arias. La inadmisibilidad se fundamenta en la falta de consignación de documentos indispensables para validar las denuncias formuladas, así como la ausencia del poder que acredita la representación de la abogada. La Sala reafirma la necesidad de cumplir con los requisitos procesales establecidos en la Ley Orgánica del Tribunal Supremo de Justicia para la admisión de este tipo de acciones.",
+  "palabras_clave": [
+    "recurso de amparo",
+    "tutela judicial",
+    "inadmisibilidad",
+    "carga procesal",
+    "derechos constitucionales",
+    "sentencia",
+    "documentación"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0845_E23-0224.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326501-0845-26623-2023-23-0224.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.540345"
+}

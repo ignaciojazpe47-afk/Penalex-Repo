@@ -1,0 +1,25 @@
+{
+  "id": 30737,
+  "numero": "0685",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió el recurso de apelación interpuesto por Fabián Manuel Cazorla Rodríguez, quien había solicitado amparo constitucional contra la omisión de pronunciamiento del Tribunal Primero de Primera Instancia en Funciones de Control. La Corte de Apelaciones había declarado inadmisible la acción de amparo, lo que fue confirmado por la Sala Constitucional, argumentando que no existió violación de derechos constitucionales en el procedimiento seguido por el tribunal inferior.\n\nLa Sala determinó que el recurso de apelación fue interpuesto de manera tempestiva y que el recurrente tenía legitimación para actuar en defensa de sus derechos. Sin embargo, se concluyó que la acción de amparo no procedía, ya que el tribunal de origen había dado respuesta a la solicitud de nulidad de la imputación, lo que cesó la lesión constitucional alegada por el apelante.\n\nFinalmente, se confirmó la sentencia de la Corte de Apelaciones, declarando sin lugar el recurso de apelación y ratificando la inadmisibilidad de la acción de amparo constitucional interpuesta por el ciudadano Cazorla Rodríguez.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "legitimación",
+    "derechos",
+    "debido proceso",
+    "tutela judicial"
+  ],
+  "titulo": "Decisión sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0685_E21-0676.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325956-0685-9623-2023-21-0676.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.421693"
+}

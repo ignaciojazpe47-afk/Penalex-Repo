@@ -1,0 +1,22 @@
+{
+  "id": 22268,
+  "numero": "1608",
+  "fecha": "2023-11-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1558, declarando su competencia para conocer del recurso de amparo constitucional interpuesto por Francisco Labrador en representación de Omar Hernández. La acción se fundamentó en la negativa del Juez Dr. Edwar Piñango de permitir el acceso a las actas del expediente, lo que se consideró una violación a los derechos y garantías constitucionales del demandante. La Sala decidió declarar con lugar la acción de amparo, ordenando restablecer los derechos infringidos y garantizar el acceso a la justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1608_E21-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348725-1608-151025-2025-21-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.421209"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8004,
+  "numero": null,
+  "fecha": "2008-03-12",
+  "anio": 2008,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Eladio Ramón Aponte Aponte",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre dos tribunales en relación con un caso de estafa. El tribunal de Monagas declinó la competencia argumentando que el hecho ocurrió en Anzoátegui, mientras que el tribunal de Anzoátegui se declaró incompetente por considerar que el cheque fue emitido en Maturín, Monagas. La Sala determinó que la competencia corresponde al tribunal de Monagas, donde se presentó el cheque para su cobro y no se pudo hacer efectivo.",
+  "palabras_clave": [
+    "competencia",
+    "estafa",
+    "cheque"
+  ],
+  "titulo": "Declaración de competencia en caso de estafa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2008_RamonAponte_10.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:55.778622"
+}

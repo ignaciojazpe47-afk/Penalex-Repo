@@ -1,0 +1,27 @@
+{
+  "id": 44598,
+  "numero": "0405",
+  "fecha": "2019-11-28",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Sala de Casación Social que declaró sin lugar el recurso de casación interpuesto por IBM de Venezuela, S.A. La revisión se solicitó debido a la alegación de falta de cualidad en la litis. La Sala Constitucional determinó que la omisión de pronunciamiento sobre la falta de cualidad no era determinante en el dispositivo del fallo, ya que se evidenció que los actores prestaron servicios a CANTV bajo contrato con IBM.",
+  "palabras_clave": [
+    "incongruencia",
+    "convención colectiva",
+    "diferencias salariales",
+    "trabajo",
+    "justicia laboral",
+    "CANTV",
+    "IBM",
+    "recursos"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-28_S0405_E18-0195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308331-0405-281119-2019-18-0195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.362125"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 35045,
+  "numero": "0156",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Adrián Octavio Oronoz Silva contra Yemney Dalescka Lozada Morales, alegando un desalojo arbitrario y forzoso de su apartamento. La Sala, tras analizar la competencia, determinó que no era competente para conocer la acción, ya que esta debía ser atendida por los Tribunales de Primera Instancia en lo Civil de la Circunscripción Judicial del Área Metropolitana de Caracas, dado que la parte demandada no era un alto funcionario del Estado.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "constitucionales",
+    "desalojo",
+    "tribunales",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por desalojo arbitrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0156_E22-0013.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317344-0156-14622-2022-22-0013.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.644780"
+}

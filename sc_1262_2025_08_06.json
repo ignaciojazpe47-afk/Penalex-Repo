@@ -1,0 +1,26 @@
+{
+  "id": 21392,
+  "numero": "1262",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Iván Adreani Costa contra la decisión N° 1168, dictada el 3 de noviembre de 2016, por la Sala Político Administrativa. La inadmisibilidad se fundamenta en la falta de acreditación de la representación judicial del solicitante, quien no presentó el documento que respalde su condición de apoderado judicial.",
+  "palabras_clave": [
+    "revisión",
+    "legitimidad",
+    "representación",
+    "procedimiento",
+    "constitucional",
+    "admisibilidad",
+    "poder judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1262_E20-0372.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346895-1262-6825-2025-20-0372.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.764968"
+}

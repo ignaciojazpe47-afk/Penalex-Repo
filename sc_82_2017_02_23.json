@@ -1,0 +1,24 @@
+{
+  "id": 50346,
+  "numero": "82",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 16 de noviembre de 2015 por el Juzgado Superior Octavo, que había confirmado la nulidad de una asamblea de copropietarios del Edificio 'Mansión Chivacoa'. El solicitante argumentó que la Junta de Condominio carecía de cualidad pasiva para ser demandada, lo que debió ser considerado de oficio por el juez. La Sala concluyó que la falta de pronunciamiento sobre la cualidad de la parte demandada vulneró los derechos de defensa y a la tutela judicial efectiva del solicitante.",
+  "palabras_clave": [
+    "revisión",
+    "nulidad",
+    "asamblea",
+    "condominio",
+    "cualidad pasiva"
+  ],
+  "titulo": "Sentencia sobre revisión de nulidad de asamblea de condominio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S82_E16-0691.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196402-82-23217-2017-16-0691.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.251644"
+}

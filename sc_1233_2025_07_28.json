@@ -1,0 +1,25 @@
+{
+  "id": 21219,
+  "numero": "1233",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Ramón Esteban Lazar Arias en relación a la decisión del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La apelación fue presentada tras la decisión del juzgado de no admitir la acción por considerar que no cumplía con los requisitos legales establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "cautelar",
+    "desalojo",
+    "tribunal",
+    "justicia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1233_E24-0758.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346530-1233-28725-2025-24-0758.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.780440"
+}

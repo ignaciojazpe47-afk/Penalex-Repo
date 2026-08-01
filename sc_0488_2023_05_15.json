@@ -1,0 +1,23 @@
+{
+  "id": 30269,
+  "numero": "0488",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por la Asociación Civil de Medianos y Pequeños Productores Agropecuarios de la Frontera (ASOPAFRON) contra la sentencia Nro. 008-2021, que declaró inadmisible su acción de amparo constitucional. La apelación fue presentada fuera del lapso legal establecido, lo que llevó a la Sala a declarar inadmisible el recurso por extemporáneo. La Sala aceptó la declinatoria de competencia realizada por la Sala Político-Administrativa para conocer el caso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisible",
+    "ASOPAFRON",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0488_E23-0297.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325109-0488-15523-2023-23-0297.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.030845"
+}

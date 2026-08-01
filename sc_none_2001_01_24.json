@@ -1,0 +1,27 @@
+{
+  "id": 2231,
+  "numero": null,
+  "fecha": "2001-01-24",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 24 de enero de 2001, declaró improcedente la acción de amparo constitucional interpuesta por los ciudadanos Dunant Camejo y María Cielo de Camejo contra la sentencia de la Corte Primera de lo Contencioso Administrativo. Los actores alegaron violaciones a sus derechos constitucionales en el contexto de un desalojo relacionado con un contrato de arrendamiento. La Sala determinó que la Corte Primera actuó dentro de su competencia y que la acción de amparo no era el medio adecuado para cuestionar la decisión de la Corte, ya que no se trataba de una incompetencia por materia, sino de un ejercicio de la vía ordinaria que debía ser respetado.",
+  "palabras_clave": [
+    "Amparo",
+    "Derechos Constitucionales",
+    "Desalojo",
+    "Competencia",
+    "Corte Administrativa",
+    "Inquilinato",
+    "Sentencia",
+    "Vivienda"
+  ],
+  "titulo": "Improcedencia de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-01-24_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.720328"
+}

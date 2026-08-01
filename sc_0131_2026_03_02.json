@@ -1,0 +1,25 @@
+{
+  "id": 16185,
+  "numero": "0131",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Quinto que declaró improcedente un recurso de apelación y con lugar otro interpuesto por la parte demandada. Los solicitantes argumentaron violaciones al derecho a la defensa y al debido proceso, alegando que la sentencia no fue notificada a las partes. Sin embargo, la Sala determinó que no hubo transgresión a los derechos constitucionales y que la decisión del juzgado se ajustó a derecho, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "defensor ad litem",
+    "prescripción adquisitiva",
+    "derecho a la defensa",
+    "cosa juzgada",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0131_E25-0898.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353120-0131-2326-2026-25-0898.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.598311"
+}

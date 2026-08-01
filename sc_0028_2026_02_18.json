@@ -1,0 +1,25 @@
+{
+  "id": 17545,
+  "numero": "0028",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por Luis Augusto Cordero Benaventa y Génesis Daniela Cordero Fajardo, en representación de Pedro Antonio Cordero Benaventa. La acción fue declarada inadmisible por no cumplir con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente por no haber agotado las vías ordinarias de impugnación. La Sala confirmó la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo, argumentando que los accionantes no demostraron la cualidad necesaria para actuar en amparo y que existían recursos ordinarios disponibles para impugnar la decisión judicial cuestionada.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "legitimación",
+    "jurisprudencia",
+    "derechos",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0028_E25-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352700-0028-18226-2026-25-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.057050"
+}

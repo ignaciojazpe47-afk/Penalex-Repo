@@ -1,0 +1,24 @@
+{
+  "id": 18646,
+  "numero": "0212",
+  "fecha": "2020-02-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0024, declarando con lugar la solicitud de revisión constitucional presentada por la abogada Richard Sierra en representación de Andrea Fernanda Pedrouzo Sánchez. Se anuló la decisión del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Agrario del Estado Bolívar, que había declarado con lugar la demanda de impugnación de paternidad interpuesta por Manuel José García Martínez. La causa fue reabierta para nueva admisión de la demanda de impugnación de paternidad.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desacato",
+    "paternidad",
+    "herencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de impugnación de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0212_E21-0029.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342024-0212-26225-2025-21-0029.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.148938"
+}

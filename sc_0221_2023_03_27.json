@@ -1,0 +1,25 @@
+{
+  "id": 29482,
+  "numero": "0221",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Víctor Espinoza Nassar contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Nueva Esparta. La inadmisibilidad se fundamenta en la falta de presentación de la copia certificada de la decisión cuestionada, requisito indispensable para la procedencia de la acción de amparo. La Sala reitera que la omisión de este requisito puede llevar a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "competencia",
+    "jurisprudencia",
+    "derechos",
+    "audiencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0221_E22-0357.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323883-0221-27323-2023-22-0357.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.062516"
+}

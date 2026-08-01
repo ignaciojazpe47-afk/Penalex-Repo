@@ -1,0 +1,25 @@
+{
+  "id": 31210,
+  "numero": "0914",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de habeas data interpuesta por el abogado Amado Jesús Vivas González en representación de Marco Aurelio Antoima Magallanes. Se establece que el tribunal competente para conocer de la causa es uno de los Juzgados de Municipio del Área Metropolitana de Caracas. La decisión se fundamenta en la falta de creación de los tribunales correspondientes y en la normativa que regula el habeas data en el país.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "tribunales",
+    "justicia",
+    "derecho administrativo",
+    "Código de Ética"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0914_E21-0823.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326822-0914-12723-2023-21-0823.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.214880"
+}

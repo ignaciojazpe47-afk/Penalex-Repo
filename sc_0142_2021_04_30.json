@@ -1,0 +1,22 @@
+{
+  "id": 38587,
+  "numero": "0142",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar la apelación interpuesta por el abogado César Alberto Quiroz Sepúlveda, actuando en representación de María Josefina Márquez de Zambrano y Arcenio Zambrano Molina, contra la decisión del Juzgado Superior Cuarto Agrario que había declarado inadmisible la acción de amparo. La Sala revocó el fallo apelado y ordenó al Juzgado Superior pronunciarse sobre la admisibilidad de la acción de amparo, excluyendo la causal de inadmisibilidad analizada.\n\nLa acción de amparo se fundamentó en la violación de derechos constitucionales debido a la inadmisión de pruebas en un juicio de cumplimiento de contrato. La Sala consideró que la acción de amparo era procedente, ya que no se había cesado la violación de los derechos constitucionales y se habían agotado los recursos ordinarios.\n\nFinalmente, la Sala destacó la importancia de garantizar el derecho a la tutela judicial efectiva y la necesidad de que el Juzgado Superior se pronuncie sobre la admisibilidad de la acción de amparo, asegurando así el respeto a los derechos de los justiciables.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la admisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0142_E18-0062.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312006-0142-30421-2021-18-0062.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.885205"
+}

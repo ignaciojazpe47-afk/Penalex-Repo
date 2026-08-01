@@ -1,0 +1,26 @@
+{
+  "id": 20646,
+  "numero": "1045",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HOMOLOGA EL DESISTIMIENTO",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara competente para conocer la solicitud de revisión constitucional de las sentencias de la Sala de Casación Social. Se homologó el desistimiento presentado por el abogado del solicitante, Gustavo Adolfo Mirabal Castro, respecto a la revisión de sentencias que declararon la admisibilidad de su caso y la procedencia de la solicitud de avocamiento.",
+  "palabras_clave": [
+    "desistimiento",
+    "revisión constitucional",
+    "divorcio",
+    "procedimiento civil",
+    "autocomposición",
+    "derechos",
+    "tribunal supremo"
+  ],
+  "titulo": "Homologación del desistimiento de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1045_E24-1242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345316-1045-30625-2025-24-1242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.511234"
+}

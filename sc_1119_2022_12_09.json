@@ -1,0 +1,22 @@
+{
+  "id": 37835,
+  "numero": "1119",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional se pronunció sobre la acción de amparo interpuesta por Luis Arnaldo Alcántara, padre de un desaparecido, contra una decisión de la Corte de Apelaciones del Estado Anzoátegui. La Corte había decretado la nulidad de una medida de coerción personal en un proceso penal. La Sala consideró que la decisión de la Corte de Apelaciones violaba principios fundamentales de justicia y derechos humanos, lo que justificó la procedencia del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1119_E19-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321703-1119-91222-2022-19-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.427940"
+}

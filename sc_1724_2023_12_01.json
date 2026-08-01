@@ -1,0 +1,25 @@
+{
+  "id": 33221,
+  "numero": "1724",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 143, declaró sin lugar el recurso de apelación interpuesto por la abogada Mabel Cermeño en representación de Mari Cruz Iraci de Correia, contra la decisión del Tribunal Superior Cuarto que había declarado inadmisible la acción de amparo. La Sala consideró que existían vías ordinarias para resolver la situación jurídica planteada, lo que llevó a la inadmisibilidad de la acción de amparo. Además, se anuló de oficio la sentencia del 6 de noviembre de 2017 que había declarado inadmisible la acción de amparo, y se ordenó el levantamiento de las medidas cautelares decretadas anteriormente.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1724_E17-1254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330970-1724-41223-2023-17-1254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.164489"
+}

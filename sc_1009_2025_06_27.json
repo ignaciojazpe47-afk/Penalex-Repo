@@ -1,0 +1,25 @@
+{
+  "id": 20609,
+  "numero": "1009",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de junio de 2025, declaró no ha lugar la solicitud de revisión constitucional presentada por la abogada Magaly Socorro Parra De Depablos en representación de José Lisandro Vega Santaella y Lilian Marianela Rubio Castro. La revisión se solicitó en relación a una sentencia del 18 de noviembre de 2019, que había declarado con lugar un recurso de apelación interpuesto por José Yamil Prada Sánchez, revocando una decisión anterior y declarando la confesión ficta de los demandados.\n\nLa Sala argumentó que la sentencia objeto de revisión no evidenció violaciones a derechos constitucionales fundamentales y que la valoración de las pruebas realizada por el Juzgado Superior fue adecuada. Se destacó que la parte demandada no contestó la demanda en el tiempo establecido, lo que permitió la configuración de la confesión ficta, y que la pretensión del demandante no era contraria a derecho.\n\nFinalmente, se reafirmó la competencia de la Sala para conocer de la solicitud, pero se determinó que no había lugar a la revisión, manteniendo la decisión del Juzgado Superior en todos sus términos.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "constitucional",
+    "confesión ficta",
+    "derechos",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1009_E21-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345278-1009-27625-2025-21-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.304317"
+}

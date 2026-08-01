@@ -1,0 +1,24 @@
+{
+  "id": 3472,
+  "numero": "1042",
+  "fecha": "2008-03-14",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional revisó la sentencia Nº 1042 dictada por la Sala de Casación Social, que declaró sin lugar el recurso de casación interpuesto por Rafael Valentino Maestri y María Peirano. La revisión se solicitó debido a la supuesta violación de principios constitucionales, como el derecho al juez natural y el debido proceso, ya que la decisión fue aprobada solo por dos magistrados en lugar de la mayoría requerida. La Sala Constitucional declaró la inexistencia de la sentencia impugnada y ordenó a la Sala de Casación Social dictar un nuevo fallo sobre el caso.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "relación laboral",
+    "due process",
+    "juez natural"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Social sobre relación laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-03-14_CasacionSocial_07_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.096862"
+}

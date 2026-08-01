@@ -1,0 +1,25 @@
+{
+  "id": 23050,
+  "numero": "1818",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por el abogado Marcos Alberto Ascanio Salinas contra la sentencia n° 00753 dictada por la Sala Político Administrativa. Se argumenta que la ley prohíbe expresamente admitir este tipo de acción contra decisiones de las Salas del Tribunal Supremo de Justicia, lo que hace que la pretensión sea inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "jurisprudencia",
+    "tribunal",
+    "decisiones",
+    "prohibición"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1818_E25-0937.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349942-1818-181125-2025-25-0937.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.060567"
+}

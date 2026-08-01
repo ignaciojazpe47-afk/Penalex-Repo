@@ -1,0 +1,25 @@
+{
+  "id": 28270,
+  "numero": "1230",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión presentada por la abogada Silvia Reyes Arambulet en representación de Saily Carolina Núñez. La solicitud se refiere a la revisión de una sentencia dictada el 8 de mayo de 2019 por el Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que declaró sin lugar un recurso de apelación relacionado con un divorcio y la custodia de los hijos. Tras analizar los alegatos, la Sala concluye que no hay lugar para la revisión solicitada.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "jurisprudencia",
+    "derechos humanos",
+    "cosa juzgada",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1230_E21-0270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340172-1230-41224-2024-21-0270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.047034"
+}

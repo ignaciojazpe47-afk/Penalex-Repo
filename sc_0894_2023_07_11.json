@@ -1,0 +1,25 @@
+{
+  "id": 31188,
+  "numero": "0894",
+  "fecha": "2023-07-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio de la Corte de Apelaciones relacionado con una acción de amparo constitucional presentada por el abogado Albert Rojas en defensa de Cristopher Leandro Escalona González y Luis Alfredo González Tinoco. La acción fue declarada inadmisible por falta de presentación de documentos necesarios, lo que llevó a la apelación por parte del accionante. La Sala ordenó la remisión de copias certificadas de las actas procesales del caso penal correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "proceso penal",
+    "responsabilidad administrativa",
+    "tribunales",
+    "audiencias",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0894_E21-0745.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326780-0894-11723-2023-21-0745.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.221280"
+}

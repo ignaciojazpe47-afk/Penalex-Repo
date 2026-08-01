@@ -1,0 +1,27 @@
+{
+  "id": 26938,
+  "numero": "0462",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por Jesús Argelio Sutil Pérez, debido a la falta de documentación probatoria necesaria para validar su petición. Se argumenta que el solicitante no acompañó los actos procesales requeridos, lo que impide verificar las alegaciones de violaciones al debido proceso y derechos fundamentales. La decisión se fundamenta en la necesidad de certeza probatoria para admitir solicitudes de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "carga procesal",
+    "derechos fundamentales",
+    "documentación",
+    "poder judicial",
+    "justicia",
+    "procedimiento penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0462_E23-1185.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338248-0462-251024-2024-23-1185.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.486487"
+}

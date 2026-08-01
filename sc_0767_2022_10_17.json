@@ -1,0 +1,23 @@
+{
+  "id": 36756,
+  "numero": "0767",
+  "fecha": "2022-10-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la Procuradora Especial de Trabajadores en representación de Josefina Bravo Gutiérrez. Se cuestionó la decisión del Tribunal Segundo de Primera Instancia de Juicio del Trabajo que negó oír una apelación por considerarla extemporánea. La Sala concluyó que se vulneraron derechos constitucionales, como el derecho a la defensa y el debido proceso, al considerar que la solicitante estaba notificada de una sentencia sin que se cumplieran las formalidades necesarias.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "sentencia laboral"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia en Materia Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-17_S0767_E16-1036.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320021-0767-171022-2022-16-1036.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.113110"
+}

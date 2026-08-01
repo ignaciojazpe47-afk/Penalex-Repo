@@ -1,0 +1,22 @@
+{
+  "id": 37229,
+  "numero": "0927",
+  "fecha": "2022-11-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por Carlos Daniel Malavé González contra la sentencia de la Corte Segunda de lo Contencioso Administrativo. Se determina que el procedimiento fue abandonado por falta de impulso procesal durante más de seis meses, lo que conlleva a la terminación del mismo. En consecuencia, se impone una multa a la parte accionante por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonar trámite",
+    "multa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-07_S0927_E18-0631.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320615-0927-71122-2022-18-0631.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.405087"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21490,
+  "numero": "1350",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión constitucional presentada por Lisbet Josefina Guevara García, asistida por su abogado, en relación a una sentencia dictada el 15 de octubre de 2018. La solicitante argumentó que su derecho a la tutela judicial efectiva fue vulnerado en el proceso anterior, donde se declaró la perención breve de su demanda de acción merodeclarativa de concubinato contra Julio de Brigard Merchán.\n\nLa Sala, tras analizar los argumentos y las actuaciones procesales, concluyó que la solicitud de revisión no cumplía con los requisitos establecidos para su procedencia, ya que no se evidenció ninguna violación a derechos constitucionales ni error en la interpretación de la ley por parte del juzgado inferior. Por lo tanto, se declaró que no había lugar a la revisión solicitada.\n\nFinalmente, la Sala reafirmó su competencia para conocer del caso y desestimó la solicitud de revisión, enfatizando que la revisión constitucional es un mecanismo excepcional y no un medio ordinario de impugnación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "interpretación",
+    "derechos",
+    "garantías",
+    "cosa juzgada",
+    "excepcionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1350_E18-0838.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347012-1350-6825-2025-18-0838.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.047027"
+}

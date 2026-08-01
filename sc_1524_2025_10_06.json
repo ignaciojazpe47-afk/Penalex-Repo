@@ -1,0 +1,26 @@
+{
+  "id": 22091,
+  "numero": "1524",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional presentada por los ciudadanos Pedro Sebastián Rojas Castillo y otros, en relación a una sentencia del Juzgado Octavo de Primera Instancia que declaró sin lugar una demanda de cumplimiento de contrato. La Sala determinó que el tribunal de instancia actuó conforme a derecho y no incurrió en violaciones constitucionales, por lo que se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "fraude procesal",
+    "confesión ficta",
+    "contrato",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "administración de justicia",
+    "dolo procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1524_E25-0348.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348270-1524-61025-2025-25-0348.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.192919"
+}

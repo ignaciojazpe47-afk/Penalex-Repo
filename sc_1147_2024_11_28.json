@@ -1,0 +1,24 @@
+{
+  "id": 28058,
+  "numero": "1147",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Elio César Burguera en representación de Muhammad Saleh, contra la sentencia del Juzgado Superior Séptimo que declaró con lugar la demanda de desalojo interpuesta por Fouad Merhi Merhi. La Sala concluyó que no se vulneraron derechos constitucionales y que la decisión del tribunal inferior fue correcta, confirmando la existencia de la confesión ficta por parte del demandado debido a su falta de contestación a la demanda. Por lo tanto, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "apelación",
+    "desalojo",
+    "confesión ficta",
+    "fraude procesal",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1147_E22-1044.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339744-1147-281124-2024-22-1044.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.469864"
+}

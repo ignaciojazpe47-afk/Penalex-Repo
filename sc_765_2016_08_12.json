@@ -1,0 +1,24 @@
+{
+  "id": 59245,
+  "numero": "765",
+  "fecha": "2016-08-12",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Juzgado de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Lara y el Juzgado Superior en lo Civil y Contencioso Administrativo de la Región Centro Occidental. La acción de amparo fue interpuesta por las abogadas Alicia Figueroa Romero y Ludy Pérez De González en representación del Centro de Educación Inicial Samuel Robinson C.A., en relación a decisiones que ordenaban la entrega material de un inmueble que ocupan como arrendatarios.\n\nLa Sala determinó que el tribunal competente para conocer la acción de amparo es el Juzgado Superior en lo Civil y Contencioso Administrativo, dado que la materia es eminentemente arrendaticia y debe ser tratada por un tribunal con competencia en dicha área. Además, se estableció que la ejecución de la entrega material del inmueble debe realizarse una vez culminado el año escolar 2016-2017, garantizando así el derecho a la educación de los niños que asisten al centro educativo.\n\nFinalmente, se ordenó la remisión del expediente al Juzgado Superior correspondiente para que continúe con el conocimiento de la acción de amparo, reafirmando la importancia de proteger los derechos de los niños y la educación en este contexto.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "acción de amparo",
+    "derechos constitucionales",
+    "educación",
+    "arrendamiento"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-12_S765_E16-0534.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/190281-765-12816-2016-16-0534.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.795007"
+}

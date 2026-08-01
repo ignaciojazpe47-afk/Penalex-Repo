@@ -1,0 +1,27 @@
+{
+  "id": 27825,
+  "numero": "1003",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Procedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo interpuesta por los ciudadanos Jenny Carol Godoy Gil y Neuro José Montes Arias, representados por el abogado Simón José Arrieta Quintero, en relación a decisiones emitidas por el Juez Tercero Accidental de Juicio del Circuito Judicial Penal del estado Trujillo. La acción se fundamenta en la supuesta vulneración del debido proceso y la falta de habilitación de la Corte de Apelaciones para conocer el caso penal signado con el alfanumérico TCM-EXT-2021-260.\n\nLa Sala declaró su competencia para conocer de la acción de amparo, considerando que se trataba de una situación que afectaba derechos fundamentales y el orden público. Se constató que había transcurrido un período de tiempo considerable sin que se avanzara en el proceso, lo que llevó a la Sala a considerar que se había configurado el abandono del trámite, aunque se admitió la excepción por la gravedad de las infracciones constitucionales alegadas.\n\nFinalmente, la Sala declaró procedente el avocamiento solicitado y ordenó la nulidad de la acusación presentada en el proceso penal, así como la reposición de la causa al estado en que el Ministerio Público presente un nuevo acto conclusivo, garantizando así los derechos de las partes involucradas.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "nulidad",
+    "violencia",
+    "niños",
+    "mujeres",
+    "justicia",
+    "fiscal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1003_E23-0531.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339316-1003-211124-2024-23-0531.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.139178"
+}

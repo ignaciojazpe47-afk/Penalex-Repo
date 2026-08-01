@@ -1,0 +1,22 @@
+{
+  "id": 30594,
+  "numero": "0640",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos cortes de apelaciones en el Estado Zulia, en relación a una acción de amparo constitucional interpuesta por Idaly Del Carmen Serrano Zamora. La acción fue motivada por la omisión de pronunciamiento del Tribunal Tercero de Primera Instancia en Funciones de Control sobre una acusación propia presentada por la demandante, en el contexto de delitos de violencia contra la mujer.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "conflicto de competencia",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0640_E21-0244.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325728-0640-30523-2023-21-0244.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.698923"
+}

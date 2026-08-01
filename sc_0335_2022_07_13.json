@@ -1,0 +1,24 @@
+{
+  "id": 35449,
+  "numero": "0335",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Betty Coromoto Gil Rodríguez, en calidad de heredera de Roseliano Antonio Gil, contra una decisión del Tribunal Tercero de Primera Instancia que había decretado medidas cautelares. La Sala consideró que las medidas vulneraban derechos constitucionales, como el derecho a la libre asociación y el debido proceso, y que la decisión del tribunal inferior excedía sus atribuciones. En consecuencia, se anuló la sentencia del 2 de septiembre de 2021 y se declaró con lugar el amparo, restableciendo la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medidas cautelares",
+    "derechos constitucionales",
+    "libre asociación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en el caso de medidas cautelares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0335_E21-0575.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317921-0335-13722-2022-21-0575.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.218708"
+}

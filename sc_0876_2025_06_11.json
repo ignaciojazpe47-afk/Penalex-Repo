@@ -1,0 +1,24 @@
+{
+  "id": 20291,
+  "numero": "0876",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Nataly Alexandra Rodríguez de Bravo, en representación de Arlet Adriana Rodríguez Rumbo, respecto a una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara. La revisión se fundamenta en la alegación de errores judiciales y la vulneración de derechos constitucionales en el proceso penal que afecta a la demandante.\n\nLa Sala declaró su competencia para conocer la solicitud y determinó que la decisión de la Corte de Apelaciones que anuló el sobreseimiento de la causa y ordenó una nueva audiencia preliminar, incurrió en violaciones a derechos fundamentales, generando un retardo injustificado en el proceso. Se ordenó la remisión de los expedientes pertinentes para un mejor estudio del caso.\n\nFinalmente, la Sala ordenó a la Secretaría de la Sala practicar las notificaciones correspondientes y cumplir con lo dispuesto en la decisión, advirtiendo sobre las responsabilidades administrativas en caso de incumplimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "audiencia preliminar",
+    "errores judiciales",
+    "retardo procesal",
+    "terrorismo judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0876_E25-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344670-0876-11625-2025-25-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.301774"
+}

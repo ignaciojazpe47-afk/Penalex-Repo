@@ -1,0 +1,26 @@
+{
+  "id": 22901,
+  "numero": "1769",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación en amparo constitucional contra una decisión del Juzgado Superior Décimo Segundo que declaró inadmisible la acción de amparo. La apelación fue fundamentada en la inactividad procesal del Juzgado Décimo Quinto, que no había dado respuesta a los pedimentos de la parte actora. La Sala, tras analizar el caso, decidió asumir la competencia y ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "extinción de dominio",
+    "medida cautelar",
+    "derechos constitucionales",
+    "justicia",
+    "jurisdicción",
+    "recursos"
+  ],
+  "titulo": "Sentencia sobre apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1769_E25-1173.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349743-1769-121125-2025-25-1173.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.069131"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 39998,
+  "numero": "0551",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por PUBLITIME C.A. contra una sentencia del Juzgado Tercero de Primera Instancia que declaró sin lugar una apelación. La Sala encontró vicios de motivación contradictoria en la decisión impugnada, donde se afirmaba la existencia de pruebas y, a la vez, se negaba su validez. Por lo tanto, se decidió anular la sentencia y reponer la causa para que el tribunal de origen dicte una nueva decisión considerando el deber de motivación.",
+  "palabras_clave": [
+    "contrato",
+    "prescripción",
+    "obligaciones",
+    "mercantil",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de Juzgado Tercero de Primera Instancia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0551_E20-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313916-0551-281021-2021-20-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.125543"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 26764,
+  "numero": "0365",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La abogada Ruth Mary Ruiz Martínez interpuso una acción de amparo constitucional en contra de una sentencia condenatoria del Tribunal Quincuagésimo de Primera Instancia. La Sala Constitucional del TSJ, tras analizar la competencia, decidió declinar el conocimiento del caso a la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la necesidad de corregir posibles violaciones de derechos constitucionales en el proceso judicial anterior.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "justicia",
+    "derechos",
+    "garantías",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0365_E23-0864.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338046-0365-231024-2024-23-0864.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.325236"
+}

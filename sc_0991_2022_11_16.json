@@ -1,0 +1,23 @@
+{
+  "id": 37435,
+  "numero": "0991",
+  "fecha": "2022-11-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Gina Yrubi Rodríguez Rivero, quien cuestionó la decisión de la Corte Segunda de lo Contencioso Administrativo que declaró sin lugar su apelación contra una sentencia que le otorgó jubilación de oficio. La solicitante argumentó que se vulneraron sus derechos al debido proceso y a la defensa, ya que no solicitó la jubilación y no cumplía con los requisitos necesarios para ello.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión Constitucional sobre Jubilación Forzada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-16_S0991_E21-0668.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320840-0991-161122-2022-21-0668.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.349943"
+}

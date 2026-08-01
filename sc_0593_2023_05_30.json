@@ -1,0 +1,25 @@
+{
+  "id": 30547,
+  "numero": "0593",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer la solicitud de revisión constitucional presentada por el abogado Gabriel Eduardo Matute Loreto en representación de Salomón Kube León. Se revisaron decisiones de la Sala de Casación Social y del Juzgado Noveno Superior del Circuito Judicial del Trabajo, relacionadas con un caso de pago de prestaciones sociales. La Sala declaró su competencia para conocer de la solicitud y ordenó oficiar al Juzgado Noveno Superior para recabar el expediente correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "revisión constitucional",
+    "sentencias",
+    "supremacía",
+    "justicia",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisiones judiciales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0593_E22-1046.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325681-0593-30523-2023-22-1046.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.933879"
+}

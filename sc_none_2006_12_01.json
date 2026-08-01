@@ -1,0 +1,23 @@
+{
+  "id": 3355,
+  "numero": null,
+  "fecha": "2006-12-01",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior que declaró inadmisible la demanda de cumplimiento de contrato interpuesta por Amely Dolibeth Vivas Escalante contra Muro Construcciones, C.A. La Sala consideró que la inadmisibilidad se basó en una supuesta falta de cualidad de la demandante para actuar sola, argumentando que se requería el consentimiento de su cónyuge debido a la naturaleza del bien involucrado. Sin embargo, la Sala concluyó que no se trataba de una enajenación o gravamen que exigiera dicha legitimación conjunta, lo que vulneraba el derecho de acceso a la justicia de la demandante.",
+  "palabras_clave": [
+    "revisión",
+    "contrato",
+    "inadmisibilidad",
+    "acceso a la justicia"
+  ],
+  "titulo": "Revisión de sentencia sobre inadmisibilidad de demanda de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-12-01_CasacionCivil_06_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.128322"
+}

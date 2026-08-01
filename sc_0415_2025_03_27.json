@@ -1,0 +1,24 @@
+{
+  "id": 19114,
+  "numero": "0415",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer la acción de amparo constitucional presentada por Kevin Eduardo Blanco-Uribe Aladejo contra un auto de ejecución dictado por el Tribunal Décimo de Primera Instancia. La acción se fundamentó en alegaciones de violación al debido proceso y derechos fundamentales en el contexto de una restitución internacional de un menor. La Sala declinó la competencia a un Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "interés superior del niño",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "restitución internacional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-27_S0415_E24-0815.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342699-0415-27325-2025-24-0815.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.615631"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33761,
+  "numero": "1908",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Segundo Superior que había declarado sin lugar un recurso de apelación interpuesto por la parte presuntamente agraviante. La Sala determinó que el Juzgado no tenía competencia para conocer del caso, ya que se trataba de un conflicto laboral que debía ser resuelto por los tribunales laborales. Se declaró con lugar la solicitud de revisión y se anuló la sentencia impugnada, ordenando que el caso sea remitido a un Juzgado de Primera Instancia de Juicio del Trabajo para su tramitación correspondiente. La decisión reafirma el derecho a ser juzgado por el juez natural y la protección de los derechos laborales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo laboral",
+    "derecho a la defensa",
+    "competencia judicial",
+    "libertad sindical"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de amparo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1908_E21-0510.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331878-1908-121223-2023-21-0510.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.449486"
+}

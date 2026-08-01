@@ -1,0 +1,22 @@
+{
+  "id": 38593,
+  "numero": "0148",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Federico Guzmán Guillén contra decisiones previas que confirmaron la caducidad de su demanda de retracto legal arrendaticio. La Sala determinó que la falta de notificación adecuada sobre la venta del inmueble afectó los derechos del demandante, lo que constituyó una violación al debido proceso. En consecuencia, se anularon las decisiones impugnadas y se ordenó que un tribunal distinto conociera de los recursos de apelación interpuestos por el accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "retracto legal arrendaticio"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0148_E17-0805-0439.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312012-0148-30421-2021-17-0805-0439.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.886202"
+}

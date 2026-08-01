@@ -1,0 +1,18 @@
+{
+  "id": 3255,
+  "numero": null,
+  "fecha": "2005-08-12",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó sentencia en el caso de la acción de amparo interpuesta por Danny Francisco Jaimes Yánez, quien alegó retardo procesal en su causa penal. La Sala No. 6 de la Corte de Apelaciones había declarado con lugar la acción de amparo, pero la Sala Constitucional revocó dicha decisión, considerando que la acción de amparo resultaba sin lugar debido a que la dilación en el proceso no era imputable al Juzgado. La Sala ordenó que se impusiera una medida cautelar sustitutiva de libertad de posible cumplimiento, en lugar de la medida de imposible cumplimiento que había sido impuesta anteriormente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2005-08-12_Constitucional_04.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.516628"
+}

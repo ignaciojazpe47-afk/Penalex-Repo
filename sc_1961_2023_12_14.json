@@ -1,0 +1,27 @@
+{
+  "id": 33814,
+  "numero": "1961",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por las abogadas Gladys Quiñones y Ledys Sotillo, quienes impugnaron una decisión del Juzgado de Municipio Ordinario que declaró con lugar un fraude procesal en su contra. Las solicitantes argumentaron que no fueron notificadas adecuadamente y que su inclusión en el fallo les causó un grave perjuicio profesional. Sin embargo, la Sala determinó que no se evidenció un desconocimiento de precedentes ni una indebida aplicación de normas constitucionales que justificara la revisión.",
+  "palabras_clave": [
+    "comodato",
+    "desalojo",
+    "inspección judicial",
+    "testimonios",
+    "ejecución forzosa",
+    "contrato",
+    "posesión",
+    "local comercial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1961_E23-0146.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331931-1961-141223-2023-23-0146.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.435554"
+}

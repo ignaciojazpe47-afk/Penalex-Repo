@@ -1,0 +1,24 @@
+{
+  "id": 24057,
+  "numero": "0004",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados Julio César Terán Martínez y Yhonny Keifran Meza, en representación de los ciudadanos Carlos Alberto Rondón Borges y Juan Carlos López García. La solicitud se refería a un proceso penal que cursa ante el Tribunal Tercero de Primera Instancia en Funciones de Control, relacionado con delitos asociados al terrorismo y corrupción. La Sala, tras analizar la naturaleza del caso, se declaró incompetente para conocer la solicitud y declinó el conocimiento a la Sala de Casación Penal del TSJ.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "delitos",
+    "corrupción",
+    "terrorismo"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0004_E22-0695.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332356-0004-5224-2024-22-0695.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.830648"
+}

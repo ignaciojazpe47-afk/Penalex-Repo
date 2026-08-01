@@ -1,0 +1,26 @@
+{
+  "id": 19889,
+  "numero": "0752",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara no ha lugar la solicitud de revisión constitucional presentada por los abogados de Jorge Ignacio Zerpa Roa, en relación a la decisión N° 191 de la Sala de Casación Penal, que declaró inadmisible el recurso de casación. La decisión de la Sala de Casación Penal se fundamentó en que el proceso penal nunca llegó a iniciarse debido a la desestimación de la denuncia por parte del Ministerio Público, lo que hace irrecurrible la decisión en casación. La Sala Constitucional reafirma que la solicitud de revisión no contradice preceptos constitucionales ni establece un error de interpretación que justifique su revisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "justicia",
+    "recurso_de_casación",
+    "estafa",
+    "derechos_fundamentales",
+    "tutela_judicial",
+    "ley_penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0752_E24-0689.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343916-0752-21525-2025-24-0689.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.877773"
+}

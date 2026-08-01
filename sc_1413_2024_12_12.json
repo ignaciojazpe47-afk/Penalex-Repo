@@ -1,0 +1,26 @@
+{
+  "id": 28582,
+  "numero": "1413",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Leonardo Parra Bustamante, actuando en nombre de Jesús Salvador Rendón Carrillo. La decisión se basa en la falta de presentación de la copia certificada del poder que acredita la representación del solicitante, lo que constituye un requisito indispensable para la admisibilidad de la solicitud. La Sala también reafirma su competencia para conocer de la solicitud de revisión, pero concluye que la falta de legitimación del abogado impide continuar con el proceso.",
+  "palabras_clave": [
+    "recusación",
+    "demanda",
+    "juzgado",
+    "proceso",
+    "justicia",
+    "derechos",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la recusación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1413_E24-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340605-1413-121224-2024-24-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.820503"
+}

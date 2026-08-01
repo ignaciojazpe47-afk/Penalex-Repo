@@ -1,0 +1,25 @@
+{
+  "id": 46258,
+  "numero": "0310",
+  "fecha": "2018-03-23",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Pedro Víctor Réquiz Cisneros en nombre de Rumualdo Andrés Ibarra Mangarret, contra la sentencia n.° 295-17 dictada por la Corte de Apelaciones del Circuito Judicial Penal. La acción fue motivada por la alegación de violaciones al debido proceso y al derecho a la defensa en el contexto de un proceso penal por delitos de violencia contra la mujer. La Corte de Apelaciones había declarado sin lugar el recurso de apelación interpuesto contra decisiones previas del Tribunal Primero de Primera Instancia en Funciones de Juicio.\n\nLa Sala Constitucional, tras analizar los argumentos presentados, concluyó que no se satisfacían los requisitos legales para la procedencia de la acción de amparo, declarando la improcedencia in limine litis. Se argumentó que la decisión de la Corte de Apelaciones se ajustó a derecho y que la celebración de una nueva audiencia preliminar resultaría en un retardo innecesario del proceso penal.\n\nFinalmente, se declaró sin lugar la acción de amparo, manteniendo la vigencia de las decisiones impugnadas y reafirmando la competencia de la Corte de Apelaciones en el caso.",
+  "palabras_clave": [
+    "nulidad",
+    "debido proceso",
+    "derechos humanos",
+    "apelación",
+    "tutela judicial",
+    "violencia de género"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Rumualdo Andrés Ibarra Mangarret",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-23_S0310_E17-1004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/209195-0310-23318-2018-17-1004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.825980"
+}

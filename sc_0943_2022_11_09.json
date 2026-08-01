@@ -1,0 +1,26 @@
+{
+  "id": 37245,
+  "numero": "0943",
+  "fecha": "2022-11-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Vito Angelo Cappiello De Paola, en contra de decisiones del Tribunal Primero de Primera Instancia de Mediación, Sustanciación y Ejecución. El tribunal consideró que no existieron violaciones a derechos constitucionales y que había un medio idóneo para resolver la situación planteada. La decisión del Tribunal Superior Cuarto fue confirmada, manteniendo la patria potestad compartida entre ambos progenitores.",
+  "palabras_clave": [
+    "patria potestad",
+    "amparo constitucional",
+    "jurisdicción voluntaria",
+    "debido proceso",
+    "tutela judicial",
+    "Código Civil",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-09_S0943_E22-0158.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320631-0943-91122-2022-22-0158.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.364025"
+}

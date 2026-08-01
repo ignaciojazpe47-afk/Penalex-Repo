@@ -1,0 +1,25 @@
+{
+  "id": 36153,
+  "numero": "0522",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Luis Beltrán Silva en nombre de Jesús Rafael Pérez Salazar, en relación a una sentencia anterior que declaró con lugar una apelación contra un fallo del Juzgado Superior Primero en lo Civil y Contencioso Administrativo. La Corte determinó que la solicitud de revisión era inadmisible debido a la falta de comprobación de la representación del abogado solicitante, ya que el poder otorgado no habilitaba para plantear dicha revisión.",
+  "palabras_clave": [
+    "poder",
+    "revisión",
+    "constitucional",
+    "inadmisión",
+    "Código de Procedimiento Civil",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0522_E17-0527.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319179-0522-11822-2022-17-0527.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.564300"
+}

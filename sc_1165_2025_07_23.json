@@ -1,0 +1,23 @@
+{
+  "id": 21101,
+  "numero": "1165",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de Mérida, que declaró la simulación de una venta de un inmueble. Se determinó que la venta fue simulada y se ordenó la restitución de la propiedad a los herederos de la vendedora, excluyendo un local que permanece en propiedad de un tercero. Además, se impusieron costas a los demandados por haber resultado vencidos en el juicio.",
+  "palabras_clave": [
+    "simulación de venta",
+    "revisión constitucional",
+    "herencia",
+    "derechos de propiedad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de simulación de venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1165_E24-0960.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346383-1165-23725-2025-24-0960.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.382838"
+}

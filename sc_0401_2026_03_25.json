@@ -1,0 +1,24 @@
+{
+  "id": 17646,
+  "numero": "0401",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ decidió sobre una acción de amparo interpuesta por el abogado Carlos Alberto Guanipa Córdova en representación de varios ciudadanos, alegando violaciones a sus derechos fundamentales. Se argumentó que la condena penal dictada en octubre de 2025 era nula debido a la falta de un debido proceso y a la existencia de un título legítimo de propiedad agraria. La Sala observó la gravedad de la situación, especialmente en relación con la salud de una de las demandantes, Romina Paola Ochoa Velasco, quien padece una condición médica grave.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "salud",
+    "debido proceso",
+    "propiedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de derechos humanos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0401_E25-1453.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354417-0401-25326-2026-25-1453.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.567842"
+}

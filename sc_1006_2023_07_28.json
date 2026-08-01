@@ -1,0 +1,24 @@
+{
+  "id": 31648,
+  "numero": "1006",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación contra una sentencia que declaró inadmisible una acción de amparo constitucional. El recurso fue presentado por el abogado Ramón Solórzano en representación de Farid Djowrrayed Kahouati, quien alegó falta de notificación en un proceso penal. La Sala determinó su competencia para conocer del recurso y constató que la apelación fue interpuesta oportunamente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "derechos fundamentales",
+    "juez de control",
+    "audiencia preliminar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1006_E23-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327537-1006-28723-2023-23-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.915470"
+}

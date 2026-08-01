@@ -1,0 +1,24 @@
+{
+  "id": 23245,
+  "numero": "1900",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de interpretación interpuesto por Andrés Clemente Luigi, quien solicitó la interpretación del artículo 80 de la Constitución. La Sala determinó que el solicitante no poseía un interés jurídico actual y legítimo que justificara su petición, lo que llevó a declarar inadmisible el recurso. Se enfatizó que el recurso de interpretación no es un medio normal para resolver dudas, sino un mecanismo excepcional.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "legitimacion",
+    "recurso",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación del artículo 80 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1900_E22-0255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350496-1900-261125-2025-22-0255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.045395"
+}

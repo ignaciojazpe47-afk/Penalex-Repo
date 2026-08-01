@@ -1,0 +1,26 @@
+{
+  "id": 36146,
+  "numero": "0515",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia dictada en fecha 23 de julio de 2021",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 23 de julio de 2021 por el Juzgado Superior Primero en lo Civil, que había declarado con lugar la acción de desalojo interpuesta por Balmes Bienes Inmuebles, C.A. en contra de TINTORERÍAS MP, C.A. La Sala encontró que el juzgado inferior incurrió en errores al confundir los efectos de la cosa juzgada material y formal, afectando el derecho a la tutela judicial efectiva de la parte solicitante.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "inadmisibilidad",
+    "tutela judicial",
+    "contrato",
+    "jurisdicción",
+    "errores judiciales",
+    "incongruencia"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0515_E22-0035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319172-0515-11822-2022-22-0035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.566526"
+}

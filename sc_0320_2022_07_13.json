@@ -1,0 +1,27 @@
+{
+  "id": 35434,
+  "numero": "0320",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar la apelación interpuesta por los abogados de Néstor José Bastidas Azuaje, revocando la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala argumentó que, aunque existía un recurso ordinario de apelación, las circunstancias excepcionales de la pandemia COVID-19 limitaban el acceso a la justicia, lo que justificaba la admisibilidad del amparo constitucional. La decisión enfatiza la importancia de la tutela judicial efectiva y el derecho de acceso a la justicia en situaciones de emergencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "exhaustividad",
+    "sentencia injusta",
+    "derechos constitucionales",
+    "justicia",
+    "igualdad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0320_E20-0377.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317900-0320-13722-2022-20-0377.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.232287"
+}

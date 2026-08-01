@@ -1,0 +1,27 @@
+{
+  "id": 28953,
+  "numero": "0052",
+  "fecha": "2023-03-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los ciudadanos Iván José Otero Alfonzo y Jorge Maksym Skotiuk Pacholek, representados por el abogado Luis Carlos Malavé Esaa, contra la Corte Primera de lo Contencioso Administrativo por la omisión de pronunciamiento en la causa AP42G-2018-00052. La Sala argumenta que la competencia para conocer de la acción fue determinada en una sentencia anterior y que la omisión denunciada ha cesado debido a un pronunciamiento posterior del Juzgado Nacional Primero Contencioso Administrativo.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "omisión",
+    "sentencia",
+    "constitución",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-01_S0052_E19-0450.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/322982-0052-1323-2023-19-0450.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.285540"
+}

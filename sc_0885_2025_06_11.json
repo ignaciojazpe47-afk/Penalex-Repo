@@ -1,0 +1,25 @@
+{
+  "id": 20300,
+  "numero": "0885",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Elvia Elena Benítez Núñez, en relación a sentencias de la Corte Segunda de lo Contencioso Administrativo y del Juzgado Superior Estadal de lo Contencioso Administrativo del estado Aragua. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de las decisiones cuestionadas, requisito indispensable para la verificación de la certeza de la solicitud. La Sala reafirma su competencia para conocer de la solicitud, pero subraya la necesidad de cumplir con los requisitos establecidos por la ley para la admisión de tales recursos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "competencia",
+    "admisibilidad",
+    "sentencias firmes",
+    "principios constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0885_E25-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344680-0885-11625-2025-25-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.299140"
+}

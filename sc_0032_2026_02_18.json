@@ -1,0 +1,25 @@
+{
+  "id": 17188,
+  "numero": "0032",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el ciudadano Ricardo Américo Ousta Djanli, quien alegó la inadmisibilidad de su acción de amparo constitucional por parte del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de Lara. La apelación se fundamentó en la falta de citación y la vulneración de derechos fundamentales, como el derecho a la defensa y al debido proceso, en el marco de un juicio por cobro de bolívares por vía intimatoria.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "incompetencia",
+    "derechos constitucionales",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0032_E25-0667.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352704-0032-18226-2026-25-0667.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.066701"
+}

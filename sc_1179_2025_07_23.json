@@ -1,0 +1,24 @@
+{
+  "id": 21115,
+  "numero": "1179",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de diciembre de 2024, que declaró inadmisible la demanda de estimación e intimación de honorarios profesionales presentada por el abogado Juan Ernesto Rondón Pérez. La Sala determinó que el abogado no estaba legitimado para ejercer la acción de cobro de honorarios derivados de costas procesales, ya que no se evidenció que el ciudadano Andrés Antonio Azuaje, parte vencedora en el juicio que generó las costas, le hubiera conferido poder para actuar en su nombre.\n\nLa Sala, al analizar la solicitud de revisión, concluyó que la interpretación errada de la sentencia recurrida afectó el derecho a la tutela judicial efectiva y el principio pro actione, que favorece el acceso a la justicia. Por lo tanto, se declaró ha lugar la solicitud de revisión y se anuló la sentencia de fecha 17 de diciembre de 2024, ordenando que se remita el expediente a otro juzgado superior para un nuevo pronunciamiento.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la solicitud de revisión y destacó la importancia de garantizar el acceso a la justicia y la correcta interpretación de las normas procesales en beneficio de los ciudadanos.",
+  "palabras_clave": [
+    "honorarios",
+    "costas",
+    "legitimación",
+    "abogados",
+    "procedimiento civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1179_E25-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346397-1179-23725-2025-25-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.385901"
+}

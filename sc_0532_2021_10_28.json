@@ -1,0 +1,26 @@
+{
+  "id": 39979,
+  "numero": "0532",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el ciudadano Julio Alberto Frailán Tebres en relación a una sentencia en fase de ejecución del 28 de mayo de 2019. La solicitud fue fundamentada en la alegación de incumplimiento por parte del Instituto Venezolano de los Seguros Sociales respecto a una orden de reincorporación y pago de remuneraciones. Sin embargo, se determinó que no se cumplían los requisitos para avocar el conocimiento del caso, dado que ya existía una sentencia definitiva en el proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "justicia",
+    "proceso",
+    "derechos",
+    "interés público",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0532_E19-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313897-0532-281021-2021-19-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.117862"
+}

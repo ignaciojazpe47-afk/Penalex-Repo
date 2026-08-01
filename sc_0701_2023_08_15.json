@@ -1,0 +1,22 @@
+{
+  "id": 27321,
+  "numero": "0701",
+  "fecha": "2023-08-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional admitió una acción de amparo constitucional interpuesta por el abogado Alfredo Millán Guzmán en representación de la sociedad mercantil Centro Médico El Valle C.A. contra una sentencia del Juzgado Superior en lo Civil, Mercantil, del Tránsito y Marítimo de Nueva Esparta. La sentencia original había resuelto una apelación en un juicio de reconocimiento de instrumento privado, donde se tachó de falso un documento fundamental.\n\nEl 15 de agosto de 2023, la Sala declaró competente y acordó una medida cautelar de suspensión de efectos de la sentencia impugnada. La decisión se fundamentó en la necesidad de revisar los alegatos sobre la tacha de falsedad presentada por el demandado, Engelbert José Tavares Urdaneta.\n\nFinalmente, se ordenó a la Secretaría de la Sala Constitucional que oficie a la Rectoría Civil del Estado Nueva Esparta para remitir el expediente original del juicio, asegurando así el cumplimiento de los procedimientos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "suspensión de efectos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0701_E23-0231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338724-0701-81124-2024-23-0231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.854107"
+}

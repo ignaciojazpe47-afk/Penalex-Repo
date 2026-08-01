@@ -1,0 +1,24 @@
+{
+  "id": 19575,
+  "numero": "0593",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró NO HA LUGAR la solicitud de revisión presentada por el abogado José Cristóbal Álvarez, actuando en representación de Arturo Celestino Soto Loreto, respecto a la sentencia dictada el 11 de julio de 2022 por el Juzgado Superior Agrario del Estado Guárico. La decisión se fundamenta en la incomparecencia del apelante a la audiencia oral de informes, lo que evidenció un desinterés en la litis y la falta de fundamentación de su apelación.\n\nLa Sala consideró que el Juzgado Superior Agrario actuó conforme a derecho al declarar desistido el recurso de apelación, y que no se vulneraron los derechos del solicitante. Se enfatizó que la revisión no es un medio ordinario, sino una potestad extraordinaria que busca unificar criterios constitucionales y garantizar la seguridad jurídica.\n\nFinalmente, se ordenó la publicación y registro de la decisión, archivándose el expediente correspondiente.",
+  "palabras_clave": [
+    "apelación",
+    "audiencia",
+    "desistimiento",
+    "justicia agraria",
+    "Ley de Tierras"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0593_E22-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343452-0593-30425-2025-22-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.032088"
+}

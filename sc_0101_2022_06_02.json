@@ -1,0 +1,25 @@
+{
+  "id": 34965,
+  "numero": "0101",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, decidió sobre la solicitud de revisión constitucional presentada por Licelis José Díaz Alfonzo, quien impugnó una sentencia de divorcio dictada por el Tribunal Segundo de Primera Instancia de Mediación en Zulia. La solicitante alegó fraude procesal y violaciones a sus derechos, argumentando que el tribunal carecía de jurisdicción debido a su residencia en Canadá y la incorrecta notificación del proceso de divorcio.\nLa Sala, tras analizar las alegaciones y el procedimiento seguido, concluyó que el tribunal de instancia actuó conforme a la ley y que no se incurrió en los supuestos de fraude procesal. Por lo tanto, se declaró que la solicitud de revisión no prosperaba, manteniendo la decisión original del tribunal de divorcio.\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión constitucional, reafirmando la validez de la sentencia de divorcio emitida en 2019.",
+  "palabras_clave": [
+    "divorcio",
+    "jurisdicción",
+    "menores",
+    "fraude procesal",
+    "manutención",
+    "instituciones familiares"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0101_E20-0145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316858-0101-2622-2022-20-0145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.423331"
+}

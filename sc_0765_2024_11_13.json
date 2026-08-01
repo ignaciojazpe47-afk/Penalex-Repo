@@ -1,0 +1,27 @@
+{
+  "id": 27446,
+  "numero": "0765",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Florentino José Tilve Guilarte contra la sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui. El tribunal concluye que no se evidencian violaciones a derechos constitucionales y que la acción no cumple con los requisitos establecidos en la ley. Se confirma la decisión del juzgado inferior, manteniendo la negativa a la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "motivación",
+    "incompetencia",
+    "derechos constitucionales",
+    "jurisdicción",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0765_E23-1220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338877-0765-131124-2024-23-1220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.424474"
+}

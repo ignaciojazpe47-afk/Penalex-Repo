@@ -1,0 +1,22 @@
+{
+  "id": 29120,
+  "numero": "0118",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por los abogados Roger González y Solimar Armas en representación de Deny Charly Pérez Vega. La acción fue declarada inadmisible por no haberse agotado la vía ordinaria de apelación contra la medida privativa de libertad dictada por el Tribunal Cuarto de Primera Instancia en Funciones de Control. La Sala concluyó que el recurso de apelación era el medio adecuado para restablecer la situación jurídica del recurrente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida privativa de libertad",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0118_E20-0178.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323286-0118-10323-2023-20-0178.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.336071"
+}

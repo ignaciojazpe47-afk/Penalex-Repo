@@ -1,0 +1,26 @@
+{
+  "id": 43479,
+  "numero": "0221",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Lisbeth Díaz Petit en representación de VIVIAN ADRIANA CARÍAS VERDI. La solicitud se refiere a una sentencia dictada el 14 y publicada el 15 de noviembre de 2018 por la Sala Político Administrativa, la cual se encuentra firme. La inadmisibilidad se fundamenta en la falta de consignación de la copia certificada de la sentencia objeto de revisión, lo que es considerado un requisito indispensable para la admisión de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "protección de niños",
+    "inadmisibilidad",
+    "sentencia",
+    "derechos constitucionales",
+    "convención internacional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0221_E19-0182.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306106-0221-12719-2019-19-0182.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.412471"
+}

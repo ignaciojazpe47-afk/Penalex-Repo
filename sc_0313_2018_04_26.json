@@ -1,0 +1,25 @@
+{
+  "id": 46558,
+  "numero": "0313",
+  "fecha": "2018-04-26",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara competente para conocer de las solicitudes de revisión de sentencias relacionadas con la homologación de decisiones de tribunales nicaragüenses. Se analiza la competencia de la Sala para revisar sentencias firmes de amparo constitucional y se determina la acumulación de expedientes conexos para evitar sentencias contradictorias. Finalmente, se decide acumular los expedientes 12-0267 y 12-1218 al presente expediente 11-0755.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "constitucionalidad",
+    "derechos humanos",
+    "sentencias",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión y acumulación de expedientes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-04-26_S0313_E11-0755.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/210093-0313-26418-2018-11-0755.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.819276"
+}

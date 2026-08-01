@@ -1,0 +1,26 @@
+{
+  "id": 34233,
+  "numero": "1342",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Ever Antonio Avendaño Ruiz contra las empresas Inversiones Urbanas C.A. y Promotora Los 3 Ases C.A. La decisión se basa en que el demandante no agotó las vías procesales ordinarias antes de recurrir al amparo, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala reafirmó que el amparo no es el único medio para garantizar los derechos fundamentales y que deben utilizarse los recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "fraude procesal",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1342_E23-0400.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328547-1342-17823-2023-23-0400.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.216661"
+}

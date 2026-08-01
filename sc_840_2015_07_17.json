@@ -1,0 +1,24 @@
+{
+  "id": 65182,
+  "numero": "840",
+  "fecha": "2015-07-17",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Ángel Ovidio Sayago Salazar, quien alegó la vulneración de sus derechos a la privacidad y reputación debido a la publicación de sentencias que contenían datos personales en la página web del TSJ. La Sala decidió suprimir los datos filiatorios, dirección y números de teléfono del demandante y su familia en la publicación de la sentencia dictada el 12 de febrero de 2014 por el Tribunal Segundo de Primera Instancia del Estado Vargas, pero desestimó la solicitud de no publicar la sentencia de amparo, considerando que la identificación del demandante es un dato básico necesario para el acto jurisdiccional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "publicación de datos personales",
+    "derechos fundamentales",
+    "privacidad",
+    "reputación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por publicación de datos personales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-17_S840_E14-1363.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179637-840-17715-2015-14-1363.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.237067"
+}

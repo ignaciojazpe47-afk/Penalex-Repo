@@ -1,0 +1,22 @@
+{
+  "id": 18779,
+  "numero": "0310",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia definitiva emitida por el Juzgado Segundo de Municipio Ordinario y Ejecutor de Medidas de los Municipios Plaza y Zamora. La sentencia cuestionada había declarado con lugar una demanda de resolución de contrato presentada por la Sociedad Mercantil LUIGIPUBLICIDAD C.A. contra la COMUNIDAD DE PROPIETARIOS DEL CENTRO COMERCIAL BUENAVENTURA, condenando a la parte demandada al pago de costas y costos del proceso.\n\nEn el análisis de la solicitud de revisión, se consideró la competencia de la Sala para conocer del caso, así como los alegatos de la parte solicitante, que denunciaba la falta de notificación al Procurador General de la República y la presunta violación de derechos constitucionales. La Sala decidió asumir la competencia y ordenó la remisión del expediente al Juzgado correspondiente para su revisión.\n\nFinalmente, se dictó un auto para mejor proveer, ordenando la notificación de la decisión y advirtiendo sobre las consecuencias del incumplimiento de la misma.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia definitiva",
+    "resolución de contrato"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia definitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0310_E22-1019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342242-0310-12325-2025-22-1019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.737020"
+}

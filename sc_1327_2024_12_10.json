@@ -1,0 +1,26 @@
+{
+  "id": 28385,
+  "numero": "1327",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por el abogado Luis León en representación de FÉLIX ALVINO ASCENCIO, contra el Tribunal Especial Tercero de Primera Instancia. La Sala determina que la competencia corresponde a una de las Cortes de Apelaciones con competencia exclusiva para causas por delitos vinculados al terrorismo en el área metropolitana de Caracas. Se ordena la remisión del expediente a la Presidencia del Circuito Judicial Penal correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "debido_proceso",
+    "justicia",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1327_E24-0706.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340341-1327-101224-2024-24-0706.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.220396"
+}

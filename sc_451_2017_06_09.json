@@ -1,0 +1,23 @@
+{
+  "id": 52210,
+  "numero": "451",
+  "fecha": "2017-06-09",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara con lugar la acción de amparo constitucional interpuesta por la abogada Carlil Montiel, en representación de varios ciudadanos, contra una sentencia del Tribunal Superior Tercero del Trabajo que había declarado sin lugar un recurso de apelación. La Sala anula la sentencia impugnada y ordena que se reponga la causa para que otro juzgado le dé trámite procesal al recurso de nulidad admitido, cumpliendo con los requisitos legales establecidos.\n\nLa decisión resalta la importancia de la tutela judicial efectiva y el derecho al debido proceso, señalando que la sentencia recurrida había vulnerado derechos fundamentales de los accionantes al no valorar adecuadamente las pruebas presentadas. Además, se ordena la ejecución de una providencia administrativa que había declarado procedente la solicitud de reenganche y pago de salarios caídos de los trabajadores.\n\nFinalmente, la Sala establece criterios vinculantes para la aplicación de la Ley Orgánica del Trabajo, enfatizando que la condición de certificación del cumplimiento de la orden de reenganche no debe ser un obstáculo para la admisión de demandas de nulidad, garantizando así el acceso a la justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "derechos laborales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de decisiones laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-09_S451_E15-1403.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199843-451-9617-2017-15-1403.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.070794"
+}

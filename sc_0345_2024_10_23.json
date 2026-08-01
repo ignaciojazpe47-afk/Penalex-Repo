@@ -1,0 +1,25 @@
+{
+  "id": 26744,
+  "numero": "0345",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de octubre de 2024, declaró no ha lugar la solicitud de revisión constitucional presentada por los abogados de Víctor Hugo Colina Márquez, respecto a la sentencia dictada el 16 de diciembre de 2022 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida. La Corte de Apelaciones había declarado sin lugar los recursos de apelación interpuestos por la defensa pública y la fiscalía, argumentando que no había operado la prescripción de la acción penal debido a la actividad procesal continua del caso.\n\nLa Sala Constitucional determinó que los solicitantes no encuadraron en los supuestos para la revisión, ya que no se evidenció un desconocimiento de criterios interpretativos de normas constitucionales ni una violación de derechos fundamentales. La decisión de la Corte de Apelaciones fue considerada legal y procedimentalmente correcta, confirmando así la sentencia impugnada.\n\nFinalmente, la Sala reafirmó que la revisión constitucional no debe ser entendida como una tercera instancia, sino como un mecanismo extraordinario para garantizar la uniformidad en la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "prescripción",
+    "derechos_humanos",
+    "delitos_ambientales",
+    "justicia_penal",
+    "Corte_de_Apelaciones"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0345_E23-1004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338026-0345-231024-2024-23-1004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.331606"
+}

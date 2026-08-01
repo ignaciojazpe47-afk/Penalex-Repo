@@ -1,0 +1,22 @@
+{
+  "id": 11400,
+  "numero": null,
+  "fecha": "2007-01-18",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "El Tribunal Supremo de Justicia, en su Sala de Casación Penal, admitió el recurso de casación interpuesto por la defensa de Jesús Alberto Vera González, quien había sido condenado por homicidio calificado en grado de frustración. La defensa alegó que la Corte de Apelaciones había declarado inadmisible el recurso de apelación por extemporáneo, sin considerar la jurisprudencia sobre el cómputo del lapso para la interposición del mismo. La Sala convocó a las partes a una audiencia pública para resolver las denuncias del recurso de apelación.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "apelación"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Calificado en Grado de Frustración",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_ed5666bf3e69fb17f224464997c717b5.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:00.509232"
+}

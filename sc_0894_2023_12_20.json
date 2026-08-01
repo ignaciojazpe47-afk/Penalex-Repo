@@ -1,0 +1,25 @@
+{
+  "id": 27690,
+  "numero": "0894",
+  "fecha": "2023-12-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación interpuesto por Yajaira Díaz Arzola contra una decisión de la Corte de Apelaciones que declaró improcedente la acción de amparo. La Sala se declaró competente para conocer el recurso y ordenó la remisión de información relevante para dictar la decisión de mérito. Se solicitó al Tribunal Décimo de Primera Instancia que informe si la demandante interpuso querella privada o acusación particular tras ser notificada.",
+  "palabras_clave": [
+    "amparo",
+    "victima",
+    "querella",
+    "decisión",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0894_E23-1083.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339173-0894-201124-2024-23-1083.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.685823"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1741,
+  "numero": null,
+  "fecha": "2000-05-11",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Jubilaciones y Pensiones",
+  "decision": "Se declara con lugar la acción de nulidad por inconstitucionalidad",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 11 de mayo de 2000, declaró con lugar la acción de nulidad por inconstitucionalidad interpuesta por el Procurador General del Estado Lara, Jesús María Cordero Giusti, contra la Ley de Jubilaciones y Pensiones del Estado Lara. La ley, promulgada el 25 de marzo de 1997, fue considerada inconstitucional por invadir competencias del Poder Público Nacional en materia de previsión y seguridad social, que corresponde exclusivamente a la Asamblea Nacional. La Sala argumentó que la Asamblea Legislativa del Estado Lara no tenía facultades para legislar sobre jubilaciones y pensiones, lo que constituye una usurpación de funciones. La decisión establece que la anulación de la ley tiene efectos ex nunc, es decir, a partir de la publicación del fallo, dejando a salvo las jubilaciones y pensiones concedidas bajo la vigencia de la ley antes de esta fecha.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "jubilaciones",
+    "pensiones",
+    "Estado Lara",
+    "competencias",
+    "Poder Nacional",
+    "legislación",
+    "seguridad social"
+  ],
+  "titulo": "Anulación de la Ley de Jubilaciones y Pensiones del Estado Lara",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-05-11_PoliticoAdmin_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.738512"
+}

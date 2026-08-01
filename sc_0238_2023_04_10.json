@@ -1,0 +1,27 @@
+{
+  "id": 29706,
+  "numero": "0238",
+  "fecha": "2023-04-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión constitucional presentada por José Daniel Mijoba, en representación de Majdulin Fakkreeddine Charani, contra una decisión del Juzgado Superior que declaró sin lugar la pretensión de resolución de contrato de arrendamiento por pérdida de la cosa arrendada. La Sala concluyó que no se evidenció violación de derechos constitucionales y que el fallo impugnado no contradecía precedentes establecidos, por lo que se declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "contrato",
+    "arrendamiento",
+    "incendio",
+    "resolución",
+    "Código Civil",
+    "prueba",
+    "daños",
+    "obligaciones"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-10_S0238_E16-1048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324325-0238-10423-2023-16-1048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.054498"
+}

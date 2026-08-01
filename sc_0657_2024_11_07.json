@@ -1,0 +1,24 @@
+{
+  "id": 27251,
+  "numero": "0657",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Carmen Elena Giménez Romero, quien alegaba desorden procesal en un juicio penal en su contra. La Sala, tras analizar la solicitud, determinó que no tenía competencia para conocer del caso, ya que se trataba de una causa penal que debía ser atendida por la Sala de Casación Penal. En consecuencia, declinó el conocimiento del asunto a dicha sala.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos",
+    "justiciables",
+    "desorden procesal",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0657_E23-1141.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338653-0657-71124-2024-23-1141.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.454630"
+}

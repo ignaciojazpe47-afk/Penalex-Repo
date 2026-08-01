@@ -1,0 +1,24 @@
+{
+  "id": 50280,
+  "numero": "47",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara procedente la acción de amparo interpuesta por Ramón José Escalona Camacho contra la decisión del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Segundo Circuito de la Circunscripción Judicial del Estado Portuguesa, que había declarado con lugar la solicitud de Regulación de Competencia. La Sala argumenta que el tribunal que conoció del caso no era competente por la materia, ya que la controversia se relaciona con actividades agrarias, lo que implica que debe ser conocida por un tribunal agrario. Se anulan las actuaciones realizadas en el proceso civil y se ordena remitir el expediente al tribunal agrario correspondiente para su conocimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "regulación de competencia",
+    "jurisdicción agraria",
+    "derechos constitucionales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Regulación de Competencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S47_E16-0620.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196335-47-23217-2017-16-0620.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.285071"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 45949,
+  "numero": "0226",
+  "fecha": "2018-03-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 13 de marzo de 2018, declaró sin lugar la apelación interpuesta por la abogada Marys Isabel Rojas de Tovar, en representación de Eduardo José Rodríguez Díaz, contra la decisión del Tribunal Sexagésimo Segundo Superior del Trabajo que había declarado inadmisible la acción de amparo constitucional. La acción de amparo se fundamentaba en la alegación de violaciones a derechos constitucionales en el acto de remate de un inmueble, donde se argumentaba que los créditos laborales debían tener preferencia sobre los créditos hipotecarios. Sin embargo, la Sala concluyó que el privilegio de los créditos laborales no se extendía a bienes gravados con hipoteca, y que el Banco del Tesoro, como acreedor hipotecario, no estaba obligado a prestar caución para participar en el remate.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "remate",
+    "derechos laborales",
+    "privilegio de créditos",
+    "Banco del Tesoro"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra acto de remate",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-13_S0226_E17-0260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208662-0226-13318-2018-17-0260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.675935"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27014,
+  "numero": "0500",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia aclara de oficio la sentencia N° 901, ratificando la firmeza del fallo dictado el 19 de octubre de 2016, que condenó a Carlos Julio Yeraldo Pulgar a 30 años de prisión por abuso sexual. Se establece que no procede recurso de apelación ni de casación contra esta decisión, lo que conlleva la nulidad de actos procesales posteriores, salvo los relacionados con la ejecución de la sentencia. La decisión busca salvaguardar la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "casación",
+    "pena",
+    "abuso sexual",
+    "niños",
+    "tutela judicial",
+    "sentencia",
+    "derecho penal"
+  ],
+  "titulo": "Aclaratoria de la sentencia N° 901 dictada el 9 de noviembre de 2017",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0500_E17-0232.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338388-0500-301024-2024-17-0232.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.473971"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 65534,
+  "numero": "527",
+  "fecha": "2015-07-27",
+  "anio": 2015,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Improcedente",
+  "ponente": "ELSA JANETH GÓMEZ MORENO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara improcedente la solicitud de extradición pasiva del ciudadano Álvaro Enrique Marín Vázquez, quien es venezolano por nacimiento. La decisión se fundamenta en el artículo 69 de la Constitución de la República Bolivariana de Venezuela, que prohíbe la extradición de nacionales. A pesar de la improcedencia, se insta al Ministerio Público a continuar con el conocimiento y juzgamiento de los hechos objeto de la solicitud de extradición, en virtud de la gravedad del delito de tráfico de estupefacientes que se le imputa en España.",
+  "palabras_clave": [
+    "extradición",
+    "tráfico de estupefacientes",
+    "nacionalidad",
+    "Venezuela",
+    "España"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición pasiva del ciudadano Álvaro Enrique Marín Vázquez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2015-07-27_S527_E15-142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/julio/180101-527-27715-2015-E15-142.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:33.655208"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 12336,
+  "numero": null,
+  "fecha": "2002-05-13",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia de la Sala Electoral que había declarado con lugar una acción de amparo constitucional interpuesta por ciudadanos contra la Comisión Electoral de la Universidad Central de Venezuela. La Sala Constitucional determinó que la decisión de la Sala Electoral era inconstitucional, ya que interpretó erróneamente los derechos a la igualdad y a la participación política establecidos en la Constitución. La Sala anula la decisión de la Sala Electoral y ordena que se reponga la causa para que se dicte una nueva sentencia conforme a los lineamientos establecidos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "universidad",
+    "elecciones"
+  ],
+  "titulo": "Revisión de sentencia sobre amparo constitucional en elecciones universitarias",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_4ad1d74bbb2d2bd1e99e4f9aef106293_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.437102"
+}

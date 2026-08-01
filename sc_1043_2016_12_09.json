@@ -1,0 +1,24 @@
+{
+  "id": 61059,
+  "numero": "1043",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 10 de diciembre de 2015 por el Juzgado Superior del Trabajo, que había declarado con lugar un recurso de apelación en un caso de cobro de prestaciones sociales. El solicitante, Frank Luis Agreda Marín, argumentó errores jurídicos y falta de motivación en la decisión del tribunal inferior. La Sala encontró que efectivamente se habían vulnerado derechos fundamentales como la tutela judicial efectiva y el debido proceso, lo que llevó a declarar la nulidad de la sentencia impugnada y a ordenar un nuevo pronunciamiento por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "prestaciones sociales"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1043_E16-0584.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193627-1043-91216-2016-16-0584.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.584228"
+}

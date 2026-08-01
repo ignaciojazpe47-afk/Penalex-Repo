@@ -1,0 +1,24 @@
+{
+  "id": 17825,
+  "numero": "0529",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Vestalia Rafaela Tovar Medina, en representación de Raicy De Jesús Araujo, por la presunta omisión de pronunciamiento de la Sala Político Administrativa. Se argumenta que no es posible intentar una acción de amparo contra la omisión de pronunciamiento de ninguna de las Salas del Tribunal Supremo de Justicia, dado que este es el máximo órgano jurisdiccional del país.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Tribunal Supremo de Justicia",
+    "prohibición",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0529_E25-1353.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355518-0529-13526-2026-25-1353.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.889654"
+}

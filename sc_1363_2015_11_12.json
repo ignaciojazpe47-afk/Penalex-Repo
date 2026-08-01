@@ -1,0 +1,23 @@
+{
+  "id": 67301,
+  "numero": "1363",
+  "fecha": "2015-11-12",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo que declaró con lugar la apelación interpuesta por el demandado, José Ernesto Torres Zambrano, y consideró que se configuró un fraude procesal, declarando inexistente el proceso y nulas todas las actuaciones. La parte demandante, Mirna Aloida Lara, solicitó la revisión de esta decisión, argumentando que no se le garantizó el derecho a la defensa y que la sentencia vulneró el debido proceso. Sin embargo, la Sala concluyó que no hubo violación de derechos constitucionales y que la decisión del juzgado fue ajustada a derecho.",
+  "palabras_clave": [
+    "fraude procesal",
+    "revisión",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia por fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-12_S1363_E15-0854.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182759-1363-121115-2015-15-0854.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:50.543361"
+}

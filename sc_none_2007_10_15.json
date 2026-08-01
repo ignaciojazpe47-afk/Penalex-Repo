@@ -1,0 +1,23 @@
+{
+  "id": 3410,
+  "numero": null,
+  "fecha": "2007-10-15",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a un amparo constitucional interpuesto por Jesús Ramón Soto Méndez, declaró con lugar la apelación contra una sentencia que había declarado improcedente su demanda. El demandante alegó la ilegalidad del cobro de derechos de registro por parte de la Oficina Subalterna de Registro del Municipio El Hatillo, argumentando que no existía norma legal que sustentara dicho cobro, lo que vulneraba su derecho a la propiedad y el principio de legalidad tributaria. La Sala, al analizar el caso, concluyó que la exigencia de pago de un tributo no establecido en la ley era contraria a la Constitución.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos de registro",
+    "legalidad tributaria",
+    "propiedad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra cobro de derechos de registro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-10-15_PoliticoAdmin_07_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.108450"
+}

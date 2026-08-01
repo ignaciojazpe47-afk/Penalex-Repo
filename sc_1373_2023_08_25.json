@@ -1,0 +1,23 @@
+{
+  "id": 31997,
+  "numero": "1373",
+  "fecha": "2023-08-25",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 25 de agosto de 2023, declaró sin lugar la apelación interpuesta por la abogada Milagros Nava Pineda, actuando como defensora privada del ciudadano Arles Sánchez Paz. La apelación se basó en la inadmisibilidad de la acción de amparo constitucional, la cual fue declarada por la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure el 7 de marzo de 2023, argumentando que no existía una amenaza inmediata a los derechos constitucionales del demandante.\n\nLa Corte de Apelaciones fundamentó su decisión en que la Jueza de Ejecución había cumplido con sus deberes legales al informar al Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz sobre la extinción de la pena del ciudadano Arles Sánchez Paz, manteniendo la medida cautelar de privación de libertad hasta que se materializara la entrega al país requirente. La Sala Constitucional ratificó que la acción de amparo no era procedente, ya que la amenaza a los derechos del demandante no era inmediata ni realizable.\n\nFinalmente, la Sala Constitucional confirmó la decisión de la Corte de Apelaciones, estableciendo que la responsabilidad de concluir el proceso de extradición recaía en el Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz, y no en el órgano jurisdiccional que conoció del caso.",
+  "palabras_clave": [
+    "amparo",
+    "extradición",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-25_S1373_E23-0570.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328580-1373-25823-2023-23-0570.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.210322"
+}

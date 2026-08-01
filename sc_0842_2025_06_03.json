@@ -1,0 +1,26 @@
+{
+  "id": 20133,
+  "numero": "0842",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 3 de junio de 2025, declaró competente para conocer de la acción de amparo interpuesta por Luis Alberto Pino en representación de Rosario del Carmen Hernández Rojas. La acción fue presentada contra una decisión del Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del estado Guárico, que había declarado inadmisible un recurso de casación. La Sala determinó que la parte actora había abandonado el trámite al no realizar ninguna actuación procesal durante más de seis meses, lo que llevó a la terminación del procedimiento por abandono de trámite y a la imposición de una multa a la parte actora por dicha inactividad.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "casacion",
+    "inmotivado",
+    "derechos_constitucionales",
+    "justicia",
+    "niños_y_adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0842_E24-0685.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344412-0842-3625-2025-24-0685.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.312226"
+}

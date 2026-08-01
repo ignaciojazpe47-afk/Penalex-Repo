@@ -1,0 +1,26 @@
+{
+  "id": 24278,
+  "numero": "0150",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Simón José Arrieta Quintero, defensor de Arquímedes Antonio Carrasco Gallardo, contra la decisión de la Corte de Apelaciones del estado Zulia que declaró sin lugar un recurso de apelación. La Sala consideró que la acción de amparo era improcedente in limine litis, ya que no se cumplían los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "competencia",
+    "jurisprudencia",
+    "constitucional",
+    "procedencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0150_E23-0898.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332659-0150-20224-2024-23-0898.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.557179"
+}

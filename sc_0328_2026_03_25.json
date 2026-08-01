@@ -1,0 +1,26 @@
+{
+  "id": 16357,
+  "numero": "0328",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró no ha lugar la solicitud de revisión presentada por Carlos Venancio Minotti Muñoz, presidente de la sociedad mercantil Multiservicios Gran Prix C.A., contra la sentencia n° 263 de la Sala de Casación Civil. La revisión se fundamentó en la supuesta vulneración de principios constitucionales relacionados con la expectativa plausible y la tutela judicial efectiva, en el contexto de un juicio por cumplimiento de contrato de seguro y daños y perjuicios contra Seguros Guayana C.A.\n\nLa Sala consideró que la Sala de Casación Civil actuó conforme a los parámetros establecidos por el ordenamiento jurídico y no incurrió en ninguna interpretación contraria a criterios normativos o jurisprudenciales. Se concluyó que la caducidad de la acción fue correctamente declarada, dado que transcurrió el plazo de un año desde el rechazo del siniestro hasta la presentación de la demanda.\n\nFinalmente, la Sala Constitucional reafirmó que la revisión no constituye una tercera instancia, sino una potestad extraordinaria para garantizar la uniformidad de criterios constitucionales, y en este caso, no se evidenció ninguna violación a derechos fundamentales ni a la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "caducidad",
+    "indemnización",
+    "contrato de seguro",
+    "justicia",
+    "derechos",
+    "interpretación",
+    "normativa"
+  ],
+  "titulo": "Revisión de sentencia sobre caducidad de acción en contrato de seguro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0328_E25-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354308-0328-25326-2026-25-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.565161"
+}

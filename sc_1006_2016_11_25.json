@@ -1,0 +1,22 @@
+{
+  "id": 60707,
+  "numero": "1006",
+  "fecha": "2016-11-25",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia surgido entre el Tribunal Superior Primero de Protección de Niños, Niñas y Adolescentes y el Tribunal Primero de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes, en relación a una acción de amparo constitucional interpuesta por Hamilton Silva López. La acción fue motivada por la sentencia dictada el 10 de febrero de 2016, que declaró parcialmente con lugar un aumento de obligación de manutención a favor de los hijos del demandante.\nLa Sala determinó que el Tribunal Primero de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes era el competente para conocer de la acción de amparo, ya que la decisión impugnada emanó de un tribunal inferior. Se destacó la importancia de seguir el procedimiento establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que la acción debe ser interpuesta ante el tribunal superior inmediato al que dictó el acto presuntamente lesivo.\nFinalmente, se ordenó remitir el expediente a la Unidad de Recepción y Distribución de Documentos del Circuito Judicial de Protección de Niños, Niñas y Adolescentes para su distribución, reafirmando la competencia del tribunal de primera instancia en este caso.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "obligación de manutención"
+  ],
+  "titulo": "Conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-25_S1006_E16-0473.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193150-1006-251116-2016-16-0473.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.608001"
+}

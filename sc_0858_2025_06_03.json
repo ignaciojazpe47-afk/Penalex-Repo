@@ -1,0 +1,25 @@
+{
+  "id": 20149,
+  "numero": "0858",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "SUSPENDER",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 3 de junio de 2025, se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Carlos Manuel Guillermo Padrón en representación de Bader Guillermina González Dager. La solicitud se fundamenta en la alegación de que la sentencia N° 000343, dictada el 13 de junio de 2024 por la Sala de Casación Civil, incurrió en vicios que afectan derechos constitucionales esenciales, como el derecho a la defensa y el debido proceso.\n\nLa Sala declaró su competencia para conocer la solicitud y decidió suspender los efectos de la sentencia impugnada, ordenando la remisión del expediente original del juicio de inquisición de paternidad. Se enfatizó la importancia de garantizar la tutela judicial efectiva y se acordó la suspensión de los efectos del fallo hasta que se decida el fondo de la revisión constitucional.\n\nFinalmente, se ordenó a la Secretaría de la Sala que practique la notificación de la presente sentencia en forma telefónica, cumpliendo con lo dispuesto en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poderes cautelares",
+    "lesiones constitucionales",
+    "medida cautelar",
+    "orden público",
+    "interpretación constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0858_E25-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344428-0858-3625-2025-25-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.307829"
+}

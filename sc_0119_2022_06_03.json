@@ -1,0 +1,25 @@
+{
+  "id": 34989,
+  "numero": "0119",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Juan Carlos Pérez Serafín en representación de Wilmer Antonio Zambrano Cuello, debido a la inepta acumulación de pretensiones contra el Juez de Primera Instancia y la Fiscalía del Ministerio Público. La Sala argumenta que las pretensiones deben ser interpuestas de forma independiente ante los tribunales competentes, ya que la acumulación de demandas contra distintos agraviantes resulta incompatible.",
+  "palabras_clave": [
+    "amparo",
+    "pruebas",
+    "debido proceso",
+    "tutela judicial",
+    "inconstitucionalidad",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0119_E19-0767.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316883-0119-3622-2022-19-0767.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.413134"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 26773,
+  "numero": "0374",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Jesús Fernando Mendoza, en representación de los ciudadanos condenados por el Juzgado Tercero de Primera Instancia en Función de Juicio del Circuito Judicial Penal del estado Carabobo. La solicitud se basa en la condena de trece años de prisión por el delito de trato cruel, pero se inadmite por no presentar copia certificada del fallo cuya revisión se solicita, incumpliendo así con los requisitos establecidos por la ley.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "motivacion",
+    "pruebas",
+    "sentencia",
+    "derechos_fundamentales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0374_E22-0161.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338055-0374-231024-2024-22-0161.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.336478"
+}

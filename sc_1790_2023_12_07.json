@@ -1,0 +1,24 @@
+{
+  "id": 33456,
+  "numero": "1790",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción innominada de naturaleza constitucional interpuesta por el Tribunal de la Jurisdicción Especial Indígena, anulando la decisión que absolvió a HÉCTOR JOSÉ SOLANO SOLANO por abuso sexual a una niña. Se ordena continuar el juicio en la jurisdicción ordinaria, enfatizando que los delitos de violencia de género deben ser juzgados por tribunales especializados, independientemente de la condición indígena del acusado. La sentencia establece un carácter vinculante sobre la competencia de la jurisdicción especial en materia de género.",
+  "palabras_clave": [
+    "jurisdicción indígena",
+    "violencia de género",
+    "abuso sexual",
+    "niña indígena",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la competencia de la jurisdicción especial indígena en delitos de violencia de género",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1790_E17-1100.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331325-1790-71223-2023-17-1100.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.480731"
+}

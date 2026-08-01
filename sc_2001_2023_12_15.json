@@ -1,0 +1,26 @@
+{
+  "id": 33854,
+  "numero": "2001",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por Frank Bautista García Díaz, quien alegó violaciones a sus derechos al debido proceso y libre tránsito por parte del Tribunal Primero de Control del Estado Monagas. La Sala determinó su competencia para conocer del caso y ordenó a la Presidencia del Circuito Judicial Penal de Monagas que informara sobre el estado procesal del expediente relacionado con el imputado.\n\nEn la decisión, se destaca la necesidad de que el Tribunal de origen remita un informe detallado sobre el estado del proceso y se advierte sobre las sanciones por incumplimiento. La Sala, al considerar los argumentos presentados, decidió declarar con lugar la acción de amparo, ordenando las medidas pertinentes para garantizar los derechos del accionante.\n\nFinalmente, se establece que el Tribunal Supremo de Justicia actuará en nombre de la República Bolivariana de Venezuela, reafirmando su autoridad y competencia en la materia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "tribunales",
+    "justicia",
+    "competencia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S2001_E22-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331971-2001-151223-2023-22-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.428530"
+}

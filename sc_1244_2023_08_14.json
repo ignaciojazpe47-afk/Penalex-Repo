@@ -1,0 +1,24 @@
+{
+  "id": 32173,
+  "numero": "1244",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Impropio",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible la solicitud de revisión constitucional interpuesta por Alexis José Coronel Roche y Miguel Antonio Prieto Narváez, en relación a la inhabilitación de María Corina Machado. La decisión se fundamenta en que la solicitud no se dirige contra un acto jurisdiccional, sino contra una decisión administrativa de la Contraloría General de la República. La Sala enfatiza que la revisión constitucional solo es procedente en casos de sentencias firmes de tribunales.",
+  "palabras_clave": [
+    "recurso de revisión",
+    "competencia",
+    "actos jurisdiccionales",
+    "derechos fundamentales",
+    "control constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1244_E23-0722.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328993-1244-14823-2023-23-0722.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.864841"
+}

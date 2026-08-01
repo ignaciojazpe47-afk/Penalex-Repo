@@ -1,0 +1,25 @@
+{
+  "id": 29718,
+  "numero": "0250",
+  "fecha": "2023-04-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer del amparo constitucional interpuesto por la ciudadana Mary Flor Bueno, representada por el abogado Carlos César Moreno Bethermint, contra una sentencia del Tribunal Superior en lo Civil, Mercantil y del Tránsito de Miranda. Sin embargo, se determina que ha habido abandono del trámite por parte de la accionante, dado que no se realizaron actuaciones procesales válidas durante más de seis meses desde la última presentación en noviembre de 2018.\nLa Sala establece que la inactividad de la parte actora indica una falta de interés en obtener la tutela de los derechos alegados, lo que lleva a declarar terminado el procedimiento. Además, se impone una multa a la parte accionante por la cantidad de dos mil bolívares, que deberá ser pagada a favor de la Tesorería Nacional, y se ordena la notificación correspondiente de esta decisión.\nFinalmente, se concluye que no es necesario pronunciarse sobre la medida cautelar solicitada, dado el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "abandonos",
+    "multas",
+    "tutela",
+    "derechos",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre amparo constitucional por abandono de trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0250_E18-0745.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324337-0250-11423-2023-18-0745.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.048042"
+}

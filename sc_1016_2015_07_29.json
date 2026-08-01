@@ -1,0 +1,23 @@
+{
+  "id": 65523,
+  "numero": "1016",
+  "fecha": "2015-07-29",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la acción de amparo interpuesta por Carlos Alberto Viafara Márquez contra el segundo acto de remate realizado por el Tribunal Primero de los Municipios Palavecino y Simón Planas. Se determinó que el Tribunal Superior del Circuito de Protección de Niños, Niñas y Adolescentes había declarado inadmisible la acción de amparo, argumentando que el apelante no agotó las vías judiciales ordinarias. Sin embargo, la Sala encontró que el Tribunal de Protección había actuado fuera de su competencia al declinar el caso a un Tribunal de Municipio, lo que afectó el orden público constitucional.\n\nLa Sala anuló el auto del Tribunal de Protección y todos los actos posteriores, ordenando que el expediente fuera remitido a un Tribunal de Primera Instancia en funciones de ejecución. Además, se declaró el decaimiento de la acción de amparo debido a la nulidad de los actos jurisdiccionales previos. Finalmente, se hizo un llamado de atención a los jueces involucrados para que respeten las disposiciones sobre competencia en materia de protección de niños, niñas y adolescentes.",
+  "palabras_clave": [
+    "amparo",
+    "remate",
+    "manutención",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-29_S1016_E14-0329.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/180070-1016-29715-2015-14-0329.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:09.013267"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33242,
+  "numero": "1745",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la acción de amparo interpuesta por Loraims Danila Guatume Mejías, quien alegó violaciones a sus derechos constitucionales en un proceso de resolución de contrato de venta. La decisión se fundamentó en que la demandante había optado por recurrir a vías judiciales ordinarias, lo que hacía inadmisible la acción de amparo. La Sala confirmó que el recurso de apelación presentado por la demandante fue tempestivo, pero no procedente debido a que existían recursos ordinarios que debieron ser agotados antes de acudir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "resolución de contrato",
+    "fraude procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1745_E21-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330991-1745-41223-2023-21-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.160935"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 36887,
+  "numero": "0823",
+  "fecha": "2022-10-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Moisés Cabrera Castillo en representación de Pedro Victor Réquiz Cisneros y Ever Contreras, contra la decisión de la Sala N° 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación fue considerada tempestiva, pero se determinó que la acción de amparo no era admisible debido a que los demandantes no habían agotado las vías judiciales ordinarias antes de recurrir al amparo.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "derechos",
+    "constitucionales",
+    "proceso penal",
+    "recursos",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-24_S0823_E20-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320205-0823-241022-2022-20-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.094294"
+}

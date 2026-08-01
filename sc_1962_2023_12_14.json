@@ -1,0 +1,25 @@
+{
+  "id": 33815,
+  "numero": "1962",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "NO ACEPTA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de diciembre de 2023, no acepta la remisión en consulta de la decisión del Tribunal Primero de Primera Instancia de Juicio del Trabajo de Anzoátegui, que declaró la inexistencia de desacato a una sentencia de amparo. La Sala ordena devolver el expediente al tribunal de origen y que se deje transcurrir el lapso de apelación correspondiente. Se destaca que la decisión no reúne los extremos necesarios para ser consultada por la Sala Constitucional.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "jurisdicción",
+    "trabajo",
+    "consulta",
+    "sanciones"
+  ],
+  "titulo": "Decisión sobre desacato en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1962_E23-0148.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331932-1962-141223-2023-23-0148.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.438320"
+}

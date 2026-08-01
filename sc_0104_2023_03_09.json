@@ -1,0 +1,27 @@
+{
+  "id": 29106,
+  "numero": "0104",
+  "fecha": "2023-03-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Denny Paúl Escalante Soto, quien había solicitado la admisión de una acción de amparo constitucional. La acción fue declarada inadmisible por el Juzgado Nacional Contencioso Administrativo de la Región Centro Occidental, lo que motivó la apelación. La Sala confirmó la decisión del juzgado de origen, argumentando que el apelante no cumplió con los requisitos legales establecidos para la admisión de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "competencia",
+    "recurso",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-09_S0104_E19-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323272-0104-9323-2023-19-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.339911"
+}

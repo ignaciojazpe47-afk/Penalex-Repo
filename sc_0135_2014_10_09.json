@@ -1,0 +1,24 @@
+{
+  "id": 29396,
+  "numero": "0135",
+  "fecha": "2014-10-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Procedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los ciudadanos Lilibeth Teresa Fernández y Rodolfo José Barboza, representados por el abogado Christian Armando Kühn Hernández, en relación a la protección de derechos e intereses colectivos sobre la pesca del Cangrejo Azul en el Lago de Maracaibo. Se ordenó la notificación a diversas autoridades y se estableció un período de veda de 90 días para la pesca de esta especie, así como la prohibición de la pesca con palangre, permitiendo únicamente el uso de artes de pesca tipo nasa y artesanal.\n\nEn la decisión, se destacó la necesidad de proteger el ambiente y la diversidad biológica, así como la importancia de la actividad pesquera para la comunidad local. La Sala también ordenó a las instituciones competentes que informen sobre el impacto de la pesca con palangre y la sustentabilidad de la explotación del cangrejo azul, enfatizando la urgencia de garantizar el equilibrio ambiental y la protección de los derechos de los pescadores.\n\nFinalmente, se establecieron medidas para garantizar el cumplimiento de la decisión y se ordenó la remisión de información sobre la modificación de las normas técnicas de ordenamiento para la pesca artesanal del cangrejo azul, en atención a la situación de fragilidad del recurso hidrobiológico.",
+  "palabras_clave": [
+    "Cangrejo Azul",
+    "Pesca",
+    "Medida Cautelar",
+    "Amparo",
+    "Derechos Colectivos"
+  ],
+  "titulo": "Decisión sobre la medida cautelar en la pesca del Cangrejo Azul",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0135_E12-1007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323796-0135-20323-2023-12-1007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:11.315187"
+}

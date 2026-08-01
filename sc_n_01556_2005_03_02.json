@@ -1,0 +1,23 @@
+{
+  "id": 3230,
+  "numero": "Nº 01556",
+  "fecha": "2005-03-02",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 01556 de la Sala Político Administrativa, que había declarado parcialmente con lugar un recurso contencioso administrativo sobre la jubilación del ciudadano Héctor Augusto Serpa Arcas. La Sala Constitucional determinó que la interpretación de la seguridad social y jubilación realizada por la Sala Político Administrativa era errada, afectando el derecho a la jubilación del recurrente. Se ordenó al Ministerio Público asumir el pago de la pensión de jubilación del recurrente, ajustada al último salario del cargo de Fiscal General de la República.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión constitucional",
+    "seguridad social",
+    "Fiscal General"
+  ],
+  "titulo": "Revisión de sentencia sobre jubilación de ex-Fiscal General",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2005-03-02_PoliticoAdmin_05.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.523150"
+}

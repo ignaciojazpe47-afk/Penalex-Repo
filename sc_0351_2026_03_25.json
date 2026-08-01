@@ -1,0 +1,23 @@
+{
+  "id": 16900,
+  "numero": "0351",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por Carlos Villarroel en representación de Rómulo José Soto Piñero. Sin embargo, se determina que la acción es inadmisible debido a la falta de representación legal, ya que el abogado no presentó copia certificada del poder que acreditara su representación. La Sala enfatiza que es necesario demostrar la representación de manera fehaciente para poder ejercer la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "representación legal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0351_E25-0556.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354345-0351-25326-2026-25-0556.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.555224"
+}

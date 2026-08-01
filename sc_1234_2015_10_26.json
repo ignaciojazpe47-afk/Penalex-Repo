@@ -1,0 +1,24 @@
+{
+  "id": 66832,
+  "numero": "1234",
+  "fecha": "2015-10-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 167, declaró con lugar el recurso contencioso administrativo de nulidad interpuesto por la ciudadana Ilse Noema del Coromoto Noguera Contreras, anulando el auto decisorio emitido por la Contraloría General de la República. La Sala consideró que la notificación de los actos administrativos debe cumplir con los requisitos establecidos en la Ley Orgánica de Procedimientos Administrativos para garantizar el debido proceso y la defensa. En consecuencia, se ordenó a la Sala Político-Administrativa emitir una nueva decisión considerando el criterio establecido en esta sentencia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contraloría",
+    "debido proceso",
+    "nulidad",
+    "prescripción"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-26_S1234_E15-0965.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182131-1234-261015-2015-15-0965.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.446722"
+}

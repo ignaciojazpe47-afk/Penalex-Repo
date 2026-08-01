@@ -1,0 +1,24 @@
+{
+  "id": 44006,
+  "numero": "0311",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0717, declara con lugar la solicitud de revisión constitucional presentada por la sociedad mercantil New World Business Corporation, C.A. contra la decisión N° RC.000246 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La Sala concluye que el fallo impugnado infringió el derecho a la defensa y no consideró pruebas relevantes que demostraban la falta de cualidad de la parte actora, así como la autorización para la explotación de minerales no metálicos por parte del Instituto Autónomo de Ferrocarriles del Estado.\n\nLa decisión anula el fallo de la Sala de Casación Civil y ordena emitir un nuevo pronunciamiento, enfatizando que la explotación de minerales no metálicos es de dominio público y que los derechos de propiedad sobre estos no corresponden a particulares. La Sala reafirma la importancia de la normativa en materia minera y la necesidad de respetar los derechos constitucionales en el proceso judicial.\n\nFinalmente, se destaca que la Sala Constitucional busca contribuir a la uniformidad en la interpretación de los principios constitucionales, asegurando que se respeten los derechos de las partes involucradas en el proceso judicial.",
+  "palabras_clave": [
+    "recurso de casación",
+    "sentencia",
+    "daños y perjuicios",
+    "competencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión constitucional de la decisión N° RC.000246",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0311_E18-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307176-0311-16819-2019-18-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.381134"
+}

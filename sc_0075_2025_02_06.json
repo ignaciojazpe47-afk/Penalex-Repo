@@ -1,0 +1,26 @@
+{
+  "id": 18279,
+  "numero": "0075",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión de una sentencia firme dictada por el Juzgado Segundo de Primera Instancia en lo Civil y Mercantil del Estado Aragua. La solicitud fue presentada por el ciudadano William Jacinto Liendo Pernia, representado por la abogada Carmen Julia Villegas Zapata, en relación a un caso de retracto legal interpuesto por Pablo José Randazzo Quiroz. La Sala declara su competencia para conocer la solicitud y ordena la remisión de información adicional necesaria para la resolución del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial",
+    "derecho a la defensa",
+    "arrendamiento",
+    "retracto legal",
+    "competencia",
+    "sentencia firme"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia firme",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0075_E24-0205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341337-0075-7225-2025-24-0205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.563087"
+}

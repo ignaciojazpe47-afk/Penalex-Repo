@@ -1,0 +1,27 @@
+{
+  "id": 23833,
+  "numero": "2053",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por la sociedad mercantil Administradora Escandinava, C.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito, que había declarado sin lugar el recurso de apelación y confirmado la perención de la instancia. La Sala consideró que la decisión del tribunal inferior vulneró los derechos constitucionales de la parte actora al no considerar adecuadamente las gestiones realizadas para la citación de los demandados y la homologación de un convenio previo.\nLa Sala anuló la sentencia impugnada y ordenó la reposición de la causa, instruyendo a otro juzgado superior para que emita un nuevo fallo sobre la apelación ejercida. Se destacó que la perención breve no debía aplicarse dado que la parte actora había cumplido con sus obligaciones procesales, lo que demuestra su interés en continuar el proceso.\nFinalmente, se reafirmó la importancia de garantizar el debido proceso y la tutela judicial efectiva, evitando la extinción de procesos por omisiones que no afectan la sustancia del derecho a la defensa.",
+  "palabras_clave": [
+    "perención",
+    "amparo",
+    "debido proceso",
+    "tutela efectiva",
+    "contrato",
+    "arrendamiento",
+    "jurisdicción",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2053_E25-0246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351866-2053-101225-2025-25-0246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.744433"
+}

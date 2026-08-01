@@ -1,0 +1,24 @@
+{
+  "id": 32341,
+  "numero": "1468",
+  "fecha": "2023-10-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por la sociedad mercantil Ruedas Hernández y Ortega Inversiones, C.A. (RHOINCA) en relación con el desorden procesal causado por el Tribunal Décimo de Primera Instancia Estadal y Municipal en Funciones de Control del Circuito Judicial Penal del Estado Carabobo. Se ordenó la remisión del expediente y la suspensión de las actuaciones procesales en el mismo, así como la prohibición de zarpe e inmovilización del buque MT LEANDER, hasta que se resuelva el fondo del asunto.\n\nLa decisión se fundamenta en la violación de garantías constitucionales del debido proceso y la tutela judicial efectiva, destacando que el tribunal de instancia había revocado decisiones previas sin justificación adecuada. La Sala enfatiza la importancia de mantener el equilibrio en las expectativas de las partes y la necesidad de evitar injusticias en el proceso judicial.\n\nFinalmente, se decreta la suspensión de los efectos de la sentencia dictada el 7 de febrero de 2023, que levantó medidas cautelares sobre el buque, reafirmando la competencia de la Sala Constitucional para conocer del caso.",
+  "palabras_clave": [
+    "avocamiento",
+    "honorarios profesionales",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en el caso de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-17_S1468_E23-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329418-1468-171023-2023-23-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.387938"
+}

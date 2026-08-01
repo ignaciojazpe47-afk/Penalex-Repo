@@ -1,0 +1,25 @@
+{
+  "id": 30251,
+  "numero": "0470",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite en la presente acción de amparo constitucional.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo interpuesta por Valentino Raffaele Crocetta Yanuario contra la sentencia del Juzgado Superior que declaró con lugar un recurso de apelación. Se establece que la falta de actuación en el proceso por más de seis meses se considera abandono del trámite, lo que lleva a la terminación del procedimiento. Además, se impone una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "abandonode trámite",
+    "interés procesal",
+    "multa",
+    "derechos fundamentales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por abandono del trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0470_E22-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325091-0470-15523-2023-22-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.042137"
+}

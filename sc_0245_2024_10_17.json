@@ -1,0 +1,26 @@
+{
+  "id": 26629,
+  "numero": "0245",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Enzo Yrene Riccardi García, en relación a un fallo del Juzgado Segundo de Primera Instancia Agrario del Estado Guárico. La solicitud se basa en la impugnación de una sentencia que ordenó la partición de una comunidad hereditaria, alegando irregularidades en el proceso. La Sala, tras evaluar la solicitud, decidió ordenar al juzgado remitente que envíe todas las actas del expediente para un análisis más exhaustivo.",
+  "palabras_clave": [
+    "partición",
+    "herencia",
+    "derechos",
+    "constitucionalidad",
+    "debido proceso",
+    "justicia",
+    "agricultura"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en caso de partición de comunidad hereditaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0245_E21-0050.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337811-0245-171024-2024-21-0050.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.069153"
+}

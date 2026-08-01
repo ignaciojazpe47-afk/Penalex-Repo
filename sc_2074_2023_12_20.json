@@ -1,0 +1,22 @@
+{
+  "id": 33927,
+  "numero": "2074",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Marco Asuaje en representación de Jorge Luis Hernández, contra la decisión del Juzgado Superior Primero en lo Civil, que declaró inadmisible la acción de amparo. La Sala confirmó la inadmisibilidad, argumentando que el abogado no presentó el poder necesario para actuar en nombre del apelante, lo que constituye una falta de legitimación. La apelación fue considerada sin lugar, reafirmando la necesidad de cumplir con los requisitos legales para la presentación de acciones de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimación"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2074_E22-0925.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332044-2074-201223-2023-22-0925.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.686318"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 41216,
+  "numero": "0056",
+  "fecha": "2020-03-19",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto N° 4.145, que prorroga el Estado de Excepción y Emergencia Económica en Venezuela. Se argumenta que el Ejecutivo Nacional tiene la facultad de adoptar medidas excepcionales ante situaciones de gravedad que amenazan el orden constitucional y la seguridad de la Nación. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y declara que el mencionado decreto es constitucional.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "derechos humanos",
+    "poder ejecutivo",
+    "competencia",
+    "decreto"
+  ],
+  "titulo": "Decisión sobre la constitucionalidad del Decreto N° 4.145",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-03-19_S0056_E20-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/309858-0056-19320-2020-20-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.132379"
+}

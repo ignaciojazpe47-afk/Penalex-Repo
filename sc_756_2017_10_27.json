@@ -1,0 +1,23 @@
+{
+  "id": 54192,
+  "numero": "756",
+  "fecha": "2017-10-27",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la demanda de amparo constitucional interpuesta por el abogado Ángel Vázquez Márquez, en representación de la empresa Distribuidora KTDC, C.A. La decisión se fundamenta en la violación de derechos constitucionales, específicamente el derecho a la defensa y el debido proceso, al haberse decretado una medida de embargo sin que mediara solicitud expresa de la parte actora. La Sala concluye que el tribunal de primera instancia actuó fuera de su competencia al acordar dicha medida cautelar, lo que generó un quebrantamiento del orden procesal.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Medida de Embargo",
+    "Derecho a la Defensa",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre medida de embargo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S756_E17-0079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204551-756-271017-2017-17-0079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:58.565815"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 38024,
+  "numero": "1165",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la sociedad mercantil Tecnología Smartmatic de Venezuela, C.A. contra la sentencia Nro. 062 de la Sala de Casación Social, que había declarado con lugar el recurso de casación interpuesto por el ciudadano Fernando Jodra Trillo. La Sala Constitucional determinó su competencia para conocer la solicitud y ordenó la acumulación de la presente revisión con otra solicitud anterior, buscando evitar decisiones contradictorias y garantizando la celeridad procesal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "Sala de Casación Social",
+    "Tecnología Smartmatic",
+    "Fernando Jodra Trillo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1165_E21-0066.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321999-1165-141222-2022-21-0066.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.152389"
+}

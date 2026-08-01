@@ -1,0 +1,25 @@
+{
+  "id": 38994,
+  "numero": "0275",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional de Freddy Antonio Contreras, quien alegó temor a ser despojado de su vivienda por familiares. La Sala, tras considerar el contexto de estado de alarma por la pandemia de COVID-19, decidió que la acción de amparo debía ser ratificada personalmente, ya que fue interpuesta por correo electrónico. Al no cumplirse con este requisito, la Sala declaró la solicitud inadmisible.",
+  "palabras_clave": [
+    "acceso a la justicia",
+    "amparo constitucional",
+    "mediación",
+    "conciliación",
+    "internet",
+    "ratificación"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Freddy Antonio Contreras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0275_E21-0017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312576-0275-9721-2021-21-0017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.163696"
+}

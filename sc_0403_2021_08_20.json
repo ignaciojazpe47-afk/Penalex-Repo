@@ -1,0 +1,25 @@
+{
+  "id": 39366,
+  "numero": "0403",
+  "fecha": "2021-08-20",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por INVERSIONES VALDAPANA C.A. contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y Tránsito del Estado Lara. La solicitud se fundamentó en la existencia de una tercería maliciosa que buscaba retrasar la ejecución de una sentencia favorable a la sociedad mercantil. La Sala concluyó que no se configuró el fraude procesal denunciado y que la decisión del juzgado superior debía ser firme.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "infracciones",
+    "jurisprudencia",
+    "decisión judicial",
+    "principios constitucionales",
+    "fraude procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-20_S0403_E19-0274.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/313110-0403-20821-2021-19-0274.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.732181"
+}

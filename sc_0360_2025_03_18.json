@@ -1,0 +1,25 @@
+{
+  "id": 18888,
+  "numero": "0360",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento, por abandono del trámite",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por el abogado Antonio José Guerrero Araujo en representación de Manuel Da Rocha Ribeiro. La acción se fundamenta en la nulidad de una decisión de la Corte de Apelaciones que había decretado el sobreseimiento de la causa. Sin embargo, se determina que la parte actora no ha mostrado interés en continuar con el proceso, lo que se califica como abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa a la parte actora.",
+  "palabras_clave": [
+    "inmotivación",
+    "sobreseimiento",
+    "derecho a la defensa",
+    "debido proceso",
+    "presunción de inocencia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0360_E22-0800.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342391-0360-18325-2025-22-0800.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.728188"
+}

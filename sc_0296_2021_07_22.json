@@ -1,0 +1,23 @@
+{
+  "id": 39095,
+  "numero": "0296",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por la ciudadana Irma Michailos de Frangogiannis, en relación a la causa penal contra Gregorio Caravasile Frangogiannis. Se alegó la violación del orden público constitucional y el derecho a la tutela judicial efectiva, debido a que el Juzgado de Control había decretado el sobreseimiento de la causa sin permitir la intervención de la víctima. La Sala ordenó la remisión del expediente y la suspensión de la causa penal, así como la paralización de la investigación por parte de la Fiscalía.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial efectiva",
+    "sobreseimiento",
+    "derechos de la víctima"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0296_E19-0628.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312750-0296-22721-2021-19-0628.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.757194"
+}

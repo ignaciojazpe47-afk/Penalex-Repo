@@ -1,0 +1,23 @@
+{
+  "id": 22266,
+  "numero": "1606",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de revisión constitucional presentada por José Rodrigo Rodríguez Morales. La solicitud se originó tras la decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Carabobo, que había declarado sin lugar un recurso de apelación interpuesto por Jesús Humberto Rodríguez Morales. La Sala consideró que existían vicios procesales que afectaban el debido proceso y la tutela judicial efectiva, lo que llevó a la decisión de restablecer el acceso a la vivienda de la demandante, Blanca Rosa Rodríguez Morales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1606_E18-0805.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348723-1606-151025-2025-18-0805.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.758667"
+}

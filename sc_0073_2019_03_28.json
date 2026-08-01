@@ -1,0 +1,25 @@
+{
+  "id": 42480,
+  "numero": "0073",
+  "fecha": "2019-03-28",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto N° 3.779, que prorroga el Estado de Excepción y Emergencia Económica en Venezuela. Se determinó que el Ejecutivo Nacional tiene la competencia para dictar tales medidas en situaciones extraordinarias que afectan la seguridad y el orden constitucional del país. La Sala declaró la constitucionalidad del Decreto y nulificó cualquier acto de la Asamblea Nacional que pretenda desaprobarlo, reafirmando que sus sentencias tienen efectos erga omnes.",
+  "palabras_clave": [
+    "estado de excepción",
+    "emergencia económica",
+    "constitucionalidad",
+    "derechos humanos",
+    "poder ejecutivo",
+    "medidas excepcionales"
+  ],
+  "titulo": "Sentencia sobre la constitucionalidad del Decreto N° 3.779 del 12 de marzo de 2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-03-28_S0073_E19-0027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/304289-0073-28319-2019-19-0027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.602571"
+}

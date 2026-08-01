@@ -1,0 +1,25 @@
+{
+  "id": 24241,
+  "numero": "0113",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una decisión del Tribunal Primero de Primera Instancia de Mediación, Sustanciación y Ejecución, que había declarado inadmisible una acción de amparo constitucional. La apelación fue presentada por Nelly Moreno Gómez, apoderada de José Alberto Martínez González, en contra de una sentencia que autorizaba judicialmente el viaje de un niño sin su consentimiento expreso. La Sala se declaró competente para conocer del caso y ordenó la remisión de un informe pormenorizado sobre el procedimiento de autorización judicial para viajar.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "niños",
+    "derechos",
+    "jurisdicción",
+    "protección",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0113_E23-1088.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332622-0113-19224-2024-23-1088.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.562825"
+}

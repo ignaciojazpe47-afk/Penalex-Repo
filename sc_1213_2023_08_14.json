@@ -1,0 +1,23 @@
+{
+  "id": 34102,
+  "numero": "1213",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1178, declaró parcialmente con lugar la acción de amparo constitucional interpuesta por los ciudadanos Judith Carolina Rangel González, Luis Manuel Rangel González y un adolescente contra la Sociedad Mercantil ‘Collisión Center C.A’. La decisión ordena la restitución inmediata del vehículo objeto de la disputa, reconociendo la violación del derecho al debido proceso por parte de la agraviante al no acatar la orden de entrega del vehículo. Se establece que no se impondrá carga económica a los agraviados por el tiempo que el vehículo estuvo en custodia del estacionamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho de propiedad",
+    "debido proceso",
+    "restitución de bienes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1213_E22-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328413-1213-14823-2023-22-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.866783"
+}

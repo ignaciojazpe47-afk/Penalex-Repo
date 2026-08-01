@@ -1,0 +1,22 @@
+{
+  "id": 30758,
+  "numero": "0706",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono de trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Pepita Valdemir de López contra una sentencia del Juzgado Superior en lo Civil, Mercantil y Tránsito de Anzoátegui. La acción se fundamentó en la alegación de violaciones a derechos constitucionales en el proceso de apelación de una sentencia que declaró inadmisible una acción de cumplimiento de contrato de arrendamiento. La Sala, tras revisar el expediente, determinó que la parte actora había abandonado el trámite al no realizar ninguna actuación en más de seis meses, lo que llevó a declarar terminado el procedimiento por abandono de trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonado",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0706_E16-0955.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325977-0706-9623-2023-16-0955.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.422790"
+}

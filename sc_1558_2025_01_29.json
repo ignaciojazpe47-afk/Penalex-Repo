@@ -1,0 +1,22 @@
+{
+  "id": 22125,
+  "numero": "1558",
+  "fecha": "2025-01-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-000023 de la Sala de Casación Civil, que había anulado actuaciones procesales por incompetencia. Se determinó que la Sala de Casación Civil no valoró adecuadamente las pruebas y vulneró el derecho a ser juzgado por el juez natural, al considerar que la competencia era agraria. La Sala Constitucional declaró con lugar la revisión, anulando la sentencia de la Sala de Casación Civil y ordenando un nuevo pronunciamiento sobre el recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incompetencia",
+    "derecho a ser juzgado"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° RC-000023",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1558_E20-0073.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348304-1558-61025-2025-20-0073.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.806528"
+}

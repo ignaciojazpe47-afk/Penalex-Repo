@@ -1,0 +1,24 @@
+{
+  "id": 48259,
+  "numero": "0609",
+  "fecha": "2018-08-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 16-0847, resolvió la acción de amparo interpuesta por varios ciudadanos contra un acto administrativo del Instituto Nacional de Tierras. La decisión del Juzgado Superior Agrario de declarar la nulidad del acto administrativo fue confirmada, y se ordenó la reposición del procedimiento administrativo correspondiente. Además, se mantuvieron medidas cautelares para proteger la actividad agrícola de los demandantes mientras se sustancia el procedimiento administrativo. La Sala destacó la importancia de garantizar los derechos de propiedad y el debido proceso en el contexto agrario.",
+  "palabras_clave": [
+    "amparo",
+    "tierras",
+    "agricultura",
+    "derechos de propiedad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo contra acto administrativo del Instituto Nacional de Tierras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-10_S0609_E16-0847.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/301184-0609-10818-2018-16-0847.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.660827"
+}

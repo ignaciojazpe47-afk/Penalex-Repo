@@ -1,0 +1,24 @@
+{
+  "id": 59090,
+  "numero": "711",
+  "fecha": "2016-08-11",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 11 de agosto de 2016, declaró improcedente la acción de amparo interpuesta por Francisco Javier Pérez Alarcón contra la decisión del Juzgado Superior en lo Civil, Mercantil y Tránsito de Zulia, que había confirmado la demanda de desalojo presentada por Rita del Carmen Rodríguez. La Sala argumentó que el Juzgado Superior actuó dentro de su competencia y no incurrió en violaciones al debido proceso ni a la defensa, ya que la decisión se basó en la falta de pago del canon de arrendamiento y en la naturaleza del contrato de arrendamiento, que se había convertido en indeterminado por tácita reconducción.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "arrendamiento",
+    "constitucional",
+    "TSJ"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-11_S711_E16-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/190100-711-11816-2016-16-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:00.026960"
+}

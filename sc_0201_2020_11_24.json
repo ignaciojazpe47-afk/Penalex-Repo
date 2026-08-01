@@ -1,0 +1,23 @@
+{
+  "id": 41765,
+  "numero": "0201",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Tecnología Smartmatic de Venezuela, C.A. contra la decisión del Juzgado Superior Octavo que declaró sin lugar la recusación contra la jueza Karla González Mundaraín. La Sala consideró que la decisión impugnada no vulneró los derechos a la defensa y al debido proceso de la parte accionante. Además, se impuso una multa a la parte actora por abandono del trámite, dado que no se realizaron actos procesales durante más de seis meses. Finalmente, se declaró el abandono del procedimiento y se negó la homologación del desistimiento presentado por la parte actora.",
+  "palabras_clave": [
+    "amparo",
+    "recusación",
+    "debido proceso",
+    "multa"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Tecnología Smartmatic de Venezuela, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0201_E17-0682.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310807-0201-241120-2020-17-0682.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.404870"
+}

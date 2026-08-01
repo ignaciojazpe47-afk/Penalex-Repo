@@ -1,0 +1,25 @@
+{
+  "id": 26885,
+  "numero": "0417",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Nisal Koutiche Naeim, quien impugnó una decisión del Juzgado Superior Estadal de lo Contencioso Administrativo. La solicitud fue inadmisible debido a la falta de legitimación procesal del solicitante, quien no había actuado como demandante, demandado ni tercero en el juicio original. La Sala declaró su competencia para conocer del asunto, pero determinó que no se cumplían los requisitos necesarios para la admisión de la revisión.",
+  "palabras_clave": [
+    "transacción",
+    "debido proceso",
+    "derecho a la defensa",
+    "nulidad",
+    "tutela judicial",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0417_E23-1121.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338189-0417-241024-2024-23-1121.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.314706"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 27415,
+  "numero": "0738",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 10 de enero de 2023, que ordenaba la restitución internacional de un menor a su padre en Argentina. La solicitante, madre del niño, alegó violaciones a sus derechos y al interés superior del niño, argumentando que la decisión no consideró el contexto de violencia de género y la corta edad del menor. La Sala declaró con lugar la revisión, anulando la sentencia original y estableciendo que la restitución no era procedente debido a la falta de pruebas sobre el riesgo que podría enfrentar el niño.",
+  "palabras_clave": [
+    "restitución internacional",
+    "custodia",
+    "interés superior del niño",
+    "violencia de género"
+  ],
+  "titulo": "Revisión de sentencia sobre restitución internacional de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0738_E23-0170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338846-0738-131124-2024-23-0170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.031579"
+}

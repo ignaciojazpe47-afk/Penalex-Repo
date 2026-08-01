@@ -1,0 +1,26 @@
+{
+  "id": 32269,
+  "numero": "1423",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Martín Maximiliano García Valdez, en representación de la Asociación Civil YMCA de Caracas, contra el Ejecutivo Municipal de los Teques. La Sala determina que el Síndico Procurador Municipal no es un alto funcionario público según la legislación aplicable, lo que impide a esta Sala conocer del caso. Se declina el conocimiento del asunto a un Juzgado Superior Estadal de la Jurisdicción Contencioso-Administrativa de la Región Capital para que se pronuncie sobre el desistimiento planteado.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "funcionarios",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1423_E22-0293.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329298-1423-111023-2023-22-0293.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.405012"
+}

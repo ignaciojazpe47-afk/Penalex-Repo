@@ -1,0 +1,22 @@
+{
+  "id": 36191,
+  "numero": "0560",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 416 el 2 de agosto de 2022, en la que se abordó un caso de amparo constitucional relacionado con el incumplimiento de un mandamiento de amparo por parte de Cervecería Polar, C.A. La decisión establece que todos los tribunales deben seguir un procedimiento específico para la ejecución de mandamientos de amparo constitucional, abandonando una consulta previa establecida en una sentencia anterior. La Sala ordenó la remisión del expediente al juzgado de origen para continuar con el procedimiento de ejecución del mandamiento de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "ejecución"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0560_E20-0184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319217-0560-12822-2022-20-0184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.647223"
+}

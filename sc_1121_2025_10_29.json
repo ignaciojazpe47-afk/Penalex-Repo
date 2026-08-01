@@ -1,0 +1,26 @@
+{
+  "id": 20920,
+  "numero": "1121",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 29 de octubre de 2025, declaró con lugar la solicitud de revisión constitucional interpuesta por el abogado Gustavo Adolfo Rodríguez Chacín, en representación de Luis Carmelo Mendoza Fuentes. Se anuló la sentencia del 24 de febrero de 2024, proferida por el Tribunal Primero de Primera Instancia en Función de Juicio, y la del 29 de octubre de 2024, dictada por la Sala Accidental Trigésima Primera de la Corte de Apelaciones, debido a vicios de silencio de pruebas y falta de motivación en las decisiones anteriores. La causa fue reabierta para un nuevo juicio oral y reservado en el Área Metropolitana de Caracas, garantizando así el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "ilogicidad",
+    "incongruencia",
+    "debido proceso",
+    "presunción de inocencia",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia en Materia de Delitos de Violencia Contra la Mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1121_E25-0491.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346028-1121-14725-2025-25-0491.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.743295"
+}

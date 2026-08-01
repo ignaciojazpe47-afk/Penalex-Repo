@@ -1,0 +1,24 @@
+{
+  "id": 38495,
+  "numero": "0120",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión y se declara la nulidad del proceso de desalojo.",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara ha lugar la solicitud de revisión presentada por la sociedad mercantil Etiquetas Sol Sil, C.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil, del Tránsito y Bancario del Área Metropolitana de Caracas, que había declarado procedente una acción de desalojo. Se argumenta que el Poder Judicial carecía de jurisdicción para conocer del caso debido a la existencia de una cláusula arbitral en el contrato de arrendamiento entre las partes. La Sala anula el proceso de desalojo y levanta la medida cautelar que suspendía la ejecución de la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "cosa juzgada",
+    "jurisdicción",
+    "cláusula arbitral"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0120_E17-0930.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311833-0120-16421-2021-17-0930.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.899065"
+}

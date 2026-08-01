@@ -1,0 +1,26 @@
+{
+  "id": 22098,
+  "numero": "1531",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Teresa Herrera Almeida en representación de Luis Beltrán Morillo Carvajal, contra el Juzgado Primero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Miranda. La acción se fundamenta en la presunta omisión de pronunciamiento del juzgado en relación a un amparo incoado por el demandante.\nLa Sala determina que la Corte de Apelaciones del Circuito Judicial Penal es el tribunal competente para conocer de la acción de amparo, dado que el juzgado denunciado es un tribunal de primera instancia en materia penal. Por lo tanto, se declina la competencia a dicho órgano jurisdiccional, ordenando la remisión del expediente correspondiente.\nFinalmente, se ordena la publicación y registro de la decisión, cumpliendo con lo establecido por la ley.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "violencia",
+    "justicia",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre incompetencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1531_E25-0733.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348277-1531-61025-2025-25-0733.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.197010"
+}

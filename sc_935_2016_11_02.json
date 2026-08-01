@@ -1,0 +1,22 @@
+{
+  "id": 60128,
+  "numero": "935",
+  "fecha": "2016-11-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 855 de la Corte Segunda de lo Contencioso Administrativo, que había declarado sin lugar la apelación de la ciudadana Thaimy Rondón Gómez. La actora argumentó que la sentencia no se pronunció sobre el pago de salarios caídos, lo que vulneró su derecho a la tutela judicial efectiva. La Sala constató que efectivamente la Corte Segunda omitió pronunciarse sobre esta pretensión, lo que constituye un vicio de incongruencia positiva.",
+  "palabras_clave": [
+    "revisión",
+    "salarios caídos",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-02_S935_E15-0746.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/191721-935-21116-2016-15-0746.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.954881"
+}

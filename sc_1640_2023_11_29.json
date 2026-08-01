@@ -1,0 +1,23 @@
+{
+  "id": 33131,
+  "numero": "1640",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Dunia Suárez Bolívar, en representación de Antonio José Silveira Hurtado, contra la decisión del Tribunal Superior Agrario que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que existían vías judiciales ordinarias que debían ser agotadas antes de recurrir al amparo constitucional.\nLa acción de amparo fue interpuesta debido a la omisión del Instituto Nacional de Tierras (INTI) en responder a la solicitud de entrega de la Carta de Registro Agrario Simple sobre un lote de terreno. La Sala destacó que el recurso por abstención o carencia es el medio adecuado para exigir el cumplimiento de obligaciones administrativas, y que el amparo constitucional no es un sustituto de los recursos ordinarios.\nFinalmente, la Sala declaró sin lugar el recurso de apelación y confirmó la decisión del Tribunal Superior Agrario, enfatizando la necesidad de seguir los procedimientos establecidos para la protección de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Instituto Nacional de Tierras",
+    "Guárico",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1640_E23-0646.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330807-1640-291123-2023-23-0646.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.995926"
+}

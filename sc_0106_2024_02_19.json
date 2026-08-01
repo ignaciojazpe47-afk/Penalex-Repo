@@ -1,0 +1,23 @@
+{
+  "id": 24234,
+  "numero": "0106",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 19 de febrero de 2024, revisó la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes, que había dictado un fallo el 17 de octubre de 2016. La revisión fue solicitada por Juan Ernesto Rodríguez Mapo, quien argumentó que la sentencia impugnada violaba derechos fundamentales como el debido proceso y la tutela judicial efectiva. La Sala consideró que existían lesiones constitucionales graves y, por lo tanto, decidió suspender los efectos del fallo impugnado hasta que se resuelva el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "niños y adolescentes"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo del Tribunal Superior de Protección de Niños, Niñas y Adolescentes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0106_E19-0613.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332615-0106-19224-2024-19-0613.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.563943"
+}

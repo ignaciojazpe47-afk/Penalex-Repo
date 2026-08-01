@@ -1,0 +1,22 @@
+{
+  "id": 41362,
+  "numero": "0086",
+  "fecha": "2020-08-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Octavo en lo Civil, Mercantil, Tránsito y Bancario, que había declarado improcedente la solicitud de inadmisibilidad de una demanda por ejecución de hipoteca. El abogado Rafael Felipe Suárez Ñáñez, en representación de Inversiones Cachirí, C.A., argumentó que la sentencia incurrió en vicios de motivación contradictoria y en la acumulación inepta de pretensiones. La Sala constató que la decisión de segunda instancia no guardaba coherencia entre su parte motiva y dispositiva, lo que vulneraba el derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "revisión",
+    "ejecución de hipoteca",
+    "motivación contradictoria"
+  ],
+  "titulo": "Revisión de sentencia sobre ejecución de hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-12_S0086_E19-0206.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310011-0086-12820-2020-19-0206.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.112729"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 30000,
+  "numero": "0409",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de abril de 2023, declaró con lugar la solicitud de revisión constitucional interpuesta por los apoderados de Alexander Gustavo Rotondaro Quintero, anulando las sentencias previas que habían autorizado la residencia temporal del menor en Portugal. La decisión se fundamenta en la falta de notificación al padre del menor y la violación de sus derechos a la defensa y al debido proceso, así como el interés superior del niño. Se ordena el inicio del procedimiento de restitución internacional del menor.",
+  "palabras_clave": [
+    "patria potestad",
+    "amparo",
+    "interés superior del niño",
+    "incongruencia",
+    "derechos fundamentales",
+    "jurisdicción ordinaria",
+    "notificación",
+    "proceso civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de autorización de viaje de menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0409_E21-0025.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324679-0409-28423-2023-21-0025.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.805859"
+}

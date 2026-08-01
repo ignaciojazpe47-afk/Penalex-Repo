@@ -1,0 +1,22 @@
+{
+  "id": 23814,
+  "numero": "2034",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de Guillermo Atencio, quien actuó en nombre de su hijo fallecido, pidiendo la revisión de la sentencia dictada el 11 de febrero de 2025, que condenó a Dixon José Pacheco Carabaño a 12 años de prisión por homicidio calificado. El solicitante argumentó que la pena debía ser mayor, considerando la gravedad del delito. Sin embargo, la Sala determinó que no existían infracciones a principios constitucionales y que la decisión del juzgado no contradecía sentencias previas, por lo que declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "homicidio",
+    "revisión constitucional",
+    "sentencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia condenatoria por homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2034_E25-0960.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351847-2034-101225-2025-25-0960.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.747938"
+}

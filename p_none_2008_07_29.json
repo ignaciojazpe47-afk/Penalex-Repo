@@ -1,0 +1,24 @@
+{
+  "id": 8020,
+  "numero": null,
+  "fecha": "2008-07-29",
+  "anio": 2008,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Eladio Ramón Aponte Aponte",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa declaró sin lugar el recurso de apelación interpuesto por la Defensora Pública en contra de la sentencia que condenó a José Ramón Sandoval por ocultamiento ilícito de sustancias estupefacientes. La defensa interpuso recurso de casación argumentando violaciones a derechos fundamentales y errores en la calificación jurídica de los hechos. La Sala de Casación Penal del TSJ, al revisar el caso, encontró que la Corte de Apelaciones había interpretado erróneamente los artículos del Código Orgánico Procesal Penal, lo que conllevó a la nulidad de las sentencias anteriores y a la orden de un nuevo juicio.",
+  "palabras_clave": [
+    "casación",
+    "penal",
+    "ocultamiento ilícito",
+    "sustancias estupefacientes",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de Casación sobre ocultamiento ilícito de sustancias estupefacientes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2008_RamonAponte_25.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:54.638472"
+}

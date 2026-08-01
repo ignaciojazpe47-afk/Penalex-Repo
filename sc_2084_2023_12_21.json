@@ -1,0 +1,22 @@
+{
+  "id": 33937,
+  "numero": "2084",
+  "fecha": "2023-12-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Tribunal Segundo de Primera Instancia de Juicio del Trabajo de Aragua, relacionado con un desacato del mandamiento de amparo constitucional por parte de Pepsi Cola Venezuela, C.A. Los ciudadanos demandantes alegan el incumplimiento de un fallo anterior. La Sala, tras revisar el expediente, decide solicitar la remisión inmediata del mismo al juzgado de origen para pronunciarse sobre el caso.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Pepsi Cola Venezuela"
+  ],
+  "titulo": "Sentencia sobre desacato del mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2084_E23-0559.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332054-2084-211223-2023-23-0559.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.843669"
+}

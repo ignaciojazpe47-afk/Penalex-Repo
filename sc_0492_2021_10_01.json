@@ -1,0 +1,23 @@
+{
+  "id": 39759,
+  "numero": "0492",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO ACEPTA LA DECLINATORIA DE COMPETENCIA",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado René Alberto Degraves Almarza, se pronunció sobre la declinatoria de competencia realizada por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil, Tránsito y Constitucional del Estado Trujillo en relación a una acción de amparo constitucional interpuesta por Luis Eduardo Cárdenas Rincón. El tribunal consideró que la acción no cumplía con los requisitos para ser considerada como una protección de intereses colectivos o difusos, ya que se trataba de un presunto desconocimiento de la autoridad del accionante en su comunidad.\n\nLa decisión del TSJ fue no aceptar la declinatoria de competencia y ordenar la remisión del expediente al Juzgado Primero de Primera Instancia en lo Civil, Mercantil, Tránsito y Constitucional del Estado Trujillo, argumentando que este tribunal era el competente para conocer del asunto. La sentencia se dictó el 1 de octubre de 2021, reafirmando la importancia de la competencia en materia de amparo constitucional.\n\nEl tribunal destacó que las acciones denunciadas eran presuntas violaciones de derechos constitucionales por vías de hecho cometidas por particulares, lo que justifica la intervención del tribunal de primera instancia correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "declinatoria de competencia",
+    "derechos colectivos",
+    "tribunal competente"
+  ],
+  "titulo": "Sentencia sobre declinatoria de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0492_E21-0319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313606-0492-11021-2021-21-0319.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.618399"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35589,
+  "numero": "0386",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 25 de julio de 2022, declaró sin lugar la solicitud de revisión constitucional presentada por Rudi André Martín contra la decisión de la Sala de Casación Civil del 9 de octubre de 2020, que había declarado sin lugar una demanda por fraude procesal. La Sala consideró que no existían errores grotescos en la interpretación de la norma constitucional y que la revisión no contribuiría a la uniformidad jurisprudencial.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "fraude_procesal",
+    "constitucion",
+    "registro_civil",
+    "actos_judiciales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0386_E21-0608.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318147-0386-25722-2022-21-0608.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.777939"
+}

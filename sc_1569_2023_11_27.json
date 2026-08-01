@@ -1,0 +1,22 @@
+{
+  "id": 33000,
+  "numero": "1569",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la abogada Conny García en representación de la ciudadana Nilda Elena Naranjo Avendaño, respecto a la sentencia N° 429 dictada por la Sala de Casación Civil. La Sala determinó su competencia para conocer de la solicitud, considerando que la decisión impugnada era susceptible de revisión constitucional. Se ordenó la remisión del expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 429",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1569_E21-0483.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330624-1569-271123-2023-21-0483.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.423427"
+}

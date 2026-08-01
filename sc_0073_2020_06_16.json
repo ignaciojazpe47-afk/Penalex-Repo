@@ -1,0 +1,26 @@
+{
+  "id": 41230,
+  "numero": "0073",
+  "fecha": "2020-06-16",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la demanda de interpretación de los artículos 31 y 32 de la Ley Orgánica contra la Delincuencia Organizada y Financiamiento al Terrorismo, presentada por el Fiscal General de la República, Tarek Willians Saab. La Sala declinó el conocimiento del asunto a la Sala de Casación Penal, que es la competente para tratar normas de naturaleza penal. La decisión se fundamenta en la falta de atribución de la Sala Constitucional para interpretar leyes que no sean de rango constitucional.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "desacato",
+    "separacion de poderes",
+    "asamblea nacional",
+    "poder ejecutivo",
+    "derechos",
+    "constitucion"
+  ],
+  "titulo": "Sentencia sobre la interpretación de la Ley Orgánica contra la Delincuencia Organizada y Financiamiento al Terrorismo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-16_S0073_E20-0205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309875-0073-16620-2020-20-0205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.120390"
+}

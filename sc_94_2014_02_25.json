@@ -1,0 +1,24 @@
+{
+  "id": 69285,
+  "numero": "94",
+  "fecha": "2014-02-25",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo de habeas data interpuesta por Román Eduardo Calderón Cotte contra la Universidad de los Andes. La acción buscaba la supresión de información relacionada con antecedentes penales y la nulidad de un acto administrativo que revisaba su ingreso como profesor. La Corte Segunda de lo Contencioso Administrativo declinó la competencia a la Sala Constitucional, que aceptó la declinatoria y declaró inadmisible la demanda por inepta acumulación de pretensiones, dado que las acciones eran incompatibles en cuanto a sus procedimientos y competencias.",
+  "palabras_clave": [
+    "habeas data",
+    "amparo constitucional",
+    "nulidad",
+    "derechos fundamentales",
+    "información personal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-02-25_S94_E13-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/161570-94-25214-2014-2013-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:11.349828"
+}

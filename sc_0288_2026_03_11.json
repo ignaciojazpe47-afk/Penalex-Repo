@@ -1,0 +1,22 @@
+{
+  "id": 17423,
+  "numero": "0288",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sobreseido",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por la abogada Linda Daisire de Los Ríos Rattia en defensa de Pedro Manuel Molina Sosa, quien fue declarado en contumacia por el Tribunal Sexto de Control de Barinas. La defensa argumenta que el proceso penal está viciado por irregularidades y solicita la nulidad de la declaratoria de contumacia y la orden de aprehensión. La Sala Constitucional, tras revisar el caso, considera que el amparo fue declarado inadmisible debido a la existencia de una vía ordinaria ya utilizada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "contumacia",
+    "irregularidades procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0288_E25-1015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353593-0288-11326-2026-25-1015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.579827"
+}

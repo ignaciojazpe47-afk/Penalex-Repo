@@ -1,0 +1,22 @@
+{
+  "id": 36202,
+  "numero": "0571",
+  "fecha": "2022-08-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió un expediente relacionado con una acción de amparo constitucional presentada por Carlos Andrés Peña Campos contra Cervecería Polar C.A. por incumplimiento de una sentencia anterior. La Sala decidió, con carácter vinculante, ordenar la ejecución del mandamiento de amparo, reponiendo al trabajador a su puesto de trabajo y ordenando el pago de salarios caídos. Además, se estableció que todas las causas similares deben ser remitidas a los tribunales correspondientes para su tramitación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Cervecería Polar",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra Cervecería Polar C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0571_E21-0072.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319228-0571-12822-2022-21-0072.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.561023"
+}

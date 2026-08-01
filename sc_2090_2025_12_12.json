@@ -1,0 +1,25 @@
+{
+  "id": 23869,
+  "numero": "2090",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el recurso de apelación interpuesto por el abogado Geybelth Jesús Alfonzo Alfonzo y, tras analizar los argumentos presentados, determina que la acción de amparo constitucional es inadmisible. Se argumenta que los demandantes no agotaron las vías ordinarias para solicitar la revisión de la medida cautelar, lo que lleva a la conclusión de que la decisión de la Corte de Apelaciones fue ajustada a derecho. Finalmente, se confirma la sentencia de inadmisibilidad dictada el 27 de diciembre de 2024.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "derechos humanos",
+    "debido proceso",
+    "defensa",
+    "revisión de medida",
+    "omisión de pronunciamiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2090_E25-0058.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351912-2090-121225-2025-25-0058.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.079009"
+}

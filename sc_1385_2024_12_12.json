@@ -1,0 +1,22 @@
+{
+  "id": 28480,
+  "numero": "1385",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por varias sociedades mercantiles. La apelación se originó tras una decisión del Juzgado Superior que declaró parcialmente con lugar la acción de amparo. La Sala determinó su competencia para conocer el caso y consideró que el recurso de apelación fue presentado dentro del plazo legal establecido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1385_E24-0881.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340499-1385-121224-2024-24-0881.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.817687"
+}

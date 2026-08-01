@@ -1,0 +1,24 @@
+{
+  "id": 58357,
+  "numero": "560",
+  "fecha": "2016-07-11",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Úrsula María Gómez Tenorio y otros, contra una sentencia del Juzgado Superior que había reabierto un proceso de prescripción adquisitiva. La Sala consideró que la decisión del tribunal inferior vulneró el debido proceso y los derechos de defensa de la parte accionante, al permitir la continuación de un juicio que ya había sido declarado con lugar en instancias anteriores. Se ordenó la suspensión temporal de la ejecución de la sentencia impugnada hasta que se dicte una decisión definitiva en el caso.",
+  "palabras_clave": [
+    "amparo",
+    "prescripción adquisitiva",
+    "debido proceso",
+    "fraude procesal",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Prescripción Adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-07-11_S560_E15-1172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/188896-560-11716-2016-15-1172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:03.359568"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23247,
+  "numero": "1903",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Franklym Andrés Rojas Garantón en representación de María Alejandra Mata Muñoz, contra la omisión de pronunciamiento de la Sala Nº 2 de la Corte de Apelaciones del estado Bolívar. La decisión se basa en la falta de pronunciamiento sobre la acción de amparo interpuesta, lo que ha generado una afectación al derecho de acceso a la justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "silencio procesal",
+    "forjamiento de documentos",
+    "investigación penal",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1903_E25-0005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350499-1903-261125-2025-25-0005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.735910"
+}

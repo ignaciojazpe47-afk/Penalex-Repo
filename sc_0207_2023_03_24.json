@@ -1,0 +1,23 @@
+{
+  "id": 29468,
+  "numero": "0207",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Carlos Eduardo Mendoza Veroes en representación de Jhonny Antonio Odreman Farfán y Rafael Ángel Pérez, debido a la falta de legitimidad activa. La Corte de Apelaciones había declarado inadmisible la acción por no cumplir con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala también revoca la sentencia de la Corte de Apelaciones, señalando que la acción de amparo era inadmisible.",
+  "palabras_clave": [
+    "Amparo",
+    "Inadmisible",
+    "Legitimidad activa",
+    "Derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-24_S0207_E21-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323869-0207-24323-2023-21-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.068798"
+}

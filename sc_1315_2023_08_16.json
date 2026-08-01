@@ -1,0 +1,22 @@
+{
+  "id": 34207,
+  "numero": "1315",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 16 de agosto de 2023, declaró sin lugar el recurso de apelación interpuesto por Miguel Ángel Cárdenas Valderrama contra el fallo del Juzgado Superior Primero Agrario que había declarado inadmisible su acción de amparo constitucional. La Sala consideró que el demandante contaba con vías judiciales idóneas para resolver su situación, lo que justificaba la inadmisibilidad del amparo. Además, se enfatizó la importancia de la sustentabilidad ambiental frente a derechos individuales en el contexto agrario.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sustentabilidad",
+    "derechos agrarios"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1315_E19-0477.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328519-1315-16823-2023-19-0477.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.226028"
+}

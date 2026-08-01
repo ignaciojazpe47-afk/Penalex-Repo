@@ -1,0 +1,27 @@
+{
+  "id": 27822,
+  "numero": "1000",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Penal",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1681, declarando sin lugar la apelación interpuesta contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. Se constató que la apelación fue presentada de forma tempestiva y se analizó si la sentencia recurrida se ajustaba a derecho. La Sala determinó que la acción de amparo no era admisible debido a que había cesado la supuesta violación de derechos alegada por el recurrente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "violencia",
+    "mujer",
+    "justicia",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1000_E21-0673.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339313-1000-211124-2024-21-0673.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.147720"
+}

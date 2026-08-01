@@ -1,0 +1,25 @@
+{
+  "id": 37834,
+  "numero": "1120",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La ciudadana Virna Sayegh Karam interpuso una acción de amparo constitucional contra una decisión del Tribunal Superior Tercero del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala Constitucional del TSJ determinó su competencia para conocer la apelación y ordenó la remisión de copias certificadas de las actuaciones relacionadas con la audiencia fijada para el 10 de marzo de 2020. Finalmente, se resolvió que la acción de amparo no procedía, ya que la causa principal había sido resuelta previamente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "niños",
+    "audiencia",
+    "justicia",
+    "protección",
+    "decisión judicial"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1120_E19-0223.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321702-1120-91222-2022-19-0223.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.427484"
+}

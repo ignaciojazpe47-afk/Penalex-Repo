@@ -1,0 +1,26 @@
+{
+  "id": 27924,
+  "numero": "1037",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por los ciudadanos José Alejandro Pérez García y Juan Alcides Caro Pérez contra la decisión del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Portuguesa. La acción fue declarada improcedente in limine litis, ya que se consideró que no se cumplían los requisitos necesarios para su admisibilidad, específicamente en relación al periculum in mora. La Sala reafirmó que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya tomadas por los tribunales inferiores.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "asociaciones",
+    "derecho procesal",
+    "inmotivación",
+    "periculum in mora",
+    "fumus bonis iuris",
+    "ejecución forzosa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1037_E23-1267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339541-1037-271124-2024-23-1267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.486076"
+}

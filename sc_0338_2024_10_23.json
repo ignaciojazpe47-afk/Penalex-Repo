@@ -1,0 +1,25 @@
+{
+  "id": 26737,
+  "numero": "0338",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Carlos Humberto Ramones Noriega en representación de José Geraldo Lameda González, debido a la presunta omisión de pronunciamiento por parte de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La Sala concluye que la falta de pronunciamiento fue subsanada, ya que la Corte emitió decisión sobre el recurso de apelación interpuesto, lo que cesó la violación denunciada de los derechos constitucionales del accionante.\n\nSe destaca que la acción de amparo fue presentada en un contexto donde el demandante había estado privado de libertad y se alegaba una violación de sus derechos a la tutela judicial efectiva. Sin embargo, al haberse dictado pronunciamiento sobre el recurso de apelación, la Sala considera que no hay lugar para continuar con el amparo, lo que lleva a la declaración de inadmisibilidad de la solicitud.\n\nFinalmente, la sentencia es firmada por la magistrada ponente Lourdes Benicia Suárez Anderson y otros magistrados, y se ordena su publicación y archivo del expediente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "denegación de justicia",
+    "derechos humanos",
+    "libertad personal",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0338_E17-0161.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338019-0338-231024-2024-17-0161.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.336732"
+}

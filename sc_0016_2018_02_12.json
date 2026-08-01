@@ -1,0 +1,23 @@
+{
+  "id": 42119,
+  "numero": "0016",
+  "fecha": "2018-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio la decisión del Tribunal Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Lara, que había condenado a varios imputados por estafa continuada. Se determinó que la jueza no cumplió con el procedimiento adecuado al no permitir el acceso al expediente y no informar correctamente a los acusados sobre el procedimiento especial por admisión de los hechos. La Sala declaró la decisión de la jueza como un error judicial inexcusable y anuló la condena, ordenando la celebración de una nueva audiencia preliminar.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "error judicial",
+    "debido proceso",
+    "acceso al expediente"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Sandra Milena Galvis Rozo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0016_E17-1045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303680-0016-12219-2019-17-1045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.429962"
+}

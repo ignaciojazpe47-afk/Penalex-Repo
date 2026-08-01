@@ -1,0 +1,24 @@
+{
+  "id": 65450,
+  "numero": "967",
+  "fecha": "2015-07-23",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por los miembros de la Junta Directiva del Colegio Venezolano de Agentes de la Propiedad Industrial (COVAPI) contra el Vicepresidente de la República y la Ministra del Poder Popular para el Comercio. Los accionantes alegaron la omisión de respuesta a su solicitud de acceso a información relacionada con la reforma de la Ley de Timbres Fiscales, argumentando la violación de su derecho a la información consagrado en la Constitución y en la Convención Interamericana de Derechos Humanos.\n\nLa Sala establece su competencia para conocer de la acción, pero determina que los accionantes no agotaron las vías judiciales ordinarias antes de acudir al amparo, lo que lleva a la inadmisibilidad de su solicitud. Se enfatiza que la acción de amparo no es un recurso sustitutivo de los medios procesales ordinarios y que la falta de respuesta a solicitudes administrativas no justifica el uso del amparo sin haber intentado previamente los recursos disponibles.\n\nFinalmente, la Sala declara que no se proveerá sobre la medida cautelar solicitada, ya que lo accesorio sigue la suerte de lo principal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "acceso a la información",
+    "Ley de Timbres Fiscales",
+    "omisión de respuesta",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra omisión de respuesta a solicitud de información",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-23_S967_E15-0604.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/179974-967-23715-2015-15-0604.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.454923"
+}

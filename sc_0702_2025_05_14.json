@@ -1,0 +1,25 @@
+{
+  "id": 19812,
+  "numero": "0702",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ se pronuncia sobre una acción de amparo constitucional interpuesta por varios ciudadanos contra decisiones de un Juzgado Superior Agrario. Se destaca que el Juzgado había declarado inadmisible una recusación y confirmado una medida de protección. La Sala determina su competencia para conocer del caso y ordena la verificación de la designación de un nuevo juez tras la remoción de la juez que conocía del asunto. Finalmente, se solicita información adicional para decidir sobre el alegado decaimiento del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "juzgados superiores",
+    "competencia",
+    "medida cautelar"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0702_E24-0091.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343777-0702-14525-2025-24-0091.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.718783"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30756,
+  "numero": "0704",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Manuel Assad Brito en representación de Enrique Antonio Guaramato Hernández. La decisión se basa en la falta de presentación de un poder suficiente que acredite la condición de apoderado judicial del demandante. La Sala enfatiza la importancia de cumplir con los requisitos procesales para la admisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "poder judicial",
+    "representación",
+    "inadmision",
+    "justicia",
+    "formalidades procesales"
+  ],
+  "titulo": "Declaratoria de inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0704_E23-0054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325975-0704-9623-2023-23-0054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.406756"
+}

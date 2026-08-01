@@ -1,0 +1,23 @@
+{
+  "id": 3303,
+  "numero": null,
+  "fecha": "2006-05-09",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de nulidad por inconstitucionalidad interpuesto por Exssel Alí Betancourt Orozco contra el artículo 11 de la Ley Orgánica del Poder Electoral. Este artículo otorga a los Rectores del Consejo Nacional Electoral la prerrogativa del antejuicio de mérito, lo cual fue cuestionado por el recurrente al considerar que dicha norma vulnera la Constitución al incluir a funcionarios no contemplados como beneficiarios de este privilegio procesal.\nLa Sala argumenta que la inclusión de los Rectores en el ámbito del antejuicio de mérito es coherente con la autonomía y funciones del Poder Electoral, establecido en la Constitución de 1999. Se concluye que la norma no contraviene la enumeración de altos funcionarios que gozan de esta prerrogativa, por lo que se desestima el recurso de nulidad presentado.\nFinalmente, se ordena la publicación de la decisión en la Gaceta Oficial, reafirmando la importancia de garantizar la independencia y autonomía del Poder Electoral en el ejercicio de sus funciones.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Poder Electoral",
+    "Antejuicio de mérito"
+  ],
+  "titulo": "Sentencia del Tribunal Supremo de Justicia en Sala Constitucional sobre el recurso de nulidad por inconstitucionalidad del artículo 11 de la Ley Orgánica del Poder Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-05-09_CasacionPenal_04.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.499107"
+}

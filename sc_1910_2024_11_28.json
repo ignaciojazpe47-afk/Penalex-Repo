@@ -1,0 +1,26 @@
+{
+  "id": 23395,
+  "numero": "1910",
+  "fecha": "2024-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2024, declaró sin lugar el recurso de apelación interpuesto por el abogado Jesús Natera Velásquez, en representación del ciudadano Antonio Bravo Carrasco, confirmando la inadmisibilidad de la acción de amparo constitucional. La Corte de Apelaciones había declarado inadmisible la acción por falta de acreditación del abogado como defensor privado, al no presentar el acta de juramentación correspondiente.\nLa Sala consideró que el abogado no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a la inadmisibilidad de la acción. Además, se reiteró que la acción de amparo solo puede ejercerse en ausencia de otros medios procesales ordinarios que puedan satisfacer la pretensión del agraviado.\nFinalmente, se hizo un llamado de atención a la Corte de Apelaciones por su proceder en el despacho saneador, sugiriendo que en futuros casos se eviten errores similares en la tramitación de amparos relacionados con derechos fundamentales.",
+  "palabras_clave": [
+    "amparo",
+    "defensor privado",
+    "juramentación",
+    "Corte de Apelaciones",
+    "inadmision",
+    "derechos constitucionales",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1910_E19-0045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350796-1910-281125-2025-19-0045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.481477"
+}

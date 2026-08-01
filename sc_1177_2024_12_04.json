@@ -1,0 +1,25 @@
+{
+  "id": 28126,
+  "numero": "1177",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara no ha lugar la solicitud de revisión constitucional presentada por el abogado Luis Enrique Romero, en representación de los ciudadanos Mario Donato Corrente Rimbaldi y Daniel Leonardo Corrente Alonzo. La solicitud se refiere a una sentencia del 13 de diciembre de 2019, que había declarado sin lugar la apelación interpuesta contra una decisión anterior sobre la oposición a la ejecución de una sentencia de amparo a la posesión.",
+  "palabras_clave": [
+    "interdicto",
+    "posesión",
+    "amparo",
+    "demolición",
+    "sentencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1177_E21-0343.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340016-1177-41224-2024-21-0343.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.038969"
+}

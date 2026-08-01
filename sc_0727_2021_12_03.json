@@ -1,0 +1,24 @@
+{
+  "id": 40602,
+  "numero": "0727",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Rossy Mar Oliveros Prieto, quien alegó la omisión de pronunciamiento del Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Falcón respecto a una apelación. La Sala determinó su incompetencia para conocer del caso y declinó el conocimiento al Juzgado Superior Civil, Mercantil y del Tránsito de la misma circunscripción judicial.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0727_E19-0770.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314967-0727-31221-2021-19-0770.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.739118"
+}

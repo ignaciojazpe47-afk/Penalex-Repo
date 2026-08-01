@@ -1,0 +1,25 @@
+{
+  "id": 46000,
+  "numero": "0273",
+  "fecha": "2018-03-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre su competencia para conocer de una acción de amparo constitucional presentada por el abogado Wilmer José Mujica en representación de tres ciudadanos. La acción fue interpuesta contra una decisión de la Sala Especial Primera de la Corte de Apelaciones que declaró sin lugar un recurso de apelación relacionado con delitos asociados al terrorismo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "justicia",
+    "terrorismo",
+    "decisiones judiciales"
+  ],
+  "titulo": "Sentencia sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0273_E18-0065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208717-0273-14318-2018-18-0065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.840103"
+}

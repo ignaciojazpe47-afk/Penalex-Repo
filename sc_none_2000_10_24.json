@@ -1,0 +1,27 @@
+{
+  "id": 2066,
+  "numero": null,
+  "fecha": "2000-10-24",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "SIN LUGAR",
+  "ponente": "MOISÉS A. TROCONIS VILLARREAL",
+  "resumen": "Los ciudadanos José Gregorio Díaz Figuera y Reina María Guarema de Díaz interpusieron una acción de amparo constitucional contra una sentencia del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito de Miranda, alegando violaciones a sus derechos a la defensa, debido proceso e igualdad procesal. El Juzgado Superior declaró inadmisible la solicitud de amparo, lo que motivó la consulta ante la Sala Constitucional del TSJ. La Sala, tras analizar los argumentos, concluyó que las violaciones denunciadas eran de orden legal y no constitucional, desestimando la acción de amparo y modificando la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "igualdad procesal",
+    "desalojo",
+    "sentencia",
+    "juzgado",
+    "inadmision"
+  ],
+  "titulo": "Amparo Constitucional contra sentencia de Juzgado Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-10-25_Constitucional_00_MoisesA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.723449"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 41476,
+  "numero": "0151",
+  "fecha": "2020-10-20",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC.000138 dictada por la Sala de Casación Civil, que declaró la nulidad absoluta de una decisión de desalojo contra MEGAFARMA, C.A. La parte demandante alegó incumplimiento de pagos de cánones de arrendamiento y cuotas de condominio, mientras que la demandada argumentó haber cumplido con sus obligaciones. La Sala Constitucional determinó que la Sala de Casación Civil había incurrido en vicios de inmotivación y violación de la tutela judicial efectiva al decidir sin reenvío y sin considerar adecuadamente las pruebas presentadas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "nulidad absoluta",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-10-20_S0151_E20-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/310160-0151-201020-2020-20-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.420170"
+}

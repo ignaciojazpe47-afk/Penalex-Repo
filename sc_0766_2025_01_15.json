@@ -1,0 +1,24 @@
+{
+  "id": 19903,
+  "numero": "0766",
+  "fecha": "2025-01-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar la solicitud de revisión constitucional presentada por las representaciones judiciales del ciudadano REINALDO JOSÉ PRADA ORTIZ.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de enero de 2025, declaró no ha lugar la solicitud de revisión constitucional presentada por Reinaldo José Prada Ortiz, quien impugnaba una sentencia que declaró inadmisible la acción de exclusión de un socio de una sociedad anónima. La Sala argumentó que la pretensión de exclusión no está prevista en el Código de Comercio para sociedades anónimas, lo que la hace improponible. Además, se reafirmó la competencia de la Sala para conocer la solicitud de revisión, pero se concluyó que no existían infracciones a la Constitución que justificaran la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "exclusión de socio",
+    "sociedad anónima",
+    "Código de Comercio",
+    "interés jurídico"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre exclusión de socio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0766_E25-0073.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343973-0766-21525-2025-25-0073.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.808836"
+}

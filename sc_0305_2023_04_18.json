@@ -1,0 +1,25 @@
+{
+  "id": 29772,
+  "numero": "0305",
+  "fecha": "2023-04-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Fabián Manuel Cazorla Rodríguez, quien alegó la omisión de pronunciamiento del Tribunal Superior respecto a su apelación. La Sala determinó su competencia para conocer del caso, pero concluyó que la acción era inadmisible debido a la cesación de la violación de derechos constitucionales, ya que el recurso de apelación había sido tramitado.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "violencia",
+    "derechos",
+    "constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0305_E21-0568.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324392-0305-18423-2023-21-0568.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.817042"
+}

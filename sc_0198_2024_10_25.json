@@ -1,0 +1,26 @@
+{
+  "id": 17387,
+  "numero": "0198",
+  "fecha": "2024-10-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Domisiano Castellanos Villamizar contra una decisión que declaró inadmisible su acción de amparo. La Sala determinó su competencia y ordenó a los tribunales inferiores que informaran sobre el estado de la causa penal que se le sigue al demandante por presunta invasión. Se destacó la necesidad de salvaguardar la tutela judicial efectiva y se ordenó la remisión de información adicional para verificar las violaciones constitucionales denunciadas.",
+  "palabras_clave": [
+    "desalojo",
+    "tutela judicial",
+    "producción de alimentos",
+    "invasión",
+    "derechos constitucionales",
+    "proceso penal",
+    "conflicto agrario"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0198_E18-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353461-0198-11326-2026-18-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.490172"
+}

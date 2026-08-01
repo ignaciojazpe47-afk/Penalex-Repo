@@ -1,0 +1,25 @@
+{
+  "id": 17586,
+  "numero": "0161",
+  "fecha": "2025-11-12",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del TSJ decidió sobre la admisibilidad de una acción de amparo constitucional interpuesta por la Fiscal Provisorio, HEYMER PIMENTEL, en contra de una sentencia de la Corte de Apelaciones que declaró sin lugar el efecto suspensivo de una medida cautelar. La acción busca la restitución de la situación jurídica infringida, alegando violaciones al debido proceso y a la tutela judicial efectiva. La Sala consideró que la información presentada no era suficiente para determinar la situación del imputado, Danilo José Díaz Bracho, y ordenó la remisión de copias certificadas del expediente original y de los actos judiciales pertinentes.",
+  "palabras_clave": [
+    "amparo",
+    "homicidio",
+    "medida cautelar",
+    "derechos",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0161_E24-1162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353157-0161-2326-2026-24-1162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.074582"
+}

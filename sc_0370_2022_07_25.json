@@ -1,0 +1,25 @@
+{
+  "id": 35575,
+  "numero": "0370",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara competente para conocer la solicitud de avocamiento presentada por la abogada Auristela Pérez, relacionada con varios expedientes agrarios. Sin embargo, se determina la inadmisibilidad de la solicitud debido a la falta de legitimidad y representación de la abogada, quien no presentó el poder correspondiente que la acreditara para actuar en nombre de otra persona o entidad. La decisión se fundamenta en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos",
+    "debido proceso",
+    "competencia",
+    "constitución",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0370_E21-0408.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318131-0370-25722-2022-21-0408.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.767755"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18283,
+  "numero": "0079",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por los abogados Nelsón Barrios y Annabell Moncada, en representación de Óscar Enrique Moncada Arteta y Thamara Sofía Moncada Chourio, contra la decisión del Tribunal Vigésimo Noveno de Primera Instancia que declaró improcedente la solicitud de falsedad de documentos. La Sala argumenta que la decisión impugnada no es un fallo de mérito definitivamente firme y no pone fin al juicio, por lo que no procede la revisión constitucional.",
+  "palabras_clave": [
+    "improcedencia",
+    "motivación",
+    "falsedad",
+    "constitucionalidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0079_E24-0653.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341341-0079-7225-2025-24-0653.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.552521"
+}

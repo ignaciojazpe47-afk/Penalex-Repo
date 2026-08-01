@@ -1,0 +1,22 @@
+{
+  "id": 23870,
+  "numero": "2091",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió sobre un recurso de amparo constitucional interpuesto por varios ciudadanos contra la juez del Tribunal Segundo de Primera Instancia de Sustanciación, Mediación y Ejecución del Trabajo de Mérida. El recurso fue declarado improcedente in limine litis, ya que se consideró que la parte demandante no había impulsado la ejecución de la sentencia que les favorecía, lo que llevó a la juez a enviar el expediente al archivo judicial por inactividad. La Sala concluyó que no hubo violación de derechos constitucionales y que la decisión del tribunal inferior fue ajustada a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "improcedencia",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2091_E25-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351913-2091-121225-2025-25-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.738496"
+}

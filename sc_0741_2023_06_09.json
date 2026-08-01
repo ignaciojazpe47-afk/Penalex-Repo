@@ -1,0 +1,26 @@
+{
+  "id": 30793,
+  "numero": "0741",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara improcedente la acción de amparo constitucional interpuesta por Willian Simanca Rojas, en representación de Carlos Eduardo Larreal Bracho, contra la sentencia n° 013-22 de la Corte de Apelaciones. La Corte de Apelaciones había declarado inadmisible un recurso de apelación por extemporáneo y ordenado la nulidad de ciertas actuaciones en interés de la ley, lo que generó la acción de amparo. La Sala Constitucional concluye que la decisión de la Corte de Apelaciones fue conforme a derecho y no vulneró principios constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "seguridad_juridica",
+    "principios_procesales",
+    "error_judicial",
+    "inadmision",
+    "corte_de_apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0741_E23-0252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326012-0741-9623-2023-23-0252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.402681"
+}

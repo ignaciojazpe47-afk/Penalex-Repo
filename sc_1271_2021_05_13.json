@@ -1,0 +1,23 @@
+{
+  "id": 28313,
+  "numero": "1271",
+  "fecha": "2021-05-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-000113 de la Sala de Casación Civil, que había declarado con lugar un recurso extraordinario de casación y nulidad de una sentencia anterior. La revisión se fundamentó en alegaciones de violación al debido proceso y derechos constitucionales por parte de la Sala de Casación Civil. La Sala Constitucional determinó que no existían fundamentos suficientes para la revisión y declaró no ha lugar la solicitud de revisión, confirmando la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "debido proceso",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1271_E21-0723.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340229-1271-51224-2024-21-0723.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.880359"
+}

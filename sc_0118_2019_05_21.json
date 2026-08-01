@@ -1,0 +1,25 @@
+{
+  "id": 42869,
+  "numero": "0118",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por Sixto José Romero Blanco contra el fallo del Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Aragua, que había declarado inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamentó en la inepta acumulación de pretensiones, ya que se interpusieron acciones contra dos órganos jurisdiccionales de diferentes categorías, lo que contraviene el artículo 78 del Código de Procedimiento Civil.\nLa Sala reafirmó que la acción de amparo debe ser presentada de forma independiente según los sujetos agraviantes, y que la acumulación de pretensiones de naturaleza diferente y cuyos procedimientos son incompatibles resulta inadmisible. En consecuencia, se confirmó la decisión del Juzgado Superior, manteniendo la inadmisibilidad de la acción de amparo constitucional por inepta acumulación de pretensiones.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "amparo constitucional",
+    "inadmisibilidad",
+    "Código de Procedimiento Civil",
+    "tribunales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0118_E18-0071.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305043-0118-21519-2019-18-0071.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.860548"
+}

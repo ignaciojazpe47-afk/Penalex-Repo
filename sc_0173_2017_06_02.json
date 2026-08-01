@@ -1,0 +1,24 @@
+{
+  "id": 45527,
+  "numero": "0173",
+  "fecha": "2017-06-02",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de aclaratoria presentada por el abogado Raúl Santana Medina en nombre de Raúl Santana Tarbay, debido a que fue interpuesta fuera del lapso establecido por la ley. La solicitud de aclaratoria se refería a una decisión anterior que había declarado inadmisible una acción de amparo constitucional. La Sala argumentó que la aclaratoria no puede ser utilizada para revocar o modificar la sentencia, sino solo para aclarar puntos dudosos o corregir errores materiales.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "oportunidad",
+    "inadmisible"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-16_S0173_E16-1041.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207765-0173-16218-2018-16-1041.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.088806"
+}

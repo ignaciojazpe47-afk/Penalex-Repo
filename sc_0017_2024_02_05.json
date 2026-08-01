@@ -1,0 +1,22 @@
+{
+  "id": 24070,
+  "numero": "0017",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un caso relacionado con el desacato de un mandamiento de amparo constitucional por parte de la sociedad mercantil Cervecería Polar, C.A. La acción fue incoada por el ciudadano Héctor Salazar González, quien alegó que la empresa no cumplió con la sentencia anterior. La Sala decidió solicitar la remisión del expediente al tribunal de instancia para pronunciarse sobre el caso.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Cervecería Polar"
+  ],
+  "titulo": "Sentencia sobre desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0017_E23-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332369-0017-5224-2024-23-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.827809"
+}

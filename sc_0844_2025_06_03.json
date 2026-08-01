@@ -1,0 +1,24 @@
+{
+  "id": 20135,
+  "numero": "0844",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por los ciudadanos Pedro Antonio Del Grosso Zorzetto y otros, contra decisiones del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Segundo Circuito de Portuguesa. Se declaró con lugar la apelación del 6 de mayo de 2024, que había anulado la apertura de un testamento cerrado, y se mantuvieron los efectos de la apertura realizada el 19 de octubre de 2023. La Sala consideró que el Juzgado había actuado fuera de su competencia, vulnerando derechos constitucionales al debido proceso y defensa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "testamento cerrado",
+    "jurisdicción voluntaria",
+    "derechos constitucionales",
+    "due process"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en relación a la apertura de testamento cerrado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0844_E24-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344414-0844-3625-2025-24-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.310658"
+}

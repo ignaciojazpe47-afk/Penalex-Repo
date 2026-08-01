@@ -1,0 +1,25 @@
+{
+  "id": 44609,
+  "numero": "0414",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión planteada. Anula la decisión objeto de revisión. Definitivamente firme la decisión dictada el 23 de abril de 2012.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por la Sala de Casación Civil que había declarado con lugar un recurso de casación interpuesto por la parte demandada, Sete Silvia Albo Lasry, contra una decisión anterior que confirmaba el cumplimiento de un contrato de opción de compra-venta. La Sala Constitucional determinó que la decisión de la Sala de Casación Civil había incurrido en errores de interpretación de la ley y vulneró el derecho a la tutela judicial efectiva de la demandante, Edith María López Gil. En consecuencia, se anuló la decisión recurrida y se declaró firme la sentencia original que ordenaba el cumplimiento del contrato.",
+  "palabras_clave": [
+    "casación",
+    "contrato",
+    "inmuebles",
+    "derechos",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de opción de compra-venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0414_E15-0562.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308342-0414-291119-2019-15-0562.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.829394"
+}

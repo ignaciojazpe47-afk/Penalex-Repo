@@ -1,0 +1,26 @@
+{
+  "id": 34995,
+  "numero": "0126",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000449/2021 de la Sala de Casación Civil, que había declarado inadmisible un recurso de casación. Se argumentó que la Sala de Casación Civil incurrió en un vicio de silencio de prueba al no considerar la cuantía del asunto, que superaba las 3.000 unidades tributarias, lo que permitía el acceso a la casación. La Sala Constitucional decidió anular la sentencia impugnada y reponer la causa al estado de admisión del recurso de casación, garantizando así el derecho de acceso a la justicia del recurrente.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "derechos",
+    "debido proceso",
+    "casación",
+    "jurisdicción",
+    "sentencias"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 000449/2021",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0126_E21-0635.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316890-0126-3622-2022-21-0635.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.414213"
+}

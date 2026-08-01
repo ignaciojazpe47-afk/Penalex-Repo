@@ -1,0 +1,26 @@
+{
+  "id": 21466,
+  "numero": "1326",
+  "fecha": "2025-02-25",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Juan Ernesto Garantón Hernández en representación de José Gaspard Morell, contra el Juzgado Cuadragésimo Primero. La decisión se basa en que el tribunal de primera instancia no incurrió en la denegación de justicia, ya que el demandante no demostró la existencia de las violaciones alegadas a sus derechos constitucionales. Además, se resalta que el proceso penal contra el demandante se encuentra suspendido debido a su falta de estadía a derecho.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "temporalidad",
+    "decisión",
+    "tribunales",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1326_E24-0571.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346988-1326-6825-2025-24-0571.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.753029"
+}

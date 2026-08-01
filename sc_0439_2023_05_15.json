@@ -1,0 +1,25 @@
+{
+  "id": 30220,
+  "numero": "0439",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal y el abandono del trámite en el recurso de colisión de leyes interpuesto por Carlos Brender. Se argumenta que hubo inacción por parte del demandante desde noviembre de 2021 hasta febrero de 2023, lo que evidencia la falta de interés en continuar con el proceso. La decisión se fundamenta en la jurisprudencia que establece que el interés procesal debe mantenerse a lo largo del juicio.",
+  "palabras_clave": [
+    "interés procesal",
+    "abandonos del trámite",
+    "justicia",
+    "jurisprudencia",
+    "acción",
+    "inactividad"
+  ],
+  "titulo": "Sentencia sobre pérdida del interés procesal en recurso de colisión de leyes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0439_E18-0043.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325059-0439-15523-2023-18-0043.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.881792"
+}

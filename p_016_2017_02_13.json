@@ -1,0 +1,23 @@
+{
+  "id": 50100,
+  "numero": "016",
+  "fecha": "2017-02-13",
+  "anio": 2017,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia admitió el recurso de casación interpuesto por la Defensora Pública Tercera Penal en representación de JOSÉ GREGORIO BRITO MORENO, quien había sido condenado por homicidio intencional en grado de complicidad y agavillamiento. La decisión de la Sala Única de la Corte de Apelaciones del Circuito Judicial Penal fue confirmada, pero se alegó falta de motivación en la sentencia, lo que llevó a la admisión del recurso. Se convocó a las partes a una audiencia oral y pública para continuar con el proceso.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "inmotivación",
+    "Delta Amacuro"
+  ],
+  "titulo": "Admisión de recurso de casación en caso de homicidio intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2017-02-13_S016_C16-319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/196029-016-13217-2017-C16-319.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:21.108193"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 44363,
+  "numero": "0331",
+  "fecha": "2019-11-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite la solicitud de avocamiento presentada por Perla Teresa Farías de Eskinazi, representada por la abogada María Alejandra Salazar Noguera, en relación a la causa civil mero declarativa de derechos de autor que cursa ante el Juzgado Sexto de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario. La solicitud se fundamenta en la violación de derechos constitucionales y desórdenes procesales en el expediente AP11-V-2016-1581, donde se denuncia la desaparición de una pieza clave del expediente y la falta de pronunciamiento del tribunal sobre dicha situación.\n\nLa Sala declara su competencia para conocer del caso y ordena la suspensión de la causa civil, así como la prohibición de cualquier actuación procesal hasta que se resuelva la situación del expediente. Se establece un plazo de cinco días para la remisión del expediente al Tribunal Supremo de Justicia, garantizando así el respeto al debido proceso y la tutela judicial efectiva de la solicitante.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "Poder Judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en materia de derechos de autor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-08_S0331_E18-0519.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308030-0331-81119-2019-18-0519.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.386526"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 27204,
+  "numero": "0620",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de noviembre de 2024, confirmó la inadmisibilidad de la acción de amparo constitucional interpuesta por Mario José Nigris León, debido a la inepta acumulación de pretensiones. La apelación fue presentada contra una decisión anterior de la Sala 5 de la Corte de Apelaciones que había declarado inadmisible la acción por considerar que se habían planteado pretensiones incompatibles ante diferentes órganos del sistema de justicia.\nLa Sala Constitucional, al analizar el caso, determinó que el demandante había incurrido en inepta acumulación al intentar cuestionar actuaciones de la Fiscalía y del Tribunal Cuarto en un mismo libelo, lo que no era procedente. Por lo tanto, se declaró sin lugar el recurso de apelación y se confirmó el fallo apelado, reafirmando la competencia de los tribunales para conocer de las acciones de amparo según la naturaleza de los derechos vulnerados.\nFinalmente, la sentencia fue firmada por la Presidenta de la Sala, Tania D'Amelio Cardiet, y la Vicepresidenta, Lourdes Benicia Suárez Anderson, junto con otros magistrados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "derechos fundamentales",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0620_E22-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338603-0620-61124-2024-22-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.458108"
+}

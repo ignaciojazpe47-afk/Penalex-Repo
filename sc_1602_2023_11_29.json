@@ -1,0 +1,22 @@
+{
+  "id": 33093,
+  "numero": "1602",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por los abogados de Franci Valderrama Contreras, quien impugnó la decisión de la Sala Tres de la Corte de Apelaciones que declaró inadmisible su recurso de apelación. La Sala constató que la abogada Gloria Pinho tenía el poder necesario para representar a la demandante, lo que fue ignorado por la Corte de Apelaciones. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se ordenó que otra sala se pronuncie sobre el recurso de apelación interpuesto por Pinho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "lesiones personales",
+    "prescripción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1602_E20-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330769-1602-291123-2023-20-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.007241"
+}

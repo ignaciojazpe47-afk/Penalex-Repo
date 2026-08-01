@@ -1,0 +1,26 @@
+{
+  "id": 32957,
+  "numero": "1526",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Henry Francisco Soto Pérez contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala determinó que hubo abandono del trámite debido a la inactividad del demandante por más de seis meses, lo que llevó a declarar terminado el procedimiento. Además, se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "debido_proceso",
+    "inmotivacion",
+    "apelacion",
+    "violencia_contra_la_mujer",
+    "derechos_humanos",
+    "constitucion",
+    "codigo_organico_procesal_penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1526_E22-0505.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330580-1526-231123-2023-22-0505.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.435870"
+}

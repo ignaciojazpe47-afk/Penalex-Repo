@@ -1,0 +1,25 @@
+{
+  "id": 34181,
+  "numero": "1289",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación de amparo constitucional interpuesto por el abogado Jesús Andrés Duran Romero en representación de CÉSAR LUIS VIÑA BONILLO, contra una decisión de la Corte de Apelaciones que declaró inadmisible el amparo. La Sala determinó su competencia para conocer el caso y ordenó verificar el estado actual de la causa, solicitando información al Circuito Judicial Penal del Estado Monagas sobre la realización de la audiencia de presentación del ciudadano mencionado.",
+  "palabras_clave": [
+    "amparo",
+    "audiencia",
+    "constitucional",
+    "justicia",
+    "derechos",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1289_E21-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328493-1289-15823-2023-21-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.852630"
+}

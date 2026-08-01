@@ -1,0 +1,24 @@
+{
+  "id": 65820,
+  "numero": "1049",
+  "fecha": "2015-08-07",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia del Juzgado Superior Cuarto en lo Civil, Mercantil, Tránsito, Agrario y Bancario del Estado Táchira, que declaró inadmisible un amparo cautelar solicitado por Segundo Rodríguez Orduz. La parte solicitante argumentó que la decisión violaba sus derechos a la tutela judicial efectiva y al amparo constitucional, alegando que el tribunal inferior había confundido el amparo cautelar con medidas cautelares ordinarias, lo que podría despojar a los justiciables de su derecho a la protección de sus derechos constitucionales.\n\nLa Sala, tras analizar los argumentos, concluyó que no existían infracciones graves de interpretación de normas constitucionales y que la decisión del tribunal inferior no contradecía criterios establecidos por la Sala Constitucional. Por lo tanto, se declaró que la revisión solicitada no cumplía con los requisitos necesarios para su procedencia, resultando en la decisión de NO HA LUGAR la solicitud de revisión presentada.\n\nFinalmente, la Sala reafirmó la importancia del amparo constitucional cautelar en la protección de derechos fundamentales, pero determinó que en este caso específico no se justificaba la revisión de la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derechos constitucionales",
+    "Instituto Nacional de Tierras"
+  ],
+  "titulo": "Revisión de sentencia sobre amparo constitucional cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-07_S1049_E15-0592.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180539-1049-7815-2015-15-0592.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:09.000963"
+}

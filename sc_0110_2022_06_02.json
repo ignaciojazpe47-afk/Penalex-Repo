@@ -1,0 +1,25 @@
+{
+  "id": 34974,
+  "numero": "0110",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Gladys Gutiérrez Alvarado, declaró inadmisible la solicitud de revisión constitucional presentada por los abogados de CORPOELEC, en relación a una sentencia del Juzgado Superior que había declarado parcialmente con lugar una demanda de daños y perjuicios. La inadmisibilidad se fundamentó en la falta de presentación de documentos necesarios para verificar la legitimidad de la representación legal de los solicitantes.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "poder",
+    "legitimidad",
+    "documentos",
+    "CORPOELEC"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0110_E20-0424.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316867-0110-2622-2022-20-0424.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.417006"
+}

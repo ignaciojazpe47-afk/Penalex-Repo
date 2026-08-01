@@ -1,0 +1,25 @@
+{
+  "id": 18201,
+  "numero": "0051",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 0380, declara sin lugar el recurso de apelación interpuesto por Raffaele Alterio Hernández contra la decisión del Tribunal Superior Cuarto que declaró inadmisible su acción de amparo constitucional. La Sala concluye que el demandante no agotó las vías ordinarias para impugnar la decisión del tribunal inferior, lo que lleva a la inadmisibilidad del amparo. Además, se resalta que el demandante fue debidamente notificado de la solicitud de autorización de residencia fuera del país de su hija, lo que refuerza la decisión de confirmar la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "amparo constitucional",
+    "vacaciones judiciales",
+    "fraude procesal",
+    "residencia fuera del país",
+    "niños y adolescentes"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0051_E18-0591.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341217-0051-6225-2025-18-0591.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.556497"
+}

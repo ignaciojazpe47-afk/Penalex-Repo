@@ -1,0 +1,25 @@
+{
+  "id": 20811,
+  "numero": "1069",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por el abogado Luis Gerardo Pineda Torres, en representación de varios ciudadanos acusados de delitos penales. La solicitud buscaba que la Sala se avocara al conocimiento de la causa penal identificada con el alfanumérico 1C-14.303-24, que se tramita ante el Tribunal Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Portuguesa. La Sala, tras analizar la solicitud, determinó que no se cumplían los requisitos para ejercer su facultad de avocamiento, declarándose incompetente para conocer del caso y declinando el conocimiento a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "competencia",
+    "justicia",
+    "derechos",
+    "orden público",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1069_E24-0714.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345831-1069-9725-2025-24-0714.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.506208"
+}

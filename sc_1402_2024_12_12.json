@@ -1,0 +1,22 @@
+{
+  "id": 28536,
+  "numero": "1402",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1273, declara con lugar la apelación interpuesta por los ciudadanos José Nicolaz Peñaloza y Juan Agustín Rojas Muñoz, revocando la decisión del Juzgado Superior Tercero del Trabajo que había declarado inadmisible la acción de amparo. Se establece que la decisión del 22 de marzo de 2022, que ordenó la reposición de la causa al estado de celebrar la audiencia de juicio, fue dictada sin notificar a las partes, lo que vulneró el derecho al debido proceso y la tutela judicial efectiva. La Sala ordena la reposición de la causa al Tribunal Cuarto de Primera Instancia para que proceda con las notificaciones necesarias y la celebración de la audiencia oral.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1402_E22-0824.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340559-1402-121224-2024-22-0824.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.824361"
+}

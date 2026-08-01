@@ -1,0 +1,23 @@
+{
+  "id": 17376,
+  "numero": "0447",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia anterior relacionada con un accidente de trabajo que resultó en la muerte de Roberth Jesús Márquez Astudillo. La sentencia original, dictada en 2014, había establecido indemnizaciones que, debido a la inflación y reconversiones monetarias, se volvieron insignificantes para los beneficiarios. La Sala, reconociendo la falta de tutela judicial efectiva, ordenó una nueva experticia para actualizar los montos de indemnización, pero declaró sin lugar la revisión de la sentencia anterior, argumentando que no se evidenciaron infracciones a la Constitución.",
+  "palabras_clave": [
+    "indemnización",
+    "accidente de trabajo",
+    "revisión constitucional",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión de indemnización por accidente de trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0447_E23-0671.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354899-0447-9426-2026-23-0671.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.022131"
+}

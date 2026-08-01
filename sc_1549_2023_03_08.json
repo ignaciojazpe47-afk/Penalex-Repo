@@ -1,0 +1,26 @@
+{
+  "id": 32980,
+  "numero": "1549",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Eurídice Josefina Cardona Liendo contra una sentencia interlocutoria del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de La Guaira. La acción se fundamentó en la alegación de vulneración de derechos constitucionales por parte de la decisión que confirmó una sentencia anterior y ordenó la remisión del expediente al tribunal de origen.\n\nLa Sala declaró su competencia para conocer el caso y ordenó a la Coordinación del Circuito Judicial que recabara el expediente relacionado con la causa principal, instando a la remisión de un informe detallado sobre el estado del mismo. Se enfatizó la importancia de cumplir con la orden impartida, advirtiendo sobre las sanciones por incumplimiento.\n\nFinalmente, la decisión fue firmada por la magistrada ponente y otros magistrados, y se ordenó su publicación y registro.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "niños",
+    "garantías",
+    "unión estable",
+    "proceso",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1549_E23-0094.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330604-1549-241123-2023-23-0094.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.346096"
+}

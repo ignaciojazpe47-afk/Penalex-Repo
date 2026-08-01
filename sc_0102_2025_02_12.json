@@ -1,0 +1,24 @@
+{
+  "id": 18346,
+  "numero": "0102",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la sociedad mercantil Constructora Arza C.A. contra la omisión de pronunciamiento del Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Aragua. La decisión se basa en que el juzgado ya se pronunció sobre el recurso de apelación, cesando así la presunta violación de derechos constitucionales denunciados por la parte accionante.\n\nEl abogado Frannel Alexander Velásquez Hernández, en representación de la sociedad, había solicitado el amparo debido a la falta de respuesta del juzgado respecto a la apelación de una decisión anterior. Sin embargo, al haberse emitido una resolución el 22 de septiembre de 2023, la Sala concluye que no hay fundamento para continuar con el amparo, ya que la situación que motivó la acción ha sido subsanada.\n\nFinalmente, la Sala considera que no es necesario pronunciarse sobre la medida cautelar solicitada, dado que la acción de amparo ha sido declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "honorarios",
+    "debido proceso",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0102_E23-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341435-0102-12225-2025-23-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.539913"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 48196,
+  "numero": "0592",
+  "fecha": "2018-08-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00899 dictada el 3 de agosto de 2017, que había declarado desistido el procedimiento en la demanda de nulidad interpuesta por Inversiones Productivas, C.A. (INPROCA). La abogada Mónica Poleo Serrano, en representación de INPROCA, alegó violaciones a los derechos de defensa y debido proceso debido a la falta de notificación sobre la audiencia de juicio, lo que generó la paralización del proceso por casi dos años.\n\nLa Sala Constitucional determinó que la actuación de la Sala Político Administrativa fue lesiva a los derechos constitucionales de la parte demandante, ya que no se garantizó su derecho a ser notificada sobre la reanudación del juicio. En consecuencia, se declaró con lugar la solicitud de revisión, se anuló la sentencia objeto de revisión y se ordenó a la Sala Político Administrativa reponer la causa al estado de fijar una nueva audiencia, asegurando la notificación de todas las partes involucradas.\n\nFinalmente, la Sala consideró inoficioso pronunciarse sobre la medida cautelar solicitada, dado su carácter accesorio, y se ordenó la publicación y registro del fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad",
+    "INPROCA"
+  ],
+  "titulo": "Revisión de la sentencia N° 00899 dictada por la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-10_S0592_E18-0332.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/300997-0592-10818-2018-18-0332.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.664912"
+}

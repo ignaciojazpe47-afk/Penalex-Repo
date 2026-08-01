@@ -1,0 +1,24 @@
+{
+  "id": 66127,
+  "numero": "1085",
+  "fecha": "2015-08-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO CONFORME A DERECHO",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia del Juzgado Superior Tercero en lo Civil, que desaplicó normas relacionadas con la admisibilidad de recursos de apelación en casos de cuantía inferior a quinientas unidades tributarias. La Sala determinó que esta desaplicación no era conforme a derecho, ya que limitaba el acceso a la justicia y el principio de doble instancia. En consecuencia, se anuló la sentencia del Juzgado Superior y se declaró firme la decisión del Juzgado Tercero que había declarado con lugar la demanda de cumplimiento de contrato de arrendamiento.",
+  "palabras_clave": [
+    "desaplicación",
+    "apelación",
+    "cuantía",
+    "doble instancia",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre desaplicación de normas en materia de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-13_S1085_E10-1223.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180992-1085-13815-2015-10-1223.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:08.966944"
+}

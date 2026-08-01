@@ -1,0 +1,25 @@
+{
+  "id": 27147,
+  "numero": "0572",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por el abogado Moisés Alexander Codnich Raciny en defensa de Jorge Luis Rodríguez Gutiérrez, quien había sido declarado inadmisible en su acción de amparo por la Corte de Apelaciones. La Sala determinó que la apelación fue interpuesta de manera tempestiva y que la acción de amparo había cesado debido a la admisión de hechos por parte del demandado en el proceso penal correspondiente. Por lo tanto, se declaró sin lugar el recurso de apelación y se confirmó la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo",
+    "derechos humanos",
+    "libertad personal",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0572_E22-0205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338531-0572-11124-2024-22-0205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.308626"
+}

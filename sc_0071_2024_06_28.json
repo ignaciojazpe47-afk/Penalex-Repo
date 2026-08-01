@@ -1,0 +1,23 @@
+{
+  "id": 18221,
+  "numero": "0071",
+  "fecha": "2024-06-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 368 de la Sala de Casación Civil, que había declarado con lugar un recurso de casación y anulado parcialmente un fallo anterior. La revisión se centró en la demanda por resolución de contrato de opción de compra-venta interpuesta por los ciudadanos José de los Santos Osorio Castillo y Raiza Beatriz Kirchner de Osorio, quienes alegaron violaciones a sus derechos constitucionales. La Sala encontró que la sentencia recurrida había aplicado incorrectamente el artículo 281 del Código de Procedimiento Civil al condenar en costas a la parte actora, ya que el fallo apelado había sido modificado de oficio.",
+  "palabras_clave": [
+    "Revisión Constitucional",
+    "Sentencia",
+    "Contratos",
+    "Casación"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 368",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0071_E24-1012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341240-0071-6225-2025-24-1012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.645344"
+}

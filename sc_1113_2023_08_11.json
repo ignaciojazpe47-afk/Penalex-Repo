@@ -1,0 +1,26 @@
+{
+  "id": 33993,
+  "numero": "1113",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo interpuesta por la Junta de Condominio del Centro Comercial Aventura Plaza, en contra de una sentencia del Juzgado Superior que había declarado con lugar una acción de amparo presentada por Ignamary Coromoto Flores. La Sala declaró improcedente la acción de amparo, argumentando que los fundamentos presentados ya habían sido analizados y decididos en instancias anteriores, lo que no constituía una nueva violación de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "servicios públicos",
+    "debido proceso",
+    "tutela judicial",
+    "constitución",
+    "actividad comercial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1113_E21-0806.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328256-1113-11823-2023-21-0806.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.337510"
+}

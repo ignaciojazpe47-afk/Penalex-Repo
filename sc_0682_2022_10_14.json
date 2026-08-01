@@ -1,0 +1,26 @@
+{
+  "id": 36600,
+  "numero": "0682",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira, relacionado con una acción de amparo constitucional presentada por el ciudadano Miguel Pérez. La acción se interpuso contra una sentencia que declaró inadmisible la solicitud de medida sustitutiva por razones humanitarias. La Sala determinó su competencia para conocer el caso y ordenó a la Secretaría que oficie a la Corte de Apelaciones para recabar información sobre el estado del expediente y las medidas dictadas.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "sentencia",
+    "derechos",
+    "garantías",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0682_E22-0290.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319771-0682-141022-2022-22-0290.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.179840"
+}

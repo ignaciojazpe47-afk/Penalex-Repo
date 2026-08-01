@@ -1,0 +1,24 @@
+{
+  "id": 28245,
+  "numero": "1205",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de amparo constitucional interpuesto por LATIN SHIPPING, C.A. contra una decisión del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo del Estado Zulia, que declaró inadmisible la acción de amparo. La Sala determinó que la acción era inadmisible debido a que la situación jurídica alegada por la parte accionante había cesado tras la homologación de una transacción entre las partes en el juicio primigenio, lo que llevó a la confirmación del fallo apelado. La decisión fue firmada por el magistrado ponente Luis Fernando Damiani Bustillos y otros magistrados de la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "LATIN SHIPPING, C.A.",
+    "OBRAS MARÍTIMAS Y CIVILES, C.A.",
+    "Estado Zulia",
+    "decisión inadmisible"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1205_E21-0378.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340141-1205-41224-2024-21-0378.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.042358"
+}

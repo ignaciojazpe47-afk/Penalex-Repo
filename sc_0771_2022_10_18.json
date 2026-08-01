@@ -1,0 +1,22 @@
+{
+  "id": 36760,
+  "numero": "0771",
+  "fecha": "2022-10-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Cuarto que declaró improcedente la nulidad de una sentencia anterior y sin lugar un recurso de apelación. La parte demandante solicitó la revisión argumentando falta de motivación y violaciones al debido proceso. La Sala encontró que la sentencia impugnada no abordó adecuadamente los alegatos de la parte demandada, lo que constituyó una violación a sus derechos procesales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "interdicto restitutorio",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de interdicto restitutorio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-18_S0771_E21-0490.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320025-0771-181022-2022-21-0490.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.107341"
+}

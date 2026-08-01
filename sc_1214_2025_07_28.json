@@ -1,0 +1,24 @@
+{
+  "id": 21201,
+  "numero": "1214",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 261 de la Sala de Casación Civil, que había declarado la inadmisibilidad de la acción de desalojo interpuesta por Inversiones CM, C.A. contra Distribuidora de Calzados Edén, C.A., por falta de cualidad activa. La Sala Constitucional encontró que la Sala de Casación Civil incurrió en un error de valoración probatoria al no considerar documentos que acreditaban la propiedad del inmueble por parte de la demandante. En consecuencia, se declaró con lugar la revisión, se anuló la decisión de la Sala de Casación Civil y se reponía la causa para que esta se pronuncie nuevamente sobre la solicitud de avocamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "falta de cualidad",
+    "tutela judicial efectiva",
+    "due process"
+  ],
+  "titulo": "Revisión de la sentencia N° 261 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1214_E24-0964.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346512-1214-28725-2025-24-0964.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.376269"
+}

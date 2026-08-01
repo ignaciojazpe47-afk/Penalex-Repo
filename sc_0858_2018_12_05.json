@@ -1,0 +1,24 @@
+{
+  "id": 49254,
+  "numero": "0858",
+  "fecha": "2018-12-05",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la solicitud de revisión constitucional presentada por los abogados de Melanio José Monasterio Rodríguez, en relación a la sentencia 013-17 dictada por la Sala 3 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La Corte de Apelaciones había declarado con lugar el recurso de apelación interpuesto por el Ministerio Público, anulando la sentencia absolutoria del Juzgado Octavo de Primera Instancia y ordenando un nuevo juicio, argumentando falta de motivación en el fallo original y contradicciones en la valoración de pruebas.\nLa Sala Constitucional concluyó que la sentencia objeto de revisión no adolecía de inmotivación, ya que la Corte de Apelaciones había fundamentado adecuadamente su decisión, señalando que el Juzgado de Primera Instancia no realizó un análisis exhaustivo de las pruebas y que existieron contradicciones en los testimonios. Por lo tanto, se reafirmó la decisión de la Corte de Apelaciones y se desestimó la solicitud de revisión, manteniendo la nulidad de la sentencia original y la orden de un nuevo juicio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "inmotivación",
+    "Corte de Apelaciones",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión constitucional de la sentencia 013-17",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-05_S0858_E17-1099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/302829-0858-51218-2018-17-1099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.899467"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 37826,
+  "numero": "1111",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por la abogada Yoleide Nagari Baptista Muchacho en representación de Luis Iván Arcia Carpio. La Corte de Apelaciones había declarado inadmisible la acción por no cumplir con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en cuanto a la identificación del agraviado y la acción que se pretendía tramitar.\n\nLa Sala Constitucional confirmó la decisión de la Corte de Apelaciones, argumentando que la parte accionante no subsanó adecuadamente las omisiones requeridas y que no se cumplió con el debido proceso. Se destacó que la acción de amparo es un medio excepcional y que la parte actora no presentó las herramientas necesarias para que el tribunal pudiera decidir sobre la admisibilidad de su solicitud.\n\nFinalmente, se declaró competente para conocer del recurso de apelación interpuesto y se confirmó la decisión de inadmisibilidad, reafirmando la importancia de cumplir con los requisitos legales en los procedimientos de amparo constitucional.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "violencia contra la mujer",
+    "derecho a la defensa",
+    "tempestividad",
+    "corte de apelaciones",
+    "requisitos procesales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1111_E19-0507.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321694-1111-91222-2022-19-0507.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.428374"
+}

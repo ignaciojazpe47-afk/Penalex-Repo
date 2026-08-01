@@ -1,0 +1,24 @@
+{
+  "id": 18104,
+  "numero": "0448",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Nula",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer en consulta la sentencia dictada por el Tribunal Quinto de Primera Instancia de Juicio, que había declarado el desacato de la ciudadana Ana María Ponzio por incumplimiento de un mandamiento de amparo. La Sala anula dicha sentencia y ordena reponer la causa al estado de ejecutar el mandamiento de amparo, destacando la necesidad de que el verdadero representante de la entidad de trabajo cumpla con la orden judicial. Se enfatiza que el desacato se configura cuando no se acata un mandamiento de amparo, lo que vulnera el derecho al trabajo de los ciudadanos afectados.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "trabajo",
+    "sentencia",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0448_E23-0775.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354900-0448-9426-2026-23-0775.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.021165"
+}

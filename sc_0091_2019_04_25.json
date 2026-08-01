@@ -1,0 +1,22 @@
+{
+  "id": 42610,
+  "numero": "0091",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena la solicitud de copia certificada del expediente",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa una solicitud de revisión constitucional presentada por los ciudadanos Stephany María Belén Varela Parra, Maritza Ramona Sirit Antequera y Elvis Arcángel Hurtado González, en relación a una sentencia dictada por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Lara. La revisión se fundamenta en el desconocimiento de un precedente de la misma Sala.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "educación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0091_E18-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304639-0091-25419-2019-18-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.600461"
+}

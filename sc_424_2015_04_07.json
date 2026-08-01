@@ -1,0 +1,23 @@
+{
+  "id": 63085,
+  "numero": "424",
+  "fecha": "2015-04-07",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre dos juzgados de Primera Instancia en lo Civil, Mercantil, Agrario y Tránsito del estado Bolívar, respecto a una demanda por reparación de daños materiales derivados de un accidente de tránsito. La Sala determinó que el tribunal competente para conocer la demanda era el Juzgado Superior Estadal Contencioso Administrativo del estado Bolívar, dado que uno de los demandados era una empresa del Estado con participación decisiva en su dirección y administración.\n\nLa decisión se fundamentó en la normativa que establece que los conflictos de competencia entre tribunales sin un superior común deben ser resueltos por la Sala del Tribunal Supremo de Justicia que corresponda a la materia. En este caso, se concluyó que la Sala de Casación Civil era la competente para dirimir el conflicto, y se ordenó la remisión del expediente al juzgado correspondiente para su tramitación.\n\nFinalmente, la Sala aceptó la competencia y dictó pronunciamientos claros sobre la remisión del expediente y la necesidad de garantizar la tutela judicial efectiva en el proceso.",
+  "palabras_clave": [
+    "competencia",
+    "accidente de tránsito",
+    "reparación de daños",
+    "jurisdicción contencioso-administrativa"
+  ],
+  "titulo": "Decisión sobre competencia en caso de daños derivados de accidente de tránsito",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-04-07_S424_E14-1162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/176052-424-7415-2015-14-1162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:44.447546"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 39583,
+  "numero": "0453",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Otto Van Der Velde, Presidente del Partido Revolucionario del Trabajo, contra el Consejo Nacional Electoral por la presunta violación de su derecho a representar o dirigir peticiones. La Sala fundamenta su decisión en la existencia de un mecanismo ordinario idóneo para restablecer la situación jurídica y en la irreparabilidad de la acción debido a que las elecciones parlamentarias ya se habían llevado a cabo.",
+  "palabras_clave": [
+    "amparo",
+    "derecho de petición",
+    "CNE",
+    "constitucionalidad",
+    "jurisdicción",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta contra el Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0453_E20-0325.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313420-0453-16921-2021-20-0325.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.631134"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 26891,
+  "numero": "0423",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por María Basilisa Cárdenas Rubio contra la sentencia del Juzgado Superior Primero en lo Civil, que había declarado con lugar un recurso de apelación en un caso de reivindicación. La Sala declaró la competencia para conocer del amparo, pero terminó el procedimiento por abandono de trámite, dado que no hubo impulso procesal por parte de la accionante durante más de seis meses. Además, se impuso una multa a la parte accionante por la falta de interés en la continuación del proceso.",
+  "palabras_clave": [
+    "confesión ficta",
+    "procedimiento civil",
+    "derecho de defensa",
+    "carga de la prueba",
+    "abandonar trámite"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0423_E22-0587.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338195-0423-241024-2024-22-0587.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.314250"
+}

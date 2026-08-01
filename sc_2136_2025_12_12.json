@@ -1,0 +1,27 @@
+{
+  "id": 23922,
+  "numero": "2136",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia revisada se refiere a la solicitud de revisión de una decisión del Tribunal Superior que estableció el pago retroactivo de una obligación de manutención. El solicitante argumenta que la decisión es injusta y que no se consideraron adecuadamente sus circunstancias económicas. La Sala Constitucional, tras analizar el caso, concluye que no se presentan las infracciones necesarias para proceder con la revisión, ya que la decisión no contradice sentencias previas ni viola principios constitucionales.",
+  "palabras_clave": [
+    "manutención",
+    "interés superior",
+    "derechos",
+    "capacidad económica",
+    "pago retroactivo",
+    "igualdad",
+    "justicia",
+    "familia"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre obligación de manutención",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2136_E25-1153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351985-2136-121225-2025-25-1153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.730965"
+}

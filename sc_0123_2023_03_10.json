@@ -1,0 +1,25 @@
+{
+  "id": 29125,
+  "numero": "0123",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de marzo de 2023, declaró sin lugar el recurso de apelación interpuesto por Isaad David Romero Pessagno contra la sentencia del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La Sala consideró que el Juzgado había actuado conforme a derecho al no admitir la acción, dado que el demandante no había agotado las vías ordinarias para la tutela de sus derechos. Además, se destacó que el demandante había alcanzado la mayoría de edad y que su opinión no era vinculante en el proceso principal de partición de bienes.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido_proceso",
+    "niños",
+    "tutela_judicial",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0123_E22-0388.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323291-0123-10323-2023-22-0388.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.337252"
+}

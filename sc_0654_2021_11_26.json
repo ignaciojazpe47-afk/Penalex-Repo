@@ -1,0 +1,23 @@
+{
+  "id": 40468,
+  "numero": "0654",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Enrique Tineo Suquet en representación de Miguel Ángel Farfán Montoya, contra la decisión de inadmisibilidad dictada por la Corte de Apelaciones. La Corte de Apelaciones había declarado inadmisible la acción de amparo, pero la Sala Constitucional encontró que existió una omisión de pronunciamiento por parte del Juzgado Tercero de Primera Instancia en Funciones de Control, afectando el derecho a la defensa y el debido proceso del demandante.\n\nLa Sala Constitucional decidió anular la decisión de la Corte de Apelaciones y declarar con lugar la acción de amparo, ordenando la reposición del proceso penal para que se celebre una nueva audiencia preliminar ante otro tribunal, debido a la nulidad del acto procesal de la audiencia preliminar del 1° de marzo de 2018, que carecía de las firmas necesarias.\n\nFinalmente, la sentencia reafirma la importancia de garantizar los derechos constitucionales en el proceso penal, destacando que la falta de firma en el acta de audiencia preliminar constituye un vicio que afecta la validez del acto procesal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0654_E18-0731.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314730-0654-261121-2021-18-0731.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.498409"
+}

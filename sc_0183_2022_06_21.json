@@ -1,0 +1,24 @@
+{
+  "id": 35115,
+  "numero": "0183",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N.° 004 del 16 de febrero de 2022, que declaró improcedente la acción de amparo interpuesta por Freddy José Ferrer Medina en representación de Ana Bracho Chourio y Maira Zamora Muñoz. La acción se refería a la proclamación de Nidia Beatriz Gutiérrez Pérez como Alcaldesa del Municipio La Cañada de Urdaneta, a pesar de su inhabilitación política. La Sala consideró que la acción de amparo era procedente y que la Sala Electoral había incurrido en error judicial al no analizar adecuadamente las denuncias de inhabilitación política de la demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo electoral",
+    "inhabilitación política",
+    "Nidia Beatriz Gutiérrez Pérez",
+    "Freddy José Ferrer Medina"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0183_E22-0343.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317444-0183-21622-2022-22-0343.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.628236"
+}

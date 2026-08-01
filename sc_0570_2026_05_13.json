@@ -1,0 +1,22 @@
+{
+  "id": 16694,
+  "numero": "0570",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Ermelinda Del Carmen Núñez Pantano contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal en Materia de Delitos de Violencia Contra la Mujer. La Corte de Apelaciones había anulado el acta de audiencia de presentación por vicios procesales, específicamente la falta de firma y sello en varios documentos, lo que afectó la validez de los mismos. La Sala Constitucional reafirma que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró los derechos constitucionales de la demandante.",
+  "palabras_clave": [
+    "amparo",
+    "violencia contra la mujer",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0570_E25-0652.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355563-0570-13526-2026-25-0652.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.881177"
+}

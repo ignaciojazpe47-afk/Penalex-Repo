@@ -1,0 +1,23 @@
+{
+  "id": 56459,
+  "numero": "125",
+  "fecha": "2016-03-11",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por José Adriano Ramírez Salcedo contra la sentencia del Juzgado Superior Primero en lo Civil, que declaró sin lugar su apelación sobre un interdicto restitutorio. La Sala determinó que la decisión impugnada no violó derechos fundamentales, ya que el tribunal de alzada valoró adecuadamente las pruebas y concluyó que no se demostró la posesión del inmueble por parte del solicitante. Por lo tanto, se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "interdicto restitutorio",
+    "due process",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Interdicto Restitutorio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-11_S125_E15-1360.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/186110-125-11316-2016-15-1360.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:23.478447"
+}

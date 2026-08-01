@@ -1,0 +1,26 @@
+{
+  "id": 30342,
+  "numero": "0560",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 14 de noviembre de 2022, que había declarado con lugar el recurso de apelación interpuesto por Luis Gerardo Mora Chacón. Este había solicitado la restitución de derechos y garantías constitucionales por el cierre de una avenida que impedía el acceso a su local comercial. La Sala, tras analizar los alegatos y fundamentos, decidió no ha lugar a la solicitud de revisión, argumentando que no hubo quebrantamiento de derechos constitucionales y que la revisión no puede ser utilizada como una tercera instancia.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "amparo",
+    "derechos",
+    "jurisdicción",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0560_E23-0241.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325192-0560-16523-2023-23-0241.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.876462"
+}

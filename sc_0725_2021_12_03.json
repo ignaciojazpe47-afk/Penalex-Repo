@@ -1,0 +1,25 @@
+{
+  "id": 40600,
+  "numero": "0725",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Social",
+  "materia": "Agraria",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer el reclamo presentado por la abogada Auristela Pérez, actuando en representación de AGROINVEST C.A., contra la Jueza Superior Tercera Agraria del Estado Lara. La solicitud se basa en la supuesta obstaculización de los trámites de recursos de casación. La Sala determina que la competencia corresponde a la Sala de Casación Social, declinando así el conocimiento del caso.",
+  "palabras_clave": [
+    "competencia",
+    "reclamo",
+    "casación",
+    "agraria",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la competencia en recurso de casación agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0725_E200012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314965-0725-31221-2021-200012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.735622"
+}

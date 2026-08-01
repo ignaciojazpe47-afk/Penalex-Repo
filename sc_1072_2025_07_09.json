@@ -1,0 +1,23 @@
+{
+  "id": 20814,
+  "numero": "1072",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 152 de la Sala Político Administrativa, que declaró que el Poder Judicial venezolano tiene jurisdicción para conocer de la demanda por cobro de prestaciones sociales interpuesta por Verónica Ramírez Correa contra el SELA. La Corporación Andina de Fomento solicitó la revisión, argumentando que la sentencia vulnera principios de inmunidad de jurisdicción y compromisos internacionales asumidos por Venezuela. La Sala acordó la medida cautelar de suspensión de efectos de la sentencia impugnada hasta decidir sobre el fondo del asunto.",
+  "palabras_clave": [
+    "jurisdicción",
+    "inmunidad",
+    "prestaciones sociales",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre jurisdicción del Poder Judicial en demanda laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1072_E25-0541.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345834-1072-9725-2025-25-0541.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.503002"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 38751,
+  "numero": "0185",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia n.° 01395 dictada el 7 de diciembre de 2017. En esta sentencia, se declaró que el Poder Judicial Venezolano no tiene jurisdicción para decidir sobre la demanda de cobro de prestaciones sociales interpuesta por Álvaro Rubén González Almeida contra Hanseatic Consultoría Naval, C.A. y Bernhard Schulte Shipmanagement (Cyprus) Limited.",
+  "palabras_clave": [
+    "jurisdicción",
+    "revisión constitucional",
+    "prestaciones sociales",
+    "trabajo",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0185_E18-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312207-0185-28521-2021-18-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.186810"
+}

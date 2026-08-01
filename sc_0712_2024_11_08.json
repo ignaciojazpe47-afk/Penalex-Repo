@@ -1,0 +1,25 @@
+{
+  "id": 27332,
+  "numero": "0712",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 000774 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso extraordinario de casación en un caso de desalojo comercial. La parte demandante argumentó que la decisión de la Sala de Casación Civil incurrió en incongruencias y violaciones a la tutela judicial efectiva. Sin embargo, la Sala Constitucional determinó que no existían infracciones que justificaran la revisión y declaró no ha lugar la solicitud presentada por el abogado de la parte demandada.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "prórroga",
+    "derecho a la defensa",
+    "sentencia",
+    "Ley de Regulación del Arrendamiento"
+  ],
+  "titulo": "Revisión de sentencia de casación sobre desalojo comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0712_E24-0024.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338737-0712-81124-2024-24-0024.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.439389"
+}

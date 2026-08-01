@@ -1,0 +1,27 @@
+{
+  "id": 27821,
+  "numero": "0999",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la abogada Georgina Fakkas Khamiso en representación de Yacqueline Khamiso de Fakkas, contra una sentencia del Tribunal de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de Anzoátegui. La Sala declaró su incompetencia para conocer del caso, declinando la competencia al Juzgado Superior del mismo circuito judicial.\n\nLa decisión se fundamenta en que la acción de amparo fue interpuesta contra una decisión de un tribunal inferior, lo que obliga a que el conocimiento del caso corresponda a un tribunal superior. La Sala destacó la importancia de garantizar el acceso a la justicia y la tutela judicial efectiva, principios fundamentales en el ordenamiento jurídico venezolano.\n\nFinalmente, se ordenó remitir el expediente al juzgado competente, cumpliendo con lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "justicia",
+    "constitucional",
+    "proceso",
+    "niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0999_E23-1084.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339312-0999-211124-2024-23-1084.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.154159"
+}

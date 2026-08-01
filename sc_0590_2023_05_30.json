@@ -1,0 +1,26 @@
+{
+  "id": 30544,
+  "numero": "0590",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Oscar Borges Prim e Indira Amarista Aguilar, en representación de los ciudadanos Xabier Eguidazu Bollegui y Amaya Eguidazu de Centeno, contra la decisión de la Sala Cuarta de la Corte de Apelaciones que confirmó una medida de arresto domiciliario. La Sala fundamenta su decisión en que la acción de amparo no es procedente dado que la medida impugnada puede ser cuestionada mediante recursos ordinarios, como el recurso de revisión.",
+  "palabras_clave": [
+    "medida cautelar",
+    "libertad",
+    "proceso penal",
+    "derechos humanos",
+    "principio de legalidad",
+    "tutela judicial",
+    "calificación jurídica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0590_E21-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325678-0590-30523-2023-21-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.934156"
+}

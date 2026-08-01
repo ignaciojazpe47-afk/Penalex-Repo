@@ -1,0 +1,23 @@
+{
+  "id": 26867,
+  "numero": "0400",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Carlos Javier Martínez Carett, en representación de Eduardo Claudio Vela Fuentes, en relación a la causa penal N° 3C-20259-23. La solicitud se fundamentó en graves desórdenes procesales y violaciones a derechos constitucionales en el proceso penal por estafa que afecta a su representado. Sin embargo, la Sala declaró su incompetencia para conocer del asunto, declinando el conocimiento a la Sala de Casación Penal, dado que la materia no corresponde a la competencia exclusiva de la Sala Constitucional.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "derechos constitucionales",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0400_E23-0407.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338171-0400-241024-2024-23-0407.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.310873"
+}

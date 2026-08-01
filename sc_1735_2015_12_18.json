@@ -1,0 +1,24 @@
+{
+  "id": 68444,
+  "numero": "1735",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por la abogada Alba González Correa, en representación de la Sociedad Mercantil Ganadera La Candelaria C.A., contra la decisión del Juzgado Superior Agrario que había declarado con lugar la acción de amparo constitucional presentada por Giuseppe Izzo Mainolfi. La Sala consideró que la notificación de la parte demandada no se realizó conforme a derecho, afectando su derecho a la defensa y al debido proceso. Se confirmó el fallo del Juzgado Superior Agrario que había anulado la decisión que declaró la confesión ficta y ordenó la reanudación del proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "notificación",
+    "confesión ficta"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1735_E15-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184186-1735-181215-2015-15-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:34.480402"
+}

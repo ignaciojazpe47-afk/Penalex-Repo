@@ -1,0 +1,22 @@
+{
+  "id": 19986,
+  "numero": "0786",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada por la Sala de Casación Civil que declaró sin lugar los recursos extraordinarios de casación. Se determinó que las sociedades mercantiles 'Inversiones J.G.M., C.A.' y 'El Rincón Del Bogavante C.A.' no fueron debidamente citadas, lo que vulneró el derecho a la defensa de la demandante. La Sala declaró con lugar la revisión, anulando la sentencia anterior y ordenando la reposición del caso al estado de admisión de la demanda y citación de todas las partes involucradas.",
+  "palabras_clave": [
+    "levantamiento del velo corporativo",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre levantamiento del velo corporativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0786_E24-0723.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344264-0786-28525-2025-24-0723.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.858955"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18432,
+  "numero": "0126",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Elio José Barreto Aguilera, quien alegaba violaciones a sus derechos constitucionales en un proceso penal. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que existían recursos ordinarios disponibles. La Sala Constitucional, tras revisar el caso, determinó que la apelación interpuesta era sin lugar, confirmando así la decisión de la Corte de Apelaciones y reafirmando que no hubo violaciones a los derechos del accionante.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "recursos",
+    "apelacion",
+    "constitucion",
+    "derechos",
+    "garantias"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Elio José Barreto Aguilera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0126_E23-1045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341531-0126-13225-2025-23-1045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.766327"
+}

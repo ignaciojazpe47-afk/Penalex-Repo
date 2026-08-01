@@ -1,0 +1,25 @@
+{
+  "id": 22232,
+  "numero": "1572",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "El ciudadano Gabriel Eduardo López Damas interpuso una acción de amparo constitucional contra una decisión de la Corte de Apelaciones que declaró inadmisible su amparo. La Sala Constitucional, tras analizar el caso, determinó que la parte actora no presentó la copia certificada de la decisión impugnada, lo que constituye una carga procesal indispensable. Por lo tanto, se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "carga procesal",
+    "derechos constitucionales",
+    "sentencia",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1572_E25-0961.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348689-1572-151025-2025-25-0961.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.760805"
+}

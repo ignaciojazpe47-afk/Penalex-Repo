@@ -1,0 +1,26 @@
+{
+  "id": 37506,
+  "numero": "1028",
+  "fecha": "2022-11-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Suhail Gámez Guerra, asistida por la abogada Magally García Malpica, respecto a una sentencia del Juzgado Noveno Superior del Circuito Judicial del Trabajo. La Sala determinó que la solicitud era inadmisible debido a la falta de presentación de la copia certificada de la decisión objeto de revisión, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "sentencia",
+    "trabajo",
+    "procedimiento",
+    "causas",
+    "Ley Orgánica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-21_S1028_E16-0496.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320933-1028-211122-2022-16-0496.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.338978"
+}

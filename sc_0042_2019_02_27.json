@@ -1,0 +1,22 @@
+{
+  "id": 42317,
+  "numero": "0042",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 578, declaró sin lugar la acción de amparo constitucional interpuesta por Matthew Evan Schroeder contra la sentencia dictada el 13 de julio de 2018 por el Juzgado Superior Cuarto del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. Esta última había autorizado la residencia de los menores en Estados Unidos con su madre, Glenda Soilet Millán. La Sala confirmó la decisión del juzgado inferior, argumentando que se respetaron los derechos de los menores y se garantizó el debido proceso durante el procedimiento judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "residencia en el exterior",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Matthew Evan Schroeder",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0042_E18-0533.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303967-0042-27219-2019-18-0533.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.604785"
+}

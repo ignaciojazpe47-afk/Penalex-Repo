@@ -1,0 +1,24 @@
+{
+  "id": 29097,
+  "numero": "0095",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una acción de amparo constitucional interpuesta por Natalia Toporkova contra una sentencia del Juzgado Superior que declaró inadmisible su demanda de desalojo. La Sala determinó que la inadmisibilidad se basó en un error de interpretación del Código de Procedimiento Civil, ya que la parte actora había presentado una copia certificada del contrato de arrendamiento en la fase de promoción de pruebas, lo que debía ser suficiente para admitir la demanda. La Sala declaró que la decisión del Juzgado Superior vulneró el derecho a la defensa y al debido proceso, y por lo tanto, anuló la sentencia impugnada y ordenó que otro Juzgado Superior emita un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0095_E21-0183.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323263-0095-8323-2023-21-0183.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.341950"
+}

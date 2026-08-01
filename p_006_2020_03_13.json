@@ -1,0 +1,24 @@
+{
+  "id": 41234,
+  "numero": "006",
+  "fecha": "2020-03-13",
+  "anio": 2020,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "IMPROCEDENTE",
+  "ponente": "YANINA BEATRIZ KARABIN DE DÍAZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara improcedente la solicitud de extradición pasiva del ciudadano KRAUTH PETER WENDELIN, requerido por el Gobierno de Alemania por el delito de conspiración para provocar una explosión. La decisión se fundamenta en que el delito se encuentra prescrito según la legislación venezolana y por la condición de refugiado del demandado en Venezuela. Se ordena el cese de la medida de privación judicial preventiva de libertad y su libertad sin restricciones.",
+  "palabras_clave": [
+    "extradición",
+    "KRAUTH PETER WENDELIN",
+    "conspiración",
+    "explosión",
+    "refugiado"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición pasiva de KRAUTH PETER WENDELIN",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2020-03-13_S006_E19-255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/marzo/309879-6-13320-2020-E19-255.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:06.601718"
+}

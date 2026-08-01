@@ -1,0 +1,26 @@
+{
+  "id": 21642,
+  "numero": "1389",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por Damarys Contreras, representada por su abogado José Cristóbal Álvarez, contra el Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Guárico. La acción se relaciona con una demanda por cobro de bolívares interpuesta por el BANCO PROVINCIAL. La Sala determina que corresponde a un Juzgado Superior conocer de la acción, pero por razones de economía procesal, se declara terminado el procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "indefensión",
+    "interés procesal",
+    "multa",
+    "derechos constitucionales",
+    "competencia",
+    "inactividad"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1389_E24-0817.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347243-1389-7825-2025-24-0817.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.039167"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 15998,
+  "numero": "0574",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Hugo Leonardo Dávila Ponce, quien impugnó la sentencia N° 453/2023 de la Sala de Casación Civil. La Sala encontró que la decisión impugnada presentaba incongruencias internas y errores en la valoración de pruebas, afectando el derecho a la tutela judicial efectiva. En consecuencia, se declaró la nulidad de la sentencia objeto de revisión y se ordenó a la Sala de Casación Civil emitir un nuevo pronunciamiento, asegurando el debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "incongruencias internas",
+    "valoración de pruebas"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0574_E25-1406.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355567-0574-13526-2026-25-1406.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.395290"
+}

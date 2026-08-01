@@ -1,0 +1,25 @@
+{
+  "id": 27953,
+  "numero": "1066",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Sala N° 4 de la Corte de Apelaciones que declaró improcedente la acción de amparo en la modalidad de habeas corpus presentada por el abogado Andrés Alfredo Puga en representación de José Gregorio Rangel. La Sala Constitucional determinó que la acción debía ser considerada como inadmisible debido a que la privación de libertad fue dictada en el marco de un proceso judicial y no se evidenció arbitrariedad en la actuación del Juzgado de Instancia.\n\nSe revocó el fallo de la Corte de Apelaciones y se declaró inadmisible la acción de amparo contra omisión judicial, haciendo un llamado de atención a los magistrados de la Corte de Apelaciones para evitar errores procesales en el futuro. La decisión fue firmada por la Presidenta de la Sala, Tania D'Amelio Cardiet, y otros magistrados, incluyendo al ponente Luis Fernando Damiani Bustillos.\n\nLa sentencia se dictó en Caracas el 27 de noviembre de 2024, y se ordenó remitir el expediente a la Corte de Apelaciones correspondiente para su cumplimiento.",
+  "palabras_clave": [
+    "habeas corpus",
+    "libertad",
+    "detención",
+    "arbitrariedad",
+    "constitucional",
+    "derechos humanos"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1066_E23-0966.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339589-1066-271124-2024-23-0966.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.129319"
+}

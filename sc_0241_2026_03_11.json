@@ -1,0 +1,27 @@
+{
+  "id": 16574,
+  "numero": "0241",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no admitir la solicitud de revisión presentada por Oscar Jesús Navas Tortolero, quien impugnaba dos sentencias de la Corte de Apelaciones relacionadas con su condena por delitos de violencia. La Sala concluyó que no se evidenciaron vicios que justificaran la revisión, ya que las decisiones anteriores habían sido debidamente fundamentadas y no contravenían principios constitucionales. Se ordenó el desglose del expediente original y su remisión al tribunal de origen.",
+  "palabras_clave": [
+    "incongruencia",
+    "omisión",
+    "debido proceso",
+    "igualdad",
+    "revisión",
+    "jurisprudencia",
+    "sentencia",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0241_E23-0151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353546-0241-11326-2026-23-0151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.573026"
+}

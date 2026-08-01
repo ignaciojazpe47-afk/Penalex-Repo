@@ -1,0 +1,26 @@
+{
+  "id": 28427,
+  "numero": "1369",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Enrique Tineo Suquet en representación de los ciudadanos Felipe Nery Siso Cárdenas y Gertrud Karoline Esche. La solicitud se refiere a un fallo dictado el 10 de octubre de 2019 por el Tribunal Primero de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que declaró parcialmente con lugar una demanda de partición y liquidación de la comunidad ordinaria contra Celeste Marbila Aldana Vegas.\n\nLa inadmisibilidad se fundamenta en la falta de presentación del poder original o copia certificada que acredite la representación del abogado, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La Sala reitera que es indispensable verificar la legitimidad de la representación en los procesos de revisión constitucional, dado que no existe contraparte que impugne los documentos presentados.\n\nFinalmente, la Sala se declara competente para conocer de la solicitud, pero al no cumplirse con los requisitos formales, se decide inadmitir la revisión constitucional solicitada.",
+  "palabras_clave": [
+    "derecho de defensa",
+    "confianza legítima",
+    "indefensión",
+    "principio dispositivo",
+    "proceso civil",
+    "nulidad",
+    "expectativa plausible"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1369_E23-0369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340383-1369-101224-2024-23-0369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.207355"
+}

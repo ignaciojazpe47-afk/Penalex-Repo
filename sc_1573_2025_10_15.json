@@ -1,0 +1,26 @@
+{
+  "id": 22233,
+  "numero": "1573",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de octubre de 2025, declaró sin lugar el recurso de apelación interpuesto por la abogada Frennys E. Bolívar Domínguez, actuando como defensora privada del ciudadano Albert Higuera González. La apelación se basó en la inadmisibilidad de la acción de amparo interpuesta contra la omisión de pronunciamiento del Juzgado Cuarto de Primera Instancia en Funciones de Control, Audiencia y Medidas en Materia de Delitos de Violencia contra la Mujer. La Sala confirmó la decisión de la Corte de Apelaciones, argumentando que la omisión había cesado tras el pronunciamiento del tribunal de instancia, lo que llevó a la inadmisibilidad sobrevenida de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "violencia",
+    "mujer",
+    "proceso penal",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1573_E21-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348690-1573-151025-2025-21-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.762142"
+}

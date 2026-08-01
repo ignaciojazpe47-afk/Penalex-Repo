@@ -1,0 +1,25 @@
+{
+  "id": 40010,
+  "numero": "0563",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo interpuesta por LUIS EDUARDO BACIAO LÓPEZ, quien solicitó la entrega de un vehículo que había pagado en 2016. La Sala, tras revisar el caso, determinó que la acción de amparo no fue ratificada de forma personal como lo exige la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Debido a esto, la solicitud fue declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "justicia",
+    "derechos",
+    "ratificación",
+    "COVID-19",
+    "admisibilidad"
+  ],
+  "titulo": "Decisión sobre acción de amparo interpuesta por LUIS EDUARDO BACIAO LÓPEZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0563_E21-0548.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313928-0563-281021-2021-21-0548.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.117530"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1806,
+  "numero": null,
+  "fecha": "2000-06-01",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Previsión y Seguridad Social",
+  "decision": "CON LUGAR",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 1 de junio de 2000, declaró con lugar el recurso de nulidad por inconstitucionalidad interpuesto por el abogado Alejandro Romero Gamero contra la Ley de Previsión Social de los Diputados de la Asamblea Legislativa del Estado Delta Amacuro, sancionada el 1 de julio de 1995. El recurrente argumentó que dicha ley violaba el artículo 136 ordinal 24º de la Constitución de 1961 y el artículo 2 de la Enmienda N° 2, al usurpar competencias que pertenecen al Poder Nacional. La Sala determinó que la ley impugnada era inconstitucional por invadir el ámbito de competencias del Poder Legislativo Nacional, lo que llevó a la anulación de la ley y de todas las jubilaciones otorgadas bajo su vigencia.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "previsión social",
+    "jubilaciones",
+    "poder nacional",
+    "asamblea legislativa",
+    "usurpación de funciones",
+    "derechos",
+    "constitución"
+  ],
+  "titulo": "Anulación de la Ley de Previsión Social de Diputados del Estado Delta Amacuro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-06-01_PoliticoAdmin_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.733305"
+}

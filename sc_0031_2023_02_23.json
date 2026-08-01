@@ -1,0 +1,24 @@
+{
+  "id": 28911,
+  "numero": "0031",
+  "fecha": "2023-02-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "El ciudadano Ricardo Dolinski Garrido interpuso una acción de amparo constitucional denunciando secuestro internacional y trata de blanca en Venezuela, alegando la negativa de las autoridades a investigar los delitos. La Sala Constitucional, tras analizar el caso, determinó que la acción era inadmisible por inepta acumulación de pretensiones, ya que las denuncias estaban dirigidas contra diferentes entes y no podían ser tramitadas conjuntamente. Finalmente, se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "secuestro internacional",
+    "trata de blanca",
+    "menor",
+    "Venezuela"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por secuestro internacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-23_S0031_E20-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322829-0031-23223-2023-20-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.295914"
+}

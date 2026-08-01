@@ -1,0 +1,23 @@
+{
+  "id": 33835,
+  "numero": "1983",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento interpuesta por los abogados de Rafael Eugenio Briceño Cardot, quien se considera víctima en un proceso penal contra Antonino Buttaci Guarino por estafa. La solicitud se fundamenta en la alegación de violaciones al debido proceso y la tutela judicial efectiva, destacando que la víctima no fue notificada de decisiones cruciales en el proceso penal. La Sala, tras evaluar las circunstancias, decidió avocar la causa para garantizar los derechos de la víctima y ordenó la suspensión de las actuaciones procesales en el caso.",
+  "palabras_clave": [
+    "avocamiento",
+    "estafa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1983_E23-0867.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331952-1983-151223-2023-23-0867.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.703481"
+}

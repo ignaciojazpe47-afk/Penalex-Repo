@@ -1,0 +1,22 @@
+{
+  "id": 32305,
+  "numero": "1453",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por la defensa de Roger Alexander Franco Retto. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que no se agotaron los recursos ordinarios disponibles antes de recurrir al amparo. La Sala Constitucional confirmó esta decisión, señalando que la parte accionante no había justificado adecuadamente la elección del amparo sobre otros medios procesales ordinarios.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1453_E23-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329358-1453-161023-2023-23-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.390862"
+}

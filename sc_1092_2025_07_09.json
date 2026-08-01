@@ -1,0 +1,25 @@
+{
+  "id": 20833,
+  "numero": "1092",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de julio de 2025, declaró con lugar la acción de amparo constitucional interpuesta por la sociedad Republic International Bank, N.V. y el ciudadano Juan Carlos Maldonado, contra un auto del Juzgado Tercero de Primera Instancia que ordenaba la ejecución forzosa de una sentencia anterior. La Sala consideró que el auto recurrido violaba derechos constitucionales, como el debido proceso y la tutela judicial efectiva, al no cumplir con las normas procesales adecuadas.",
+  "palabras_clave": [
+    "apelación",
+    "desistimiento",
+    "autocomposición",
+    "procedimiento",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1092_E23-0035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345854-1092-9725-2025-23-0035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.499323"
+}

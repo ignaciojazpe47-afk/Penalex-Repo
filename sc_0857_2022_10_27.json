@@ -1,0 +1,26 @@
+{
+  "id": 36921,
+  "numero": "0857",
+  "fecha": "2022-10-27",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Efraín Jesús Moreno Negrín, defensor de Marwin Francisco Flores, contra la sentencia de la Corte de Apelaciones que confirmó la decisión de un tribunal inferior. La Corte de Apelaciones había declarado sin lugar la solicitud de nulidad absoluta de la aprehensión del imputado, argumentando que la orden de aprehensión fue emitida conforme a la ley y que no se vulneraron derechos constitucionales del acusado. La Sala Constitucional reafirma que la decisión de la Corte de Apelaciones fue ajustada a derecho y no constituyó una violación a los derechos del accionante.",
+  "palabras_clave": [
+    "aprehensión",
+    "debido proceso",
+    "tutela judicial",
+    "resoluciones judiciales",
+    "Código Orgánico Procesal Penal",
+    "nulidad",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-27_S0857_E21-0174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320239-0857-271022-2022-21-0174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.428697"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 50311,
+  "numero": "54",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad por inconstitucionalidad presentado por varias asociaciones cooperativas contra disposiciones del Decreto con rango, valor y fuerza de Ley de reforma parcial del Decreto de Ley de Impuesto sobre la Renta. La parte recurrente argumentó que las disposiciones impugnadas violan principios constitucionales como la capacidad contributiva y la protección de las asociaciones cooperativas.\nLa Sala, al analizar el caso, determinó que las disposiciones impugnadas colidían con la Constitución, especialmente en lo que respecta a la capacidad económica de las asociaciones cooperativas, que no generan renta gravable. Por lo tanto, se declaró con lugar el recurso de nulidad, admitiendo la demanda y remitiendo el expediente al Juzgado de Sustanciación para continuar con el procedimiento correspondiente.\nFinalmente, la Sala declaró improcedente la medida cautelar solicitada por los recurrentes, argumentando que no se presentaron suficientes fundamentos para suspender la aplicación de las normas impugnadas mientras se sustancia la acción de nulidad.",
+  "palabras_clave": [
+    "nulidad",
+    "impuesto sobre la renta",
+    "asociaciones cooperativas",
+    "capacidad contributiva",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad contra el Decreto de Ley de Impuesto sobre la Renta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S54_E16-0252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196366-54-23217-2017-16-0252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.244123"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 34618,
+  "numero": "0076",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la sociedad mercantil Publi Ofertas, C.A. contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Zulia. La acción se fundamentó en la violación de derechos constitucionales relacionados con la tutela judicial efectiva y el debido proceso, alegando que la decisión del juzgado superior fue arbitraria e inconstitucional al declarar inadmisible la apelación presentada por la demandante.\nLa Sala declaró su competencia para conocer del amparo y solicitó información al juzgado superior sobre el estado del juicio relacionado con la resolución de contrato de arrendamiento. Se ordenó la notificación al juez requerido y se establecieron plazos para la remisión de la información solicitada, reafirmando la importancia de garantizar el derecho a la defensa y el debido proceso en el marco de la justicia constitucional.\nFinalmente, la decisión fue firmada por el magistrado ponente y otros magistrados presentes, destacando la relevancia de la protección de los derechos fundamentales en el contexto judicial venezolano.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "debido proceso",
+    "tutela judicial",
+    "arrendamiento",
+    "sentencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0076_E18-0486.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315926-0076-8322-2022-18-0486.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.438515"
+}

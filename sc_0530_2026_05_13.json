@@ -1,0 +1,26 @@
+{
+  "id": 16007,
+  "numero": "0530",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional presentada por el prenombrado profesional del derecho, de la sentencia número 00023 dictada el 20 de febrero de 2025, por la Sala Especial Primera de la Sala Político Administrativa del Tribunal Supremo de Justicia.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, decidió no ha lugar a la solicitud de revisión constitucional presentada por el abogado Francisco José Ardiles, quien impugnaba la sentencia número 00023 dictada el 20 de febrero de 2025 por la Sala Especial Primera de la Sala Político Administrativa. La decisión original había declarado sin lugar la demanda por daños y perjuicios interpuesta contra la República Bolivariana de Venezuela, condenando en costas al demandante. La Sala Constitucional reafirmó su competencia y la validez de la decisión impugnada, argumentando que no se evidenció un error de interpretación de la norma constitucional ni se vulneraron derechos fundamentales.",
+  "palabras_clave": [
+    "derechos laborales",
+    "ejecución de sentencias",
+    "costas procesales",
+    "principio de igualdad",
+    "colaboración entre poderes",
+    "inembargabilidad",
+    "daños y perjuicios"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia número 00023",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0530_E25-1369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355520-0530-13526-2026-25-1369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.884095"
+}

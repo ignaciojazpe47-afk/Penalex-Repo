@@ -1,0 +1,27 @@
+{
+  "id": 35024,
+  "numero": "0135",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Simón Arrieta Quintero en representación de los ciudadanos Aymer Jesús Briceño Cabrera y Francisco José Quintero. La inadmisibilidad se fundamenta en la falta de presentación del poder que acredite la representación judicial de los solicitantes, lo cual es un requisito esencial según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "estafa",
+    "imputación",
+    "pruebas",
+    "calificación",
+    "jurídica",
+    "Ministerio Público",
+    "Código Penal",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0135_E19-0650.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317320-0135-14622-2022-19-0650.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.635618"
+}

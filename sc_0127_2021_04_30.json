@@ -1,0 +1,25 @@
+{
+  "id": 38572,
+  "numero": "0127",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia dictada el 10 de febrero de 2020 por la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Carabobo. El solicitante, Pedro Enrique Velasco Prieto, impugnó la decisión que declaró con lugar la recusación interpuesta en su contra por Harry Stevens Reyes Arias. La Sala argumenta que la decisión no es una sentencia definitivamente firme, sino una interlocutoria que no prejuzga sobre el derecho discutido y que no pone fin al proceso, permitiendo así la posibilidad de impugnación a través de un amparo constitucional.",
+  "palabras_clave": [
+    "recusación",
+    "imparcialidad",
+    "pruebas",
+    "jueces",
+    "derecho a la defensa",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0127_E21-0063.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311991-0127-30421-2021-21-0063.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.887619"
+}

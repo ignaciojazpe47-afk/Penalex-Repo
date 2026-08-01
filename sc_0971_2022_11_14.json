@@ -1,0 +1,22 @@
+{
+  "id": 37355,
+  "numero": "0971",
+  "fecha": "2022-11-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara parcialmente con lugar la acción de amparo constitucional interpuesta por Keider Zuleimer Martínez Márquez, asistida por su abogado, contra decisiones de un juzgado inferior. Se anula el auto que ordenó la ejecución forzosa de un desalojo, mientras que se declaran inadmisibles las solicitudes de nulidad de otras decisiones relacionadas con la partición de un inmueble. La Sala establece que la acción de amparo es inadmisible respecto a decisiones anteriores, ya que la parte demandante no utilizó los recursos ordinarios disponibles para impugnar dichas decisiones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "partición de bienes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-14_S0971_E20-0454.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320757-0971-141122-2022-20-0454.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.354675"
+}

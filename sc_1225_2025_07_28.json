@@ -1,0 +1,26 @@
+{
+  "id": 21211,
+  "numero": "1225",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINI LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Alejandra Karina Chía contra la decisión del Juzgado Superior Sexto que declaró sin lugar un recurso de regulación de competencia. La Sala determinó que el tribunal de alzada actuó dentro de su competencia y que la acción de amparo era improcedente, ya que no se evidenció que se vulneraran derechos constitucionales de las menores involucradas en el proceso. La decisión reafirma que los conflictos intersubjetivos entre mayores de edad deben ser conocidos por la jurisdicción civil ordinaria, sin que ello implique una violación de los derechos de los niños, niñas y adolescentes.",
+  "palabras_clave": [
+    "competencia",
+    "jurisdicción",
+    "tercería",
+    "derechos",
+    "proceso civil",
+    "amparo",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1225_E25-0294.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346522-1225-28725-2025-25-0294.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.370317"
+}

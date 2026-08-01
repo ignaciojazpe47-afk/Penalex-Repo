@@ -1,0 +1,27 @@
+{
+  "id": 33165,
+  "numero": "1674",
+  "fecha": "2023-10-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por Leonardo Mendoza Pérez contra la sentencia del 9 de julio de 2021, que declaró inadmisible una querella interdictal de despojo. La Sala determinó que la abogada María Alejandra Cardoza, demandada en el caso, carecía de legitimidad pasiva, ya que actuaba como apoderada de Mercedes Dolores Mendoza, quien era la verdadera parte interesada en el litigio.\n\nLa Sala, tras analizar los argumentos presentados, concluyó que la decisión del juzgado de primera instancia no contravenía la jurisprudencia establecida y que la falta de cualidad pasiva de la demandada justificaba la inadmisibilidad de la acción. Por lo tanto, se declaró competente para conocer de la solicitud, pero se resolvió que no había lugar a la revisión solicitada, ratificando la decisión del juzgado inferior.\n\nFinalmente, se ordenó la publicación y archivo del expediente, reafirmando la importancia de la legitimación en los procesos judiciales y el respeto a las decisiones de los jueces de instancia.",
+  "palabras_clave": [
+    "interdicto",
+    "despojo",
+    "posesión",
+    "legitimidad",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "acción",
+    "inadmibilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1674_E23-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330843-1674-301123-2023-23-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.383152"
+}

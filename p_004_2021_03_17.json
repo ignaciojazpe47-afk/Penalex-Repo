@@ -1,0 +1,24 @@
+{
+  "id": 38299,
+  "numero": "004",
+  "fecha": "2021-03-17",
+  "anio": 2021,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "MAIKEL JOSÉ MORENO PÉREZ",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, desestima el recurso de casación interpuesto por la defensa de Luis Alfonso Gámez Dugarte, confirmando la sentencia condenatoria por homicidio calificado con alevosía en la ejecución de un robo. La defensa argumentó falta de motivación y análisis de pruebas en la sentencia de apelación, pero el tribunal concluyó que los vicios alegados no eran competencia de la corte de apelaciones, sino del tribunal de juicio.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "penal",
+    "alevosía",
+    "robo"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2021-03-17_S004_C20-101.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/marzo/311504-004-17321-2021-C20-101.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:04.059324"
+}

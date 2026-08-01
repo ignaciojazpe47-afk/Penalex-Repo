@@ -1,0 +1,23 @@
+{
+  "id": 33151,
+  "numero": "1660",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 30 de noviembre de 2023, declaró sin lugar el recurso de apelación interpuesto por Walter Abdón Mendoza Jiménez, en representación de Wuiliam Antonio Pastrán Yánez, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara, que había declarado improcedente la acción de amparo constitucional. La Sala determinó que la privación de libertad del demandante no era ilegítima, ya que provenía de decisiones judiciales competentes y no se evidenció violación a sus derechos fundamentales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "privación de libertad",
+    "Estado Lara"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1660_E22-0891.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330827-1660-301123-2023-22-0891.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.979630"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17619,
+  "numero": "0316",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 25 de marzo de 2026, declaró con lugar el recurso de apelación interpuesto por Francisco Javier Martínez González, revocando la decisión del Tribunal Superior que había declarado inadmisible la acción de amparo constitucional. La acción se fundamentó en la omisión de pronunciamiento del Tribunal de Primera Instancia respecto a la ejecución del régimen de convivencia familiar establecido en un acuerdo homologado por el tribunal. La Sala consideró que la omisión de pronunciamiento mantenía vigente el agravio que dio origen a la acción de amparo, por lo que se ordenó al Tribunal Superior pronunciarse sobre la admisibilidad del amparo propuesto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "convivencia familiar",
+    "omisión de pronunciamiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0316_E25-1221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354296-0316-25326-2026-25-1221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.036606"
+}

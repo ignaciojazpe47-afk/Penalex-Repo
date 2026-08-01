@@ -1,0 +1,25 @@
+{
+  "id": 29116,
+  "numero": "0114",
+  "fecha": "2023-03-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por ADELNNYS DEL CARMEN VALERA CARRILLO, quien cuestionó la decisión del Juzgado Superior que declaró con lugar la recusación en su contra. La Sala determinó que la acción era improcedente, argumentando que la recusación no cumplía con los requisitos establecidos y que la juez no había emitido pronunciamiento sobre el fondo del asunto. Se concluyó que la decisión del Juzgado Superior no incurrió en error de procedimiento ni vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "recusación",
+    "juez natural",
+    "debido proceso",
+    "amparo",
+    "imparcialidad",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-09_S0114_E22-0507.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323282-0114-9323-2023-22-0507.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.338213"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 36900,
+  "numero": "0836",
+  "fecha": "2022-10-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada María del Carmen Suárez en representación de Edwar Teobaldo Ostos Torres. La solicitud se refiere a una sentencia de la Corte de Apelaciones que declaró inadmisible una acción de amparo constitucional relacionada con una condena por abuso sexual a una niña. La Sala argumenta que la abogada no presentó el documento que acreditara su representación legal, lo que constituye una falta de legitimidad.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmision",
+    "defensores privados",
+    "jurisprudencia",
+    "competencia",
+    "amparo constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-25_S0836_E22-0141.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320218-0836-251022-2022-22-0141.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.087169"
+}

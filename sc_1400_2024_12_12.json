@@ -1,0 +1,25 @@
+{
+  "id": 28529,
+  "numero": "1400",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por Braunice Florentino Marín González, asistido por la abogada Oriana Gabriela Rosas Parada, respecto a una sentencia dictada por el Juzgado de Primera Instancia en lo Civil, Mercantil, Agrario, del Tránsito y Bancario del Segundo Circuito Judicial del estado Sucre, que había declarado sin lugar una acción de reinvindicación. La inadmisibilidad se fundamentó en la falta de presentación de copias certificadas del expediente que acreditaran el carácter de definitivamente firme de la sentencia objeto de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "supremacía constitucional",
+    "jurisdicción",
+    "sentencias firmes",
+    "derechos constitucionales",
+    "interpretación constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1400_E17-1168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340552-1400-121224-2024-17-1168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.822631"
+}

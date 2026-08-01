@@ -1,0 +1,25 @@
+{
+  "id": 19578,
+  "numero": "0596",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La ciudadana Mélida Pastora Arteaga de Agüero solicitó la revisión de una sentencia del Juzgado Superior que declaró sin lugar un recurso de apelación en un caso de desalojo. La Sala Constitucional analizó los alegatos de la solicitante, quienes denunciaron violaciones al debido proceso y a sus derechos de defensa, argumentando irregularidades en las notificaciones y en la calidad de los demandantes. Sin embargo, la Sala concluyó que los argumentos fueron debidamente valorados en las instancias anteriores y no se comprobó ninguna violación a la doctrina constitucional.",
+  "palabras_clave": [
+    "debido_proceso",
+    "defensa",
+    "arrendamiento",
+    "notificaciones",
+    "sucesión",
+    "edictos"
+  ],
+  "titulo": "Revisión Constitucional sobre desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0596_E24-0440.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343455-0596-30425-2025-24-0440.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.026106"
+}

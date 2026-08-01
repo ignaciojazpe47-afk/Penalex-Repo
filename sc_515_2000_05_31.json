@@ -1,0 +1,23 @@
+{
+  "id": 4919,
+  "numero": "515",
+  "fecha": "2000-05-31",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MOISÉS A. TROCONIS VILLARREAL",
+  "resumen": "La Sala Constitucional del TSJ declara con lugar la acción de amparo interpuesta por Manuel T. Machado Bolívar, quien alegó la nulidad de un remate judicial de su vehículo, hurtado en 1990. La sentencia de primera instancia había declarado con lugar la acción, argumentando que el Juzgado Primero de Primera Instancia actuó fuera de su competencia al acordar la venta del vehículo, que estaba solicitado por el Cuerpo Técnico de Policía Judicial. La Sala confirma la decisión y ordena la entrega inmediata del vehículo al accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "remate judicial",
+    "vehículo hurtado",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por remate judicial de vehículo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_5_MoisesA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.734139"
+}

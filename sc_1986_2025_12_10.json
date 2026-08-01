@@ -1,0 +1,26 @@
+{
+  "id": 23697,
+  "numero": "1986",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por los defensores de los ciudadanos José Hernán Vielma Román y José Luis Bravo Cáceres, contra una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala determinó su competencia para conocer del caso y consideró que el recurso era tempestivo, dado que fue presentado dentro del plazo legal tras la notificación de la sentencia apelada.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "violencia",
+    "mujer",
+    "derechos",
+    "garantías",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1986_E24-1149.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351696-1986-101225-2025-24-1149.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743109"
+}

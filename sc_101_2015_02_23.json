@@ -1,0 +1,18 @@
+{
+  "id": 62050,
+  "numero": "101",
+  "fecha": "2015-02-23",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por José Manuel Zerpa Guerra contra una sentencia de la Corte Segunda de lo Contencioso Administrativo. La solicitud se basa en la falta de respuesta a su petición de jubilación, alegando violaciones a sus derechos constitucionales. Sin embargo, la Sala determina que el solicitante no presentó la copia certificada del fallo objeto de revisión, lo que impide verificar la admisibilidad de la solicitud.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-23_S101_E14-1167.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174522-101-23215-2015-14-1167.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.155959"
+}

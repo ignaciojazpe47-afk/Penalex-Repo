@@ -1,0 +1,23 @@
+{
+  "id": 68466,
+  "numero": "1757",
+  "fecha": "2015-12-22",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, ha declarado con lugar la solicitud de revisión constitucional presentada por Jean Paul Alfonso Salazar, quien solicitó la revisión de una sentencia que había declarado sin lugar su demanda de inquisición de paternidad. La Sala argumentó que el derecho a conocer la identidad biológica es un derecho humano fundamental y que la prueba heredo-biológica presentada, aunque no otorgaba certeza absoluta, sí brindaba una alta probabilidad de paternidad. La decisión anterior fue considerada injusta y se ordenó el reconocimiento de la filiación entre el solicitante y el demandado, permitiendo al solicitante regularizar su registro civil y ejercer los derechos correspondientes.",
+  "palabras_clave": [
+    "filiación",
+    "identidad biológica",
+    "revisión constitucional",
+    "paternidad"
+  ],
+  "titulo": "Revisión constitucional sobre la filiación paterna",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-22_S1757_E12-0493.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184219-1757-221215-2015-2012-0493.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.967322"
+}

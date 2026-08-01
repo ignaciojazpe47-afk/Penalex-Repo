@@ -1,0 +1,22 @@
+{
+  "id": 38391,
+  "numero": "0069",
+  "fecha": "2021-04-08",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Calixto Ortega Rios",
+  "resumen": "El Tribunal Primero de Primera Instancia de Juicio del Trabajo se declaró incompetente para conocer la acción de amparo constitucional presentada por Jesús Edinson Velásquez Rodríguez, quien alegó violaciones a sus derechos laborales. La Sala Constitucional del TSJ aceptó la declinatoria de competencia y se declaró competente para conocer del caso, ordenando remitir la causa a su instancia. Finalmente, se declaró el abandono del trámite por falta de impulso procesal del demandante, imponiendo una multa por dicha inactividad.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre declinatoria de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-08_S0069_E19-0306.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311626-0069-8421-2021-19-0306.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.747749"
+}

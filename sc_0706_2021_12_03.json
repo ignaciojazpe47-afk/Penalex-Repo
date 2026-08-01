@@ -1,0 +1,23 @@
+{
+  "id": 40581,
+  "numero": "0706",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la ciudadana Belkys del Carmen Villasmil Mora, representada por su abogado, en relación con la negativa de un tribunal inferior de otorgar el beneficio de justicia gratuita. La Sala declaró su incompetencia para conocer la acción, pero revisó de oficio la sentencia impugnada, anulándola y ordenando al tribunal de origen que se pronuncie nuevamente sobre la solicitud de justicia gratuita, garantizando así el derecho a la tutela judicial efectiva y al debido proceso. La decisión resalta la importancia de la gratuidad de la justicia y la obligación del Estado de asumir los costos procesales cuando el solicitante carece de recursos suficientes.",
+  "palabras_clave": [
+    "justicia gratuita",
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por justicia gratuita",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0706_E21-0417.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314946-0706-31221-2021-21-0417.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.736229"
+}

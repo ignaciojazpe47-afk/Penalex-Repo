@@ -1,0 +1,25 @@
+{
+  "id": 31654,
+  "numero": "1012",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia nº 0508, se pronunció sobre un recurso de apelación interpuesto por los abogados de Andrés Francisco Galdo Tejeiro, quien había solicitado un amparo constitucional. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimidad de los apoderados judiciales. La Sala Constitucional, tras analizar el caso, determinó que la supuesta violación a los derechos constitucionales había cesado, ya que el tribunal de control había dictado una decisión sobre la solicitud de sobreseimiento presentada por el Ministerio Público.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "derechos",
+    "garantías",
+    "proceso",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1012_E18-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327544-1012-31723-2023-18-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.858137"
+}

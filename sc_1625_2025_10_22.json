@@ -1,0 +1,25 @@
+{
+  "id": 22428,
+  "numero": "1625",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia dictada el 18 de marzo de 2025.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 18 de marzo de 2025, que había declarado con lugar un recurso de apelación en un juicio de desalojo. La Sala encontró que el juzgado de alzada incurrió en incongruencia omisiva al no pronunciarse sobre alegatos de defensa presentados por la parte demandante, lo que vulneró derechos constitucionales como el debido proceso y la tutela judicial efectiva. Como resultado, se declaró ha lugar la solicitud de revisión y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "inmotivad",
+    "reconducción",
+    "arrendamiento",
+    "tutela judicial",
+    "carga probatoria",
+    "decisión judicial"
+  ],
+  "titulo": "Revisión constitucional de sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1625_E25-0752.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349006-1625-221025-2025-25-0752.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.750285"
+}

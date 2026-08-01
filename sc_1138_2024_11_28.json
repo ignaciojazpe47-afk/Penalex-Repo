@@ -1,0 +1,24 @@
+{
+  "id": 28049,
+  "numero": "1138",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Alexis José Goatache Arévalo contra la Fiscalía Quinta de la Circunscripción Judicial del estado Aragua. Se establece que la competencia corresponde a un Juzgado de Primera Instancia en lo Penal del Circuito Judicial Penal del Estado Aragua. La decisión se fundamenta en la naturaleza del derecho o garantía constitucional violados y en el procedimiento adecuado para su protección.",
+  "palabras_clave": [
+    "habeas data",
+    "amparo",
+    "derechos constitucionales",
+    "jurisdicción constitucional",
+    "interpretación de normas"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Alexis José Goatache Arévalo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1138_E23-1048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339735-1138-281124-2024-23-1048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.480071"
+}

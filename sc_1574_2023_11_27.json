@@ -1,0 +1,23 @@
+{
+  "id": 33005,
+  "numero": "1574",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia declara la incompetencia del Tribunal Supremo de Justicia para conocer la acción de habeas data interpuesta por Souhail Yatim Misri, quien solicitaba la eliminación de sus datos personales del sistema SIPOL. El Tribunal determina que la competencia corresponde a los Juzgados de Municipio Ordinario y Ejecutor de Medidas del Municipio Bolívar, Estado Táchira. Se ordena el envío del expediente al tribunal correspondiente para su conocimiento.",
+  "palabras_clave": [
+    "habeas data",
+    "incompetencia",
+    "CICPC",
+    "Táchira"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1574_E22-0125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330629-1574-271123-2023-22-0125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.417813"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 60756,
+  "numero": "1016",
+  "fecha": "2016-11-30",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Vanessa Josefina Carreño Rivera en representación de su hijo, contra la decisión del Tribunal Superior Tercero que autorizó el viaje del menor a España. La Sala consideró que la decisión impugnada vulneraba los derechos del niño a la integridad física y psicológica, así como su derecho a ser oído y a la educación, dado que el viaje interrumpiría sus actividades escolares y podría afectar su salud emocional y física debido a su condición médica. Finalmente, se ordenó la suspensión de la autorización de viaje hasta que se dicte la sentencia de fondo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "viaje de menor",
+    "interés superior del niño"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre autorización de viaje de menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-30_S1016_E16-1154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193229-1016-301116-2016-16-1154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.605579"
+}

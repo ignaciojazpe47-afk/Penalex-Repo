@@ -1,0 +1,22 @@
+{
+  "id": 21229,
+  "numero": "1243",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el abogado José Clemente Bolívar Torrealba en representación de Ana Miguelina Muentes de Santana, en relación a la sentencia de la Corte de Apelaciones que declaró la prescripción de la acción penal en un caso de violencia contra la mujer. La Sala determinó que no había lugar para la revisión, ya que no se evidenció un desconocimiento de normas constitucionales ni un error en la interpretación de las mismas por parte de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "prescripción",
+    "violencia contra la mujer",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre prescripción de acción penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1243_E24-0942.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346540-1243-28725-2025-24-0942.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.373848"
+}

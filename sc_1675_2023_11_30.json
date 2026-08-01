@@ -1,0 +1,26 @@
+{
+  "id": 33166,
+  "numero": "1675",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por los abogados Lucía Gómez de Delgado y Ricardo Arturo Navarro Urbaez, en representación de los ciudadanos María Beatriz de Gouveia Figueira y José Martinho de Gouveia, contra la decisión de la Corte de Apelaciones que declaró con lugar un recurso de apelación. La Sala considera que la decisión de la Corte de Apelaciones fue ajustada a derecho y no incurrió en abuso de poder ni extralimitación de atribuciones.",
+  "palabras_clave": [
+    "inmunidad",
+    "debido_proceso",
+    "tutela_judicial",
+    "motivación",
+    "acusación_particular",
+    "Ministerio_Público",
+    "sentencia_vinculante"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1675_E23-0779.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330844-1675-301123-2023-23-0779.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.968504"
+}

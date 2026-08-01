@@ -1,0 +1,25 @@
+{
+  "id": 37130,
+  "numero": "0880",
+  "fecha": "2022-11-01",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de amparo constitucional presentada por el abogado José Joel Gómez en representación de JHONNY RAFAEL BELLORIN BERMÚDEZ. La solicitud se fundamenta en la decisión de la Corte de Apelaciones que declaró sin lugar una apelación interpuesta en 2014. La Sala argumenta que el escrito de solicitud no cumple con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en cuanto a la identificación del acto lesivo y la descripción de las circunstancias que motivan la solicitud.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "tutela",
+    "jurisdicción",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-01_S0880_E16-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320482-0880-11122-2022-16-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.418583"
+}

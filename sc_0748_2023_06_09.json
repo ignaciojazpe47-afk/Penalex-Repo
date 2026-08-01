@@ -1,0 +1,26 @@
+{
+  "id": 30800,
+  "numero": "0748",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró su competencia para conocer de la acción de amparo interpuesta por varios ciudadanos contra sentencias del Juzgado Superior del Trabajo de Portuguesa. Sin embargo, se constató que los accionantes no realizaron actuaciones durante más de seis meses, lo que se consideró como abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se dejó sin efecto la medida cautelar previamente acordada.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "interesprocesal",
+    "derechos",
+    "tutela",
+    "sentencias",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0748_E17-0514.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326019-0748-9623-2023-17-0514.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.409266"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 31211,
+  "numero": "0915",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Álvaro Mori Pérez contra la decisión del Juzgado Superior Primero que declaró improcedente la tacha de falsedad de documentos. La Sala consideró que el juzgado inferior erró al aplicar incorrectamente el procedimiento de tacha de documentos públicos, lo que vulneró los derechos al debido proceso y a la defensa del accionante. En consecuencia, se anuló la sentencia impugnada y se ordenó que un nuevo juzgado superior conociera del caso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tacha de Falsedad",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Tacha de Falsedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0915_E22-0672.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326823-0915-12723-2023-22-0672.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.218839"
+}

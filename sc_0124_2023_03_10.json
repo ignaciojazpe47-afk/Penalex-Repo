@@ -1,0 +1,26 @@
+{
+  "id": 29126,
+  "numero": "0124",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000319/2022 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Carmen Elisa Fuentes de Rincón. La Sala Constitucional determinó que la decisión de la Sala de Casación Civil no incurrió en errores que justificaran la revisión, ya que actuó conforme a derecho al anular las sentencias previas y reponer la causa al tribunal competente por la cuantía. La Sala concluyó que no había lugar a la revisión solicitada, reafirmando la competencia del tribunal de municipio en este caso.",
+  "palabras_clave": [
+    "casación",
+    "debido proceso",
+    "juez natural",
+    "nulidad",
+    "tutela judicial",
+    "infracciones",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de resolución de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0124_E22-0738.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323292-0124-10323-2023-22-0738.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.334650"
+}

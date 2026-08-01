@@ -1,0 +1,25 @@
+{
+  "id": 38157,
+  "numero": "0001",
+  "fecha": "2021-01-08",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto número 4.396, del 26 de diciembre de 2020, que establece el Estado de Excepción y Emergencia Económica en Venezuela. Este decreto se fundamenta en la necesidad de adoptar medidas urgentes para garantizar el acceso a bienes y servicios esenciales ante la crisis económica y social que enfrenta el país. La decisión se basa en la competencia de la Sala para revisar la constitucionalidad de tales decretos, conforme a lo establecido en la Constitución y la Ley Orgánica sobre Estados de Excepción.",
+  "palabras_clave": [
+    "estado de excepción",
+    "constitucionalidad",
+    "emergencia económica",
+    "poder ejecutivo",
+    "derechos humanos",
+    "seguridad nacional"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto número 4.396 de Estado de Excepción y Emergencia Económica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-01-08_S0001_E21-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/311232-0001-8121-2021-21-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.387539"
+}

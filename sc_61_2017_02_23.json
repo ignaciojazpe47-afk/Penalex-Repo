@@ -1,0 +1,22 @@
+{
+  "id": 50307,
+  "numero": "61",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la apelación interpuesta por Gilberto Gregorio Medina Blanca contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que había declarado inadmisible su acción de amparo constitucional. La Sala fundamentó su decisión en la falta de agotamiento de los medios de defensa ordinarios y en la extemporaneidad del recurso de apelación presentado por el accionante. Se destacó que el cambio de datos del vehículo en cuestión y la solicitud de experticia no justificaban la acción de amparo, ya que existían vías procesales adecuadas para resolver la situación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S61_E16-0743.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196362-61-23217-2017-16-0743.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.236685"
+}

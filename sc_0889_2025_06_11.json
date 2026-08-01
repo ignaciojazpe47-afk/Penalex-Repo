@@ -1,0 +1,27 @@
+{
+  "id": 20304,
+  "numero": "0889",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Mery Josefina Gómez Cadenas en representación de Gloria del Carmen Rivera, alegando omisiones de pronunciamiento por parte de un Juzgado y una Corte de Apelaciones. La Sala determinó su competencia para conocer del caso, pero finalmente declaró terminado el procedimiento por abandono del trámite, dado que no hubo impulso procesal durante más de seis meses. Además, se impuso una multa a la parte accionante por incumplimiento de las obligaciones procesales.",
+  "palabras_clave": [
+    "proceso penal",
+    "apelación",
+    "sobreseimiento",
+    "debido proceso",
+    "nulidad",
+    "querella",
+    "fiscalía",
+    "derechos humanos"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0889_E23-1265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344684-0889-11625-2025-23-1265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.300828"
+}

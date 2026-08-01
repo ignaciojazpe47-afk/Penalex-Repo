@@ -1,0 +1,24 @@
+{
+  "id": 55023,
+  "numero": "1025",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en favor de Juana Francisca Rudman de Hernández, quien interpuso una acción de amparo constitucional por violaciones a sus derechos fundamentales, incluyendo el derecho a la salud, vida, integridad personal y propiedad privada. La acción fue motivada por situaciones de violencia y acoso por parte de su cónyuge, Guillermo Nicanor Hernández Bernal, durante un proceso de divorcio, así como la omisión de la Fiscalía en actuar ante las denuncias presentadas.\n\nLa Sala consideró que la acción de amparo fue planteada de forma confusa, pero ordenó a la parte actora corregir su escrito de amparo para que se precise el agravio y se describan las omisiones denunciadas. Se estableció un plazo de dos días hábiles para realizar dicha corrección, advirtiendo que el incumplimiento podría llevar a la inadmisibilidad de la acción.\n\nFinalmente, se ordenó notificar a la demandante para que realice las correcciones necesarias en su solicitud de amparo, enfatizando la importancia de garantizar el acceso a la justicia y la protección de los derechos fundamentales de las personas en situaciones de vulnerabilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "derechos fundamentales",
+    "fiscalía",
+    "divorcio"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Juana Francisca Rudman de Hernández",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1025_E17-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205935-1025-301117-2017-17-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.490390"
+}

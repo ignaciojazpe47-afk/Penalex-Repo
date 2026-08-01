@@ -1,0 +1,25 @@
+{
+  "id": 28370,
+  "numero": "1312",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Daniel Josué Zambrano Arias y Juan Nahir David Zambrano Arias, quienes denunciaron la omisión de pronunciamiento del Tribunal Especial Primero de Primera Instancia en Funciones de Control respecto a su solicitud de revocatoria de defensa pública y designación de defensa privada. La Sala, tras analizar la competencia, se declaró incompetente para conocer el caso y declinó la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "justicia",
+    "delitos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1312_E24-0242.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340326-1312-101224-2024-24-0242.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.218733"
+}

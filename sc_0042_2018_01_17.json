@@ -1,0 +1,26 @@
+{
+  "id": 45056,
+  "numero": "0042",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Asociación Nacional de la Fuerza Motorizada de Integración Comunitaria de Venezuela interpuso una acción de amparo contra un acto administrativo del Instituto Nacional de Transporte Terrestre que aumentaba tarifas sin consulta previa. La Sala Constitucional, tras analizar la competencia, determinó que no era competente para conocer la demanda, declinando el conocimiento a las Cortes de lo Contencioso Administrativo. La decisión se fundamenta en la necesidad de proteger los derechos constitucionales de los ciudadanos afectados por el acto administrativo.",
+  "palabras_clave": [
+    "amparo",
+    "administración",
+    "competencia",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0042_E17-0822.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206913-0042-17118-2018-17-0822.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.251193"
+}

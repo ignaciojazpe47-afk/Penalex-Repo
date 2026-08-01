@@ -1,0 +1,25 @@
+{
+  "id": 32965,
+  "numero": "1534",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por varios ciudadanos contra la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Miranda, alegando violaciones a sus derechos constitucionales. La Sala Constitucional del TSJ determinó su competencia para conocer el caso, pero concluyó que hubo abandono del trámite por parte de los accionantes, quienes no realizaron actuaciones durante más de seis meses. Como resultado, se impuso una multa a la parte actora por el abandono del procedimiento.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparo",
+    "multa",
+    "derechos",
+    "justicia",
+    "COVID-19"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1534_E21-0835.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330588-1534-231123-2023-21-0835.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.432987"
+}

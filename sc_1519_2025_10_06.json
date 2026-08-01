@@ -1,0 +1,25 @@
+{
+  "id": 22086,
+  "numero": "1519",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión constitucional presentada por el abogado Luis José Villarroel Cabello, actuando en nombre de Antonio José Jiménez Marcano. Sin embargo, se determina la inadmisibilidad de la solicitud debido a la falta de legitimidad del abogado para actuar en el presente asunto, ya que no se presentó el instrumento poder necesario que acredite su representación judicial.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder judicial",
+    "representación",
+    "inadmisibilidad",
+    "carga procesal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1519_E24-1189.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348265-1519-61025-2025-24-1189.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.193887"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 44791,
+  "numero": "0503",
+  "fecha": "2018-04-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo constitucional interpuesta por Álvaro Ramón Gallardo Pérez contra una decisión del Juzgado Accidental Superior en lo Civil, Mercantil y de Tránsito del Estado Trujillo. El demandante alegó que la citación en el juicio primigenio alcanzó su finalidad, ya que el demandado se dio por citado y participó activamente en el proceso, lo que llevó a solicitar la nulidad de la decisión que ordenó la reposición de la causa por considerar que era inútil y vulneraba su derecho al debido proceso.\n\nLa Sala, tras analizar los argumentos y las pruebas presentadas, concluyó que efectivamente el demandado había estado presente en todas las etapas del proceso y que la citación cumplió su objetivo. Por lo tanto, se declaró con lugar el amparo constitucional, anulando la decisión recurrida y ordenando al Juez Superior que dictara una nueva sentencia corrigiendo el vicio señalado.\n\nEsta decisión reafirma la importancia del derecho a la defensa y el debido proceso, así como la necesidad de que las citaciones se realicen de manera efectiva para garantizar la validez de los juicios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "citaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-09_S0503_E17-1204.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308712-0503-91219-2019-17-1204.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.819635"
+}

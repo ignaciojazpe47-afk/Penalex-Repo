@@ -1,0 +1,25 @@
+{
+  "id": 42345,
+  "numero": "0057",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por la Alcaldía del Municipio Maneiro contra la sentencia de la Corte Segunda de lo Contencioso Administrativo que confirmó la nulidad de un acto administrativo relacionado con variables urbanas. La Corte consideró que no se evidenció la perturbación de derechos fundamentales ni la afectación de zonas verdes o vías públicas, y que la apelación no correspondía a la vía de nulidad sino a la de tacha, lo que llevó a desestimar la solicitud de amparo.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "vicios",
+    "zona verde",
+    "urbanismo",
+    "derecho administrativo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por la Alcaldía del Municipio Maneiro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0057_E17-0123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303996-0057-27219-2019-17-0123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.614025"
+}

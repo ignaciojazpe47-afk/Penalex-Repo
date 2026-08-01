@@ -1,0 +1,24 @@
+{
+  "id": 20806,
+  "numero": "1064",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 354 del 12 de agosto de 2022, dictada por la Sala de Casación Civil, que había declarado la nulidad de un fallo anterior por inmotivación. En esta revisión, se determinó que la parte demandada había incumplido el contrato de opción de compra-venta, lo que llevó a la resolución del mismo y a la condena por daños y perjuicios. Se ordenó el pago de $150,000 por parte de la demandada, deduciendo de los $180,500 que había pagado como arras.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato de opción de compra-venta",
+    "daños y perjuicios",
+    "nulidad",
+    "inmotivación"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 354 del 12 de agosto de 2022",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1064_E22-0945.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345826-1064-9725-2025-22-0945.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.504944"
+}

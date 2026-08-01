@@ -1,0 +1,25 @@
+{
+  "id": 18668,
+  "numero": "0234",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de apelación interpuesto por Germán Figueroa Rivera, asistido por su abogado, contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo constitucional. La Sala considera que el apelante tenía derecho a impugnar la decisión que declaró sin lugar las excepciones planteadas por su defensa en la audiencia preliminar. Se anula la decisión de la Corte de Apelaciones y se ordena que se pronuncie sobre la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "acusación",
+    "defensa",
+    "Código Orgánico Procesal Penal",
+    "inmunidad",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0234_E24-0905.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342046-0234-27225-2025-24-0905.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.879252"
+}

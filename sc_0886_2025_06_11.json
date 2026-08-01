@@ -1,0 +1,23 @@
+{
+  "id": 20301,
+  "numero": "0886",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Cuarto que declaró con lugar un recurso de nulidad contra un laudo arbitral. La revisión fue solicitada por FRAGÓN INVERSIONES C.A., quien argumentó violaciones al derecho a ser juzgado por sus jueces naturales y al debido proceso. La Sala determinó que el Juzgado había condicionado la constitución de un tribunal con jueces asociados a un acuerdo de partes, lo que vulneró el equilibrio procesal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "laudo arbitral",
+    "derecho a la defensa",
+    "jueces asociados"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del laudo arbitral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0886_E25-0331.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344681-0886-11625-2025-25-0331.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.292013"
+}

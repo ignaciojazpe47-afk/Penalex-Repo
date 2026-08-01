@@ -1,0 +1,24 @@
+{
+  "id": 34337,
+  "numero": "0016",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Williams Rafael Cedeño Urbano, en su carácter de Presidente de la sociedad mercantil Corporación 3C, C.A. La solicitud se refiere a la sentencia identificada con el alfanumérico RC.000409, dictada el 29 de junio de 2016 por la Sala de Casación Civil. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada de la sentencia objeto de revisión, lo cual es un requisito indispensable para la admisión de este tipo de solicitudes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "copia certificada",
+    "procedimiento civil",
+    "carga de la prueba"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0016_E21-0487.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315528-0016-11222-2022-21-0487.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.712565"
+}

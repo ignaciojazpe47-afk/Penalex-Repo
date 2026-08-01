@@ -1,0 +1,23 @@
+{
+  "id": 16106,
+  "numero": "0079",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El Tribunal Supremo de Justicia, a través de su Sala Constitucional, declaró inadmisible el amparo constitucional interpuesto por Ricardo Arturo de Jongh Rotondaro contra la sentencia N° 701 de la Sala de Casación Civil. La acción fue considerada inadmisible debido a que la Ley Orgánica de Amparo establece que no se admiten acciones de amparo contra decisiones emanadas de la Corte Suprema de Justicia, que es el caso del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "sentencia",
+    "Sala de Casación Civil"
+  ],
+  "titulo": "Inadmisibilidad del amparo constitucional interpuesto contra la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0079_E25-0551.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352765-0079-19226-2026-25-0551.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.386731"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 69320,
+  "numero": "118",
+  "fecha": "2014-02-25",
+  "anio": 2014,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional se pronuncia sobre una acción por derechos o intereses difusos interpuesta por la Asociación de Usuarios de Servicios Eléctricos de Venezuela contra TELCEL C.A. y Telefónica Móviles S.A., en la que se denuncia la mala calidad de los servicios de telefonía móvil y fija. La sentencia destaca la necesidad de intervención de la Superintendencia de la Actividad Aseguradora para determinar si el servicio 'TelSafe' requiere autorización y si se han cumplido las normativas correspondientes. Se ordena remitir copia del contrato a dicha Superintendencia para su evaluación.",
+  "palabras_clave": [
+    "intereses difusos",
+    "servicios de telefonía",
+    "mala calidad",
+    "Telcel",
+    "Superintendencia de la Actividad Aseguradora"
+  ],
+  "titulo": "Sentencia sobre acción por derechos o intereses difusos contra TELCEL C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2014-02-25_S118_E08-0664.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/161609-118-25214-2014-08-0664.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:11.331610"
+}

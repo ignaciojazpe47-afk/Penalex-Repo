@@ -1,0 +1,25 @@
+{
+  "id": 18170,
+  "numero": "0024",
+  "fecha": "2025-01-25",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Javier José Franco Dorado contra la decisión de la Sala 6 de la Corte de Apelaciones que declaró inadmisible su recurso de apelación por extemporáneo. La Sala consideró que la falta de notificación del fallo impugnado vulneró el derecho a la defensa y al debido proceso del accionante. En consecuencia, se anuló la decisión de la Corte de Apelaciones y se ordenó que una Sala distinta se pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "debido proceso",
+    "sentencia",
+    "justicia",
+    "Código Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0024_E23-1244.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341170-0024-4225-2025-23-1244.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.806756"
+}

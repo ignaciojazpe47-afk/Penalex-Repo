@@ -1,0 +1,25 @@
+{
+  "id": 30226,
+  "numero": "0445",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Evelise Peña contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de Monagas, que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión del tribunal inferior, argumentando que la acción fue presentada fuera del plazo establecido y que existían vías ordinarias no agotadas para impugnar la decisión. Se destacó que el amparo no puede ser utilizado como un medio para revisar decisiones judiciales firmes.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "orden público",
+    "debido proceso",
+    "caducidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0445_E22-0860.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325065-0445-15523-2023-22-0860.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.881344"
+}

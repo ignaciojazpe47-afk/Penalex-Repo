@@ -1,0 +1,26 @@
+{
+  "id": 39729,
+  "numero": "0466",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Cora Gedler Torres contra el auto del Tribunal Superior Segundo que negó la apelación de su acción de amparo por considerarla extemporánea. La Sala argumenta que la apelación fue presentada fuera del plazo legal establecido, y que existen recursos ordinarios disponibles para restablecer la situación jurídica lesionada, lo que hace innecesario el amparo. Además, se resalta que la acción de amparo no puede ser utilizada para eludir los recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "proceso",
+    "tutela",
+    "recursos",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Cora Gedler Torres",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0466_E19-0054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313575-0466-11021-2021-19-0054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.606337"
+}

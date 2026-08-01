@@ -1,0 +1,26 @@
+{
+  "id": 45928,
+  "numero": "0210",
+  "fecha": "2018-03-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "INCOMPETENTE",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Rafael Antonio Ferraro Marino, quien alegó violaciones al orden público constitucional en un proceso de cumplimiento de contrato de arrendamiento. La Sala, tras analizar las irregularidades denunciadas, determinó que no tenía competencia para conocer del caso, declinando la solicitud a la Sala de Casación Civil. En consecuencia, se ordenó remitir el expediente correspondiente a dicha Sala para su conocimiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "competencia",
+    "orden público",
+    "derechos constitucionales",
+    "justicia",
+    "interés general"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de cumplimiento de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-12_S0210_E17-1260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208592-0210-12318-2018-17-1260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.687705"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27543,
+  "numero": "0807",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Inversiones 4H, C.A. contra una decisión del Juzgado Superior en lo Civil y Contencioso Administrativo que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada dentro del plazo legal, pero la Sala determinó que la acción de amparo no era admisible ya que la supuesta violación de derechos había cesado al ser devuelto el expediente al juez de origen. Por lo tanto, se confirmó la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "debido_proceso",
+    "juez_natural",
+    "inadmisibilidad",
+    "vías_ordinarias"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0807_E17-0992.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338980-0807-141124-2024-17-0992.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.021732"
+}

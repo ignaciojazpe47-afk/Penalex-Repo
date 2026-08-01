@@ -1,0 +1,25 @@
+{
+  "id": 28365,
+  "numero": "1307",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Dra. Tania D’Amelio Cardiet, se pronunció sobre la solicitud de avocamiento presentada por varios ciudadanos en relación a un expediente de la Sala de Casación Civil. La solicitud fue fundamentada en la supuesta violación al debido proceso y a la tutela judicial efectiva. Sin embargo, la Sala declaró inadmisible la solicitud, argumentando que el avocamiento no procedía debido a que el expediente ya había culminado y no se cumplían los requisitos necesarios para su admisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido_proceso",
+    "justicia",
+    "jurisdicción",
+    "interés_público",
+    "Ley_Orgánica_del_Tribunal_Supremo_de_Justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1307_E23-102.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340321-1307-101224-2024-23-102.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.221368"
+}

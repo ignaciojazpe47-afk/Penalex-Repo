@@ -1,0 +1,26 @@
+{
+  "id": 23063,
+  "numero": "1831",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara NO HA LUGAR la solicitud de revisión interpuesta por José Antonio Pérez Pavique, quien solicitó la revisión de una sentencia dictada por la Sala 7 de la Corte de Apelaciones. La solicitud se fundamentó en la supuesta violación de derechos constitucionales en el proceso penal que lo involucraba, alegando vicios en la valoración de pruebas documentales y en el debido proceso. Sin embargo, la Sala concluyó que no existieron las lesiones constitucionales alegadas y que la actuación del juzgado de instancia fue ajustada a derecho.",
+  "palabras_clave": [
+    "debido_proceso",
+    "pruebas_documentales",
+    "apelación",
+    "justicia",
+    "constitución",
+    "sentencia",
+    "corte_apelaciones"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1831_E25-0055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349955-1831-181125-2025-25-0055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.061442"
+}

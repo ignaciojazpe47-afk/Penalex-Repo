@@ -1,0 +1,25 @@
+{
+  "id": 33103,
+  "numero": "1612",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por JM CARS SERVICE C.A. contra la decisión del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de Carabobo, que había confirmado una sentencia de desalojo. La Sala consideró que se habían vulnerado derechos constitucionales como el derecho a la defensa y al debido proceso, debido a irregularidades en la citación de la empresa demandada. En consecuencia, se anuló la decisión impugnada y se ordenó reponer la causa al estado de practicar la citación de la sociedad mercantil en las personas que estatutariamente fungen como representantes legales.",
+  "palabras_clave": [
+    "arrendamiento",
+    "desalojo",
+    "carga de la prueba",
+    "obligaciones",
+    "sentencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1612_E23-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330779-1612-291123-2023-23-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.999498"
+}

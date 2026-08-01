@@ -1,0 +1,27 @@
+{
+  "id": 2245,
+  "numero": null,
+  "fecha": "2001-01-26",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "CONFIRMA",
+  "ponente": "JESÚS EDUARDO CABRERA ROMERO",
+  "resumen": "La sentencia del 26 de enero de 2001, dictada por la Sala Constitucional del Tribunal Supremo de Justicia, aborda un recurso de amparo constitucional interpuesto por la empresa Madison Learning Center, C.A. contra una decisión del Juzgado Séptimo de Primera Instancia del Trabajo, que había ordenado el reenganche de la trabajadora Astrid Alcalá de Hernández tras calificar su despido como injustificado. La empresa alegó violaciones al debido proceso y errores judiciales en la decisión del juez de primera instancia. Sin embargo, el tribunal constitucional declaró sin lugar la apelación, confirmando la inadmisibilidad del amparo, al considerar que existían otros recursos procesales idóneos para impugnar la decisión del juez laboral. La Sala concluyó que el juez de primera instancia actuó correctamente al no declarar la perención de la instancia, ya que el proceso no había estado paralizado de manera que justificara tal decisión.",
+  "palabras_clave": [
+    "amparo",
+    "despido",
+    "trabajo",
+    "debido proceso",
+    "inadmision",
+    "reenganche",
+    "error judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Amparo Constitucional contra decisión de despido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-01-26_Constitucional_00_CabreraRomero.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.718009"
+}

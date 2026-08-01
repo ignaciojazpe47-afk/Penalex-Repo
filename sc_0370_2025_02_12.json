@@ -1,0 +1,26 @@
+{
+  "id": 17632,
+  "numero": "0370",
+  "fecha": "2025-02-12",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional recibió un expediente de amparo constitucional interpuesto por Carlos Enrique Donato Viera contra el Juzgado Superior Agrario del Estado Trujillo. La acción se basa en la falta de respuesta a un recurso de apelación interpuesto en 2022. La Sala ordenó a la Secretaría que oficiara al Juez Superior Agrario para que informara sobre el estado del recurso y la existencia de un juez accidental para atender el caso.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "recurso",
+    "apelación",
+    "tribunales",
+    "justicia",
+    "agricultura"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0370_E24-0521.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354383-0370-25326-2026-24-0521.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.771988"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 52212,
+  "numero": "453",
+  "fecha": "2017-06-09",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la acción de amparo constitucional interpuesta por el abogado Luis Aquiles Mejía Arnal, en representación de la sociedad mercantil Venezolano de Crédito, S.A. Banco Universal, contra la sentencia dictada el 03 de octubre de 2013 por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Carabobo. La Sala consideró que el Juzgado Superior había violado el derecho a la tutela judicial efectiva y al juez natural al no respetar el domicilio especial acordado por las partes en el contrato, lo que llevó a la nulidad de la decisión impugnada y a la reposición del caso al estado de admisión de la demanda en el juicio primigenio.\n\nLa decisión se fundamentó en que las partes habían elegido un domicilio especial en Caracas, lo que debía ser respetado conforme al artículo 47 del Código de Procedimiento Civil, que permite la derogación de la competencia territorial por acuerdo de las partes. La Sala concluyó que el Juzgado Superior había cometido un error al no declarar la incompetencia de los tribunales de la ciudad de Los Teques y al no aplicar correctamente la cláusula contractual que establecía el domicilio especial.\n\nFinalmente, se ordenó que un Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Área Metropolitana de Caracas conociera de la demanda interpuesta por las sociedades mercantiles Inversiones Gold Invest, C.A. e Inversiones Supligold, C.A. y la ciudadana Yelitza Gregoria Mendoza contra la sociedad mercantil Venezolano de Crédito, S.A. Banco Universal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia territorial",
+    "domicilio especial",
+    "tutela judicial efectiva",
+    "juez natural"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-09_S453_E2014-330.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199845-453-9617-2017-2014-330.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.072704"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33104,
+  "numero": "1614",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ADMITE la acción de amparo interpuesta contra la sentencia dictada el 3 de febrero de 2022 y se ANULA dicha sentencia. Se declara INADMISIBLE la acción de amparo interpuesta contra la decisión del 24 de febrero de 2022.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por José Luis Herrera Virguez contra la sentencia del Tribunal Superior de Protección de Niños, Niñas y Adolescentes del 3 de febrero de 2022, que declaró inadmisible su recusación. La Sala anuló dicha sentencia y ordenó que otro juzgado dicte un nuevo pronunciamiento. Sin embargo, declaró inadmisible la acción de amparo contra la sentencia del 24 de febrero de 2022, argumentando que el demandante no agotó las vías ordinarias disponibles para impugnarla.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recusación",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1614_E22-0239.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330780-1614-291123-2023-22-0239.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.009235"
+}

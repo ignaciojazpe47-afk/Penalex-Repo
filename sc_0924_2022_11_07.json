@@ -1,0 +1,22 @@
+{
+  "id": 37226,
+  "numero": "0924",
+  "fecha": "2022-11-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Rafael Eduardo González Rodríguez en representación de Jesús Fidel Castro Rivas, quien había sido privado de libertad por más de cinco años sin un juicio previo. La Corte de Apelaciones del Circuito Judicial Penal del Estado Cojedes había declarado inadmisible la acción de amparo, argumentando que la presunta lesión había cesado. Sin embargo, la Sala Constitucional determinó que la privación de libertad del demandado constituía una violación de sus derechos humanos y ordenó revocar la decisión de la Corte de Apelaciones, instándola a pronunciarse sobre la admisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "privación de libertad",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-07_S0924_E22-0009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320612-0924-71122-2022-22-0009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.402526"
+}

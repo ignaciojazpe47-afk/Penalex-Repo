@@ -1,0 +1,25 @@
+{
+  "id": 20827,
+  "numero": "1085",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión presentada por Edgardo Enrique Ahumada Ahumada, relacionada con un fallo anterior sobre prestaciones sociales. La Sala consideró improcedente la solicitud, ya que el solicitante debía dirigirse al tribunal correspondiente para presentar sus peticiones en la fase de ejecución del fallo firme. Se ordenó el cierre y archivo del expediente, remitiendo copia de la decisión al tribunal ejecutor para que realice los trámites pertinentes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "ejecución de fallo",
+    "tribunales",
+    "procedimiento",
+    "derecho laboral"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1085_E15-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345847-1085-9725-2025-15-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.503345"
+}

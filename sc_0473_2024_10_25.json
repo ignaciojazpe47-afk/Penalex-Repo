@@ -1,0 +1,25 @@
+{
+  "id": 26950,
+  "numero": "0473",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de interpretación presentado por Hernán Jesús Guédez, relacionado con el principio de acceso a la justicia. La decisión se basa en la falta de legitimación del recurrente, quien no presentó la demanda con la asistencia de un abogado, lo que afecta su capacidad de postulación. Además, se argumenta que el recurso no persigue un interés jurídico actual y legítimo, sino que se limita a resolver un conflicto concreto entre particulares.",
+  "palabras_clave": [
+    "acceso a la justicia",
+    "interpretación constitucional",
+    "derechos humanos",
+    "normas constitucionales",
+    "fiscalía",
+    "recusación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0473_E24-0190.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338260-0473-251024-2024-24-0190.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.482934"
+}

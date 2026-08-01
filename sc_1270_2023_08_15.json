@@ -1,0 +1,25 @@
+{
+  "id": 34163,
+  "numero": "1270",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado Alexy Manuel Guzmán Tiapa en representación de Andreína Dolores Loreto de Sousa, contra una decisión de la Corte de Apelaciones del Estado Miranda. La Sala decidió que la falta de actuación procesal por parte del demandante durante más de seis meses constituía abandono del trámite, lo que llevó a la terminación del procedimiento. Además, se impuso una multa a la parte actora por la inactividad en el proceso.",
+  "palabras_clave": [
+    "apelación",
+    "debido proceso",
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "libertad",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1270_E22-0581.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328475-1270-15823-2023-22-0581.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.857273"
+}

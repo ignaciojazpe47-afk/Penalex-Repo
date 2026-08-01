@@ -1,0 +1,22 @@
+{
+  "id": 33799,
+  "numero": "1946",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por Jesús Andrés Herrera Román contra la decisión del Juzgado Superior que declaró inadmisible la acción de amparo constitucional. La Sala consideró que el recurso de amparo no era la vía idónea, dado que el apelante podía haber ejercido el recurso ordinario de apelación contra la sentencia que otorgó la autorización de viaje del menor. Se reafirmó que la acción de amparo no debe ser utilizada como un medio ordinario de impugnación y que el debido proceso debe ser garantizado en todos los casos, especialmente cuando se trata de derechos de menores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1946_E22-0119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331916-1946-131223-2023-22-0119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.446249"
+}

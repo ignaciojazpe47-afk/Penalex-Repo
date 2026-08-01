@@ -1,0 +1,25 @@
+{
+  "id": 30181,
+  "numero": "0422",
+  "fecha": "2023-05-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La abogada Yendy Maribel Machado Díaz solicitó la revisión constitucional de una sentencia de la Sala de Casación Civil que declaró inadmisible un recurso de hecho. La Sala Constitucional, tras analizar el expediente, determinó que la abogada no acreditó fehacientemente su representación, lo que llevó a declarar inadmisible la solicitud de revisión. La decisión se fundamenta en la falta de presentación de un poder que valide su actuación como apoderada judicial.",
+  "palabras_clave": [
+    "representación judicial",
+    "inadmisibilidad",
+    "copia simple",
+    "poder",
+    "revisión constitucional",
+    "seguridad jurídica"
+  ],
+  "titulo": "Inadmisibilidad de la revisión constitucional solicitada por Yendy Maribel Machado Díaz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-12_S0422_E20-0458.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325019-0422-12523-2023-20-0458.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.046520"
+}

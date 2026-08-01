@@ -1,0 +1,22 @@
+{
+  "id": 67790,
+  "numero": "1553",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Paubla Carolina González Alvares contra la decisión del Juzgado Superior Octavo del Trabajo, que había declarado sin lugar un recurso de apelación. La Sala determinó que la negativa de los juzgados a notificar a las empresas demandadas en la dirección donde funcionaba un establecimiento relacionado con el caso vulneraba los derechos a la defensa y al debido proceso de la demandante.\n\nEn consecuencia, la Sala declaró con lugar la acción de amparo, anulando las decisiones previas y ordenando que se proceda a la notificación de las partes en los términos establecidos por la ley. Se enfatizó la importancia de garantizar el acceso a la justicia y la protección de los derechos laborales de los trabajadores, considerando la situación de indefensión en la que se encontraba la demandante.\n\nFinalmente, la Sala resolvió que la causa debía ser conocida por otro juzgado de primera instancia, asegurando que se cumplan las formalidades legales para la notificación de los demandados, con el fin de restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-01_S1553_E12-0892.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183383-1553-11215-2015-12-0892.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.361848"
+}

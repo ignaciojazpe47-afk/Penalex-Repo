@@ -1,0 +1,26 @@
+{
+  "id": 22638,
+  "numero": "1695",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Andry Roque Pérez interpuso una acción de amparo constitucional contra la sentencia dictada el 19 de diciembre de 2024 por la Sala Única de la Corte de Apelaciones, que declaró sin lugar los recursos de apelación interpuestos. La Sala Constitucional del TSJ, tras analizar el caso, determinó que la apelante no cumplió con los plazos procesales establecidos para presentar su acusación particular, lo que llevó a la confirmación de la decisión de la Corte de Apelaciones. Finalmente, se declaró improcedente la acción de amparo, confirmando la sentencia impugnada.",
+  "palabras_clave": [
+    "proceso penal",
+    "acusación particular",
+    "sobreseimiento",
+    "victima",
+    "jurisprudencia",
+    "derechos humanos",
+    "violencia de género"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Andry Roque Pérez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1695_E25-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349298-1695-291025-2025-25-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.533444"
+}

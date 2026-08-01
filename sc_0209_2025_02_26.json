@@ -1,0 +1,25 @@
+{
+  "id": 18643,
+  "numero": "0209",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la abogada Leiza Josefina Idrogo en representación de los ciudadanos María Celeste Bastardo Urbina y Kelvin Manuel Sifontes, quienes alegaron vulneración de derechos al debido proceso y acceso a la justicia. La acción fue presentada debido a la presunta omisión de pronunciamiento de la Corte de Apelaciones en un caso de violencia de género, donde los demandantes habían sido condenados a 10 años de prisión.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "competencia",
+    "proceso",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0209_E24-0688.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342021-0209-26225-2025-24-0688.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.748667"
+}

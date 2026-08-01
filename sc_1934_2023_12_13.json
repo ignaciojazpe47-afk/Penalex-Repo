@@ -1,0 +1,22 @@
+{
+  "id": 33786,
+  "numero": "1934",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la sociedad mercantil Comercializadora Snacks S.R.L. contra una sentencia del Juzgado Superior Tercero del Trabajo que declaró sin lugar un recurso de apelación. La Sala ordenó a la demandante presentar copias certificadas de ciertos expedientes para valorar la admisibilidad de la acción de amparo. Se destacó que la representación judicial no cumplió con la presentación de la documentación necesaria, lo que podría afectar el resultado del caso.",
+  "palabras_clave": [
+    "amparo",
+    "laboral",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1934_E22-0585.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331903-1934-131223-2023-22-0585.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.443346"
+}

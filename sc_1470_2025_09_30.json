@@ -1,0 +1,27 @@
+{
+  "id": 21932,
+  "numero": "1470",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de septiembre de 2025, declaró improcedente in limine litis la acción de amparo constitucional interpuesta por Marilexys Del Valle Goyo Arriechi y Raquel María Coronado López, contra la decisión del Tribunal Tercero de Primera Instancia en funciones de Control del Circuito Judicial Penal del Estado Carabobo. La Corte de Apelaciones había declarado inadmisible la acción por 'falta de medios de prueba', lo cual fue considerado erróneo por la Sala Constitucional, que determinó que la acción cumplía con los requisitos de admisibilidad establecidos en la ley.\n\nLa Sala también observó que la decisión del Tribunal de Instancia se ajustó a derecho y no vulneró derechos fundamentales, por lo que la acción de amparo debió ser declarada improcedente desde el inicio. En consecuencia, se revocó la decisión de inadmisibilidad y se declaró improcedente la acción de amparo, ordenando el cumplimiento de lo decidido.",
+  "palabras_clave": [
+    "competencia",
+    "recurso de apelación",
+    "amparo constitucional",
+    "derechos constitucionales",
+    "inadmisibilidad",
+    "prueba",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1470_E24-0953.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348085-1470-30925-2025-24-0953.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.199164"
+}

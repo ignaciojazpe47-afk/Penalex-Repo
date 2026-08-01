@@ -1,0 +1,24 @@
+{
+  "id": 38682,
+  "numero": "0172",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Gulfrido José Molina Sánchez, contra la sentencia de la Corte de Apelaciones que anuló el sobreseimiento dictado por el Juzgado Segundo de Primera Instancia. La Corte de Apelaciones había declarado la nulidad de oficio del auto de sobreseimiento, alegando falta de motivación, lo cual fue considerado por la Sala Constitucional como un incumplimiento del requisito de racionalidad en las decisiones judiciales. La Sala concluyó que el Juzgado de Control sí había motivado su decisión, por lo que se declaró firme el sobreseimiento y se anuló la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "sobreseimiento",
+    "derechos constitucionales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de decisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0172_E20-0056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312132-0172-14521-2021-20-0056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.871801"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 35288,
+  "numero": "0263",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer del recurso de nulidad interpuesto por José Francisco Contreras Millán contra el acto legislativo de la Asamblea Nacional que designó a los rectores del Consejo Nacional Electoral. Se establece que la parte actora no ha demostrado interés en la tramitación del proceso, evidenciando una falta de actividad procesal durante más de un año. Por lo tanto, se declara la pérdida del interés procesal y el abandono del trámite de la demanda.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "abandonar trámite",
+    "acción de nulidad",
+    "constitucionalidad",
+    "administración de justicia",
+    "inactividad"
+  ],
+  "titulo": "Decisión sobre recurso de nulidad interpuesto contra designación de rectores del CNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0263_E21-0232.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317715-0263-7722-2022-21-0232.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.244219"
+}

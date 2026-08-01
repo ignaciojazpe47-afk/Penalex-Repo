@@ -1,0 +1,27 @@
+{
+  "id": 16536,
+  "numero": "0433",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia nro. 0261.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Mario José Milito Hernández, quien impugnó la sentencia nro. 0261 de la Sala de Casación Social. Esta última había declarado sin lugar el recurso de casación interpuesto contra una decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes. La Sala Constitucional determinó que la Sala de Casación Social incurrió en vicio de silencio de pruebas, al no valorar adecuadamente los documentos presentados que demostraban la propiedad del bien en disputa. Por lo tanto, se declaró ha lugar la solicitud de revisión y se anuló la sentencia impugnada, ordenando a la Sala de Casación Social emitir un nuevo pronunciamiento sobre el recurso de casación.",
+  "palabras_clave": [
+    "partición",
+    "bienes",
+    "herencia",
+    "silencio de pruebas",
+    "derecho a la defensa",
+    "inmuebles",
+    "jurisdicción",
+    "administración pública"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de casación en materia de partición de herencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0433_E23-1041.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354885-0433-9426-2026-23-1041.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.026506"
+}

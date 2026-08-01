@@ -1,0 +1,25 @@
+{
+  "id": 22235,
+  "numero": "1575",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria de la sentencia número 0926, presentada por la abogada Lisbeth Meneline Martínez Medina en representación de Yerkis Carolina Henríquez Terán. La solicitud fue considerada extemporánea, ya que fue presentada fuera del lapso legal establecido tras la publicación de la sentencia original el 13 de julio de 2023.",
+  "palabras_clave": [
+    "aclaratoria",
+    "procedimiento civil",
+    "inadmision",
+    "sentencia",
+    "tribunal supremo",
+    "niños y adolescentes"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1575_E22-0866.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348692-1575-151025-2025-22-0866.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.756957"
+}

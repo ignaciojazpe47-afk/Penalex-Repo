@@ -1,0 +1,22 @@
+{
+  "id": 27955,
+  "numero": "1068",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la solicitud de avocamiento presentada por Yaris Beatriz Palmar, quien solicitó que se avocara el conocimiento de un proceso de colocación familiar de su hija. La Sala determinó que la competencia correspondía a la Sala de Casación Social, dado que el asunto se relaciona con la protección de niños, niñas y adolescentes. Se ordenó la remisión del expediente a la Sala competente.",
+  "palabras_clave": [
+    "avocamiento",
+    "protección de niños",
+    "incompetencia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1068_E23-1056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339591-1068-271124-2024-23-1056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.484517"
+}

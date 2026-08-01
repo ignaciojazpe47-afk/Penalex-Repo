@@ -1,0 +1,22 @@
+{
+  "id": 17521,
+  "numero": "0515",
+  "fecha": "2026-04-16",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 5.314, que establece el Estado de Emergencia Económica en todo el territorio nacional por un lapso de sesenta días. Este decreto fue emitido por la Presidenta Encargada de la República, Delcy Eloína Rodríguez Gómez, en respuesta a las circunstancias extraordinarias que afectan gravemente la economía del país, incluyendo acciones coercitivas unilaterales de potencias extranjeras.\n\nLa decisión se fundamenta en la necesidad de adoptar medidas urgentes y excepcionales para preservar el equilibrio económico y garantizar el pleno disfrute de los derechos de la población. La Sala resalta que el decreto cumple con los principios de utilidad, proporcionalidad y necesidad, y se ajusta a los requisitos constitucionales establecidos para la declaración de estados de excepción.\n\nFinalmente, se ordena la publicación de la decisión en la Gaceta Oficial y se remite copia certificada a la Presidenta de la República y al Presidente de la Asamblea Nacional.",
+  "palabras_clave": [
+    "Estado de Emergencia",
+    "Constitucionalidad",
+    "Decreto N° 5.314"
+  ],
+  "titulo": "Declaración de Constitucionalidad del Decreto N° 5.314 sobre Estado de Emergencia Económica",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-16_S0515_E26-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/355024-0515-16426-2026-26-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.892146"
+}

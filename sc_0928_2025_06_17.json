@@ -1,0 +1,24 @@
+{
+  "id": 20377,
+  "numero": "0928",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por PERFUMERÍA EL INDIO POPOROPO C.A. contra la sentencia del Juzgado Segundo de Primera Instancia que homologó un convenimiento en un proceso de desalojo. Se argumenta que la parte accionante no agotó las vías ordinarias de impugnación y que el amparo no es el medio adecuado para restablecer la situación jurídica infringida. La Sala también revoca la decisión apelada, considerando que la acumulación de pretensiones en el juicio de desalojo fue inepta y que la notificación realizada fue inválida, afectando el derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Fraude Procesal",
+    "Derecho a la Defensa",
+    "Due Process"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0928_E24-0251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344889-0928-17625-2025-24-0251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.309575"
+}

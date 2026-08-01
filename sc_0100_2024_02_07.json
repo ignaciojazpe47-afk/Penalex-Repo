@@ -1,0 +1,24 @@
+{
+  "id": 24153,
+  "numero": "0100",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0440 de la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por LICEO MILITAR PRIVADO LOS PRÓCERES, C.A. contra la decisión del Juzgado Superior Primero en lo Civil, que había declarado inadmisible la tercería presentada por la sociedad. La Sala Constitucional determinó que la sentencia impugnada no incurrió en violaciones constitucionales y que la revisión no era procedente, reafirmando la importancia del debido proceso y la correcta aplicación de las normas procesales en el contexto de la tercería.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tercería",
+    "inadmisibilidad",
+    "debido proceso",
+    "LICEO MILITAR PRIVADO LOS PRÓCERES"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Civil sobre inadmisibilidad de tercería",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0100_E23-0377.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332471-0100-7224-2024-23-0377.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.568661"
+}

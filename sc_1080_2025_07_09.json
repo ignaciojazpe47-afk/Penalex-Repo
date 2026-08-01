@@ -1,0 +1,25 @@
+{
+  "id": 20822,
+  "numero": "1080",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Arsenio Taboada Ferreira, representado por la abogada Andreina Mora Lupacchino, contra la decisión del Tribunal Superior Segundo que declaró inadmisible la acción de amparo constitucional. La Sala determinó su competencia para conocer el caso, considerando que la apelación se refería a la presunta omisión de pronunciamiento en procedimientos de autorización judicial para viajar y régimen de convivencia familiar internacional.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "adopción",
+    "derechos",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1080_E24-0882.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345842-1080-9725-2025-24-0882.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.505653"
+}

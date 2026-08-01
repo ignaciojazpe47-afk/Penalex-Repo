@@ -1,0 +1,25 @@
+{
+  "id": 21204,
+  "numero": "1218",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia N° 0464, revocó la decisión del Juzgado Superior Undécimo que declaró inadmisible la acción de amparo interpuesta por Ricardo Alberto Torres Guillén. La Sala consideró que la acción de amparo es procedente y que el Juzgado Superior erró al señalar que existían vías ordinarias para impugnar la decisión. Se ordenó al Juzgado Superior emitir un nuevo pronunciamiento sobre la admisión de la acción de amparo, garantizando así el derecho a la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "tutela judicial",
+    "justicia gratuita",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1218_E25-0116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346515-1218-28725-2025-25-0116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.781988"
+}

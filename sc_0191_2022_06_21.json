@@ -1,0 +1,26 @@
+{
+  "id": 35123,
+  "numero": "0191",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Alexandra José Barradas Valenzuela contra la decisión del Juzgado Superior que declaró inadmisible su amparo constitucional. La apelante alegó la omisión de pronunciamiento sobre la ejecución forzosa de una sentencia de manutención. La Sala, tras analizar el caso, determinó que el tribunal de origen había emitido pronunciamiento sobre las solicitudes de la apelante, lo que llevó a declarar inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "vías procesales",
+    "derechos fundamentales",
+    "inadmisibilidad",
+    "protección de niños",
+    "justicia",
+    "decisión judicial"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0191_E21-0102.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317452-0191-21622-2022-21-0102.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.631380"
+}

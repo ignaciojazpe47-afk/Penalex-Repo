@@ -1,0 +1,26 @@
+{
+  "id": 34033,
+  "numero": "1140",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional admitió la acción de amparo constitucional presentada por Lisbeth Andrade en representación de Jonathan Medina Toledo, en contra de una decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible una apelación. La Sala declaró con lugar la acción de amparo, anulando la decisión adversada y ordenando que un Tribunal Superior se pronuncie nuevamente sobre el recurso de apelación. Además, se dictó una medida cautelar innominada de suspensión de los efectos de la sentencia dictada por el Tribunal de Primera Instancia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protección de niños",
+    "decisión judicial",
+    "restitución internacional",
+    "tribunales",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1140_E16-1153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328297-1140-11823-2023-16-1153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.331554"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 21657,
+  "numero": "1404",
+  "fecha": "2024-11-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0919 el 20 de noviembre de 2024, en respuesta a la acción de amparo constitucional interpuesta por varios defensores públicos en representación de ciudadanos condenados por delitos relacionados con drogas. La Corte de Apelaciones había declarado con lugar un recurso de apelación y anulado decisiones previas, lo que llevó a los demandantes a alegar violaciones a sus derechos fundamentales, incluyendo el derecho a la defensa y el debido proceso.\n\nLa Sala, al analizar las denuncias, determinó que la Corte de Apelaciones había actuado erróneamente al admitir un recurso que no cumplía con los requisitos legales y que había reabierto un proceso ya precluido. En consecuencia, se ordenó la reposición de la causa al estado de realizar nuevamente la audiencia preliminar, garantizando así el respeto a los derechos de los accionantes.\n\nFinalmente, la Sala ordenó a la Presidencia del Circuito Judicial Penal del Estado Lara la remisión de los expedientes pertinentes para asegurar el cumplimiento de la decisión y la tutela efectiva de los derechos constitucionales de los ciudadanos involucrados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "Estado Lara",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra decisión de la Corte de Apelaciones del Estado Lara",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1404_E23-0543.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347262-1404-7825-2025-23-0543.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.188179"
+}

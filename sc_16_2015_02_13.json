@@ -1,0 +1,24 @@
+{
+  "id": 61889,
+  "numero": "16",
+  "fecha": "2015-02-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Corte Segunda de lo Contencioso Administrativo que había declarado con lugar la apelación contra la decisión del Tribunal Superior Décimo de lo Contencioso Administrativo, revocando la decisión apelada y decidiendo sin lugar el recurso contencioso administrativo funcionarial interpuesto por Manolo Benavente Chirinos. La Sala encontró que la sentencia impugnada incurrió en vicios de incongruencia omisiva y vulneró el derecho a la tutela judicial efectiva al no pronunciarse sobre todos los argumentos presentados por el solicitante, incluyendo la jurisprudencia relevante de la Sala Constitucional sobre la jubilación de oficio.\n\nEn consecuencia, la Sala Constitucional declaró ha lugar la revisión constitucional, anuló la sentencia impugnada y ordenó a la Corte Primera de lo Contencioso Administrativo emitir un nuevo pronunciamiento sobre el recurso de apelación. La decisión reafirma la potestad de la Administración Pública para otorgar jubilaciones de oficio, siempre que se respeten los derechos laborales y se garantice el pago máximo de la pensión correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación de oficio",
+    "tutela judicial efectiva",
+    "incongruencia omisiva",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-13_S16_E14-1148.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174275-16-13215-2015-14-1148.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.542565"
+}

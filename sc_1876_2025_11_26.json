@@ -1,0 +1,26 @@
+{
+  "id": 23222,
+  "numero": "1876",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la solicitud de revisión presentada por el abogado Rafael Benigno Román Loyo en nombre de Jesús Omar Carrero. Sin embargo, la solicitud es declarada inadmisible debido a la falta de presentación de copia certificada de la decisión cuestionada, lo que contraviene lo estipulado en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1876_E25-1180.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350472-1876-261125-2025-25-1180.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.800474"
+}

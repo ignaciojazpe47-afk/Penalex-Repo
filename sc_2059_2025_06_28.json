@@ -1,0 +1,24 @@
+{
+  "id": 23839,
+  "numero": "2059",
+  "fecha": "2025-06-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La ciudadana Mireya Nohemi del Moral Gómez solicitó la revisión de la sentencia RC.000374 dictada por la Sala de Casación Civil, que declaró sin lugar su recurso de casación contra una sentencia anterior. La Sala de Casación Civil había declarado la cosa juzgada en virtud de que las partes, el objeto y las pruebas eran las mismas en ambos juicios. La solicitante argumentó que se vulneró su derecho a la tutela judicial efectiva al no considerar una prueba esencial, la experticia topográfica, que demostraba la identidad del inmueble en disputa. Sin embargo, la Sala Constitucional concluyó que la decisión de la Sala de Casación Civil era ajustada a derecho y que la revisión no procedía, ya que no se evidenciaron violaciones a derechos constitucionales.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "tutela judicial efectiva",
+    "revisión constitucional",
+    "experticia topográfica",
+    "acción de certeza de propiedad"
+  ],
+  "titulo": "Revisión Constitucional sobre Cosa Juzgada en Acción de Certeza de Propiedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2059_E25-1040.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351872-2059-101225-2025-25-1040.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.296795"
+}

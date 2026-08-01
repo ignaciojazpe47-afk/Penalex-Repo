@@ -1,0 +1,25 @@
+{
+  "id": 28073,
+  "numero": "1162",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento, por abandono del trámite",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo constitucional interpuesta por abogados en representación de la ciudadanía, en contra de varias resoluciones de la Sala Plena que suspendieron los lapsos procesales debido a la pandemia de COVID-19. Sin embargo, se determina que ha transcurrido un lapso de más de seis meses sin que la parte actora haya realizado acto alguno de impulso procesal, lo que se califica como abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa a la parte accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "justicia",
+    "pandemia",
+    "derechos",
+    "abogados",
+    "acceso a la justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1162_E20-0279.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339759-1162-281124-2024-20-0279.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.466200"
+}

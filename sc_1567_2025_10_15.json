@@ -1,0 +1,23 @@
+{
+  "id": 22227,
+  "numero": "1567",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Agraria",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Christian José Rincón Colmenares, quien alegó vulneraciones a sus derechos en un proceso agrario. La Sala, tras analizar la solicitud, determinó que no tenía competencia para conocer del asunto, ya que se trataba de una causa de naturaleza agraria que debía ser atendida por la Sala de Casación Social. En consecuencia, declinó el conocimiento del caso a dicha sala.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "derechos",
+    "agraria"
+  ],
+  "titulo": "Declaración de incompetencia en solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1567_E24-0287.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348678-1567-151025-2025-24-0287.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.761138"
+}

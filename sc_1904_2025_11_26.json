@@ -1,0 +1,24 @@
+{
+  "id": 23248,
+  "numero": "1904",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 612, declara procedente la solicitud de avocamiento presentada por el abogado David Alberto Pérez Esqueda, en representación de Antonio Lanza Scioscia y Ana Teresa Bracho Larrota, quienes enfrentaban acusaciones penales por delitos relacionados con fraude y uso de documentos falsos. La Sala determina que las irregularidades procesales en el caso justifican el avocamiento y decreta el sobreseimiento de la causa penal, extinguiendo la acción penal en su contra, al considerar que los hechos denunciados no revisten carácter penal y deben ser resueltos por la jurisdicción civil.",
+  "palabras_clave": [
+    "avocamiento",
+    "sobreseimiento",
+    "delitos",
+    "fraude",
+    "documentos falsos"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento y sobreseimiento de causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1904_E25-0190.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350500-1904-261125-2025-25-0190.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.050794"
+}

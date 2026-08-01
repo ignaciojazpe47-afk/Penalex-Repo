@@ -1,0 +1,27 @@
+{
+  "id": 2235,
+  "numero": null,
+  "fecha": "2001-01-25",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Sociales y Constitucionales",
+  "decision": "Con lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "En esta sentencia, la Sala Constitucional del Tribunal Supremo de Justicia de Venezuela se pronuncia sobre la acción de amparo constitucional interpuesta por un grupo de diputados jubilados del Estado Portuguesa. Los demandantes alegan la violación de sus derechos constitucionales a la defensa, al debido proceso y a ser juzgados por sus jueces naturales, así como la vulneración de sus derechos sociales, tras la negativa de la Comisión Legislativa Transitoria de cancelar sus jubilaciones. La Sala, tras analizar los argumentos y la normativa aplicable, decide declarar con lugar la acción de amparo, restableciendo así los derechos de los demandantes.",
+  "palabras_clave": [
+    "amparo",
+    "derechos sociales",
+    "jubilación",
+    "constitucionalidad",
+    "Estado Portuguesa",
+    "Comisión Legislativa",
+    "due process",
+    "derechos humanos"
+  ],
+  "titulo": "Amparo Constitucional de Diputados Jubilados del Estado Portuguesa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-01-25_Constitucional_00_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.719161"
+}

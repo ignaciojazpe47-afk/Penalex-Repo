@@ -1,0 +1,25 @@
+{
+  "id": 22781,
+  "numero": "1731",
+  "fecha": "2023-07-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de aclaratoria y ampliación de la sentencia N° 942 del 17 de julio de 2023, presentada por el abogado David Terán Guerra en representación de Carlos Esteban Urbano Fermín. La Sala declaró improcedente la solicitud, argumentando que no existían aspectos de fondo que aclarar o ampliar, ya que la omisión alegada había cesado al haberse pronunciado un nuevo tribunal sobre las solicitudes del imputado. La Sala reafirmó que la acción de amparo no era admisible debido a la falta de actualidad de la lesión denunciada.",
+  "palabras_clave": [
+    "derechos humanos",
+    "proceso penal",
+    "constitución",
+    "garantías",
+    "justicia",
+    "tutela judicial"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de la sentencia N° 942",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1731_E22-0501.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349470-1731-31125-2025-22-0501.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.205988"
+}

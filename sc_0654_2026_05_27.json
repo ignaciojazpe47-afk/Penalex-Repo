@@ -1,0 +1,24 @@
+{
+  "id": 16962,
+  "numero": "0654",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de mayo de 2026, declaró sin lugar el recurso de apelación interpuesto por el abogado Daniel Ricardo Martínez Álvarez, en representación de Alexander José Sira Gómez, contra la sentencia dictada el 18 de noviembre de 2025 por la Corte de Apelaciones. La Corte de Apelaciones había declarado sin lugar la acción de amparo constitucional, argumentando que no se había vulnerado el derecho a la defensa ni el debido proceso en el caso del demandante.\n\nLa Sala Constitucional consideró que la decisión de la Corte de Apelaciones estaba debidamente motivada y que no existían vicios que justificaran la intervención del Tribunal Supremo. Se reafirmó que la motivación judicial es esencial para garantizar la tutela judicial efectiva y que la discrepancia del accionante con la decisión no constituía un vicio de inmotivación.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, manteniendo la medida privativa de libertad del demandante y desestimando las alegaciones de falta de motivación y violaciones procesales graves.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "Corte de Apelaciones",
+    "sentencia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0654_E25-1425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355911-0654-27526-2026-25-1425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.902993"
+}

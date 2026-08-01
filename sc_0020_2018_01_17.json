@@ -1,0 +1,25 @@
+{
+  "id": 45019,
+  "numero": "0020",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "INCOMPETENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la solicitud de avocamiento presentada por el abogado Luis Omar Castellanos en representación de Víctor Alfonso Ferreira Díaz. La solicitud se refiere a una causa penal que aún no ha recaído en sentencia firme y se argumenta la vulneración de derechos humanos. Sin embargo, se determina que la situación que motivó la solicitud ha cesado, por lo que se declina el conocimiento a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos",
+    "debido proceso",
+    "medidas cautelares",
+    "libertad",
+    "inviolabilidad"
+  ],
+  "titulo": "Declaración de incompetencia en solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0020_E16-1130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206875-0020-17118-2018-16-1130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.265511"
+}

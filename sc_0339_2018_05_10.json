@@ -1,0 +1,25 @@
+{
+  "id": 46713,
+  "numero": "0339",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Segundo de Municipio Ordinario que declaró con lugar la demanda de cumplimiento de contrato presentada por Basilio Sánchez Aranguren contra REDVISIÓN C.A. La parte demandada alegó incompetencia del tribunal en razón de la cuantía y errores en la valoración de pruebas. Sin embargo, la Sala determinó que la solicitud de revisión no cumplía con los requisitos para su procedencia, ya que no se evidenciaron violaciones a derechos constitucionales ni errores grotescos en la interpretación de la ley. Por lo tanto, se declaró que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "competencia",
+    "cuantía",
+    "contrato",
+    "prueba",
+    "derecho procesal",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-10_S0339_E15-0505.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211095-0339-10518-2018-15-0505.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.904032"
+}

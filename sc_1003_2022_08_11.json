@@ -1,0 +1,22 @@
+{
+  "id": 37447,
+  "numero": "1003",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0530 en respuesta a una acción de amparo constitucional presentada por José Luis Rivera, en representación de Marianela Becerra de Zambrano y otros, contra una decisión del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario del Estado Táchira. La acción se fundamentó en la alegación de violación de derechos constitucionales en el proceso de apelación de un auto de homologación de un convenimiento celebrado entre las partes. La Sala se declaró competente para conocer la demanda y ordenó la remisión de copia certificada del libelo de la demanda original para garantizar el derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos constitucionales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-17_S1003_E22-0113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320852-1003-171122-2022-22-0113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.571290"
+}

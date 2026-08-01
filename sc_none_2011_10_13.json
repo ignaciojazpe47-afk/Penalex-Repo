@@ -1,0 +1,23 @@
+{
+  "id": 3710,
+  "numero": null,
+  "fecha": "2011-10-13",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional, presidida por la Magistrada Luisa Estella Morales Lamuño, dictó una sentencia en la que se revisa la decisión de la Sala Político Administrativa relacionada con los aportes al Fondo de Ahorro Obligatorio para la Vivienda (FAOV). Se argumenta que los aportes no deben ser considerados como tributos, sino como parte del sistema de seguridad social, lo que implica su imprescriptibilidad. La Sala concluye que la interpretación de la Sala Político Administrativa es errónea y ordena la reposición del caso para que se decida conforme a los nuevos criterios establecidos.",
+  "palabras_clave": [
+    "Fondo de Ahorro Obligatorio",
+    "Vivienda",
+    "Seguridad Social",
+    "Imprescriptibilidad"
+  ],
+  "titulo": "Sentencia sobre la revisión de la decisión de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2011-11-28_PoliticoAdmin_2011.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.539212"
+}

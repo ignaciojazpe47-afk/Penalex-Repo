@@ -1,0 +1,25 @@
+{
+  "id": 35456,
+  "numero": "0343",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los defensores de Humberto Garzone Díaz contra una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La apelación se basa en la violación de derechos constitucionales en un proceso penal donde el demandante fue condenado a diez años de prisión por homicidio en riña. La Sala determinó su competencia para conocer el caso y ordenó al Tribunal Primero de Primera Instancia en Funciones de Juicio remitir un informe detallado sobre la decisión objeto de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "competencia",
+    "notificaciones",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0343_E22-0352.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317930-0343-13722-2022-22-0352.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.222938"
+}

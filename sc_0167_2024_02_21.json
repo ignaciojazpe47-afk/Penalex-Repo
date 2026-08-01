@@ -1,0 +1,26 @@
+{
+  "id": 24302,
+  "numero": "0167",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento de la acción de amparo constitucional por abandono del trámite, debido a la falta de interés procesal de los demandantes. Se impone una multa a la abogada Indira Amarista Aguilar por el desistimiento malicioso de la acción. La Sala no homologa el desistimiento presentado por el abogado Óscar Borges Prim en representación de la ciudadana Indira Amarista Aguilar, ya que no se demostró la representación adecuada para desistir de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "sufragio",
+    "debido_proceso",
+    "CNE",
+    "desistimiento"
+  ],
+  "titulo": "Sentencia sobre desistimiento de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0167_E19-0119.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332708-0167-21224-2024-19-0119.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.550627"
+}

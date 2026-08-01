@@ -1,0 +1,26 @@
+{
+  "id": 33912,
+  "numero": "2059",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La ciudadana Yolmary Lilibeth Leaño interpuso una acción de amparo constitucional contra el Tribunal Superior Quinto del Circuito Judicial de Protección de Niños, Niñas y Adolescentes por la falta de admisión de su acción y pronunciamiento sobre una medida cautelar. El Tribunal Superior declaró inadmisible la acción de amparo, argumentando que la accionante no había agotado los recursos ordinarios disponibles. La Sala Constitucional del TSJ, al revisar el caso, determinó que la acción de amparo era inadmisible debido a que la violación alegada había cesado con el pronunciamiento del Tribunal Superior, lo que llevó a declarar la inadmisibilidad de la acción interpuesta por la ciudadana Leaño.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "derechos constitucionales",
+    "debido proceso",
+    "niños",
+    "adolescentes",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2059_E23-0950.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332029-2059-201223-2023-23-0950.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.682454"
+}

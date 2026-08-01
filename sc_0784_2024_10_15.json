@@ -1,0 +1,23 @@
+{
+  "id": 27463,
+  "numero": "0784",
+  "fecha": "2024-10-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre un recurso de amparo constitucional interpuesto por Yonielys Daneska Ojeda Ojeda en contra de una decisión del Juzgado Superior Segundo de Protección de Niños, Niñas y Adolescentes que declaró inadmisible su acción de amparo. La ciudadana argumenta la vulneración de los derechos fundamentales de su hijo y solicita la flexibilización del régimen de convivencia familiar supervisado durante el receso judicial de fin de año.\nLa Sala, tras analizar los argumentos y la situación presentada, determina que existe una injuria constitucional y ordena la restitución inmediata de la custodia del niño a su madre, considerando que la decisión impugnada vulnera derechos fundamentales y el debido proceso. Se ordena al juzgado remitente cumplir con las instrucciones dadas en un plazo específico.\nFinalmente, se destaca la importancia de garantizar los derechos de crianza y convivencia familiar, así como la necesidad de actuar con celeridad en la protección de los derechos de los niños.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "derechos fundamentales",
+    "convivencia familiar"
+  ],
+  "titulo": "Decisión sobre amparo constitucional en materia de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0784_E24-0126.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338896-0784-131124-2024-24-0126.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.634913"
+}

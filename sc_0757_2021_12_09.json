@@ -1,0 +1,23 @@
+{
+  "id": 40918,
+  "numero": "0757",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por Omar Marambio Cortés contra la sentencia RC.000112-2018, dictada por la Sala de Casación Civil. La decisión se fundamenta en la falta de cualidad del solicitante para actuar en juicio, dado que había cedido sus derechos a la sociedad mercantil Inversiones Rocevebe, C.A. La Sala reafirmó que la revisión no es un medio ordinario y debe ser utilizada con prudencia, garantizando la cosa juzgada y la seguridad jurídica.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "falta de cualidad",
+    "cesión de derechos",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia RC.000112-2018",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0757_E18-0270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/319326-0757-91221-2021-18-0270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.732725"
+}

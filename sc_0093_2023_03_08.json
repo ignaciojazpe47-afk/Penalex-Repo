@@ -1,0 +1,26 @@
+{
+  "id": 29095,
+  "numero": "0093",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió no ha lugar la solicitud de revisión constitucional presentada por varios ciudadanos contra la sentencia n.° 92 de la Sala Electoral, que había declarado sin lugar un recurso contencioso electoral. La decisión se fundamenta en que la Asamblea Extraordinaria de la Convención Nacional, donde se eligieron las autoridades del partido Progreso Social, no fue impugnada, lo que otorga plena vigencia a las autoridades electas.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "denegación de justicia",
+    "incongruencia negativa",
+    "derechos fundamentales",
+    "derecho electoral",
+    "constitución",
+    "organizaciones políticas"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 92 dictada por la Sala Electoral del TSJ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0093_E16-1195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323261-0093-8323-2023-16-1195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.345555"
+}

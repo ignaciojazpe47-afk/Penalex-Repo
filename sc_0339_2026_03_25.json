@@ -1,0 +1,25 @@
+{
+  "id": 17325,
+  "numero": "0339",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Francis Yovanna Pérez Suárez contra un auto del Tribunal Segundo de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala determinó su incompetencia para conocer del caso, declinando el conocimiento al Juzgado Superior del mismo circuito judicial.\n\nLa decisión se basa en el artículo 4 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que los amparos contra decisiones judiciales deben ser conocidos por el tribunal superior al que emitió la resolución. La Sala concluyó que el tribunal superior inmediato era el correspondiente al circuito judicial de protección de niños, niñas y adolescentes de Lara.\n\nFinalmente, se ordenó remitir el expediente a la Unidad de Recepción y Distribución de Documentos de la jurisdicción de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Lara, sede Barquisimeto.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0339_E26-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354325-0339-25326-2026-26-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.033853"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20936,
+  "numero": "1137",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió una acción de amparo interpuesta por la Defensora Pública Zorahima Depablos Revilla en representación de Leonardo José Moreno Rodríguez, contra una sentencia de la Corte de Apelaciones del Estado Lara que revocó un fallo anterior. La Sala determinó su competencia para conocer la acción y decidió sobre la vulneración de derechos constitucionales al debido proceso y a la tutela judicial efectiva. Se ordenó la remisión de copias certificadas del expediente del proceso penal seguido a los ciudadanos involucrados.",
+  "palabras_clave": [
+    "amparo",
+    "error material",
+    "autonomía del juez",
+    "Código Orgánico Procesal Penal",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1137_E24-0530.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346044-1137-14725-2025-24-0530.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.497979"
+}

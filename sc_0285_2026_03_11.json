@@ -1,0 +1,27 @@
+{
+  "id": 17107,
+  "numero": "0285",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el Instituto Nacional de Tierras (INTI) contra la decisión del Juzgado Superior Cuarto Agrario que declaró inadmisible la acción de amparo. La Sala concluye que la medida cautelar de protección a la producción agroalimentaria sobre el predio 'San Francisco' había cesado su vigencia, lo que hace que la acción de amparo carezca de objeto. Se confirma la decisión del juzgado inferior y se declara sin lugar el recurso de apelación interpuesto.",
+  "palabras_clave": [
+    "jurisdicción",
+    "amparo",
+    "agroalimentaria",
+    "administrativo",
+    "competencia",
+    "derechos",
+    "proceso",
+    "protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por el Instituto Nacional de Tierras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0285_E20-0356.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353590-0285-11326-2026-20-0356.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.587433"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28048,
+  "numero": "1137",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por José Gregorio Nava González, en representación de los ciudadanos David Gerardo Paz Nava, Carlos Eduardo Paz Nava y Arturo Segundo González Paz, contra la decisión N° 281-23 de la Corte de Apelaciones del Estado Zulia. La decisión impugnada había confirmado el sobreseimiento provisional de la causa por defectos en la acusación fiscal, manteniendo la privación judicial preventiva de libertad de los acusados. La Sala concluye que la acción de amparo no se subsume en las causales previstas en la ley, ya que no se evidencian violaciones a derechos constitucionales.",
+  "palabras_clave": [
+    "audiencia preliminar",
+    "juez de control",
+    "derechos y garantías",
+    "recurso de apelación",
+    "justicia",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1137_E23-0982.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339734-1137-281124-2024-23-0982.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.472089"
+}

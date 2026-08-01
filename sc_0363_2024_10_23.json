@@ -1,0 +1,23 @@
+{
+  "id": 26762,
+  "numero": "0363",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Robert Alberto Moreno Juárez, defensor de JAIME HERNANDO GARZÓN MORENO, contra la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala confirmó la decisión de inadmisibilidad, argumentando que el agraviado había optado por recurrir a vías ordinarias, lo que excluye la posibilidad de amparo constitucional según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa sentencia de la Corte de Apelaciones, dictada el 22 de agosto de 2022, fue considerada ajustada a derecho, ya que el abogado no agotó los recursos ordinarios disponibles antes de interponer la acción de amparo. La Sala Constitucional reafirmó que la acción de amparo es un mecanismo extraordinario y no debe ser utilizada cuando existen vías judiciales ordinarias que pueden proporcionar la tutela efectiva de los derechos.\n\nFinalmente, la Sala declaró sin lugar la apelación y confirmó la inadmisibilidad de la acción de amparo, enfatizando la necesidad de seguir los procedimientos establecidos en la ley para garantizar el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0363_E22-0795.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338044-0363-231024-2024-22-0795.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.329395"
+}

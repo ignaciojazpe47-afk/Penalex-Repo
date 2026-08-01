@@ -1,0 +1,25 @@
+{
+  "id": 32310,
+  "numero": "1457",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación contra una decisión que declaró inadmisible una acción de amparo constitucional. El recurso fue presentado por Orlando Jesús Hernández, apoderado de la sociedad mercantil Excélsior Gama Supermercado, C.A., quien alegó violaciones a derechos constitucionales en un juicio penal. La Sala decidió ordenar al Tribunal Vigésimo Noveno de Primera Instancia remitir copias de las actas de audiencia del juicio penal correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "derecho a la defensa",
+    "debido proceso",
+    "sanciones",
+    "notificaciones"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1457_E23-0878.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329363-1457-161023-2023-23-0878.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.389680"
+}

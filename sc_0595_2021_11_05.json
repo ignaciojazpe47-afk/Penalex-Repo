@@ -1,0 +1,26 @@
+{
+  "id": 40101,
+  "numero": "0595",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "El ciudadano Ciro Antonio Guevara Trombetta interpuso una acción de amparo constitucional contra el Consejo Nacional Electoral por la presunta violación de su derecho a la participación política. La Sala Constitucional del Tribunal Supremo de Justicia, tras analizar el caso, determinó que no hubo actividad procesal por parte del accionante durante más de seis meses, lo que evidenció un abandono del trámite. Además, se concluyó que existía un recurso contencioso electoral idóneo que debía ser agotado antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "participacion politica",
+    "elecciones",
+    "derechos constitucionales",
+    "abandonode tramite",
+    "recurso contencioso electoral",
+    "Ley Organica de Procesos Electorales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0595_E20-0297.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314178-0595-51121-2021-20-0297.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.107126"
+}

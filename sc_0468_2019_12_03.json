@@ -1,0 +1,26 @@
+{
+  "id": 44716,
+  "numero": "0468",
+  "fecha": "2019-12-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados en representación de varios ciudadanos, contra una sentencia dictada el 18 de abril de 2018. La acción fue considerada extemporánea, ya que se interpuso más de seis meses después de la notificación de la decisión que se impugnaba. Además, se argumentó que la denuncia de violación de derechos solo afectaba a la esfera particular de los accionantes y no al orden público.",
+  "palabras_clave": [
+    "debido proceso",
+    "tutela judicial",
+    "cualidad ad causam",
+    "arrendamiento",
+    "nulidad",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0468_E19-0192.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308454-0468-31219-2019-19-0192.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.819519"
+}

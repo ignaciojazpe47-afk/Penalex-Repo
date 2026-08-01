@@ -1,0 +1,25 @@
+{
+  "id": 32952,
+  "numero": "1521",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la admisibilidad de un recurso de interpretación constitucional interpuesto por el alcalde del municipio Urachiche, quien solicitó aclarar el alcance del artículo 183 de la Constitución en relación con la potestad tributaria municipal. La Sala, tras evaluar los argumentos presentados, determinó que el recurso no cumplía con los requisitos de admisibilidad, ya que no se evidenció un interés jurídico actual y legítimo del solicitante.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "municipios",
+    "impuestos",
+    "tutela judicial",
+    "servicios publicos"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación constitucional del artículo 183 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1521_E22-0619.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330575-1521-231123-2023-22-0619.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.435269"
+}

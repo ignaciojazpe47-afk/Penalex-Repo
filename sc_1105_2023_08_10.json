@@ -1,0 +1,25 @@
+{
+  "id": 33983,
+  "numero": "1105",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de agosto de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por la sociedad mercantil COMERCIAL DON CLEMENTE, C.A. contra la decisión de la Sala de Casación Civil que había declarado sin lugar un recurso de casación. La revisión se fundamentó en la alegación de violaciones al derecho a la defensa y al debido proceso, las cuales fueron desestimadas por la Sala Constitucional al considerar que no se evidenció indefensión efectiva y que la parte recurrente tuvo oportunidad de presentar pruebas en el proceso. La Sala reafirmó que la revisión no constituye una tercera instancia, sino un mecanismo extraordinario para garantizar la uniformidad de criterios constitucionales.",
+  "palabras_clave": [
+    "contrato",
+    "arrendamiento",
+    "procedimiento civil",
+    "casación",
+    "jurisdicción",
+    "derecho civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1105_E22-0904.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328246-1105-10823-2023-22-0904.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.345588"
+}

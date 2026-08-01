@@ -1,0 +1,25 @@
+{
+  "id": 18351,
+  "numero": "0107",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Juan José Carvallo Machado, actuando como Presidente de la sociedad mercantil Inversiones Cake Los Aviadores, C.A. La decisión se basa en la falta de legitimidad y representación del solicitante, quien no presentó la documentación necesaria que acreditara su condición de apoderado judicial. La Sala también destaca que existen vías ordinarias para atacar las actuaciones irregulares del tribunal comisionado, lo que hace innecesaria la acción de amparo constitucional en este caso.",
+  "palabras_clave": [
+    "legitimidad",
+    "representación",
+    "revisión constitucional",
+    "sociedades mercantiles",
+    "poder",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0107_E21-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341443-0107-12225-2025-21-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.542577"
+}

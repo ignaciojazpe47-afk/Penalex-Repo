@@ -1,0 +1,26 @@
+{
+  "id": 31005,
+  "numero": "0788",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Ha Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara competente para conocer la solicitud de revisión de la sentencia n.° 2014-1131, dictada el 17 de julio de 2014. Sin embargo, se determina que no ha lugar la solicitud de revisión, ya que la sentencia objeto de revisión no vulneró derechos constitucionales ni criterios vinculantes establecidos por el tribunal. Se reafirma que la revisión no constituye una tercera instancia y que la inconformidad con un fallo adverso no es suficiente para prosperar en la revisión.",
+  "palabras_clave": [
+    "nulidad",
+    "acto administrativo",
+    "derechos laborales",
+    "debido proceso",
+    "función pública",
+    "indefensión",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0788_E15-0552.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326444-0788-26623-2023-15-0552.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.555156"
+}

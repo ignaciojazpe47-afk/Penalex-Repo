@@ -1,0 +1,26 @@
+{
+  "id": 21666,
+  "numero": "1413",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la solicitud de revisión constitucional interpuesta por Orlene del Carmen Arias Hernández, anulando todos los actos procesales realizados en el juicio de divorcio desde el 27 de mayo de 2021, incluyendo la sentencia N° RC000371. Se establece que la muerte del demandante, Freddy Erwin Rangel Vásquez, extingue automáticamente el proceso de divorcio, conforme al artículo 184 del Código Civil, y que no es posible continuar el juicio por sucesión procesal debido a la naturaleza personalísima del mismo.\n\nLa Sala concluye que el Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Mérida, al no haber declarado la extinción del proceso tras el fallecimiento del demandante, incurrió en una grave violación del derecho al debido proceso. Por lo tanto, se declara terminado el procedimiento de divorcio y disuelto el vínculo matrimonial entre las partes, en virtud de la muerte del demandante.\n\nFinalmente, se ordena la remisión de copia certificada del fallo a las instancias correspondientes y se archiva el expediente, cumpliendo con lo ordenado.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "jurisprudencia",
+    "cosa juzgada",
+    "divorcio",
+    "sentencias",
+    "discrecionalidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de divorcio por fallecimiento del demandante",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1413_E24-1030.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347278-1413-7825-2025-24-1030.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.047459"
+}

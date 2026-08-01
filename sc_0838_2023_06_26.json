@@ -1,0 +1,23 @@
+{
+  "id": 31055,
+  "numero": "0838",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo constitucional presentada por Jesús Manuel Silva Rivas, quien solicitó la suspensión de actos procesales relacionados con una audiencia judicial de imputación. Silva argumentó violaciones a sus derechos constitucionales, incluyendo el debido proceso y la presunción de inocencia, en el contexto de un caso de violencia de género en el que se le acusaba de agredir a su ex pareja, Claritza de Jesús Ron Romero.\n\nLa Sala, tras analizar los fundamentos del caso y la solicitud de avocamiento y radicación, decidió ordenar la notificación al demandante para que aclare el objeto de su demanda, advirtiendo que de no hacerlo, la misma podría ser declarada inadmisible. La decisión se fundamenta en la necesidad de garantizar el debido proceso y la claridad en las demandas presentadas ante el tribunal.\n\nFinalmente, la sentencia fue firmada por la Presidenta de la Sala, Gladys María Gutiérrez Alvarado, y otros magistrados, destacando la importancia de la claridad en los procedimientos judiciales y el respeto a los derechos fundamentales de los ciudadanos involucrados en el proceso.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Debido Proceso",
+    "Violencia de Género",
+    "Suspensión de Actos Procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0838_E20-0105.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326494-0838-26623-2023-20-0105.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.558301"
+}

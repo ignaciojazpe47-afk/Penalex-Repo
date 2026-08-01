@@ -1,0 +1,23 @@
+{
+  "id": 28263,
+  "numero": "1224",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por la abogada Luisa Elena López Quijada en representación de Marling del Valle Mendoza Carmona, en relación a la causa penal número 4C-9626-22. La solicitud se fundamenta en la alegación de desigualdad procesal frente al Ministerio Público y la supuesta violación de derechos fundamentales durante el proceso penal. La Sala decide declinar el conocimiento del caso a la Sala de Casación Penal, dado que corresponde a esta última la competencia para conocer sobre la materia penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "derechos fundamentales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1224_E24-0164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340163-1224-41224-2024-24-0164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.036378"
+}

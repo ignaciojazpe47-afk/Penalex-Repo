@@ -1,0 +1,27 @@
+{
+  "id": 33454,
+  "numero": "1788",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia No. 000631 dictada el 11 de noviembre de 2022 por la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por NATALIA TOPORKOVA. La revisión se fundamentó en alegaciones de vulneración de derechos constitucionales, específicamente el derecho a la defensa y al debido proceso, en el contexto de una acción reivindicatoria. La Sala concluyó que no se evidenciaron infracciones graves a la Constitución ni errores en la interpretación de normas, por lo que se declaró 'Sin Lugar' la revisión solicitada.",
+  "palabras_clave": [
+    "arrendamiento",
+    "posesión",
+    "debido proceso",
+    "defensa",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "sentencia",
+    "revisión"
+  ],
+  "titulo": "Revisión de sentencia de casación en acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1788_E23-0028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331323-1788-71223-2023-23-0028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.479528"
+}

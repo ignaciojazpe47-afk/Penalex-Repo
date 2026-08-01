@@ -1,0 +1,27 @@
+{
+  "id": 33195,
+  "numero": "1698",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0226 dictada el 3 de abril de 2017 por la Sala de Casación Social, que había declarado con lugar un recurso de casación interpuesto por los ciudadanos José Ronny Narváez Piricua y Yhonny Narváez Piricua. La apoderada judicial de la sociedad mercantil Tostadas La Sabanera, S.R.L., solicitó la revisión alegando violaciones a derechos constitucionales y errores en la valoración de pruebas. La Sala Constitucional, tras analizar los argumentos, concluyó que no existían infracciones que justificaran la revisión y declaró sin lugar la solicitud presentada.",
+  "palabras_clave": [
+    "relacion laboral",
+    "presuncion de laboralidad",
+    "jornada de trabajo",
+    "despido injustificado",
+    "prestaciones sociales",
+    "salario",
+    "supervision",
+    "control disciplinario"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1698_E17-0513.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330941-1698-11223-2023-17-0513.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.164746"
+}

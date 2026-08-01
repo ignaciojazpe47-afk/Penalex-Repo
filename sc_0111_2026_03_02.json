@@ -1,0 +1,24 @@
+{
+  "id": 16201,
+  "numero": "0111",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Procedente la solicitud de aclaratoria y se revoca la sentencia N° 2078.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, declara procedente la solicitud de aclaratoria de la sentencia N° 2078, que había declarado inadmisible la solicitud de revisión constitucional presentada por Elizabeth Mirás Sánchez contra la sociedad mercantil Especialidades Dollder, C.A. La Sala revoca dicha sentencia y acepta la validez de la copia del poder con certificación del Código QR, ampliando el criterio sobre la consignación de poderes en el contexto de la revisión constitucional. Se ordena la publicación del fallo en la Gaceta Oficial y en la página web del TSJ.",
+  "palabras_clave": [
+    "aclaratoria",
+    "revisión constitucional",
+    "poder",
+    "Código QR",
+    "prestaciones sociales"
+  ],
+  "titulo": "Aclaratoria de la sentencia N° 2078 sobre revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0111_E25-1156.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353101-0111-2326-2026-25-1156.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.594308"
+}

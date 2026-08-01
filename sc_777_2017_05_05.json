@@ -1,0 +1,22 @@
+{
+  "id": 54234,
+  "numero": "777",
+  "fecha": "2017-05-05",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de amparo interpuesta por Álvaro Romero Natera contra la sentencia del Juzgado Superior Civil, Mercantil y Tránsito de Nueva Esparta que declaró con lugar una demanda de desalojo. Se ordenó la paralización de la ejecución de dicha sentencia y se acordó la remisión de los expedientes relacionados con el caso para su revisión. La Sala reiteró la vigencia de la medida cautelar hasta que no sea revocada.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia de admisión de demanda de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S777_E17-0097.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204596-777-271017-2017-17-097.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:27.483757"
+}

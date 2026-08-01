@@ -1,0 +1,24 @@
+{
+  "id": 21099,
+  "numero": "1163",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la acción de amparo constitucional interpuesta por ANDALEVA HOLDING, INC. contra los fallos del Juzgado Octavo de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario, que habían declarado la nulidad de asambleas de accionistas de CLÍNICA CEMO, C.A. La Sala consideró que se habían violado derechos constitucionales fundamentales, como el derecho a la defensa y al debido proceso, al no notificarse a la Procuraduría General de la República sobre la demanda de nulidad, lo que afectó la operatividad de la clínica, un servicio de interés público. Se ordenó el levantamiento de las medidas cautelares impuestas por el Juzgado Octavo y se homologó el desistimiento del recurso de apelación presentado por los demandantes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad de asamblea",
+    "servicio público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1163_E24-0733.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346381-1163-23725-2025-24-0733.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.378318"
+}

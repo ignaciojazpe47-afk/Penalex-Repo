@@ -1,0 +1,25 @@
+{
+  "id": 31605,
+  "numero": "0989",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia el 27 de julio de 2023, declarando improcedente la acción de amparo constitucional interpuesta por Jenny Estupiñán de Jesús contra la sentencia del Juzgado Superior Sexto en lo Civil, Mercantil, Tránsito y Bancario, que había declarado con lugar la demanda de nulidad de un asiento registral. La Sala consideró que la acción de amparo no cumplía con los requisitos establecidos y que la decisión del tribunal inferior no había vulnerado derechos constitucionales.",
+  "palabras_clave": [
+    "competencia",
+    "nulidad",
+    "asientos registrales",
+    "jurisdicción ordinaria",
+    "seguridad jurídica",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0989_E21-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327480-0989-27723-2023-21-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.920263"
+}

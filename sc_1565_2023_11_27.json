@@ -1,0 +1,24 @@
+{
+  "id": 32996,
+  "numero": "1565",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Naim Demian Hallak, a través de su abogado Jorge Enrique Núñez, en relación a un proceso de amparo constitucional. La solicitud se fundamentó en la presunta violación del orden público constitucional y el derecho al debido proceso, debido a la ilegítima incautación de un inmueble por parte de funcionarios de la DGCIM. La Sala, tras analizar las circunstancias del caso, se declaró competente para conocer la solicitud de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "amparo constitucional",
+    "DGCIM",
+    "due process",
+    "inmueble"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en proceso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1565_E22-0777.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330620-1565-271123-2023-22-0777.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.422116"
+}

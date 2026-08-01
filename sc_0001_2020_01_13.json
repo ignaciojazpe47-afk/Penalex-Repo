@@ -1,0 +1,25 @@
+{
+  "id": 40920,
+  "numero": "0001",
+  "fecha": "2020-01-13",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Enrique Ochoa Antich, en relación a la situación de la Asamblea Nacional y la elección de su Junta Directiva. Se argumentó que la dualidad de grupos de diputados que se autoproclamaban como directiva generaba un conflicto que afectaba el derecho a la participación política del demandante. La Sala determinó su competencia para conocer el caso y ordenó notificar a los diputados electos para que informen sobre el acto parlamentario de conformación de la nueva Junta Directiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "asamblea nacional",
+    "junta directiva",
+    "quórum",
+    "tutela judicial",
+    "derechos políticos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Enrique Ochoa Antich",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-01-13_S0001_E20-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/309397-0001-13120-2020-20-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.803027"
+}

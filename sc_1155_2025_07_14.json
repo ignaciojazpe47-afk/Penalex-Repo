@@ -1,0 +1,27 @@
+{
+  "id": 20954,
+  "numero": "1155",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el Fiscal Provisorio 38° Nacional Pleno, Vladimir Enrique Ángel Aguilera, contra la decisión de la Sala de Casación Penal que desestimó los recursos de casación interpuestos. La solicitud se fundamenta en la alegación de violaciones a la tutela judicial efectiva y a la correcta apreciación de pruebas en el caso de absolución de Rafael Antonio Galera Jiménez por homicidio culposo. Sin embargo, se determina que no se acompañó la copia certificada del acto de juzgamiento cuestionado, lo que lleva a la inadmisibilidad de la solicitud.",
+  "palabras_clave": [
+    "apelación",
+    "motivación",
+    "sentencia",
+    "Código Orgánico Procesal Penal",
+    "Corte de Apelaciones",
+    "vulneración",
+    "tutela judicial",
+    "casación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1155_E19-0663.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346062-1155-14725-2025-19-0663.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.387693"
+}

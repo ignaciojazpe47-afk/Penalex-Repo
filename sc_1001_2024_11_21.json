@@ -1,0 +1,26 @@
+{
+  "id": 27823,
+  "numero": "1001",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 21 de noviembre de 2024, declaró competente para conocer la apelación interpuesta por Milton Gerardo Revilla Soto contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del estado Lara, que había declarado inadmisible la acción de amparo. La Sala determinó que la apelación fue interpuesta de manera tempestiva, pero finalmente declaró SIN LUGAR la misma, confirmando la decisión del juzgado inferior en los términos expuestos. Se enfatizó que la acción de amparo no es admisible cuando existen recursos ordinarios disponibles que no han sido agotados.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "apelación",
+    "derecho a la defensa",
+    "inimpugnabilidad",
+    "inmutabilidad",
+    "coercibilidad",
+    "procedimiento civil"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S1001_E22-0181.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339314-1001-211124-2024-22-0181.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.150166"
+}

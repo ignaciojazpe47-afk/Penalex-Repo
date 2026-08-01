@@ -1,0 +1,22 @@
+{
+  "id": 18672,
+  "numero": "0238",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE POR COSA JUZGADA",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por José Gregorio Hernández Vignieri contra la decisión del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Lara. Sin embargo, la acción es declarada inadmisible por existir cosa juzgada, dado que el asunto ya había sido decidido anteriormente por esta misma Sala. La decisión se fundamenta en la necesidad de mantener la seguridad jurídica y evitar la repetición de litigios sobre el mismo tema.",
+  "palabras_clave": [
+    "amparo",
+    "cosa juzgada",
+    "protección de niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-27_S0238_E22-0030.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342050-0238-27225-2025-22-0030.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.881334"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18136,
+  "numero": "0551",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Juan Pedro Pérez Brito contra la ejecución forzosa de un embargo sobre semovientes, dictada por el Juzgado Segundo de Primera Instancia Agraria. La Sala declaró con lugar la apelación, revocando la decisión del a quo que había admitido la acción de amparo, argumentando que la vía ordinaria era ineficaz para restablecer la situación jurídica infringida. Se destacó la inembargabilidad de los bienes agrarios según la Ley de Tierras y Desarrollo Agrario, y se ordenó la restitución inmediata de los semovientes embargados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "embargo",
+    "inembargabilidad",
+    "semovientes",
+    "derechos agrarios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0551_E26-0072.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355544-0551-13526-2026-26-0072.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.886470"
+}

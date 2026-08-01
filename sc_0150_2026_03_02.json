@@ -1,0 +1,26 @@
+{
+  "id": 17582,
+  "numero": "0150",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Carlos David Martínez Mora en representación de Emilio José Mora Contreras, debido a la inadmisibilidad de su acción de Habeas Corpus por parte de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón. La Sala determinó su competencia para conocer el caso y ordenó a la Corte de Apelaciones informar sobre el estado del expediente en un plazo determinado, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "tutela judicial",
+    "debido proceso",
+    "justicia",
+    "Corte de Apelaciones",
+    "violación de derechos"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional en caso de retardo procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0150_E25-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353146-0150-2326-2026-25-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.376649"
+}

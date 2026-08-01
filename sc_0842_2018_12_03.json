@@ -1,0 +1,24 @@
+{
+  "id": 49238,
+  "numero": "0842",
+  "fecha": "2018-12-03",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Juan Rosa Di Michele contra la sentencia del Juzgado Superior Quinto que declaró sin lugar la apelación de defensa de zonificación. Se determinó que la sentencia impugnada incurrió en error de valoración probatoria y en vicios de forma, afectando los derechos a la defensa y al debido proceso del accionante. La Sala anuló la decisión del Juzgado Superior y ordenó que se dicte una nueva decisión valorando todas las pruebas pertinentes.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Defensa de Zonificación",
+    "Derecho a la Prueba",
+    "Due Process",
+    "Conformidad de Uso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Defensa de Zonificación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-03_S0842_E17-0942.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/302810-0842-31218-2018-17-0942.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.906236"
+}

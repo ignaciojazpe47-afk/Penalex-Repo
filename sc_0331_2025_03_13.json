@@ -1,0 +1,24 @@
+{
+  "id": 18805,
+  "numero": "0331",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "CORREGIR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional se pronuncia sobre la solicitud de revisión constitucional presentada por Salvatore Brancato Del Popolo Marchito, quien impugna sentencias de la Sala de Casación Civil. La Sala destaca la falta de claridad en los fundamentos de derecho y hechos que sustentan la solicitud, lo que impide un pronunciamiento congruente. Se ordena al solicitante corregir su escrito en un plazo determinado para evitar la inadmisión de su solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "fundamentos de derecho",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "proceso constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0331_E24-0771.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342278-0331-13325-2025-24-0771.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.731558"
+}

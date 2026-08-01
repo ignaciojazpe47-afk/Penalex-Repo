@@ -1,0 +1,25 @@
+{
+  "id": 33994,
+  "numero": "1114",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento por abandono del trámite",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "El ciudadano Gritzko Gabriel Terán Mogollón interpuso una acción de amparo constitucional contra el Secretario de la Sala Constitucional, alegando violaciones a sus derechos constitucionales. La Sala Constitucional, tras analizar el caso, determinó que el demandante no había realizado actuaciones para impulsar el procedimiento durante más de seis meses, lo que llevó a declarar el abandono del trámite. Además, se impuso una multa al demandante por el abandono de la acción.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparo",
+    "derechosconstitucionales",
+    "tutela",
+    "multa",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1114_E22-0591.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328257-1114-11823-2023-22-0591.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.325329"
+}

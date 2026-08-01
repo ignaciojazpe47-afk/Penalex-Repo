@@ -1,0 +1,22 @@
+{
+  "id": 33833,
+  "numero": "1980",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por William José Guevara Alcalá, quien actuó como representante legal de la Asociación Cooperativa Shango Macho, RL. La acción de amparo fue declarada inadmisible por la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolívar, debido a que el accionante no agotó los recursos ordinarios establecidos por ley antes de interponer el amparo. La Sala Constitucional confirmó esta decisión, argumentando que el demandante carecía de legitimidad para actuar en nombre de la asociación, ya que no presentó un poder adecuado que lo autorizara para ello.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Legitimidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1980_E19-0506.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331950-1980-151223-2023-19-0506.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.703192"
+}

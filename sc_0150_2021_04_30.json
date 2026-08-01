@@ -1,0 +1,22 @@
+{
+  "id": 38595,
+  "numero": "0150",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por la sociedad mercantil Seven Fire, C.A. contra la decisión del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que declaró inadmisible la acción de amparo constitucional. La Sala argumenta que el recurso ordinario de apelación es el medio idóneo para impugnar el auto que suspendió la ejecución de una sentencia anterior, y que la acción de amparo no es procedente en este caso ya que existen vías judiciales ordinarias para restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0150_E19-0616.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312014-0150-30421-2021-19-0616.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.886583"
+}

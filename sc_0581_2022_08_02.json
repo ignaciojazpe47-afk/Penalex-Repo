@@ -1,0 +1,25 @@
+{
+  "id": 36212,
+  "numero": "0581",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Calixto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0416 el 2 de agosto de 2022, en la que se abordó un caso de amparo constitucional relacionado con el incumplimiento de un mandamiento de amparo. Se ordenó a los tribunales que tramitaran la ejecución del mandamiento de amparo de acuerdo con procedimientos establecidos en sentencias anteriores. La decisión tiene carácter vinculante y establece que todas las causas similares deben ser remitidas a los tribunales correspondientes sin examinar la favorabilidad a trámite de la denuncia de desacato.",
+  "palabras_clave": [
+    "amparo",
+    "desacato",
+    "trabajo",
+    "constitucional",
+    "ejecución",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0581_E21-0250.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319238-0581-12822-2022-21-0250.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.753159"
+}

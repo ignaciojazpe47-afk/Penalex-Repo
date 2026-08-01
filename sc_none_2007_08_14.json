@@ -1,0 +1,22 @@
+{
+  "id": 3404,
+  "numero": null,
+  "fecha": "2007-08-14",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la desaplicación del artículo 353 de la Ley Orgánica para la Protección del Niño y del Adolescente, que limitaba la legitimación activa para interponer demandas de privación de patria potestad. El Juzgado Superior en lo Civil, Mercantil, Tránsito y Protección del Niño y del Adolescente consideró que los abuelos paternos del niño tenían legitimidad para actuar en este caso, lo que fue confirmado por la Sala Constitucional. La decisión se fundamentó en el interés superior del niño y en el derecho de acceso a la justicia, destacando que la intervención del Ministerio Público no debe ser un obstáculo para la tutela judicial efectiva.",
+  "palabras_clave": [
+    "patria potestad",
+    "interés superior del niño",
+    "legitimación activa"
+  ],
+  "titulo": "Conformidad jurídico-constitucional de la desaplicación del artículo 353 de la Ley Orgánica para la Protección del Niño y del Adolescente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-08-14_CasacionSocial_07_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.108869"
+}

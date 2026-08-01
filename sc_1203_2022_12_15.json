@@ -1,0 +1,25 @@
+{
+  "id": 38080,
+  "numero": "1203",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "El ciudadano Luis Fernando Pérez Medina, en su carácter de Tesorero del Partido Independiente de Venezuela, interpuso una acción de amparo constitucional contra el Consejo Nacional Electoral por la omisión en la respuesta a su solicitud de inscripción. Sin embargo, el 10 y 17 de noviembre de 2020, el demandante desistió de la acción. La Sala Constitucional, tras evaluar la situación, declaró inadmisible la acción de amparo, argumentando que el desistimiento no fue ratificado adecuadamente y que la acción no podía prosperar debido a la afectación del orden público y la existencia de vías judiciales ordinarias para resolver la controversia.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo constitucional",
+    "orden público",
+    "derechos políticos",
+    "participación",
+    "elecciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1203_E20-0296.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322095-1203-151222-2022-20-0296.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.141744"
+}

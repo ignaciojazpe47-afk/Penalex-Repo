@@ -1,0 +1,26 @@
+{
+  "id": 33167,
+  "numero": "1676",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00218 dictada el 7 de julio de 2022, que declaró sin lugar el recurso de regulación de jurisdicción interpuesto por BANK JULIUS BAER & Co. LTD. La Sala concluyó que el Poder Judicial venezolano tiene jurisdicción para conocer de la demanda por cobro de prestaciones sociales y otros conceptos laborales, confirmando la decisión del Tribunal Cuadragésimo Cuarto de Primera Instancia. La solicitud de revisión fue desestimada, argumentando que no se evidenció un error grave en la interpretación de la norma constitucional.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derecho aplicable",
+    "debido proceso",
+    "tutela judicial",
+    "contratos internacionales",
+    "Ley de DIP",
+    "LOTTT"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de jurisdicción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1676_E23-0814.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330845-1676-301123-2023-23-0814.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.973717"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 37889,
+  "numero": "1134",
+  "fecha": "2022-12-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de amparo constitucional presentada por Alberto Enrique Núñez Torres, quien alegó violaciones a sus derechos en un juicio de nulidad de contrato. La Sala determinó que la acción de amparo era procedente debido a que los medios ordinarios no garantizaban el restablecimiento de la situación jurídica infringida. En consecuencia, se declaró parcialmente con lugar la acción de amparo, anulando la sentencia del Juzgado Segundo de Municipio Ordinario y ordenando la reposición de la causa al estado que proceda a dictar nueva sentencia.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "recurso de apelación",
+    "motivación",
+    "derechos constitucionales",
+    "proceso civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-12_S1134_E21-0610.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321800-1134-121222-2022-21-0610.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.416315"
+}

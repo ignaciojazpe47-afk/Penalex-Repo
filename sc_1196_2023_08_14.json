@@ -1,0 +1,25 @@
+{
+  "id": 34089,
+  "numero": "1196",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Israel Núñez Mendoza, quien actúa como Secretario General y Representante Legal del Sindicato de Trabajadores y Trabajadoras de la Industria Venezolana Transporte Operativo, C.A. (SINTRAIVENTO). La decisión se basa en la falta de presentación de documentos que acrediten la legitimación del accionante y la omisión de las sentencias que se alegan como lesivas a derechos constitucionales.\nLa Sala también acepta la declinatoria de competencia efectuada por el Juzgado Superior Segundo del Trabajo de la Circunscripción Judicial del Estado Aragua, considerando que corresponde a la Sala Constitucional conocer las acciones de amparo contra decisiones de los juzgados superiores. Se resalta que el incumplimiento de las cargas procesales por parte del accionante llevó a la inadmisibilidad de la acción.\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente.",
+  "palabras_clave": [
+    "practica antisindical",
+    "despido",
+    "organizacion sindical",
+    "elecciones sindicales",
+    "derechos laborales",
+    "fraude procesal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1196_E22-0041.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328400-1196-14823-2023-22-0041.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.876378"
+}

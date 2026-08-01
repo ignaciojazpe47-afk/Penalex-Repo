@@ -1,0 +1,25 @@
+{
+  "id": 19574,
+  "numero": "0592",
+  "fecha": "2025-02-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de interpretación constitucional interpuesto por Alberto Napoleón Schilling Hernández, respecto al artículo 10 de la Constitución de la República Bolivariana de Venezuela. La Sala determinó que el solicitante no cumplió con los requisitos de legitimación y fundamentación necesarios para la admisión del recurso, lo que llevó a declarar su inadmisibilidad.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "referendo",
+    "guayana",
+    "inadmision",
+    "soberania"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del recurso de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0592_E15-0616.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343451-0592-30425-2025-15-0616.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.806294"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20008,
+  "numero": "0808",
+  "fecha": "2025-05-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la revisión constitucional solicitada y ANULA la sentencia dictada por la Sala de Casación Civil.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, ha declarado con lugar la revisión constitucional solicitada por la abogada Evelin Josefina Fernández en representación de Rosa Yudith García García, anulando la sentencia N° 000354 dictada por la Sala de Casación Civil. La Sala encontró que la decisión de la Sala de Casación Civil incurrió en vicios de incongruencia omisiva y no valoró adecuadamente las pruebas presentadas, lo que vulneró los derechos al debido proceso y a la defensa. En consecuencia, se ordena a la Sala de Casación Civil dictar una nueva decisión conforme a las consideraciones expuestas en este fallo.",
+  "palabras_clave": [
+    "contrato",
+    "compraventa",
+    "fraude",
+    "dueprocess",
+    "acciones",
+    "sociedad",
+    "civiles"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 000354",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0808_E24-1290.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344286-0808-28525-2025-24-1290.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.025019"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31643,
+  "numero": "1001",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la demanda de interpretación constitucional presentada por Alirio Alberto García Aruca, pero a su vez determina la pérdida de interés procesal y el abandono del trámite debido a la inactividad del demandante desde mayo de 2019. La decisión se fundamenta en la falta de impulso procesal y en la ausencia de manifestación de interés por parte del actor en la causa.",
+  "palabras_clave": [
+    "interés procesal",
+    "acción",
+    "inactividad",
+    "interpretación constitucional",
+    "perención",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la demanda de interpretación constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1001_E19-0224.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327532-1001-28723-2023-19-0224.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.911179"
+}

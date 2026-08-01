@@ -1,0 +1,25 @@
+{
+  "id": 24065,
+  "numero": "0011",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por la abogada Dianora Eunises Lares Castejón, relacionada con causas penales ante los Juzgados Tercero, Cuarto y Quinto en funciones de Control del Circuito Judicial Penal del Estado Zulia. La solicitud se fundamenta en presuntas irregularidades en el proceso penal en su contra, pero la Sala concluye que corresponde a la Sala de Casación Penal conocer sobre la procedencia de dicha solicitud.\nLa decisión se basa en la falta de competencia de la Sala Constitucional para tratar el avocamiento en este caso específico, dado que se trata de un proceso penal que no involucra competencias exclusivas de esta Sala. Por lo tanto, se declina el conocimiento a la Sala de Casación Penal, ordenando la remisión del expediente correspondiente.\nFinalmente, se publica, registra y notifica la decisión, reafirmando la autoridad de la Sala Constitucional en la administración de justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "distribución interna",
+    "tutela judicial",
+    "error in procedendo",
+    "derecho a la defensa"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0011_E23-1280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332364-0011-5224-2024-23-1280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.831623"
+}

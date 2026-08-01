@@ -1,0 +1,25 @@
+{
+  "id": 31816,
+  "numero": "1059",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la abogada Magaly Morales en representación de W.F.M.V, en contra de la sentencia N° 95 de la Sala de Casación Penal. La acción fue declarada inadmisible debido a que, conforme a la Ley Orgánica del Tribunal Supremo de Justicia, no se admiten acciones de amparo contra decisiones de este tribunal. La sentencia N° 95 había declarado inadmisible un recurso de casación presentado por la abogada Morales en relación a un proceso penal por lesiones personales intencionales graves.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "tribunal supremo",
+    "derechos",
+    "garantías",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1059_E23-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327892-1059-4823-2023-23-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.888527"
+}

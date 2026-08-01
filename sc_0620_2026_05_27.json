@@ -1,0 +1,25 @@
+{
+  "id": 17680,
+  "numero": "0620",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Se ordena la remisión del expediente original",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación contra una sentencia que declaró inadmisible una acción de amparo constitucional presentada por Cementaciones Petroleras Venezolanas, S.A. La apelación se fundamenta en la supuesta violación del debido proceso en el juicio por desalojo inmobiliario. La Sala, tras analizar la competencia, decidió ordenar la remisión del expediente original del juicio de desalojo para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "debido proceso",
+    "sentencia",
+    "jurisdicción",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0620_E23-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355836-0620-27526-2026-23-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.898059"
+}

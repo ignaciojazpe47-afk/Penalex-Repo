@@ -1,0 +1,27 @@
+{
+  "id": 23417,
+  "numero": "1932",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Paola Anais González Armada, representada por el abogado Luis Alberto Pino, en contra de una decisión del Tribunal Primero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Guárico. La acción fue declarada inadmisible por no haberse agotado las vías ordinarias de apelación, lo que es un requisito previo para la procedencia del amparo constitucional.\n\nLa Sala destacó que el amparo tiene un carácter extraordinario y no puede ser utilizado como un recurso para eludir los medios judiciales preexistentes. Se enfatizó que la parte actora no justificó la falta de ejercicio de los recursos ordinarios, lo que llevó a la conclusión de que la acción de amparo no era procedente en este caso.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo, reafirmando la necesidad de seguir los procedimientos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "competencia",
+    "inadmision",
+    "derechos",
+    "garantías",
+    "justicia",
+    "constitucional"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1932_E25-0174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350818-1932-281125-2025-25-0174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.792732"
+}

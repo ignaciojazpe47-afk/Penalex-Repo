@@ -1,0 +1,27 @@
+{
+  "id": 33169,
+  "numero": "1678",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Joverlin Margarita Castro, quien actuó en su condición de víctima en un proceso penal. La apelación fue contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión de inadmisibilidad, argumentando que no existía una amenaza inmediata y realizable contra los derechos constitucionales de la demandante.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "violencia contra la mujer",
+    "inadmision",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1678_E23-0842.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330847-1678-301123-2023-23-0842.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.968909"
+}

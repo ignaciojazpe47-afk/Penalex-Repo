@@ -1,0 +1,25 @@
+{
+  "id": 40806,
+  "numero": "0751",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, decidió sobre la acción de amparo interpuesta por Wilmer Rolando Meléndez Méndez contra una sentencia interlocutoria del Juzgado Superior en lo Civil y Contencioso Administrativo. La Sala declaró su competencia para conocer el caso y, tras verificar la inactividad del demandante por más de seis meses, resolvió que hubo abandono del trámite. Como consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "tutela judicial",
+    "interés procesal",
+    "constitucionalidad",
+    "multa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0751_E19-0762.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315203-0751-91221-2021-19-0762.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.727097"
+}

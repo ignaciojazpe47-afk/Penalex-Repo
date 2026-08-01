@@ -1,0 +1,26 @@
+{
+  "id": 24087,
+  "numero": "0035",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión y se anula el fallo.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo que había declarado sin lugar un recurso de apelación interpuesto por Isabel Yolanda Espinal Gómez. La Sala determinó que la sentencia de 7 de octubre de 2015, que modificó una decisión anterior sobre la separación de bienes, incurrió en violaciones de derechos constitucionales, por lo que se anula el fallo y se ordena un nuevo pronunciamiento sobre el recurso de apelación. La decisión se fundamenta en la falta de valoración de pruebas que podrían haber influido en el resultado del juicio.",
+  "palabras_clave": [
+    "debido_proceso",
+    "pruebas",
+    "medidas_cautelares",
+    "separación_de_bienes",
+    "tutela_judicial",
+    "constitución",
+    "capacidad_jurídica"
+  ],
+  "titulo": "Revisión de sentencia sobre rescisión por lesión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0035_E17-1232.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332388-0035-5224-2024-17-1232.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.833988"
+}

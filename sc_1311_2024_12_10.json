@@ -1,0 +1,27 @@
+{
+  "id": 28369,
+  "numero": "1311",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por la defensa de César Horacio Belfort contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas, que declaró inadmisible la acción de amparo constitucional. La Sala fundamenta su decisión en que el accionante contaba con medios judiciales ordinarios para impugnar la decisión cuestionada, lo que configura la causal de inadmisibilidad prevista en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nSe destaca que la acción de amparo fue interpuesta el 23 de enero de 2024, y la Corte de Apelaciones resolvió el 6 de febrero de 2024, declarando inadmisible la acción por considerar que el agraviado había optado por recurrir a vías judiciales ordinarias. La Sala Constitucional confirma esta decisión, argumentando que el recurso de apelación era un medio idóneo y eficaz para hacer valer las razones invocadas por el accionante.\n\nFinalmente, la Sala reafirma su competencia para conocer del recurso de apelación y ratifica la decisión de la Corte de Apelaciones, declarando que no se vulneraron derechos ni garantías constitucionales en el proceso.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "derechos",
+    "justicia",
+    "proceso",
+    "apelacion",
+    "garantias",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1311_E24-0165.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340325-1311-101224-2024-24-0165.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.206270"
+}

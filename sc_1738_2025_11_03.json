@@ -1,0 +1,26 @@
+{
+  "id": 22788,
+  "numero": "1738",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por José David Hernández Fernández contra una sentencia del Juzgado Superior Primero del Trabajo del estado Lara. La acción fue presentada debido a la falta de contestación de la demanda por parte de la sociedad Columbus Sport 99, C.A., lo que generó un desorden procesal. La Sala constató que hubo abandono del trámite por parte del accionante, quien no realizó actuaciones procesales durante más de seis meses, lo que llevó a declarar terminado el procedimiento.",
+  "palabras_clave": [
+    "apelación",
+    "pruebas",
+    "derecho a la defensa",
+    "proceso",
+    "error material",
+    "justicia",
+    "administración"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1738_E25-0090.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349477-1738-31125-2025-25-0090.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.530177"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 47957,
+  "numero": "0528",
+  "fecha": "2018-08-03",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Edgar Nemesio Becerra Torres contra la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara. La decisión impugnada había confirmado la demanda de desalojo presentada por Gabriel Adolfo Garrido y Lisbeth Zulay Franco Garrido, alegando que el demandante no cumplió con los requisitos legales para la acción de desalojo.\n\nLa Sala fundamentó su decisión en que la acción de amparo fue presentada fuera del plazo legal, configurándose así un consentimiento tácito de la sentencia impugnada. Se destacó que las infracciones alegadas no afectaban el orden público, lo que llevó a la inadmisibilidad de la acción.\n\nFinalmente, se ordenó la publicación y archivo del expediente, reafirmando la autoridad de la ley en la administración de justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "orden público",
+    "inadmision",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-03_S0528_E17-0758.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/300551-0528-3818-2018-17-0758.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.035557"
+}

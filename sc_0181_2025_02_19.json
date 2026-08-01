@@ -1,0 +1,26 @@
+{
+  "id": 18494,
+  "numero": "0181",
+  "fecha": "2025-02-19",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado Rafael Germán Alvarado Granadillo en nombre de José Omar Benítez Cáseres contra el Complejo Siderúrgico Nacional. La acción se fundamentó en la presunta vulneración de derechos laborales y de seguridad social del demandante, quien alegó haber sido dejado cesante sin notificación alguna desde octubre de 2022.\nLa Sala, tras analizar la competencia, determinó que no le corresponde conocer de la acción de amparo, ya que esta debe ser atendida por un Tribunal de Primera Instancia de Juicio del Trabajo, dado que la materia es de naturaleza laboral. Por lo tanto, declinó la competencia y ordenó la remisión del expediente al tribunal correspondiente.\nFinalmente, la Sala declaró su incompetencia para conocer la acción y ordenó la distribución del caso a través de la Unidad de Recepción y Distribución de Documentos del Circuito Judicial del Trabajo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos laborales",
+    "competencia",
+    "seguridad social",
+    "constitucional",
+    "tribunales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-19_S0181_E23-0324.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341598-0181-19225-2025-23-0324.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.757947"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31646,
+  "numero": "1004",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de hecho interpuesto por el abogado Henry Ramón Díaz Rodríguez, en representación de la Sociedad Mercantil HD Inversiones C.A, contra la decisión del Juzgado Superior que declaró inadmisible la acción de amparo por extemporaneidad. La Sala determinó que el recurso de apelación fue presentado dentro del plazo legal, considerando que la notificación no se realizó adecuadamente, lo que vulneró el derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "apelación",
+    "notificación",
+    "debido proceso",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de hecho en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1004_E23-0299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327535-1004-28723-2023-23-0299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.909091"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20334,
+  "numero": "0910",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por Enmanuel Benet González Valbuena en representación de Dennys José Albornoz, contra una decisión de la Corte de Apelaciones del Estado Zulia. La acción se fundamenta en la alegación de violaciones al debido proceso y a la tutela judicial efectiva en el contexto de un juicio penal. La Sala, tras evaluar los argumentos y antecedentes del caso, decidió declarar con lugar la acción de amparo, ordenando la nulidad de las decisiones impugnadas y el cese de los efectos de los actos procesales derivados de estas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0910_E22-0145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344715-0910-11625-2025-22-0145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.302347"
+}

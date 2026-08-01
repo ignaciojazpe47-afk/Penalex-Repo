@@ -1,0 +1,22 @@
+{
+  "id": 19337,
+  "numero": "0484",
+  "fecha": "2025-04-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Edwuin Jean Paúl García Arguinzones, quien impugnó decisiones previas que lo condenaron por delitos de suposición de valimiento y denuncia falsa. La Sala encontró vicios procesales en las decisiones de los tribunales inferiores, lo que llevó a declarar la nulidad de las sentencias emitidas por el Tribunal Vigésimo Noveno y la Corte de Apelaciones. Se ordenó la realización de una nueva audiencia preliminar, garantizando así el derecho a la defensa y el debido proceso del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "due process",
+    "nulidad de sentencia"
+  ],
+  "titulo": "Sentencia de revisión constitucional a favor de Edwuin Jean Paúl García Arguinzones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-09_S0484_E23-1228.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343023-0484-9425-2025-23-1228.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.595481"
+}

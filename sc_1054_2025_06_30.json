@@ -1,0 +1,26 @@
+{
+  "id": 20657,
+  "numero": "1054",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE de manera sobrevenida, la acción de amparo interpuesta.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo interpuesta contra una decisión del Juzgado Superior Décimo en lo Civil, Mercantil, del Tránsito y Bancario. Sin embargo, se determina que la acción es inadmisible de manera sobrevenida, ya que la violación de derechos constitucionales denunciada ha cesado tras la nulidad de la sentencia recurrida. Además, se considera inoficioso pronunciarse sobre la solicitud de desistimiento de la acción de amparo, dado que la causa ha perdido su objeto.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "fraude procesal",
+    "tutela judicial",
+    "debido proceso",
+    "propiedad",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1054_E20-0491.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345334-1054-30625-2025-20-0491.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.511060"
+}

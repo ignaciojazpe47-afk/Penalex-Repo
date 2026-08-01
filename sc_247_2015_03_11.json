@@ -1,0 +1,24 @@
+{
+  "id": 62514,
+  "numero": "247",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Contencioso Administrativo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2014-1601 de la Corte Primera de lo Contencioso Administrativo, que desaplicó el Decreto N° 058 del 3 de noviembre de 2000, por considerar que vulneraba el principio de reserva legal en materia de seguridad social. La Corte determinó que el Alcalde del Municipio Girardot no tenía la facultad para legislar sobre jubilaciones, lo que llevó a la nulidad del acto administrativo que otorgó la jubilación a la ciudadana Rosa Vásquez.\n\nLa Sala reafirmó que la competencia para legislar sobre previsión y seguridad social corresponde exclusivamente a la Asamblea Nacional, y que cualquier regulación municipal en esta materia es inconstitucional. En consecuencia, se ordenó la reincorporación de la demandante a su cargo y el pago de los sueldos dejados de percibir desde que comenzó a recibir su pensión.\n\nFinalmente, se ordenó iniciar el procedimiento de nulidad por inconstitucionalidad del Decreto desaplicado, asegurando así la protección de la Constitución y el orden público.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "constitucionalidad",
+    "jubilación",
+    "seguridad social"
+  ],
+  "titulo": "Desaplicación del Decreto N° 058 del 3 de noviembre de 2000 por control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S247_E14-1275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175288-247-11315-2015-14-1275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.363179"
+}

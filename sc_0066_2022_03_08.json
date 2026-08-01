@@ -1,0 +1,24 @@
+{
+  "id": 34608,
+  "numero": "0066",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por VÍCTOR JOSÉ LEONET ESPINOZA contra la decisión de la Sala N.° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que declaró inadmisible su acción de amparo constitucional. La Sala constató que el apelante no agotó los recursos ordinarios disponibles antes de recurrir al amparo, lo que llevó a la inadmisibilidad de su solicitud. Finalmente, se confirmó la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "tutela judicial",
+    "justificación",
+    "vías judiciales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0066_E18-0831.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315916-0066-8322-2022-18-0831.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.437524"
+}

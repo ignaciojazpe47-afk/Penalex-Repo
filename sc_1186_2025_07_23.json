@@ -1,0 +1,22 @@
+{
+  "id": 21127,
+  "numero": "1186",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la abogada Jenny Rueda en representación de varios ciudadanos contra la actuación del Tribunal Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Carabobo. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso y declinó el conocimiento al tribunal correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1186_E24-0541.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346410-1186-23725-2025-24-0541.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.380776"
+}

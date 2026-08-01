@@ -1,0 +1,27 @@
+{
+  "id": 17323,
+  "numero": "0332",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 25 de marzo de 2026, declaró competente para conocer la solicitud de revisión constitucional presentada por Julio César Porras Figueroa, quien impugnaba la sentencia del 27 de febrero de 2023 que declaró con lugar la nulidad de su matrimonio con Susana Esther Noguera Morales. La Sala determinó que no se evidenció violación de derechos constitucionales en el proceso anterior y que la solicitud de revisión no cumplía con los requisitos para ser admitida, por lo que se declaró 'NO HA LUGAR'.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de matrimonio",
+    "cosa juzgada",
+    "derechos constitucionales",
+    "Código Civil",
+    "interés público",
+    "sentencias",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de nulidad de matrimonio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0332_E25-1006.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354312-0332-25326-2026-25-1006.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.564628"
+}

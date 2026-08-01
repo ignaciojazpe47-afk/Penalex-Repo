@@ -1,0 +1,22 @@
+{
+  "id": 32094,
+  "numero": "333",
+  "fecha": "2023-10-05",
+  "anio": 2023,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "ARCHIVAR",
+  "ponente": "ELSA JANETH GÓMEZ MORENO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia de Venezuela dictó una sentencia en relación a la solicitud de extradición pasiva del ciudadano Jeans Alirio Chavarro Carrillo, requerido por la República de Chile por la presunta comisión del delito de 'Secuestro con Violación'. La Sala declaró su competencia para conocer del procedimiento de extradición, pero al no poder ubicar al solicitado en el territorio nacional, se decidió archivar el expediente. Se insta al Ministerio Público a realizar las diligencias necesarias para la búsqueda y localización del demandado.",
+  "palabras_clave": [
+    "extradición",
+    "secuestro",
+    "violación"
+  ],
+  "titulo": "Sentencia sobre solicitud de extradición pasiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2023-10-05_S333_E23-211.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/octubre/328913-333-51023-2023-E23-211.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:49.595130"
+}

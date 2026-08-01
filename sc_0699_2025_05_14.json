@@ -1,0 +1,27 @@
+{
+  "id": 19809,
+  "numero": "0699",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró competente para conocer la solicitud de revisión constitucional presentada por el abogado Luis Alberto Acuña Cabrera, apoderado judicial del ciudadano Francisco Díaz Barrera. Tras analizar los alegatos, la Sala concluyó que no se evidencian infracciones a principios jurídicos fundamentales ni errores que justifiquen la revisión, por lo que se declaró no ha lugar la solicitud. Se ordenó el archivo del expediente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "interpretación de normas",
+    "principios jurídicos",
+    "decisión judicial",
+    "infracciones",
+    "competencia",
+    "Sala Constitucional",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0699_E15-0286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343774-0699-14525-2025-15-0286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.725000"
+}

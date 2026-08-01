@@ -1,0 +1,23 @@
+{
+  "id": 57734,
+  "numero": "440",
+  "fecha": "2016-06-08",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Ligia Yasmin Blanco Parada contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario de Caracas. La Sala declaró con lugar la acción de amparo, argumentando que la decisión impugnada violó derechos fundamentales de la demandante, como el derecho a la defensa y al debido proceso, al no garantizar una notificación adecuada en el proceso de desalojo. Además, se ordenó la suspensión de los efectos de la sentencia del Juzgado Superior hasta que se resuelva el fondo de la controversia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-06-08_S440_E16-0053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/188145-440-8616-2016-16-0053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:12.207308"
+}

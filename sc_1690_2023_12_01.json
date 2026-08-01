@@ -1,0 +1,22 @@
+{
+  "id": 33187,
+  "numero": "1690",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por los ciudadanos Honoria María López y José Ramón Ramos Villarroel contra la sentencia del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La apelación fue presentada debido a un auto de homologación dictado en 2012, que los apelantes consideraban fraudulento. La Sala concluyó que la acción de amparo fue interpuesta fuera del lapso de seis meses establecido por la ley, incurriendo en caducidad, y por lo tanto, declaró sin lugar la apelación y confirmó la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1690_E22-0545.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330928-1690-11223-2023-22-0545.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.163480"
+}

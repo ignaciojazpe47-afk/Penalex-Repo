@@ -1,0 +1,26 @@
+{
+  "id": 37568,
+  "numero": "1044",
+  "fecha": "2022-11-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Daniel Alejandro Mejías Burgos contra el rector de la Universidad Militar Bolivariana de Venezuela, por la omisión de ordenar su reincorporación a la Academia Militar de la Guardia Nacional Bolivariana. Tras revisar el caso, la Sala declaró su incompetencia para conocer la acción, argumentando que corresponde a un tribunal de primera instancia en materia contencioso-administrativa. La Sala declinó la competencia al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial de la Región Capital y ordenó la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-24_S1044_E22-0716.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320999-1044-241122-2022-22-0716.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.329748"
+}

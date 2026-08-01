@@ -1,0 +1,22 @@
+{
+  "id": 23404,
+  "numero": "1919",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 1080, declaró sin lugar la apelación interpuesta por el abogado Carlos Andrés Fonseca Bastidas, en representación de Arsenio Taboada Ferreira, contra la decisión del Tribunal Superior Segundo que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que las presuntas violaciones de derechos constitucionales habían cesado, dado que el tribunal de primera instancia ya había emitido pronunciamiento sobre las solicitudes de autorización judicial para viajar y régimen de convivencia familiar internacional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1919_E24-0882.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350805-1919-281125-2025-24-0882.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.795017"
+}

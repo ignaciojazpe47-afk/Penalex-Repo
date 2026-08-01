@@ -1,0 +1,22 @@
+{
+  "id": 37445,
+  "numero": "1001",
+  "fecha": "2022-11-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Ana Hilda Acevedo Aguiar, actuando como defensora de Vicmore Segundo Segovia Jiménez, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida que declaró inadmisible la acción de amparo constitucional. La Sala consideró que la apelación era procedente y que la Corte de Apelaciones había cometido un error al declarar la inadmisibilidad, ya que la acción de amparo fue ejercida dentro del lapso previsto y no se configuró el consentimiento expreso o tácito de la parte agraviada.\n\nEn consecuencia, la Sala revocó el fallo de la Corte de Apelaciones y ordenó que se pronuncie sobre la admisibilidad de la acción de amparo constitucional, garantizando así el derecho a la defensa y el debido proceso del demandado. La decisión se fundamenta en la necesidad de asegurar que se respeten los derechos constitucionales de los ciudadanos en el marco de los procesos judiciales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Debido Proceso",
+    "Inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la admisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-17_S1001_E22-0050.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320850-1001-171122-2022-22-0050.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.345101"
+}

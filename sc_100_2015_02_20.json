@@ -1,0 +1,23 @@
+{
+  "id": 62031,
+  "numero": "100",
+  "fecha": "2015-02-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia de Venezuela se pronunció sobre la interpretación de los artículos 1, 5 y 322 de la Constitución, en el contexto de la Ley de Defensa de los Derechos Humanos y la Sociedad Civil de Venezuela emitida por los Estados Unidos. La sentencia establece que dicha ley carece de validez en el territorio venezolano y que los Estados Unidos no tienen jurisdicción para sancionar actos legales en Venezuela. La decisión resalta la importancia de la soberanía y la autodeterminación del pueblo venezolano frente a injerencias extranjeras.",
+  "palabras_clave": [
+    "soberanía",
+    "injerencia extranjera",
+    "derechos humanos",
+    "constitucionalidad"
+  ],
+  "titulo": "Interpretación de artículos constitucionales ante injerencia extranjera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-20_S100_E15-0142.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174494-100-20215-2015-15-0142.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.519391"
+}

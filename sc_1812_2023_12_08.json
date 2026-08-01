@@ -1,0 +1,23 @@
+{
+  "id": 33478,
+  "numero": "1812",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por José Alberto Navarro Márquez en representación de Yuraima Del Valle Gil Marín. La solicitud se refiere a la revisión de la sentencia n.° 2023-00009 dictada por el Juzgado Nacional Segundo Contencioso Administrativo, que había declarado parcialmente con lugar una querella funcionarial. La Sala argumenta que la falta de representación adecuada del solicitante afecta la legitimación para presentar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "SENIAT",
+    "querella funcionarial",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1812_E23-0258.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331347-1812-81223-2023-23-0258.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.468028"
+}

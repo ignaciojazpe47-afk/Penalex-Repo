@@ -1,0 +1,26 @@
+{
+  "id": 32901,
+  "numero": "1411",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 21-0488, declara no ha lugar la solicitud de revisión presentada por los apoderados de las ciudadanas Marlene Margarita Lazarde Luces y Ruth Andreína Sánchez Bueno Lazarde, en relación a la sentencia dictada el 16 de julio de 2021 por el Juzgado Superior Cuarto en lo Civil, Mercantil y Tránsito. La Sala argumenta que el Juzgado actuó conforme a derecho y no se evidencian violaciones a los derechos constitucionales alegados por las solicitantes.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido_proceso",
+    "notificación",
+    "seguridad_jurídica",
+    "confianza_legítima",
+    "procedimiento_civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1411_E21-0488.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/330471-1411-111023-2023-21-0488.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.399690"
+}

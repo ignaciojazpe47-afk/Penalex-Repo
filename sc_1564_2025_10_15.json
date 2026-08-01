@@ -1,0 +1,24 @@
+{
+  "id": 22224,
+  "numero": "1564",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Vincenza Testagrosa de Bergamo y Gaspare Bergamo Testagrosa contra una decisión del Juzgado Superior Cuarto Civil. La Sala declaró su competencia para conocer el caso y consideró que la apelación presentada por los demandantes era procedente, revocando la decisión del juzgado inferior que había declarado con lugar la apelación interpuesta por la parte demandada. Se ordenó la remisión de información adicional para verificar las alegaciones de violaciones constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "interpretación constitucional",
+    "poder judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1564_E23-0464.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348671-1564-151025-2025-23-0464.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.758488"
+}

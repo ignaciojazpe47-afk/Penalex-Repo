@@ -1,0 +1,25 @@
+{
+  "id": 29710,
+  "numero": "0242",
+  "fecha": "2023-04-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Pablo Antonio Moros Lázaro en contra de sentencias de tribunales laborales. Se argumentó que las decisiones anteriores vulneraron derechos constitucionales y principios procesales, especialmente en relación con el cálculo de prestaciones sociales. La Sala aceptó la declinatoria de competencia del Tribunal Segundo Superior del Trabajo y ordenó la remisión de los expedientes correspondientes para un análisis exhaustivo.",
+  "palabras_clave": [
+    "principio de igualdad",
+    "prestaciones sociales",
+    "derecho del trabajo",
+    "revisión constitucional",
+    "seguridad jurídica",
+    "tutela de trabajadores"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencias laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0242_E21-0684.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324329-0242-11423-2023-21-0684.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.050471"
+}

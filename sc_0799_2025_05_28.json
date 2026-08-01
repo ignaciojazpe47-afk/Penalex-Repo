@@ -1,0 +1,25 @@
+{
+  "id": 19999,
+  "numero": "0799",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Tania D'Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por Carmen Luisa García Torres, quien actuaba en representación de la Sucesión Plácida del Valle Torres García. La solicitud fue interpuesta contra una decisión de inadmisión dictada por el Juzgado Noveno de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado inadmisible la querella de acusación privada presentada por la solicitante.",
+  "palabras_clave": [
+    "inadmisión",
+    "querella",
+    "tutela judicial",
+    "legitimidad",
+    "derechos hereditarios",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0799_E24-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344277-0799-28525-2025-24-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.849121"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 44008,
+  "numero": "0310",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado Lubin José Aguirre Martínez en representación de Pablo Javier Fonseca Rosales, respecto a la sentencia del Juzgado Cuarto de Primera Instancia en lo Civil, Mercantil y del Tránsito de Carabobo, que declaró inexistente una venta de un inmueble y con lugar la demanda de cumplimiento de contrato de opción de compra-venta. La inadmisibilidad se fundamenta en el incumplimiento de la carga procesal de presentar la totalidad de las actas del expediente, lo que impide a la Sala verificar la lesión constitucional alegada.",
+  "palabras_clave": [
+    "contrato",
+    "debido proceso",
+    "nulidad",
+    "tutela judicial",
+    "inexistencia",
+    "motivación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0310_E17-0224.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307178-0310-16819-2019-17-0224.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.380728"
+}

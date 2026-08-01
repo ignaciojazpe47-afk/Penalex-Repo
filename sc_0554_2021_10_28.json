@@ -1,0 +1,26 @@
+{
+  "id": 40001,
+  "numero": "0554",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Francisco Antonio Vásquez Pino, quien impugnó la decisión del Tribunal Superior del Trabajo que declaró sin lugar su recurso de apelación. La controversia se centró en la aplicación del principio non bis in ídem, ya que el solicitante alegaba haber sido sancionado dos veces por los mismos hechos relacionados con su despido. La Sala, tras analizar los argumentos, concluyó que la amonestación impuesta por el patrono no constituía una sanción legal, por lo que no se vulneró el principio mencionado.",
+  "palabras_clave": [
+    "principio non bis in idem",
+    "amonestación",
+    "derecho laboral",
+    "sanciones",
+    "función pública",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0554_E18-0352.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313919-0554-281021-2021-18-0352.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.120340"
+}

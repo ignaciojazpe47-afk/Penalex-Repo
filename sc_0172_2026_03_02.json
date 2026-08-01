@@ -1,0 +1,26 @@
+{
+  "id": 17589,
+  "numero": "0172",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar el recurso de apelación interpuesto por Sergio Ramón Aranguren Carrero, quien había solicitado un amparo constitucional. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando la falta de autenticación del poder presentado por el demandante. Sin embargo, la Sala Constitucional consideró que la decisión de inadmisibilidad no se ajustaba a derecho, ya que se vulneraron las garantías constitucionales del debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "derechos de la víctima",
+    "inadmision",
+    "justicia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0172_E25-1268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353168-0172-2326-2026-25-1268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.375190"
+}

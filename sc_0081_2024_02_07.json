@@ -1,0 +1,24 @@
+{
+  "id": 24134,
+  "numero": "0081",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de febrero de 2024, declaró sin lugar la solicitud de revisión constitucional presentada por Inversiones Alceste, S.A. contra la sentencia N° 154 de la Sala Político-Administrativa, que había declarado parcialmente con lugar un recurso de nulidad. La Sala Constitucional consideró que la Sala Político-Administrativa actuó conforme a derecho al determinar que el hotel no cumplía con los requisitos mínimos para mantener su categoría de tres estrellas, y que la revocatoria de dicha categoría era válida. Además, se destacó que la administración tiene la potestad de supervisar y sancionar a los establecimientos turísticos que no cumplan con las normativas establecidas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "categoría hotel",
+    "principio de proporcionalidad",
+    "derecho subjetivo público"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 154 de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0081_E23-1177.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332452-0081-7224-2024-23-1177.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.571804"
+}

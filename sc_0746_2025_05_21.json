@@ -1,0 +1,26 @@
+{
+  "id": 19883,
+  "numero": "0746",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Ender Enrique Montiel Hernández contra la decisión del Juzgado Noveno de Primera Instancia que negó la apertura de la audiencia preliminar. Se argumenta que la falta de jurisdicción alegada por la parte demandada requería un pronunciamiento previo, lo que justificó la decisión del tribunal de no abrir la audiencia. Además, se establece que la acción de amparo no es procedente cuando la amenaza a los derechos constitucionales ya ha cesado.",
+  "palabras_clave": [
+    "denegación de justicia",
+    "debido proceso",
+    "tutela judicial",
+    "audiencia preliminar",
+    "control de legalidad",
+    "recurso de apelación",
+    "subversión del proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0746_E22-0930.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343909-0746-21525-2025-22-0930.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.863448"
+}

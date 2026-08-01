@@ -1,0 +1,24 @@
+{
+  "id": 32317,
+  "numero": "1464",
+  "fecha": "2023-10-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ dictó la sentencia número 1060, admitiendo la acción de amparo constitucional interpuesta por Lisbeth Andrade en representación de Jonathan Medina Toledo, quien busca proteger a sus hijos menores. Se anula la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que había declarado inadmisible la apelación y se ordena la reposición del caso para que se pronuncie nuevamente sobre el recurso de apelación. Además, se dicta una medida cautelar innominada de suspensión de efectos de la sentencia anterior y se prohíbe la salida del país de los menores hasta que se decida el recurso de apelación.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "protección de niños",
+    "amparo constitucional",
+    "decisión judicial",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-17_S1464_E16-1153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329371-1464-171023-2023-16-1153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.385915"
+}

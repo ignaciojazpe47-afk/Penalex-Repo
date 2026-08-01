@@ -1,0 +1,22 @@
+{
+  "id": 35143,
+  "numero": "0211",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado César José Curiel H. en representación de Nicolás Arias Rodríguez, por inepta acumulación de pretensiones. La Corte de Apelaciones había declarado inadmisible la acción al considerar que se cuestionaban actuaciones de dos órganos jurisdiccionales distintos, lo que configuraba una inepta acumulación. La Sala confirma esta decisión, argumentando que la acumulación de pretensiones no es procedente cuando se dirigen contra diferentes sujetos pasivos y no existe identidad de objeto.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inepta Acumulación",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional por inepta acumulación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0211_E18-0402.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317472-0211-21622-2022-18-0402.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.624051"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31277,
+  "numero": "0931",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Rafael Arturo González Rivas, quien actuaba en nombre de la sociedad mercantil Ruta’s Construcciones, C.A. La inadmisibilidad se fundamenta en la falta de legitimidad del abogado para solicitar la revisión de la sentencia N° 000263 dictada por la Sala de Casación Civil el 4 de julio de 2019. La Sala establece que el abogado no presentó un poder que lo facultara para actuar en este caso específico.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisible",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0931_E20-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326902-0931-13723-2023-20-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.213770"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2857,
+  "numero": null,
+  "fecha": "2002-08-14",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "PARCIALMENTE CON LUGAR",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó un amparo constitucional interpuesto por Reddy Orlando Puentes Dávila, quien alegó violaciones a sus derechos a la libertad personal y al debido proceso tras la imposición de medidas cautelares sustitutivas por parte del Juzgado Undécimo de Control. La Corte de Apelaciones había declarado inadmisible la solicitud de amparo, argumentando que la supuesta violación había cesado y que existían recursos más expeditos para su revisión.\nLa Sala Constitucional, al analizar el caso, determinó que la decisión de inadmisibilidad era ajustada a derecho, pero también concluyó que la aplicación de múltiples medidas cautelares excedía lo permitido por la ley, lo que constituía una violación al derecho a la libertad personal. Por lo tanto, revocó la sentencia de la Corte de Apelaciones y declaró parcialmente con lugar la demanda de amparo, ordenando la revisión de las medidas cautelares impuestas.\nFinalmente, se ordenó al Juzgado Undécimo que ajustara las medidas cautelares a lo que establece el Código Orgánico Procesal Penal, garantizando así el respeto a los derechos fundamentales del demandante.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre amparo constitucional de Reddy Orlando Puentes Dávila",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-08-14_Constitucional_01_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.422256"
+}

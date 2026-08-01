@@ -1,0 +1,22 @@
+{
+  "id": 61930,
+  "numero": "43",
+  "fecha": null,
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por Leocadio Manuel Padilla contra la sentencia N° 66-2013-D, dictada por el Juzgado Segundo de Primera Instancia Civil, Mercantil, del Tránsito y Bancario del Estado Sucre, que declaró con lugar la prescripción adquisitiva a favor de Luigi Nuovo Amorese. La Sala determinó que la sentencia cuestionada fue motivada y congruente, cumpliendo con las exigencias legales, y que no se había violado ningún principio constitucional. Por lo tanto, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "prescripción adquisitiva",
+    "revisión constitucional",
+    "derecho de propiedad"
+  ],
+  "titulo": "Revisión de sentencia sobre prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-18_S43_E14-0073.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174322-43-18215-2015-14-0073.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.689113"
+}

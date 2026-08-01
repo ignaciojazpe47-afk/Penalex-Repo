@@ -1,0 +1,23 @@
+{
+  "id": 3369,
+  "numero": null,
+  "fecha": "2006-12-21",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad de la 'Ley Orgánica sobre el Derecho de la Mujer a una Vida Libre de Violencia', analizando su carácter orgánico conforme al artículo 203 de la Constitución. La ley busca garantizar y promover el derecho de las mujeres a una vida libre de violencia, estableciendo medidas de protección y sanciones para los delitos de género. La Sala reafirma su competencia para decidir sobre la constitucionalidad de leyes orgánicas y destaca la importancia de la estabilidad y protección de los derechos fundamentales de las mujeres.",
+  "palabras_clave": [
+    "Ley Orgánica",
+    "Derecho de la Mujer",
+    "Violencia de Género",
+    "Constitucionalidad"
+  ],
+  "titulo": "Interpretación sobre la Ley Orgánica sobre el Derecho de la Mujer a una Vida Libre de Violencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-02-14_Constitucional_06.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.124233"
+}

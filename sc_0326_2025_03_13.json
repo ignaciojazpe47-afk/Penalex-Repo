@@ -1,0 +1,22 @@
+{
+  "id": 18800,
+  "numero": "0326",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con un fallo firme del Tribunal Primero de Primera Instancia de Mediación, que disolvió un vínculo matrimonial y homologó convenios sobre patria potestad y manutención. La Sala determinó su competencia para conocer la solicitud de revisión, basándose en la Constitución y la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "vínculo matrimonial",
+    "patria potestad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0326_E24-0861.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342272-0326-13325-2025-24-0861.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.730173"
+}

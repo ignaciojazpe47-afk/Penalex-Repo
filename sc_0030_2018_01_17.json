@@ -1,0 +1,26 @@
+{
+  "id": 45032,
+  "numero": "0030",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por el abogado Salvador José Guarecuco Cordero en representación de Carlos Eduardo Corona, debido a la presunta violación de derechos fundamentales por retardo procesal en un juicio penal. La Corte de Apelaciones había declarado inadmisible la tutela constitucional, lo que motivó la apelación ante el Tribunal Supremo de Justicia. La Sala Constitucional determinó su competencia y declaró que la apelación fue interpuesta tempestivamente.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "retardo procesal",
+    "competencia",
+    "Corte de Apelaciones",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0030_E17-0786.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206888-0030-17118-2018-17-0786.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.264305"
+}

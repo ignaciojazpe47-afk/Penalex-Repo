@@ -1,0 +1,25 @@
+{
+  "id": 21230,
+  "numero": "1244",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara ha lugar la solicitud de revisión constitucional interpuesta por Gustavo Guerra Reyes, apoderado judicial de Banco Provincial, S.A. Banco Universal, contra la decisión de la Sala de Casación Civil que declaró su competencia en un juicio de indemnización de daños y perjuicios. La Sala anula la sentencia objeto de revisión y ordena la remisión del caso al Juzgado de Primera Instancia Agraria, argumentando que la materia agraria tiene un fuero atrayente que debe ser considerado en la competencia judicial.",
+  "palabras_clave": [
+    "jurisdicción",
+    "competencia",
+    "debido proceso",
+    "juez natural",
+    "constitución",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1244_E24-1137.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346541-1244-28725-2025-24-1137.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.778723"
+}

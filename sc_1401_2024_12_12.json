@@ -1,0 +1,24 @@
+{
+  "id": 28530,
+  "numero": "1401",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1544, declara con lugar la acción de amparo constitucional interpuesta por los ciudadanos Felipe Nery Siso Cárdenas y Gertrud Esche, contra la decisión del Tribunal Primero de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala determina que la adjudicación del inmueble a la ciudadana Celeste Marbila Aldana Vegas fue irregular, al no cumplirse con los procedimientos establecidos en la ley, lo que vulneró el debido proceso y la tutela judicial efectiva.\n\nSe ordena la reposición de la causa al estado de la designación de un único perito para el avalúo del inmueble y el desglose del expediente original para su remisión a otro tribunal de ejecución. La decisión se fundamenta en la necesidad de garantizar la transparencia y legalidad en los procedimientos judiciales, especialmente en casos que involucran derechos de niños y adolescentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "due process",
+    "tutela judicial efectiva",
+    "adjudicación irregular",
+    "niños y adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1401_E22-0541.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340553-1401-121224-2024-22-0541.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.816816"
+}

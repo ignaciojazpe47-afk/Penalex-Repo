@@ -1,0 +1,25 @@
+{
+  "id": 22092,
+  "numero": "1525",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de octubre de 2025, declaró sin lugar el recurso de apelación interpuesto por los abogados Jesús Antonio Figueroa Campos y Ricardo Alejandro Avalos Salazar, en representación del ciudadano Manuel Jhonny Farías. La acción de amparo fue considerada inadmisible debido a la existencia de una vía ordinaria, como el recurso de apelación de auto, para impugnar la decisión del Tribunal Octavo de Primera Instancia, que había declarado inadmisible la acción de amparo constitucional. La Corte de Apelaciones había fundamentado su decisión en la falta de agotamiento de los recursos ordinarios previos, lo que llevó a la confirmación de la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "tutela constitucional",
+    "derechos humanos",
+    "violencia de género",
+    "acción de amparo",
+    "justicia",
+    "derecho a la defensa"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1525_E25-0483.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348271-1525-61025-2025-25-0483.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.197186"
+}

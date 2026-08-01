@@ -1,0 +1,23 @@
+{
+  "id": 29781,
+  "numero": "0314",
+  "fecha": "2023-04-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el avocamiento solicitado por Frank José Quijada Carmona en relación a un procedimiento de amparo constitucional contra Cervecería Polar, C.A. La solicitud se fundamenta en la necesidad de verificar el estado de ejecución de una sentencia anterior que ordenaba el reenganche del trabajador tras un despido ilegal. La Sala ordenó al Juzgado Décimo Tercero de Primera Instancia de Juicio del Trabajo que informe sobre el cumplimiento de dicha sentencia en un plazo de cinco días.",
+  "palabras_clave": [
+    "avocamiento",
+    "amparo constitucional",
+    "reenganche",
+    "despido ilegal"
+  ],
+  "titulo": "Decisión sobre avocamiento en procedimiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-20_S0314_E22-0994.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324401-0314-20423-2023-22-0994.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.813853"
+}

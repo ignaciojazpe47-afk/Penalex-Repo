@@ -1,0 +1,25 @@
+{
+  "id": 29393,
+  "numero": "0132",
+  "fecha": "2023-03-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Lisbeth Henríquez De Rodríguez en nombre de Sergio Rodríguez Montesinos, solicitando su libertad mientras se decide un recurso de apelación. La Sala declaró su competencia para conocer el caso, pero observó que la acción presentada no cumplía con los requisitos legales necesarios, ya que no se precisaban los hechos que motivaban la solicitud de amparo ni cómo estos vulneraban derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "notificación",
+    "inadmision",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0132_E22-0399.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323793-0132-20323-2023-22-0399.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.330176"
+}

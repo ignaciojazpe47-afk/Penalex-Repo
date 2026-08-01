@@ -1,0 +1,27 @@
+{
+  "id": 2372,
+  "numero": null,
+  "fecha": "2001-03-23",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derecho a la educación",
+  "decision": "Se declara inadmisible la acción de amparo interpuesta.",
+  "ponente": "JESÚS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por la Universidad de los Andes en relación a una acción de amparo constitucional presentada por Moisés Emilio Flores Páez y Liliana Sofía Marcano Pereira. Los accionantes alegaron violaciones a su derecho a la educación tras ser excluidos de la universidad. La Corte Primera de lo Contencioso Administrativo había declarado con lugar la acción de amparo de Marcano Pereira, pero no así la de Flores Páez. La Sala Constitucional, al revisar el caso, determinó que existía contradicción en las decisiones previas y que la acción de amparo era inadmisible debido a la fuerza de la cosa juzgada, ya que los hechos eran los mismos que habían sido objeto de una decisión anterior. Por lo tanto, se revocó la sentencia apelada y se declaró inadmisible la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "universidad",
+    "inadmision",
+    "cosa juzgada",
+    "derechos",
+    "sentencia",
+    "constitucional"
+  ],
+  "titulo": "Inadmisibilidad de acción de amparo contra la Universidad de los Andes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-23_PoliticoAdmin_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.710554"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 39115,
+  "numero": "0317",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la abogada Maribel Alarcón en representación de Luis Francisco Mendoza. La decisión se basa en la prohibición establecida en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que impide la admisión de acciones de amparo contra decisiones de la Corte Suprema de Justicia y sus Salas. La sentencia se fundamenta en la jurisprudencia que establece que no es posible interponer acciones de amparo contra decisiones de este Tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "constitucional",
+    "tribunal",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0317_E18-0233.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312771-0317-22721-2021-18-0233.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.777661"
+}

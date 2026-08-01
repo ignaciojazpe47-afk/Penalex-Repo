@@ -1,0 +1,26 @@
+{
+  "id": 44715,
+  "numero": "0467",
+  "fecha": "2019-11-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Juan José Mendoza Jover, declaró inadmisible la acción de amparo interpuesta por los ciudadanos Brillenbourg Capriles contra la decisión del Juzgado Noveno de Primera Instancia. La acción de amparo fue considerada improcedente debido a que los accionantes habían ejercido previamente el recurso de apelación, lo que cerró la posibilidad de acudir a la vía del amparo. La Sala argumentó que la existencia de un medio jurisdiccional ordinario preexistente impide la admisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "apelacion",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "jurisdiccion"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0467_E17-0857.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308453-0467-31219-2019-17-0857.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.388711"
+}

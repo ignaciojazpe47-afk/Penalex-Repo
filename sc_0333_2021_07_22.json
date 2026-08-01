@@ -1,0 +1,25 @@
+{
+  "id": 39131,
+  "numero": "0333",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 22 de julio de 2021, declaró parcialmente con lugar el recurso de apelación interpuesto por la abogada Yamilet del Carmen Araujo Rojas, actuando como defensora privada del ciudadano Francisco Miñarro Cirujeda. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando falta de legitimidad de la abogada para representar a otros ciudadanos implicados en el caso. Sin embargo, se constató que la abogada sí tenía la capacidad para actuar en nombre de Francisco Miñarro, lo que llevó a revocar parcialmente la decisión anterior y ordenar a la Corte de Apelaciones pronunciarse sobre la admisibilidad de la acción de amparo respecto a dicho ciudadano.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "constitucional",
+    "derechos",
+    "justicia",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0333_E20-0417.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312787-0333-22721-2021-20-0417.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.774087"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 56184,
+  "numero": "65",
+  "fecha": "2016-03-02",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del 13 de enero de 2014, que declaró inadmisible la demanda de cobro de bolívares presentada por Juan Diego León Ferrer contra el Estado Zulia, alegando caducidad contractual. La Sala determinó que la caducidad de la acción no puede ser establecida contractualmente, sino solo por mandato legal, lo que constituye una violación a los derechos de acceso a la justicia y tutela judicial efectiva. En consecuencia, se anuló el fallo impugnado y se declaró sin lugar la demanda de cobro.",
+  "palabras_clave": [
+    "caducidad",
+    "lotería",
+    "revisión constitucional",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre caducidad de acción en lotería",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-02_S65_E15-0870.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185742-65-2316-2016-15-0870.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.608401"
+}

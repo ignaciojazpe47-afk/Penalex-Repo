@@ -1,0 +1,26 @@
+{
+  "id": 20939,
+  "numero": "1140",
+  "fecha": "2025-05-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional recibió un recurso de amparo constitucional interpuesto por Teudys Alberto Matos Bolívar, representado por el abogado Einer Biel Morales, contra la audiencia de juicio oral y público por supuestas violaciones al debido proceso. La Sala decidió ordenar a la Presidencia del Circuito Judicial Penal del Estado Aragua que realice las diligencias necesarias para recabar información sobre la causa penal en cuestión. La decisión se fundamenta en la necesidad de garantizar el derecho a un juicio justo y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "privación de libertad",
+    "Código Penal",
+    "audiencia",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1140_E24-0258.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346047-1140-14725-2025-24-0258.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.727512"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21465,
+  "numero": "1325",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por el abogado José Ángel Mongue Abache, quien actuaba en nombre propio y como apoderado de la ciudadana Jinette Coromoto Rodríguez. La decisión se basa en la falta de representación adecuada, ya que no se presentó el poder correspondiente que habilitara al abogado para actuar en la acción de amparo. La sentencia del Juzgado Superior Primero del Trabajo, que declaró inadmisible la acción de amparo, se confirma.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1325_E23-0673.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346987-1325-6825-2025-23-0673.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.748017"
+}

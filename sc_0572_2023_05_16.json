@@ -1,0 +1,22 @@
+{
+  "id": 30366,
+  "numero": "0572",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por Martín Eduardo Requena Sarevnik contra la sentencia de la Sala Accidental N° 4 de la Corte de Apelaciones del Estado Aragua, que había declarado inadmisible la Acción de Amparo Constitucional. La decisión se fundamentó en que el accionante no utilizó el medio idóneo para lograr el fin perseguido, ya que existía un recurso de apelación disponible para impugnar la decisión del tribunal inferior.\nLa Sala consideró que la acción de amparo es un medio extraordinario que debe ser utilizado solo cuando no existen otros recursos judiciales disponibles. En este caso, el accionante tenía la opción de recurrir a la vía ordinaria, lo que invalidó su solicitud de amparo.\nFinalmente, se confirmó la sentencia de inadmisibilidad y se declaró inoficioso pronunciarse sobre la medida cautelar innominada solicitada por el apelante.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0572_E22-0938.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325216-0572-16523-2023-22-0938.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.879479"
+}

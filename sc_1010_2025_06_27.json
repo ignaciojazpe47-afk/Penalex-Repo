@@ -1,0 +1,23 @@
+{
+  "id": 20610,
+  "numero": "1010",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por el abogado Rafael Alberto Latorre Cáceres en representación de varios ciudadanos privados de libertad. La acción se fundamentó en la omisión de la Corte de Apelaciones del Estado Sucre al no pronunciarse sobre un recurso de apelación en el tiempo establecido. La Sala declaró su competencia para conocer el caso y ordenó a la Presidencia del Circuito Judicial Penal del Estado Sucre que informara sobre el estado de las causas relacionadas con los demandantes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión",
+    "Corte de Apelaciones",
+    "Estado Sucre"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1010_E21-0441.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345279-1010-27625-2025-21-0441.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.307924"
+}

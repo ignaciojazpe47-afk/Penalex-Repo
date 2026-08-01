@@ -1,0 +1,24 @@
+{
+  "id": 17701,
+  "numero": "0676",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por los abogados de Pedro Enrique Farfán, argumentando que no se agotaron las vías ordinarias. Se alegó que la detención del demandante excedía el límite de dos años establecido en el Código Orgánico Procesal Penal, pero la Corte consideró que el retardo procesal no fue indebido y que existían otros recursos disponibles para el demandante. La decisión reafirma la importancia de agotar los recursos ordinarios antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Detención Ilegal",
+    "Derechos Humanos",
+    "Libertad",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0676_E26-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355946-0676-27526-2026-26-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.900834"
+}

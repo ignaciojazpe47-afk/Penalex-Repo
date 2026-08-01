@@ -1,0 +1,23 @@
+{
+  "id": 43142,
+  "numero": "0145",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revocó la sentencia del Juzgado Primero de Primera Instancia que había declarado el desacato de Jacquelin Rodríguez Adam a un mandamiento de amparo. La Sala determinó que no existían pruebas suficientes que demostraran el incumplimiento de la sentencia de amparo dictada el 13 de enero de 2015, que ordenaba no interrumpir el funcionamiento del extractor de humo del restaurante CANOA. Se estableció que la obligación de permitir reparaciones no fue expresamente impuesta en la sentencia original, lo que llevó a la revocación del desacato denunciado por Joe Taouk Jajaa.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "extractor de humo",
+    "sentencia revocada"
+  ],
+  "titulo": "Sentencia sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0145_E16-0299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305589-0145-18619-2019-16-0299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.841086"
+}

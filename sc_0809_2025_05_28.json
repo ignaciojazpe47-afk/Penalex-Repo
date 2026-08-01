@@ -1,0 +1,23 @@
+{
+  "id": 20009,
+  "numero": "0809",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Franklin José Fuenmayor Opachak en representación de una adolescente, en contra de la Universidad de Los Andes, debido a la negativa de esta última a admitirla en la carrera de Medicina tras haber sido asignada por el sistema de ingreso universitario. La Sala declaró su competencia para conocer el caso, considerando que la situación afecta derechos colectivos y difusos de estudiantes en general.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la educación",
+    "Universidad de Los Andes",
+    "Mérida"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra la Universidad de Los Andes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0809_E25-0012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344287-0809-28525-2025-25-0012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.857046"
+}

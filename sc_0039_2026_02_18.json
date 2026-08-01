@@ -1,0 +1,26 @@
+{
+  "id": 16728,
+  "numero": "0039",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 1845 el 18 de febrero de 2026, en la que se declara la nulidad de la audiencia preliminar celebrada el 21 de abril de 2025, por el Tribunal Cuadragésimo Sexto de Primera Instancia en Función de Control del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se basa en la falta de publicación de un auto fundado por separado, lo que vulnera el derecho a la defensa y la tutela judicial efectiva de los ciudadanos Enolenis Caicedo Murgas, Andrés Eduardo Martínez Caicedo y Denis Carolina Martínez Caicedo, imputados por el delito de invasión.\n\nLa Sala ordena la realización de una nueva audiencia preliminar, manteniendo a los acusados en las mismas condiciones jurídicas en que se encontraban antes de la audiencia anulada. Además, se impone una multa a la parte actora por abandono del trámite, debido a la falta de impulso procesal durante más de seis meses.\n\nFinalmente, se establece que la Sala es competente para conocer de la acción de amparo constitucional interpuesta y se declara la terminación del procedimiento por inactividad de la parte actora.",
+  "palabras_clave": [
+    "sobreseimiento",
+    "fiscalia",
+    "inmueble",
+    "comodato",
+    "amparo",
+    "corte de apelaciones",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0039_E25-0840.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352719-0039-18226-2026-25-0840.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.070203"
+}

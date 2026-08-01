@@ -1,0 +1,24 @@
+{
+  "id": 68415,
+  "numero": "1706",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional revisó la sentencia N° 73 de la Sala de Casación Penal que declaró procedente la solicitud de extradición de Chiron Sharroll Francis, argumentando que se vulneraron sus derechos al no exigir garantías sobre la no aplicación de pena de muerte o prisión perpetua, prohibidas por la Constitución venezolana. La Sala anula la decisión y ordena a la Sala de Casación Penal dictar una nueva decisión conforme a la doctrina establecida en este fallo, enfatizando la necesidad de cumplir con los requisitos constitucionales en futuras solicitudes de extradición.",
+  "palabras_clave": [
+    "extradición",
+    "derechos humanos",
+    "homicidio",
+    "Constitución",
+    "Venezuela"
+  ],
+  "titulo": "Revisión de la solicitud de extradición de Chiron Sharroll Francis",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1706_E15-0414.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184152-1706-181215-2015-15-0414.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.971240"
+}

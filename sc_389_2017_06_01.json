@@ -1,0 +1,24 @@
+{
+  "id": 51995,
+  "numero": "389",
+  "fecha": "2017-06-01",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional presentada por ciudadanos del Municipio Baruta, quienes denunciaron la vulneración de derechos fundamentales como la vida y el libre tránsito, atribuyendo responsabilidades al Alcalde y al Gobernador del Estado Miranda. La Sala determinó su competencia para conocer de la demanda, recalificando la acción como una demanda autónoma en protección de derechos colectivos, dada la trascendencia nacional de los hechos denunciados.\n\nSe estableció que la acción se fundamenta en el incumplimiento de las funciones de las autoridades demandadas, lo que ha generado una situación de ingobernabilidad y riesgo para la ciudadanía. La Sala, en uso de su potestad cautelar, ordenó al Gobernador del Estado Miranda tomar medidas para garantizar el libre tránsito y la seguridad de los ciudadanos, así como la protección de los derechos de los niños y el medio ambiente.\n\nFinalmente, se decidió que la demanda es admisible y se ordenó la ejecución inmediata de las medidas cautelares, recordando las sanciones que podrían derivarse del incumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "libre tránsito",
+    "seguridad ciudadana",
+    "Estado Miranda"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre derechos colectivos en el Municipio Baruta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-01_S389_E17-0498.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199516-389-1617-2017-17-0498.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.092330"
+}

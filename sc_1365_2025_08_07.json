@@ -1,0 +1,25 @@
+{
+  "id": 21617,
+  "numero": "1365",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia N° 0702, se declaró competente para conocer la revisión constitucional solicitada por Jorge Luis Hernández Malavé, quien impugnó la decisión de la Sala de Casación Civil que declaró perecido su recurso de casación. La Sala Constitucional, tras analizar los alegatos, concluyó que no se vulneraron derechos constitucionales y que la decisión de la Sala de Casación Civil se ajustó a derecho, por lo que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "jurisprudencia",
+    "sentencias",
+    "derechos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1365_E23-0598.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347201-1365-7825-2025-23-0598.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.041277"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33479,
+  "numero": "1813",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Guillermo Antonio Silva Vidal, quien alegó violaciones a sus derechos constitucionales en relación a una aclaratoria de sentencia dictada el 5 de agosto de 2015. La Sala determinó que el Juzgado Superior Octavo había actuado de manera inadecuada al no suspender el curso del proceso tras la notificación del fallecimiento de uno de los co-demandados, lo que vulneró el derecho a la defensa y al debido proceso. En consecuencia, se declaró con lugar la revisión, anulando la aclaratoria de sentencia y todos los actos procesales posteriores, reponiendo el juicio al estado en que se encontraba antes de la aclaratoria.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "aclaratoria de sentencia",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional sobre aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1813_E23-0306.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331348-1813-81223-2023-23-0306.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.472921"
+}

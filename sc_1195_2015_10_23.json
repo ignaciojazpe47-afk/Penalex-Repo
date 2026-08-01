@@ -1,0 +1,23 @@
+{
+  "id": 66783,
+  "numero": "1195",
+  "fecha": "2015-10-23",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MARCOS TULIO DUGARTE PADRÓN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de habeas data interpuesta por JOHANS CUELLAR ARCINIEGAS, quien solicitó la eliminación de datos personales publicados en la página web del TSJ. La demanda se fundamentó en la violación de sus derechos a la privacidad y al honor, tras haber sido condenado en el pasado y posteriormente liberado. La Sala, tras analizar la competencia, determinó que no era competente para conocer de la acción, ya que corresponde a los tribunales de municipio con competencia en lo contencioso administrativo.",
+  "palabras_clave": [
+    "habeas data",
+    "privacidad",
+    "honor",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data interpuesta contra la página web del TSJ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-23_S1195_E15-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182062-1195-231015-2015-15-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.192724"
+}

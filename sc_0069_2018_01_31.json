@@ -1,0 +1,26 @@
+{
+  "id": 45233,
+  "numero": "0069",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria y el recurso de apelación interpuestos por el abogado Rodolfo Antonio Rodríguez Lanz en representación de ISSMAT JAOUHARY. La solicitud fue presentada fuera del lapso legal establecido, lo que la hace extemporánea. Además, se resalta que las decisiones del Tribunal Supremo son irrecurribles, lo que refuerza la inadmisibilidad del recurso de apelación.",
+  "palabras_clave": [
+    "aclaratoria",
+    "inadmision",
+    "recurso",
+    "sentencia",
+    "procedimiento",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria y recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0069_E14-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207245-0069-31118-2018-14-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.463928"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 29400,
+  "numero": "0139",
+  "fecha": "2023-03-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la Fiscal Provisorio Centésima Duodécimo del Ministerio Público contra una decisión de la Corte Superior que declaró con lugar un recurso de apelación. La sentencia impugnada anuló una condena previa y sustituyó la medida de privación de libertad por presentación periódica. La Sala determinó su competencia para conocer el caso y decidió hacer uso de su potestad para requerir información adicional sobre el estado del proceso judicial del demandado.",
+  "palabras_clave": [
+    "amparo",
+    "adolescentes",
+    "homicidio",
+    "responsabilidad",
+    "justicia",
+    "tribunal",
+    "libertad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0139_E19-0169.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323800-0139-20323-2023-19-0169.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.331966"
+}

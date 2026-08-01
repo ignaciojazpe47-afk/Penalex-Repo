@@ -1,0 +1,25 @@
+{
+  "id": 27020,
+  "numero": "0506",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre la Corte Superior Sección Adolescentes y la Sala N° 5 de la Corte de Apelaciones, relacionado con una acción de amparo constitucional en la modalidad de habeas corpus presentada por la abogada Lyudmila Franco a favor de dos adolescentes detenidos. La Sala declaró su competencia para conocer del caso y ordenó la remisión del expediente a la Corte de Apelaciones correspondiente, estableciendo que esta última es el tribunal superior jerárquico para conocer de la consulta de la decisión dictada por el Juzgado Segundo de Control del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "competencia",
+    "habeas corpus",
+    "adolescentes",
+    "amparo",
+    "derechos",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0506_E23-0997.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338394-0506-301024-2024-23-0997.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.467931"
+}

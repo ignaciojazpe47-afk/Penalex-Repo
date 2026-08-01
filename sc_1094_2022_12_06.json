@@ -1,0 +1,24 @@
+{
+  "id": 37745,
+  "numero": "1094",
+  "fecha": "2022-12-06",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "El ciudadano Gilberto Emiro Correa Romero solicitó la revisión de un fallo proferido por la Sala de Casación Civil que declaró sin lugar su recurso de casación. La Sala Constitucional, tras analizar el caso, decidió solicitar al Juzgado Superior Octavo que remita el expediente relacionado con la demanda por daños y perjuicios. La decisión se fundamenta en la competencia de la Sala para dictar autos para mejor proveer en causas que no requieren sustanciación.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "debido proceso",
+    "tutela judicial",
+    "daños y perjuicios"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-06_S1094_E21-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321523-1094-61222-2022-21-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.438963"
+}

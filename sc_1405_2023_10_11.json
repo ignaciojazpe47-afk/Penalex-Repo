@@ -1,0 +1,25 @@
+{
+  "id": 32252,
+  "numero": "1405",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por Pedro Rafael Lezama Marcano contra la decisión del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La Sala argumenta que el apelante no agotó los recursos ordinarios necesarios antes de recurrir a la vía extraordinaria del amparo. Además, se establece que el recurso fue presentado de manera extemporánea, ya que no se respetaron los plazos establecidos por la ley para su interposición.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "denegación de justicia",
+    "vías ordinarias",
+    "derechos constitucionales",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1405_E21-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329280-1405-111023-2023-21-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.400188"
+}

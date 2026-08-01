@@ -1,0 +1,24 @@
+{
+  "id": 33839,
+  "numero": "1986",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la revisión constitucional solicitada por el abogado Luis Gerardo Pineda Torres, actuando en nombre de la Asociación Civil Centro Social Luso Venezolano, decidió anular la sentencia del Juzgado Superior que había declarado inadmisible la acción de amparo interpuesta por un grupo de ciudadanos contra la Junta Directiva de la asociación. La Sala consideró que la negativa de la Junta a convocar una Asamblea Extraordinaria constituía una amenaza a los derechos de asociación y propiedad de los accionantes, quienes habían solicitado dicha asamblea para discutir el aumento de la cuota de mantenimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción de amparo",
+    "asamblea extraordinaria",
+    "derecho de asociación",
+    "cuota de mantenimiento"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1986_E23-0572.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331956-1986-151223-2023-23-0572.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.431665"
+}

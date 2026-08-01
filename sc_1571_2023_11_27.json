@@ -1,0 +1,26 @@
+{
+  "id": 33002,
+  "numero": "1571",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Tribunal Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito de Miranda y el Tribunal Superior Octavo de lo Contencioso Administrativo. Se determinó que el tribunal competente para conocer de la acción de amparo interpuesta por Juan Félix Arteaga es el Tribunal Superior Octavo. La Sala declaró que es competente para resolver el conflicto negativo de competencia y ordenó remitir el expediente al tribunal correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "administración pública",
+    "licencia de actividades económicas",
+    "orden público",
+    "tribunales",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1571_E17-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330626-1571-271123-2023-17-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.424167"
+}

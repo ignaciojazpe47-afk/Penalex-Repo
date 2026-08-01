@@ -1,0 +1,25 @@
+{
+  "id": 34232,
+  "numero": "1341",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Corpus",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE por extemporáneo",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal en Materia de Delitos de Violencia contra la Mujer del Estado Carabobo declaró improcedente in limine litis la acción de amparo constitucional bajo la modalidad de habeas corpus interpuesta por el abogado Rogelio Rafael Ramírez Marriaga en favor de Alonzo de Jesús Bolaño Pava. La decisión se fundamenta en la extemporaneidad del recurso de apelación presentado por la defensa, quien argumentó la violación de derechos fundamentales del acusado.",
+  "palabras_clave": [
+    "apelación",
+    "habeas corpus",
+    "derechos",
+    "justicia",
+    "temporalidad",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional bajo la modalidad de Habeas Corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1341_E23-0393.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328546-1341-17823-2023-23-0393.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.216922"
+}

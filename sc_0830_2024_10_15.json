@@ -1,0 +1,26 @@
+{
+  "id": 27566,
+  "numero": "0830",
+  "fecha": "2024-10-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por el abogado José Francisco Tiape Marcano contra una sentencia interlocutoria del Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La apelación se fundamenta en la supuesta inconstitucionalidad de la sentencia que impuso una sanción disciplinaria al abogado por su conducta en el juicio. La Sala, tras revisar el expediente, determinó su competencia para conocer del recurso y decidió a favor del apelante, ordenando la nulidad de la sentencia impugnada.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "sanción",
+    "niños",
+    "adolescentes",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0830_E24-0063.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339003-0830-141124-2024-24-0063.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.636512"
+}

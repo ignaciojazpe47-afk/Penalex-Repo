@@ -1,0 +1,26 @@
+{
+  "id": 28033,
+  "numero": "1122",
+  "fecha": "2023-12-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional de la sentencia n.° 811 dictada el 8 de diciembre de 2023 por la Sala de Casación Civil. Los demandantes cuestionaron la decisión de la Sala de Casación Civil que declaró sin lugar su demanda por cobro de honorarios profesionales, alegando violaciones a derechos constitucionales y errores en la valoración de pruebas. La Sala Constitucional, tras analizar los argumentos, determinó que no había lugar para la revisión, ya que la valoración de pruebas es competencia de los jueces de instancia y no puede ser objeto de revisión constitucional, concluyendo que la decisión de la Sala de Casación Civil fue ajustada a derecho.",
+  "palabras_clave": [
+    "confesión ficta",
+    "recurso de casación",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "silencio de pruebas",
+    "incongruencia omisiva",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1122_E24-0167.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339702-1122-281124-2024-24-0167.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.473397"
+}

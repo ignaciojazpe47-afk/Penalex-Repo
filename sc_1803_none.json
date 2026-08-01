@@ -1,0 +1,26 @@
+{
+  "id": 33469,
+  "numero": "1803",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Gabriela Yeiret Mijares Pacheco, quien impugnó la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolecentes que declaró inadmisible su acción de amparo constitucional. La Sala determinó que la apelación fue presentada dentro del plazo establecido y que la decisión del tribunal inferior se ajustaba a derecho, ya que existían vías ordinarias para la protección de los derechos alegados como vulnerados. Por lo tanto, se declaró sin lugar el recurso de apelación y se confirmó la decisión impugnada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmision",
+    "derechos",
+    "niños",
+    "garantías",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1803_E22-0098.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331338-1803-71223-2023-22-0098.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.693202"
+}

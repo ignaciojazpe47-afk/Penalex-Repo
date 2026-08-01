@@ -1,0 +1,22 @@
+{
+  "id": 33007,
+  "numero": "1576",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer un recurso de apelación interpuesto por los abogados Asdrúbal Placeres y Freddy González en representación de ENMANUEL JOSÉ FUENTES MATA, quien alegó vulneración de su derecho a la libertad. La acción de amparo fue inicialmente declarada inadmisible por la Corte de Apelaciones del Circuito Judicial Penal del estado Bolívar, lo que motivó la apelación. La Sala Constitucional determinó su competencia para conocer el caso y ordenó la verificación de actuaciones procesales relacionadas con la libertad del imputado.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1576_E22-0272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330631-1576-281123-2023-22-0272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.013958"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 18141,
+  "numero": "0001",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 27 de enero de 2016 por el Juzgado Superior Primero en lo Civil, que había declarado sin lugar la demanda de resolución de contrato de compraventa interpuesta por Jenny Bello Delgado contra Yemmy Moraima Cossi Tremont. La Sala encontró que la demandada no probó haber cumplido con su obligación de pago, ya que el pago fue realizado a una persona no autorizada, lo que llevó a la anulación de la sentencia anterior y a la declaración con lugar de la demanda de resolución del contrato.",
+  "palabras_clave": [
+    "revisión",
+    "contrato de compraventa",
+    "resolución de contrato",
+    "pago no autorizado"
+  ],
+  "titulo": "Sentencia sobre revisión de contrato de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0001_E16-0738.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341147-0001-4225-2025-16-0738.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.570394"
+}

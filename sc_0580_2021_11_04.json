@@ -1,0 +1,25 @@
+{
+  "id": 40077,
+  "numero": "0580",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado Miguel Ángel Lois Mora, quien alegó actuar como apoderado judicial de la sociedad mercantil Servicios Útiles C.A. La inadmisibilidad se fundamenta en la falta de acreditación de la representación legal, ya que no se presentó copia certificada del poder correspondiente, solo copias simples. La Sala enfatiza la necesidad de presentar documentos fehacientes en los procesos de revisión constitucional.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "representación",
+    "revisión constitucional",
+    "legitimidad",
+    "poder",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0580_E20-0093.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314078-0580-41121-2021-20-0093.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.108506"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31711,
+  "numero": "1043",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la demanda de nulidad interpuesta por María Eugenia Vásquez García, Directora del Laboratorio Clínico Analizar, C.A. La demandante solicitó la nulidad de la aplicación del impuesto sobre actividades económicas, argumentando que su actividad profesional no debe ser gravada. Sin embargo, se constató que entre la presentación de la demanda y la consignación de anexos, no hubo actividad procesal por parte de la demandante durante más de un año, lo que llevó a la Sala a declarar la pérdida del interés procesal y el abandono del trámite.",
+  "palabras_clave": [
+    "nulidad",
+    "interés procesal",
+    "impuesto",
+    "actividades económicas",
+    "profesiones liberales"
+  ],
+  "titulo": "Sentencia sobre la pérdida del interés procesal en demanda de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1043_E22-0153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327615-1043-1823-2023-22-0153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.898111"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33920,
+  "numero": "2067",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió una acción de amparo constitucional presentada por el abogado Julio César Molina Calderón en representación de Raúl José Marín Villarroel y Jonás Alberto Parra González, debido a la negativa de la Presidencia del Circuito Penal Región Capital de remitir una orden de excarcelación. La Sala determinó su competencia para conocer el caso, dado que la acción se dirigía contra una omisión de un órgano judicial de jerarquía relevante.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "excarcelación",
+    "tribunales",
+    "administración",
+    "derechos",
+    "garantías",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2067_E23-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332037-2067-201223-2023-23-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.686974"
+}

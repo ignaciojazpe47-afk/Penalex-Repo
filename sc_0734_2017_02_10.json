@@ -1,0 +1,24 @@
+{
+  "id": 48708,
+  "numero": "0734",
+  "fecha": "2017-02-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la desaplicación parcial del artículo 324 del Código de Procedimiento Civil, argumentando que colide con los artículos 26 y 257 de la Constitución de la República Bolivariana de Venezuela. Esta decisión se basa en la necesidad de garantizar el acceso a la justicia y la tutela efectiva de los derechos de los ciudadanos, permitiendo que los abogados no necesiten cumplir con requisitos que limitan su capacidad de actuar ante la Sala de Casación Civil.\n\nLa sentencia también establece que, a partir de esta decisión, no se requerirá un mínimo de cinco años de graduado ni la condición de doctor en alguna rama del derecho para actuar ante esta Sala, lo que busca facilitar el acceso a la justicia y evitar formalismos que obstaculicen el ejercicio de los derechos. La Sala ordenó remitir copia certificada de la sentencia a la Sala Constitucional para un análisis en abstracto sobre la constitucionalidad de la norma desaplicada.\n\nFinalmente, se destaca que la decisión tiene efectos ex nunc, es decir, a partir de la fecha de la sentencia, y se busca asegurar la supremacía de la Constitución en el ámbito judicial, promoviendo un sistema más accesible y equitativo para todos los ciudadanos.",
+  "palabras_clave": [
+    "desaplicación",
+    "Código de Procedimiento Civil",
+    "control difuso",
+    "acceso a la justicia",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Desaplicación parcial del artículo 324 del Código de Procedimiento Civil por control difuso",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-29_S0734_E17-0153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/302012-0734-291018-2018-17-0153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.254787"
+}

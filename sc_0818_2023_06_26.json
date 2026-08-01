@@ -1,0 +1,23 @@
+{
+  "id": 31035,
+  "numero": "0818",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara ha lugar la revisión constitucional interpuesta por los abogados de Alfonso Rafael Pereira Acosta, anulando la sentencia del Juzgado Superior Segundo del Trabajo que había declarado sin lugar la apelación contra una decisión anterior. Se argumenta que la decisión impugnada vulneró derechos fundamentales como la igualdad y la confianza legítima, al aplicar criterios distintos en casos análogos. La Sala ordena la reposición del caso a un nuevo Juzgado Superior para que decida sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "igualdad",
+    "confianza legítima"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0818_E19-0085.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326474-0818-26623-2023-19-0085.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.559633"
+}

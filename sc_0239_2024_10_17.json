@@ -1,0 +1,26 @@
+{
+  "id": 26623,
+  "numero": "0239",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por la abogada Alizay Arreaza Rivero en nombre de Miguel Ángel Rodríguez González. La solicitud se basa en la revisión de la sentencia número 22 dictada el 17 de febrero de 2023 por la Sala de Casación Penal, que desestimó un recurso de casación. La Sala Constitucional argumenta que la defensa no presentó copia certificada de la decisión cuestionada, lo que es un requisito indispensable para la admisión de la solicitud de revisión.",
+  "palabras_clave": [
+    "motivación",
+    "tutela judicial efectiva",
+    "sana crítica",
+    "debido proceso",
+    "nulidad",
+    "pruebas",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0239_E23-0320.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337805-0239-171024-2024-23-0320.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.064480"
+}

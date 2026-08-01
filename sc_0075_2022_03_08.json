@@ -1,0 +1,23 @@
+{
+  "id": 34617,
+  "numero": "0075",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de avocamiento presentada por Daniela Alexandra Silva Palacios, en representación de sus hijos menores, en relación a decisiones de sobreseimiento dictadas por el Tribunal Décimo Noveno. La solicitante argumentó violaciones a sus derechos y a la tutela judicial efectiva en el proceso penal que involucra a su cónyuge y a otros imputados por el delito de defraudación.\nLa Sala, tras evaluar la solicitud, determinó que no se acompañaron los documentos necesarios para admitir la petición de avocamiento, lo que llevó a declarar inadmisible la solicitud. Se destacó la importancia de presentar pruebas adecuadas para que la Sala pudiera ejercer su competencia de manera efectiva.\nFinalmente, la Sala se declaró competente para conocer de la solicitud, pero al no cumplirse con los requisitos probatorios, se decidió inadmitir la solicitud de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial efectiva",
+    "sobreseimiento",
+    "defraudación"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0075_E21-0069.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315925-0075-8322-2022-21-0069.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.436598"
+}

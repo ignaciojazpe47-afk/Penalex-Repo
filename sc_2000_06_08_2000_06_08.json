@@ -1,0 +1,24 @@
+{
+  "id": 12446,
+  "numero": "2000-06-08",
+  "fecha": "2000-06-08",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de nulidad por inconstitucionalidad interpuesta por Alfonso Severino Di Guglielmo contra una ordenanza municipal que establecía un impuesto sobre la actividad minera en el Municipio Guacara, Estado Carabobo. La Corte consideró que dicha ordenanza vulneraba competencias exclusivas del Poder Nacional en materia de impuestos sobre minería, lo que llevó a la declaración de nulidad de la misma. Además, se acordó un mandamiento de amparo constitucional para suspender la aplicación de la ordenanza mientras se tramitaba el recurso de nulidad.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanza municipal",
+    "impuesto",
+    "minería",
+    "Carabobo"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanza municipal de impuesto sobre minería",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_6_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.731626"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 38042,
+  "numero": "1183",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por el abogado Daniel Cipriano Pérez Rodríguez en representación de JOSÉ ÁNGEL ÁLVAREZ ÁLVAREZ. La acción se interpuso contra la presunta omisión de pronunciamiento de la Corte de Apelaciones en relación a una decisión anterior que condenó al demandante a diecisiete años y seis meses de prisión por abuso sexual a una adolescente. La Sala determinó su competencia para conocer el caso y ordenó a la Corte de Apelaciones que informara sobre el estado del proceso y la decisión correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1183_E22-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322017-1183-141222-2022-22-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.157467"
+}

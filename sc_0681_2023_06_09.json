@@ -1,0 +1,26 @@
+{
+  "id": 30733,
+  "numero": "0681",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La sentencia se refiere a una demanda de amparo constitucional presentada por Rafael Dávila en representación de la Universidad de los Andes, alegando violaciones a los derechos laborales de los trabajadores de la institución. La Sala Constitucional, tras evaluar el caso, determinó que la acción fue incoada el 1 de noviembre de 2018, pero no se evidenció ninguna actuación procesal válida hasta la fecha de la sentencia, lo que llevó a declarar el abandono del trámite. Se impuso una multa a la parte accionante por la falta de impulso en el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos laborales",
+    "inactividad procesal",
+    "abandonar trámite",
+    "interés procesal",
+    "multa",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre demanda de amparo constitucional por violación de derechos laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0681_E18-0711.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325952-0681-9623-2023-18-0711.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.416207"
+}

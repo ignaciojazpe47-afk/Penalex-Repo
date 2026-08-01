@@ -1,0 +1,25 @@
+{
+  "id": 41371,
+  "numero": "0091",
+  "fecha": "2020-08-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia homologó el desistimiento de la acción de amparo interpuesta por Luis Guillermo Ruiz, en representación de Luis Ferdinando Rodríguez Pereira, contra la decisión de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. Esta decisión había declarado con lugar un recurso de apelación que anuló una sentencia absolutoria dictada por el Juzgado Sexto de Primera Instancia en Función de Juicio, que había absuelto a Rodríguez Pereira del delito de homicidio intencional.\nEl Tribunal consideró que el desistimiento era procedente, dado que el demandante había sido declarado inocente en un nuevo juicio oral y público, y se encontraba en libertad. La Sala destacó la importancia de la motivación en las sentencias y la necesidad de que estas sean congruentes con los derechos constitucionales a la tutela judicial efectiva y a la defensa.\nFinalmente, se ordenó la celebración de un nuevo juicio oral y público, reafirmando la protección de los derechos fundamentales del demandante y la necesidad de garantizar un debido proceso.",
+  "palabras_clave": [
+    "ilogicidad",
+    "motivación",
+    "vicio de juzgamiento",
+    "valoración de pruebas",
+    "sentencia",
+    "contradicción"
+  ],
+  "titulo": "Homologación del desistimiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-12_S0091_E19-0741.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310022-0091-12820-2020-19-0741.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.113871"
+}

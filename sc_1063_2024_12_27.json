@@ -1,0 +1,24 @@
+{
+  "id": 27950,
+  "numero": "1063",
+  "fecha": "2024-12-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior que había declarado con lugar una demanda de desalojo por falta de pago. La Sala determinó que la representación del demandante por parte de un no abogado era inválida, lo que llevó a la inadmisibilidad de la demanda. Se revocó la sentencia del Juzgado Superior y se declaró inadmisible la demanda de desalojo, enfatizando la importancia de la capacidad de postulación en juicio. La decisión reafirma la jurisprudencia sobre la prohibición de representación judicial por quienes no son abogados.",
+  "palabras_clave": [
+    "desalojo",
+    "falta de pago",
+    "capacidad de postulación",
+    "representación judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión de sentencia sobre desalojo por falta de pago de cánones de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1063_E23-0688.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339586-1063-271124-2024-23-0688.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.811964"
+}

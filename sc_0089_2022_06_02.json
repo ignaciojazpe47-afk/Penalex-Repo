@@ -1,0 +1,23 @@
+{
+  "id": 34953,
+  "numero": "0089",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 5 de diciembre de 2013 por la Corte Primera de lo Contencioso Administrativo, que había declarado la competencia para conocer un recurso de apelación interpuesto por el Instituto Venezolano de los Seguros Sociales (I.V.S.S.) contra una sentencia anterior que había declarado con lugar una querella funcionarial de la ciudadana Soranellys Carvajal García. La Sala Constitucional determinó que la apelación no había vulnerado derechos constitucionales como el derecho a la defensa y al debido proceso, y que el procedimiento administrativo seguido por el I.V.S.S. fue conforme a la ley.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la jubilación",
+    "debido proceso",
+    "funcionaria pública"
+  ],
+  "titulo": "Revisión de sentencia sobre destitución de funcionaria pública",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0089_E17-0522.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316846-0089-2622-2022-17-0522.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.422296"
+}

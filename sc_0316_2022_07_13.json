@@ -1,0 +1,24 @@
+{
+  "id": 35430,
+  "numero": "0316",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por los abogados de Álvaro Aleing de Jesús Orozco Rangel, en relación a una sentencia de la Sala de Casación Civil. La Sala declaró inadmisible la solicitud debido a la falta de presentación de la copia certificada de la decisión objeto de revisión, lo que constituye un requisito indispensable para la admisibilidad del recurso. Además, se consideró improcedente el desistimiento del procedimiento presentado por los apoderados judiciales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "copia certificada",
+    "sentencia",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0316_E22-0124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317896-0316-13722-2022-22-0124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.227958"
+}

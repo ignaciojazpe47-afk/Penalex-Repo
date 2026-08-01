@@ -1,0 +1,27 @@
+{
+  "id": 38765,
+  "numero": "0200",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Ilse Felicinda Soto Ramírez, asistida por la abogada Bárbara Parra Longa, contra la sentencia dictada el 1 de febrero de 2018 por el Tribunal Superior Segundo del Circuito Judicial del Tribunal Protección de Niños, Niñas y Adolescentes. La Sala argumentó que la parte actora no agotó los recursos ordinarios disponibles, específicamente el recurso de control de la legalidad, antes de recurrir al amparo constitucional.\n\nLa decisión se fundamenta en la falta de formalización del recurso de apelación interpuesto por la demandante, lo que llevó a la declaración de perención del mismo. La Sala también suspendió el lapso procesal en el proceso de colocación familiar que motivó el amparo, permitiendo a la parte interesada ejercer el recurso de control de la legalidad dentro de un nuevo plazo.\n\nFinalmente, se ordenó al Tribunal Superior Segundo que notifique a las partes sobre la decisión y se estableció que el nuevo lapso para el ejercicio del recurso comenzaría a computarse una vez que las partes fueran notificadas.",
+  "palabras_clave": [
+    "amparo",
+    "colocación familiar",
+    "niños",
+    "adolescentes",
+    "apelación",
+    "perención",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0200_E18-0485.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312221-0200-28521-2021-18-0485.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.187776"
+}

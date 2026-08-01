@@ -1,0 +1,26 @@
+{
+  "id": 20633,
+  "numero": "1033",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Edgar Alexander Urdaneta, contra la decisión de la Corte de Apelaciones que desestimó su recurso de revisión de sentencia. La Sala declaró competente para conocer la acción, pero improcedente in limine litis, argumentando que no se configuró la violación constitucional alegada y que el tribunal actuó dentro de su competencia. Se resaltó la importancia de la seguridad jurídica y la inmutabilidad de las decisiones judiciales.",
+  "palabras_clave": [
+    "abuso sexual",
+    "pruebas",
+    "testimonios",
+    "valoración",
+    "sentencia",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1033_E25-0227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345302-1033-30625-2025-25-0227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.512286"
+}

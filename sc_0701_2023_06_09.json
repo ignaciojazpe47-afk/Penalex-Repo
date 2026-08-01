@@ -1,0 +1,26 @@
+{
+  "id": 30753,
+  "numero": "0701",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Simón José Arrieta Quintero, defensor de José Benito Fernández Castillo, contra la sentencia de la Corte de Apelaciones del Estado Zulia que declaró improcedente la acción de amparo. La decisión se basa en que la acción fue presentada fuera del lapso de seis meses establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, incurriendo en caducidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "debido proceso",
+    "improcedencia",
+    "circuito judicial",
+    "garantías constitucionales",
+    "juez constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0701_E22-0441.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325972-0701-9623-2023-22-0441.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.418636"
+}

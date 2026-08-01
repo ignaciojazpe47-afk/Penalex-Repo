@@ -1,0 +1,26 @@
+{
+  "id": 22106,
+  "numero": "1539",
+  "fecha": "2025-01-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Orlando Jesús Hernández Díaz en representación de Mariam Licett Bolívar Arellano y Jeanluca Lombardo Ingoglia. La acción fue declarada inadmisible debido a que existían vías ordinarias que no fueron agotadas por los demandantes, específicamente el recurso de revocación contra el auto de mera sustanciación dictado por el Juzgado Noveno de Primera Instancia Municipal en Función de Control del Circuito Judicial Penal del Área Metropolitana de Caracas.\n\nLa Sala consideró que la decisión apelada, que declaró inadmisible la acción de amparo, se ajustaba a derecho, ya que el agraviado había optado por recurrir a las vías judiciales ordinarias sin haber ejercido los recursos disponibles. En consecuencia, se confirmó la sentencia apelada y se declaró la competencia de la Sala para conocer del recurso de apelación interpuesto.\n\nFinalmente, se resolvió que la apelación interpuesta por el abogado Orlando Jesús Hernández Díaz era sin lugar, manteniendo la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "procedimiento",
+    "derechos",
+    "garantías",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1539_E24-1205.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348285-1539-61025-2025-24-1205.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.809301"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21435,
+  "numero": "1295",
+  "fecha": "2024-03-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, revisó la sentencia N° 97 dictada el 8 de marzo de 2024 por la Sala de Casación Civil, que declaró sin lugar un recurso extraordinario de casación interpuesto por Pedro José Piñerúa Rodríguez contra una decisión de inadmisibilidad de su demanda de resolución de contrato y cobro de cánones de arrendamiento. La Sala Constitucional determinó que la Sala de Casación Civil había incurrido en una errónea interpretación del artículo 78 del Código de Procedimiento Civil, al considerar que las pretensiones de resolución y cobro eran incompatibles, lo que afectaba el derecho a la tutela judicial efectiva y al debido proceso del demandante. En consecuencia, se declaró HA LUGAR la solicitud de revisión y se anuló la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "inepta acumulación de pretensiones",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión constitucional de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1295_E24-1240.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346957-1295-6825-2025-24-1240.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.655120"
+}

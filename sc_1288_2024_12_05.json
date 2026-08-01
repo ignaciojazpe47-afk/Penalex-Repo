@@ -1,0 +1,23 @@
+{
+  "id": 28331,
+  "numero": "1288",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 2002, declaró sin lugar el recurso de apelación interpuesto por los defensores de Bassam Hammoud Muhieddine contra la decisión de la Corte de Apelaciones que había declarado improcedente la acción de amparo constitucional. La acción se basaba en la presunta omisión de pronunciamiento del Juez del Tribunal Trigésimo Quinto en Funciones de Control, quien había declarado sin lugar las excepciones planteadas por la defensa en la audiencia preliminar del 13 de agosto de 2015.\nLa Sala consideró que no se verificaban los extremos exigidos para la procedencia del amparo, y que la decisión del tribunal de control no adolecía de inmotivación, como alegaban los accionantes. Se reafirmó que el delito de contrabando, en todas sus tipologías, no se encuentra sujeto al procedimiento especial para delitos menos graves, dado que tutela múltiples bienes jurídicos.\nFinalmente, se confirmó la sentencia apelada, manteniendo la improcedencia de la acción de amparo constitucional interpuesta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Bassam Hammoud Muhieddine",
+    "inmotivación",
+    "contrabando"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Bassam Hammoud Muhieddine",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1288_E15-1282.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340248-1288-51224-2024-15-1282.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.226772"
+}

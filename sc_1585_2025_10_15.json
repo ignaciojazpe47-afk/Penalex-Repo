@@ -1,0 +1,22 @@
+{
+  "id": 22245,
+  "numero": "1585",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por JAD MOHAMMED WAKED HAMMOUD, quien alegó violaciones a sus derechos procesales en un juicio de nulidad. La Sala constató errores en el cómputo de los lapsos procesales por parte del Juzgado de Primera Instancia, lo que llevó a la declaración de la confesión ficta del demandado. Sin embargo, la Sala revocó la decisión del Juzgado Superior que había declarado procedente el amparo, concluyendo que no se vulneraron los derechos constitucionales del accionante, ya que este no promovió pruebas ni apeló la sentencia original.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "confesión ficta",
+    "derechos procesales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por JAD MOHAMMED WAKED HAMMOUD",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1585_E24-0569.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348702-1585-151025-2025-24-0569.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.757802"
+}

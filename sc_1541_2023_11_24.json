@@ -1,0 +1,26 @@
+{
+  "id": 32972,
+  "numero": "1541",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Diógenes José González Hernández en representación de Fabio Aru, en contra de actuaciones judiciales de la Corte de Apelaciones y la Sección de Responsabilidad Penal del Adolescente. La inadmisibilidad se fundamenta en la falta de legitimidad del abogado para actuar en nombre del demandante, ya que no se presentó el poder suficiente que acreditara su representación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "representación judicial",
+    "inadmibilidad",
+    "poder",
+    "derechos",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Declaratoria de inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1541_E23-0873.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330596-1541-241123-2023-23-0873.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.425471"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30318,
+  "numero": "0536",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el Ministerio Público contra una decisión de la Corte de Apelaciones que había admitido una acción de amparo constitucional. El caso se centra en la revocatoria de una medida de arresto domiciliario impuesta a George Jefferson Haddad Castillo, quien había sido condenado a cinco años de prisión por robo propio. La Sala constató que la decisión de revocación carecía de fundamento legal y violaba derechos fundamentales del penado, como el derecho a la defensa y a ser oído.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "arresto domiciliario",
+    "audiencia",
+    "revocatoria",
+    "suspensión condicional",
+    "proceso penal",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de revocatoria de arresto domiciliario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0536_E18-0606.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325164-0536-16523-2023-18-0606.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.852243"
+}

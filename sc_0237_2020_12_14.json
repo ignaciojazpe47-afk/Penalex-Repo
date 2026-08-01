@@ -1,0 +1,24 @@
+{
+  "id": 41912,
+  "numero": "0237",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Alejandro Díaz contra el Presidente de la República, Nicolás Maduro. Se determinó la competencia de la Sala para conocer del caso y se observó que el escrito presentado no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "notificación",
+    "inadmision",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0237_E20-0101.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310994-0237-141220-2020-20-0101.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.396138"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 45226,
+  "numero": "0063",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Igor Dionisio Cazorla Portillo, en representación de los ciudadanos Edison Enrique Meléndez y Tony Hernández García, contra la decisión de la Sala número Cinco de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción fue presentada debido a la revocación de una decisión que había decretado la libertad sin restricciones de los accionantes, alegando violaciones a la tutela judicial efectiva y al debido proceso. Sin embargo, la Sala constató que el demandante no presentó la copia de la decisión judicial atacada, lo que llevó a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "presunción de inocencia",
+    "derechos humanos",
+    "justicia",
+    "código orgánico procesal penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0063_E17-0151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207238-0063-31118-2018-17-0151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.453137"
+}

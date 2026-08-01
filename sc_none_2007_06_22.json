@@ -1,0 +1,18 @@
+{
+  "id": 3389,
+  "numero": null,
+  "fecha": "2007-06-22",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del carácter orgánico del Decreto N° 5.330, que reorganiza el sector eléctrico nacional. Se argumentó que el decreto, al establecer la creación de la Corporación Eléctrica Nacional S.A. (CORPOELEC) y fusionar diversas empresas del sector, requiere un carácter orgánico según lo estipulado en el artículo 302 de la Constitución de la República Bolivariana de Venezuela.\n\nLa Sala concluyó que el Presidente de la República tiene la facultad de dictar decretos con rango de ley orgánica, y que este decreto en particular, al regular el sector eléctrico y reservar al Estado actividades relacionadas con la generación y comercialización de energía, cumple con los requisitos para ser considerado orgánico. Por lo tanto, se declaró la constitucionalidad del carácter orgánico del Decreto N° 5.330.\n\nFinalmente, se ordenó la publicación y comunicación de la decisión a las autoridades pertinentes, reafirmando la competencia de la Sala Constitucional para pronunciarse sobre la materia.",
+  "palabras_clave": [],
+  "titulo": "Declaración de constitucionalidad del carácter orgánico del Decreto N° 5.330",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-06-22_Constitucional_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.116169"
+}

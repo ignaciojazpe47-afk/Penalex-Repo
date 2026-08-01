@@ -1,0 +1,26 @@
+{
+  "id": 23068,
+  "numero": "1836",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Ronald González Guerra contra la decisión del Juzgado Tercero de Primera Instancia que desechó su demanda por intimación de honorarios profesionales. La Sala fundamenta su decisión en la falta de carácter definitivamente firme de la sentencia impugnada, lo que impide el ejercicio de la revisión constitucional. Se establece que la solicitud no cumple con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "cuestiones previas",
+    "honorarios profesionales",
+    "intimación",
+    "Código de Procedimiento Civil",
+    "Ley de Abogados",
+    "prohibición de acción",
+    "derecho de retasa"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1836_E25-0271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349960-1836-181125-2025-25-0271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.065564"
+}

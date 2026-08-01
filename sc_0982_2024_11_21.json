@@ -1,0 +1,25 @@
+{
+  "id": 27804,
+  "numero": "0982",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Iliane Antonia Dávila Briceño, asistida por la abogada Nubia Galeno, interpuso un amparo constitucional contra un fallo del Tribunal Primero de Primera Instancia en lo Civil, Mercantil y Tránsito del Estado Lara. La Sala Constitucional del TSJ, tras analizar el caso, determinó que no era competente para conocer del amparo, ya que el tribunal que emitió la decisión impugnada no era un juzgado superior. Por lo tanto, declinó la competencia a un Tribunal Superior en lo Civil de la misma circunscripción judicial.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "competencia",
+    "tribunales",
+    "jurisprudencia",
+    "protección constitucional"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0982_E24-0331.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339295-0982-211124-2024-24-0331.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.155730"
+}

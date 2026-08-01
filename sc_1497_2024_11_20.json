@@ -1,0 +1,24 @@
+{
+  "id": 21959,
+  "numero": "1497",
+  "fecha": "2024-11-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un escrito de Zdenko Seligo, planteando una colisión entre disposiciones legales sobre mensajes de datos. Se admitió la demanda y se ordenó la remisión del expediente al Juzgado de Sustanciación para notificaciones. La Sala declaró la causa como de mero derecho, prescindiendo del procedimiento ordinario y entrando en estado de sentencia, considerando la relevancia del caso.",
+  "palabras_clave": [
+    "derecho",
+    "constitucional",
+    "sentencia",
+    "procedimiento",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre colisión de disposiciones legales en materia de mensajes de datos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1497_E24-0182.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348112-1497-30925-2025-24-0182.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.188472"
+}

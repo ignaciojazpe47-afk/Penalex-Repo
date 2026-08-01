@@ -1,0 +1,25 @@
+{
+  "id": 31464,
+  "numero": "0951",
+  "fecha": "2023-07-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de julio de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por los apoderados de Rongzan Zheng, en relación a una sentencia de la Sala de Casación Civil. La Sala consideró que la revisión no se subsume en los supuestos previstos para su procedencia, ya que no se evidenció un control erróneo de la constitucionalidad ni violaciones a derechos fundamentales. Se enfatizó que la revisión es un mecanismo excepcional y no debe ser utilizado como un medio ordinario de impugnación.",
+  "palabras_clave": [
+    "inmotivación",
+    "contrato de arrendamiento",
+    "destino del inmueble",
+    "congruencia",
+    "silencio de pruebas",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-18_S0951_E21-0816.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327224-0951-18723-2023-21-0816.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.204790"
+}

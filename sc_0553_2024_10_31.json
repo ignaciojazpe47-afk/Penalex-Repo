@@ -1,0 +1,24 @@
+{
+  "id": 27122,
+  "numero": "0553",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por los abogados de Julio César García, en relación a sentencias interlocutorias dictadas por el Juzgado Primero de Primera Instancia Agraria del Estado Apure. La inadmisibilidad se fundamenta en la falta de presentación de copias certificadas de las sentencias objeto de revisión, así como en que las decisiones no son definitivas ni causan un gravamen irreparable.\n\nSe destaca que la revisión constitucional tiene un carácter extraordinario y que es carga procesal del solicitante presentar la documentación necesaria para verificar la admisibilidad de la demanda. La Sala reitera que la falta de cumplimiento de este requisito conlleva a la inadmisibilidad del recurso.\n\nFinalmente, se establece que el Tribunal es competente para conocer del recurso, pero al no encuadrar la solicitud en los supuestos permitidos, se declara la inadmisibilidad del mismo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "sentencias",
+    "garantías constitucionales",
+    "procedimiento agrario"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencias interlocutorias",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0553_E23-1053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338506-0553-311024-2024-23-1053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.316871"
+}

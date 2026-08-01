@@ -1,0 +1,25 @@
+{
+  "id": 33148,
+  "numero": "1657",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por Carla Camino y Sergio Luis Figueroa Romero contra el Juzgado Segundo de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Monagas. La apelación fue presentada por el abogado Ramón Ramírez en representación de la sociedad mercantil Policlínica Maturín S.A., quien cuestionó la decisión del juzgado de origen que había declarado con lugar la acción de amparo el 1 de agosto de 2016.\n\nLa Sala, tras revisar el expediente, concluyó que la acción de amparo era inadmisible, ya que existían vías judiciales ordinarias que debieron ser agotadas antes de recurrir a la tutela constitucional. Se enfatizó que el procedimiento de amparo no es el medio adecuado para dirimir las controversias surgidas en el contexto de la administración de la sociedad mercantil, y que los derechos alegados por los accionantes podían ser defendidos a través de otros mecanismos legales.\n\nFinalmente, se ordenó la remisión del expediente al tribunal de origen y se notificó la decisión a las partes involucradas.",
+  "palabras_clave": [
+    "jurisdicción voluntaria",
+    "amparo constitucional",
+    "asamblea de accionistas",
+    "Código de Comercio",
+    "irregularidades",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1657_E16-0887.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330824-1657-301123-2023-16-0887.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.693543"
+}

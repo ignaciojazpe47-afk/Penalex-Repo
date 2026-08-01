@@ -1,0 +1,25 @@
+{
+  "id": 20641,
+  "numero": "1041",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la acción de amparo interpuesta por Roberto David Julio Rosales contra el Consejo Municipal de Derechos de Niños, Niñas y Adolescentes del Municipio Bolivariano Libertador. La Sala determinó que la competencia corresponde al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial de la Región Capital. Se ordenó la remisión del expediente a dicho juzgado para su correspondiente distribución.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción contencioso-administrativa",
+    "derechos de los niños",
+    "vías de hecho",
+    "competencia",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1041_E24-1020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345310-1041-30625-2025-24-1020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.510688"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28843,
+  "numero": "0003",
+  "fecha": "2023-02-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, dictó una sentencia en la que se declara ha lugar la solicitud de revisión constitucional interpuesta por la ciudadana María Isabel Febres Cordero de Pardo. La decisión se basa en la falsedad de un documento que afectaba su derecho de propiedad, el cual fue declarado falso por el tribunal de instancia, pero sin anular la inscripción correspondiente, generando incertidumbre jurídica sobre su titularidad.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "falsedad documental",
+    "tutela judicial efectiva",
+    "derecho de propiedad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de falsedad documental",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-17_S0003_E22-1004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322679-0003-17223-2023-22-1004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.302474"
+}

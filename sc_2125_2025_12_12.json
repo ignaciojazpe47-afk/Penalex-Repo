@@ -1,0 +1,22 @@
+{
+  "id": 23911,
+  "numero": "2125",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Petra Rosa Castellanos Parada contra la Alcaldía del Municipio Sucre, la cual había sido declarada improcedente por el Juzgado Superior Octavo del Trabajo. La Sala confirmó la decisión del juzgado de primera instancia, argumentando que la acción de amparo no era admisible debido a que el acto administrativo que se pretendía ejecutar había sido anulado por una decisión judicial firme, lo que impedía su ejecución. Además, se destacó que la competencia para conocer de la ejecución de la providencia administrativa correspondía a la jurisdicción contencioso-administrativa y no a los tribunales del trabajo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución de providencia administrativa",
+    "improcedencia in limine litis"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2125_E25-0615.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351974-2125-121225-2025-25-0615.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.077514"
+}

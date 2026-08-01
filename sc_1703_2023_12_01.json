@@ -1,0 +1,27 @@
+{
+  "id": 33200,
+  "numero": "1703",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un amparo constitucional interpuesto por Bárbara Yameli Quintero Márquez, administradora del Condominio Centro Comercial Cristal, contra la decisión del Juzgado Superior Primero Civil que revocó un amparo anterior. La Sala declaró con lugar la acción de amparo, anulando la decisión del tribunal inferior y ordenando la reposición de la causa para que se dicte un nuevo auto de admisión, cumpliendo con el procedimiento de jurisdicción voluntaria. Además, se impuso una multa a la parte actora por abandono del trámite en la acción de amparo.",
+  "palabras_clave": [
+    "jurisdicción voluntaria",
+    "derechos constitucionales",
+    "Código de Procedimiento Civil",
+    "Ley de Propiedad Horizontal",
+    "asamblea de propietarios",
+    "interés jurídico",
+    "juez",
+    "responsabilidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en convocatoria de asamblea de copropietarios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1703_E22-0665.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330949-1703-11223-2023-22-0665.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.167979"
+}

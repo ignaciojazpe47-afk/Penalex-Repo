@@ -1,0 +1,24 @@
+{
+  "id": 41408,
+  "numero": "0123",
+  "fecha": "2020-08-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional se pronuncia sobre la oposición al amparo constitucional cautelar presentada por Rafael Antonio Uzcátegui, quien argumenta que las medidas cautelares dictadas violentan sus derechos políticos. La Sala establece que en el procedimiento de amparo no se admiten incidencias procesales que prolonguen el proceso, lo que lleva a declarar inadmisible la oposición presentada. Se reafirma la naturaleza breve del amparo y la inadmisibilidad de decisiones interlocutorias en este tipo de procesos.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "medidas cautelares",
+    "inadmisibilidad",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre oposición a medidas cautelares en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-24_S0123_E20-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310062-0123-24820-2020-20-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.093122"
+}

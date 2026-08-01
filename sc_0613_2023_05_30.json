@@ -1,0 +1,25 @@
+{
+  "id": 30567,
+  "numero": "0613",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La magistrada ponente, Lourdes Benicia Suárez Anderson, se pronuncia sobre la acción de amparo constitucional interpuesta por Damaris Angélica Álvarez Henriquez en representación de Egidio Goncalves Pestana Do Vale, contra el Juzgado Nacional Primero Contencioso Administrativo de la Región Capital por presunta omisión de pronunciamiento. La Sala declara su competencia para conocer del caso, pero inadmite la acción debido a la falta de legitimidad de la abogada al no presentar el poder que acredite su representación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimidad",
+    "representación",
+    "inadmision",
+    "derechos",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0613_E23-0311.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325701-0613-30523-2023-23-0311.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.927355"
+}

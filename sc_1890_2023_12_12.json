@@ -1,0 +1,26 @@
+{
+  "id": 33743,
+  "numero": "1890",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, se pronunció sobre la solicitud de revisión constitucional interpuesta por la abogada Carlena Rodríguez Parilli en representación de Jheison José Córdova Valdivieso y Cirila Del Valle Valdivieso. La solicitud se refería a una sentencia condenatoria dictada el 17 de octubre de 2014 por el Juzgado Cuarto de Primera Instancia en Función de Juicio del Circuito Judicial Penal del estado Aragua, que condenó a los mencionados por homicidio intencional calificado y abuso sexual, a cumplir penas de 30 y 15 años de prisión respectivamente.\n\nLa Sala, tras analizar los argumentos presentados, determinó que no se evidenciaban vicios que justificaran la revisión solicitada, concluyendo que la decisión objeto de revisión no contradecía normas constitucionales ni criterios vinculantes. Por lo tanto, se declaró que no había lugar a la solicitud de revisión, reafirmando la competencia de la Sala para conocer de tales solicitudes y la naturaleza excepcional de la revisión constitucional.\n\nFinalmente, la sentencia fue firmada y sellada en Caracas el 12 de diciembre de 2023, con la decisión de no lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "nulidad",
+    "motivación",
+    "debido proceso",
+    "justicia",
+    "pruebas",
+    "derechos",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1890_E15-1264.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331860-1890-121223-2023-15-1264.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.448562"
+}

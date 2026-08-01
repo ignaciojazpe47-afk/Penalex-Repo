@@ -1,0 +1,26 @@
+{
+  "id": 30583,
+  "numero": "0629",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por la sociedad mercantil Credicard El Emperador, C.A. contra la sentencia del Juzgado Superior Octavo que declaró con lugar la acción de amparo constitucional presentada por Frank Eleazar Montilla Rodríguez. La apelación fue considerada sin lugar, confirmando la decisión del tribunal inferior que había levantado medidas de prohibición de enajenar y gravar sobre un inmueble, debido a la imposibilidad de localizar los expedientes correspondientes a los juicios que originaron dichas medidas.",
+  "palabras_clave": [
+    "amparo",
+    "inmueble",
+    "medidas cautelares",
+    "competencia",
+    "derechos",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0629_E22-0470.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325717-0629-30523-2023-22-0470.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.931371"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18159,
+  "numero": "0013",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo interpuesta por la sociedad mercantil INVERSIONES V2V1, C.A. contra la decisión del Juzgado Superior Tercero que declaró improcedente la reposición de la causa en un juicio de desalojo. La Sala determina que la acción de amparo es improcedente in limine litis, ya que no se evidencian violaciones a derechos constitucionales ni abuso de poder por parte del tribunal inferior. Se confirma la decisión apelada y se condena en costas a la parte demandada.",
+  "palabras_clave": [
+    "desalojo",
+    "ejecución",
+    "convenimiento",
+    "nulidad",
+    "debido_proceso",
+    "Código_de_Procedimiento_Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0013_E23-0125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341159-0013-4225-2025-23-0125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.800602"
+}

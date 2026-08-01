@@ -1,0 +1,25 @@
+{
+  "id": 33493,
+  "numero": "1826",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 8 de diciembre de 2023, declaró su competencia para conocer la solicitud de revisión interpuesta por Rafael Di Napoli Petrillo contra la sentencia número 2023/146 de la Sala de Casación Social. La solicitud fue desestimada, ya que no se evidenció el desconocimiento de criterios interpretativos de normas constitucionales ni la vulneración de derechos fundamentales. La Sala concluyó que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "salario",
+    "contrato de trabajo",
+    "moneda extranjera",
+    "prestaciones sociales",
+    "despido injustificado",
+    "Ley del Banco Central"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1826_E23-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331362-1826-81223-2023-23-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.474849"
+}

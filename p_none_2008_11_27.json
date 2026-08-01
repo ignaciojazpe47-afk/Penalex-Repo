@@ -1,0 +1,23 @@
+{
+  "id": 3562,
+  "numero": null,
+  "fecha": "2008-11-27",
+  "anio": 2008,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara con lugar el recurso de casación interpuesto por el Ministerio Público, anulando la sentencia de la Corte de Apelaciones del Estado Lara que había declarado sin lugar el recurso de apelación. La Corte de Apelaciones había absuelto a los acusados de homicidio intencional y uso indebido de arma de fuego, pero se encontró que no había motivación suficiente en su decisión, lo que llevó a la anulación del fallo. Se ordena remitir el caso a una nueva sala de la Corte de Apelaciones para que se dicte una nueva decisión conforme a lo decidido por el Tribunal Supremo.",
+  "palabras_clave": [
+    "casación",
+    "homicidio",
+    "absolución",
+    "inmotivación"
+  ],
+  "titulo": "Sentencia de Casación sobre absolución en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-11-27_CasacionPenal_2008_ManuelCoronado.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:54.625952"
+}

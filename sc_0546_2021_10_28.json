@@ -1,0 +1,24 @@
+{
+  "id": 39993,
+  "numero": "0546",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La ciudadana Paola de Aloe, en su calidad de Presidenta de la O.N.G. 'Justicia Transparente Venezuela', interpuso una acción de amparo constitucional contra la Asamblea Nacional Constituyente. La Sala Constitucional del TSJ determinó su competencia para conocer el caso, pero al analizar la legitimidad de la demandante, concluyó que no acreditó su representación legal, lo que llevó a declarar inadmisible la solicitud. La decisión se fundamenta en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece causales de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos difusos",
+    "Asamblea Nacional Constituyente",
+    "representación legal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0546_E18-0861.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313911-0546-281021-2021-18-0861.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.115745"
+}

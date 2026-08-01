@@ -1,0 +1,26 @@
+{
+  "id": 31570,
+  "numero": "0965",
+  "fecha": "2023-07-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Ronald González Guerra, quien impugnó una sentencia del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil, Tránsito, Marítimo y Bancario del Estado Sucre. La sentencia cuestionada había decretado la reposición de la causa al estado de nueva admisión de una demanda de cobro de bolívares contra la Sucesión Galantón Donato y otros.\n\nLa Sala declaró inadmisible la solicitud de revisión, argumentando que la decisión objeto de revisión no era una sentencia definitiva ni una interlocutoria con carácter definitivo, ya que no resolvía el mérito de la controversia. Se reiteró que la revisión constitucional es un mecanismo excepcional y no un recurso ordinario.\n\nFinalmente, la Sala se declaró competente para conocer la solicitud, pero al no cumplir con los requisitos de admisibilidad, se decidió no admitir la revisión solicitada.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "debido proceso",
+    "nulidad",
+    "revisión",
+    "competencia",
+    "demanda",
+    "citación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-21_S0965_E23-0338.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327410-0965-21723-2023-23-0338.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.200202"
+}

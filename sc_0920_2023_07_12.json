@@ -1,0 +1,23 @@
+{
+  "id": 31217,
+  "numero": "0920",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revocó la decisión de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había declarado inadmisible la Acción de Amparo Constitucional interpuesta por el abogado Gustavo Meléndez Pérez en defensa de Nerinol del Carmen Fernández Martínez y Luis Antonio Barrientos Pico. La Corte de Apelaciones había argumentado que el abogado no cumplió con los requisitos de acreditación de su legitimidad como defensor, pero la Sala Constitucional determinó que no se respetó el plazo para subsanar dicha omisión, vulnerando así el derecho a la justicia y a la tutela judicial efectiva de los accionantes.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Debido Proceso",
+    "Inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0920_E23-0398.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326829-0920-12723-2023-23-0398.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.216279"
+}

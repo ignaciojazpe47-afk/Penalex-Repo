@@ -1,0 +1,25 @@
+{
+  "id": 44713,
+  "numero": "0465",
+  "fecha": "2019-12-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los ciudadanos Carlos Delfino Thormahlen y Ricardo Delfino Monzón contra la sentencia del Juzgado Superior Sexto que declaró la inexistencia de una denuncia de irregularidades administrativas. La Sala consideró que la denuncia presentada por Carlos Felipe Pérez no cumplía con los requisitos procesales, ya que se demostró que él y su abogado no estaban en el país en la fecha de la presentación de la denuncia. La Sala decidió revocar la sentencia impugnada y ordenar la continuación del proceso administrativo.",
+  "palabras_clave": [
+    "fraude procesal",
+    "Código de Comercio",
+    "medida cautelar",
+    "sociedad mercantil",
+    "derechos accionistas",
+    "irregularidades administrativas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0465_E19-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308451-0465-31219-2019-19-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.816136"
+}

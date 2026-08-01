@@ -1,0 +1,25 @@
+{
+  "id": 43393,
+  "numero": "0191",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Freddy Ferrer Medina, defensor privado de Leonardo Enrique Castillo Chávez, contra la sentencia N° 251-18 de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. Esta última había declarado con lugar un recurso de apelación que anuló una decisión anterior del Juzgado Sexto de Primera Instancia, que había desestimado la acusación particular propia presentada por Adonay Antonio Bracho Urdaneta, víctima por extensión.\n\nLa Sala Constitucional determinó que la decisión de la Corte de Apelaciones vulneró los derechos al debido proceso y a la tutela judicial efectiva, ya que no se justificó adecuadamente la desestimación de la acusación. En consecuencia, se declaró con lugar la acción de amparo, anulando la sentencia recurrida y ordenando la reposición de la causa para que se dicte una nueva decisión, garantizando así los derechos de las partes involucradas en el proceso penal.\n\nFinalmente, se destacó que, a pesar de la anulación de la decisión de desestimación, el proceso penal continuaría con la representación del Ministerio Público, dado que se trataba de un delito de acción pública.",
+  "palabras_clave": [
+    "desistimiento",
+    "proceso penal",
+    "derechos de la víctima",
+    "Código Orgánico Procesal Penal",
+    "tutela judicial",
+    "motivación judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de homicidio intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0191_E18-0651.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305966-0191-4719-2019-18-0651.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.829016"
+}

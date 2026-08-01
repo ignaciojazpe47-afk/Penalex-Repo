@@ -1,0 +1,23 @@
+{
+  "id": 41448,
+  "numero": "0140",
+  "fecha": "2020-06-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La sentencia N° 0070 del 12 de junio de 2020, dictada por la Sala Constitucional del TSJ, se refiere a un recurso de amparo constitucional interpuesto por Ricardo Antonio Gonzalez Longa contra una decisión del Tribunal Quinto Superior del Trabajo. La Sala declara la inadmisibilidad de la pretensión de amparo, argumentando que el tribunal inferior incurrió en error al imponer al recurrente la carga de consignar copias del expediente para su remisión, lo que vulneró principios de economía y celeridad procesal. Se ordena la remisión del expediente al TSJ para su análisis y decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "trabajo",
+    "decisión",
+    "remisión de expediente"
+  ],
+  "titulo": "Sentencia sobre la admisibilidad de recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-09-11_S0140_E18-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/310117-0140-11920-2020-18-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.123394"
+}

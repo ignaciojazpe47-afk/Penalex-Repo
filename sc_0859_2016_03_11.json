@@ -1,0 +1,25 @@
+{
+  "id": 37109,
+  "numero": "0859",
+  "fecha": "2016-03-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Juzgado Segundo de Primera Instancia Penal del Estado Monagas, relacionado con un conflicto negativo de competencia sobre una demanda de amparo constitucional. Los ciudadanos demandantes solicitaron la nulidad de un documento de compra-venta, argumentando que se había producido una traslación ilegal de propiedad. La Sala, tras revisar las actuaciones, declaró inadmisible la acción de amparo por falta de claridad en la demanda y la ausencia de requisitos necesarios para su calificación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmision",
+    "derechos",
+    "competencia",
+    "sintaxis",
+    "proceso"
+  ],
+  "titulo": "Sentencia de la Sala Constitucional sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-28_S0859_E15-1160.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320461-0859-281022-2022-15-1160.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.595505"
+}

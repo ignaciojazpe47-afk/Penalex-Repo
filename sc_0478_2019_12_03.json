@@ -1,0 +1,26 @@
+{
+  "id": 44725,
+  "numero": "0478",
+  "fecha": "2019-12-03",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Ricardo Dolinski Garrido contra la Fiscalía Superior del Ministerio Público, quien no admitió una denuncia penal relacionada con el paradero de su hija menor. La Sala determinó que no era competente para conocer del caso, ya que el demandado no es un alto funcionario según lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "fiscalia",
+    "derechos",
+    "garantias",
+    "ministerio publico",
+    "denuncia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-03_S0478_E19-0386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308464-0478-31219-2019-19-0386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.817506"
+}

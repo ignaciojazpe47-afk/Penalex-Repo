@@ -1,0 +1,26 @@
+{
+  "id": 34139,
+  "numero": "1247",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Johnny Navarro en representación de la ciudadana Tauca Elena Rampolla Guillen. La acción fue presentada contra una decisión del Tribunal Tercero de Primera Instancia que declaró sin lugar la solicitud de revisión de una medida privativa de libertad. La Sala determinó su competencia para conocer el caso y ordenó a la Presidencia del Circuito Judicial Penal que informara sobre el estado actual de la causa relacionada con la demandante.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "justicia",
+    "tribunales",
+    "sanciones",
+    "delitos",
+    "medidas cautelares"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1247_E17-0414.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328451-1247-15823-2023-17-0414.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.233539"
+}

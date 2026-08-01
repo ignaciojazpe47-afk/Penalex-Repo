@@ -1,0 +1,23 @@
+{
+  "id": 58358,
+  "numero": "561",
+  "fecha": "2016-07-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Robert Alexander Alvarado López en representación de Kamel Salame Ajami, debido a una omisión de pronunciamiento atribuida a la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua. La Sala argumenta que la acción de amparo no es procedente ya que la violación de derechos alegada ha cesado, dado que hubo un pronunciamiento previo sobre la demanda de amparo interpuesta el 27 de agosto de 2015.\n\nLa decisión se basa en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo cuando haya cesado la violación o amenaza de algún derecho o garantía constitucional. En este caso, la Sala concluye que la falta de pronunciamiento ya no constituye una violación vigente, lo que justifica la inadmisibilidad de la acción.\n\nFinalmente, la Sala Constitucional, administrando justicia en nombre de la República, ordena el registro, publicación y archivo del expediente, reafirmando su decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Corte de Apelaciones",
+    "Estado Aragua"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-07-11_S561_E15-1262.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/188897-561-11716-2016-15-1262.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.739049"
+}

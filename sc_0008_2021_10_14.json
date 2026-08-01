@@ -1,0 +1,24 @@
+{
+  "id": 28888,
+  "numero": "0008",
+  "fecha": "2021-10-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del TSJ dictó la sentencia n.° 0499, en la que se ordena notificar al abogado Nelson Barrios Castellanos para que ratifique la acción de amparo interpuesta por Franci Valderrama Contreras. La acción se basa en la inadmisibilidad de un recurso de apelación dictada por la Sala Tres de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que se consideró injustificada debido a la falta de consideración de un poder que acreditaba la representación legal de la demandante.\nLa Sala Constitucional establece su competencia para conocer de la acción de amparo y concluye que la Sala Tres incurrió en retardo procesal y violó el derecho a la doble instancia, al no admitir el recurso de apelación interpuesto por la abogada Gloria Pinho. Se ordena a la Secretaría de la Sala que oficie al Tribunal Quinto en Función de Control para que remita el expediente correspondiente.\nFinalmente, se ordena la notificación correspondiente y se publica la decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "doble instancia",
+    "retardo procesal",
+    "derechos de la víctima"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Franci Valderrama Contreras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0008_E20-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322805-0008-22223-2023-20-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.133048"
+}

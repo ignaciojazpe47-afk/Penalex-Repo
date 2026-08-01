@@ -1,0 +1,24 @@
+{
+  "id": 30210,
+  "numero": "0429",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre una acción de amparo constitucional interpuesta por la ciudadana Prisca Omaira Velásquez de Yantil contra una sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Nueva Esparta. Se establece la competencia de la Sala para conocer del caso y se ordena al juzgado remitente que envíe todas las piezas del expediente original de la causa judicial relacionada con la nulidad de venta absoluta interpuesta por la ciudadana Josefa López Villalba.\n\nAsimismo, se ordena al abogado de los herederos de la accionante que presente el acta de defunción de Prisca Omaira Velásquez de Yantil y la sentencia que declare a los herederos. También se requiere al SENIAT que remita copia certificada de la declaración sucesoral y del certificado de liberación de la sucesión de la ciudadana mencionada. La decisión busca garantizar el debido proceso y la protección de los derechos de los herederos en el contexto de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "representación judicial",
+    "herederos",
+    "debido proceso",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0429_E19-0414.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325049-0429-15523-2023-19-0414.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.884890"
+}

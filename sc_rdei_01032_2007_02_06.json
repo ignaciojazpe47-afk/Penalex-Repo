@@ -1,0 +1,22 @@
+{
+  "id": 4261,
+  "numero": "RdeI-01032",
+  "fecha": "2007-02-06",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RdeI-01032 dictada por la Sala de Casación Civil, que interpretó el artículo 23 de la Ley Especial de Protección al Deudor Hipotecario de Vivienda. La asociación civil ANAUCO solicitó la revisión argumentando que la interpretación de la Sala de Casación Civil vulneraba derechos constitucionales relacionados con la vivienda digna. La Sala Constitucional concluyó que la interpretación de la ley debía ser acorde con los principios constitucionales y decidió corregir las distorsiones ocasionadas por la sentencia impugnada, estableciendo que los contratos de crédito hipotecario en moneda extranjera deben ser recalculados a su estado original en bolívares, considerando el tipo de cambio vigente al momento de la firma del contrato.",
+  "palabras_clave": [
+    "Protección al Deudor Hipotecario",
+    "Revisión Constitucional",
+    "Derecho a la Vivienda"
+  ],
+  "titulo": "Revisión de sentencia sobre Ley Especial de Protección al Deudor Hipotecario de Vivienda",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_2009_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.122656"
+}

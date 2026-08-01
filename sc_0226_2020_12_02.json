@@ -1,0 +1,27 @@
+{
+  "id": 41797,
+  "numero": "0226",
+  "fecha": "2020-12-02",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados de los ciudadanos Jorman Guzmán, Axel Acosta, Ricardo Castellanos y Ramón Petit, quienes alegaron la vulneración de su derecho a la defensa por la falta de acceso al expediente. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimación de los abogados. La Sala Constitucional determinó que la apelación fue interpuesta de manera extemporánea, ya que no se respetó el plazo de tres días establecido por la ley para su presentación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "temporalidad",
+    "jurisprudencia",
+    "Corte de Apelaciones",
+    "derechos",
+    "garantías",
+    "decisión"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-02_S0226_E19-0551.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310854-0226-21220-2020-19-0551.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.399174"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20826,
+  "numero": "1084",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Extinción de la instancia por pérdida de interés procesal",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la extinción de la instancia por pérdida de interés procesal en la demanda de nulidad interpuesta por los ciudadanos Elsa Gámez de Martínez, Ramón Enrique Guevara Jaimes y Alexander Morales, legisladores del Consejo Legislativo del estado Mérida. La decisión se fundamenta en la inactividad de la parte actora, que no ha impulsado el proceso desde el 18 de febrero de 2020, lo que evidencia una falta de interés en continuar con la acción judicial.\n\nLa Sala señala que el interés procesal es un requisito que debe mantenerse a lo largo del proceso y que la inactividad puede llevar a la extinción de la acción. En este caso, se concluye que no hay razones para mantener la causa activa, dado que no se involucran principios fundamentales del Estado ni el orden público.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente correspondiente.",
+  "palabras_clave": [
+    "interés procesal",
+    "nulidad",
+    "extinción de instancia",
+    "acción judicial",
+    "constitución",
+    "justicia",
+    "inactividad"
+  ],
+  "titulo": "Extinción de la instancia por pérdida de interés procesal en demanda de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1084_E14-0990.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345846-1084-9725-2025-14-0990.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.499785"
+}

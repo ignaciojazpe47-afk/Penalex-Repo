@@ -1,0 +1,25 @@
+{
+  "id": 19952,
+  "numero": "0778",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "El ciudadano Joel José Medina Blanco interpuso una acción de amparo constitucional contra la Fiscalía Séptima del Ministerio Público del Estado Carabobo, alegando terrorismo judicial. La Sala Constitucional del TSJ, tras analizar el caso, determinó que no era competente para conocer la demanda y declinó la competencia al Juzgado de Primera Instancia en Función de Juicio del Circuito Judicial Penal del Estado Carabobo. La decisión se fundamenta en la normativa que establece la competencia para conocer de acciones de amparo en materia penal.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "jurisdicción",
+    "derechos",
+    "fiscalía",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0778_E24-1053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344220-0778-28525-2025-24-1053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.860168"
+}

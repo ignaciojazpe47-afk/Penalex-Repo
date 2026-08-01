@@ -1,0 +1,26 @@
+{
+  "id": 30326,
+  "numero": "0544",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Nicolás Alberto Jiménez Velásquez, en representación de adolescentes, contra una decisión que declaró inadmisible una acción de amparo constitucional. La Corte Superior había argumentado que el accionante no cumplió con los requisitos necesarios para la admisibilidad de la acción, lo que llevó a la declaración de inadmisibilidad por falta de subsanación en el plazo establecido.\nLa Sala Constitucional, tras analizar el caso, determinó que era competente para conocer del recurso y, tras evaluar los argumentos presentados, decidió declarar SIN LUGAR el recurso de apelación, confirmando así el fallo apelado. La decisión se fundamentó en la falta de cumplimiento de los requisitos procesales por parte del accionante, lo que resultó en la caducidad de su derecho a la acción.\nFinalmente, se ordenó la publicación y registro de la sentencia, remitiendo el expediente al tribunal de origen para su cumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "lapsos",
+    "derechos",
+    "constitucional",
+    "tribunal",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0544_E20-0262.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325176-0544-16523-2023-20-0262.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.867762"
+}

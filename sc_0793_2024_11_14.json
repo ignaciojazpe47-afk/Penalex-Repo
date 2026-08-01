@@ -1,0 +1,26 @@
+{
+  "id": 27529,
+  "numero": "0793",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 15 de marzo de 2019 por el Tribunal Primero de Municipio Ordinario, que declaró con lugar la demanda de resolución de contrato de arrendamiento. La revisión se fundamentó en la existencia de una transacción homologada que otorgó fuerza de cosa juzgada, lo que llevó a la Sala a anular la sentencia original y todos los actos subsiguientes. Se ordenó que el caso sea reponido a otro Juzgado Superior para que se pronuncie sobre el recurso de apelación ejercido por la parte demandada.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "transacción",
+    "debido proceso",
+    "cosa juzgada",
+    "sentencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0793_E23-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338966-0793-141124-2024-23-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.026977"
+}

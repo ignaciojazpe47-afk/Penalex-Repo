@@ -1,0 +1,27 @@
+{
+  "id": 38019,
+  "numero": "1160",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha lugar la solicitud de revisión constitucional de la sentencia dictada por el Tribunal Superior Accidental del Circuito Judicial Civil, Mercantil y del Tránsito del Estado La Guaira el 21 de octubre de 2020, y se declara inadmisible la demanda interpuesta por inepta acumulación de pretensiones.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Frad Alejandro El Barche Jorge, quien impugnó decisiones previas relacionadas con un desalojo. La Sala determinó que las decisiones de los tribunales inferiores incurrieron en inepta acumulación de pretensiones, ya que se intentó acumular una demanda de desalojo con una solicitud de cobro de daños, lo cual es incompatible. En consecuencia, se declaró ha lugar la revisión y se anuló la decisión del tribunal superior, así como la del tribunal de municipio, declarando inadmisible la demanda por la acumulación prohibida de pretensiones.",
+  "palabras_clave": [
+    "competencia",
+    "jurisdicción",
+    "tribunales",
+    "resolución",
+    "desalojo",
+    "tutela judicial",
+    "derecho",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1160_E21-0783.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321994-1160-141222-2022-21-0783.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.155708"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23442,
+  "numero": "1957",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Juan Carlos Goitía Gómez, en representación de Beatriz Soto Oliver y Jesús Miguel Pérez Rodríguez, contra el Tribunal Quincuagésimo de Primera Instancia Estadal por presunta omisión de pronunciamiento. La Corte de Apelaciones había declarado inadmisible la acción el 29 de agosto de 2025, argumentando que la solicitud de control judicial había sido resuelta el 25 de agosto de 2025, cesando así la violación alegada. La Sala Constitucional confirmó esta decisión, considerando que la acción de amparo no era procedente debido a la cesación de la violación de derechos.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "inadmision",
+    "competencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1957_E25-0955.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350843-1957-281125-2025-25-0955.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.798083"
+}

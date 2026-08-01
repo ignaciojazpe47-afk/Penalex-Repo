@@ -1,0 +1,24 @@
+{
+  "id": 31049,
+  "numero": "0832",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión y se ANULAN las decisiones dictadas el 24 de mayo de 1977 y el 4 de mayo de 1977.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por fiscales del Ministerio Público sobre la desaparición forzada de Ramón Salvador Pasquier Suárez. Se determinó que las decisiones previas del Consejo de Guerra Permanente de Maracaibo, que declararon la prescripción de la acción penal, eran contrarias a los principios de justicia y derechos humanos. La Sala declaró que había lugar a la revisión y anuló las decisiones anteriores, ordenando la reapertura de la investigación penal para determinar la responsabilidad de los funcionarios involucrados en la desaparición.",
+  "palabras_clave": [
+    "desaparición forzada",
+    "derechos humanos",
+    "revisión constitucional",
+    "justicia",
+    "impunidad"
+  ],
+  "titulo": "Revisión Constitucional sobre la desaparición forzada de Ramón Salvador Pasquier Suárez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0832_E16-0294.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326488-0832-26623-2023-16-0294.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.541229"
+}

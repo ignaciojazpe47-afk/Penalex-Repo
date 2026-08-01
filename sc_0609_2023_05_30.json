@@ -1,0 +1,25 @@
+{
+  "id": 30563,
+  "numero": "0609",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer el recurso de apelación interpuesto por Marco Hernández Bolívar, apoderado de Samir El Halabi El Halabi, contra la sentencia del Juzgado Superior Estadal Contencioso Administrativo que declaró inadmisible la acción de amparo constitucional. La Sala determina que existen vías ordinarias para la defensa de los derechos alegados, lo que lleva a la inadmisibilidad del amparo. Finalmente, se ordena la remisión del expediente a los Juzgados Nacionales Primero y Segundo Contencioso Administrativo de la Región Capital.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "contencioso administrativo",
+    "jurisdicción",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre la incompetencia en recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0609_E22-0883.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325697-0609-30523-2023-22-0883.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.935534"
+}

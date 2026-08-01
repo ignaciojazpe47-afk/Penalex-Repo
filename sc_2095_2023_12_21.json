@@ -1,0 +1,23 @@
+{
+  "id": 33948,
+  "numero": "2095",
+  "fecha": "2023-12-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "DRA. TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ revisó las sentencias N.º 00805 del 11 de diciembre de 2019 y N.º 00524 del 13 de junio de 2023, ambas dictadas por la Sala Político Administrativa. La primera declaró improcedente un alegato de falta de cualidad pasiva, mientras que la segunda declaró con lugar una demanda por ejecución de fianzas. La Sala Constitucional determinó que la acción estaba caduca, ya que el lapso para demandar había expirado, lo que vulneraba derechos constitucionales a la defensa y a la tutela judicial efectiva. Por lo tanto, se anularon ambas sentencias y se declaró inadmisible la demanda por ejecución de fianzas.",
+  "palabras_clave": [
+    "caducidad",
+    "fianzas",
+    "ejecución",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencias sobre ejecución de fianzas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2095_E23-0660.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332065-2095-211223-2023-23-0660.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.680744"
+}

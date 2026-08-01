@@ -1,0 +1,27 @@
+{
+  "id": 30735,
+  "numero": "0683",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Gian Luis Lippa Preziosi, debido a la inepta acumulación de pretensiones contra distintos agraviantes. Se argumenta que la competencia para conocer de cada uno de los agraviantes corresponde a diferentes órganos jurisdiccionales, lo que hace incompatible la acumulación de pretensiones en un mismo libelo. La decisión se fundamenta en la falta de conexión entre las pretensiones y la naturaleza jurídica de los agraviantes.",
+  "palabras_clave": [
+    "medida cautelar",
+    "debido proceso",
+    "derechos constitucionales",
+    "arbitrariedad",
+    "movilización",
+    "productos forestales",
+    "acción de amparo",
+    "guías de circulación"
+  ],
+  "titulo": "Sentencia de inadmisibilidad por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0683_E20-0236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325954-0683-9623-2023-20-0236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.404131"
+}

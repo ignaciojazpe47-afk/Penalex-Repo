@@ -1,0 +1,22 @@
+{
+  "id": 33193,
+  "numero": "1696",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada el 12 de agosto de 2016 por el Juzgado Superior Primero del Trabajo, que declaró sin lugar un recurso de apelación y parcialmente con lugar una demanda de diferencias de prestaciones sociales. La parte actora alegó violaciones a derechos constitucionales relacionados con el salario y la interpretación del bono de productividad como parte del salario normal.\nLa Sala, tras analizar los argumentos presentados, concluyó que no existían infracciones a la Constitución ni contradicciones con sentencias previas, y que el bono de productividad no era de naturaleza salarial. Por lo tanto, se declaró improcedente la revisión solicitada, manteniendo la decisión del juzgado inferior.\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión constitucional, reafirmando la decisión del juzgado de primera instancia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "bono de productividad",
+    "prestaciones sociales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1696_E17-0479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330938-1696-11223-2023-17-0479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.170915"
+}

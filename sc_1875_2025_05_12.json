@@ -1,0 +1,26 @@
+{
+  "id": 23220,
+  "numero": "1875",
+  "fecha": "2025-05-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC-000215 dictada el 12 de mayo de 2025, que declaró improcedente la demanda de tacha de documento presentada por Michail Frederick Rowe contra Mariela Marinova Vassileva, alegando falsedad en un acta de matrimonio. La Sala determinó que la tacha de falsedad solo procede si existe un documento material, lo cual no se cumplía en este caso, ya que el demandante afirmaba que el acta no existía. Por lo tanto, la Sala de Casación Civil actuó correctamente al casar de oficio el fallo recurrido por vulnerar normas de orden público.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "falsedad documental",
+    "incongruencia",
+    "revisión constitucional",
+    "seguridad jurídica",
+    "confianza legítima"
+  ],
+  "titulo": "Revisión de sentencia de tacha de documento por falsedad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1875_E25-0729.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350470-1875-261125-2025-25-0729.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.726883"
+}

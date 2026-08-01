@@ -1,0 +1,27 @@
+{
+  "id": 26601,
+  "numero": "0217",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada el 20 de enero de 2016, que declaró sin lugar un recurso de apelación. La solicitud fue presentada por los abogados de Lisaura Carolina Gualdrón Ortiz, quien argumentó violaciones a sus derechos constitucionales. Sin embargo, la Sala declaró inadmisible la solicitud, argumentando que ya había emitido un pronunciamiento sobre los mismos argumentos en una acción de amparo anterior, lo que configura cosa juzgada.",
+  "palabras_clave": [
+    "arrendamiento",
+    "contrato",
+    "derecho a la defensa",
+    "debido proceso",
+    "confesión ficta",
+    "reposición",
+    "inmuebles",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0217_E17-0140.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337783-0217-171024-2024-17-0140.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.073088"
+}

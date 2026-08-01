@@ -1,0 +1,25 @@
+{
+  "id": 33890,
+  "numero": "2037",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad interpuesto por la abogada Aura Brunilde Seijas Guzmán contra la Ordenanza para la Transferencia al Poder Popular de la Gestión y Administración Comunitaria de Servicios y otras Atribuciones, publicada en la Gaceta Municipal del municipio Mario Briceño Iragorry, del estado Aragua. La recurrente argumentó que la ordenanza contraviene varios artículos de la Constitución, al establecer tributos e impuestos que generan doble tributación y afectan la autonomía municipal.\nLa Sala, tras analizar los fundamentos del recurso, declaró su competencia para conocer del caso y admitió la medida cautelar solicitada, ordenando la suspensión de los efectos de la ordenanza impugnada hasta que se dicte sentencia de fondo. Se notificó a las partes involucradas y se ordenó la citación de los funcionarios pertinentes para continuar con el procedimiento.\nFinalmente, la Sala enfatizó la importancia de garantizar la transparencia y legalidad en la gestión de los recursos públicos, destacando la necesidad de que las ordenanzas municipales se ajusten a los principios establecidos en la Constitución y las leyes vigentes.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "ordenanza",
+    "poder popular",
+    "gestión comunitaria",
+    "competencia",
+    "control constitucional"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad contra ordenanza municipal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2037_E23-1035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332007-2037-191223-2023-23-1035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.690214"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33951,
+  "numero": "2098",
+  "fecha": "2023-06-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Emilcen Evelia Suárez interpuso una acción de amparo constitucional contra el Juzgado Segundo de Primera Instancia de Mediación en Táchira, alegando perturbaciones en la posesión de un inmueble. La Sala Constitucional del TSJ, tras analizar el caso, determinó su incompetencia para conocer la acción y declinó el conocimiento al Juzgado Superior de Protección de Niños, Niñas y Adolescentes de la misma circunscripción judicial. La decisión se fundamenta en la necesidad de que un tribunal superior evalúe la situación planteada.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "juzgado",
+    "protección",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2098_E23-0612.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332068-2098-211223-2023-23-0612.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.399247"
+}

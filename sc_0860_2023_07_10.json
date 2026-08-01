@@ -1,0 +1,22 @@
+{
+  "id": 31153,
+  "numero": "0860",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió acumular el expediente AA50-T-2020-000235 al expediente AA50-T-2012-000402, en virtud de la conexión entre ambos casos relacionados con la estructura de la organización política Movimiento por la Democracia Social (PODEMOS). La decisión se fundamenta en la necesidad de evitar fallos contradictorios y garantizar la economía procesal. La Sala ordenó a la Secretaría proceder con la acumulación de las causas.",
+  "palabras_clave": [
+    "acumulación",
+    "PODEMOS",
+    "amparo constitucional"
+  ],
+  "titulo": "Decisión sobre acumulación de causas en el caso PODEMOS",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0860_E20-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326680-0860-10723-2023-20-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.536494"
+}

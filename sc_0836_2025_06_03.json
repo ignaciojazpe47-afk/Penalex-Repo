@@ -1,0 +1,25 @@
+{
+  "id": 20125,
+  "numero": "0836",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil ADMINISTRADORA BASSO S.R.L contra la sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito y Bancario del Segundo Circuito de la Circunscripción Judicial del Estado Sucre. La acción se fundamentó en la supuesta violación de derechos constitucionales en un caso de desalojo por falta de pago. La Sala concluye que no se evidenció abuso de poder ni extralimitación de competencias por parte del juzgador inferior, y que se respetaron las garantías del debido proceso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "competencia",
+    "sentencias",
+    "juzgamiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0836_E24-1055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344404-0836-3625-2025-24-1055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.308200"
+}

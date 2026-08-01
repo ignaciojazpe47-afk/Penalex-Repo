@@ -1,0 +1,24 @@
+{
+  "id": 67420,
+  "numero": "1445",
+  "fecha": "2015-11-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Jonhys Altagracia Silva Torres contra la decisión del Juzgado Superior Tercero Agrario de Lara, que declaró sin lugar la recusación de la jueza Ana Cecilia Acosta. La Sala encontró que la decisión del juzgado inferior incurrió en contradicciones y vulneró derechos constitucionales, como el derecho a la igualdad y al debido proceso, al no valorar adecuadamente las pruebas presentadas por el accionante. Por lo tanto, se declaró procedente la acción de amparo y se anuló la sentencia impugnada, ordenando que un nuevo juez se pronuncie sobre la recusación propuesta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recusación",
+    "derechos constitucionales",
+    "igualdad procesal",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra decisión de recusación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1445_E15-0872.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182926-1445-131115-2015-15-0872.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:50.532469"
+}

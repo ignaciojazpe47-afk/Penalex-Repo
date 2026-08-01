@@ -1,0 +1,23 @@
+{
+  "id": 27017,
+  "numero": "0503",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1498, declaró inadmisible la acción de amparo constitucional interpuesta por la abogada Lucía Lismary García Sequera en representación del ciudadano Belkan José Escobar Abreu, debido a la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del estado Cojedes. La Sala consideró que la situación denunciada fue subsanada por una sentencia emitida el 7 de diciembre de 2022, lo que llevó a la conclusión de que la acción de amparo se encontraba incursa en la causal de inadmisibilidad prevista en la ley correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "Corte de Apelaciones",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0503_E23-0042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338391-0503-301024-2024-23-0042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.475542"
+}

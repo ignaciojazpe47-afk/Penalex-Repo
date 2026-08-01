@@ -1,0 +1,26 @@
+{
+  "id": 35309,
+  "numero": "0284",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Calixto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Corte Primera de lo Contencioso Administrativo que declaró inadmisible la querella de Brunilda Coromoto Rojas contra el Ministerio del Poder Popular para la Educación, Ciencia y Tecnología. La abogada de la solicitante argumentó que la decisión incurrió en falso supuesto al considerar que la acción había caducado. La Sala determinó que el hecho generador de la reclamación se produjo cuando la solicitante fue notificada del finiquito de pago, no cuando se realizó la transferencia bancaria, lo que permitió que la acción no hubiera caducado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "caducidad",
+    "prestaciones sociales",
+    "función pública",
+    "principio pro actione"
+  ],
+  "titulo": "Revisión de sentencia inadmisible por caducidad de acción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0284_E18-0369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317736-0284-7722-2022-18-0369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.246096"
+}

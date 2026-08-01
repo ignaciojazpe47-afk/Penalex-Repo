@@ -1,0 +1,24 @@
+{
+  "id": 28284,
+  "numero": "1242",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Recurso de Hecho",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de hecho interpuesto por la abogada Heidimer Gabriela Cordero González, quien actuó como Jueza del Juzgado Accidental de Primera Instancia Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Guárico. La decisión se basa en la falta de legitimación de la recurrente para impugnar decisiones que involucran sus propias actuaciones como juez. Se argumenta que los jueces no pueden apelar decisiones que afectan su función jurisdiccional, ya que actúan en nombre del Estado y no en interés propio.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "inadmisible",
+    "legitimación",
+    "jueza",
+    "Estado Guárico"
+  ],
+  "titulo": "Decisión sobre recurso de hecho interpuesto por Heidimer Gabriela Cordero González",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1242_E23-0551.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340198-1242-51224-2024-23-0551.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.034156"
+}

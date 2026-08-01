@@ -1,0 +1,23 @@
+{
+  "id": 29076,
+  "numero": "0074",
+  "fecha": "2023-03-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Rafael Eugenio Briceño Cardot, quien alegó la violación de sus derechos al no ser notificado de una decisión judicial que afectaba su capacidad de recurrir. La Sala declaró que la decisión de la Corte de Apelaciones que declaró inadmisible su recurso de apelación era errónea, ya que la notificación tácita considerada no era válida, dado que la decisión no había sido publicada en el expediente en ese momento. En consecuencia, se ordenó la reposición del proceso para que una Sala distinta se pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Notificación",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-07_S0074_E22-0923.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323242-0074-7323-2023-22-0923.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.349834"
+}

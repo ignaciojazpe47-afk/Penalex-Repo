@@ -1,0 +1,26 @@
+{
+  "id": 34177,
+  "numero": "1285",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0396, declaró con lugar el recurso de apelación interpuesto por las abogadas Graciela Varela Mora y Luris M. Barrios R. en representación del ciudadano Iván Sosa Rivero, revocando la decisión de la Sala 9 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que la acción de amparo era procedente, dado que se había agotado la vía judicial ordinaria y se había vulnerado el derecho a la libertad personal del accionante.",
+  "palabras_clave": [
+    "habeas corpus",
+    "decaimiento",
+    "medida privativa",
+    "derechos",
+    "garantías",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1285_E18-0078.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328489-1285-15823-2023-18-0078.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.850239"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 43149,
+  "numero": "0152",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la prescripción ordinaria de la acción penal respecto a los delitos imputados a Vicente Juaristi Mateo y Francisco José Juaristi Mateo, lo que conlleva al sobreseimiento de la causa. Se confirma la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo interpuesta por la defensa. La sentencia resalta la importancia de la protección de los derechos a la libertad personal y a la defensa, así como la necesidad de que las órdenes de aprehensión se fundamenten en una motivación adecuada y proporcional.",
+  "palabras_clave": [
+    "prescripción",
+    "acción penal",
+    "amparo constitucional",
+    "derechos humanos",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre la prescripción de la acción penal en el caso de Vicente Juaristi Mateo y Francisco José Juaristi Mateo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0152_E18-0321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305596-0152-18619-2019-18-0321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.837062"
+}

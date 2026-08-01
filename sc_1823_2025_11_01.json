@@ -1,0 +1,26 @@
+{
+  "id": 23055,
+  "numero": "1823",
+  "fecha": "2025-11-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "El ciudadano Miller Jaimes Suárez solicitó la revisión constitucional de una sentencia de divorcio dictada el 5 de agosto de 2019, argumentando que no estuvo presente ni dio su consentimiento para la misma, y que se basó en documentos falsificados. La Sala Constitucional, tras evaluar la solicitud, determinó que el Tribunal Sexto actuó conforme a la ley y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales. Por lo tanto, declaró NO HA LUGAR la solicitud de revisión.",
+  "palabras_clave": [
+    "divorcio",
+    "ruptura",
+    "código civil",
+    "separación",
+    "vida en común",
+    "fiscalía",
+    "jurisdicción"
+  ],
+  "titulo": "Revisión constitucional de sentencia de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1823_E25-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349947-1823-181125-2025-25-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.530693"
+}

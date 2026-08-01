@@ -1,0 +1,26 @@
+{
+  "id": 35445,
+  "numero": "0331",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia n° 0103, dictada el 25 de febrero de 2016, por la Sala de Casación Civil. Se determinó que la solicitud era inadmisible debido a la falta de consignación de la copia certificada de la sentencia objeto de revisión, lo cual es un requisito indispensable para la admisión de este tipo de solicitudes. La Sala reafirmó que la carga de presentar los documentos necesarios recae sobre el solicitante.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión",
+    "sentencia",
+    "documentos",
+    "legitimación",
+    "procedimiento",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0331_E21-0191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317912-0331-13722-2022-21-0191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.225660"
+}

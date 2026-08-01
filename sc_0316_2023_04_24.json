@@ -1,0 +1,24 @@
+{
+  "id": 29905,
+  "numero": "0316",
+  "fecha": "2023-04-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por los ciudadanos Ángel Ismael Herrera González y Ángel Rafael Correa Bermúdez, quienes impugnaron la sentencia N° 0356 de la Sala de Casación Social. Esta sentencia había declarado sin lugar el recurso de casación interpuesto contra un fallo que había declarado improcedente la demanda por cobro de prestaciones sociales, alegando la existencia de una sustitución de patrono entre dos empresas. La Sala Constitucional concluyó que no se demostraron los requisitos para la sustitución de patrono y, por tanto, no se configuró la figura jurídica alegada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sustitución de patrono",
+    "prestaciones sociales",
+    "trabajo",
+    "TSJ"
+  ],
+  "titulo": "Revisión Constitucional sobre la Sentencia N° 0356 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0316_E15-1344.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324582-0316-28423-2023-15-1344.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.813560"
+}

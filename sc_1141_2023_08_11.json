@@ -1,0 +1,22 @@
+{
+  "id": 34034,
+  "numero": "1141",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Luz Marina Contreras contra la sentencia del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario, que había declarado con lugar la apelación de Alí Guillermo Bracho Luján en un juicio de desalojo. La Sala argumenta que la parte actora no demostró la necesidad de tutela de sus derechos, evidenciando inactividad procesal durante más de seis meses, lo que se interpreta como abandono del trámite. Además, se resalta que el demandante cumplió con los requisitos legales para solicitar el desalojo de su hijo, quien no tenía vivienda propia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "necesidad de vivienda"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1141_E18-0214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328298-1141-11823-2023-18-0214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.331039"
+}

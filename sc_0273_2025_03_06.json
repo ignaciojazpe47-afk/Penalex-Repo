@@ -1,0 +1,26 @@
+{
+  "id": 18729,
+  "numero": "0273",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de marzo de 2025, declaró sin lugar la apelación interpuesta por Rosario Elena Gedeón de Villamizar contra la sentencia del Juzgado Superior Segundo en lo Civil, que había declarado inadmisible su acción de amparo constitucional. La Sala argumentó que la acción de amparo no era la vía idónea, ya que existían recursos ordinarios que podían ser utilizados para resolver la situación jurídica planteada. Además, se constató que la causa principal había sido sentenciada, lo que hizo cesar la supuesta violación de derechos que motivó la acción de amparo.",
+  "palabras_clave": [
+    "inspección judicial",
+    "debido proceso",
+    "derechos procesales",
+    "jurisdicción voluntaria",
+    "principio de igualdad",
+    "arrendamiento",
+    "amparo constitucional"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0273_E23-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342178-0273-6325-2025-23-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.866347"
+}

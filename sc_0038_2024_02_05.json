@@ -1,0 +1,24 @@
+{
+  "id": 24091,
+  "numero": "0038",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El ciudadano Antonio Addonizio de Plásido solicitó revisión constitucional de una sentencia que declaró inadmisible su acción de amparo contra la Asociación Civil Club Campestre Pan de Azúcar. La Sala Constitucional, presidida por Luis Fernando Damiani Bustillos, analizó los argumentos del recurrente, quien alegó violaciones a su derecho a la defensa y debido proceso. Sin embargo, la Sala determinó que la acción era inadmisible debido a la exclusión del demandante de la asociación, lo que imposibilitaba la reparación de la situación jurídica.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "asociación civil",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre amparo en asociación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0038_E23-0415.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332392-0038-5224-2024-23-0415.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.826214"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 22263,
+  "numero": "1603",
+  "fecha": "2025-02-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión de una sentencia dictada el 30 de marzo de 2017, que revocó una decisión anterior relacionada con un contrato de opción de compraventa. La parte demandante alegó errores de procedimiento y falta de motivación en la sentencia recurrida, argumentando que la decisión no se ajustó a la verdad ni a las normas de derecho. Sin embargo, la Sala concluyó que la revisión no procedía, ya que no se configuraron las violaciones denunciadas y el juzgado de origen actuó conforme a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisprudencia",
+    "derechos fundamentales",
+    "interpretación normativa",
+    "supremacía constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1603_E18-0250.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348720-1603-151025-2025-18-0250.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.547778"
+}

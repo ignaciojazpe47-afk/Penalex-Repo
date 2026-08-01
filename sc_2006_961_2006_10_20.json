@@ -1,0 +1,23 @@
+{
+  "id": 3343,
+  "numero": "2006-961",
+  "fecha": "2006-10-20",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional revisó la sentencia n° 2006-961 de la Corte Segunda de lo Contencioso Administrativo, que declaró inadmisible la querella interpuesta por Marianela Cristina Medina Añez contra la Junta Liquidadora del I.N.C.E. La Sala consideró que la notificación del acto administrativo fue defectuosa, lo que impidió el inicio del lapso de caducidad para la acción. Por lo tanto, se determinó que la caducidad no debía aplicarse en este caso, garantizando así el derecho de acceso a la justicia.",
+  "palabras_clave": [
+    "revisión",
+    "caducidad",
+    "notificación defectuosa",
+    "acceso a la justicia"
+  ],
+  "titulo": "Revisión de sentencia sobre inadmisibilidad de querella contra la Junta Liquidadora del I.N.C.E.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-10-20_Constitucional_06_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.486741"
+}

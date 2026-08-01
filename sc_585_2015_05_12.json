@@ -1,0 +1,24 @@
+{
+  "id": 63816,
+  "numero": "585",
+  "fecha": "2015-05-12",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara parcialmente con lugar el recurso de nulidad interpuesto por Pedro Luis Pérez Burelli contra el artículo 291 del Código de Comercio, argumentando que el quórum del 20% para acceder a la jurisdicción es inconstitucional. La decisión busca garantizar el acceso a la justicia y la tutela judicial efectiva para los accionistas minoritarios. Se ordena la modificación del primer parágrafo del artículo 291, permitiendo un acceso más equitativo a los órganos jurisdiccionales.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Código de Comercio",
+    "accionistas minoritarios",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre nulidad del artículo 291 del Código de Comercio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-05-12_S585_E05-0709.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/177159-585-12515-2015-05-0709.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:39.503770"
+}

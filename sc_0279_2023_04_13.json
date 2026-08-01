@@ -1,0 +1,23 @@
+{
+  "id": 29747,
+  "numero": "0279",
+  "fecha": "2023-04-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible Sobrevenidamente",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la Fiscal Provisoria en contra de una decisión de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala determina que la acción es inoficiosa debido a que se ha declarado la nulidad del proceso penal seguido contra la adolescente A.V.S.H, por haber sido juzgada por un tribunal incompetente en razón de la materia, vulnerando así su derecho al juez natural. Se ordena la remisión del caso a un tribunal competente para que se celebre una nueva audiencia preliminar.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Juez Natural",
+    "Nulidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por la Fiscal Provisoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-13_S0279_E21-0472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324366-0279-13423-2023-21-0472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.039017"
+}

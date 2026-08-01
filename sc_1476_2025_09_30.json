@@ -1,0 +1,26 @@
+{
+  "id": 21938,
+  "numero": "1476",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario del Estado Táchira y la Sala Electoral del mismo Tribunal, respecto a un recurso de apelación interpuesto por Gustavo Uribe Díaz, presidente del Colegio de Médicos del Estado Táchira. La Sala declaró competente al Juzgado Superior Tercero para conocer del recurso de apelación contra la inadmisibilidad de un amparo sobrevenido dictado por el Tribunal Cuarto de Municipio Ordinario.\n\nLa decisión se fundamenta en la normativa que establece que los conflictos de competencia en materia de amparo deben ser resueltos por el tribunal superior correspondiente, y en este caso, se determinó que el Juzgado Superior Tercero era el órgano jurisdiccional adecuado para conocer del asunto. La Sala Constitucional ordenó la remisión del expediente al Juzgado Superior para que proceda con el conocimiento y decisión del recurso.\n\nFinalmente, se destaca que la Sala Constitucional reafirma su rol en la regulación de competencias entre tribunales cuando no existe un superior común, asegurando así el respeto a los derechos y garantías constitucionales en el proceso judicial.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "jurisdicción",
+    "tribunales",
+    "constitucional",
+    "electoral"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1476_E24-1217.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348091-1476-30925-2025-24-1217.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.206583"
+}

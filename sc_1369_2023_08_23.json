@@ -1,0 +1,22 @@
+{
+  "id": 31993,
+  "numero": "1369",
+  "fecha": "2023-08-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Fedora Bernocchi de Lahoud interpuso una acción de amparo constitucional contra la Junta directiva de Condominio del Conjunto Residencial Guardabosques III, alegando violaciones a los derechos de sus hermanas con discapacidad. La Sala Constitucional del TSJ, tras analizar el caso, se declaró incompetente para conocer de la acción, indicando que el tribunal competente es un Juzgado de Primera Instancia en lo civil de la Circunscripción Judicial del Estado Miranda. La decisión se fundamenta en la falta de competencia de la Sala para tratar el asunto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "discapacidad",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-23_S1369_E23-0477.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328576-1369-23823-2023-23-0477.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.212208"
+}

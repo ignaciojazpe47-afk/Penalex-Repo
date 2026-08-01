@@ -1,0 +1,23 @@
+{
+  "id": 34612,
+  "numero": "0070",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de febrero de 2020, que había declarado sin lugar el recurso de apelación interpuesto por el abogado Evelio Segundo Díaz Pereira, en representación de Roberto Suares Alonso, contra la decisión del 28 de octubre de 2019, que declaró inadmisible la querella interdictal interpuesta contra Alí Rafael Araque Jinez. La Sala encontró que la decisión apelada incurrió en vicios de incongruencia y tergiversación de los alegatos, afectando los derechos constitucionales del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "querella interdictal",
+    "incongruencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión constitucional de sentencias sobre querella interdictal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0070_E21-0720.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315920-0070-8322-2022-21-0720.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.442060"
+}

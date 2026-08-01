@@ -1,0 +1,26 @@
+{
+  "id": 27143,
+  "numero": "0568",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, decidió no admitir la solicitud de revisión constitucional presentada por los apoderados de los ciudadanos Mohamad Ahmad Mansour, Ahmad Mustafá Taha y Paulina Calatrava, en relación a la sentencia número 496 dictada el 1° de junio de 2023 por la Sala Político Administrativa. La decisión de esta última había declarado la falta de jurisdicción del Poder Judicial venezolano para conocer la demanda por cobro de prestaciones sociales y otros conceptos laborales contra la Embajada del Reino de Arabia Saudita.\n\nLa Sala Constitucional argumentó que no se cumplían los requisitos necesarios para la revisión, considerando que la sentencia impugnada no incurrió en violaciones de derechos constitucionales ni en contradicciones con criterios establecidos por el Tribunal. Además, se reafirmó la inmunidad de jurisdicción que ostenta el Estado demandado, lo que imposibilita que los tribunales venezolanos conozcan de la demanda presentada.\n\nFinalmente, se declaró la competencia de la Sala Constitucional para conocer de la solicitud, pero se resolvió que no había lugar a la misma, archivando el expediente y ordenando su cumplimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "jurisdicción",
+    "derechos laborales",
+    "interpretación constitucional",
+    "discrecionalidad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0568_E23-1226.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338527-0568-11124-2024-23-1226.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.302253"
+}

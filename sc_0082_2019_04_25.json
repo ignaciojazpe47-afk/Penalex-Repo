@@ -1,0 +1,24 @@
+{
+  "id": 42599,
+  "numero": "0082",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ofíciese lo conducente. Cúmplase lo ordenado.",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La abogada Luz Clementina Torres solicitó la revisión de una sentencia dictada por la Corte Primera de lo Contencioso Administrativo que declaró inadmisible una querella. La Sala Constitucional se declaró competente para conocer del asunto y ordenó a la Corte Primera que remitiera el expediente correspondiente. Se estableció un plazo de cinco días hábiles para el cumplimiento de esta orden, advirtiendo sobre posibles sanciones por omisión.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "Corte Contencioso",
+    "expediente",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre revisión de sentencia de la Corte Primera de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0082_E18-0369.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304628-0082-25419-2019-18-0369.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.597216"
+}

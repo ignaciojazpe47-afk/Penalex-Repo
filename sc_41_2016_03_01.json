@@ -1,0 +1,22 @@
+{
+  "id": 56153,
+  "numero": "41",
+  "fecha": "2016-03-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por José Alberto Sandia Molina contra la sentencia dictada el 16 de junio de 2015 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Cojedes. La Corte de Apelaciones había declarado parcialmente con lugar un recurso de apelación presentado por el Ministerio Público, lo que generó la inclusión de una víctima en el proceso penal, lo que el demandante consideró una vulneración a sus derechos al debido proceso y a la defensa.\n\nLa Sala Constitucional, tras analizar los argumentos presentados, decidió suspender los efectos de la sentencia impugnada, considerando que la inclusión de la víctima podría generar un daño irreparable en la esfera jurídica del demandante. Además, se ordenó la realización de las notificaciones pertinentes y se fijó la audiencia oral para el caso.\n\nFinalmente, la Sala se declaró competente para conocer de la acción de amparo y acordó la medida cautelar innominada solicitada, suspendiendo los efectos de la sentencia de la Corte de Apelaciones mientras dure el proceso de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por José Alberto Sandia Molina",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-01_S41_E15-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185684-41-1316-2016-15-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.946786"
+}

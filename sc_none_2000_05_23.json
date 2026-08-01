@@ -1,0 +1,27 @@
+{
+  "id": 1760,
+  "numero": null,
+  "fecha": "2000-05-23",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derecho Administrativo",
+  "decision": "Se declara parcialmente con lugar la acción de nulidad.",
+  "ponente": "HÉCTOR PEÑA TORRELLES",
+  "resumen": "En esta sentencia, la Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de nulidad parcial por inconstitucionalidad interpuesto por los ciudadanos Randolph Octavio Mollegas Puerta y José Hernán Mollegas Viamonte. Los recurrentes impugnaron el numeral 2 del artículo 15 de la Ley Orgánica de la Contraloría del Estado Bolívar, argumentando que dicha norma usurpa funciones del Poder Legislativo Nacional al permitir que la Contraloría establezca disposiciones sobre jubilaciones y pensiones. La Sala, tras analizar la competencia del Contralor y la normativa aplicable, concluyó que la norma impugnada violaba disposiciones constitucionales, por lo que declaró parcialmente con lugar la acción de nulidad, anulando la parte que permitía a la Contraloría legislar sobre el régimen de jubilaciones y pensiones.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Contraloría",
+    "jubilaciones",
+    "pensiones",
+    "Poder Legislativo",
+    "Estado Bolívar",
+    "derecho administrativo"
+  ],
+  "titulo": "Nulidad parcial de la Ley Orgánica de la Contraloría del Estado Bolívar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-05-23_PoliticoAdmin_00689_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.735267"
+}

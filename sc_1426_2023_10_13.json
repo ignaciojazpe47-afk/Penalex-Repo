@@ -1,0 +1,24 @@
+{
+  "id": 32272,
+  "numero": "1426",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Gladys María Gutiérrez Alvarado, decidió sobre la apelación interpuesta por Francisco Caldas Martínez contra la decisión del Juzgado Superior Tercero que declaró inadmisible su acción de amparo. La apelación fue considerada sin lugar debido a que la solicitud fue presentada fuera del lapso de caducidad establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que el demandante tuvo conocimiento de la decisión impugnada en marzo de 2017 y no presentó su acción hasta diciembre de 2018.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "inadmisible",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1426_E19-0246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329301-1426-131023-2023-19-0246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.395669"
+}

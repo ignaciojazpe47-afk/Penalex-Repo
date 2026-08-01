@@ -1,0 +1,25 @@
+{
+  "id": 41763,
+  "numero": "0199",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Civil",
+  "decision": "Suspende",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió suspender los efectos de un fallo anterior que declaró con lugar la disolución de la sociedad mercantil Inversiones 2006, C.A. La decisión se tomó en respuesta a denuncias sobre la imposibilidad de ejecutar la sentencia anterior, debido a la relación entre las partes involucradas en el juicio. Se ordenó a la Sala de Casación Civil remitir el expediente relacionado con el caso para su revisión.",
+  "palabras_clave": [
+    "disolución",
+    "sociedad mercantil",
+    "suspensión",
+    "ejecución",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Suspensión de ejecución de sentencia en caso de disolución de sociedad mercantil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0199_E17-0304.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310805-0199-241120-2020-17-0304.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.406453"
+}

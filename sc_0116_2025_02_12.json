@@ -1,0 +1,24 @@
+{
+  "id": 18360,
+  "numero": "0116",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Juan José Carvallo Machado, actuando como Presidente de la sociedad mercantil Inversiones Cake Los Aviadores, C.A. La decisión se basa en la falta de legitimidad y representación adecuada del solicitante, quien no presentó la documentación necesaria que acreditara su condición de representante legal. La Sala también menciona que la solicitud de revisión no cumplió con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "legitimidad",
+    "representación",
+    "revisión constitucional",
+    "sociedades mercantiles"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0116_E22-0618.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341458-0116-12225-2025-22-0618.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.770714"
+}

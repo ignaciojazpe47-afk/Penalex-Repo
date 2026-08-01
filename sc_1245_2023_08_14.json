@@ -1,0 +1,22 @@
+{
+  "id": 32174,
+  "numero": "1245",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por militantes de la organización política Un Nuevo Tiempo. Los demandantes argumentaron que su exclusión de la organización vulneraba sus derechos políticos y solicitaron la creación de una Junta Directiva Ad Hoc para reestructurar la organización. La Sala, tras analizar el caso, determinó que la parte actora no había realizado actuaciones en el expediente durante más de seis meses, lo que se consideró abandono del trámite.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Colectivos",
+    "Un Nuevo Tiempo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1245_E20-0227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328994-1245-14823-2023-20-0227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.864328"
+}

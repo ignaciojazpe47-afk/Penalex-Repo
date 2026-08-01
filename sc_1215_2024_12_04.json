@@ -1,0 +1,27 @@
+{
+  "id": 28255,
+  "numero": "1215",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Jorge Luis Muro Tirado, quien impugnó la decisión de la Sala de Casación Civil que declaró perecido su recurso de casación. La Sala Constitucional determinó que no existían infracciones grotescas de interpretación de normas constitucionales y que la solicitud de revisión no contribuía a la uniformidad de la interpretación de la ley, por lo que declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "debido proceso",
+    "fraude procesal",
+    "tutela judicial",
+    "cosa juzgada",
+    "garantismo procesal",
+    "seguridad jurídica",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1215_E21-0712.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340151-1215-41224-2024-21-0712.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.047887"
+}

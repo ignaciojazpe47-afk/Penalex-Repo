@@ -1,0 +1,24 @@
+{
+  "id": 38095,
+  "numero": "1218",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Lina Maribel Pérez Pérez contra una sentencia de la Sala de Casación Social que declaró perecido un recurso de casación. La acción fue presentada el 27 de octubre de 2021, y se alegó que hubo violaciones a derechos fundamentales durante el proceso. Sin embargo, la Sala determinó que hubo abandono del trámite debido a la falta de actuación por parte de la accionante durante más de seis meses, lo que llevó a declarar terminado el procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "interésprocesal",
+    "derechosfundamentales",
+    "LeyOrgánica"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1218_E21-0650.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322110-1218-151222-2022-21-0650.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.143095"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 37514,
+  "numero": "1036",
+  "fecha": "2022-11-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Larry Nelson Herrera Giménez en representación de José Gregorio Vargas Romero, quien impugnó una sentencia del Tribunal Superior Primero del Trabajo. La revisión se solicitó debido a alegaciones de errores en la interpretación de la ley por parte del juez de primera instancia. La Sala, tras analizar los argumentos, concluyó que no había lugar para la revisión, ya que no se evidenciaron infracciones a normas constitucionales.",
+  "palabras_clave": [
+    "tutela judicial",
+    "recurso contencioso",
+    "incongruencia",
+    "actos administrativos",
+    "principio dispositivo",
+    "igualdad procesal",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-22_S1036_E18-0561.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320941-1036-221122-2022-18-0561.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.337291"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 34213,
+  "numero": "1321",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Franco Antonio Pérez Basanta, en su calidad de progenitor de una niña, contra la solicitud de sobreseimiento de la causa presentada por la Fiscal Décima del Ministerio Público. La decisión se basa en que la situación jurídica denunciada como infringida había cesado, conforme al artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nEl tribunal destacó que la acción de amparo fue ejercida contra el acto conclusivo de la fiscalía en un proceso penal por presunto abuso sexual, y que la Sala de Casación Penal había anulado las actuaciones posteriores a la decisión de sobreseimiento del 16 de agosto de 2018, lo que llevó a la conclusión de que no existía razón para continuar con el amparo.\n\nFinalmente, se ordenó la publicación, registro y archivo del expediente, reafirmando la inadmisibilidad de la acción presentada por el demandante.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Sobreseimiento",
+    "Violencia Contra la Mujer"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1321_E17-0841.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328525-1321-16823-2023-17-0841.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.224949"
+}

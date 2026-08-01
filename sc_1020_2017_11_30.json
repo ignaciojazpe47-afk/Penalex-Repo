@@ -1,0 +1,24 @@
+{
+  "id": 55004,
+  "numero": "1020",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia negativo entre dos tribunales en relación a una acción de amparo constitucional interpuesta por Ronald José Pacheco. El demandante alegó la omisión de ejecutar una medida cautelar de arresto domiciliario otorgada por su juez natural, lo que motivó la acción de habeas corpus. La Sala determinó que la competencia para conocer del caso correspondía a un Tribunal de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Trujillo, y ordenó la remisión del expediente a dicho tribunal para su conocimiento.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "habeas corpus",
+    "libertad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1020_E17-0784.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205916-1020-301117-2017-17-0784.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.476992"
+}

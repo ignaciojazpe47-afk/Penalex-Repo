@@ -1,0 +1,23 @@
+{
+  "id": 33004,
+  "numero": "1573",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo interpuesta por las abogadas Belkis Isacc Pérez y Jholeesky del Valle Villegas Espina, en representación de Antonio José Niño Nava, quien se encontraba detenido. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando la falta de soporte en las peticiones. Sin embargo, la Sala Constitucional consideró que la acción debía ser admitida y se ordenó la libertad inmediata del demandante, dado que no se había presentado acusación en su contra y se alegaba una privación ilegítima de libertad.",
+  "palabras_clave": [
+    "Habeas Corpus",
+    "Amparo",
+    "Libertad",
+    "Derechos Humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1573_E21-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330628-1573-271123-2023-21-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.422901"
+}

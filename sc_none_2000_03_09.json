@@ -1,0 +1,27 @@
+{
+  "id": 1600,
+  "numero": null,
+  "fecha": "2000-03-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Políticos",
+  "decision": "INADMISIBLE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia del 9 de marzo de 2000, declaró inadmisible la acción de amparo constitucional interpuesta por José Rafael Ramírez Cordiva contra el Consejo Nacional Electoral. El demandante alegó la falta de respuesta del Consejo a sus denuncias sobre la elección de miembros de la Asamblea Nacional Constituyente en el Estado Aragua. La Sala, tras analizar la competencia y la situación jurídica, concluyó que cualquier decisión sería ineficaz, dado que la Asamblea había cesado funciones. Por lo tanto, se configuró la causal de inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "Amparo",
+    "Consejo Nacional Electoral",
+    "Inadmisibilidad",
+    "Derechos Políticos",
+    "Asamblea Nacional Constituyente",
+    "Falta de Pronunciamiento",
+    "Competencia",
+    "Votación"
+  ],
+  "titulo": "Inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-03-09_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.679720"
+}

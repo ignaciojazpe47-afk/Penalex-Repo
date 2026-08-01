@@ -1,0 +1,24 @@
+{
+  "id": 19808,
+  "numero": "0698",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Procter & Gamble de Venezuela, S.C.A. contra la decisión de los árbitros José Tomás Blanco y Gustavo Mata Borjas, que había declarado sin lugar las recusaciones formuladas por ambas partes. La Sala argumentó que la acción fue presentada fuera del plazo de caducidad establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que implica un consentimiento tácito a la decisión lesiva. Además, se destacó que la recusación debía ser decidida por el juez ante quien se designaron los árbitros, y no por los árbitros mismos, lo que vulneró el derecho al juez natural.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Procter & Gamble",
+    "Decisión Lesiva",
+    "Recusación",
+    "Derecho al Juez Natural"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Procter & Gamble de Venezuela, S.C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0698_E13-0849.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343773-0698-14525-2025-13-0849.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.718014"
+}

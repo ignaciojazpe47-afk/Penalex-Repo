@@ -1,0 +1,24 @@
+{
+  "id": 21213,
+  "numero": "1227",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Contencioso Administrativo",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Conforme a derecho la desaplicación por control difuso de la constitucionalidad del artículo 6 del Reglamento Parcial n.° 1 de la Ordenanza sobre Actividades Económicas en Materia de Retenciones.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 00174 dictada por la Sala Político Administrativa, que confirmó la desaplicación del artículo 6 del Reglamento Parcial N° 1 de la Ordenanza sobre Actividades Económicas en Materia de Retenciones del municipio Valencia. La decisión se fundamenta en la violación del principio de legalidad tributaria, ya que la norma impone un porcentaje único de retención sin considerar las alícuotas establecidas en el Clasificador de Actividades Económicas. La Sala concluyó que la desaplicación es conforme a derecho, reafirmando la necesidad de que las disposiciones tributarias sean reguladas por ley.",
+  "palabras_clave": [
+    "desaplicación",
+    "control difuso",
+    "constitucionalidad",
+    "impuesto",
+    "actividades económicas"
+  ],
+  "titulo": "Desaplicación de norma tributaria por control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1227_E25-0435.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346524-1227-28725-2025-25-0435.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.732337"
+}

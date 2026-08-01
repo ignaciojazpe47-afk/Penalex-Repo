@@ -1,0 +1,22 @@
+{
+  "id": 37742,
+  "numero": "1091",
+  "fecha": "2022-12-05",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Ana Isabel Castro, por no haber presentado copia certificada de la sentencia cuestionada. La Sala argumenta que la falta de este documento es un requisito esencial para la admisión de la acción de amparo, conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La decisión se fundamenta en la necesidad de verificar el contenido del fallo que se impugna.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-05_S1091_E21-0231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321410-1091-51222-2022-21-0231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.442208"
+}

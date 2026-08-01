@@ -1,0 +1,24 @@
+{
+  "id": 38672,
+  "numero": "0162",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 12 de noviembre de 2014, que condenó a Yhonder Andrés Rodríguez Vallejo a once años de prisión por homicidio intencional. La revisión se solicitó debido a la falta de pruebas suficientes y la existencia de contradicciones en el testimonio de la víctima. La Sala concluyó que la decisión del tribunal de juicio incurrió en vicios de motivación y en la violación del derecho a la defensa, lo que llevó a la anulación de la sentencia y a la reposición del caso para un nuevo juicio con un juez distinto.",
+  "palabras_clave": [
+    "homicidio",
+    "revisión constitucional",
+    "sentencia",
+    "derecho a la defensa",
+    "motivación"
+  ],
+  "titulo": "Revisión de sentencia condenatoria por homicidio intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0162_E16-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312122-0162-14521-2021-16-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.871145"
+}

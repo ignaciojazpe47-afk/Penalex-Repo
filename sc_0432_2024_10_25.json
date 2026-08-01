@@ -1,0 +1,26 @@
+{
+  "id": 26901,
+  "numero": "0432",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0534 dictada el 31 de octubre de 2022 por la Sala de Casación Civil, que declaró nula una sentencia anterior y con lugar la acción de simulación de venta. La revisión fue solicitada por las ciudadanas Carolina Alexis Pacheco y otras, quienes argumentaron violaciones al debido proceso y a la tutela judicial efectiva. La Sala, tras analizar los argumentos, concluyó que la sentencia recurrida no violó derechos constitucionales y se dictó conforme a derecho.",
+  "palabras_clave": [
+    "debido proceso",
+    "jurisprudencia",
+    "Código Civil",
+    "interpretación",
+    "derechos",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia N° 0534",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0432_E23-0176.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338210-0432-251024-2024-23-0176.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.480104"
+}

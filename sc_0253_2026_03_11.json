@@ -1,0 +1,22 @@
+{
+  "id": 17405,
+  "numero": "0253",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por Maribel Josefina Sánchez Echeto, en contra de una sentencia dictada por la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La acción se fundamenta en la nulidad de actuaciones y el retardo procesal en el juicio penal seguido contra varios acusados por delitos graves. La Sala declaró su competencia y decidió favorablemente el amparo, ordenando la remisión del expediente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "retardo procesal",
+    "nulidad de actuaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0253_E25-0695.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353558-0253-11326-2026-25-0695.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.576499"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 28884,
+  "numero": "0004",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de amparo constitucional interpuesta por Rosario del Valle Lomónaco León, quien alegaba violaciones a sus derechos en un juicio de acción mero declarativa de unión estable de hecho. La Sala consideró que la acción de amparo era inadmisible, ya que la demandante no había agotado las vías judiciales ordinarias, como la apelación, para restablecer su situación jurídica. Se revocó la decisión del Juzgado Superior que había declarado improcedente la solicitud de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "unión estable de hecho",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0004_E18-0015.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322801-0004-22223-2023-18-0015.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.300682"
+}

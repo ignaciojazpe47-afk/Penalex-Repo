@@ -1,0 +1,27 @@
+{
+  "id": 18191,
+  "numero": "0041",
+  "fecha": "2025-01-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara SIN LUGAR la apelación interpuesta por el abogado Jesús María Alarcón Hernández, defensor del ciudadano José Manuel Delmoral Ortega, contra la sentencia de la Sala 5 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La decisión se basa en que la acción de amparo no es procedente cuando ha cesado la violación de derechos constitucionales, lo que se constató en este caso. Se confirma la decisión apelada y se ordena remitir el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "libertad personal",
+    "constitucional",
+    "inadmision",
+    "derechos humanos",
+    "justicia",
+    "jurisdicción",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0041_E24-0195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341207-0041-5225-2025-24-0195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.811034"
+}

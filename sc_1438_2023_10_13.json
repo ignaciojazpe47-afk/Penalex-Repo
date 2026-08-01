@@ -1,0 +1,24 @@
+{
+  "id": 32284,
+  "numero": "1438",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la apelación interpuesta por Yhosnel Manuel Arzola Matute contra la decisión de la Corte de Apelaciones que había declarado sin lugar su acción de amparo constitucional. La Sala revocó la decisión de la Corte de Apelaciones y declaró inadmisible la acción de amparo, argumentando que existía un medio judicial idóneo para la protección de los derechos constitucionales del accionante, el cual no había sido agotado adecuadamente. Se concluyó que la acción de amparo no era procedente dado que el demandante no había esperado la resolución de su apelación y que las violaciones alegadas eran subsanables a través de la vía ordinaria.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Yhosnel Manuel Arzola Matute",
+    "Corte de Apelaciones",
+    "Estado Bolívar",
+    "decisión inadmisible"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Yhosnel Manuel Arzola Matute",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1438_E22-0847.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329313-1438-131023-2023-22-0847.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.396211"
+}

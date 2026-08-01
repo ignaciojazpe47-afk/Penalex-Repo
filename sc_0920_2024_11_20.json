@@ -1,0 +1,22 @@
+{
+  "id": 27714,
+  "numero": "0920",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Fátima Rosalía Henriques Goncalves interpuso una acción de amparo constitucional contra una decisión del Tribunal Superior Tercero del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que acordó la restitución internacional de su hijo a su padre. La Sala Constitucional del TSJ se declaró competente para conocer la acción y ordenó al tribunal inferior remitir el expediente correspondiente. Además, se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada hasta que se dicte un pronunciamiento definitivo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "custodia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional y medida de suspensión de ejecución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0920_E23-0585.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339197-0920-201124-2024-23-0585.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.182559"
+}

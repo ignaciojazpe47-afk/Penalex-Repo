@@ -1,0 +1,26 @@
+{
+  "id": 30242,
+  "numero": "0461",
+  "fecha": "2023-05-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Luis Betancourt Zurita, en representación de Edgar Eduardo Hernández Chávez, contra la sentencia dictada el 12 de diciembre de 2018 por la Corte Segunda de lo Contencioso Administrativo. La inadmisibilidad se fundamenta en la falta de presentación de un poder que acredite la representación del solicitante, conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "principio indubio pro operario",
+    "jubilación",
+    "CICPC",
+    "jurisprudencia",
+    "derechos laborales",
+    "sentencia",
+    "incongruencia negativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0461_E21-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325082-0461-15523-2023-21-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.847773"
+}

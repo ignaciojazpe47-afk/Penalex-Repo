@@ -1,0 +1,27 @@
+{
+  "id": 29062,
+  "numero": "0060",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional que interpuso la sociedad mercantil WUAYUU, C.A.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC.000769 dictada el 8 de diciembre de 2021, donde se declaró con lugar el recurso de casación interpuesto por Elías Khoury contra la sentencia del Juzgado Superior Segundo. La Sala concluyó que la decisión de la Sala de Casación Civil vulneró el derecho a la defensa y el debido proceso, al no considerar adecuadamente la subsanación de las cuestiones previas realizadas por la parte demandante, Wuayuu, C.A. En consecuencia, se declaró la nulidad de la sentencia impugnada y se ratificó la decisión del Juzgado Cuarto de Primera Instancia que había declarado la confesión ficta del demandado.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "cosa juzgada",
+    "debido proceso",
+    "seguridad jurídica",
+    "interpretación",
+    "normas",
+    "procedimiento"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de nulidad de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-03_S0060_E22-0648.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323228-0060-3323-2023-22-0648.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.343329"
+}

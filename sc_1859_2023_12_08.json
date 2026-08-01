@@ -1,0 +1,22 @@
+{
+  "id": 33525,
+  "numero": "1859",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por Leslie Carolina Calatayud Noguera en representación de su sobrino, un niño de 6 años, contra Carlos Gabriel Castillo Valles y varios fiscales por la omisión del debido proceso en denuncias de maltrato. La Sala Constitucional determina que la competencia para conocer del caso depende de la verificación de errores en la interpretación de la Constitución y la existencia de violaciones constitucionales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Humanos",
+    "Maltrato Infantil"
+  ],
+  "titulo": "Sentencia sobre Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1859_E23-0895.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331394-1859-81223-2023-23-0895.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.468787"
+}

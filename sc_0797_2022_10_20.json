@@ -1,0 +1,25 @@
+{
+  "id": 36786,
+  "numero": "0797",
+  "fecha": "2022-10-20",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el abogado Gilberto José López en representación de los ciudadanos Mario Osorio Apong y Yixys Clairett Mora, contra la decisión de la Sala Sexta de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, dictada el 27 de abril de 2022. La acción se fundamentó en la alegación de violaciones al debido proceso y la tutela judicial efectiva, así como en la existencia de un uso abusivo de la jurisdicción penal para resolver un asunto de naturaleza civil.\n\nLa Sala Constitucional, tras analizar los argumentos presentados, decidió declarar con lugar el recurso de amparo, ordenando la suspensión de los efectos de la decisión impugnada y la remisión del expediente original al tribunal correspondiente. Se destacó la importancia de garantizar el respeto a los derechos constitucionales y la correcta aplicación de la ley en el proceso penal.\n\nFinalmente, se ordenó la notificación de la decisión a las partes involucradas y se establecieron las medidas cautelares pertinentes para proteger los derechos de los demandantes mientras se resuelve la acción de amparo.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "acción_penal",
+    "Código_Orgánico_Procesal_Penal",
+    "competencia",
+    "investigación"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre decisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-20_S0797_E22-0770.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320051-0797-201022-2022-22-0770.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.099584"
+}

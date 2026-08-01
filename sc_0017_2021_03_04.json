@@ -1,0 +1,25 @@
+{
+  "id": 38238,
+  "numero": "0017",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "El ciudadano Vicente José Brito interpone una acción de amparo constitucional contra el Decreto N° 3.990 del 23 de septiembre de 2019, relacionado con el XV Censo Nacional de Población y Vivienda. La Sala Constitucional, tras analizar la competencia, determina que la acción es inadmisible debido a que el accionante contaba con la vía de nulidad como recurso ordinario, el cual no utilizó. La Sala concluye que no se justifica el uso del amparo constitucional en este caso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "inviolabilidad",
+    "vías judiciales",
+    "inadmisibilidad",
+    "decreto presidencial"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0017_E19-0689.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311411-0017-4321-2021-19-0689.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.765899"
+}

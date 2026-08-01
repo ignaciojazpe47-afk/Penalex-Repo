@@ -1,0 +1,26 @@
+{
+  "id": 20312,
+  "numero": "0897",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por el abogado Néstor Felipe Márquez Díaz en representación de Alexander José Aponte Ramírez. Se argumenta que el Tribunal Segundo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Anzoátegui violó principios constitucionales, lo que motivó la solicitud de amparo. La Sala decide declinar la competencia a la Corte de Apelaciones del mismo circuito judicial penal.",
+  "palabras_clave": [
+    "derechos humanos",
+    "salud",
+    "presunción de inocencia",
+    "igualdad ante la ley",
+    "amparo",
+    "competencia",
+    "constitución"
+  ],
+  "titulo": "Decisión sobre la competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0897_E21-0578.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344692-0897-11625-2025-21-0578.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.295690"
+}

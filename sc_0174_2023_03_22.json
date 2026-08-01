@@ -1,0 +1,25 @@
+{
+  "id": 29435,
+  "numero": "0174",
+  "fecha": "2023-03-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia N° 0868, se pronunció sobre una acción de amparo constitucional interpuesta por las abogadas Yaneth Palomino Castillo y María Cristina Pujol Pérez, actuando como Fiscales Auxiliares Interinos. La acción fue presentada contra una decisión de la Sala Accidental de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo, que había declarado parcialmente con lugar un recurso de apelación en un caso penal relacionado con un delito de violencia contra la mujer.\n\nLa Sala determinó que la acción de amparo era inadmisible, ya que se constató que la situación jurídica alegada como infringida había cesado, dado que el imputado se encontraba bajo medida de coerción personal de privación judicial preventiva de libertad. La decisión se fundamentó en el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que no se admitirá la acción de amparo cuando haya cesado la violación o amenaza de algún derecho o garantía constitucional.\n\nFinalmente, se ordenó notificar a las partes involucradas sobre la decisión y se archivó el expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "inadmision",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-22_S0174_E18-0246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323835-0174-22323-2023-18-0246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.075600"
+}

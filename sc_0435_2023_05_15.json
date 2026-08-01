@@ -1,0 +1,25 @@
+{
+  "id": 30216,
+  "numero": "0435",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La ciudadana Luisana Del Carmen Pérez Aponte interpuso una acción de amparo constitucional contra una decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, que declaró sin lugar un recurso de apelación interpuesto por el Ministerio Público. La Sala Constitucional del TSJ, presidida por la magistrada Gladys María Gutiérrez Alvarado, determinó que la acción de amparo era inadmisible, ya que la decisión impugnada podía ser recurrida mediante el recurso extraordinario de casación penal. La Sala concluyó que el agravio alegado por la demandante no cumplía con los requisitos necesarios para la admisibilidad del amparo, dado que existían recursos que no habían sido ejercidos previamente.",
+  "palabras_clave": [
+    "due_process",
+    "error_judicial",
+    "derechos_humanos",
+    "ministerio_publico",
+    "justicia",
+    "proceso_penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0435_E22-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325055-0435-15523-2023-22-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.882671"
+}

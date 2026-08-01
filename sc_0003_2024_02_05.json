@@ -1,0 +1,22 @@
+{
+  "id": 24056,
+  "numero": "0003",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto en el marco de una acción de amparo constitucional relacionada con la custodia de menores. La decisión del Tribunal remitente fue parcialmente con lugar, ratificando medidas cautelares previas. La Sala ordenó a los tribunales inferiores informar sobre el estado procesal de la causa de modificación de custodia y la causa penal relacionada con el demandado por trato cruel.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "niños"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0003_E22-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332355-0003-5224-2024-22-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.825962"
+}

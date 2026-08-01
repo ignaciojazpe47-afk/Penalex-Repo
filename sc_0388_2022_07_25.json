@@ -1,0 +1,22 @@
+{
+  "id": 35591,
+  "numero": "0388",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en sentencia del 25 de julio de 2022, declaró no ha lugar la solicitud de revisión presentada por Tugermi José Jiménez Ramos, quien impugnaba la decisión del Juzgado Superior Primero en lo Civil Mercantil y Tránsito del Estado Lara. Esta última había declarado sin lugar la demanda de cumplimiento de contrato y con lugar la reconvención por resolución del contrato, en relación a un contrato de opción de compra-venta de un inmueble.\n\nEl solicitante argumentó que la sentencia impugnada no cumplió con los requisitos establecidos en la jurisprudencia vinculante de la Sala Constitucional, alegando omisiones en la valoración de pruebas y en el análisis de las obligaciones contractuales. Sin embargo, la Sala Constitucional determinó que el fallo cuestionado no incurrió en errores de interpretación de la Constitución ni en violaciones a derechos fundamentales, reafirmando la autonomía del contrato y la obligación de las partes de cumplir con lo pactado.\n\nFinalmente, la Sala concluyó que la revisión no es un medio para corregir errores de juzgamiento, sino para asegurar la correcta interpretación de normas constitucionales, por lo que decidió no hacer uso de su facultad extraordinaria en este caso.",
+  "palabras_clave": [
+    "revisión",
+    "cumplimiento de contrato",
+    "opción de compra-venta"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0388_E22-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318149-0388-25722-2022-22-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.779055"
+}

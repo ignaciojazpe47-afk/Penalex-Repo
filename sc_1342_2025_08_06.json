@@ -1,0 +1,26 @@
+{
+  "id": 21482,
+  "numero": "1342",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de agosto de 2025, declaró no ha lugar la solicitud de revisión constitucional presentada por el abogado Humberto Pisani Pérez en representación de José Gregorio Jerez Maldonado. La solicitud se refería a la sentencia N° 726 dictada el 1 de diciembre de 2015 por la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La Sala Constitucional determinó que no existían infracciones que justificaran la revisión, reafirmando que este mecanismo es excepcional y no debe ser utilizado como una tercera instancia.",
+  "palabras_clave": [
+    "silencio de pruebas",
+    "infracción de ley",
+    "vicio de inmotivación",
+    "contrato de venta",
+    "pacto de retracto",
+    "derechos procesales",
+    "valor probatorio"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1342_E16-0734.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347004-1342-6825-2025-16-0734.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.761186"
+}

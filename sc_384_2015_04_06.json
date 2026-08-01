@@ -1,0 +1,24 @@
+{
+  "id": 63170,
+  "numero": "384",
+  "fecha": "2015-04-06",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por María Eugenia Fernández de D’Empaire, en representación de Inversiones 51.159, C.A., contra la sentencia dictada el 29 de julio de 2014 por la Sala Accidental 146 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua. La acción se fundamentó en la violación de derechos al debido proceso y a la tutela judicial efectiva, argumentando que la sentencia apelada incurrió en contradicción en su motivación al valorar el testimonio de un testigo clave.\n\nLa Sala consideró que la sentencia recurrida adolecía de inmotivación y contradicción, lo que generó indefensión para la parte demandante. En consecuencia, se acordó la medida cautelar de suspensión del juicio oral y público en la causa penal seguida contra el ciudadano José Gregorio Noriega Lárez, hasta que se decida la acción de amparo interpuesta. La decisión busca restablecer la situación jurídica infringida y garantizar el derecho a un proceso justo.\n\nFinalmente, se ordenó la notificación de los jueces de la Sala Accidental y del Ministerio Público, así como la fijación de la audiencia constitucional para continuar con el procedimiento de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "due process",
+    "tutela judicial efectiva",
+    "contradicción",
+    "invasión"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre la nulidad de sentencia de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-04-06_S384_E15-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/176191-384-6415-2015-15-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:49.903076"
+}

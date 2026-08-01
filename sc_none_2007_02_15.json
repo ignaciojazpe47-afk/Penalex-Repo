@@ -1,0 +1,22 @@
+{
+  "id": 3370,
+  "numero": null,
+  "fecha": "2007-02-15",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia interpreta el artículo 44.1 de la Constitución de la República Bolivariana de Venezuela, en el contexto de la aplicación de la flagrancia a los delitos de género. Se destaca la importancia de garantizar la protección de los derechos de las mujeres víctimas de violencia, equilibrando estos derechos con el derecho a la libertad personal del agresor. La decisión busca clarificar la aplicación de la flagrancia en casos de violencia doméstica, permitiendo la detención sin orden judicial en situaciones donde se evidencien indicios de la comisión del delito.",
+  "palabras_clave": [
+    "flagrancia",
+    "violencia de género",
+    "derechos humanos"
+  ],
+  "titulo": "Interpretación del artículo 44.1 de la Constitución en relación con la flagrancia en delitos de género",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-02-15_Constitucional_06.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.121970"
+}

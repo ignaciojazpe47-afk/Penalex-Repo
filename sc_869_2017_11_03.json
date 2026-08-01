@@ -1,0 +1,23 @@
+{
+  "id": 54395,
+  "numero": "869",
+  "fecha": "2017-11-03",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 633 de la Sala de Casación Civil, que declaró sin lugar un recurso de casación interpuesto por Luciano Chávez García. La Sala Constitucional determinó que la falta de cualidad pasiva de los codemandados no fue advertida por el Juzgado Superior, lo que constituye un vicio de orden público que debe ser declarado de oficio. En consecuencia, se anula la decisión de la Sala de Casación Civil y se ordena la remisión del expediente a un Juzgado Superior Civil y Mercantil Accidental para que conozca la apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "falta de cualidad",
+    "casación civil",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-03_S869_E17-0177.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/204811-869-31117-2017-17-0177.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.734701"
+}

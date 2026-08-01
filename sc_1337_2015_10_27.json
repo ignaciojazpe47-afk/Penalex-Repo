@@ -1,0 +1,18 @@
+{
+  "id": 66981,
+  "numero": "1337",
+  "fecha": "2015-10-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una decisión del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara, que había declarado con lugar un recurso de apelación y ordenado la continuidad de un procedimiento de ejecución de embargo sobre bienes agrarios. La Sala consideró que el juzgado ejecutor no tenía competencia para llevar a cabo dicha medida, ya que la naturaleza del juicio era mercantil y no agraria, lo que violaba el derecho a la defensa y el debido proceso del demandado. En consecuencia, se anuló la decisión impugnada y se ordenó la remisión del caso a un juzgado agrario competente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre revisión de decisión de embargo ejecutivo en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-27_S1337_E15-0496.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182282-1337-271015-2015-15-0496.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.399056"
+}

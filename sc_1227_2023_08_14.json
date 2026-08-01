@@ -1,0 +1,24 @@
+{
+  "id": 34120,
+  "numero": "1227",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NIEGA LA HOMOLOGACIÓN",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la ASOCIACIÓN CIVIL MISIONEROS DE LA CONSOLATA, en relación a una decisión del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del estado Lara. La solicitud fue presentada por el abogado Marco Antonio Aponte, quien actuó como apoderado judicial de la asociación. La Sala determinó su competencia para conocer la solicitud de revisión, pero negó la homologación del desistimiento presentado por el abogado.",
+  "palabras_clave": [
+    "desistimiento",
+    "procedimiento civil",
+    "capacidad",
+    "autocomposición",
+    "derechos subjetivos"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1227_E19-0528.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328431-1227-14823-2023-19-0528.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.866527"
+}

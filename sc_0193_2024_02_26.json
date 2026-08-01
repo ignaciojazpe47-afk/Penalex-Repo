@@ -1,0 +1,25 @@
+{
+  "id": 18628,
+  "numero": "0193",
+  "fecha": "2024-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria de la sentencia n.º 1.028, dictada el 27 de noviembre de 2024, presentada por Carlos Alberto Ruiz. La solicitud fue considerada improcedente, ya que el solicitante pretendía un nuevo pronunciamiento sobre el fondo de una controversia ya decidida, lo cual no es el objetivo de la figura de aclaratoria. La Sala reafirmó que la aclaratoria busca corregir errores materiales o aclarar conceptos oscuros, no reexaminar decisiones ya tomadas.",
+  "palabras_clave": [
+    "aclaratoria",
+    "ampliación",
+    "sentencia",
+    "Código de Procedimiento Civil",
+    "Tribunal Supremo de Justicia",
+    "derecho procesal"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0193_E19-0011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342005-0193-26225-2025-19-0011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.657026"
+}

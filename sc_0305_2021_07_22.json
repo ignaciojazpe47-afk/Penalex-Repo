@@ -1,0 +1,25 @@
+{
+  "id": 39104,
+  "numero": "0305",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la revisión constitucional solicitada por Freddy Rafael Sarabia, quien impugnaba la sentencia N° 01292 dictada por la Sala Político Administrativa. En dicha sentencia, se había declarado parcialmente con lugar la demanda de nulidad y se ordenó el pago de sueldos dejados de percibir, pero se firmó el acto impugnado y se dejó sin efecto un amparo cautelar anterior. La Sala Constitucional determinó que la revisión no contribuye a la uniformidad de la interpretación de normas y principios constitucionales, y que la Sala Político Administrativa actuó conforme a derecho al aplicar las normas pertinentes sobre fuero paternal e inamovilidad laboral.",
+  "palabras_clave": [
+    "fuero paternal",
+    "inamovilidad laboral",
+    "tutela judicial",
+    "derechos constitucionales",
+    "revisión constitucional",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0305_E19-0744.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312759-0305-22721-2021-19-0744.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.767818"
+}

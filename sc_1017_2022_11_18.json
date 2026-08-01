@@ -1,0 +1,25 @@
+{
+  "id": 37496,
+  "numero": "1017",
+  "fecha": "2022-11-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Contencioso-Administrativo",
+  "decision": "PERENCIÓN DE LA INSTANCIA Y LA EXTINCIÓN DEL PROCESO",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 18 de noviembre de 2022, en la que se declara la perención de la instancia y la extinción del proceso en un recurso de nulidad interpuesto por la Asociación de Usuarios de Servicios Eléctricos de Venezuela. La causa había estado paralizada por más de un año debido a la inactividad de la parte actora, lo que llevó a la aplicación de la normativa que establece la extinción de la instancia en tales casos.\nLa decisión se fundamenta en que la acción no está vinculada al orden público y no se verifican las excepciones que impiden la perención. La Sala, al revisar las actuaciones, concluyó que no se habían realizado actos de impulso procesal desde marzo de 2016, lo que justifica la declaración de perención.\nFinalmente, se ordena la publicación, registro y archivo del expediente, cerrando así el proceso administrativo iniciado por la demandante.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "inactividad",
+    "servicio público",
+    "nulidad",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la perención de la instancia en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-18_S1017_E08-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320923-1017-181122-2022-08-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.342432"
+}

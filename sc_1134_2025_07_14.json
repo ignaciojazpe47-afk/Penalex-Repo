@@ -1,0 +1,23 @@
+{
+  "id": 20933,
+  "numero": "1134",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Se ANULA la decisión emitida por el Tribunal Cuarto de Primera Instancia de Juicio del Trabajo de la Circunscripción Judicial del estado Anzoátegui, con sede en Barcelona, el 22 de diciembre de 2022, que estableció el desacato de la sociedad mercantil Pepsi-Cola Venezuela, C.A.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia anuló la decisión del Tribunal Cuarto de Primera Instancia de Juicio del Trabajo que había declarado el desacato de Pepsi-Cola Venezuela, C.A. y sancionado a su gerente Dayanara Martínez. La Sala determinó que no se garantizó el derecho a la defensa y el debido proceso, ya que no se notificó adecuadamente a la empresa ni a la representante legal. Se ordenó reponer la causa para que se realicen las notificaciones pertinentes y se continúe con la ejecución del mandamiento de amparo a favor del ciudadano Rony José Tayupo Macayo.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Pepsi-Cola Venezuela",
+    "derecho laboral"
+  ],
+  "titulo": "Sentencia sobre desacato en caso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1134_E23-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346041-1134-14725-2025-23-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.390238"
+}

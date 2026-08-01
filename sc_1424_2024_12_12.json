@@ -1,0 +1,24 @@
+{
+  "id": 28593,
+  "numero": "1424",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación contra una sentencia que declaró inadmisible una acción de amparo constitucional. El abogado Juan Ernesto Garantón Hernández, en representación de José Gaspard Morell, argumentó que se le había impedido el acceso al expediente y la consignación de escritos desde el 15 de mayo de 2024. La Sala, tras evaluar la competencia, decidió ordenar la remisión de la decisión apelada y la información sobre el estado actual de la causa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "tutela judicial",
+    "debido proceso",
+    "defensa técnica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1424_E24-0571.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340617-1424-121224-2024-24-0571.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.815723"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20002,
+  "numero": "0802",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Ángel García, Presidente de la Comisión Electoral Nacional de la UNEXPO, en relación a la decisión N° 47 de la Sala Electoral. Esta decisión había declarado con lugar un recurso contencioso electoral interpuesto por miembros de la comunidad universitaria de la UNEXPO, ordenando la suspensión de procesos electorales hasta la reforma del Reglamento Electoral. La Sala Constitucional, tras analizar los argumentos del solicitante, concluyó que no existían infracciones a principios constitucionales y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "universidades",
+    "reglamento electoral",
+    "participación",
+    "comunidad universitaria",
+    "derecho al sufragio"
+  ],
+  "titulo": "Revisión Constitucional sobre decisión electoral de la UNEXPO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0802_E11-1225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344280-0802-28525-2025-11-1225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.847972"
+}

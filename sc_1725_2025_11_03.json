@@ -1,0 +1,26 @@
+{
+  "id": 22775,
+  "numero": "1725",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Superior Tercero que declaró sin lugar el recurso de apelación interpuesto por Daniela Dora Gil Feola, en el contexto de un procedimiento de declaración de ausencia de su progenitor, Diego Rafael Gil Morales. La Sala concluyó que no se configuraron vicios que justificaran la revisión, manteniendo la decisión del tribunal inferior y resaltando que se respetaron los derechos al debido proceso y a la defensa durante el procedimiento. Finalmente, se declaró no ha lugar la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "inmotivación",
+    "tutela judicial",
+    "patria potestad",
+    "incongruencia",
+    "derechos constitucionales",
+    "recurso de apelación",
+    "nulo absoluto"
+  ],
+  "titulo": "Revisión Constitucional sobre declaración de ausencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1725_E25-0787.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349464-1725-31125-2025-25-0787.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.525173"
+}

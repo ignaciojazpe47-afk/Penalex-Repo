@@ -1,0 +1,26 @@
+{
+  "id": 17525,
+  "numero": "0023",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por María Mercedes Tibisay Martínez contra el Fiscal Auxiliar Junior Coste. Tras analizar el caso, la Sala determinó que no tenía competencia para conocer de la pretensión de tutela, declinando la competencia a un Tribunal de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la necesidad de que el tribunal correspondiente sea el que conozca del asunto, de acuerdo a las normas competenciales establecidas.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0023_E25-1374.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352687-0023-18226-2026-25-1374.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.060047"
+}

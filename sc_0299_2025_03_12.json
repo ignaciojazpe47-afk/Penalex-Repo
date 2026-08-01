@@ -1,0 +1,23 @@
+{
+  "id": 18768,
+  "numero": "0299",
+  "fecha": "2025-03-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, dictó una sentencia a favor de JHONY ALBERTO GUERRERO CONTRERAS, quien había interpuesto una acción de amparo constitucional contra una decisión del Juzgado Tercero de Primera Instancia que le negó su intervención en un juicio de ejecución de sentencia. La Sala consideró que se vulneraron sus derechos al debido proceso y a la defensa, ya que no fue notificado adecuadamente en el proceso que afectaba su propiedad. Se ordenó la nulidad de la decisión impugnada y la suspensión de la ejecución de la sentencia en cuestión.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho de Propiedad",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de JHONY ALBERTO GUERRERO CONTRERAS",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-12_S0299_E24-0225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342231-0299-12325-2025-24-0225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.737215"
+}

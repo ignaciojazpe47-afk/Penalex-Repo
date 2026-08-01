@@ -1,0 +1,26 @@
+{
+  "id": 30558,
+  "numero": "0604",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo ejercida por José Ramón Zacarías, en representación de la organización política Independientes por la Comunidad Nacional (IPCN) contra el Consejo Nacional Electoral. Sin embargo, la acción es declarada inadmisible debido a la falta de legitimidad activa del demandante, ya que la organización política se encuentra cancelada. Además, se establece que existían vías judiciales ordinarias que no fueron agotadas por el demandante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "participación política",
+    "inadmisibilidad",
+    "organizaciones políticas",
+    "elecciones",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0604_E20-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325692-0604-30523-2023-20-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.925065"
+}

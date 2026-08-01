@@ -1,0 +1,18 @@
+{
+  "id": 2898,
+  "numero": null,
+  "fecha": "2002-10-23",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JOSÉ MANUEL DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por varios ciudadanos contra el Presidente de la República y el Ministro de Infraestructura. La acción se fundamenta en presuntas violaciones a los derechos de libertad de expresión y de información, alegando abusos en el uso de cadenas de radio y televisión por parte del Presidente. Sin embargo, la Sala concluye que la situación planteada puede ser ventilada a través de la jurisdicción contencioso-administrativa, por lo que no procede el amparo.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-10-23_Constitucional_02.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.415262"
+}

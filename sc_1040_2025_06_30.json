@@ -1,0 +1,23 @@
+{
+  "id": 20640,
+  "numero": "1040",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por la abogada Diomar Eleonor Silva Mendoza, en representación de los ciudadanos Robert Alí Franco Galindez y Aicled Adianes Ramírez Márquez, contra la sentencia del Juzgado Superior Primero del Trabajo de Lara que declaró improcedente el recurso de apelación. La Sala consideró que la decisión impugnada vulneró derechos constitucionales como la tutela judicial efectiva y el derecho a la defensa, al no permitir el ejercicio del recurso de apelación contra la admisión de la intervención de terceros en el proceso laboral.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Intervención Forzosa",
+    "Derecho a la Defensa",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre intervención forzosa en proceso laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1040_E24-0999.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345309-1040-30625-2025-24-0999.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.515559"
+}

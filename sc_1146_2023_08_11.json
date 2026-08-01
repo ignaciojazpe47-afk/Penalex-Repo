@@ -1,0 +1,25 @@
+{
+  "id": 34038,
+  "numero": "1146",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por Juan Parra Duarte, quien actúa en nombre propio y en representación de sus coherederos. La inadmisibilidad se fundamenta en la falta de presentación de documentos esenciales que verifiquen los alegatos del solicitante, lo que impide a la Sala evaluar la existencia de motivos suficientes para admitir la petición de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "tutela constitucional",
+    "pruebas",
+    "procedimiento",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1146_E23-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328303-1146-11823-2023-23-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.336637"
+}

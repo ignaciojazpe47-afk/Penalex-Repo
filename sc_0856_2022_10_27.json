@@ -1,0 +1,26 @@
+{
+  "id": 36920,
+  "numero": "0856",
+  "fecha": "2022-10-27",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de octubre de 2022, declaró sin lugar la solicitud de revisión presentada por el abogado Francisco José Cernadas López, defensor privado de Jean Antiba Abdel. La revisión se solicitó en relación a una sentencia condenatoria dictada el 6 de diciembre de 2018, por el Tribunal Primero de Primera Instancia en Funciones de Control, que impuso una pena de diez meses y diez días de prisión por el delito de acoso u hostigamiento, argumentando violaciones al derecho a la defensa y al debido proceso durante el procedimiento penal.\n\nLa Sala consideró que las actuaciones del Tribunal de Control se ajustaron a derecho, ya que el imputado admitió los hechos en la audiencia preliminar y se acogió a la suspensión condicional del proceso. A pesar de las alegaciones de irregularidades en las notificaciones y en la práctica de diligencias de investigación, la Sala concluyó que no se evidenció la existencia de infracciones constitucionales que justificaran la nulidad de la sentencia condenatoria, reafirmando la validez del proceso seguido.\n\nFinalmente, la Sala enfatizó que la revisión no constituye una tercera instancia y que su propósito es mantener la uniformidad en la interpretación de normas y principios constitucionales, por lo que se desestimó la solicitud de revisión.",
+  "palabras_clave": [
+    "diligencias",
+    "investigación",
+    "indefensión",
+    "nulidad",
+    "derechos",
+    "proceso penal",
+    "defensa"
+  ],
+  "titulo": "Revisión de sentencia condenatoria por incumplimiento de la suspensión condicional del proceso",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-27_S0856_E22-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320238-0856-271022-2022-22-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.429290"
+}

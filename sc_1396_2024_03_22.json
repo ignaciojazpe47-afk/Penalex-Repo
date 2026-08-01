@@ -1,0 +1,26 @@
+{
+  "id": 28491,
+  "numero": "1396",
+  "fecha": "2024-03-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 000147 de la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por Iraima María Fernández. La decisión se basó en la prescripción de la acción de nulidad de la venta de un inmueble, argumentando que la demandante no logró demostrar su incapacidad para entender el documento que firmó. La Sala Constitucional determinó que no había lugar para la revisión, ya que no se evidenció una violación de derechos fundamentales ni un error en la interpretación de la ley por parte de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "nulidad",
+    "contrato",
+    "simulación",
+    "prescripción",
+    "derechos",
+    "herencia",
+    "prueba"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de contrato de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1396_E24-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340514-1396-121224-2024-24-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.652304"
+}

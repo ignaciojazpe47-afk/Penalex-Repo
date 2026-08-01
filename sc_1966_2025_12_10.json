@@ -1,0 +1,25 @@
+{
+  "id": 23671,
+  "numero": "1966",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Revoca y anula la totalidad del proceso instaurado respecto al juicio que por nulidad de venta de acciones interpuso la abogada Milagro Hernández Rincón.",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio y anuló el proceso de nulidad de venta de acciones interpuesto por la abogada Milagro Hernández Rincón en representación de Bareaa Wehbi de Chams. Se determinó que el Tribunal Quinto de Primera Instancia había actuado de manera incompetente al conocer del caso, lo que vulneró derechos constitucionales como el debido proceso y el derecho a ser juzgado por el juez natural. La causa fue reponida al estado de que un Tribunal de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario del Estado Zulia conozca del asunto.",
+  "palabras_clave": [
+    "debido_proceso",
+    "juez_natural",
+    "derechos_humanos",
+    "competencia",
+    "orden_publico",
+    "constitucion"
+  ],
+  "titulo": "Sentencia sobre nulidad de venta de acciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1966_E23-1068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351666-1966-101225-2025-23-1068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.790082"
+}

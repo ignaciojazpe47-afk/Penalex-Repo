@@ -1,0 +1,26 @@
+{
+  "id": 37485,
+  "numero": "1006",
+  "fecha": "2022-11-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Carlos José Castillo en representación de Juan Carlos Sosa Rangel. La solicitud se refiere a una sentencia dictada por la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida, que había declarado sin lugar un recurso de apelación contra una condena de veinte años de prisión por ocultamiento de armas y municiones.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "documentación",
+    "legitimación",
+    "procedimiento",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-17_S1006_E18-0424.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320912-1006-171122-2022-18-0424.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.346534"
+}

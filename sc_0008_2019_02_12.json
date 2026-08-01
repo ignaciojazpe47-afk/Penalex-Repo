@@ -1,0 +1,25 @@
+{
+  "id": 42111,
+  "numero": "0008",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC.000972, dictada el 16 de diciembre de 2016, que declaró con lugar un recurso extraordinario de casación y anuló la sentencia de un juzgado inferior por inepta acumulación de pretensiones. Los solicitantes argumentaron que la decisión afectó su derecho a la tutela judicial efectiva y que se tergiversaron los términos de su demanda. Sin embargo, la Sala concluyó que la acumulación de pretensiones era incompatible y que la decisión de la Sala de Casación Civil se ajustaba a la jurisprudencia vigente.",
+  "palabras_clave": [
+    "tutela judicial",
+    "inepta acumulación",
+    "incumplimiento",
+    "contrato",
+    "debido proceso",
+    "indemnización"
+  ],
+  "titulo": "Revisión de sentencia por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0008_E17-1037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303657-0008-12219-2019-17-1037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.618543"
+}

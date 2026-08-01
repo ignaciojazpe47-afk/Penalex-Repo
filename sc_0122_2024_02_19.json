@@ -1,0 +1,23 @@
+{
+  "id": 24250,
+  "numero": "0122",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por María de Jesús González López, quien había solicitado un amparo constitucional contra la decisión del Juzgado Quinto Superior del Trabajo que declaró inadmisible su acción. La Sala determinó que el Juzgado había incurrido en error al no admitir la acción de amparo, dado que la parte demandante no había agotado los recursos ordinarios disponibles. En consecuencia, se revocó la sentencia apelada y se ordenó que otro Juzgado Superior se pronuncie nuevamente sobre la admisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0122_E23-0286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332631-0122-19224-2024-23-0286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.561794"
+}

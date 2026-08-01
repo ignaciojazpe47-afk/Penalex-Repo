@@ -1,0 +1,24 @@
+{
+  "id": 20600,
+  "numero": "1000",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por TIGASCO GAS LICUADO, C.A. contra un auto de admisión de pruebas dictado por el Tribunal Cuarto de Primera Instancia de Juicio del Trabajo. La Sala declaró improcedente la acción de amparo, argumentando que el tribunal de instancia actuó dentro de su competencia y que no se configuraron las alegadas violaciones a derechos constitucionales. Además, se destacó que el auto de admisión no prejuzga sobre el fondo del asunto y que las partes tienen la oportunidad de controvertir las pruebas en el juicio laboral.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "TIGASCO",
+    "admisión de pruebas",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por TIGASCO GAS LICUADO, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1000_E25-0088.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345269-1000-27625-2025-25-0088.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.297140"
+}

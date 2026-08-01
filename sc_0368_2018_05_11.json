@@ -1,0 +1,23 @@
+{
+  "id": 46754,
+  "numero": "0368",
+  "fecha": "2018-05-11",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 339 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación interpuesto por Jorge Romero Rondón contra Chevron Global Technology Services Company. El peticionante alegó que la sentencia era inmotivada y no cumplía con los criterios jurisprudenciales establecidos para la fijación de indemnizaciones por daño moral. La Sala Constitucional encontró que efectivamente la decisión carecía de la motivación adecuada y ordenó la anulación de la sentencia recurrida, reponiendo la causa para que se dicte un nuevo fallo conforme a derecho.",
+  "palabras_clave": [
+    "revisión",
+    "daño moral",
+    "indemnización",
+    "inmotivación"
+  ],
+  "titulo": "Revisión de sentencia sobre indemnización de daños morales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-11_S0368_E17-1206.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211137-0368-11518-2018-17-1206.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.900062"
+}

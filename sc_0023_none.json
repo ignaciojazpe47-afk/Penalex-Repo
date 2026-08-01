@@ -1,0 +1,26 @@
+{
+  "id": 34344,
+  "numero": "0023",
+  "fecha": null,
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la improcedencia del amparo constitucional interpuesto por un grupo de ciudadanos contra una decisión del Tribunal Superior Segundo del Trabajo del Estado Lara. La acción fue declarada improcedente in limine litis, ya que la Sala consideró que no se habían agotado los recursos procesales necesarios y que la decisión impugnada no vulneró derechos constitucionales. La sentencia se basa en la correcta aplicación del derecho por parte del juzgado inferior y en la falta de justificación de la parte demandante para la procedencia del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "constitucionalidad",
+    "derechos",
+    "jurisdicción",
+    "proceso",
+    "lesión",
+    "suspensión"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto contra decisión del Tribunal Superior Segundo del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0023_E19-0388.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315535-0023-11222-2022-19-0388.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.694226"
+}

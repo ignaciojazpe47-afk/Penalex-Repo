@@ -1,0 +1,23 @@
+{
+  "id": 31183,
+  "numero": "0889",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por los ciudadanos César Alberto Vargas Escalona y Tibisay Lorena Mejía Castillo, representados por el abogado Hugo Luís Dam Suárez, contra la sentencia dictada el 17 de octubre de 2019 por el Juzgado Superior Segundo en lo Civil, Mercantil, Tránsito y Bancario. La Sala consideró que la decisión impugnada vulneró el derecho a la defensa y al debido proceso, ya que no se demostró adecuadamente la necesidad de los demandantes de ocupar el inmueble arrendado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0889_E20-0164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326775-0889-11723-2023-20-0164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.692208"
+}

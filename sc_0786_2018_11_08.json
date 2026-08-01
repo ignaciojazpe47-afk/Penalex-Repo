@@ -1,0 +1,23 @@
+{
+  "id": 48854,
+  "numero": "0786",
+  "fecha": "2018-11-08",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El ciudadano Jorge Mawad Zammar solicitó revisión constitucional de una sentencia dictada el 9 de noviembre de 2016 por la Corte Segunda de lo Contencioso Administrativo, que confirmó su destitución por abandono injustificado del trabajo. La Sala Constitucional del TSJ, presidida por el magistrado Luis Fernando Damiani Bustillos, analizó la solicitud y determinó que la Corte Segunda incurrió en un error de valoración de pruebas, pero concluyó que este error no afectaba el dispositivo de la sentencia, ya que el demandante no cumplió con su carga probatoria de justificar sus ausencias. Por lo tanto, se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "destitución",
+    "abandonar el trabajo",
+    "valoración de pruebas"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-11-08_S0786_E18-0122.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/302217-0786-81118-2018-18-0122.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.923122"
+}

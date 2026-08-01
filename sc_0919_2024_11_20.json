@@ -1,0 +1,23 @@
+{
+  "id": 27713,
+  "numero": "0919",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por varios defensores públicos en representación de ciudadanos condenados por delitos relacionados con drogas. La Corte de Apelaciones del Circuito Judicial Penal del Estado Lara había declarado con lugar un recurso de apelación, anulando decisiones previas y ordenando la reposición de la causa para celebrar nuevamente la audiencia preliminar. La Sala declaró su competencia para conocer del caso y decidió a favor de los accionantes, ordenando la remisión de copias certificadas del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "Estado Lara",
+    "delitos de drogas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0919_E23-0543.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339196-0919-201124-2024-23-0543.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.188738"
+}

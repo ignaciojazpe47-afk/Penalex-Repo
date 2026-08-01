@@ -1,0 +1,24 @@
+{
+  "id": 20128,
+  "numero": "0837",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por los abogados defensores de César Daniel Rivas Granado, relacionada con una sentencia condenatoria dictada el 14 de marzo de 2024. La Sala declaró su competencia para conocer la solicitud, pero inadmitió la revisión debido a la falta de acreditación de la representación legal de los solicitantes, quienes no presentaron el poder correspondiente para actuar en nombre del demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0837_E25-0206.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344407-0837-3625-2025-25-0206.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.306640"
+}

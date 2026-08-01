@@ -1,0 +1,22 @@
+{
+  "id": 22938,
+  "numero": "1801",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la Asociación Gremial Independiente de Productores Agrícolas (ASOGIPA) contra una sentencia de la Sala de Casación Civil. La solicitud se fundamenta en la alegación de violación del derecho a la defensa y competencia por la materia, argumentando que el juez natural no era el competente para conocer el caso. La Sala, tras analizar la solicitud, determinó su competencia para conocer la revisión y decidió a favor de la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1801_E19-0103.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349792-1801-121125-2025-19-0103.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.072622"
+}

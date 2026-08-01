@@ -1,0 +1,22 @@
+{
+  "id": 24139,
+  "numero": "0086",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Jhon Aarón Ulacio Luengo, quien solicitó un mandamiento de amparo constitucional debido a la retención de su vehículo. La Corte de Apelaciones del Circuito Judicial Penal había declarado improcedente la acción de amparo, argumentando que no se había violado ningún derecho constitucional y que el tribunal de control estaba actuando dentro de su competencia al no decidir sobre la entrega del vehículo hasta recibir las actuaciones pertinentes del Ministerio Público y del Instituto Nacional de Tránsito y Transporte Terrestre.\n\nLa Sala Constitucional confirmó la decisión de la Corte de Apelaciones, señalando que el tribunal de control había actuado correctamente al fijar una audiencia especial para escuchar a las partes involucradas en la reclamación del vehículo. Se concluyó que no existió vulneración de derechos y que el proceso se estaba llevando a cabo conforme a la ley, por lo que se declaró sin lugar el recurso de apelación interpuesto por el accionante.\n\nFinalmente, se ordenó la remisión del expediente al tribunal de origen y se publicó la decisión, reafirmando la competencia de la Sala Constitucional para conocer del recurso de apelación.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Retención de vehículo",
+    "Derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0086_E23-0245.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332457-0086-7224-2024-23-0245.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.574397"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 44453,
+  "numero": "0350",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia relacionado con una acción de habeas data interpuesta por Carmen Cecilia Rozo Jacome, en representación de la empresa La Valentina MG C.A., contra el Banco Nacional de Crédito. La acción buscaba el acceso a información bancaria que le había sido negada, alegando violaciones a derechos constitucionales. La Sala determinó su competencia para conocer del caso, dado que la materia es de naturaleza constitucional y no existe un tribunal superior común entre los órganos en conflicto.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "derechos constitucionales",
+    "información",
+    "tribunales",
+    "amparo",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0350_E19-0094.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308131-0350-191119-2019-19-0094.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.379232"
+}

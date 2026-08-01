@@ -1,0 +1,22 @@
+{
+  "id": 36293,
+  "numero": "0656",
+  "fecha": "2022-08-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió un recurso de apelación en amparo constitucional interpuesto por Nelson Barrios en representación de varias víctimas, contra la decisión de la Sala N° 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala Constitucional determinó que la apelación fue interpuesta dentro del plazo legal y que la solicitud de revocatoria de la medida cautelar sustitutiva de libertad no fue respondida oportunamente por el Juzgado Vigésimo Noveno, lo que constituye una violación de derechos. Por lo tanto, se revoca parcialmente la decisión de inadmisibilidad respecto a esta solicitud, ordenando a otra Corte de Apelaciones pronunciarse sobre la misma.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "medida cautelar"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-18_S0656_E22-0107.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319319-0656-18822-2022-22-0107.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.205131"
+}

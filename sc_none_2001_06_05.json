@@ -1,0 +1,18 @@
+{
+  "id": 2475,
+  "numero": null,
+  "fecha": "2001-06-05",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "NO TIENE COMPETENCIA",
+  "ponente": "ANTONIO GARCÍA GARCÍA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara que no tiene competencia para conocer del desistimiento de la acción de nulidad interpuesta por el Fiscal General de la República contra el Decreto Nº 319 y otros actos relacionados. Se establece que la competencia corresponde a la Sala Político-Administrativa, dado que se trata de actos de efectos generales emanados del Ejecutivo Nacional. La decisión se fundamenta en la distinción entre la jurisdicción constitucional y la contencioso-administrativa según lo estipulado en la Constitución.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la competencia en acción de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-06-05_PoliticoAdmin_00_GarciaEl.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.458878"
+}

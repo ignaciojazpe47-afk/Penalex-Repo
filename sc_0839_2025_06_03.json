@@ -1,0 +1,22 @@
+{
+  "id": 20130,
+  "numero": "0839",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por Carlos Rafael Colina Martínez y Juan Manuel Cordero Quintero, quienes alegaron violaciones a sus derechos constitucionales por la inacción del juez Leonardo Herrera. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que había cesado la violación de derechos al emitirse un auto de subsanación por parte del juez. La Sala Constitucional, tras revisar el caso, determinó que el recurso de apelación era extemporáneo y confirmó la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0839_E25-0346.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344409-0839-3625-2025-25-0346.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.305934"
+}

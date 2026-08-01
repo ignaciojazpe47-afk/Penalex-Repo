@@ -1,0 +1,25 @@
+{
+  "id": 34182,
+  "numero": "1290",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional presentada por el abogado David José Páez Martínez en nombre de su defendida, Sonia Cermeño de Soyano, alegando violaciones a sus derechos al debido proceso. La solicitud fue interpuesta vía correo electrónico, pero no fue ratificada dentro del plazo establecido por la ley, lo que llevó a la Sala a declarar la acción inadmisible. La decisión enfatiza la importancia de la ratificación personal de la solicitud para su validez.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "internet",
+    "ratificación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1290_E21-0719.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328494-1290-15823-2023-21-0719.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.852901"
+}

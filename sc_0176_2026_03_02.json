@@ -1,0 +1,23 @@
+{
+  "id": 16191,
+  "numero": "0176",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Evelyn Feijoo Edel contra la sentencia del Juzgado Superior Quinto que declaró con lugar un recurso de apelación y revocó una decisión anterior sobre un divorcio. La Sala determinó que el Juzgado incurrió en vicios de inmotivación y falta de jurisdicción, pero finalmente declaró que no había lugar a la solicitud de revisión, argumentando que la sentencia no contradecía la jurisprudencia establecida y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "divorcio",
+    "jurisdicción",
+    "inmotivación"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0176_E26-0041.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353172-0176-2326-2026-26-0041.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.598765"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33198,
+  "numero": "1701",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 1° de diciembre de 2023, declaró sin lugar el recurso de apelación interpuesto por la abogada Lilia Camejo Gutiérrez en representación de los ciudadanos Carlos Arturo Rosario Pimentel y Eliant Felipe César Caraballo. La apelación se fundamentó en la inadmisibilidad de la acción de amparo constitucional dictada el 17 de agosto de 2020 por la Sala Especial Dos de la Corte de Apelaciones, que consideró que hubo una inepta acumulación de pretensiones al cuestionar actuaciones de diferentes órganos del sistema de justicia.\n\nLa Sala Constitucional reafirmó su competencia para conocer del recurso y confirmó la decisión de la Corte de Apelaciones, argumentando que la acción de amparo no era procedente debido a la falta de conexión entre las pretensiones planteadas. Se destacó que la acumulación de pretensiones en un mismo libelo no es válida cuando estas son incompatibles o corresponden a distintos tribunales.\n\nFinalmente, se ordenó la remisión del expediente a la Sala Especial Dos de la Corte de Apelaciones para su cumplimiento, reafirmando el respeto a los derechos constitucionales y el debido proceso en el marco de la justicia venezolana.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "inadmision",
+    "proceso"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1701_E20-0306.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330945-1701-11223-2023-20-0306.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.170280"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 29720,
+  "numero": "0252",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "DRA. MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Jairo Lara Pacheco contra una sentencia de amparo constitucional. La Sala declaró competente para conocer el recurso y, tras analizar la admisibilidad, decidió que la acción de amparo era inadmisible por no haberse agotado las vías ordinarias. Finalmente, se confirmó la decisión del Juzgado Superior que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "inadmision",
+    "jurisdicción",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0252_E18-0257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324339-0252-11423-2023-18-0257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.045240"
+}

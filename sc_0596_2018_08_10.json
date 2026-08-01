@@ -1,0 +1,22 @@
+{
+  "id": 48200,
+  "numero": "0596",
+  "fecha": "2018-08-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de EGLEN ENIR LAYA GONZÁLEZ contra la sentencia N° 1600 del Juzgado Superior Agrario. Se argumenta que la representación de la demandante no fue debidamente acreditada, ya que los abogados solo contaban con un poder apud acta que no les permitía actuar en este juicio. La Sala resalta la importancia de la legitimidad y representación en los procesos de amparo, y concluye que la falta de un poder adecuado impide la admisión de la demanda.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "due process",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-10_S0596_E18-0109.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/301001-0596-10818-2018-18-0109.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:11.677734"
+}

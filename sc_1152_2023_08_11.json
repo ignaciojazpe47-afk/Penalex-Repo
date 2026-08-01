@@ -1,0 +1,25 @@
+{
+  "id": 34044,
+  "numero": "1152",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de una acción de amparo constitucional interpuesta por la Sociedad Mercantil Consorcio SMT Silva C.A. contra una decisión del Tribunal Superior en lo Civil. La Sala aceptó la declinatoria de competencia del Tribunal Superior y, tras analizar las actas procesales, declaró inadmisible la acción de amparo por falta de consignación de documentos indispensables para su admisibilidad.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "embargo",
+    "derechos",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1152_E20-0435.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328309-1152-11823-2023-20-0435.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.328166"
+}

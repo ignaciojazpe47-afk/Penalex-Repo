@@ -1,0 +1,22 @@
+{
+  "id": 27985,
+  "numero": "1098",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Samuel Rendiles Oliveros en contra de decisiones de la Corte de Apelaciones y del Juzgado Primero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Zulia. Se argumentó que el debido proceso fue vulnerado en el marco de un proceso penal por abuso sexual. La Sala constató que la solicitud de amparo no cumplía con los requisitos necesarios, ya que no se especificaron de manera clara los hechos que presuntamente vulneraban derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "vulneración de derechos"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1098_E23-1131.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339622-1098-271124-2024-23-1131.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.490358"
+}

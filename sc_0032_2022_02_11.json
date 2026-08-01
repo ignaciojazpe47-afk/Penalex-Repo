@@ -1,0 +1,25 @@
+{
+  "id": 34352,
+  "numero": "0032",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Franklin Eduardo Labana Pineda, quien impugnó la decisión del Juzgado Nacional Segundo de lo Contencioso Administrativo que declaró sin lugar su apelación. La Sala determinó que no hubo violación de derechos constitucionales y que el juzgador actuó conforme a derecho al desestimar los vicios alegados por el solicitante, confirmando así la sentencia apelada. Finalmente, se declaró que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "inmotivacion",
+    "silencio_de_pruebas",
+    "derecho_a_la_defensa",
+    "sancion",
+    "administracion_publica"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia N° 2019-00277",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0032_E20-0166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315544-0032-11222-2022-20-0166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.714192"
+}

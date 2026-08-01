@@ -1,0 +1,26 @@
+{
+  "id": 18438,
+  "numero": "0132",
+  "fecha": "2024-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Procedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria y ampliación de la sentencia N° 1401, presentada por la abogada Aurora Micaela Ojeda Hernández en representación de la ciudadana Celeste Marbila Aldana Vegas. La solicitud fue considerada parcialmente procedente, y se ordenó corregir el nombre del juez mencionado en el fallo original. La Sala determinó que la aclaratoria no puede modificar la decisión de fondo, sino que busca aclarar aspectos de la sentencia ya emitida.",
+  "palabras_clave": [
+    "arbitrariedad",
+    "experticias",
+    "poder judicial",
+    "due process",
+    "protección de niños",
+    "legitimidad",
+    "derechos humanos"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria y ampliación de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0132_E22-0541.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341537-0132-13225-2025-22-541.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.815457"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 40502,
+  "numero": "0688",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió una acción de amparo constitucional presentada por Guillermo Federico Morales Alarcón en representación de la Asociación Civil de Jubilados, Pensionados y Sobrevivientes CANTV-MOVILNET del Estado Monagas. La Sala, tras revisar el expediente, determinó que la pretensión no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en cuanto a la identificación del presunto agraviante y la descripción clara de los hechos que motivan la solicitud de amparo.\n\nComo resultado, la Sala ordenó al abogado que subsanara el escrito libelar en un plazo de tres días, advirtiendo que de no hacerlo, su pretensión sería declarada inadmisible. La decisión fue firmada por la Presidenta de la Sala, Lourdes Benicia Suárez Anderson, y otros magistrados, en Caracas, el 26 de noviembre de 2021.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "asociaciones civiles",
+    "procedimiento",
+    "jurisdicción",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0688_E19-0723.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314764-0688-261121-2021-19-0723.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.506727"
+}

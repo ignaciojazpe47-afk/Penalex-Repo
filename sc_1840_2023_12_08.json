@@ -1,0 +1,22 @@
+{
+  "id": 33506,
+  "numero": "1840",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Miguel Enrique Azuaje Terán en representación de María Franceliza Quintero, contra una sentencia de la Sala de Casación Civil. La inadmisibilidad se fundamenta en la falta de acreditación de la representación legal y en la ausencia de documentos necesarios para la verificación de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1840_E23-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331375-1840-81223-2023-23-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.471630"
+}

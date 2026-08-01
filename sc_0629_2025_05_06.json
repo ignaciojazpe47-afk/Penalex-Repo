@@ -1,0 +1,26 @@
+{
+  "id": 19646,
+  "numero": "0629",
+  "fecha": "2025-05-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Manuel Alberto Martín Gómez Cardona en representación de Dinis Diogo Correia, en relación a una sentencia del Juzgado Superior Cuarto que declaró inadmisible un amparo constitucional. La Sala determinó que el abogado no presentó los documentos necesarios para verificar su legitimidad y representación, lo que llevó a declarar inadmisible la solicitud de revisión. Finalmente, se reafirmó la decisión del tribunal inferior y se declaró competente para conocer del asunto.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "debido proceso",
+    "inadmision",
+    "jurisprudencia",
+    "recursos ordinarios",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-06_S0629_E24-0516.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343565-0629-6525-2025-24-0516.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.738055"
+}

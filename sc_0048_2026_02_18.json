@@ -1,0 +1,26 @@
+{
+  "id": 17532,
+  "numero": "0048",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la solicitud de revisión constitucional interpuesta por Manyore Elizabeth Lugo González, anulando la sentencia del Tribunal Superior que declaró perecido el recurso de apelación. Se argumenta que la falta de notificación sobre el abocamiento de un nuevo juez y la paralización del proceso vulneraron el derecho a la defensa y la tutela judicial efectiva. Se ordena la reposición de la causa al estado en que se efectúe la debida notificación de las partes y se exhorta a privilegiar el uso de tecnologías para garantizar el acceso a la justicia.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "notificación",
+    "apelación",
+    "formalismo",
+    "protección de niños",
+    "inhibición",
+    "paralización"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia de responsabilidad de crianza",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0048_E22-0571.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352728-0048-18226-2026-22-0571.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.063243"
+}

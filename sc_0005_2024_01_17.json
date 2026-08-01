@@ -1,0 +1,22 @@
+{
+  "id": 24058,
+  "numero": "0005",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Verónica Anes, en representación de Ruth Carolina Rodríguez Sánchez, contra la decisión del Juzgado Superior Undécimo que declaró inadmisible la acción de amparo. La Sala consideró que la omisión de pronunciamiento por parte del Juzgado de Primera Instancia vulneró los derechos constitucionales de la parte accionante, por lo que se revocó la sentencia apelada. Se ordenó al Juzgado Superior que emita un nuevo pronunciamiento sobre la admisión de la acción de amparo, excluyendo la causal de inadmisibilidad previamente alegada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0005_E22-1063.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332357-0005-5224-2024-22-1063.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.839357"
+}

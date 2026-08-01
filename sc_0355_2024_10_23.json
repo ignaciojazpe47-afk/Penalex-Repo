@@ -1,0 +1,22 @@
+{
+  "id": 26754,
+  "numero": "0355",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La abogada María Fernanda Andara Lorca, en representación de la empresa Productos Efe, S.A., solicitó la revisión de la decisión N° 330 del 2 de agosto de 2023, dictada por la Sala de Casación Social, que declaró sin lugar el recurso de casación interpuesto por la empresa. La Sala Constitucional, tras analizar la solicitud, determinó que no se presentaron las copias certificadas de la sentencia objeto de revisión, lo que llevó a declarar inadmisible la solicitud de revisión constitucional. La decisión se fundamenta en la falta de documentación necesaria para verificar la admisibilidad de la pretensión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indefensión",
+    "Sala de Casación Social"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0355_E23-1006.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338036-0355-231024-2024-23-1006.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.328566"
+}

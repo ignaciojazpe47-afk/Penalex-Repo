@@ -1,0 +1,25 @@
+{
+  "id": 34002,
+  "numero": "1119",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "PÉRDIDA DEL INTERÉS Y EXTINCIÓN DEL PROCESO",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la demanda de protección de derechos e intereses difusos presentada por Gabriel Mikael Oliveros Díaz contra el Estado venezolano. Sin embargo, se determina la pérdida del interés y la extinción del proceso debido a la falta de actuación por parte del demandante desde 2018. La Sala concluye que no es necesario pronunciarse sobre el amparo cautelar solicitado.",
+  "palabras_clave": [
+    "interés procesal",
+    "extinción de proceso",
+    "derechos colectivos",
+    "perención",
+    "acción de amparo",
+    "falta de actuación"
+  ],
+  "titulo": "Sentencia sobre la pérdida de interés en demanda de protección de derechos e intereses difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1119_E16-1156.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328265-1119-11823-2023-16-1156.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.331284"
+}

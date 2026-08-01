@@ -1,0 +1,22 @@
+{
+  "id": 39559,
+  "numero": "0429",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La ciudadana Jailuz de Nazareth Isea Mogollón presentó una demanda de hábeas data debido a la usurpación de su identidad, lo que le ha causado múltiples problemas legales y personales. La Sala Constitucional del TSJ, tras revisar el caso, determinó que no era competente para conocer la demanda, ya que corresponde a un Tribunal de Municipio de la Circunscripción Judicial del Estado Zulia. La decisión se basa en la normativa vigente que regula las demandas de hábeas data.",
+  "palabras_clave": [
+    "hábeas data",
+    "usurpación de identidad",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre demanda de hábeas data de Jailuz de Nazareth Isea Mogollón",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0429_E19-0409.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313396-0429-16921-2021-19-0409.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.626451"
+}

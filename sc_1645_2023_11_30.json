@@ -1,0 +1,22 @@
+{
+  "id": 33137,
+  "numero": "1645",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 30 de noviembre de 2023, declaró con lugar el recurso de apelación interpuesto por el abogado Yhonny Keifran Meza, actuando como defensor privado del ciudadano Alberto Piero Italiano Narváez. La decisión de la Sala 2 de la Corte de Apelaciones, que había declarado inadmisible la acción de amparo constitucional, fue revocada, considerando que la acción de amparo no era inadmisible sino improcedente por no cumplir con los requisitos establecidos en la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1645_E22-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330813-1645-301123-2023-22-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.974303"
+}

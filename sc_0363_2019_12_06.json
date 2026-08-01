@@ -1,0 +1,25 @@
+{
+  "id": 44467,
+  "numero": "0363",
+  "fecha": "2019-12-06",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Alirio Madrid Cáceres en representación de Manuel Augusto Nunes Rodríguez, contra la decisión de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La Sala fundamenta su decisión en la falta de violaciones a los derechos constitucionales del demandante y en la correcta actuación del Ministerio Público en el proceso penal seguido por delitos de violencia contra la mujer.\n\nSe destaca que el demandante había sido debidamente notificado de las actuaciones en su contra y que no se encontraron omisiones que afectaran su derecho a la defensa. La Sala también menciona que la eventual nulidad de la acusación no resultaría procedente, ya que no se evidenció vulneración de derechos fundamentales en el proceso.\n\nFinalmente, se resalta que la decisión de la Corte de Apelaciones se ajustó a derecho y no causó un gravamen irreparable al demandante, por lo que se confirma la decisión apelada.",
+  "palabras_clave": [
+    "medida cautelar",
+    "proceso penal",
+    "derechos humanos",
+    "libertad",
+    "justicia",
+    "violencia de género"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0363_E17-0130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308165-0363-191119-2019-17-0130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.810551"
+}

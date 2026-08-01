@@ -1,0 +1,23 @@
+{
+  "id": 19996,
+  "numero": "0796",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los defensores de los ciudadanos Juan Carlos Scarpone Rante y Antonio Lema Santos, en relación a un auto de apertura a juicio dictado por el Tribunal Sexto de Primera Instancia. La Sala declaró con lugar la apelación, revocando la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. Se destacó la falta de motivación en el auto de apertura a juicio, lo que vulneraba los derechos a la defensa y al debido proceso de los imputados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apertura a juicio",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de apertura a juicio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0796_E24-0429.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344274-0796-28525-2025-24-0429.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.850398"
+}

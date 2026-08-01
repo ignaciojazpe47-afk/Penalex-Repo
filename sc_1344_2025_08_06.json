@@ -1,0 +1,27 @@
+{
+  "id": 21484,
+  "numero": "1344",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, se ANULA la totalidad del procedimiento, la sentencia del Juzgado Superior Cuarto en lo Civil y Contencioso Administrativo de la Región Capital proferida el 12 de agosto de 2015 y el fallo del 26 de abril de 2016, y se REPONE la causa al estado de que un Juzgado Superior de lo Contencioso Tributario emita pronunciamiento sobre la admisión del recurso contencioso tributario de nulidad interpuesto.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del Juzgado Superior Cuarto que había declarado parcialmente con lugar un recurso contencioso administrativo de nulidad. La revisión se solicitó por el Municipio El Hatillo, argumentando que el juzgado carecía de competencia para decidir sobre el acto administrativo impugnado. La Sala declaró ha lugar la revisión, anulando la sentencia y el procedimiento, y reponiendo la causa a un Juzgado Superior de lo Contencioso Tributario para que emita pronunciamiento sobre la admisión del recurso de nulidad interpuesto por la sociedad mercantil demandante. La decisión se fundamenta en la vulneración del derecho a ser juzgado por el juez natural y el debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "competencia",
+    "actos administrativos",
+    "jurisdicción contencioso tributaria",
+    "sanciones",
+    "licencias",
+    "principio del juez natural"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia del Juzgado Superior Cuarto en lo Civil y Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1344_E17-1169.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347006-1344-6825-2025-17-1169.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.760888"
+}

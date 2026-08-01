@@ -1,0 +1,26 @@
+{
+  "id": 39143,
+  "numero": "0345",
+  "fecha": "2021-07-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO TIENE COMPETENCIA",
+  "ponente": "CALIXTO ANTONIO ORTEGA RÍOS",
+  "resumen": "El ciudadano IOMAR ALBERTO CARREÑO LÓPEZ interpuso una acción de amparo constitucional contra la Comisión Electoral Ad Hoc por supuestas violaciones a sus derechos políticos. La Sala Constitucional, tras analizar el caso, determinó que no tiene competencia para conocer del amparo, ya que la pretensión no se ajusta a las atribuciones de esta Sala.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "elecciones",
+    "Caja de Ahorro",
+    "Poder Electoral",
+    "Sala Electoral",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre la falta de competencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-30_S0345_E21-0387.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312799-0345-30721-2021-21-0387.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.754901"
+}

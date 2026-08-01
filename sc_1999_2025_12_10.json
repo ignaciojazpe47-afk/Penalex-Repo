@@ -1,0 +1,26 @@
+{
+  "id": 23719,
+  "numero": "1999",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "ADMITE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite la solicitud de avocamiento presentada por las sociedades mercantiles ALMACENADORA INVERSIONES 2006, C.A. y TMV ALMACENADORA, C.A., en relación a varios expedientes que se encuentran en curso ante tribunales de la República. Se argumenta la existencia de un presunto fraude procesal que afecta patrimonialmente a las empresas solicitantes, lo que justifica la intervención del Tribunal Supremo para evitar la consumación de dicho fraude.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "justicia",
+    "proceso",
+    "derechos",
+    "interés público",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1999_E25-1311.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351733-1999-101225-2025-25-1311.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.745937"
+}

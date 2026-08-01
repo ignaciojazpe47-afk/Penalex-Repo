@@ -1,0 +1,24 @@
+{
+  "id": 16005,
+  "numero": "0526",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La abogada Magaly Morales solicitó la revisión constitucional de una sentencia dictada por la Sala de Casación Civil, la cual fue declarada sin lugar. La Sala Constitucional, al estudiar el expediente, determinó que la abogada no presentó el poder que acreditara su representación, lo que constituye un requisito esencial para la admisión de la solicitud. Por lo tanto, se declaró la inadmisibilidad de la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0526_E25-1260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355514-0526-13526-2026-25-1260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.906966"
+}

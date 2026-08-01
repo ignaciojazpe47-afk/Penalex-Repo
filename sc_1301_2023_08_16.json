@@ -1,0 +1,25 @@
+{
+  "id": 34193,
+  "numero": "1301",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de amparo constitucional interpuesta por la abogada Alida Martínez en representación de Ibrahim Jesús León Pinto. La solicitud fue presentada contra la sentencia de la Sala Ocho de la Corte de Apelaciones, que había declarado con lugar un recurso de apelación y anulado la sentencia de absolución del tribunal de primera instancia. La Sala Constitucional determinó que la solicitud era improcedente in limine litis, ya que no se cumplían los requisitos necesarios para su admisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "valor probatorio",
+    "decisión judicial",
+    "pruebas",
+    "Corte de Apelaciones",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1301_E22-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328505-1301-16823-2023-22-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.230251"
+}

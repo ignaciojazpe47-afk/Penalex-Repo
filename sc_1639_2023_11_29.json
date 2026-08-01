@@ -1,0 +1,26 @@
+{
+  "id": 33130,
+  "numero": "1639",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación contra una sentencia que declaró inadmisible una acción de amparo. El apelante argumentó que la decisión del Juzgado Primero de Primera Instancia violó el debido proceso al no considerar la citación de herederos desconocidos. Sin embargo, la Sala concluyó que el apelante no agotó la vía ordinaria y que la acción de amparo era inadmisible. Finalmente, se declaró sin lugar el recurso de apelación y se confirmó la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "sentencia",
+    "tribunal",
+    "eficacia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1639_E23-0604.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330806-1639-291123-2023-23-0604.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.987672"
+}

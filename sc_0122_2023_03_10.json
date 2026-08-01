@@ -1,0 +1,25 @@
+{
+  "id": 29124,
+  "numero": "0122",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologa el desistimiento",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de marzo de 2023, homologó el desistimiento presentado por el abogado Boris Faderpower, apoderado del Instituto Universitario de Tecnología Antonio José de Sucre, respecto a la revisión de una sentencia dictada el 6 de junio de 2022. Esta sentencia había declarado sin lugar la apelación interpuesta por el instituto contra un fallo que ordenaba la entrega de títulos universitarios a estudiantes de la LVII promoción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "usurpación de funciones",
+    "servicios públicos",
+    "tarifas",
+    "jurisdicción"
+  ],
+  "titulo": "Homologación de desistimiento en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0122_E22-0463.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323290-0122-10323-2023-22-0463.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.335524"
+}

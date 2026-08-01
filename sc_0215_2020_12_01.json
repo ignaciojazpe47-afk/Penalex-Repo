@@ -1,0 +1,26 @@
+{
+  "id": 41789,
+  "numero": "0215",
+  "fecha": "2020-12-01",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por Ayman Alkassim contra la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Zulia, que declaró inadmisible su acción de amparo constitucional. La Sala concluyó que el recurso de revisión no era procedente, ya que no se evidenció la existencia de infracciones constitucionales que justificaran la revisión de la sentencia. Además, se determinó que el amparo sobrevenido no era aplicable en este caso, dado que el solicitante no había agotado las vías ordinarias de impugnación y que la decisión cuestionada no se subsumía en los supuestos de procedencia de revisión constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "ejecución",
+    "sentencias",
+    "tutela judicial",
+    "derechos",
+    "garantías",
+    "jurisdicción"
+  ],
+  "titulo": "Revisión constitucional de sentencia de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-01_S0215_E17-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310839-0215-11220-2020-17-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.403789"
+}

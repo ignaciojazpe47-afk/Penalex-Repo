@@ -1,0 +1,26 @@
+{
+  "id": 31567,
+  "numero": "0962",
+  "fecha": "2023-07-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Juan Miguel Aponte Moreno en representación de Dasviel Nohemi Aponte Moreno y Ángela María Moreno de Aponte. La inadmisibilidad se fundamenta en la inepta acumulación de pretensiones, ya que se formularon denuncias contra varios funcionarios públicos que no pueden ser tramitadas de manera conjunta debido a la diversidad de agraviantes y la falta de competencia de la Sala para conocer todas las pretensiones. La decisión se basa en la normativa aplicable y en criterios jurisprudenciales establecidos por el Tribunal.",
+  "palabras_clave": [
+    "violencia de género",
+    "derechos humanos",
+    "hostigamiento",
+    "discapacidad",
+    "funcionarios públicos",
+    "justicia",
+    "mujeres"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-21_S0962_E23-0410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327407-0962-21723-2023-23-0410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.200547"
+}

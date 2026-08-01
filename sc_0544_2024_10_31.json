@@ -1,0 +1,27 @@
+{
+  "id": 27113,
+  "numero": "0544",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Pedro Miguel Guédez López en representación de Rubén Manzur Pacheco, en contra de la decisión N° 74 de la Sala de Casación Penal. La solicitud se fundamentó en la alegación de quebrantamiento del derecho al acceso a la justicia y a la tutela judicial efectiva, así como en desórdenes procesales en el caso penal correspondiente. Sin embargo, se determinó que el solicitante no cumplió con la carga procesal de presentar la copia certificada de la sentencia cuya revisión se solicitaba, lo que llevó a la inadmisión de la solicitud.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "carga procesal",
+    "documentos",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "sentencia",
+    "veracidad",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0544_E23-1070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338497-0544-311024-2024-23-1070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.311701"
+}

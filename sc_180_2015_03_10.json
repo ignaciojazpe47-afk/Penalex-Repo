@@ -1,0 +1,24 @@
+{
+  "id": 62408,
+  "numero": "180",
+  "fecha": "2015-03-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Silvia Nora Azuaje Araujo y Eduardo Parilli Wilhelm, quienes alegaron violaciones a su derecho a la defensa y a la confianza legítima en relación a una inspección judicial realizada el 7 de octubre de 2014. La Sala declaró improcedente la acción de amparo, argumentando que la evacuación de la prueba se realizó dentro del marco legal y que no se probó la existencia del uso procesal alegado por los demandantes, que requería el anuncio del acto en la sede del tribunal antes de su práctica.\n\nLa decisión también abordó la habilitación del tiempo necesario para la práctica de la inspección judicial en un día declarado como inhábil, concluyendo que tal actuación no contraviene el ordenamiento jurídico. La Sala reafirmó que la evacuación de la prueba se realizó con el debido conocimiento de las partes, garantizando su derecho a controlar la prueba, y que no existió violación a los derechos constitucionales alegados por los recurrentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inspección judicial",
+    "derecho a la defensa",
+    "confianza legítima",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-10_S180_E14-1271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175162-180-10315-2015-14-1271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.127182"
+}

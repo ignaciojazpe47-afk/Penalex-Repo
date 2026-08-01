@@ -1,0 +1,24 @@
+{
+  "id": 64009,
+  "numero": "633",
+  "fecha": "2015-05-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del TSJ revisó la solicitud de revisión de la sentencia número 720 dictada por la Sala de Casación Civil, que declaró perecido un recurso de casación. El abogado del solicitante argumentó que la decisión vulneró derechos fundamentales como el acceso a la justicia y el debido proceso, al no considerar un poder que ya estaba en el expediente. La Sala Constitucional determinó que la Sala de Casación Civil no realizó una revisión exhaustiva y que la falta de poder no debía haber llevado a la declaración de perecimiento del recurso.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "derechos",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de casación declarada perecida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-05-20_S633_E15-0130.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/177571-633-20515-2015-15-0130.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:33.790719"
+}

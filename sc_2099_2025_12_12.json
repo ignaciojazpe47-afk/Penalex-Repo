@@ -1,0 +1,26 @@
+{
+  "id": 23879,
+  "numero": "2099",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Julio José Carrero Jiménez en representación de Wuilfredo Xavier Ayala Castillo, contra la decisión de la Sala Segunda de la Corte de Apelaciones del Estado Zulia. La decisión impugnada había declarado sin lugar el recurso de apelación interpuesto por la defensa, confirmando la decisión del Juzgado Segundo de Primera Instancia en lo Penal en Funciones de Control, que había impuesto medidas cautelares contra el demandante por el delito de extorsión.\n\nLa Sala Constitucional concluyó que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la ley, ya que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró los derechos constitucionales alegados por la parte accionante. Se destacó que la calificación jurídica de los hechos es provisional y puede ser modificada en la fase de investigación, lo que no justifica la apertura de un amparo en este caso.\n\nFinalmente, se ordenó la publicación y registro de la sentencia, así como el archivo del expediente, reafirmando la competencia de la Sala para conocer de este tipo de acciones de amparo constitucional.",
+  "palabras_clave": [
+    "aprehensión",
+    "flagrancia",
+    "derechos constitucionales",
+    "acción de amparo",
+    "libertad personal",
+    "jurisprudencia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2099_E25-1128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351926-2099-121225-2025-25-1128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.078167"
+}

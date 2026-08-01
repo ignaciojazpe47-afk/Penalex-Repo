@@ -1,0 +1,22 @@
+{
+  "id": 17578,
+  "numero": "0139",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional revisa una solicitud de revisión de un fallo emitido por el Juzgado Superior Octavo que declaró con lugar una demanda de cumplimiento de contrato. La parte solicitante argumenta que el fallo infringe el derecho a la defensa y la capacidad de postulación, ya que el demandante no contaba con la representación legal adecuada. La Sala se declara competente para conocer la solicitud y ordena la remisión del expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0139_E26-0124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353129-0139-2326-2026-26-0124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.382110"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23070,
+  "numero": "1838",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de marzo de 2025, declaró sin lugar la acción de amparo constitucional interpuesta por Jorge Alexander Contreras contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida, dictada el 7 de marzo de 2025. La Sala consideró que la causa principal ya había sido sobreseída, y que el tribunal no había actuado fuera de la ley al fijar audiencias para decidir sobre la entrega del vehículo en cuestión.\n\nSe determinó que la falta de actuación del demandante durante seis meses constituyó abandono del trámite, lo que llevó a la Sala a declarar terminado el procedimiento. Además, se impuso una multa de dos mil bolívares a la parte actora por la inactividad en el proceso. La decisión se fundamentó en la necesidad de mantener el interés en la resolución de la causa y evitar la congestión del sistema judicial.\n\nFinalmente, se ordenó notificar a la parte accionante sobre el contenido de la decisión, que fue firmada por el magistrado ponente y otros magistrados de la Sala Constitucional.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derechos_humanos",
+    "tutela_judicial",
+    "inmunidad_judicial",
+    "irregularidades",
+    "documento_privado",
+    "aprecio_de_pruebas",
+    "extorsión"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Jorge Alexander Contreras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1838_E25-0300.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349962-1838-181125-2025-25-0300.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.729560"
+}

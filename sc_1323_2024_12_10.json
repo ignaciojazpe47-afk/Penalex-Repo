@@ -1,0 +1,26 @@
+{
+  "id": 28381,
+  "numero": "1323",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR a la solicitud de revisión.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 0427, declara no ha lugar a la solicitud de revisión interpuesta por los abogados de Aiskelyn Ivanessa Castillo Requena, contra la decisión de la Sala de Casación Penal que desestimó el recurso de casación. La Sala argumenta que la revisión no puede ser utilizada como un medio ordinario de impugnación y que el solicitante no cumplió con los requisitos de fundamentación exigidos por la ley para la casación. Se enfatiza que la revisión no busca resguardar derechos subjetivos, sino contribuir a la uniformidad en la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "injusticia",
+    "arbitrariedad",
+    "calificación jurídica",
+    "Ley Orgánica de Drogas",
+    "Ley Orgánica Contra la Delincuencia Organizada",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1323_E24-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340337-1323-101224-2024-24-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.211351"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 37141,
+  "numero": "0891",
+  "fecha": "2022-11-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la abogada Lilia Camejo Gutiérrez en representación del Teniente de Fragata Elías José Noriega Manrique, quien enfrenta acusaciones en el Tribunal Militar Primero de Control de Caracas. La solicitud fue inadmisible debido a la falta de poder que acreditara a la abogada como representante del demandado. La Sala declaró su competencia para conocer la solicitud, pero al no cumplirse con los requisitos legales, se decidió no admitirla.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "avocamiento",
+    "Corte Marcial",
+    "retardo procesal",
+    "medida cautelar",
+    "violaciones constitucionales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-02_S0891_E21-0640.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320493-0891-21122-2022-21-0640.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.416948"
+}

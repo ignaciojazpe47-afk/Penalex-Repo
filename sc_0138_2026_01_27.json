@@ -1,0 +1,26 @@
+{
+  "id": 17577,
+  "numero": "0138",
+  "fecha": "2026-01-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por María Beatriz Isabel Centeno de Montoya contra una sentencia del Juzgado Octavo de Municipio. La Sala determina que la revisión de la sentencia debe ser realizada por los Juzgados de Primera Instancia en lo Civil de la misma Circunscripción Judicial, dado que el Juzgado de Municipio no tiene un superior jerárquico ordinario que pueda conocer el caso.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "jurisprudencia",
+    "constitucional",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0138_E25-1495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353128-0138-2326-2026-25-1495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.073264"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 68013,
+  "numero": "1580",
+  "fecha": "2015-12-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los ciudadanos José Duerto y Domingo Vargas, en representación del Sindicato Único de Trabajadores de La Prensa de Guayana, contra una sentencia del Tribunal Superior Civil que negó la facultad a la administradora ad hoc de discutir y aprobar una convención colectiva. La Sala argumenta que la acción es inadmisible porque la violación de derechos denunciada ya ha cesado, dado que se concretó la convención colectiva entre las partes. Además, se destaca la importancia de la negociación colectiva y los derechos laborales en el contexto de la situación de los trabajadores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "convención colectiva",
+    "derechos laborales",
+    "sindicato",
+    "Estado Bolívar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por el Sindicato Único de Trabajadores de La Prensa de Guayana",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1580_E14-0982.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183710-1580-101215-2015-14-0982.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.596599"
+}

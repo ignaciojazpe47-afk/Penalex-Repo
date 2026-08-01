@@ -1,0 +1,26 @@
+{
+  "id": 31039,
+  "numero": "0822",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Pérdida del interés procesal y el abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción popular de inconstitucionalidad con solicitud de amparo cautelar para garantizar el derecho al libre reingreso al territorio nacional de ciudadanos venezolanos. La acción fue interpuesta el 17 de junio de 2020, pero la parte actora no continuó con el proceso, lo que llevó a la Sala a declarar la pérdida del interés procesal y el abandono del trámite. Finalmente, se declaró la competencia de la Sala para conocer de la demanda, pero se desestimó la acción por falta de interés de la parte actora.",
+  "palabras_clave": [
+    "competencia",
+    "interés procesal",
+    "perención",
+    "derechos colectivos",
+    "acción de protección",
+    "inadmisibilidad",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción popular de inconstitucionalidad y amparo cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0822_E20-0226.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326478-0822-26623-2023-20-0226.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.554325"
+}

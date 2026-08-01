@@ -1,0 +1,24 @@
+{
+  "id": 33728,
+  "numero": "1875",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de diciembre de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por Luis Enrique Nouel Díaz, en relación a la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito de Aragua, que había confirmado el desalojo de un inmueble. El recurrente alegó violaciones al debido proceso y a su derecho a la defensa, argumentando que el procedimiento seguido fue erróneo y que no se consideraron adecuadamente sus alegaciones sobre la naturaleza del arrendamiento.\n\nLa Sala, tras analizar los argumentos, concluyó que no se evidenció ninguna violación a los derechos constitucionales alegados, ya que el procedimiento breve aplicado era el correcto para este tipo de controversias arrendaticias. Se reafirmó que la revisión constitucional no debe ser entendida como una nueva instancia, sino como un mecanismo para garantizar la uniformidad en la interpretación de las normas constitucionales.\n\nFinalmente, se declaró que la solicitud de revisión no contribuyó a la correcta interpretación de las normas y se desestimó, manteniendo la decisión del tribunal inferior que ordenó el desalojo del inmueble en cuestión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "due process",
+    "arrendamiento",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1875_E22-0332.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331845-1875-111223-2023-22-0332.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.454105"
+}

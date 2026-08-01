@@ -1,0 +1,24 @@
+{
+  "id": 51430,
+  "numero": "256",
+  "fecha": "2017-02-24",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión de la Sala de Casación Civil que declaró sin lugar un recurso de casación interpuesto por el Grupo Telemático de Loterías GTL, S.A. La Sala Constitucional determinó que la decisión recurrida incurrió en vicios de incongruencia negativa al no pronunciarse sobre defensas alegadas por la parte demandada. Se argumentó que el demandante, Mario Antonio Ocanto Macías, había demostrado ser el poseedor del ticket ganador de un sorteo de lotería, el cual fue robado, lo que eximía de la obligación de presentar el ticket original para el cobro del premio. La Sala declaró con lugar la solicitud de revisión y anuló la sentencia de la Sala de Casación Civil, ordenando la reposición de la causa al estado de admisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cobro de lotería",
+    "ticket ganador",
+    "incongruencia negativa",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de decisión de la Sala de Casación Civil sobre cobro de lotería",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-05_S256_E14-1103.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198190-256-5517-2017-14-1103.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.276967"
+}

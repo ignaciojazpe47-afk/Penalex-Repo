@@ -1,0 +1,22 @@
+{
+  "id": 3351,
+  "numero": "224",
+  "fecha": "2006-11-27",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional revisó la sentencia de la Sala de Casación Civil que declaró sin lugar un recurso de casación interpuesto por Homero Edmundo Andrade Briceño, quien alegaba violaciones a sus derechos al debido proceso en un juicio de rendición de cuentas. La Sala Constitucional determinó que la decisión de la Sala de Casación Civil fue dictada bajo error judicial, ya que el procedimiento de rendición de cuentas debe seguir lo establecido en el Código de Procedimiento Civil, aplicable a sociedades mercantiles. En consecuencia, se anuló la sentencia de la Sala de Casación Civil en lo que respecta al procedimiento a seguir para la rendición de cuentas.",
+  "palabras_clave": [
+    "rendición de cuentas",
+    "derecho al debido proceso",
+    "error judicial"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Civil sobre rendición de cuentas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-11-27_CasacionCivil_06_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.128775"
+}

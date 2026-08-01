@@ -1,0 +1,27 @@
+{
+  "id": 16206,
+  "numero": "0130",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Gabi Hallak contra la sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui, que declaró inadmisible un recurso de casación por extemporaneidad. La decisión se fundamenta en que el recurso no fue presentado dentro del lapso legal establecido, lo que conlleva a la pérdida de la posibilidad de su ejercicio.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "jurisprudencia",
+    "proceso",
+    "constitucional",
+    "tutela"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Gabi Hallak",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0130_E25-0823.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353119-0130-2326-2026-25-0823.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.593220"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1742,
+  "numero": null,
+  "fecha": "2000-05-16",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "CON LUGAR",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "El caso se centra en la acción de amparo constitucional interpuesta por Omar José Rodríguez contra la decisión del Juzgado Primero de Primera Instancia del Trabajo del Estado Miranda, que revocó una sentencia anterior que ordenaba su reenganche y el pago de salarios caídos tras un despido injustificado. La Sala Constitucional del Tribunal Supremo de Justicia, al revisar el caso, determinó que la decisión del tribunal inferior había violado los derechos al debido proceso y a la defensa del demandante. Se argumentó que el tribunal no consideró adecuadamente las pruebas presentadas y que la oferta de pago realizada por el empleador no cumplía con los requisitos legales para dar por terminado el procedimiento de estabilidad laboral. La Sala, al declarar con lugar el amparo, revocó la decisión impugnada y ordenó la restitución de los derechos del trabajador.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Despido Injustificado",
+    "Derechos Laborales",
+    "Debido Proceso",
+    "Reenganche",
+    "Salarios Caídos",
+    "Corte Suprema",
+    "Estado Miranda"
+  ],
+  "titulo": "Amparo Constitucional por Despido Injustificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-05-16_CasacionCivil_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.737571"
+}

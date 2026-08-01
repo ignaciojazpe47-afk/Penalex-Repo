@@ -1,0 +1,25 @@
+{
+  "id": 36592,
+  "numero": "0674",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Jorge Luis Barrios Rojas, quien no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se observó que el accionante no corrigió su demanda conforme a lo ordenado en la sentencia N° 1001 del 23 de noviembre de 2016, lo que evidenció inconsistencias en sus alegatos y la falta de identificación de los derechos vulnerados.\n\nLa decisión se fundamenta en el artículo 19 de la Ley Orgánica de Amparo, que establece que si la solicitud no llena los requisitos exigidos, se notificará al solicitante para que corrija el defecto u omisión en un plazo de 48 horas. Al no haber cumplido con esta disposición, la Sala concluye que la acción de amparo debe ser declarada inadmisible.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, firmada por la Presidenta y la Vicepresidenta de la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmisibilidad",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0674_E16-0722.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319763-0674-141022-2022-16-0722.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.195384"
+}

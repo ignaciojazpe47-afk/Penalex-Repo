@@ -1,0 +1,25 @@
+{
+  "id": 26730,
+  "numero": "0330",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la solicitud de revisión constitucional presentada por el abogado Gerly Carvajal Urbaez en nombre de Antonio María Villarroel Méndez. Sin embargo, se declara inadmisible la solicitud debido a la falta de un poder suficiente que acredite la representación del solicitante, conforme a lo establecido en la legislación aplicable. La decisión se fundamenta en la naturaleza autónoma de la revisión constitucional, que no puede ser ejercida sin el debido poder otorgado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder apud acta",
+    "representación judicial",
+    "Código de Procedimiento Civil",
+    "acción de amparo",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0330_E17-0252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338012-0330-231024-2024-17-0252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.332953"
+}

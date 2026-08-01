@@ -1,0 +1,22 @@
+{
+  "id": 3101,
+  "numero": null,
+  "fecha": "2004-05-13",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico declaró con lugar el recurso de apelación del Ministerio Público, condenando al acusado Javier David Bolívar Rivas a doce años de presidio por homicidio. Posteriormente, la Defensora Tercera Pública Penal interpuso un recurso de casación, alegando infracciones en la aplicación de la ley y el debido proceso. La Sala de Casación Penal del TSJ, tras revisar el caso, decidió reponer la causa al estado de que se ordene la apertura del juicio oral y público.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "debido proceso"
+  ],
+  "titulo": "Recurso de casación en caso de homicidio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-05-13_CasacionPenal_C030428_PerezPerdomo.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.731336"
+}

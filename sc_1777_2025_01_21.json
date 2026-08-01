@@ -1,0 +1,26 @@
+{
+  "id": 22914,
+  "numero": "1777",
+  "fecha": "2025-01-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Antonio Luigi Di Martino contra la sentencia de la Corte de Apelaciones que confirmó su condena a tres años y seis meses de prisión por delitos de violencia de género. La Sala declaró improcedente la acción de amparo, argumentando que no se configuraron las transgresiones constitucionales alegadas y que la Corte de Apelaciones actuó dentro de su competencia y sin abuso de poder. Se destacó la importancia de proteger los derechos de las mujeres y la necesidad de considerar el contexto de la violencia de género en las decisiones judiciales.",
+  "palabras_clave": [
+    "violencia de género",
+    "debido proceso",
+    "sentencia",
+    "derechos de las mujeres",
+    "justicia",
+    "pruebas",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1777_E25-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349768-1777-121125-2025-25-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.807613"
+}

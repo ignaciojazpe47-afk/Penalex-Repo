@@ -1,0 +1,25 @@
+{
+  "id": 38041,
+  "numero": "1182",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Lucilda Katrich Núñez en representación de Onelys Homero Salas, debido a la falta de asistencia técnica y la ausencia de poder que acredite la representación. La Sala establece que la revisión se basa en la sentencia del 5 de febrero de 2018, dictada por el Tribunal Sexto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Bolivariano de Carabobo, que había declarado parcialmente con lugar la acción de amparo constitucional interpuesta por el solicitante.\n\nLa decisión se fundamenta en la falta de legitimidad y representación de la solicitante, quien actuó sin defensa técnica y no presentó los documentos necesarios para validar su actuación. La Sala reitera que es imperativo presentar el poder correspondiente para que la solicitud de revisión sea admitida, conforme a lo estipulado en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "legitimidad",
+    "representación",
+    "derechos humanos",
+    "proceso penal",
+    "defensa técnica"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1182_E19-0562.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322016-1182-141222-2022-19-0562.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.154218"
+}

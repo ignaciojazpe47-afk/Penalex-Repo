@@ -1,0 +1,23 @@
+{
+  "id": 32307,
+  "numero": "1454",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por los herederos de José Tomás Fernández Betancourt contra la sentencia dictada el 31 de julio de 2012 por el Juzgado Superior Agrario de Trujillo. En esta sentencia, se revocó la decisión anterior que había declarado sin lugar la acción posesoria interpuesta por Fernández Betancourt y se declaró con lugar la reconvención de acción posesoria por despojo presentada por los Barrios. La Sala consideró que existieron vicios procesales que afectaron la tramitación del juicio principal, lo que justificó la revisión de la sentencia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción posesoria",
+    "despojo",
+    "Trujillo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de acción posesoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1454_E23-0668.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329360-1454-161023-2023-23-0668.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.391717"
+}

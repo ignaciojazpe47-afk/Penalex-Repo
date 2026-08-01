@@ -1,0 +1,24 @@
+{
+  "id": 34129,
+  "numero": "1236",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Solicitar diligencias",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional recibió un escrito de revisión constitucional de una sentencia dictada por el Tribunal Superior en lo Civil, que había declarado parcialmente con lugar un recurso de apelación. La solicitante argumentó que la decisión violó principios de seguridad jurídica y confianza legítima. La Sala, tras revisar el expediente, determinó que la información presentada era insuficiente y solicitó al juzgado de origen que remitiera las actuaciones necesarias para continuar con el proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tribunales",
+    "procedimiento",
+    "sanciones",
+    "indemnización"
+  ],
+  "titulo": "Solicitud de revisión constitucional de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1236_E23-0230.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328441-1236-14823-2023-23-0230.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.868962"
+}

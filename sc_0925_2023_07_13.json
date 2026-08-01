@@ -1,0 +1,26 @@
+{
+  "id": 31249,
+  "numero": "0925",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar inadmisible la acción de amparo constitucional interpuesta por las ciudadanas Nora Smith de D’Elía y otras, contra la decisión del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que había declarado con lugar la causa de prescripción adquisitiva a favor de Zaida Marina Piña Crespo. La Sala argumentó que las infracciones denunciadas solo afectan a la esfera particular de los involucrados y no al orden público, lo que conlleva a la inadmisibilidad de la acción de amparo según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "prescripción adquisitiva",
+    "fraude procesal",
+    "dueño",
+    "inquilinos",
+    "derecho a la defensa",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0925_E22-0802.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326874-0925-13723-2023-22-0802.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.213508"
+}

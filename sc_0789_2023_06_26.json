@@ -1,0 +1,22 @@
+{
+  "id": 31006,
+  "numero": "0789",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal y el abandono del trámite en la demanda de nulidad interpuesta por varias sociedades mercantiles contra el Decreto con Rango, Valor y Fuerza de Ley de reforma de la Ley Orgánica de Aduanas. Se argumenta que los demandantes no realizaron actos en el proceso que evidenciaran su interés en la tramitación de la causa durante más de un año, lo que llevó a la Sala a considerar que no había razón para continuar con el procedimiento. La decisión se fundamenta en la falta de impulso procesal y el derecho de acceso a la justicia.",
+  "palabras_clave": [
+    "nulidad",
+    "Ley Orgánica de Aduanas",
+    "interés procesal"
+  ],
+  "titulo": "Sentencia sobre nulidad de Decreto Ley Orgánica de Aduanas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0789_E15-0830.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326445-0789-26623-2023-15-0830.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.561034"
+}

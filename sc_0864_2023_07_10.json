@@ -1,0 +1,22 @@
+{
+  "id": 31157,
+  "numero": "0864",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación contra una decisión de la Corte de Apelaciones que declaró inadmisible una acción de amparo constitucional. La apelación fue interpuesta por los abogados de Carlos Antonio Cardoza, quien enfrentaba cargos por delitos de violencia contra la mujer y robo agravado. La Sala declaró su competencia para conocer el caso y ordenó a la Corte de Apelaciones remitir el expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "violencia contra la mujer"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0864_E22-0612.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326684-0864-10723-2023-22-0612.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.535588"
+}

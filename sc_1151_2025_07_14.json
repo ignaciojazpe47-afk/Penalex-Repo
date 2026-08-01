@@ -1,0 +1,26 @@
+{
+  "id": 20950,
+  "numero": "1151",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por Gustavo David Pérez contra la sentencia N° 951 de la Sala de Casación Social, que declaró inadmisible su recurso de control de legalidad. La Sala Constitucional determinó que la decisión de la Sala de Casación Social se ajustó a derecho y no se configuraron las violaciones denunciadas por el recurrente.",
+  "palabras_clave": [
+    "convencion colectiva",
+    "trabajo",
+    "incongruencia",
+    "impugnacion",
+    "jurisprudencia",
+    "proceso",
+    "legalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1151_E18-0151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346058-1151-14725-2025-18-0151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.388495"
+}

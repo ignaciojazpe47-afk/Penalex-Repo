@@ -1,0 +1,22 @@
+{
+  "id": 20299,
+  "numero": "0884",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de una acción de amparo constitucional interpuesta por la abogada Diana Delgadillo en representación de adolescentes. Se aceptó la declinatoria de competencia y se declaró competente para conocer del caso, considerando la omisión de la imposición de la decisión de la Corte a los adolescentes. La sentencia establece que la Sala es competente para conocer de acciones autónomas de amparo constitucional contra decisiones judiciales de Juzgados Superiores, salvo en materia contencioso administrativa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0884_E24-1144.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344679-0884-11625-2025-24-1144.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.292354"
+}

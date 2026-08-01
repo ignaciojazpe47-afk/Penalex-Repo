@@ -1,0 +1,23 @@
+{
+  "id": 36133,
+  "numero": "0502",
+  "fecha": "2022-08-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por las abogadas defensoras de Yaryangel Ariana Rodríguez Navas, contra la decisión de la Corte de Apelaciones que declaró inadmisible el recurso de apelación. La Sala consideró que la Corte de Apelaciones había incurrido en inmotivación al no pronunciarse adecuadamente sobre la admisibilidad de la prueba del protocolo de autopsia. Se declaró parcialmente con lugar el recurso de apelación, anulando la decisión de inadmisibilidad y ordenando a la Corte de Apelaciones que se pronuncie nuevamente sobre la admisibilidad de la apelación respecto a la prueba documental.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Debido Proceso",
+    "Prueba Documental"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-08_S0502_E22-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319158-0502-8822-2022-22-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.578229"
+}

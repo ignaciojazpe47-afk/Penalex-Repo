@@ -1,0 +1,23 @@
+{
+  "id": 25249,
+  "numero": "0208",
+  "fecha": "2024-05-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 03 dictada el 15 de diciembre de 2022 por el Tribunal Superior de lo Contencioso Tributario, que admitió un recurso contencioso tributario y un amparo cautelar interpuesto por Agropecuaria La Costanera C.A. contra el SENIAT. La Sala declaró sin lugar el recurso y firme la resolución del sumario administrativo que impuso una multa a la empresa por incumplimientos tributarios. Se anula la sentencia objeto de revisión y se ordena el desglose del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "Contencioso Tributario",
+    "Amparo Cautelar",
+    "Agropecuaria La Costanera",
+    "SENIAT"
+  ],
+  "titulo": "Revisión de oficio de la sentencia número 03 del Tribunal Superior de lo Contencioso Tributario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-05-17_S0208_E22-1065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/334635-0208-17524-2024-22-1065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.647259"
+}

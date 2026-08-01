@@ -1,0 +1,23 @@
+{
+  "id": 49643,
+  "numero": "0890",
+  "fecha": "2018-12-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 546, declara su competencia y admite la solicitud de revisión constitucional presentada por la sociedad mercantil CONSORCIO BARR, S.A. respecto al acto de remate de bienes adjudicados al Banco de Venezuela S.A. La Sala establece que se vulneraron derechos fundamentales de la parte solicitante al no permitirle conocer el monto exacto de la deuda antes del remate, lo que afectó su derecho a la defensa y a la tutela judicial efectiva. En consecuencia, se ordena la nulidad del acto de remate y se establece un procedimiento conciliatorio entre las partes para llegar a un acuerdo sobre la deuda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "ejecución hipotecaria",
+    "derecho a la defensa",
+    "nulidad de acto de remate"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de ejecución hipotecaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-13_S0890_E18-0281.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/303245-0890-131218-2018-18-0281.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.143982"
+}

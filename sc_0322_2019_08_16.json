@@ -1,0 +1,22 @@
+{
+  "id": 44018,
+  "numero": "0322",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La ciudadana Yvette Antonieta Silvera Villalón interpuso un amparo constitucional contra la decisión de la Sala N° 10 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que anuló medidas cautelares impuestas a los imputados en un caso de estafa. La Sala Constitucional del TSJ admitió el amparo, declarando que la Corte de Apelaciones había extralimitado su competencia al anular medidas que no fueron objeto del recurso de apelación. Se ordenó reponer la causa al estado que un tribunal distinto se pronuncie sobre la solicitud fiscal, manteniendo vigentes las medidas cautelares originales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medidas cautelares",
+    "estafa"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Yvette Antonieta Silvera Villalón",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0322_E19-0157.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307188-0322-16819-2019-19-0157.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.386266"
+}

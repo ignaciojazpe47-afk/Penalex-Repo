@@ -1,0 +1,24 @@
+{
+  "id": 33010,
+  "numero": "1579",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de María Crecencia Terán Serrano contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito, que había declarado con lugar la demanda de desalojo presentada por Inés Briceño. La Sala determinó que la pretensión de tutela constitucional no cumplía con los requisitos de procedencia, ya que no se evidenció la violación de derechos constitucionales. Finalmente, se declaró improcedente la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "incongruencia",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1579_E23-0796.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330634-1579-281123-2023-23-0796.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.012444"
+}

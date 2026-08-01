@@ -1,0 +1,24 @@
+{
+  "id": 42604,
+  "numero": "0087",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 25 de abril de 2019, en la que se declara con lugar la acción de amparo constitucional interpuesta por Marcos Alberto Araujo Pérez, contra la sentencia del 9 de agosto de 2017 de la Sala 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. Esta última había anulado una decisión anterior del Tribunal Segundo en Funciones de Control, que había declarado la nulidad de la audiencia de imputación del 9 de enero de 2017, donde se le imputaron delitos de falsa atestación y uso de documento público falsificado.\n\nLa Sala Constitucional determinó que la Sala 2 incurrió en abuso de poder al permitir que un ciudadano fuera investigado por el mismo hecho en dos procesos paralelos, lo que vulnera el derecho al debido proceso y la garantía del juez natural. En consecuencia, se anula la decisión de la Corte de Apelaciones y se confirma la nulidad de la audiencia de imputación, manteniendo vigente la investigación en la Fiscalía Décima Quinta del Ministerio Público.\n\nFinalmente, se declara sin lugar el recurso de apelación interpuesto por la representación de la víctima, confirmando la decisión del Tribunal Segundo en Funciones de Control del Circuito Judicial Penal del Estado Bolívar.",
+  "palabras_clave": [
+    "amparo",
+    "justicia",
+    "derechos",
+    "constitucional",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de decisión de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0087_E17-0935.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304633-0087-25419-2019-17-0935.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.595013"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23072,
+  "numero": "1840",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Yoley Cabriles Vargas y José Luis Chávez Solórzano, en representación del joven adulto Kevin Alejandro González Sánchez, contra la sentencia dictada el 11 de agosto de 2023 por la Sala Accidental N° 33 de la Corte de Apelaciones. La decisión se fundamenta en que la supuesta violación de derechos alegada cesó con la publicación del auto en extenso y la sentencia de apelación correspondiente. La Sala reafirma que el debido proceso y el derecho a la defensa deben ser garantizados en todo momento, pero en este caso, no se evidenció vulneración de tales derechos.",
+  "palabras_clave": [
+    "debido_proceso",
+    "apelacion",
+    "tutela_judicial",
+    "notificacion",
+    "derechos_constitucionales",
+    "proceso_penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1840_E23-0884-23-1143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349964-1840-181125-2025-23-0884 - 23-1143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.064759"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 24063,
+  "numero": "0010",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por el abogado Efraín Jesús Moreno Negrín en defensa de José Gregorio Albelaez Martínez. La apelación se fundamenta en la inadmisibilidad de la acción de amparo dictada por la Corte de Apelaciones, que se basó en la supuesta fijación de una audiencia preliminar. La Sala, tras analizar la competencia y los argumentos presentados, decidió que la apelación era procedente y ordenó a la Presidencia del Circuito Judicial Penal del Estado Bolivariano de Nueva Esparta que informara sobre el estado del proceso penal seguido contra el ciudadano.",
+  "palabras_clave": [
+    "habeas corpus",
+    "derechos humanos",
+    "tutela judicial",
+    "proceso penal",
+    "garantías constitucionales",
+    "Corte de Apelaciones",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0010_E23-1219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332362-0010-5224-2024-23-1219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.828841"
+}

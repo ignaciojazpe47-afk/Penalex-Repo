@@ -1,0 +1,22 @@
+{
+  "id": 34582,
+  "numero": "0045",
+  "fecha": "2022-03-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Edith Rosa Guerra Brito contra la decisión del Juzgado Superior que declaró inadmisible su amparo constitucional. La apelante alegó omisión judicial en la respuesta a su solicitud de medida cautelar para la restitución de la custodia de sus hijos. La Sala, tras revisar el expediente, determinó que la apelante había ejercido los recursos ordinarios disponibles, lo que llevó a declarar inadmisible el amparo. Finalmente, se confirmó la decisión del Juzgado Superior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia",
+    "omisión judicial"
+  ],
+  "titulo": "Decisión sobre apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-07_S0045_E18-0660.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315881-0045-7322-2022-18-0660.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.710275"
+}

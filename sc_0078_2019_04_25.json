@@ -1,0 +1,26 @@
+{
+  "id": 42595,
+  "numero": "0078",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Calixto Ortega Rios",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión constitucional interpuesta por VOCEM 2013 TELESERVICIOS DE VENEZUELA, S.A. contra la sentencia de la Sala de Casación Social que declaró con lugar el recurso de casación formalizado por la parte demandada. La sentencia cuestionada había anulado un fallo anterior y declarado con lugar la demanda de pago de salarios caídos y prestaciones sociales presentada por el ciudadano Christopher Jesús García Bolívar. La Sala Constitucional concluyó que la decisión de la Sala de Casación Social no vulneró derechos constitucionales y se ajustó a la normativa aplicable, desestimando los argumentos de la parte solicitante de revisión.",
+  "palabras_clave": [
+    "recursos",
+    "casación",
+    "trabajo",
+    "intereses",
+    "mora",
+    "prestaciones",
+    "sentencias"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0078_E17-0178.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304624-0078-25419-2019-17-0178.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.597607"
+}

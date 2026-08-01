@@ -1,0 +1,25 @@
+{
+  "id": 34140,
+  "numero": "1248",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre un recurso de apelación de amparo constitucional interpuesto por el abogado José Manuel Méndez González, en representación del Ministerio Público, contra una decisión que declaró inadmisible la acción de amparo. La Sala ordena al Circuito Judicial Penal del Estado Carabobo remitir información sobre el estado del asunto penal relacionado con los ciudadanos detenidos por el delito de tráfico de material estratégico.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tribunal",
+    "delito",
+    "justicia",
+    "libertad",
+    "sanción"
+  ],
+  "titulo": "Decisión sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1248_E18-0497.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328452-1248-15823-2023-18-0497.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.232731"
+}

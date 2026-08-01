@@ -1,0 +1,24 @@
+{
+  "id": 42347,
+  "numero": "0058",
+  "fecha": "2016-07-06",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-419 dictada el 6 de julio de 2016, que declaró sin lugar el recurso de casación interpuesto por la sociedad mercantil Panadería Pastelería y Charcutería La Perla Dorada C.A. contra la decisión del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito, que había declarado inadmisible la demanda de retracto legal arrendaticio. La Sala concluyó que la enajenación global del inmueble por parte de la demandada excluía el derecho de retracto legal del arrendatario, conforme al artículo 49 de la Ley de Arrendamientos Inmobiliarios, que establece que este derecho no procede en casos de enajenación total del inmueble arrendado.",
+  "palabras_clave": [
+    "retracto legal",
+    "arrendamiento",
+    "inmueble",
+    "casación",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0058_E17-0040.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303998-0058-27219-2019-17-0040.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.730029"
+}

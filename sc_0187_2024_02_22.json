@@ -1,0 +1,27 @@
+{
+  "id": 24324,
+  "numero": "0187",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Richard Yaimir Ramos Rojas contra la decisión del Tribunal Superior Tercero del Trabajo que declaró inadmisible su solicitud de amparo constitucional. La Sala consideró que la acción de amparo era improcedente in limine litis, ya que existían vías judiciales ordinarias que no habían sido agotadas por el apelante. Se revocó el fallo apelado, pero se declaró sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "vías ordinarias",
+    "derechos constitucionales",
+    "indemnización",
+    "trabajo",
+    "justicia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0187_E23-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332730-0187-22224-2024-23-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.659651"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 29477,
+  "numero": "0215",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados Irvin Leal y Luis Paz Caicedo en representación de Walda Josefina Márquez Tapia, contra la decisión de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La Corte había declarado sin lugar el recurso de apelación y confirmado un fallo anterior que admitió la acusación fiscal por estafa agravada y asociación para delinquir.\n\nEn su decisión, la Sala Constitucional determinó su competencia para conocer el caso, pero también constató que hubo abandono del trámite por parte de la actora, ya que no se realizaron actuaciones en el expediente durante más de seis meses. Por lo tanto, se declaró terminado el procedimiento de la acción de amparo constitucional y se impuso una multa a la parte actora por la falta de impulso procesal.\n\nFinalmente, la Sala resolvió que no era necesario pronunciarse sobre la medida cautelar solicitada, dado el abandono del trámite, y se ordenó la notificación correspondiente.",
+  "palabras_clave": [
+    "inmotivación",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "garantías constitucionales",
+    "arbitrariedad",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0215_E22-0237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323878-0215-27323-2023-22-0237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.057790"
+}

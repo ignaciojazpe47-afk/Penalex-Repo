@@ -1,0 +1,25 @@
+{
+  "id": 21238,
+  "numero": "1252",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la sociedad mercantil Distribuidora Davey Jeans, C.A. contra la sentencia N° 0632 dictada por la Sala Político Administrativa. La solicitud se fundamentó en la alegación de violaciones a derechos constitucionales, específicamente en relación al principio de proporcionalidad y el control difuso de la constitucionalidad. La Sala determinó que los argumentos presentados eran nuevos y no habían sido considerados en la instancia anterior, lo que llevó a declarar que no procedía la revisión solicitada.",
+  "palabras_clave": [
+    "apelación",
+    "suposición falsa",
+    "proporcionalidad",
+    "normativa",
+    "jurisdicción",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia N° 0632",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1252_E18-0678.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346549-1252-28725-2025-18-0678.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.371241"
+}

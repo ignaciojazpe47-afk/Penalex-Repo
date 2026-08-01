@@ -1,0 +1,26 @@
+{
+  "id": 35286,
+  "numero": "0261",
+  "fecha": null,
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado César Augusto Arias Fernández en representación de Marcos Antonio Quevedo Urbina, contra el Ministerio del Poder Popular para Relaciones Exteriores, debido a la falta de respuesta sobre una solicitud de restitución internacional de su hijo. La Sala, tras analizar el caso, determinó que la acción era inadmisible por la falta de respuesta del órgano ministerial y por la existencia de vías judiciales ordinarias que debieron ser agotadas previamente. Finalmente, se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "restitución internacional",
+    "administración pública",
+    "inadmisibilidad",
+    "jurisdicción",
+    "recursos judiciales"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0261_E20-0098.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317713-0261-7722-2022-20-0098.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.698389"
+}

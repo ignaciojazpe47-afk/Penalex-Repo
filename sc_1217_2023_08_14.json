@@ -1,0 +1,26 @@
+{
+  "id": 34110,
+  "numero": "1217",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por la sociedad mercantil Excelsior Gama Supermercados, C.A. contra la sentencia dictada el 7 de diciembre de 2022, que declaró sin lugar el recurso de apelación interpuesto contra un fallo anterior que había declarado con lugar una demanda de nulidad de un acto administrativo. La Sala determinó que la revisión no procedía, ya que no se evidenciaron infracciones grotescas de interpretación de normas constitucionales ni se desconocieron criterios establecidos por la Sala.",
+  "palabras_clave": [
+    "incongruencia",
+    "recurso de nulidad",
+    "sentencia",
+    "derecho administrativo",
+    "debido proceso",
+    "pruebas",
+    "testigos"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de acto administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1217_E23-0122.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328421-1217-14823-2023-23-0122.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.869779"
+}

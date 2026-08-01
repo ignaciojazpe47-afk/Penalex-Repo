@@ -1,0 +1,25 @@
+{
+  "id": 33459,
+  "numero": "1793",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional interpuesta por Carolina Castillo contra Desiderio Contreras, alegando vulneración de su derecho a la vivienda. La Sala, tras analizar la competencia, determinó que no era competente para conocer la acción de amparo, ya que esta debía ser conocida por un Tribunal de Primera Instancia en lo Civil. En consecuencia, declinó el conocimiento del asunto y ordenó la remisión del expediente al órgano jurisdiccional correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos constitucionales",
+    "vivienda",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1793_E21-0276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331328-1793-71223-2023-21-0276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.482227"
+}

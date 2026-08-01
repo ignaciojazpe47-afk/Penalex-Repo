@@ -1,0 +1,23 @@
+{
+  "id": 23700,
+  "numero": "1989",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se acuerda medida cautelar de suspensión de efectos de la sentencia del 18 de octubre de 2024.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del 18 de octubre de 2024, dictada por el Juzgado Superior Primero del Circuito Judicial del Trabajo de Trujillo, que había declarado con lugar la apelación de un recurso de nulidad. La Sala determinó que el Juzgado había incurrido en errores de interpretación de normas constitucionales y estatutarias, lo que justificó la revisión solicitada por el presidente del sindicato SUNEP-ME. En consecuencia, se acordó la suspensión de los efectos de la sentencia impugnada hasta que se resuelva el fondo del asunto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "suspensión de efectos",
+    "sindicato",
+    "SUNEP-ME"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y suspensión de efectos de fallo anterior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1989_E25-0258.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351702-1989-101225-2025-25-0258.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.789002"
+}

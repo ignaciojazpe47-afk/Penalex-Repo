@@ -1,0 +1,22 @@
+{
+  "id": 20400,
+  "numero": "0951",
+  "fecha": "2025-06-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Jesica Carolina Alviarez Otero, quien alegaba violaciones a sus derechos constitucionales por parte del Juzgado Trigésimo Primero. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que existían vías ordinarias para impugnar la decisión del tribunal de primera instancia. La Sala Constitucional confirmó esta decisión, señalando que la acción de amparo no es admisible cuando el agraviado ha optado por recurrir a vías judiciales ordinarias.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0951_E25-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344912-0951-17625-2025-25-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.313109"
+}

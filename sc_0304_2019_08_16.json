@@ -1,0 +1,25 @@
+{
+  "id": 44000,
+  "numero": "0304",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala se pronuncia sobre la solicitud de revisión de una sentencia dictada en 2011 que declaró sin lugar una demanda de reivindicación. El solicitante, Braunice Florentino Marín González, argumenta incongruencias en la decisión original. La Sala requiere la presentación de copia certificada del expediente para verificar las denuncias del solicitante.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "acción reivindicatoria",
+    "notificación",
+    "competencia",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre revisión de sentencia de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0304_E17-1168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307169-0304-16819-2019-17-1168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.388053"
+}

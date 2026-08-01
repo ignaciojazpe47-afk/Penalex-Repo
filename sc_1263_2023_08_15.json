@@ -1,0 +1,26 @@
+{
+  "id": 34155,
+  "numero": "1263",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ recibió un oficio relacionado con una acción de amparo constitucional presentada por Cruz Francisco Villarroel Valerio, quien impugnó la decisión del Tribunal Superior que declaró inadmisible su acción. La Sala determinó su competencia para conocer del recurso de apelación y ordenó oficiar al tribunal inferior para que remitiera un informe sobre el estado del proceso de partición y liquidación de comunidad conyugal. La decisión se fundamenta en la necesidad de garantizar la tutela judicial efectiva y el derecho a la defensa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "partición",
+    "comunidad conyugal",
+    "niños",
+    "adolescentes",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1263_E23-0270.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328467-1263-15823-2023-23-0270.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.231087"
+}

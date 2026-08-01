@@ -1,0 +1,24 @@
+{
+  "id": 68462,
+  "numero": "1752",
+  "fecha": "2015-12-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 18 de diciembre de 2015, declaró con lugar la revisión constitucional solicitada por Inversiones Takami, C.A. contra la sentencia del Juzgado Superior Quinto, que había resuelto en un juicio por resolución de contrato de arrendamiento. La Sala encontró que las decisiones previas incurrieron en el vicio de silencio de prueba, al no valorar adecuadamente las pruebas presentadas por la parte demandada, lo que vulneró su derecho a la defensa y al debido proceso. Por lo tanto, se anularon ambas decisiones y se ordenó que otro tribunal se pronuncie sobre la demanda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "arrendamiento",
+    "silencio de prueba",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-18_S1752_E15-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/184204-1752-181215-2015-15-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:34.465343"
+}

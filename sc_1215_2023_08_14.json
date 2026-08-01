@@ -1,0 +1,25 @@
+{
+  "id": 34104,
+  "numero": "1215",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "DRA. TANIA D’ AMELIO CARDIET",
+  "resumen": "La ciudadana Mina Elena Randisi Moretti solicitó a la Sala Constitucional el avocamiento de un expediente relacionado con la custodia de su hijo, argumentando violaciones al debido proceso. La Sala, tras evaluar la solicitud, determinó que el avocamiento era inadmisible, ya que el asunto no cursaba ante otro tribunal y podía ser resuelto por la Sala de Casación Social. La decisión fue firmada el 14 de agosto de 2023 por la magistrada ponente Dra. Tania D’Amelio Cardiet.",
+  "palabras_clave": [
+    "avocamiento",
+    "tutela judicial",
+    "debido proceso",
+    "igualdad",
+    "competencia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1215_E22-0951.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328415-1215-14823-2023-22-0951.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.872195"
+}

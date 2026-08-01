@@ -1,0 +1,26 @@
+{
+  "id": 45469,
+  "numero": "0133",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada por el Juzgado Sexto Superior del Trabajo, que había declarado sin lugar la solicitud de regulación de competencia interpuesta por la Universidad Católica Andrés Bello. La universidad argumentó que la decisión violaba su derecho a ser juzgada por su juez natural, alegando que los tribunales laborales no eran competentes para conocer de la acción interpuesta por el demandante, Clemente Romero Montero, quien reclamaba diferencias en su pensión de jubilación.\nLa Sala, tras analizar los argumentos y la normativa aplicable, concluyó que la competencia por la materia es un asunto de orden público y que, en este caso, los tribunales laborales eran los competentes para conocer de la controversia. Por lo tanto, se declaró que no había lugar a la solicitud de revisión, manteniendo la decisión del tribunal inferior.\nFinalmente, la Sala Constitucional reafirmó la importancia de la uniformidad en la interpretación de las normas y principios constitucionales, así como el derecho al juez natural, y decidió no admitir la revisión solicitada por la universidad.",
+  "palabras_clave": [
+    "competencia",
+    "jurisdicción",
+    "universidades",
+    "derechos",
+    "proceso",
+    "tutela",
+    "seguridad jurídica"
+  ],
+  "titulo": "Revisión de sentencia sobre regulación de competencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0133_E17-1022.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207692-0133-9218-2018-17-1022.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.450554"
+}

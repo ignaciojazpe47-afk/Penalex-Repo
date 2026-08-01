@@ -1,0 +1,25 @@
+{
+  "id": 31185,
+  "numero": "0891",
+  "fecha": "2023-07-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Yrene Antonio Flores Reyes contra el Instituto Autónomo de Policía del Estado Cojedes. El demandante alegó que fue nombrado director del instituto pero no fue adjudicado en el cargo, lo que considera una violación de sus derechos. La Sala, tras analizar la competencia, determinó que no era competente para conocer el caso y ordenó remitir el expediente al Juzgado Superior en lo Civil y Contencioso Administrativo de la Región Centro Norte de Carabobo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "administración pública"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0891_E20-0496.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326777-0891-11723-2023-20-0496.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.223811"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35435,
+  "numero": "0321",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar el recurso de apelación interpuesto por los abogados de los ciudadanos Jianwen He y Xingru Zheng, quienes habían solicitado la nulidad de decisiones de la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La Corte había declarado inadmisible la acción de amparo constitucional, argumentando que los demandantes tenían vías ordinarias para corregir la situación jurídica que alegaban vulnerada. La Sala Constitucional reafirmó que el amparo es un recurso extraordinario y no debe ser utilizado para eludir los medios judiciales disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "derechos fundamentales",
+    "justicia",
+    "juez constitucional",
+    "audiencia preliminar"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0321_E20-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317901-0321-13722-2022-20-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.231993"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42863,
+  "numero": "0119",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, se pronunció sobre la solicitud de revisión de la sentencia N° RC000003/2018 dictada por la Sala de Casación Civil, que declaró inadmisible la demanda presentada por Jesús Godofredo Salazar Pérez. La Sala Constitucional determinó que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales, por lo que declaró que no ha lugar la revisión solicitada. La decisión se fundamenta en la falta de legitimación activa del demandante para interponer la acción de cumplimiento de contrato de compra-venta.",
+  "palabras_clave": [
+    "revisión",
+    "legitimación",
+    "cosa juzgada",
+    "constitucional",
+    "jurisprudencia",
+    "inadmibilidad",
+    "derechos",
+    "proceso"
+  ],
+  "titulo": "Revisión de sentencia de inadmisibilidad de demanda",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0119_E18-0535.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305037-0119-21519-2019-18-0535.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.581140"
+}

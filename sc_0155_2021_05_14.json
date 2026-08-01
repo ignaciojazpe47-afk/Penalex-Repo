@@ -1,0 +1,26 @@
+{
+  "id": 38665,
+  "numero": "0155",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional presentada por la abogada Audrey Aguirre en nombre de Ilsi Berenice Blanco Contreras. La solicitud se refería a una decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que había declarado con lugar un recurso de apelación y ordenado la reposición de la causa al estado de designación de un partidor en un juicio de partición de bienes conyugales.\n\nLa Sala declaró inadmisible la solicitud de revisión, argumentando que el fallo objeto de revisión no constituía una sentencia definitivamente firme ni una decisión interlocutoria que causara un gravamen irreparable. En consecuencia, se determinó que la solicitud no cumplía con los requisitos establecidos para su admisión, y se decidió no pronunciarse sobre la medida cautelar solicitada.\n\nFinalmente, la Sala se declaró competente para conocer de la solicitud, pero inadmitió la misma, dejando sin efecto la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes.",
+  "palabras_clave": [
+    "partición",
+    "comunidad conyugal",
+    "apelación",
+    "audiencia",
+    "partidor",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0155_E19-0731.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312115-0155-14521-2021-19-0731.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.879048"
+}

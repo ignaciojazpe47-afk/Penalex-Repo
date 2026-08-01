@@ -1,0 +1,26 @@
+{
+  "id": 42750,
+  "numero": "0099",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento, por abandono de trámite",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono de trámite en el amparo constitucional interpuesto por Jesús Salvador Rendón Carrillo. La acción fue presentada contra sentencias de un Juzgado Superior que declaró sin lugar un recurso de apelación y confirmó un fallo anterior. La Sala determinó su competencia y observó que el demandante no realizó actuaciones procesales válidas durante un tiempo que superó los seis meses, lo que indica falta de interés en continuar con el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "derecho a la defensa",
+    "Código de Procedimiento Civil",
+    "jurisprudencia",
+    "multa",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0099_E17-0428.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304842-0099-14519-2019-17-0428.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.589592"
+}

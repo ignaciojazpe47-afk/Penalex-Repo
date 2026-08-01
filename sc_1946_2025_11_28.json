@@ -1,0 +1,26 @@
+{
+  "id": 23431,
+  "numero": "1946",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Francisco Javier Marcano Castro en representación de su hija contra la Asociación Civil Educacional U.E. Nuestra Señora del Rosario. La acción se basa en la presunta violación de derechos constitucionales relacionados con la educación, alegando que se le impide la inscripción en el colegio por deudas. La Sala determina que la competencia corresponde a un Tribunal de Protección de Niños, Niñas y Adolescentes.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "derechos humanos",
+    "niños",
+    "adolescentes",
+    "constitución",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1946_E25-1132.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350832-1946-281125-2025-25-1132.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.798790"
+}

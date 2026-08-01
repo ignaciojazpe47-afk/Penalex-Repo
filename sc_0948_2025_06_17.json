@@ -1,0 +1,23 @@
+{
+  "id": 20397,
+  "numero": "0948",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 17 de junio de 2025, declaró sin lugar el recurso de apelación interpuesto por Carlos Javier Martínez contra la sentencia de la Sala 5 de la Corte de Apelaciones, que había declarado inadmisible su acción de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en la falta de legitimación activa del apelante, quien no era parte en el proceso penal relacionado con la desaparición de Nélida Graciela Tellechea Díaz, ya que solo actuó como denunciante y no como víctima directa.\n\nLa Sala Constitucional confirmó la inadmisibilidad de la acción de amparo, señalando que el apelante no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se destacó que el Ministerio Público había actuado conforme a la ley al solicitar el sobreseimiento de la causa por no ser los hechos típicos, lo que llevó a la decisión del Tribunal Décimo Cuarto de Primera Instancia Itinerante de Sobreseimiento en Función de Control.\n\nFinalmente, la Sala Constitucional hizo un llamado a la Corte de Apelaciones para que se abstenga de aplicar erróneamente las disposiciones legales relacionadas con la admisibilidad de las acciones de amparo, reafirmando la importancia de la correcta interpretación de la ley en la protección de los derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación activa",
+    "sobreseimiento",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0948_E25-0261.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344909-0948-17625-2025-25-0261.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.314981"
+}

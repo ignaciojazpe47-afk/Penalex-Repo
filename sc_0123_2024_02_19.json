@@ -1,0 +1,25 @@
+{
+  "id": 24251,
+  "numero": "0123",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por los abogados de Domingo Eduardo Castro Martínez, en relación a una sentencia del Tribunal Primero de Primera Instancia en lo Civil, Mercantil, Marítimo y Aeronáutico del Estado Bolívar. La solicitud fue considerada inadmisible por no acompañar la copia certificada de la sentencia cuya revisión se solicitaba, incumpliendo así con la carga procesal exigida. La decisión se fundamenta en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece las causales de inadmisibilidad para este tipo de recursos.",
+  "palabras_clave": [
+    "jurisdicción indígena",
+    "cosa juzgada",
+    "derecho consuetudinario",
+    "debido proceso",
+    "asamblea general",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0123_E23-0459.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332632-0123-19224-2024-23-0459.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.560596"
+}

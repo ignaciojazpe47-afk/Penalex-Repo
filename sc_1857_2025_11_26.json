@@ -1,0 +1,22 @@
+{
+  "id": 23203,
+  "numero": "1857",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una denuncia de desacato presentada por los ciudadanos Jorge Valentín Correa López y Ángel Alfredo Angarita, representados por la abogada Coromoto Josefina Castillo Jiménez. La denuncia se refiere a un mandamiento de amparo constitucional dictado el 1 de junio de 2015, que ordenaba la entrega de vehículos por parte del Comando de la Fuerza Armada Bolivariana, el cual no fue cumplido. La Sala establece que el incumplimiento de este mandamiento debe ser evaluado y, de ser necesario, se debe remitir el expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Fuerza Armada Bolivariana"
+  ],
+  "titulo": "Sentencia sobre desacato de mandamiento de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1857_E16-0041.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350453-1857-261125-2025-16-0041.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.044077"
+}

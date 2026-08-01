@@ -1,0 +1,27 @@
+{
+  "id": 36253,
+  "numero": "0622",
+  "fecha": "2022-08-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por un grupo de bomberos contra el Gobierno del Distrito Capital, alegando violaciones a sus derechos laborales y sociales tras la aprobación de un Punto de Cuenta que otorgó jubilaciones y pensiones por invalidez. La Sala determinó que la acción no revestía el carácter de derechos colectivos y difusos, ya que los demandantes eran identificables y sus intereses eran individuales. Por lo tanto, se declaró incompetente para conocer el caso y se ordenó el archivo del expediente por abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "intereses colectivos",
+    "derechos humanos",
+    "funcionarios públicos",
+    "jubilación",
+    "deuda laboral",
+    "Estado",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre Amparo Constitucional por Afectación de Intereses Colectivos y Difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-16_S0622_E19-0111.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319279-0622-16822-2022-19-0111.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.558373"
+}

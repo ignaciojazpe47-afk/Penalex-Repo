@@ -1,0 +1,26 @@
+{
+  "id": 33234,
+  "numero": "1737",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la solicitud de revisión constitucional presentada por Félix Antonio Morabito Gómez, declara no ha lugar la solicitud de revisión de la sentencia N° 00234 dictada el 19 de julio de 2022 por la Sala de Casación Civil. La Sala argumenta que la revisión no contribuye a la uniformidad en la interpretación de normas constitucionales y que no se han desconocido criterios vinculantes de la Sala Constitucional.",
+  "palabras_clave": [
+    "cobro de honorarios",
+    "comparecencia",
+    "igualdad procesal",
+    "invariabilidad",
+    "sentencia",
+    "recurso de casación",
+    "derecho constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1737_E22-0926.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330983-1737-41223-2023-22-0926.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.162101"
+}

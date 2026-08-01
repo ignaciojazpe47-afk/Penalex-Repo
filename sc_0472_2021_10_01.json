@@ -1,0 +1,23 @@
+{
+  "id": 39735,
+  "numero": "0472",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por los ciudadanos Leydy Shirley Cacua García y Enio Gabriel Márquez Unda, quienes impugnaron una decisión de la Corte de Apelaciones que declaró sin lugar su recurso de apelación sobre la entrega de mercancía incautada. La Sala Constitucional, tras analizar el caso, determinó que la Corte de Apelaciones había incurrido en abuso de poder al ordenar la venta de la mercancía sin considerar la permisología correspondiente y los derechos de los accionantes.\n\nLa Sala, al declarar con lugar la acción de amparo, ordenó la notificación a la Corte de Apelaciones del estado Trujillo para que remita el expediente correspondiente y se verifique la admisibilidad del recurso. Se enfatiza la importancia de respetar el debido proceso y los derechos constitucionales de los ciudadanos en el marco de la administración de justicia.\n\nFinalmente, se establece un plazo para la remisión de las actuaciones y se advierte sobre las sanciones en caso de incumplimiento de la orden emitida por la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "confiscación",
+    "mercancía",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por confiscación de mercancía",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0472_E19-0051.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313581-0472-11021-2021-19-0051.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.613118"
+}

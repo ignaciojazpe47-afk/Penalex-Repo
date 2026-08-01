@@ -1,0 +1,24 @@
+{
+  "id": 35290,
+  "numero": "0265",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia RC-000199 del 6 de julio de 2021.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC-000199 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación. La Sala Constitucional encontró vicios de inmotivación y contradicción en la sentencia impugnada, ya que esta reconocía que el daño a la pinza hidráulica era parcial, pero condenaba al pago total del monto asegurado. Por lo tanto, se declaró ha lugar la solicitud de revisión y se anuló la sentencia objeto de la misma, ordenando a la Sala de Casación Civil emitir un nuevo pronunciamiento sobre el recurso de casación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "casación",
+    "tutela judicial efectiva",
+    "contradicción"
+  ],
+  "titulo": "Revisión constitucional de la sentencia RC-000199",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0265_E21-0477.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317717-0265-7722-2022-21-0477.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.246993"
+}

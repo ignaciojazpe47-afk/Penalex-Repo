@@ -1,0 +1,25 @@
+{
+  "id": 26699,
+  "numero": "0308",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por los ciudadanos Brito Longa Deixy Elena y Carlos Rafael Pachano Colina, en representación de sus hijas, contra la Unidad Educativa Colegio San Agustín de Caricuao. La acción se fundamenta en la supuesta violación del derecho a la educación de las menores, al negarse su inscripción para el período escolar 2023-2024 bajo condiciones consideradas ilegales por los demandantes.\nLa Sala determina que la competencia para conocer de la acción corresponde al Tribunal de Primera Instancia de Juicio del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Área Metropolitana de Caracas, dado que la acción fue interpuesta contra un particular y no contra un alto funcionario del Estado, lo que limita la jurisdicción de la Sala Constitucional.\nFinalmente, se ordena la remisión del expediente a la jurisdicción competente para su adecuada tramitación, asegurando así el respeto a los derechos de los menores involucrados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la educación",
+    "competencia",
+    "altos funcionarios",
+    "Ley Orgánica de Amparo",
+    "Poder Público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por derecho a la educación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0308_E23-0720.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337900-0308-181024-2024-23-0720.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.057376"
+}

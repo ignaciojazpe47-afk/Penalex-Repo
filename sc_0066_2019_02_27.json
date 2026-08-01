@@ -1,0 +1,26 @@
+{
+  "id": 42365,
+  "numero": "0066",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Wilmer José Desiderio Ramírez contra la decisión de un Juzgado Superior en lo Civil, que había ordenado remitir copias certificadas al Ministerio Público por presunto desacato. La Sala declaró su incompetencia para conocer del caso, indicando que la competencia correspondía a las Cortes Primera y Segunda de lo Contencioso Administrativo. Además, se ordenó la remisión del expediente a dichas Cortes para su distribución y trámite correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "derechos laborales",
+    "justicia",
+    "debido proceso",
+    "juzgado",
+    "funcionarios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0066_E18-0588.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304016-0066-27219-2019-18-0588.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.610815"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 50269,
+  "numero": "20",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 212 de la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La Sala Constitucional determinó que la decisión impugnada vulneró su doctrina sobre la inscripción de la cesión de acciones en el Registro Mercantil, estableciendo que no es necesaria para que surta efectos frente a la sociedad y terceros. Se concluyó que la acción de nulidad interpuesta por la demandante era tempestiva, ya que el cómputo del lapso de prescripción debía iniciarse desde el momento en que se tuvo conocimiento del acto de disposición, lo cual ocurrió durante una inspección judicial en 2013.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cesión de acciones",
+    "prescripción",
+    "Registro Mercantil",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de la sentencia n.° 212 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S20_E16-1024.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196324-20-23217-2017-16-1024.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.280299"
+}

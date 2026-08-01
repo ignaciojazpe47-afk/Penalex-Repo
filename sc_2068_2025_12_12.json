@@ -1,0 +1,27 @@
+{
+  "id": 23847,
+  "numero": "2068",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por Alexis González Torres, quien alegó violaciones a sus derechos constitucionales. La Sala declaró la inadmisibilidad de la acción de amparo debido a la falta de impulso procesal por parte del demandante, quien no actuó durante un periodo de seis meses, lo que llevó a la conclusión de abandono del trámite. Además, se impuso una multa a la parte actora por el incumplimiento de sus obligaciones procesales.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "inactividad",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "procedimiento",
+    "multa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2068_E23-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351880-2068-121225-2025-23-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.080684"
+}

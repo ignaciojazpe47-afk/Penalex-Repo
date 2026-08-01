@@ -1,0 +1,27 @@
+{
+  "id": 23407,
+  "numero": "1922",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 59, dictada el 6 de marzo de 2025, declaró sin lugar la revisión constitucional solicitada por Freddy Orlando Sancler Guevara en representación de Alirio José Mijares Briñez. La solicitud se basaba en la supuesta vulneración de derechos constitucionales y en la incongruencia de la sentencia de la Sala de Casación Civil que había homologado una transacción entre las partes. La Sala Constitucional determinó que no se evidenció una interpretación contraria a la normativa vigente ni se vulneraron principios fundamentales, concluyendo que la revisión no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "incongruencia",
+    "nulidad",
+    "defensa",
+    "transacción",
+    "jurisprudencia",
+    "procedimiento civil",
+    "constitucional",
+    "honorarios"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 59 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1922_E25-0525.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350808-1922-281125-2025-25-0525.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.867154"
+}

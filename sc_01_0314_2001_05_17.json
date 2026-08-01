@@ -1,0 +1,24 @@
+{
+  "id": 2433,
+  "numero": "01-0314",
+  "fecha": "2001-05-17",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Acepta la Competencia",
+  "ponente": "Antonio J. García García",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la declinatoria de competencia realizada por el Juzgado Tercero de Primera Instancia del Trabajo, en relación a una acción de amparo constitucional interpuesta por la Defensoría del Pueblo contra CADAFE y sus filiales. La Sala determinó que la acción no se enmarca dentro de la defensa de intereses colectivos, sino que se trata de derechos individuales de los trabajadores, por lo que no aceptó la competencia declinada. Además, revocó la decisión del Juzgado Superior Sexto del Trabajo que había declarado con lugar la apelación de la Defensoría del Pueblo, confirmando la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "CADAFE",
+    "Defensoría del Pueblo",
+    "derechos laborales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-05-17_Constitucional_01_AlinaresNormal.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.702628"
+}

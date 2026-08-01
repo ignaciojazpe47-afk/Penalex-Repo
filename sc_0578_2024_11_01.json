@@ -1,0 +1,25 @@
+{
+  "id": 27153,
+  "numero": "0578",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Carlos Guillermo Portillo Arteaga contra una sentencia del Tribunal Superior Segundo en lo Civil, que declaró improcedente una solicitud de recusación. La Sala, tras analizar el caso, determinó que la recusación fue presentada fuera de plazo, lo que llevó a declarar improcedente la acción de amparo. La decisión se fundamenta en la caducidad de la acción de recusación y en la competencia del tribunal superior para conocer del caso.",
+  "palabras_clave": [
+    "recusación",
+    "juez natural",
+    "debido proceso",
+    "derechos constitucionales",
+    "imparcialidad",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0578_E23-1197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338538-0578-11124-2024-23-1197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.302560"
+}

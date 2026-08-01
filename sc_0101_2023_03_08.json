@@ -1,0 +1,26 @@
+{
+  "id": 29103,
+  "numero": "0101",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Karem Susana Zerpa López contra la decisión del Juzgado Superior Segundo en lo Civil, que declaró inadmisible su acción de amparo. La apelante alegó violaciones a sus derechos en el proceso de ocupación y posesión de un inmueble. Sin embargo, la Sala concluyó que la acción de amparo era inadmisible, ya que la demandante no agotó los recursos ordinarios disponibles antes de recurrir a esta vía extraordinaria.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "inconstitucionalidad",
+    "procedimiento",
+    "tutela"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0101_E18-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323269-0101-8323-2023-18-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.343632"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 43320,
+  "numero": "0170",
+  "fecha": "2019-06-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad por inconstitucionalidad interpuesta contra varios artículos de la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras. Los demandantes argumentaron que las disposiciones impugnadas vulneran la libertad sindical y otros derechos laborales. La Sala, tras analizar los argumentos, declaró sin lugar la acción de nulidad, estableciendo que las normas cuestionadas no contravienen la Constitución ni los tratados internacionales sobre derechos humanos ratificados por Venezuela.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "libertad sindical",
+    "Ley Orgánica del Trabajo"
+  ],
+  "titulo": "Sentencia sobre la nulidad de artículos de la Ley Orgánica del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0170_E13-1207.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305892-0170-4719-2019-13-1207.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.853225"
+}

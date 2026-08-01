@@ -1,0 +1,27 @@
+{
+  "id": 31066,
+  "numero": "0849",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional presentada por la abogada Mireya Sanmiguel Quiñones en representación de varios ciudadanos recluidos. La acción se interpuso contra la Corte de Apelaciones del estado Táchira por presunto desacato a una sentencia anterior de esta Sala. La Sala, tras revisar los alegatos y la documentación presentada, decidió declarar su competencia para conocer la acción de amparo y ordenó a la Corte de Apelaciones informar sobre el cumplimiento del mandato de la sentencia anterior en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "desacato",
+    "sentencia",
+    "justicia",
+    "constitucional",
+    "tribunal",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0849_E23-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326505-0849-26623-2023-23-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.539811"
+}

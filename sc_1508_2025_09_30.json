@@ -1,0 +1,26 @@
+{
+  "id": 21970,
+  "numero": "1508",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por Jaime José Gaya Araujo contra la sentencia n° 172 de fecha 11 de junio de 2018, emitida por la Sala de Casación Penal. La decisión se fundamenta en la falta de acompañamiento de documentos esenciales que verifiquen la autenticidad de la solicitud, lo que impide su admisibilidad conforme a la normativa vigente.\n\nSe destaca que la solicitud de revisión no cumplió con los requisitos establecidos, específicamente la falta de copia certificada de la decisión cuestionada, lo que resulta en la inadmisibilidad de la misma. La Sala enfatiza la importancia de la seguridad jurídica y la necesidad de presentar documentación fehaciente en estos procedimientos.\n\nFinalmente, se resalta que la decisión fue tomada en el contexto de la protección de los derechos fundamentales y la garantía de un debido proceso, reafirmando el compromiso del Tribunal con la administración de justicia.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "admisibilidad",
+    "legitimación",
+    "constitucional",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1508_E18-0630.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348123-1508-30925-2025-18-0630.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.204168"
+}

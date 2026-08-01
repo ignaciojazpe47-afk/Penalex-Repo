@@ -1,0 +1,24 @@
+{
+  "id": 28257,
+  "numero": "1217",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por las ciudadanas Anabel Belismar Carlino Pérez y Anais Belizabeth Carlino Pérez, representadas por el abogado Jesús Rafael León, contra la sentencia del Juzgado Superior que declaró la caducidad de la acción de tacha incidental. La Sala consideró que la decisión del Juzgado Agraviante vulneró los derechos constitucionales al debido proceso y a la defensa, al pronunciarse sobre una acción no deducida por las demandantes. En consecuencia, se anuló la sentencia impugnada y se ordenó la reposición de la causa para que un nuevo Juzgado Superior conozca del recurso de apelación.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Caducidad",
+    "Tacha Incidental",
+    "Derecho a la Defensa",
+    "Debido Proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Caducidad de Acción de Tacha Incidental",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1217_E23-0980.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340153-1217-41224-2024-23-0980.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.041259"
+}

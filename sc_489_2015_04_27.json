@@ -1,0 +1,24 @@
+{
+  "id": 63499,
+  "numero": "489",
+  "fecha": "2015-04-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, acepta la declinatoria de competencia del Juzgado Superior Primero Agrario y se declara competente para conocer la acción de amparo interpuesta por un grupo de ciudadanos contra la decisión del Juzgado Superior en lo Civil, Mercantil y Tránsito que había declarado sin lugar un recurso de apelación. La Sala considera que se vulneraron derechos constitucionales al no garantizar el debido proceso y la defensa de los accionantes, quienes alegan haber sido desalojados de un inmueble sin el debido procedimiento legal. Finalmente, se ordena la notificación de las partes y se niegan las medidas cautelares solicitadas.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "due process",
+    "agricultura",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-04-27_S489_E13-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/176705-489-27415-2015-13-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:44.386077"
+}

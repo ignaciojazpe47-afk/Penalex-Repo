@@ -1,0 +1,23 @@
+{
+  "id": 19211,
+  "numero": "0456",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar la acción de amparo constitucional interpuesta por Linda Mercedes de la Concepción La Rosa de la Rosa y Mario Claudio Dao La Rosa contra las sentencias del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Zulia. Se argumentó que el juzgado superior había incurrido en violaciones al debido proceso al admitir una tercería que no cumplía con los requisitos legales, afectando así los derechos de los demandantes. La decisión también impone una multa a los accionantes por abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tercería",
+    "Estado Zulia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0456_E23-0383.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342840-0456-1425-2025-23-0383.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.606032"
+}

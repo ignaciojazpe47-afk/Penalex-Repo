@@ -1,0 +1,23 @@
+{
+  "id": 16436,
+  "numero": "0628",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, ha decidido a favor de la solicitud de revisión constitucional presentada por la sociedad mercantil Hotel Bar y Restaurant La Toja C.A. contra la sentencia del Tribunal Décimo de Municipio Ordinario que declaró sin lugar la cuestión previa de prejudicialidad. La Sala concluyó que existía una vinculación entre la demanda de retracto legal arrendaticio y la demanda de desalojo, lo que justificaba la suspensión del juicio de desalojo hasta que se resolviera la cuestión prejudicial. En consecuencia, se anula la sentencia del 19 de septiembre de 2025 y se ordena que otro tribunal se pronuncie sobre la cuestión previa de prejudicialidad.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cuestión prejudicial",
+    "desalojo",
+    "retracto legal arrendaticio"
+  ],
+  "titulo": "Revisión Constitucional sobre cuestión prejudicial en juicio de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0628_E25-1164.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355844-0628-27526-2026-25-1164.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.941341"
+}

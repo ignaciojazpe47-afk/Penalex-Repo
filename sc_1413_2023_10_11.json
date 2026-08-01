@@ -1,0 +1,26 @@
+{
+  "id": 32259,
+  "numero": "1413",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión N° 184 del 15 de junio de 2022, dictada por la Sala de Casación Penal, que declaró inadmisible el recurso de casación interpuesto por los abogados de Fanny Columba Mora Maldonado. La Sala Constitucional determinó su competencia para conocer la solicitud de revisión y analizó los fundamentos presentados por la defensa, que alegaba vulneraciones al debido proceso y al derecho a la defensa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "casación penal",
+    "derecho a la defensa",
+    "debido proceso",
+    "jurisprudencia",
+    "excepciones",
+    "decisión interlocutoria"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1413_E22-0546.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329288-1413-111023-2023-22-0546.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.401598"
+}

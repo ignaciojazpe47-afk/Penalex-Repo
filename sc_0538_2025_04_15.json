@@ -1,0 +1,25 @@
+{
+  "id": 19436,
+  "numero": "0538",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo interpuesta por Servicios Halliburton de Venezuela, S.A. contra la decisión del Juzgado Superior Tercero del Circuito Judicial del Trabajo, que declaró inadmisible un recurso de hecho. La Sala consideró que la decisión del tribunal inferior fue ajustada a derecho, ya que la parte recurrente no consignó las copias certificadas necesarias dentro del plazo establecido, lo que llevó a declarar improcedente la acción de amparo.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "código de procedimiento civil",
+    "copias certificadas",
+    "decisión judicial",
+    "inadmision",
+    "tribunal superior"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0538_E25-0160.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343143-0538-15425-2025-25-0160.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.039704"
+}

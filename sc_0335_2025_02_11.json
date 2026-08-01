@@ -1,0 +1,25 @@
+{
+  "id": 18809,
+  "numero": "0335",
+  "fecha": "2025-02-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Pedro José Varela Milos, representado por la abogada Roraima Bermúdez González, contra una sentencia del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario y del Tránsito del Estado Carabobo. La acción se fundamentó en la vulneración del derecho al debido proceso, argumentando que la sentencia interlocutoria dictada por el tribunal superior no tenía previsto recurso de casación inmediato y que se había dictado después de la sentencia definitiva de fondo, lo que generó un caos procesal.\n\nLa Sala, tras analizar los argumentos, concluyó que la decisión del tribunal superior era inadmisible por la falta de cualidad del ciudadano Patricio Sosa Gatica para ser reconvenido en la causa, y que la reconvención planteada por la parte demandada era inepta por la acumulación de pretensiones. Por lo tanto, se declaró con lugar la acción de amparo, modificando la sentencia recurrida y ordenando el cumplimiento de lo establecido en la decisión.\n\nFinalmente, la Sala se declaró competente para conocer de la acción de amparo y ordenó al Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Bancario de la Circunscripción Judicial del Estado Carabobo que informara sobre el estado actual de la causa.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "debido proceso",
+    "abandonos de trámite",
+    "orden público",
+    "inactividad procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Pedro José Varela Milos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0335_E22-0555.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342282-0335-13325-2025-22-0555.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.546101"
+}

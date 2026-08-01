@@ -1,0 +1,23 @@
+{
+  "id": 31659,
+  "numero": "1017",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió no ha lugar la solicitud de revisión constitucional presentada por el abogado Moisés A. Martínez F. en representación de Mario Javier Pagliarani Moreno. La solicitud se refería a la sentencia número 0166 de la Sala de Casación Penal, que declaró procedente la extradición activa del ciudadano a Colombia por presuntos delitos de estafa y asociación para delinquir.",
+  "palabras_clave": [
+    "extradición",
+    "revisión constitucional",
+    "estafa",
+    "asociación para delinquir"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1017_E18-0728.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327549-1017-31723-2023-18-0728.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.906365"
+}

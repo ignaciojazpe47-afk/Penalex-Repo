@@ -1,0 +1,24 @@
+{
+  "id": 32945,
+  "numero": "1514",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción interpuesta por la abogada Luisa Magaly Zapata Colina, quien no corrigió las deficiencias de su solicitud tras ser notificada. La decisión se basa en la falta de claridad y estructura lógica en el escrito presentado, lo que imposibilita a la Sala formarse un criterio sobre la situación jurídica denunciada.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "acción de amparo",
+    "ininteligibilidad",
+    "tutela constitucional",
+    "escritos judiciales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1514_E19-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330568-1514-231123-2023-19-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.433746"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17198,
+  "numero": "0057",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Julio Alejandro Pedroza Nieves, quien impugnó la decisión N° 109 de la Sala de Casación Social, dictada el 16 de diciembre de 2020. El solicitante argumentó la existencia de cosa juzgada y la ilegal anulación de una experticia complementaria, así como la violación de sus derechos al debido proceso y a la confianza legítima. La Sala, tras analizar los antecedentes, decidió declarar con lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "due process",
+    "experticia complementaria"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0057_E24-0945.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352742-0057-19226-2026-24-0945.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.397854"
+}

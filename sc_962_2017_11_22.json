@@ -1,0 +1,24 @@
+{
+  "id": 54762,
+  "numero": "962",
+  "fecha": "2017-11-22",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC.000544, dictada por la Sala de Casación Civil, que declaró con lugar el recurso de casación interpuesto por la parte demandante. La Sala constató que se vulneraron derechos fundamentales como el debido proceso y la tutela judicial efectiva, al no considerar la validez de las notificaciones realizadas en el domicilio pactado en el contrato de arrendamiento. En consecuencia, se declaró con lugar la revisión y se anuló el fallo recurrido, resolviendo la acción de retracto legal arrendaticio a favor de la parte actora.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal arrendaticio",
+    "notificaciones",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de casación sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-22_S962_E17-1079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205522-962-221117-2017-17-1079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:53.707703"
+}

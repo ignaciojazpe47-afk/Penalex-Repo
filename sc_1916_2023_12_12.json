@@ -1,0 +1,25 @@
+{
+  "id": 33797,
+  "numero": "1916",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por DANNY DAVID GONZÁLEZ PÉREZ contra el partido Movimiento Electoral del Pueblo (MEP), solicitando la nulidad de una resolución que lo suspendió de sus acciones en el partido. La Sala, tras analizar la competencia, determinó que no era competente para conocer la acción, ya que el MEP no se encuentra dentro de los órganos a los que se les aplica el fuero especial para amparos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos políticos",
+    "debido proceso",
+    "jurisdicción contencioso administrativa",
+    "actos de autoridad",
+    "partidos políticos"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por DANNY DAVID GONZÁLEZ PÉREZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1916_E21-0539.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331914-1916-121223-2023-21-0539.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.453783"
+}

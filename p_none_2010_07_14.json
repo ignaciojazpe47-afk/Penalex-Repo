@@ -1,0 +1,24 @@
+{
+  "id": 8191,
+  "numero": null,
+  "fecha": "2010-07-14",
+  "anio": 2010,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira declaró sin lugar el recurso de apelación interpuesto por la defensa de William Gerardo Rojas Gamboa, quien había sido condenado a ocho años de prisión por homicidio culposo. La Sala de Casación Penal del TSJ, al revisar el caso, encontró que la Corte de Apelaciones no fundamentó adecuadamente su decisión, omitiendo aspectos cruciales sobre la culpabilidad del acusado y la valoración de las pruebas presentadas. En consecuencia, se declaró con lugar el recurso de casación, anulando la sentencia de la Corte de Apelaciones y ordenando que se emita una nueva decisión.",
+  "palabras_clave": [
+    "homicidio culposo",
+    "casación penal",
+    "exceso de velocidad",
+    "intersección",
+    "culpa grave"
+  ],
+  "titulo": "Sentencia de Casación sobre Homicidio Culposo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2010_ManuelCoronado_5.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:50.838064"
+}

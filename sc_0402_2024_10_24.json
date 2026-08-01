@@ -1,0 +1,27 @@
+{
+  "id": 26870,
+  "numero": "0402",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por el abogado Samuel David Ramos Báez en representación de Grecia Luisana Quintero Quintana, contra una decisión del Juzgado Noveno de Primera Instancia que acordó una medida de prohibición de enajenar y gravar sobre bienes. La Sala declina la competencia al Juzgado Superior en materia de Protección de Niños, Niñas y Adolescentes del Estado Lara, ordenando la remisión del expediente para que se emita un pronunciamiento sobre la admisibilidad de la acción constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "medidas cautelares",
+    "tribunales",
+    "protección",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0402_E23-0768.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338174-0402-241024-2024-23-0768.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.322053"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 35044,
+  "numero": "0155",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los abogados de Wilmarys Suárez Herrera, quien había presentado una acción de amparo constitucional contra la decisión de la Corte de Apelaciones que declaró inadmisible su solicitud. La Corte de Apelaciones había argumentado que existía una inepta acumulación de pretensiones, ya que las solicitudes debían ser tratadas en instancias diferentes. Sin embargo, la Sala Constitucional consideró que las pretensiones estaban íntimamente ligadas y que la negativa del Ministerio Público a realizar diligencias de investigación afectaba los derechos de la demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "inepta acumulación de pretensiones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0155_E21-0731.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317343-0155-14622-2022-21-0731.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.637358"
+}

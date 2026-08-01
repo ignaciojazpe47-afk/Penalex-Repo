@@ -1,0 +1,27 @@
+{
+  "id": 31190,
+  "numero": "0896",
+  "fecha": "2023-05-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por los abogados Freddy Estrada y Manuel Marquina, en representación de los ciudadanos Jenny Jackeline Aldana y Félix Antonio González Aldana, contra la decisión de la Sala 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala Constitucional determinó que la acción de amparo era inadmisible debido a que la supuesta omisión de pronunciamiento había cesado, ya que el Juzgado Octavo de Primera Instancia había emitido pronunciamientos sobre las solicitudes de los accionantes.",
+  "palabras_clave": [
+    "fraude procesal",
+    "debido proceso",
+    "derechos humanos",
+    "Código Penal",
+    "Código Civil",
+    "Constitución",
+    "Ministerio Público",
+    "defensa técnica"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0896_E18-0758.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326782-0896-11723-2023-18-0758.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.947400"
+}

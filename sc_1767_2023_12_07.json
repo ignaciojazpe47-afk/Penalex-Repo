@@ -1,0 +1,22 @@
+{
+  "id": 33433,
+  "numero": "1767",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR a la solicitud de revisión.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Noveno Superior del Trabajo que declaró inadmisible la acción de amparo constitucional interpuesta por los ciudadanos Rafael Luis Cariaco Castro y José Gabriel Farías Guilarte. La Sala determinó que la decisión del tribunal inferior vulneró derechos constitucionales al no permitir el acceso a la tutela judicial efectiva y al debido proceso, considerando que los solicitantes habían agotado las vías administrativas sin obtener respuesta favorable por parte del patrono. En consecuencia, se declaró ha lugar la revisión y se anuló parcialmente la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derechos laborales"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1767_E19-0327.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331302-1767-71223-2023-19-0327.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.151529"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 42337,
+  "numero": "0050",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC-000126, dictada por la Sala de Casación Civil, que declaró con lugar un recurso de casación interpuesto por la parte demandada. La Sala Constitucional encontró que la decisión impugnada incurrió en violaciones al debido proceso y al derecho a la defensa, al no considerar adecuadamente el acervo probatorio y al trasladar erróneamente la carga de la prueba a la parte actora. En consecuencia, se anuló parcialmente la decisión de la Sala de Casación Civil y se confirmó el fallo del Juzgado Superior Octavo en lo Civil, Mercantil y del Tránsito que había declarado con lugar el recurso de apelación ejercido por la parte demandante.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "carga de la prueba",
+    "aceptación tácita",
+    "Código de Comercio",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia RC-000126",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0050_E16-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303988-0050-27219-2019-16-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.605827"
+}

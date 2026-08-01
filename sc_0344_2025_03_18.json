@@ -1,0 +1,25 @@
+{
+  "id": 18872,
+  "numero": "0344",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Freddy Rafael Baduy Marín, quien alegó violaciones a sus derechos constitucionales en el proceso de partición de comunidad hereditaria. La sentencia del Tribunal Superior que declaró parcialmente con lugar la acción de amparo fue confirmada, y se ordenó la reposición de la causa al estado en que se dicte un nuevo auto de certeza, debido a que se vulneraron derechos fundamentales como el derecho a la defensa y al debido proceso. La apelación presentada por la parte demandada fue declarada sin lugar.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "derechos constitucionales",
+    "inhibición",
+    "debido proceso",
+    "herencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0344_E21-0249.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342375-0344-18325-2025-21-0249.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.725398"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42135,
+  "numero": "0032",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 7 de junio de 2018, que declaró sin lugar la apelación interpuesta por el CLUB TÁCHIRA ASOCIACIÓN CIVIL contra la decisión del 22 de marzo de 2018, que había declarado con lugar la acción de amparo de Nancy Coromoto Colmenares Viña. La Sala concluyó que el Juzgado Superior incurrió en vicios de incongruencia negativa y violación del debido proceso, al no considerar la existencia de vías ordinarias para la defensa de los derechos de la accionante.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "acción constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0032_E18-0537.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303699-0032-12219-2019-18-0537.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.620582"
+}

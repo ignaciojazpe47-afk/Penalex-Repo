@@ -1,0 +1,23 @@
+{
+  "id": 38369,
+  "numero": "0047",
+  "fecha": "2021-04-07",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación presentado por Pablo Ulises García Pérez contra un fallo del Tribunal Superior Accidental de Protección de Niños, Niñas y Adolescentes del Estado Aragua. Este fallo consistía en una medida cautelar que suspendía el régimen de convivencia familiar provisional a favor del apelante. La Sala, tras analizar la competencia, decidió declarar inadmisible el recurso de apelación debido a la falta de consignación de la copia certificada del fallo impugnado.",
+  "palabras_clave": [
+    "apelación",
+    "amparo constitucional",
+    "medida cautelar",
+    "convivencia familiar"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-07_S0047_E20-0188.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311604-0047-7421-2021-20-0188.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.748077"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16700,
+  "numero": "0601",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los abogados de Jorge Enrique Reyes Hernández y Edixon David Reyes Henrique contra la decisión de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia. La Corte de Apelaciones había declarado con lugar el recurso de apelación interpuesto por el Ministerio Público, anulando la sentencia absolutoria del Juzgado Segundo de Primera Instancia en Funciones de Juicio, por vicios de inmotivación y falta de competencia en la valoración de pruebas. La Sala Constitucional concluye que no se presentan los supuestos de procedencia para la acción de amparo, por lo que se desestima la pretensión.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "presunción de inocencia",
+    "acción de amparo",
+    "incompetencia",
+    "jurisprudencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0601_E24-1193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355594-0601-13526-2026-24-1193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.886622"
+}

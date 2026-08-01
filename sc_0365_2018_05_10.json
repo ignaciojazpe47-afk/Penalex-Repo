@@ -1,0 +1,24 @@
+{
+  "id": 46747,
+  "numero": "0365",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la solicitud de revisión constitucional presentada por María Teresa Castiglioni Asaro, en relación a la sentencia N° 425 dictada por la Sala de Casación Social. La Sala determina su competencia para conocer la solicitud, argumentando que tiene la potestad de revisar sentencias firmes de amparo constitucional y control de constitucionalidad de leyes o normas jurídicas dictadas por los tribunales de la República.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "sentencias firmes",
+    "amparo constitucional",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-11_S0365_E17-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211130-0365-11518-2018-17-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.814976"
+}

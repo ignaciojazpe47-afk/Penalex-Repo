@@ -1,0 +1,22 @@
+{
+  "id": 18730,
+  "numero": "0274",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre un recurso de amparo constitucional interpuesto por varios ciudadanos contra la sociedad Caracas Paper Company, S.A. (CAPACO) debido a un estado de desacato laboral. La acción de amparo fue declarada improcedente por el Juzgado Superior Tercero del Trabajo, lo que motivó la apelación por parte de los accionantes. La Sala ordena al Tribunal Cuarto de Primera Instancia de Juicio del Trabajo que informe sobre el estado actual de la causa principal y remita las copias certificadas de las actuaciones pertinentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato laboral",
+    "Caracas Paper Company"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0274_E23-0818.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342179-0274-6325-2025-23-0818.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.870310"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 38585,
+  "numero": "0140",
+  "fecha": "2021-04-30",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por el abogado Humberto José Rodríguez Uvieda, en su calidad de Síndico Procurador Municipal del Municipio Atures del Estado Amazonas. La solicitud se refiere a una sentencia dictada por la Corte Segunda de lo Contencioso Administrativo que declaró desistido un recurso de apelación. La Sala, tras la recepción del expediente, ordena a la Corte Segunda que remita la totalidad del expediente para analizar la posible violación del debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "competencia",
+    "autos",
+    "sanciones"
+  ],
+  "titulo": "Solicitud de revisión constitucional de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-30_S0140_E17-1123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/312004-0140-30421-2021-17-1123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.885539"
+}

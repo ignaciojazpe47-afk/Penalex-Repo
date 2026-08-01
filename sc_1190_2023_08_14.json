@@ -1,0 +1,27 @@
+{
+  "id": 34083,
+  "numero": "1190",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara competente para resolver el conflicto de competencia planteado entre el Juzgado Tercero de Primera Instancia en Función de Juicio del Circuito Judicial Penal del estado Apure y el Juzgado Militar Cuarto de Juicio de San Cristóbal del estado Táchira, en relación a la acción de amparo constitucional interpuesta por IVÁN DARÍO LÓPEZ SOCADAGUI contra el General de Brigada Robinson José Vera Cumare. La acción de amparo se origina por una medida de ocupación temporal dictada por un tribunal militar que afecta derechos constitucionales del demandante.\n\nLa Sala concluye que la Corte Marcial de la República Bolivariana de Venezuela es el órgano competente para conocer del mérito de la acción de amparo, dado que la medida de ocupación fue dictada por un tribunal militar. Se ordena remitir el expediente a la Corte Marcial para su conocimiento y decisión.\n\nFinalmente, se publica y registra la decisión, reafirmando la competencia de la Sala Constitucional en materia de amparo constitucional y la necesidad de remitir el caso al tribunal superior correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "jurisprudencia",
+    "derechos",
+    "garantías",
+    "proceso",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1190_E18-0732.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328394-1190-14823-2023-18-0732.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.861507"
+}

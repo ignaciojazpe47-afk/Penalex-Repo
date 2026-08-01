@@ -1,0 +1,23 @@
+{
+  "id": 21451,
+  "numero": "1311",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por la ciudadana Olmary Rosa González Suárez, en relación a decisiones de los juzgados de primera y segunda instancia que afectaron su derecho a la defensa y debido proceso en un juicio de intimación de honorarios. La Sala declaró con lugar la solicitud, anulando las decisiones impugnadas y reponiendo la causa a la fase procesal correspondiente para que otro tribunal dicte nueva decisión, garantizando así la seguridad jurídica y el respeto a la cosa juzgada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "debido proceso",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de intimación de honorarios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1311_E24-0869.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346973-1311-6825-2025-24-0869.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.767111"
+}

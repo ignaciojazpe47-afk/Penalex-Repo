@@ -1,0 +1,25 @@
+{
+  "id": 17505,
+  "numero": "0501",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Corpus",
+  "materia": "Constitucional",
+  "decision": "Incompetencia",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de habeas corpus presentada por Galo Armando Padilla en nombre de su hermano Petter Distefano Padilla Rea, quien se encuentra desaparecido desde el 27 de julio de 2025. Tras analizar el caso, la Sala declaró su incompetencia para conocer la solicitud, argumentando que corresponde a los Juzgados de Primera Instancia en Funciones de Control del estado Táchira. La Sala ordenó la remisión del expediente a dicho circuito judicial para su tramitación adecuada.",
+  "palabras_clave": [
+    "habeas corpus",
+    "incompetencia",
+    "derechos humanos",
+    "justicia",
+    "libertad",
+    "seguridad personal"
+  ],
+  "titulo": "Sentencia sobre solicitud de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0501_E25-1184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354952-0501-14426-2026-25-1184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.013798"
+}

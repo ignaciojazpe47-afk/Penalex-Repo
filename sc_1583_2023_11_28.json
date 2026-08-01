@@ -1,0 +1,22 @@
+{
+  "id": 33014,
+  "numero": "1583",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la revisión constitucional solicitada por Oscar Jesús Navas Tortolero, quien impugna dos sentencias de la Corte de Apelaciones relacionadas con delitos de violencia contra la mujer. La Sala reconoce la legitimidad del solicitante para interponer la revisión, dado que fue condenado en la sentencia n.° 05-21 y tiene interés en la causa n.° 031-18.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "violencia contra la mujer",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencias en materia de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1583_E23-0151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330638-1583-281123-2023-23-0151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.015555"
+}

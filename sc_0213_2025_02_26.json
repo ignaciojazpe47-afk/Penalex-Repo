@@ -1,0 +1,23 @@
+{
+  "id": 18647,
+  "numero": "0213",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha lugar la solicitud de revisión y se anula la sentencia identificada con el alfanumérico AVOC.000836.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia AVOC.000836 dictada por la Sala de Casación Civil, que había declarado procedente la segunda fase del avocamiento solicitado por la sociedad mercantil Invrami, C.A. y ordenado la entrega de un inmueble a dicha sociedad. La Sala Constitucional determinó que la decisión de la Sala de Casación Civil había ignorado el derecho a la defensa y al debido proceso, afectando los derechos de la parte demandada, la sociedad mercantil Zuliana de Persianas, C.A. (ZUPECA). En consecuencia, se anuló la sentencia y se ordenó tramitar el avocamiento solicitado por Invrami, C.A.",
+  "palabras_clave": [
+    "avocamiento",
+    "reivindicación",
+    "due process",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de la sentencia AVOC.000836 sobre avocamiento y reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0213_E22-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342025-0213-26225-2025-22-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.751795"
+}

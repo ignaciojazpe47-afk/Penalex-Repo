@@ -1,0 +1,23 @@
+{
+  "id": 33498,
+  "numero": "1832",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Wilmer Rafael Saballe en representación de Andry Peter León Vásquez. La acción se fundamenta en la impugnación de una decisión de la Corte de Apelaciones que confirmó la orden de aprehensión dictada por el Juzgado Primero en Funciones de Control, alegando violaciones al debido proceso y a derechos fundamentales del imputado. La Sala concluye que la orden de aprehensión fue ajustada a derecho, dado que el imputado había sido debidamente notificado y no compareció a las audiencias correspondientes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "orden de aprehensión",
+    "debido proceso",
+    "Estado Zulia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1832_E23-0226.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331367-1832-81223-2023-23-0226.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.466557"
+}

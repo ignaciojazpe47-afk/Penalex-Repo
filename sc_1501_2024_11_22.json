@@ -1,0 +1,23 @@
+{
+  "id": 21963,
+  "numero": "1501",
+  "fecha": "2024-11-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Penal",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia dictó la sentencia N° 631 el 22 de noviembre de 2024, desestimando el recurso extraordinario de casación interpuesto por los ciudadanos ANA KARINA PÉREZ LABARCA y JULIO CÉSAR BRICEÑO JIMÉNEZ. La decisión se fundamentó en la falta de cumplimiento de los requisitos establecidos en el Código Orgánico Procesal Penal, específicamente en relación a la motivación de la sentencia de la Corte de Apelaciones, la cual fue considerada insuficiente por el recurrente. La Sala concluyó que no se evidenció un vicio que justificara la revisión solicitada, reafirmando la competencia de la Corte de Apelaciones para valorar las pruebas y emitir su decisión.",
+  "palabras_clave": [
+    "casación",
+    "sentencia",
+    "motivación",
+    "recurso extraordinario"
+  ],
+  "titulo": "Revisión de sentencia de casación penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1501_E25-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348116-1501-30925-2025-25-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.132117"
+}

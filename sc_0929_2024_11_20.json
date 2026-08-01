@@ -1,0 +1,22 @@
+{
+  "id": 27723,
+  "numero": "0929",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de avocamiento presentada por el Fiscal Nonagésimo Cuarto, Renny Raúl Amundaraín Durán, en relación a las causas penales BP01-P-2021-000656 y BP01-P-2021-000663. Se determina que la competencia corresponde a la Sala de Casación Penal, a la cual se ordena remitir las actuaciones para su pronunciamiento. La decisión se fundamenta en la falta de pronunciamiento del tribunal inferior sobre la solicitud de privación judicial preventiva de libertad y la necesidad de garantizar el orden público constitucional.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "orden público constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0929_E21-0589.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339206-0929-201124-2024-21-0589.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.158013"
+}

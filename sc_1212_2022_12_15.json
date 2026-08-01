@@ -1,0 +1,25 @@
+{
+  "id": 38089,
+  "numero": "1212",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de diciembre de 2022, declaró sin lugar el recurso de apelación interpuesto por la parte accionante contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en la existencia de un recurso ordinario en trámite, lo que hacía inadmisible el amparo constitucional. Además, se destacó la falta de representación adecuada del abogado que actuaba en nombre de la sociedad mercantil demandante.",
+  "palabras_clave": [
+    "amparo",
+    "decisión judicial",
+    "acción autónoma",
+    "inadmibilidad",
+    "derechos constitucionales",
+    "procedimiento civil"
+  ],
+  "titulo": "Decisión sobre recurso de apelación y amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1212_E18-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322104-1212-151222-2022-18-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.142351"
+}

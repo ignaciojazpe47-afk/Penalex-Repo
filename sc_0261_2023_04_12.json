@@ -1,0 +1,24 @@
+{
+  "id": 29729,
+  "numero": "0261",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 12 de abril de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por Elisa Mercedes Rivero Heredia contra el Juzgado Tercero de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario de Caracas. La Sala fundamentó su decisión en que la demandante había agotado los recursos ordinarios disponibles, específicamente un recurso de hecho, lo que la inhabilitaba para recurrir a la acción de amparo. La Sala concluyó que no existió vulneración de derechos constitucionales, ya que la parte recurrente no utilizó adecuadamente las vías procesales disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "vías judiciales",
+    "admisibilidad",
+    "recursos ordinarios"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0261_E21-0171.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324348-0261-12423-2023-21-0171.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.043249"
+}

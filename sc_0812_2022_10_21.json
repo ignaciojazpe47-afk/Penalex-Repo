@@ -1,0 +1,26 @@
+{
+  "id": 36876,
+  "numero": "0812",
+  "fecha": "2022-10-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Cruz José Hernández Villarroel contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui, dictada el 9 de noviembre de 2018. La acción fue considerada improcedente in limine litis, ya que no se evidenció la violación de derechos constitucionales ni se cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala reafirma la autonomía de los jueces en la valoración de pruebas y la imposibilidad de revisar decisiones judiciales por vía de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inmotivación",
+    "lesiones personales",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "vicios procesales"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-21_S0812_E19-0252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320194-0812-211022-2022-19-0252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.096837"
+}

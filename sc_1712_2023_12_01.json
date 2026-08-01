@@ -1,0 +1,24 @@
+{
+  "id": 33209,
+  "numero": "1712",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a un recurso de apelación interpuesto por la abogada Lisett Carolina González Granadino, actuando como defensora de los ciudadanos Mauricio Antonio Granadino Manrrufo y George Gabriel González Granadino, declaró con lugar el recurso de apelación contra la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Corte de Apelaciones había fundamentado su decisión en la supuesta falta de agotamiento de la vía ordinaria, lo cual fue refutado por la Sala Constitucional al señalar que el auto de apertura a juicio no es susceptible de apelación.\n\nLa Sala Constitucional determinó que la acción de amparo era procedente, ya que el auto de apertura a juicio dictado por el Tribunal Penal de Primera Instancia no podía ser apelado, lo que justificaba el uso de la vía extraordinaria del amparo. En consecuencia, la Sala anuló la decisión de la Corte de Apelaciones y ordenó que se pronuncie nuevamente sobre la admisibilidad del amparo propuesto.\n\nFinalmente, la sentencia fue firmada por la Magistrada Michel Adriana Velásquez Grillet, quien actuó como ponente, y se publicó el 1 de diciembre de 2023.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1712_E22-0392.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330958-1712-11223-2023-22-0392.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.169782"
+}

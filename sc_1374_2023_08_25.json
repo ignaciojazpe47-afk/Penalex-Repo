@@ -1,0 +1,23 @@
+{
+  "id": 31998,
+  "numero": "1374",
+  "fecha": "2023-08-25",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la sociedad mercantil HOLDING INVERSIONISTA PARA LA PESCA DEL ATÚN (HIPESA C.A.) contra la decisión del Juzgado Superior Marítimo que declaró prescrita la acción por cobro de bolívares. La Sala argumenta que han transcurrido más de seis meses desde la notificación de la decisión impugnada, lo que excede el lapso establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales para la interposición de la acción de amparo. Además, se concluye que no se evidencian violaciones que afecten al orden público o a la colectividad, limitándose la afectación a la esfera subjetiva de la parte actora.",
+  "palabras_clave": [
+    "Amparo",
+    "Constitucional",
+    "Prescripción",
+    "Cobro de bolívares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-25_S1374_E23-0654.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328581-1374-25823-2023-23-0654.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.211033"
+}

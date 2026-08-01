@@ -1,0 +1,27 @@
+{
+  "id": 30262,
+  "numero": "0481",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados de Berlice de los Ángeles Casañas Gil, en relación a la omisión de pronunciamiento por parte de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui. La Sala determinó su competencia para conocer el caso y ordenó a los tribunales correspondientes que informen sobre el estado del proceso penal en curso. Se establecieron plazos para que se cumplan las órdenes impartidas, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "retardo judicial",
+    "debido proceso",
+    "tutela judicial",
+    "derecho a la libertad",
+    "competencia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0481_E22-0623.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325102-0481-15523-2023-22-0623.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.038271"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23249,
+  "numero": "1905",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "HA LUGAR la revisión de la sentencia dictada el 12 de marzo de 2024, por el Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Mérida.",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero que declaró sin lugar los recursos de apelación interpuestos por los ciudadanos Yelitza Díaz Meza y Pablo Emilio Díaz Rivas. Se determinó que el defensor ad litem no cumplió con sus deberes, lo que vulneró el derecho a la defensa y al debido proceso. Por ello, se anula la sentencia de fecha 12 de marzo de 2024 y se ordena reponer la causa al estado de designar un nuevo defensor ad litem.",
+  "palabras_clave": [
+    "revisión",
+    "derecho a la defensa",
+    "debido proceso",
+    "defensor ad litem",
+    "sentencia",
+    "constitucionalidad",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de partición de bienes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1905_E25-0732.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350501-1905-261125-2025-25-0732.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.055684"
+}

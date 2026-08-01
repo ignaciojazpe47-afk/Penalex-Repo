@@ -1,0 +1,22 @@
+{
+  "id": 33930,
+  "numero": "2077",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁZQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por Robinson Salcedo, en representación de la sociedad mercantil ING. SEHIACA C.A., contra una medida de embargo preventivo dictada por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito del Estado Lara. La Sala declaró con lugar el recurso de apelación interpuesto por Vicencio Egidio Cianciarelli Mignini, revocando la decisión del juzgado inferior y declarando inadmisible la acción de amparo. Se argumentó que el apelante no agotó los recursos ordinarios disponibles para impugnar la medida cautelar, lo que llevó a la inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "embargo preventivo",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2077_E22-1002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332047-2077-201223-2023-22-1002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.681148"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 27267,
+  "numero": "0673",
+  "fecha": "2023-02-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "Los ciudadanos Rafael Rosendo Medina Morales y Marisol Lucía Di Maurizio Matheus solicitaron revisión constitucional de una sentencia de la Sala de Casación Civil del TSJ, alegando vicios de incongruencia y distorsión del debate procesal. La Sala Constitucional, tras analizar la solicitud, determinó que la sentencia impugnada no vulneraba derechos constitucionales y que la falta de cualidad de la demandada para ser obligada al pago de los premios era evidente. Por lo tanto, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "falta de cualidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Solicitud de revisión constitucional de sentencia de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0673_E23-0460.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338669-0673-71124-2024-23-0460.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.303326"
+}

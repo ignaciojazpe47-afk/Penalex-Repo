@@ -1,0 +1,24 @@
+{
+  "id": 20808,
+  "numero": "1066",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Antonio Rafael Zapata en nombre de HERIS TONY ROJAS, debido a la falta de legitimidad del abogado para actuar en el presente asunto. Se establece que es necesario presentar el poder correspondiente para validar la representación legal en este tipo de solicitudes.",
+  "palabras_clave": [
+    "representación",
+    "inadmisibilidad",
+    "poder",
+    "revisión constitucional",
+    "carga procesal"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1066_E24-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345828-1066-9725-2025-24-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.502642"
+}

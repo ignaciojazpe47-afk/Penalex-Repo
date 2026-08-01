@@ -1,0 +1,23 @@
+{
+  "id": 39989,
+  "numero": "0542",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por David Alejandro Olarte Menoni, en su carácter de Director Gerente del 'Estacionamiento El Triángulo 2012, C.A.', contra una sentencia del Juzgado Cuarto de Primera Instancia que declaró inadmisible su solicitud de posesión real y voluntaria a favor del Fisco Nacional. La Sala observó que el fallo impugnado prejuzgaba sobre el fondo y vulneraba derechos constitucionales fundamentales, como la tutela judicial efectiva y el debido proceso.\n\nLa decisión del Juzgado fue considerada como una violación a los derechos de la parte solicitante, ya que se argumentó que la falta de cualidad activa no justificaba la inadmisibilidad de la demanda. La Sala, al analizar los alegatos, concluyó que la acción interpuesta por el demandante era admisible y que el Juzgado había incurrido en vicios que afectaron el derecho a la defensa y la tutela judicial efectiva.\n\nFinalmente, la Sala ordenó al Juzgado remitente que informara sobre la existencia de algún recurso contra la sentencia impugnada, dejando abierta la posibilidad de un pronunciamiento posterior sobre la competencia para conocer de la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de inadmisibilidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0542_E21-0425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313907-0542-281021-2021-21-0425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.121369"
+}

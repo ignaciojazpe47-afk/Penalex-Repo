@@ -1,0 +1,26 @@
+{
+  "id": 19985,
+  "numero": "0785",
+  "fecha": "2024-07-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del TSJ recibió un caso de desacato relacionado con un amparo constitucional interpuesto por Manuel Francisco Sánchez Millán contra Inversiones Jalr, C.A. La Sala observó que el Tribunal Segundo de Juicio del Trabajo había declarado el desacato y había impuesto una sanción, aunque sin especificar la pena de prisión. En consecuencia, se ordenó la remisión inmediata del expediente para un pronunciamiento adecuado por parte de la Sala.",
+  "palabras_clave": [
+    "desacato",
+    "trabajo",
+    "jurisprudencia",
+    "remisión",
+    "sanciones",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre desacato en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0785_E24-0664.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344263-0785-28525-2025-24-0664.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.644977"
+}

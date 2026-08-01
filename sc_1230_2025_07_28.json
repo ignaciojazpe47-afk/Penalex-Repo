@@ -1,0 +1,26 @@
+{
+  "id": 21216,
+  "numero": "1230",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Franklin Escobar en representación de Julio César Escobar Mendoza. La decisión se basa en la falta de corrección del escrito de amparo, que no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que impide a la Sala formarse una opinión sobre la situación jurídica del demandante.\n\nSe destaca que el abogado defensor tiene la responsabilidad de exponer los hechos de manera clara y precisa, y se le sugiere considerar la posibilidad de acudir a la Defensa Pública para recibir asistencia legal. La sentencia fue firmada por la Presidenta de la Sala, Tania D'Amelio Cardiet, y otros magistrados, incluyendo al ponente Luis Fernando Damiani Bustillos.\n\nLa decisión se fundamenta en la normativa que establece que si la solicitud de amparo es oscura o no cumple con los requisitos, se notificará al solicitante para que corrija el defecto, y si no lo hace, la acción será declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "defensa",
+    "normativa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1230_E23-0679.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346527-1230-28725-2025-23-0679.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.777025"
+}

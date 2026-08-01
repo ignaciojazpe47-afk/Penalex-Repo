@@ -1,0 +1,25 @@
+{
+  "id": 42341,
+  "numero": "0054",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La acción de amparo constitucional fue interpuesta por el abogado Humberto A. Gutiérrez contra la presunta omisión de pronunciamiento de la Sala de Casación Civil del Tribunal Supremo de Justicia. El demandante alegó que se encontraba en una situación de incertidumbre debido a la falta de respuesta sobre un recurso de casación anunciado desde 2015, lo que afectaba sus derechos constitucionales a la tutela judicial efectiva y al debido proceso.\nLa Sala Constitucional del Tribunal Supremo de Justicia, tras analizar el caso, declaró inadmisible la acción de amparo, argumentando que la demanda no era procedente contra una omisión de pronunciamiento de la Sala de Casación Civil, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\nFinalmente, se decidió que la acción de amparo interpuesta por el abogado Humberto A. Gutiérrez era inadmisible, y se ordenó su archivo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "justicia",
+    "derechos",
+    "tribunal",
+    "casacion"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0054_E18-0550.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303992-0054-27219-2019-18-0550.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.610478"
+}

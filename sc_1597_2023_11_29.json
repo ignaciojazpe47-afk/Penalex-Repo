@@ -1,0 +1,23 @@
+{
+  "id": 33088,
+  "numero": "1597",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por Alejandro Ugarte Sperandio, quien solicitó la designación de un defensor ad litem para los herederos desconocidos de Celina Caridad Sperandio de Ugarte. La Sala consideró que la acción de amparo era inadmisible por no haberse agotado previamente el recurso de apelación contra las decisiones del Juzgado Superior que negaron dicha designación. Se argumentó que el juez no podía designar un defensor judicial a personas que no eran parte del juicio, ya que la acción iba dirigida solo contra ciertos ciudadanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "defensor ad litem",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1597_E23-0238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330764-1597-291123-2023-23-0238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.991771"
+}

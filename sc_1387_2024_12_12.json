@@ -1,0 +1,25 @@
+{
+  "id": 28482,
+  "numero": "1387",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Dorexi José Bernal Mujica, quien impugnó la decisión del Juzgado Quinto de Primera Instancia que decretó el sobreseimiento de la causa por falta de elementos de convicción. La Sala declaró competente para conocer de la solicitud, pero finalmente no admitió la revisión, argumentando que no se evidenció vulneración de derechos constitucionales ni interpretación contraria a criterios establecidos por la Sala. La decisión del Juzgado fue considerada ajustada a derecho.",
+  "palabras_clave": [
+    "inmunidad",
+    "derechos",
+    "proceso penal",
+    "motivación",
+    "tutela judicial",
+    "sobreseimiento"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sobreseimiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1387_E23-0474.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340504-1387-121224-2024-23-0474.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.818952"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27317,
+  "numero": "0698",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por José Miguel Viña Díaz, en su carácter de director gerente de Bodegón Bicentenario, C.A. La solicitud se refería a la revisión de la sentencia N° 131, del 14 de mayo de 2021, dictada por la Sala de Casación Civil, que declaró sin lugar un recurso extraordinario de casación en un juicio de desalojo.\n\nLa Sala determinó su competencia para conocer la solicitud, pero declaró inadmisible la misma debido a la falta de presentación de la copia certificada del fallo objeto de revisión, lo que constituye un requisito indispensable para la admisión de la solicitud. La decisión se fundamenta en la normativa vigente que establece la carga del solicitante de presentar la documentación necesaria para verificar la admisibilidad de la demanda.\n\nFinalmente, la Sala Constitucional declaró inadmisible la solicitud de revisión, enfatizando que el incumplimiento de presentar la copia certificada del fallo impide el avance del proceso de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisible",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0698_E21-0776.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338720-0698-81124-2024-21-0776.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.434087"
+}

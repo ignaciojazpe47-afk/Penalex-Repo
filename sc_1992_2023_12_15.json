@@ -1,0 +1,23 @@
+{
+  "id": 33845,
+  "numero": "1992",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 283 dictada por la Sala de Casación Social, que había declarado con lugar un recurso de casación y ordenado la reposición de la causa para evacuar pruebas. El solicitante argumentó que la reposición era inútil y vulneraba su derecho a la tutela judicial. La Sala Constitucional, tras analizar los argumentos, determinó que la reposición era necesaria para garantizar el derecho a la defensa y que la juez de alzada había incurrido en quebrantamiento de formas sustanciales al no pronunciarse sobre las pruebas promovidas. Finalmente, se declaró no ha lugar la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "derecho a la defensa",
+    "reposiciones inútiles"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 283 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1992_E23-0308.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331962-1992-151223-2023-23-0308.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.430436"
+}

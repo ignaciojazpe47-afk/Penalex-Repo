@@ -1,0 +1,27 @@
+{
+  "id": 43482,
+  "numero": "0224",
+  "fecha": "2019-07-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Nelson José Marrero Barreto en nombre de Carlos Enrique Pérez González, contra un auto dictado por el Tribunal de Primera Instancia en Funciones de Control. La decisión se basa en que la acción fue presentada fuera del lapso de caducidad establecido por la ley, ya que transcurrieron más de seis meses desde el acto que causó la supuesta lesión constitucional hasta la interposición de la acción de amparo.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "acción de amparo",
+    "jurisdicción civil",
+    "nulo",
+    "competencia",
+    "ley de propiedad horizontal",
+    "ley de arrendamiento"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-12_S0224_E18-0505.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306109-0224-12719-2019-18-0505.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.409651"
+}

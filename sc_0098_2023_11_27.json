@@ -1,0 +1,24 @@
+{
+  "id": 18342,
+  "numero": "0098",
+  "fecha": "2023-11-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional dictó la sentencia N° 1569, ordenando a la Rectoría Civil del Área Metropolitana de Caracas remitir el expediente N° AP71-R-2016-001185, relacionado con un juicio de resolución de contrato e indemnización de daños y perjuicios. Esta decisión se basa en el cumplimiento parcial de una orden anterior y busca asegurar la correcta tramitación del caso. Se advierte sobre las sanciones por incumplimiento de la orden impartida.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "asociación civil",
+    "contrato",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y orden de remisión de expediente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0098_E21-0483.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341429-0098-12225-2025-21-0483.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.421572"
+}

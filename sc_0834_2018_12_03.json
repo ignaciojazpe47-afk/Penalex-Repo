@@ -1,0 +1,22 @@
+{
+  "id": 49223,
+  "numero": "0834",
+  "fecha": "2018-12-03",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 575, declara con lugar la apelación interpuesta por la entidad mercantil Servicios de Automatización Neumático Electrónico Industrial C.A. contra la decisión del Juzgado Superior Primero que había declarado inadmisible la acción de amparo constitucional. La Sala concluye que se violaron los derechos al debido proceso y a la defensa de la parte accionante, ya que el Juzgado de Primera Instancia no dictó la sentencia dentro del lapso legal establecido y no notificó a las partes, lo que generó indefensión.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-12-03_S0834_E16-0786.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/302793-0834-31218-2018-16-0786.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:03.904912"
+}

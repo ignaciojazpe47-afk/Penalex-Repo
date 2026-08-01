@@ -1,0 +1,24 @@
+{
+  "id": 38868,
+  "numero": "0245",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "ADMITE la demanda de nulidad.",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción popular de nulidad interpuesta por el abogado Jesús Édinson Velásquez Rodríguez contra el artículo 137 del Código Civil Venezolano, argumentando que este artículo viola derechos constitucionales al impedir que los hombres usen el apellido de sus esposas. La Sala se declaró competente para conocer de la demanda y ordenó la remisión del expediente al Juzgado de Sustanciación para las notificaciones pertinentes.",
+  "palabras_clave": [
+    "nulidad",
+    "constitucionalidad",
+    "derechos",
+    "igualdad",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre acción popular de nulidad del artículo 137 del Código Civil Venezolano",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0245_E21-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312366-0245-11621-2021-21-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.180819"
+}

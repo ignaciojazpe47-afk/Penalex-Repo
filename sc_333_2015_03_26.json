@@ -1,0 +1,24 @@
+{
+  "id": 62891,
+  "numero": "333",
+  "fecha": "2015-03-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de marzo de 2015, revisó la sentencia dictada el 22 de septiembre de 2014 por el Juzgado Superior Séptimo en lo Civil, Mercantil, Tránsito y Bancario, que había declarado con lugar la acción de amparo constitucional interpuesta por Adriana Bahamón González contra Gloria Acosta. La Sala concluyó que no había lugar a la solicitud de revisión presentada por Acosta, ya que no se evidenció quebrantamiento de derechos constitucionales ni contradicción con criterios jurisprudenciales establecidos.\n\nLa Sala analizó los argumentos de la parte solicitante, quienes alegaron violaciones al debido proceso y a la tutela judicial efectiva, así como errores en la interpretación de la ley. Sin embargo, la Sala consideró que el Juzgado Superior actuó conforme a derecho y que la acción de amparo era procedente, dado el contexto de despojo del inmueble en cuestión.\n\nFinalmente, la Sala declaró que la revisión no procedía, reafirmando la decisión del Juzgado Superior y subrayando que la solicitud de suspensión de efectos de la decisión cuestionada era inoficiosa, dado su carácter accesorio respecto de la acción principal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo constitucional",
+    "derechos constitucionales",
+    "due process",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-26_S333_E14-1070.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175812-333-26315-2015-14-1070.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:49.920684"
+}

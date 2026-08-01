@@ -1,0 +1,26 @@
+{
+  "id": 38153,
+  "numero": "1252",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de interpretación presentada por Alberto José Godoy Infante, en la que solicitaba aclaraciones sobre artículos de la Constitución y la Ley Orgánica de la Contraloría Social. La Sala determinó que el demandante no mostró interés procesal en el impulso de su solicitud desde su presentación el 29 de mayo de 2019, lo que llevó a declarar la pérdida del interés procesal y la consecuente terminación del procedimiento.",
+  "palabras_clave": [
+    "interés procesal",
+    "acción judicial",
+    "perención",
+    "administración de justicia",
+    "constitución",
+    "sentencias",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre la pérdida del interés procesal en demanda de interpretación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1252_E19-0243.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322169-1252-151222-2022-19-0243.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.137695"
+}

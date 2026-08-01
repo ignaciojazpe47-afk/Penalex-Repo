@@ -1,0 +1,26 @@
+{
+  "id": 38092,
+  "numero": "1215",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Enrique José Cedeño Abreu, en representación del Sindicato Único de Trabajadores del Consejo Nacional Electoral, contra el Consejo Nacional Electoral por presuntas violaciones a derechos sociales. A pesar de las múltiples solicitudes de pronunciamiento, la parte demandante mostró inactividad en el proceso desde febrero de 2020, lo que llevó a la Sala a declarar el abandono del trámite. Finalmente, se impuso una multa a la parte actora por el abandono del procedimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonos de trámite",
+    "interés procesal",
+    "estado de alarma",
+    "derechos fundamentales",
+    "sanciones",
+    "celeridad procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por el SUTCNE",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1215_E19-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322107-1215-151222-2022-19-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.135082"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23438,
+  "numero": "1953",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Emmanuel Benet González Valbuena, defensor privado de Dennys José Albornoz, contra la decisión de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia. La acción se fundamentó en la supuesta violación de derechos fundamentales, pero se determinó que el acto impugnado había cesado y que el demandante no había agotado las vías ordinarias de impugnación.",
+  "palabras_clave": [
+    "nulidad absoluta",
+    "tutela judicial",
+    "debido proceso",
+    "flagrancia",
+    "prueba ilícita",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1953_E22-0145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350839-1953-281125-2025-22-0145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.798614"
+}

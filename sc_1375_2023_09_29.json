@@ -1,0 +1,24 @@
+{
+  "id": 32074,
+  "numero": "1375",
+  "fecha": "2023-09-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por Mariela Sobeida Hernández González, quien argumentó la existencia de graves desórdenes procesales en el juicio que se sigue en su contra por presunta invasión. La Sala consideró que la decisión del Tribunal Vigésimo de Primera Instancia en Funciones de Control, que decretó una medida cautelar de restitución de inmuebles, se basó en una denuncia falsa y generó un grave perjuicio a los derechos de las ocupantes legítimas de los inmuebles. En consecuencia, se ordenó la suspensión de la causa y la remisión del expediente al Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "medida cautelar",
+    "invasión",
+    "derechos humanos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-09-29_S1375_E23-0968.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/328714-1375-29923-2023-23-0968.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.208550"
+}

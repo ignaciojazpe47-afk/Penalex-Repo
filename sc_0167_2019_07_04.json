@@ -1,0 +1,23 @@
+{
+  "id": 43303,
+  "numero": "0167",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 18 de noviembre de 2015, que amonestó al abogado Francisco Javier Hurtado León por supuestas faltas. El abogado argumentó que la decisión carecía de motivación y fundamento, lo que violaba sus derechos. La Sala determinó que la sentencia impugnada era inmotivada y carecía de especificidad, por lo que declaró con lugar la solicitud de revisión, anulando la amonestación impuesta al abogado, pero manteniendo el resto del fallo que confirmaba parcialmente la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amonestación",
+    "revisión constitucional",
+    "motivación",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión de sentencia sobre amonestación a abogado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0167_E16-0936.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305861-0167-4719-2019-16-0936.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.826175"
+}

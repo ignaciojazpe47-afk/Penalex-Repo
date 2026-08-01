@@ -1,0 +1,25 @@
+{
+  "id": 34208,
+  "numero": "1316",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite en la presente acción de amparo constitucional.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El ciudadano Miguel Ángel Doria Betancourt interpuso un amparo constitucional contra una sentencia de desalojo dictada por el Juzgado Superior Cuarto. La Sala Constitucional, tras revisar el expediente, determinó que hubo abandono del trámite por parte del accionante, quien no realizó actuaciones durante más de seis meses. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "debido_proceso",
+    "desalojo",
+    "interés_superior_del_menor",
+    "representación_judicial",
+    "constitución_nacional",
+    "poder_autenticado"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1316_E20-0117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328520-1316-16823-2023-20-0117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.225778"
+}

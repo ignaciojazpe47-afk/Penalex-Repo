@@ -1,0 +1,22 @@
+{
+  "id": 23733,
+  "numero": "2003",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Firme",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Jimmy del Valle Goite Blanco en representación de Danis Rodolfo Saavedra Fernández, quien había solicitado un amparo constitucional por la omisión del Juzgado Décimo Séptimo de dictar un auto fundado tras una audiencia preliminar. La Sala N° 5 de la Corte de Apelaciones había declarado inadmisible la acción de amparo, lo que motivó la apelación. Sin embargo, el 9 de octubre de 2023, el demandante desistió del recurso de apelación tras haber admitido los hechos en un juicio posterior, lo que llevó a la Sala Constitucional a homologar dicho desistimiento y declarar firme la sentencia de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2003_E23-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351749-2003-101225-2025-23-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.746261"
+}

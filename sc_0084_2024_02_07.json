@@ -1,0 +1,26 @@
+{
+  "id": 24137,
+  "numero": "0084",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Nerio José Moreno Guevara en representación de Rubén Darío Valbuena Fernández. La solicitud se refería a la sentencia número 160 de la Sala de Casación Penal, que declaró inadmisible un recurso de casación interpuesto por el defensor. La Sala Constitucional, tras analizar los argumentos, determinó su competencia para conocer la solicitud, pero finalmente declaró inadmisible la misma por no haberse acompañado la copia certificada de la sentencia objeto de revisión, requisito indispensable para su admisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "admisibilidad",
+    "sentencia firme",
+    "legitimación",
+    "inadmisibilidad",
+    "documentos necesarios",
+    "Ley Orgánica del TSJ"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0084_E23-1232.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332455-0084-7224-2024-23-1232.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.574724"
+}

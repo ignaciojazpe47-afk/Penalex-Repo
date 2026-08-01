@@ -1,0 +1,22 @@
+{
+  "id": 20574,
+  "numero": "0974",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo presentada por Digna Medina Rivero, quien alegó violaciones a su derecho al trabajo. Sin embargo, se determinó que la solicitud no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que no se presentaron documentos que respaldaran la relación laboral alegada. Por lo tanto, se ordenó a la parte actora corregir su demanda en un plazo de tres días hábiles.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "trabajo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0974_E24-1060.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345243-0974-27625-2025-24-1060.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.301461"
+}

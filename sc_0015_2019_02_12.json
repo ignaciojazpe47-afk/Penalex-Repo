@@ -1,0 +1,22 @@
+{
+  "id": 42118,
+  "numero": "0015",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional interpuesta por Ramón Arcadio Zambrano Jara contra una transacción homologada por el Juzgado Superior Cuarto en lo Civil. La Sala determinó su competencia para conocer el caso y ordenó al juzgado informar sobre la ejecución de la transacción en un plazo de cinco días, advirtiendo sobre las sanciones por incumplimiento. La decisión busca garantizar el derecho a la educación de los alumnos afectados por la transacción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "transacción",
+    "derecho a la educación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0015_E16-1227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303677-0015-12219-2019-16-1227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.114200"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23832,
+  "numero": "2052",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de diciembre de 2025, revisó la solicitud de revisión constitucional presentada por Patricia del Valle Alvarado Vento, en su calidad de defensora del ciudadano Leandro Antonio Alvarado. La solicitud se fundamentó en la alegación de violaciones al debido proceso y al derecho a la defensa en el contexto de una acción de amparo inadmisible dictada por la Corte de Apelaciones del Circuito Judicial Penal de Mérida el 9 de diciembre de 2024.\n\nLa Sala determinó que la Corte de Apelaciones actuó conforme a derecho al declarar inadmisible la acción de amparo, ya que la solicitante no presentó la documentación requerida para sustentar su solicitud. En consecuencia, la Sala Constitucional declaró no ha lugar la solicitud de revisión, reafirmando la competencia de la Corte de Apelaciones y la validez de su decisión.\n\nFinalmente, la Sala enfatizó que la revisión constitucional no debe ser entendida como una tercera instancia, sino como un mecanismo excepcional para garantizar la uniformidad en la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "violencia",
+    "justicia",
+    "inadmision",
+    "constitucional",
+    "tribunales"
+  ],
+  "titulo": "Revisión constitucional de sentencia inadmisible de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2052_E25-0135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351865-2052-101225-2025-25-0135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743773"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20921,
+  "numero": "1122",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por el abogado Henry Alexander Colmenares en representación de Freddy Gerardo Salazar Pinto. La solicitud se refería a causas penales que no involucran competencias atribuidas a esta Sala, por lo que se declina el conocimiento a la Sala de Casación Penal. La decisión se fundamenta en la falta de cumplimiento de los requisitos necesarios para que la Sala Constitucional ejerza su facultad de avocarse al caso.",
+  "palabras_clave": [
+    "derechos fundamentales",
+    "prisión por deudas",
+    "regresión constitucional",
+    "justicia",
+    "fiscalía",
+    "contratos",
+    "estafa"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1122_E21-0567.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346029-1122-14725-2025-21-0567.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.495521"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 39999,
+  "numero": "0552",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de octubre de 2021, declaró sin lugar el recurso de apelación interpuesto por el abogado Andrés José Correia Mermejo, actuando como defensor del ciudadano JHERSON JUSTINO NAVARRO GALLARDO. La apelación se refería a la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional presentada contra una sentencia anterior del Tribunal Primero de Primera Instancia en función de Control del Circuito Judicial Penal de la Circunscripción Judicial del Estado Apure.\n\nLa Sala fundamentó su decisión en que el apelante no había agotado las vías judiciales ordinarias antes de recurrir al amparo, lo que configuraba la causal de inadmisibilidad prevista en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se destacó que el recurso de apelación era un medio idóneo y eficaz que el demandante debió utilizar para hacer valer sus derechos, y al no hacerlo, se consideró que la acción de amparo no era procedente.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, reafirmando que la inadmisibilidad de la acción de amparo era ajustada a derecho, y se ordenó el remitir el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmision",
+    "justicia",
+    "tribunales",
+    "apelacion"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0552_E20-0144.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313917-0552-281021-2021-20-0144.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.120022"
+}

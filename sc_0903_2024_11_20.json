@@ -1,0 +1,25 @@
+{
+  "id": 27697,
+  "numero": "0903",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara competente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer de una acción de amparo constitucional interpuesta por Stella Ana Di Nicola Di Frisco contra la Corte de Apelaciones del Circuito Judicial Penal del estado Guárico. La acción se basa en la omisión de pronunciamiento sobre la publicación y notificación de una sentencia relacionada con una audiencia realizada en febrero de 2023.\n\nLa Sala determina que es competente para conocer de la acción, de acuerdo con lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia y la Ley Orgánica de amparo sobre Derechos y Garantías Constitucionales. Se ordena a la Corte de Apelaciones que informe sobre la publicación de la sentencia en un plazo determinado, advirtiendo sobre las sanciones por incumplimiento.\n\nFinalmente, se insta a la Secretaría de la Sala a priorizar la notificación a través de sistemas de comunicación electrónicos, y se ordena la publicación y registro de la decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "notificación",
+    "sanciones",
+    "Ley Orgánica",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Sentencia sobre competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0903_E24-0060.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339180-0903-201124-2024-24-0060.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.159581"
+}

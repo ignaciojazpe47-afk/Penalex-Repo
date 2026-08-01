@@ -1,0 +1,23 @@
+{
+  "id": 43152,
+  "numero": "0155",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Silvana Yadira Villegas Ramírez contra la sentencia del Juzgado Superior Primero en lo Civil, que declaró inadmisible su demanda de desalojo. La Sala consideró que el Juzgado había actuado fuera de su competencia al no aplicar la consecuencia jurídica de extinción del proceso por la incomparecencia de las partes a la audiencia de apelación. En consecuencia, se anuló la decisión del Juzgado y se declaró firme la sentencia dictada por el Tribunal Cuarto de Municipio Ordinario que había declarado con lugar la demanda de desalojo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0155_E17-1189.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305599-0155-18619-2019-17-1189.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.834106"
+}

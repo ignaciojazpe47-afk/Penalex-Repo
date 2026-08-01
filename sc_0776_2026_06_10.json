@@ -1,0 +1,24 @@
+{
+  "id": 49735,
+  "numero": "0776",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, se ANULA la decisión N° 745, de fecha 12 de agosto de 2025 por la Sala Político Administrativa, se declaran FIRMES las decisiones de fecha 23 de abril de 2025 su extenso del 7 de mayo del mismo año, así como la de fecha 10 de marzo de 2025.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Gustavo Adolfo Mirabal Castro, anulando la decisión N° 745 de la Sala Político Administrativa que había declarado que el Poder Judicial venezolano no tenía jurisdicción frente al juez del Reino de España en un caso de divorcio. La Sala reafirmó la competencia del Poder Judicial venezolano para conocer del asunto, considerando que ambas partes habían ejercido acciones judiciales en el país, lo que implicaba una sumisión tácita a la jurisdicción nacional. Se declararon firmes las decisiones previas del Tribunal Primero de Primera Instancia relacionadas con el régimen de convivencia familiar.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "divorcio",
+    "protección de niños",
+    "derechos familiares"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de divorcio y jurisdicción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0776_E25-1093.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356474-0776-10626-2026-25-1093.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.930466"
+}

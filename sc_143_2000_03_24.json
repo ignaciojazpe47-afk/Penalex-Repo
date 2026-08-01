@@ -1,0 +1,27 @@
+{
+  "id": 1846,
+  "numero": "143",
+  "fecha": "2000-03-24",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": null,
+  "decision": "CORRIGE el error material en que incurrió en el fallo signado con el Nº 143",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia Nº 143, de fecha 24 de marzo de 2000, declaró inadmisible la acción de amparo constitucional interpuesta por la representación judicial del nacional griego Spyridon Makryniotis Papayanopoulo. Posteriormente, se solicitó aclaratoria de dicha sentencia, la cual fue considerada extemporánea. Sin embargo, la Sala, en ejercicio de sus facultades, identificó un error material en el fallo que debía ser corregido. La corrección se refería a la revocación de un fallo del Juzgado Superior en lo Civil, que no era el indicado en la sentencia original. Así, se corrigió el texto para reflejar que el fallo que debía ser revocado era el dictado el 18 de enero de 2000, y no el de 14 de febrero de 2000, asegurando que la decisión del Juzgado Primero de Primera Instancia recobrara su plena vigencia.",
+  "palabras_clave": [
+    "error material",
+    "amparo constitucional",
+    "revocación",
+    "sentencia",
+    "Sala Constitucional",
+    "justicia",
+    "decisión",
+    "jurisprudencia"
+  ],
+  "titulo": "Corrección de error material en sentencia de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-06-20_Constitucional_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.676932"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 22085,
+  "numero": "1518",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 1070, se pronunció sobre la solicitud de revisión constitucional interpuesta por la ciudadana Yarelis Beatriz Sánchez Peña, quien había solicitado la revisión de una sentencia dictada el 29 de abril de 2022 por el Juzgado Superior Segundo en lo Civil, que declaró inadmisible su acción de amparo constitucional. La Sala determinó que existían medios procesales idóneos para restablecer la situación jurídica que se alegaba infringida, como el recurso de invalidación, y que el amparo no era el mecanismo adecuado en este caso.\n\nLa Sala concluyó que la solicitud de revisión no cumplía con los requisitos establecidos para su procedencia, ya que la acción de amparo había sido declarada inadmisible por el tribunal inferior, y que la revisión no debía ser entendida como un nuevo recurso ordinario. Por lo tanto, se declaró NO HA LUGAR la solicitud de revisión, reafirmando la importancia de seguir los procedimientos establecidos en el ordenamiento jurídico.\n\nFinalmente, se ordenó el desglose del expediente original y su devolución al tribunal de origen, reafirmando la competencia de la Sala para conocer de la solicitud presentada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción de amparo",
+    "inadmibilidad",
+    "derechos constitucionales",
+    "Código de Procedimiento Civil",
+    "legitimidad",
+    "competencia",
+    "sentencias firmes"
+  ],
+  "titulo": "Revisión constitucional de sentencia de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1518_E24-1175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348264-1518-61025-2025-24-1175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.187245"
+}

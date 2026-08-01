@@ -1,0 +1,25 @@
+{
+  "id": 31216,
+  "numero": "0921",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Jesús Alex Santeliz González contra una sentencia del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara. El demandante alegó que la decisión del tribunal inferior había violentado sus derechos constitucionales al interpretar erróneamente el artículo 362 del Código de Procedimiento Civil.\n\nLa Sala declaró su competencia para conocer del recurso y consideró que la acción de amparo era procedente, dado que la sentencia impugnada había incurrido en errores de interpretación que afectaron los derechos del demandante. Se ordenó la notificación a los tribunales correspondientes para recabar información sobre el juicio originario.\n\nFinalmente, se advirtió sobre las sanciones por incumplimiento de las órdenes emitidas, y se ordenó la publicación y registro de la decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "interpretación",
+    "Código de Procedimiento Civil",
+    "competencia",
+    "sentencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0921_E23-0419.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326828-0921-12723-2023-23-0419.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.220160"
+}

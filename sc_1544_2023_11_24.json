@@ -1,0 +1,27 @@
+{
+  "id": 32975,
+  "numero": "1544",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional interpuesta por Felipe Nery Siso Cárdenas y Gertrud Esche contra una decisión del Tribunal Primero de Mediación. La sentencia de apelación dictada el 23 de junio de 2022 declaró con lugar la acción de amparo, ordenando la realización de un nuevo avalúo sobre un inmueble objeto de partición de comunidad ordinaria. La Sala, al revisar el expediente, determinó que faltaban actuaciones procesales necesarias para pronunciarse sobre el recurso de apelación, por lo que ordenó la remisión del expediente completo para garantizar el debido proceso.",
+  "palabras_clave": [
+    "justiprecio",
+    "remate",
+    "dueprocess",
+    "avalúo",
+    "peritos",
+    "derechos",
+    "garantías",
+    "ejecución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1544_E22-0541.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330599-1544-241123-2023-22-0541.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.426857"
+}

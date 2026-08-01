@@ -1,0 +1,26 @@
+{
+  "id": 36778,
+  "numero": "0789",
+  "fecha": "2022-10-19",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Rebeca Henríquez Machado, en representación de los ciudadanos Leonel Maita Vargas y Kristopher Bandez Ibarra, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La acción se fundamentó en la omisión de pronunciamiento por parte del Tribunal Décimo Noveno de Primera Instancia en función de Control, respecto a la revisión de la medida privativa de libertad de los accionantes.\nLa Sala Constitucional, tras analizar los argumentos, declaró con lugar el recurso de apelación, revocando la sentencia apelada y ordenando remitir el expediente a la Corte de Apelaciones para que se pronuncie sobre las demás causales de inadmisibilidad. La decisión se fundamentó en la falta de respuesta del tribunal de origen a las solicitudes de revisión de medida de coerción personal, lo que se consideró una violación de los derechos constitucionales de los accionantes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "privación de libertad",
+    "debido proceso",
+    "tutela judicial",
+    "omisión de pronunciamiento",
+    "Código Orgánico Procesal Penal",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-19_S0789_E20-0465.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320043-0789-191022-2022-20-0465.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.102496"
+}

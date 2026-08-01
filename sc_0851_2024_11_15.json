@@ -1,0 +1,26 @@
+{
+  "id": 27604,
+  "numero": "0851",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Tania D'Amelio Cardiet, se pronunció sobre la revisión constitucional solicitada por Julio Roberto Ramos Martínez, quien impugnó la sentencia N° RC.000305 dictada por la Sala de Casación Civil. En esta sentencia, se había declarado con lugar el recurso de casación interpuesto por Consorcio Arquinodo, C.A., contra un fallo que había declarado la nulidad de una compraventa por simulación. La Sala Constitucional, tras analizar los argumentos y pruebas presentadas, concluyó que no se evidenciaron violaciones a los derechos constitucionales alegados por el solicitante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "simulacion",
+    "compraventa",
+    "derecho_a_la_defensa",
+    "jurisprudencia",
+    "codigo_civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° RC.000305",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0851_E19-0453.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339041-0851-151124-2024-19-0453.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.199917"
+}

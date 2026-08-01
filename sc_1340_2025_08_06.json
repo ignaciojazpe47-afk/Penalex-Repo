@@ -1,0 +1,25 @@
+{
+  "id": 21480,
+  "numero": "1340",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por los ciudadanos Jorge Luis Hernández y Rakso Rafael Olvarrieta La Rosa, a través de su abogado Elvis Hernández, contra una decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala determinó su competencia para conocer el caso y consideró que la decisión impugnada vulneraba derechos fundamentales, como el debido proceso y el derecho a recurrir decisiones desfavorables.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "justicia",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1340_E25-0510.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347002-1340-6825-2025-25-0510.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.046534"
+}

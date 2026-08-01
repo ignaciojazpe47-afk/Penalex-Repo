@@ -1,0 +1,22 @@
+{
+  "id": 39854,
+  "numero": "0521",
+  "fecha": "2021-10-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la ciudadana Heimy Johanna Estaba Castillo, contra una decisión del Juzgado Trigésimo Noveno que mantuvo una medida privativa de libertad. La Sala determinó que la acción de amparo era improcedente, ya que debía ser conocida por la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, declinando así su competencia. La decisión se fundamentó en la falta de jurisdicción para conocer el caso, dado que la acción se dirigía contra un juzgado de primera instancia en funciones de control.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida privativa de libertad",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-14_S0521_E19-0589.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313737-0521-141021-2021-19-0589.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.128891"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 41192,
+  "numero": "0053",
+  "fecha": "2020-03-12",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La ciudadana Ana Miguelina Muentes de Santana interpuso una acción de amparo constitucional contra fiscales del Ministerio Público, alegando violaciones a sus derechos al debido proceso y a la defensa en un caso penal donde era víctima. La Sala Constitucional del TSJ, tras analizar el caso, determinó que no era competente para conocer la acción, declinando la competencia a un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Miranda, donde se tramita la causa penal correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "justicia",
+    "proceso penal",
+    "fiscalía",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-03-12_S0053_E17-0607.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/309750-0053-12320-2020-17-0607.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.132988"
+}

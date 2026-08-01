@@ -1,0 +1,25 @@
+{
+  "id": 36280,
+  "numero": "0649",
+  "fecha": "2022-08-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, se pronunció sobre una acción de habeas data interpuesta por Jean Gómez contra la junta de condominio del edificio 'Centro Parque Carabobo'. El demandante alegó violaciones a su derecho a la información y acceso a datos de interés legítimo, solicitando la entrega de información sobre la gestión de la junta de condominio. La Sala, tras analizar el caso, se declaró incompetente para conocer de la acción, indicando que el tribunal competente sería el Juzgado de Municipio de la Circunscripción Judicial del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "habeas data",
+    "competencia",
+    "tribunales",
+    "derecho a la información",
+    "jurisdicción",
+    "acción judicial"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-18_S0649_E22-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319306-0649-18822-2022-22-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.204133"
+}

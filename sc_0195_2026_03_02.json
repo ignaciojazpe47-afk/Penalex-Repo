@@ -1,0 +1,24 @@
+{
+  "id": 16766,
+  "numero": "0195",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por el abogado Henry Joaquín Reverón Arvelo en representación de Eizbeth Jamaica Chaurán Infante. La acción fue declarada inadmisible debido a que el demandante no agotó las vías ordinarias disponibles antes de recurrir al amparo, lo que contraviene el artículo 6, numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\nLa sentencia apelada, dictada el 3 de diciembre de 2025 por la Sala 8 de la Corte de Apelaciones, fue confirmada por la Sala Constitucional, que consideró que la decisión se ajustaba a derecho y que no se vulneraron derechos constitucionales del accionante. Se destacó que el recurso de apelación no fue utilizado como medio para restablecer la situación jurídica del afectado, lo que llevó a la inadmisibilidad del amparo.\nFinalmente, la Sala declaró competente para conocer del recurso de apelación, pero decidió SIN LUGAR el mismo, confirmando la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "recursos ordinarios",
+    "tutela judicial"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0195_E25-1410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353191-0195-2326-2026-25-1410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.367589"
+}

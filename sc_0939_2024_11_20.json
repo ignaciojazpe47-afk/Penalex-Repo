@@ -1,0 +1,25 @@
+{
+  "id": 27733,
+  "numero": "0939",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por las abogadas Edith Josefina Perdomo Delgado y Evelín Coromoto Perdomo Delgado, en representación de Rudi Giuseppe Gonzato Pellizzari. La acción se dirigía contra la decisión de la Sala Quinta de la Corte de Apelaciones que confirmó la decisión del Juzgado Décimo de Primera Instancia en Funciones de Control, que había declarado sin lugar las excepciones opuestas por la defensa. La Sala Constitucional concluyó que no se evidenció la existencia de un gravamen irreparable a los derechos del accionante y que la Corte de Apelaciones actuó dentro de su competencia y sin vulnerar derechos constitucionales.",
+  "palabras_clave": [
+    "incongruencia",
+    "tutela judicial",
+    "debido proceso",
+    "motivación",
+    "apelación",
+    "irregularidades"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0939_E24-0304.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339216-0939-201124-2024-24-0304.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.194240"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 63188,
+  "numero": "443",
+  "fecha": "2015-04-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia de Venezuela declara que el Decreto Ejecutivo emitido por el Presidente de los Estados Unidos, Barack Obama, el 9 de marzo de 2015, carece de legitimidad y vulnera la Constitución de la República Bolivariana de Venezuela. Se argumenta que dicho decreto infringe los principios del Derecho Internacional y los derechos humanos de los venezolanos, constituyendo una injerencia en los asuntos internos del país. La Sala establece que cualquier acto basado en este decreto no tiene validez en Venezuela y puede generar responsabilidad internacional para los Estados Unidos.",
+  "palabras_clave": [
+    "Decreto Ejecutivo",
+    "Barack Obama",
+    "Venezuela",
+    "Derecho Internacional",
+    "Constitución"
+  ],
+  "titulo": "Sentencia que declara la nulidad del Decreto Ejecutivo de EE.UU. sobre Venezuela",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-04-10_S443_E15-0312.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/176230-443-10415-2015-15-0312.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:44.422888"
+}

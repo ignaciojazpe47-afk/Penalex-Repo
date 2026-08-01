@@ -1,0 +1,25 @@
+{
+  "id": 24247,
+  "numero": "0119",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por José Antonio Flores Ubieda contra fiscales del Ministerio Público y una jueza, alegando omisiones en el proceso penal. La Sala, tras analizar la competencia, declaró su incompetencia para conocer del caso, argumentando que corresponde a la Corte de Apelaciones del Circuito Judicial Penal del estado Aragua. Además, se ordenó la remisión del expediente a dicha corte para su distribución inmediata.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fiscalía",
+    "jueces",
+    "derechos fundamentales",
+    "competencia",
+    "poder ciudadano"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0119_E24-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332628-0119-19224-2024-24-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.562032"
+}

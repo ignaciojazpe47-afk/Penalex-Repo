@@ -1,0 +1,26 @@
+{
+  "id": 23230,
+  "numero": "1884",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por la ciudadana Yamileidi Díaz Lira contra la sentencia dictada el 19 de febrero de 2025 por la Sala Diez de la Corte de Apelaciones. Se establece que la sentencia recurrida declaró la nulidad absoluta de una decisión anterior, ordenando la celebración de una nueva audiencia preliminar. La Sala también impone una multa a la demandante por abandono del trámite, debido a la falta de impulso procesal durante más de seis meses.",
+  "palabras_clave": [
+    "infracción",
+    "derecho a la defensa",
+    "suspensión condicional",
+    "motivación",
+    "Código Orgánico Procesal Penal",
+    "nulidad",
+    "procedimiento especial"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de sentencia anterior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1884_E25-0254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350480-1884-261125-2025-25-0254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.048569"
+}

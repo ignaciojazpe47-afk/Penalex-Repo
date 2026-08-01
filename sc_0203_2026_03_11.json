@@ -1,0 +1,27 @@
+{
+  "id": 17420,
+  "numero": "0203",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente in limine litis la acción de amparo constitucional ejercida por Francisco José Ramos contra la sentencia del Juzgado Superior Segundo del Circuito Judicial del Trabajo, que declaró desistido un recurso de apelación. La decisión se basa en la falta de fundamentación del recurso de apelación interpuesto por el demandante, quien no cumplió con la carga procesal exigida por la ley. Se ordena el desglose del expediente para su remisión a la Coordinación Regional del Trabajo.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "competencia",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "sentencias",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0203_E24-0679.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353475-0203-11326-2026-24-0679.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.589242"
+}

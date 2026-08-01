@@ -1,0 +1,25 @@
+{
+  "id": 28890,
+  "numero": "0010",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por José Ramón Zacarías, quien actuó en nombre propio y como miembro de la organización política Independientes por la Comunidad Nacional (IPCN) contra el Consejo Nacional Electoral (CNE). La Sala acepta la declinatoria de competencia de la Sala Electoral y se declara competente para conocer el caso, pero determina que la acción es inadmisible debido a la irreparabilidad de la situación jurídica denunciada y la existencia de un recurso contencioso electoral como vía idónea para el restablecimiento de los derechos alegados.\n\nSe argumenta que la acción de amparo es de naturaleza restablecedora y no puede ser admitida si no se puede restablecer la situación jurídica infringida. En este caso, se concluye que la violación de los derechos a la participación política y a la postulación resulta irreparable, ya que las elecciones regionales se llevaron a cabo el 21 de noviembre de 2021, lo que hace que la acción carezca de objeto.\n\nFinalmente, se resuelve que no es necesario pronunciarse sobre las medidas cautelares solicitadas, dado que la acción de amparo ha sido declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "participación política",
+    "Consejo Nacional Electoral",
+    "elecciones",
+    "organizaciones políticas"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional interpuesta por José Ramón Zacarías",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0010_E21-0325.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322807-0010-22223-2023-21-0325.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.297636"
+}

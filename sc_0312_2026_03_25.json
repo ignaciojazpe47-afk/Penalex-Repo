@@ -1,0 +1,26 @@
+{
+  "id": 17654,
+  "numero": "0312",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró SIN LUGAR el recurso de apelación interpuesto por José Materán Tulene contra la decisión del Tribunal Superior Noveno de lo Contencioso Tributario, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que existían vías ordinarias para impugnar el acto administrativo cuestionado, lo que hacía improcedente la acción de amparo. Se destacó que el accionante no justificó su elección de la vía de amparo en lugar de recurrir a los mecanismos judiciales disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "procedimiento administrativo",
+    "sanciones",
+    "debido proceso",
+    "tribunales",
+    "administración tributaria"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0312_E24-1203.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354292-0312-25326-2026-24-1203.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.556258"
+}

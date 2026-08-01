@@ -1,0 +1,25 @@
+{
+  "id": 35225,
+  "numero": "0241",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Nelly Jaimes Díaz contra la decisión del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Táchira. La acción fue motivada por la supuesta violación de derechos relacionados con la vivienda y el acceso a la justicia. El Tribunal Superior Segundo había declarado parcialmente con lugar el amparo, lo que llevó a la apelación por parte del abogado Pablo Ruiz Márquez, representante de José Eugenio Bracamonte.\n\nEn su decisión, la Sala Constitucional confirmó la decisión del Tribunal Superior, declarando sin lugar el recurso de apelación y ordenando la suspensión de la ejecución de la decisión del 19 de enero de 2016, a fin de que se cumplan los procedimientos previos a la ejecución de desalojos establecidos en la ley. La Sala destacó la importancia de proteger los derechos de los arrendatarios y ocupantes de viviendas, en concordancia con el Decreto con Rango, Valor y Fuerza de Ley contra el Desalojo y la Desocupación Arbitraria de Viviendas.\n\nFinalmente, la Sala reafirmó su competencia para conocer del recurso de apelación y la necesidad de garantizar el cumplimiento de los procedimientos legales en casos de desalojo, asegurando así la protección de los derechos constitucionales de los ciudadanos.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "tutela efectiva",
+    "desalojo",
+    "indefensión",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0241_E17-1110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317647-0241-29622-2022-17-1110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.615182"
+}

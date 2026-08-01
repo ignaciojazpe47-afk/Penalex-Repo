@@ -1,0 +1,25 @@
+{
+  "id": 37513,
+  "numero": "1035",
+  "fecha": "2022-11-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto contra una decisión que declaró inadmisible una acción de amparo constitucional. La apelación fue presentada por el abogado Leonardo Jesús López Dupuy en representación de Mireya Margarita Torres Villegas y otros, quienes alegaron violaciones a sus derechos fundamentales. La Sala determinó que la parte demandada no había agotado las vías ordinarias antes de recurrir al amparo, lo que llevó a declarar sin lugar el recurso de apelación y confirmar el fallo apelado.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "jurisdicción",
+    "sentencia",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-22_S1035_E16-1151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320940-1035-221122-2022-16-1151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.336305"
+}

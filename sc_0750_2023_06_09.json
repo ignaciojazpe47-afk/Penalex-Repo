@@ -1,0 +1,22 @@
+{
+  "id": 30802,
+  "numero": "0750",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto Antonio Ortega Rios",
+  "resumen": "La Sala Constitucional revisa la sentencia dictada por la Corte Primera de lo Contencioso Administrativo que declaró inadmisible una querella por falta de pago de prestaciones sociales. La abogada Luz Clementina Torres, en representación de Pablo Alcides Waldrop, solicita la revisión de esta decisión, argumentando que se incurrió en error al declarar la caducidad de la acción. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "prestaciones sociales",
+    "caducidad",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0750_E17-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326021-0750-9623-2023-17-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.425934"
+}

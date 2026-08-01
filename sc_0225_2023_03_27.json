@@ -1,0 +1,26 @@
+{
+  "id": 29599,
+  "numero": "0225",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 31, declaró improponible el recurso de queja presentado por Hamilton M. Rodríguez Philipps contra magistrados de la Sala de Casación Civil. La Sala determinó su competencia para conocer la solicitud de revisión y, tras analizar los argumentos del solicitante, concluyó que la revisión no contribuiría a la uniformidad jurisprudencial. Además, se impuso una multa al abogado por irrespeto hacia la investidura de los magistrados.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "recursos",
+    "jurisprudencia",
+    "competencia",
+    "sentencias",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0225_E22-0922.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/324077-0225-27323-2023-22-0922.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.060622"
+}

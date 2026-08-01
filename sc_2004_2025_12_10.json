@@ -1,0 +1,23 @@
+{
+  "id": 23736,
+  "numero": "2004",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar el recurso de hecho presentado por la sociedad mercantil Nacional de Alimentos, C.A. contra el auto del Juzgado Superior que negó a trámite su apelación. Se establece que la negativa a notificar la sentencia del 13 de junio de 2024 vulneró el derecho a la defensa de la parte demandada, lo que llevó a la nulidad de los autos que declararon firme dicha sentencia y negaron la apelación. La Sala ordena al Juzgado Superior oír y dar trámite a la apelación ejercida por la demandada.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "nulidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2004_E24-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351752-2004-101225-2025-24-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.747620"
+}

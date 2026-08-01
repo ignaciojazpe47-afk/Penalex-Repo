@@ -1,0 +1,22 @@
+{
+  "id": 33852,
+  "numero": "1999",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados Juan José Rivero y Miguel Alejandro García Auñón, quienes actuaban como defensores del ciudadano Samir Andrés Martínez Cuello. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de legitimidad, ya que los abogados no presentaron el poder que acreditara su representación. La Sala Constitucional confirmó esta decisión, argumentando que la falta de legitimidad es una causal de inadmisibilidad que no puede ser subsanada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1999_E22-0402.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331969-1999-151223-2023-22-0402.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.704839"
+}

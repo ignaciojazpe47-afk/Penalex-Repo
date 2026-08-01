@@ -1,0 +1,27 @@
+{
+  "id": 33129,
+  "numero": "1638",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por FAE Sadedin Quintero contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy, que declaró sin lugar la recusación de la Juez Jenny Andaluz Affigne. La Sala, tras analizar la competencia y los requisitos de admisibilidad, determinó que la acción de amparo cumplía con las condiciones necesarias para ser admitida, pero al revisar el fondo del asunto, concluyó que no se configuraban violaciones constitucionales. Por lo tanto, declaró improcedente la acción de amparo in limine litis.",
+  "palabras_clave": [
+    "amparo",
+    "decisión judicial",
+    "competencia",
+    "violación constitucional",
+    "tutela judicial",
+    "incompetencia",
+    "proceso",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1638_E23-0549.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330805-1638-291123-2023-23-0549.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.994201"
+}

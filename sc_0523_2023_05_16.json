@@ -1,0 +1,26 @@
+{
+  "id": 30305,
+  "numero": "0523",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Yubiris Del Valle Coronado García contra la decisión del Tribunal Segundo de Primera Instancia que levantó medidas preventivas sobre bienes de la comunidad conyugal. La Sala confirmó la decisión del Tribunal Superior Cuarto que declaró procedente la acción de amparo, anulando la sentencia de fecha 19 de febrero de 2021, por no haberse notificado a la parte demandante sobre el levantamiento de las medidas, lo que vulneró su derecho a la defensa y al debido proceso. La Sala destacó la importancia de la notificación en los procedimientos judiciales, especialmente en casos que involucran derechos de niños, niñas y adolescentes.",
+  "palabras_clave": [
+    "amparo",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "divorcio",
+    "medidas preventivas",
+    "comunidad conyugal",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0523_E21-0368.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325149-0523-16523-2023-21-0368.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.870427"
+}

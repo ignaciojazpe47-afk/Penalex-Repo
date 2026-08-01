@@ -1,0 +1,24 @@
+{
+  "id": 20014,
+  "numero": "0814",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del TSJ declara procedente la acción de amparo constitucional interpuesta por Gerlis Dayana Romero Plata, representada por su abogado, contra la sentencia del Tribunal Superior Cuarto que declaró perecido el recurso de apelación. La Sala considera que el tribunal inferior incurrió en un excesivo formalismo al declarar la perención del recurso por exceder el número de folios permitidos, vulnerando así el derecho a la defensa y al debido proceso. En consecuencia, se anula la sentencia impugnada y se ordena la reposición de la causa para que otro tribunal superior conozca del recurso de apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "perención",
+    "formalismos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0814_E23-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344292-0814-28525-2025-23-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.855954"
+}

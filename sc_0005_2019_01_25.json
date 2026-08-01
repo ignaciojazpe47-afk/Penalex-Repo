@@ -1,0 +1,25 @@
+{
+  "id": 42043,
+  "numero": "0005",
+  "fecha": "2019-01-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto n.° 3.736 del 11 de enero de 2019, que establece el Estado de Excepción y Emergencia Económica en Venezuela. Este decreto se justifica por las circunstancias extraordinarias que afectan el orden constitucional y la seguridad de la Nación, permitiendo al Ejecutivo Nacional adoptar medidas urgentes para garantizar los derechos de la población. La Sala también reafirma su competencia para revisar la constitucionalidad de tales decretos y declara nulos los actos de la Asamblea Nacional que pretendan desaprobarlo, debido a su desacato a las decisiones del Tribunal.",
+  "palabras_clave": [
+    "constitucionalidad",
+    "estado de excepción",
+    "emergencia económica",
+    "poder público",
+    "derechos humanos",
+    "garantías constitucionales"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto n.° 3.736 del 11 de enero de 2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-01-25_S0005_E19-0027.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/303413-0005-25119-2019-19-0027.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.123770"
+}

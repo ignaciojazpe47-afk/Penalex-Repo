@@ -1,0 +1,27 @@
+{
+  "id": 30317,
+  "numero": "0535",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "Extinción de la instancia",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la extinción de la instancia por pérdida del interés procesal en un recurso de colisión de normas presentado por el abogado Efraín Sánchez. Este recurso cuestionaba la constitucionalidad del artículo 142 de la Ley Orgánica del Trabajo, argumentando que vulnera el principio de retroactividad en el cálculo de prestaciones sociales, en contraposición a lo establecido en la Constitución y otras normativas laborales.\n\nLa Sala determinó que hubo una ausencia de actividad procesal por parte del demandante durante más de un año, lo que llevó a la conclusión de que no existía interés en continuar con el proceso. Se reafirmó que la falta de impulso del proceso por parte del actor justifica la extinción de la instancia, dado que no se verificó la violación de principios fundamentales del Estado.\n\nFinalmente, se ordenó la publicación y archivo del expediente, dejando claro que la decisión se fundamenta en la normativa vigente y en la interpretación de los derechos procesales en el contexto de la ley laboral.",
+  "palabras_clave": [
+    "colisión de normas",
+    "prestaciones sociales",
+    "interés procesal",
+    "nulidad",
+    "inconstitucionalidad",
+    "Ley Orgánica del Trabajo",
+    "Constitución",
+    "retroactividad"
+  ],
+  "titulo": "Sentencia sobre colisión de normas laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0535_E18-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325163-0535-16523-2023-18-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.871729"
+}

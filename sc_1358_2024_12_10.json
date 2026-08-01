@@ -1,0 +1,25 @@
+{
+  "id": 28416,
+  "numero": "1358",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la abogada Jessica María Volweider Romero en representación de varios ciudadanos. La acción fue motivada por la decisión de la Sala Única de la Corte de Apelaciones del Circuito Judicial Penal del Estado Sucre, que había anulado una sentencia absolutoria y ordenado un nuevo juicio. La parte accionante argumentó que la apelación fue interpuesta de manera extemporánea, lo que vulneró derechos fundamentales como la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "justicia penal",
+    "sentencia",
+    "notificaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1358_E24-0548.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340372-1358-101224-2024-24-0548.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.206630"
+}

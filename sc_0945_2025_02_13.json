@@ -1,0 +1,22 @@
+{
+  "id": 20394,
+  "numero": "0945",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una sentencia dictada el 7 de febrero de 2019, que había declarado con lugar una demanda de daños y perjuicios. La parte demandante alegó que la sentencia original incurrió en vicios de valoración de pruebas y falta de cualidad. En su decisión, la Sala declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando la reposición del caso a un tribunal distinto para un nuevo pronunciamiento, debido a la falta de pruebas suficientes que sustentaran la condena impuesta.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "daños y perjuicios",
+    "responsabilidad civil"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre daños y perjuicios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0945_E24-0627.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344906-0945-17625-2025-24-0627.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.764749"
+}

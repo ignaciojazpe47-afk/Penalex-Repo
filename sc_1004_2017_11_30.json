@@ -1,0 +1,18 @@
+{
+  "id": 55017,
+  "numero": "1004",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Nizar El Fakih y Luis Hernández en representación de Yon Alexander Goicoechea Lara. La acción fue ejercida contra la omisión de actuación del Juzgado Vigésimo Primero de Primera Instancia en Funciones de Control y de la Sala Segunda de la Corte de Apelaciones, quienes no materializaron la libertad del imputado ni emitieron pronunciamiento sobre el habeas corpus solicitado.\n\nLa Sala argumenta que se configuró una inepta acumulación de pretensiones, ya que la acción de amparo fue ejercida contra dos tribunales diferentes por omisiones distintas, lo que requiere una sustanciación independiente. Se establece que la acumulación de pretensiones es inadmisible cuando las competencias jurisdiccionales son diferentes y los procedimientos incompatibles, lo que se aplica en este caso según la normativa vigente.\n\nFinalmente, se declara la inadmisibilidad de la acción de amparo por inepta acumulación de pretensiones, ordenando el archivo del expediente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1004_E17-0776.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205929-1004-301117-2017-17-0776.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.488246"
+}

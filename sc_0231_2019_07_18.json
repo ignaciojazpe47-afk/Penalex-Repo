@@ -1,0 +1,27 @@
+{
+  "id": 43552,
+  "numero": "0231",
+  "fecha": "2019-07-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por el abogado Freddy Eduardo Reyes Alvarado, defensor del adolescente Adrián Alejandro Veliz Barrios, contra la decisión del Juzgado Primero de Control que decretó medida privativa de libertad. Se argumenta que el accionante tiene a su disposición medios ordinarios para impugnar la decisión, como el recurso de apelación, lo que hace que la acción de amparo sea improcedente. Finalmente, se confirma la decisión apelada y se insta al Juzgado a remitir la incidencia recursiva correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "justicia",
+    "inocencia",
+    "dilación",
+    "recursos",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Adrián Alejandro Veliz Barrios",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-18_S0231_E16-0900.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306330-0231-18719-2019-16-0900.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.405381"
+}

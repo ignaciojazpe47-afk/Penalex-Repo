@@ -1,0 +1,25 @@
+{
+  "id": 33241,
+  "numero": "1744",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de diciembre de 2023, declaró no ha lugar la solicitud de revisión interpuesta por los ciudadanos José Jesús Carrillo y Frank Reinaldo Monsalve contra la sentencia N° RC-000376, dictada el 31 de agosto de 2021 por la Sala de Casación Civil. La revisión se solicitó por presuntas violaciones al derecho al debido proceso y a la jurisprudencia sobre el derecho a la vivienda, alegando silencio de pruebas y incongruencia negativa en la decisión recurrida.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "jurisprudencia",
+    "derechos humanos",
+    "casación",
+    "interpretación constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1744_E21-0600.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330990-1744-41223-2023-21-0600.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.158897"
+}

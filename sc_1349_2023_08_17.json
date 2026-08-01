@@ -1,0 +1,26 @@
+{
+  "id": 31972,
+  "numero": "1349",
+  "fecha": "2023-08-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados de Frederick Alberto Cuba Chirinos contra las sentencias del Juzgado Superior Octavo y de la Sala de Casación Civil. Se argumenta que la acción fue presentada fuera del lapso de caducidad y que no se evidencian violaciones al orden público o a las buenas costumbres. Además, se establece que no se admiten acciones de amparo contra decisiones del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "carga de la prueba",
+    "desalojo",
+    "contrato de arrendamiento",
+    "derecho procesal",
+    "debido proceso",
+    "obligaciones",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-17_S1349_E23-0370.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328554-1349-17823-2023-23-0370.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.218295"
+}

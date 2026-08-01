@@ -1,0 +1,25 @@
+{
+  "id": 34124,
+  "numero": "1231",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Calixto Ortega Rios",
+  "resumen": "La Sala Constitucional revisa un fallo de la Corte Primera de lo Contencioso Administrativo que declaró con lugar un recurso de apelación contra una sentencia del Juzgado Superior en lo Civil y Contencioso Administrativo. El demandante, Víctor Hugo Bolívar Gil, solicita la revisión de la sentencia dictada en 2014, relacionada con una demanda patrimonial contra el INPO-ARAGUA. La Sala ordena al Instituto que informe sobre el cumplimiento de la sentencia en un plazo determinado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "autos",
+    "competencia",
+    "sentencia",
+    "INPO-ARAGUA",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1231_E21-0363.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328435-1231-14823-2023-21-0363.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.867040"
+}

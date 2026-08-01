@@ -1,0 +1,27 @@
+{
+  "id": 29127,
+  "numero": "0125",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de marzo de 2023, declaró improcedente la acción de amparo constitucional interpuesta por los abogados Gian Franco de Simone Caprile y Silberto José Tremaría, en representación de los ciudadanos Cristian Daniel Alfonzo García y Argimiro Antonio Colmenarez Vargas. La acción fue presentada contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa, que había declarado sin lugar un recurso de apelación relacionado con la medida de privación judicial preventiva de libertad de los mencionados ciudadanos.\nLa Sala consideró que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que se trataba de una impugnación de una decisión judicial que no violaba derechos o garantías constitucionales. Por lo tanto, se desestimó la pretensión de los recurrentes, confirmando la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "investigación",
+    "derechos_fundamentales",
+    "orden_aprehensión",
+    "defensa",
+    "jurisprudencia",
+    "Corte_de_Apelaciones"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0125_E22-0744.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323293-0125-10323-2023-22-0744.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.335198"
+}

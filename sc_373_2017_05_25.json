@@ -1,0 +1,24 @@
+{
+  "id": 51902,
+  "numero": "373",
+  "fecha": "2017-05-25",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de protección de intereses colectivos interpuesta por ciudadanos del Municipio Sucre contra el Alcalde Carlos Eduardo Ocariz Guerra, alegando violaciones a derechos constitucionales debido a la obstrucción de vías públicas por manifestantes. La Sala determinó su competencia y acordó amparo cautelar, ordenando al Alcalde tomar medidas para garantizar el libre tránsito y la seguridad de los ciudadanos. Se destacó la importancia de proteger derechos fundamentales como la salud, educación y seguridad personal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos colectivos",
+    "Municipio Sucre",
+    "Carlos Ocariz",
+    "obstrucción de vías"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre derechos colectivos en el Municipio Sucre",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-25_S373_E17-0567.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/199354-373-25517-2017-2017-0567.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.099060"
+}

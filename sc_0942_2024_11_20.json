@@ -1,0 +1,24 @@
+{
+  "id": 27736,
+  "numero": "0942",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Jorge Luis Mendoza Posada contra la sentencia de la Sala 2° de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia, que declaró la nulidad de la audiencia preliminar y ordenó reponer la causa. La Corte Constitucional determinó que la decisión de la Corte de Apelaciones vulneró los derechos de Mendoza, al no respetar el principio de presunción de inocencia y al someterlo a un nuevo juicio por hechos por los cuales ya había sido absuelto. Se ordenó la liberación inmediata de Mendoza y se anuló la sentencia de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Presunción de Inocencia",
+    "Derecho a la Libertad",
+    "Corte de Apelaciones",
+    "Zulia"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Jorge Luis Mendoza Posada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0942_E24-0740.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339219-0942-201124-2024-24-0740.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.194029"
+}

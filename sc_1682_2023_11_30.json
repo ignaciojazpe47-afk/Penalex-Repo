@@ -1,0 +1,26 @@
+{
+  "id": 33173,
+  "numero": "1682",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por Cheiam Chawkiabou Jouk contra la decisión del Juzgado Superior Tercero que había declarado sin lugar la acción de amparo constitucional. La apelación se fundamentó en la supuesta falta de notificación y violación de derechos constitucionales en el proceso de partición de la comunidad conyugal. La Sala consideró que no existió vulneración de derechos y que se garantizó el derecho a la defensa del demandado.",
+  "palabras_clave": [
+    "amparo",
+    "notificación",
+    "comunidad conyugal",
+    "derechos constitucionales",
+    "divorcio",
+    "protección de niños",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1682_E23-0049.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330851-1682-301123-2023-23-0049.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.980210"
+}

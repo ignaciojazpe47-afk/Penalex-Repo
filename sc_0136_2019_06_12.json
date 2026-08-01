@@ -1,0 +1,25 @@
+{
+  "id": 43091,
+  "numero": "0136",
+  "fecha": "2019-06-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia N° 135, dictada el 22 de marzo de 2018 por la Sala de Casación Civil. Se determinó que la parte solicitante no presentó la copia certificada de la decisión cuya revisión se pretendía, lo que constituye una carga procesal necesaria para la admisibilidad de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "carga procesal",
+    "sentencia",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "administración de justicia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-12_S0136_E19-0031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305476-0136-12619-2019-19-0031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.851539"
+}

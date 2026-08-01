@@ -1,0 +1,25 @@
+{
+  "id": 23747,
+  "numero": "2010",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los abogados Jean Carlos Martínez y Carlos Verenzuela Aguirre, en representación de los ciudadanos Carlos Alberto Gallegos y Josmil Leonardo Cabello Tortosa. La apelación se basó en la inadmisibilidad de una acción de amparo constitucional contra una decisión del Tribunal Tercero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Apure, que había declarado sin lugar la solicitud de revisión de medida de privación judicial preventiva de libertad de los imputados.\n\nLa Sala declaró con lugar el recurso de apelación, anulando la decisión de inadmisibilidad y ordenando que la Corte de Apelaciones se pronuncie sobre la acción de amparo constitucional. Se destacó la importancia de que los abogados defensores acrediten su representación de manera adecuada, y se hizo un llamado a los jueces para que eviten aplicar la inadmisibilidad por falta de representación sin permitir la corrección de errores formales.\n\nFinalmente, la Sala resolvió que la causa se repondría al estado de que la Corte de Apelaciones se pronuncie sobre el fondo de la acción de amparo, dejando sin efecto la decisión que había declarado inadmisible la solicitud.",
+  "palabras_clave": [
+    "tutela judicial",
+    "amparo",
+    "derechos constitucionales",
+    "representación legal",
+    "inadmisibilidad",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2010_E25-0132.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351767-2010-101225-2025-25-0132.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743606"
+}

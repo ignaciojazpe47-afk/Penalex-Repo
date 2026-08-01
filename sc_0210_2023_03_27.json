@@ -1,0 +1,23 @@
+{
+  "id": 29471,
+  "numero": "0210",
+  "fecha": "2023-03-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos tribunales respecto a una acción de amparo constitucional presentada por KATHERINE DEL VALLE CARREÑO ROJAS. La acción se originó por amenazas de desalojo de un inmueble arrendado como vivienda principal, donde reside con sus hijos menores. La Sala determinó que el Tribunal Tercero de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario es el competente para conocer el caso, dado que la controversia es de naturaleza civil y no involucra directamente a los menores en la relación jurídica.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "conflicto de competencia",
+    "desalojo",
+    "arrendamiento"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-27_S0210_E22-0901.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323872-0210-27323-2023-22-0901.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.058170"
+}

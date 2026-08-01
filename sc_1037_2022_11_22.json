@@ -1,0 +1,25 @@
+{
+  "id": 37515,
+  "numero": "1037",
+  "fecha": "2022-11-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Ronald Delgado en representación de la sociedad mercantil UNIDAD PROFESIONAL DE ENSEÑANZA TECNOLÓGICA (UPET) C.A. La solicitud se fundamentó en la revisión de una sentencia dictada por la Sala de Casación Civil el 17 de octubre de 2018, que declaró perecido un recurso de casación. La Sala Constitucional determinó que el solicitante no presentó copia certificada de la decisión objeto de revisión, lo que conlleva a la inadmisibilidad de la solicitud según lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión",
+    "sentencia",
+    "copia certificada",
+    "carga procesal",
+    "Ley Orgánica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-22_S1037_E19-0251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320942-1037-221122-2022-19-0251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.336686"
+}

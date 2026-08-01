@@ -1,0 +1,25 @@
+{
+  "id": 21655,
+  "numero": "1402",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Néstor Alexander Lovera Mendoza contra una sentencia del Juzgado Nacional Primero Contencioso Administrativo. La Sala determinó su competencia para conocer el caso y, tras revisar las actuaciones, declaró terminado el procedimiento por abandono del trámite debido a la falta de interés procesal del accionante durante más de seis meses. Además, se impuso una multa a la parte actora por el abandono del trámite.",
+  "palabras_clave": [
+    "vicio administrativo",
+    "falso supuesto",
+    "anulación",
+    "jurisprudencia",
+    "actos administrativos",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1402_E21-0506.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347258-1402-7825-2025-21-0506.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.757363"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 21112,
+  "numero": "1176",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 23 de julio de 2025, declara inadmisible el recurso de apelación interpuesto por Juan José Mata Cedeño contra la decisión de la Corte de Apelaciones que declaró sin lugar su acción de amparo constitucional. La Sala concluye que el recurso fue presentado de manera extemporánea, ya que el plazo para su interposición había vencido. Se confirma así la decisión del Juzgado Segundo de Primera Instancia que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "garantías constitucionales",
+    "jurisprudencia",
+    "protección de derechos"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1176_E25-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346394-1176-23725-2025-25-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.382660"
+}

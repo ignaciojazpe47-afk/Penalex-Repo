@@ -1,0 +1,26 @@
+{
+  "id": 31468,
+  "numero": "0955",
+  "fecha": "2023-07-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "El ciudadano Alejandro Donato Pepe D'Andrea interpuso un amparo constitucional contra una sentencia de la Corte de Apelaciones que declaró inadmisible su recurso de apelación. La Sala Constitucional del TSJ se declaró competente para conocer el caso, argumentando que la acción de amparo tenía por objeto una decisión que afectaba los derechos del demandante. La Sala consideró que la Corte de Apelaciones no garantizó el derecho de la víctima a intervenir en el proceso, lo que llevó a la decisión de declarar con lugar el amparo solicitado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "Corte de Apelaciones",
+    "delitos informáticos",
+    "Ley Orgánica del TSJ",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Alejandro Donato Pepe D'Andrea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-18_S0955_E23-0259.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327228-0955-18723-2023-23-0259.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.204229"
+}

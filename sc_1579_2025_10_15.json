@@ -1,0 +1,27 @@
+{
+  "id": 22239,
+  "numero": "1579",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Julio César García Vargas contra Beatriz Rincón de García y la Fiscalía Novena del Área Metropolitana de Caracas. La inadmisibilidad se fundamenta en la inepta acumulación de pretensiones, ya que el demandante incluyó en un mismo escrito diversas acciones contra diferentes agraviantes, lo que contraviene las disposiciones legales aplicables. Además, se declara inadmisible el recurso de regulación de competencia presentado por el demandante.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "jurisdicción",
+    "tribunales",
+    "derechos",
+    "constitucional",
+    "proceso",
+    "regulación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1579_E25-0772.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348696-1579-151025-2025-25-0772.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.758292"
+}

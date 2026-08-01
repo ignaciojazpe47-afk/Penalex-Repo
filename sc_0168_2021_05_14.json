@@ -1,0 +1,26 @@
+{
+  "id": 38678,
+  "numero": "0168",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara la terminación del procedimiento por abandono del trámite en una acción de amparo constitucional interpuesta por ciudadanos colombianos. Se argumenta que la falta de impulso procesal durante más de seis meses por parte de los accionantes demuestra la pérdida de interés en la causa, lo que conlleva a la extinción del procedimiento. Además, se impone una multa a la parte actora por el abandono del trámite, conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "interés",
+    "procedimiento",
+    "justicia",
+    "derechos",
+    "constitucional",
+    "abandonado"
+  ],
+  "titulo": "Sentencia sobre abandono del trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0168_E18-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312128-0168-14521-2021-18-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.880041"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 51465,
+  "numero": "274",
+  "fecha": "2017-05-05",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Reina Isabel Martínez Delnardo, quien actuaba en representación de sus nietos menores, contra la sentencia dictada el 18 de febrero de 2014 por el Juzgado Primero de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes del Estado Carabobo. En dicha sentencia, se declaró con lugar la demanda de nulidad del contrato de venta con pacto de retracto entre Belkis de la Asunción Araujo Briceño y Pedro Oriel Uribe Acevedo, ordenando la restitución de la cantidad de Bs. 45.360,00 y la entrega del inmueble a los herederos del fallecido.\n\nLa Sala concluyó que el Juzgado de origen había garantizado los derechos de los menores y que no se habían vulnerado los principios de tutela judicial efectiva y debido proceso. A pesar de los argumentos presentados por la solicitante sobre la falta de notificación adecuada y la indefensión de los menores, la Sala consideró que se habían agotado los medios para proteger sus derechos. Por lo tanto, se declaró que no ha lugar la solicitud de revisión, manteniendo la decisión del Juzgado de primera instancia.",
+  "palabras_clave": [
+    "nulidad",
+    "contrato de venta",
+    "pacto de retracto",
+    "tutela judicial",
+    "menores"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad de contrato de venta con pacto de retracto",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-05_S274_E15-1209.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198245-274-5517-2017-15-1209.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.356279"
+}

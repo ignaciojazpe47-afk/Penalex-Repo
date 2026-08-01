@@ -1,0 +1,26 @@
+{
+  "id": 27139,
+  "numero": "0564",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0868-2014 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Kool Venezuela C.A. contra Rocco Mazzeo. La revisión se fundamentó en la supuesta desnaturalización del contrato de arrendamiento y la falta de garantías al derecho de defensa del demandado. La Sala Constitucional, tras analizar los argumentos, concluyó que la sentencia recurrida no infringió derechos constitucionales ni principios jurídicos fundamentales.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "debido proceso",
+    "defensa",
+    "motivación",
+    "contratos",
+    "arbitrariedad",
+    "inspección ocular"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0564_E19-0262.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338523-0564-11124-2024-19-0262.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.309548"
+}

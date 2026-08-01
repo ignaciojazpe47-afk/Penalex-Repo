@@ -1,0 +1,23 @@
+{
+  "id": 41942,
+  "numero": "0255",
+  "fecha": "2020-12-15",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000127 de la Sala de Casación Civil, dictada el 21 de marzo de 2018, a solicitud de la abogada Luisa Amelia Carrizales, en representación de María Auxiliadora Baloa de Malavé. La revisión se fundamentó en la alegación de infracción a la tutela judicial efectiva, el debido proceso y el derecho a la defensa, debido a que la Sala de Casación Civil había declarado procedente una cuestión prejudicial en un juicio de partición, lo cual fue considerado inadmisible por la Sala Constitucional.\n\nLa Sala Constitucional determinó que la sentencia impugnada incurrió en el vicio de incongruencia positiva al no decidir sobre la defensa de fondo planteada por la parte demandada y al confundir la prejudicialidad con cuestiones previas. En consecuencia, se declaró con lugar la solicitud de revisión, anulando la sentencia de la Sala de Casación Civil y ordenando que se pronuncie nuevamente sobre el mérito del asunto, respetando los criterios establecidos en la presente decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "due process",
+    "incongruencia positiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-15_S0255_E18-0319.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311054-0255-151220-2020-18-0319.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.392810"
+}

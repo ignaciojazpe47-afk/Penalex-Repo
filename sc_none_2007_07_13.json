@@ -1,0 +1,22 @@
+{
+  "id": 10786,
+  "numero": null,
+  "fecha": "2007-07-13",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la regulación de competencia en una acción de amparo interpuesta por Ender José González contra Barrios Hidalgo Construcciones, S.A. (BAHICONSA) por despido injustificado. La Sala declaró su competencia para conocer del caso, a pesar de que el Tribunal Primero de Primera Instancia de Juicio del Trabajo se había declarado incompetente, y ordenó remitir el expediente al Juzgado Superior Civil y Contencioso Administrativo de la Región Occidental. La decisión se fundamenta en la necesidad de garantizar el derecho a la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "despido injustificado"
+  ],
+  "titulo": "Sentencia sobre regulación de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_ab9511d50c0adf34c2190903abcfeeda_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.113162"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 26858,
+  "numero": "0390",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 000388/2019 de la Sala de Casación Civil, que negó fuerza ejecutoria a sentencias extranjeras. La revisión se fundamentó en la falta de citación de la empresa C.V.G. Industria Venezolana de Aluminio, C.A. (VENALUM) en el juicio en Londres, lo que afectó su derecho a la defensa. La Sala Constitucional concluyó que la decisión de la Sala de Casación Civil se ajustó a la Ley de Derecho Internacional Privado, negando la solicitud de exequátur por no cumplirse los requisitos legales establecidos.",
+  "palabras_clave": [
+    "exequátur",
+    "derecho de defensa",
+    "debido proceso",
+    "sentencias extranjeras",
+    "reaseguro",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 000388/2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0390_E21-0080.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338161-0390-241024-2024-21-0080.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.312903"
+}

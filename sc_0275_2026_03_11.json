@@ -1,0 +1,23 @@
+{
+  "id": 17417,
+  "numero": "0275",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Víctor Altuna García en representación de Gregorio Gerardo Ramírez Salas, debido a que no se agotaron las vías ordinarias para impugnar la decisión del Tribunal Cuarto de Juicio. La Corte de Apelaciones había declarado inadmisible la acción de amparo por falta de motivación en la sentencia, lo que llevó al apelante a recurrir a la Sala Constitucional. Sin embargo, se determinó que existía un recurso ordinario disponible que no fue utilizado, lo que fundamenta la inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0275_E25-1385.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353580-0275-11326-2026-25-1385.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.568707"
+}

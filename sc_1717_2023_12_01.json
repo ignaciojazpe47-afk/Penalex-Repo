@@ -1,0 +1,26 @@
+{
+  "id": 33214,
+  "numero": "1717",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por Pedro Luis Contreras Tirado, en representación de la sociedad mercantil ALENTUY C.A., contra la decisión N° 00743 dictada por la Sala Político Administrativa. La solicitud se fundamentó en la supuesta violación del orden público constitucional y del principio pro actione. Tras analizar los argumentos, la Sala concluyó que no existían violaciones a los derechos constitucionales del solicitante y que la decisión impugnada no contradecía sentencias previas ni quebrantaba principios constitucionales.",
+  "palabras_clave": [
+    "reclamacion administrativa",
+    "principio pro actione",
+    "tutela judicial",
+    "inadmisibilidad",
+    "orden publico constitucional",
+    "sentencia",
+    "error de interpretacion"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1717_E23-0694.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330963-1717-11223-2023-23-0694.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.166830"
+}

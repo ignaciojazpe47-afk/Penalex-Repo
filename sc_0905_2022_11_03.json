@@ -1,0 +1,27 @@
+{
+  "id": 37155,
+  "numero": "0905",
+  "fecha": "2022-11-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió con lugar el recurso de apelación interpuesto por la Asociación Civil Junko Golf Club contra la decisión de la Corte de Apelaciones que declaró sin lugar la acción de amparo constitucional. La Sala revocó la decisión de la Corte de Apelaciones y declaró inadmisible la acción de amparo, argumentando que los demandantes no agotaron las vías judiciales ordinarias para impugnar la medida de protección dictada. La sentencia destaca la importancia de la tutela judicial efectiva y la necesidad de que las decisiones judiciales respeten los derechos de las personas jurídicas.",
+  "palabras_clave": [
+    "amparo",
+    "violencia de género",
+    "derechos humanos",
+    "tutela judicial",
+    "asociación civil",
+    "propiedad",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por la Asociación Civil Junko Golf Club",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-03_S0905_E22-0007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320507-0905-31122-2022-22-0007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.412367"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34351,
+  "numero": "0031",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Roberto Alí Colmenares, apoderado del Instituto de Formación Simón Bolívar, contra la decisión del Tribunal Superior Primero del Trabajo que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión del tribunal inferior, argumentando que el apelante no agotó las vías ordinarias antes de interponer el amparo, lo que llevó a declarar sin lugar la apelación.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "inadmibilidad",
+    "recursos",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0031_E17-1066.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315543-0031-11222-2022-17-1066.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.719403"
+}

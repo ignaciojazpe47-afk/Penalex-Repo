@@ -1,0 +1,22 @@
+{
+  "id": 2626,
+  "numero": null,
+  "fecha": "2001-12-19",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de una querella interpuesta por los ciudadanos Oscar Jesús Pérez Torres y Oswaldo Jesús Díaz contra Manuel Álvarez por delitos de ultraje, difamación e injuria. Se determinó que los delitos de difamación e injuria son de acción privada, mientras que el delito de ultraje es de acción pública, lo que implica que debe ser impulsado por el Ministerio Público.",
+  "palabras_clave": [
+    "querella",
+    "competencia",
+    "delitos"
+  ],
+  "titulo": "Declaración de competencia en querella penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-12-19_CasacionPenal_CC010815.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:09.624469"
+}

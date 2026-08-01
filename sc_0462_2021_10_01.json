@@ -1,0 +1,25 @@
+{
+  "id": 39725,
+  "numero": "0462",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Julio César Betancourt contra la decisión del Juzgado Superior que declaró inadmisible su amparo constitucional. La Sala determinó que el apelante no había agotado los recursos ordinarios disponibles, lo que llevó a la inadmisibilidad del amparo. En consecuencia, se confirmó la decisión del Juzgado Superior, declarando sin lugar la apelación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "medidas cautelares",
+    "secuestro",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0462_E19-0336.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313571-0462-11021-2021-19-0336.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.614180"
+}

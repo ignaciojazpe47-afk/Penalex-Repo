@@ -1,0 +1,22 @@
+{
+  "id": 46001,
+  "numero": "0274",
+  "fecha": "2018-03-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por PROEQUIP SALUD ASOCIACIÓN CIVIL AC contra la decisión del Tribunal Superior del Trabajo que declaró inadmisible su acción de amparo. La apelante argumentó violaciones a sus derechos al debido proceso y a la salud durante la ejecución forzosa de una sentencia anterior. La Sala determinó su competencia para conocer del caso y ordenó la remisión de documentos relevantes para el análisis del recurso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ejecución forzosa",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0274_E16-1166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208718-0274-14318-2018-16-1166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.838910"
+}

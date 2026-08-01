@@ -1,0 +1,22 @@
+{
+  "id": 26600,
+  "numero": "0215",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La abogada Vicky Carolina Valero Méndez solicitó la revisión de una sentencia dictada el 8 de julio de 2016, que declaró inadmisible la acción de amparo constitucional interpuesta por María Carolina Rosales García. La Sala Constitucional, presidida por Tania D'Amelio Cardiet, analizó la solicitud y determinó que la revisión era inadmisible debido a la falta de legitimidad de la representación judicial, ya que no se presentó el poder correspondiente. La Sala declaró su competencia para conocer la solicitud, pero inadmitió la revisión por no cumplir con los requisitos legales establecidos.",
+  "palabras_clave": [
+    "revisión",
+    "amparo constitucional",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0215_E16-0845.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337782-0215-171024-2024-16-0845.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.078342"
+}

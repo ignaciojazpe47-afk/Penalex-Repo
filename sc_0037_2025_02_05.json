@@ -1,0 +1,22 @@
+{
+  "id": 18187,
+  "numero": "0037",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por los ciudadanos Pilar del Valle Miranda y Fernando del Valle Serrano, en contra de la decisión del Tribunal Superior Tributario de la Región Los Andes que revocó el auto de cierre de un expediente. La Sala declaró que la decisión impugnada vulneró el orden público y la cosa juzgada, ya que el expediente había sido cerrado y archivado sin notificación a las partes. Se anula la decisión del 30 de septiembre de 2021 y se ordena el archivo inmediato del expediente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "cosa juzgada",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0037_E22-0864.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341203-0037-5225-2025-22-0864.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.566532"
+}

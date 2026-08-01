@@ -1,0 +1,24 @@
+{
+  "id": 28098,
+  "numero": "1171",
+  "fecha": "2024-11-29",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del carácter orgánico de la Ley Orgánica Libertador Simón Bolívar Contra el Bloqueo Imperialista y en Defensa de la República Bolivariana de Venezuela, sancionada por la Asamblea Nacional el 28 de noviembre de 2024. La decisión se basa en el artículo 203 de la Constitución, que otorga a la Sala la facultad de determinar la constitucionalidad de las leyes calificadas como orgánicas por la Asamblea Nacional.\n\nLa Sala concluyó que la ley en cuestión cumple con los requisitos establecidos en la Constitución, ya que busca proteger al pueblo venezolano de medidas coercitivas unilaterales y otras acciones que atenten contra la soberanía e integridad territorial del país. Se enfatiza la importancia de la ley en el contexto de la defensa de los derechos humanos y la autodeterminación nacional.\n\nFinalmente, se declara la constitucionalidad del carácter orgánico de la ley, resaltando su relevancia en la protección de los intereses y derechos irrenunciables de la Nación, así como su alineación con los principios fundamentales consagrados en la Constitución de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "leyes organicas",
+    "constitucion",
+    "poder publico",
+    "derechos constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Constitucionalidad de la Ley Orgánica Libertador Simón Bolívar Contra el Bloqueo Imperialista",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-29_S1171_E24-1170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339862-1171-291124-2024-24-1170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.463970"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18882,
+  "numero": "0354",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Ricardo Gregorio Alfonzo Cedeño y Juan Alejandro Alfonzo Cedeño contra la sentencia N° 439 de la Sala de Casación Civil. La revisión se fundamentó en la alegación de que se había desconocido el precedente sobre la perención de instancia. La Sala, tras analizar los argumentos, concluyó que no existían infracciones grotescas ni violaciones a principios constitucionales, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "apelación",
+    "perención",
+    "cosa juzgada",
+    "procedimiento civil",
+    "sentencia interlocutoria"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0354_E22-0818.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342385-0354-18325-2025-22-0818.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.725012"
+}

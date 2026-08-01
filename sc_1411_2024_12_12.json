@@ -1,0 +1,22 @@
+{
+  "id": 28580,
+  "numero": "1411",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Jesús Eduardo González González en representación del adolescente Y.M.H.C., debido a la omisión de pronunciamiento por parte de la Sala N° 1 de la Corte de Apelaciones. La acción fue motivada por la falta de respuesta a un recurso de apelación interpuesto en un caso de homicidio intencional en grado de frustración, lo que generó un estado de indefensión para el adolescente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1411_E24-0129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340603-1411-121224-2024-24-0129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.820739"
+}

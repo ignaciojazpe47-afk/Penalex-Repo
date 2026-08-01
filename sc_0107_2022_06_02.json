@@ -1,0 +1,24 @@
+{
+  "id": 34971,
+  "numero": "0107",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el abogado Luis Paz Caizedo, en representación de los ciudadanos Osman Aquiles Faría Serrano y José Luis Faría Gutiérrez, contra la sentencia número 012-19 de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. Esta última había declarado sin lugar el recurso de apelación y confirmado la decisión que mantenía las medidas de coerción personal sobre los acusados por homicidio intencional.\n\nLa Sala Constitucional determinó que la interpretación del artículo 230 del Código Orgánico Procesal Penal por parte de la Sala Tercera fue errónea, ya que no se solicitó la prórroga judicial necesaria para mantener las medidas de coerción, lo que vulneró los derechos a la tutela judicial efectiva y al debido proceso de los accionantes. En consecuencia, se anuló la sentencia impugnada y se ordenó a otra Sala de la Corte de Apelaciones que dictara un nuevo pronunciamiento.\n\nLa decisión reafirma la importancia de la proporcionalidad en la aplicación de medidas de coerción personal y el respeto a los derechos fundamentales de los imputados en el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "homicidio intencional",
+    "medidas de coerción",
+    "debido proceso",
+    "proporcionalidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de homicidio intencional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0107_E19-0208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316864-0107-2622-2022-19-0208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.426507"
+}

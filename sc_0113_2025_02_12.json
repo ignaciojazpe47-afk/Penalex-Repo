@@ -1,0 +1,23 @@
+{
+  "id": 18357,
+  "numero": "0113",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de amparo presentada por Hernán Jesús Guédez, quien solicitó la interpretación de la colocación de sellos de recibido en documentos. La Sala consideró que la demanda era ambigua e ininteligible, lo que impedía un pronunciamiento congruente sobre su admisibilidad. Se ordenó al demandante corregir su solicitud en un plazo de tres días hábiles, con la posibilidad de asistencia legal por parte de la Defensoría Pública.",
+  "palabras_clave": [
+    "amparo",
+    "sellos de recibido",
+    "demanda",
+    "ininteligible"
+  ],
+  "titulo": "Sentencia sobre la corrección de demanda en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0113_E24-0486.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341453-0113-12225-2025-24-0486.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.538819"
+}

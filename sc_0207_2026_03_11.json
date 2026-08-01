@@ -1,0 +1,24 @@
+{
+  "id": 17800,
+  "numero": "0207",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la desaplicación por control difuso del literal J del artículo 41 del Decreto de Regulación del Arrendamiento Inmobiliario, que prohíbe el arbitraje en conflictos arrendaticios. La decisión se fundamenta en la necesidad de promover el arbitraje como medio alternativo de resolución de conflictos, en concordancia con los artículos 253 y 258 de la Constitución. Se confirma que el Poder Judicial no tiene jurisdicción para conocer de la demanda por desalojo interpuesta por Corina Mercedes Rojas Cauro contra María del Rosario Rojas Alvarado, y se ordena informar a la Sala Político-Administrativa sobre la decisión.",
+  "palabras_clave": [
+    "arbitraje",
+    "desalojo",
+    "arrendamiento",
+    "jurisdicción",
+    "control difuso"
+  ],
+  "titulo": "Desaplicación de norma sobre arbitraje en arrendamientos comerciales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0207_E24-1234.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353483-0207-11326-2026-24-1234.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.586596"
+}

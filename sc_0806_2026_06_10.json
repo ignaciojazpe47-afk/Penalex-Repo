@@ -1,0 +1,24 @@
+{
+  "id": 49765,
+  "numero": "0806",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional interpuesta por Luis Alberto Parra Chacón, anulando la sentencia N° 341 de la Sala de Casación Civil, que había declarado sin lugar un recurso extraordinario de casación. La Sala consideró que la sentencia recurrida vulneró el debido proceso al no considerar el fallecimiento de un codemandado, lo que exigía la notificación a sus herederos y la reposición del proceso. Además, se determinó que la interpretación del contrato de opción a compra-venta fue errónea, afectando los derechos del solicitante y comprometiendo la justicia material.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "due process",
+    "contract interpretation",
+    "judicial protection",
+    "equity"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 341 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0806_E25-0529.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356504-0806-10626-2026-25-0529.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.929238"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17737,
+  "numero": "0001",
+  "fecha": "2026-01-03",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia interpreta los artículos 234 y 239 de la CRBV en el contexto de una agresión militar extranjera ocurrida el 3 de enero de 2026, que afecta la continuidad del Presidente Nicolás Maduro. Se establece la necesidad de una interpretación que garantice la estabilidad del Estado y la defensa de la Nación ante la ausencia forzosa del Presidente.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "continuidad administrativa",
+    "defensa nacional",
+    "situacion excepcional",
+    "agresion extranjera"
+  ],
+  "titulo": "Interpretación Constitucional sobre la continuidad administrativa del Estado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-01-03_S0001_E26-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/352131-0001-3126-2026-26-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.073989"
+}

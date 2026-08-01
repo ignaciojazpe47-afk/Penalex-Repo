@@ -1,0 +1,25 @@
+{
+  "id": 28390,
+  "numero": "1332",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró no ha lugar la solicitud de revisión constitucional interpuesta por la abogada Jacqueline Adela Palma Flores en representación de Alexis Orlando Irausquín Soto, respecto a la sentencia del Juzgado Superior Agrario que declaró desistido el recurso de apelación. La Sala también revisó de oficio una decisión anterior que había declarado con lugar un recurso de hecho, la cual fue anulada, confirmando la negativa de la apelación por ser genérica. Se enfatizó que la revisión no puede ser utilizada como una tercera instancia y que la inasistencia a la audiencia de informes justifica el desistimiento del recurso de apelación.",
+  "palabras_clave": [
+    "revisión",
+    "debido proceso",
+    "competencia",
+    "ley de tierras",
+    "error judicial",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1332_E18-0052.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340346-1332-101224-2024-18-0052.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.217612"
+}

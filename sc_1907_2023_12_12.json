@@ -1,0 +1,22 @@
+{
+  "id": 33760,
+  "numero": "1907",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio proveniente de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, relacionado con una acción de amparo constitucional y medida cautelar. La decisión impugnada modificó una medida de privación de libertad impuesta a varios ciudadanos acusados de delitos graves. La Sala se declaró competente para conocer del asunto y ordenó oficiar a la Presidencia del Circuito Judicial Penal del Estado Zulia para obtener información sobre el estado actual del proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1907_E21-0303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331877-1907-121223-2023-21-0303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.452839"
+}

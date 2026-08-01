@@ -1,0 +1,24 @@
+{
+  "id": 35222,
+  "numero": "0238",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio proveniente de la Sala Tercera de la Corte de Apelaciones del Estado Zulia, relacionado con una acción de amparo constitucional y medida cautelar. La acción fue interpuesta por la Fiscal Provisoria y Fiscales Auxiliares en relación a una decisión que modificó una medida de privación de libertad de varios ciudadanos acusados de delitos graves. La Sala determinó su competencia para conocer la acción de amparo y ordenó notificar al Circuito Judicial Penal del Estado Zulia sobre el estado actual de la causa penal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "medida cautelar",
+    "proceso penal",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0238_E21-0303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317644-0238-29622-2022-21-0303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.248607"
+}

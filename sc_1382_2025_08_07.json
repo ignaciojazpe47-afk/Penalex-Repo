@@ -1,0 +1,27 @@
+{
+  "id": 21635,
+  "numero": "1382",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "No ha lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró no ha lugar las solicitudes de revisión constitucional de las sentencias de fechas 13 de septiembre de 2021 y 31 de marzo de 2022, proferidas por el Juzgado Superior en lo Civil, Mercantil y del Tránsito del Segundo Circuito de la Circunscripción Judicial del Estado Portuguesa. Se argumentó que no se evidenciaron vicios que vulneraran derechos constitucionales y que las decisiones se ajustaron a derecho, además de que se había llegado a un acuerdo extrajudicial entre las partes que convalidó cualquier posible vicio procesal. La sentencia reafirma la importancia de la tutela judicial efectiva y el respeto a los derechos de las partes en el proceso judicial.",
+  "palabras_clave": [
+    "reivindicación",
+    "due process",
+    "silencio de pruebas",
+    "tutela judicial",
+    "incongruencia positiva",
+    "documento administrativo",
+    "propiedad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1382_E22-0313.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347231-1382-7825-2025-22-0313.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.041905"
+}

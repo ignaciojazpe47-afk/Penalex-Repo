@@ -1,0 +1,27 @@
+{
+  "id": 44987,
+  "numero": "0520",
+  "fecha": "2019-12-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ADMITE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por Carmen Cecilia Padilla D’Viási, quien cuestionó la decisión de la Sala de Casación Social que admitió una solicitud de avocamiento. La Sala consideró que la solicitud era admisible y que existían fundamentos para la revisión, dado que se alegaba violación del derecho a la defensa y al debido proceso. Además, se acordó la medida cautelar de suspensión de efectos de las sentencias objeto de revisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "medida cautelar",
+    "revisión",
+    "derechos constitucionales",
+    "competencia",
+    "sentencias",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-19_S0520_E19-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309245-0520-191219-2019-19-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.803769"
+}

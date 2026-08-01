@@ -1,0 +1,25 @@
+{
+  "id": 39353,
+  "numero": "0397",
+  "fecha": "2021-08-20",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado José Ramón Pineda Rodríguez en representación de los ciudadanos Gilson Mauricio Barroeta Flores, Yurnel Miguel Barroeta Rondón y Alfredo José Barroeta. La acción fue presentada contra las actuaciones y omisiones de la Corte de Apelaciones y el Juzgado Séptimo de Primera Instancia Estadal en Función de Control del Circuito Judicial Penal del Estado Lara, que habían declarado inadmisibles las acciones de amparo ejercidas y no habían emitido pronunciamiento oportuno en el caso de los ciudadanos mencionados.\n\nLa Sala determinó su competencia para conocer de la acción de amparo y, tras analizar los antecedentes del caso, decidió no declarar el abandono del trámite, a pesar de la inactividad del defensor privado desde la interposición de la acción. Se ordenó al Presidente del Circuito Judicial Penal del Estado Lara que informara sobre las decisiones y actuaciones dictadas en el caso, destacando la importancia del derecho a la libertad personal y la necesidad de un pronunciamiento judicial en situaciones que afectan derechos fundamentales.\n\nFinalmente, la Sala ordenó la notificación correspondiente y estableció un plazo para el cumplimiento de lo dispuesto, reafirmando su compromiso con la protección de los derechos constitucionales de los ciudadanos involucrados.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "justicia",
+    "ministerio público",
+    "derechos humanos",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-20_S0397_E18-0123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/313097-0397-20821-2021-18-0123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.728841"
+}

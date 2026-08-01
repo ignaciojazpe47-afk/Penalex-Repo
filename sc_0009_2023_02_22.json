@@ -1,0 +1,27 @@
+{
+  "id": 28889,
+  "numero": "0009",
+  "fecha": "2023-02-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por Ángela Paolina Rivera y Leandry Karola Contreras Rivera, en representación de un niño, debido a la falta de documentos necesarios que acrediten la legitimidad de los abogados que las asisten y la ausencia de copia certificada de las actuaciones procesales. La decisión se basa en el artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece las causales de inadmisión de la demanda.",
+  "palabras_clave": [
+    "interés superior",
+    "niños",
+    "familia",
+    "derechos",
+    "violencia",
+    "tutela",
+    "amparo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-22_S0009_E20-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322806-0009-22223-2023-20-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.301567"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18281,
+  "numero": "0076",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Belquis Coromoto Calzadilla Villanueva contra una sentencia que declaró sin lugar su acción de amparo constitucional. La apelante alegó violaciones a los derechos del niño en el proceso de fijación de manutención. La Sala, tras analizar el caso, determinó que no se evidenció la violación de derechos constitucionales y que los motivos de los diferimientos en la audiencia estaban justificados. Finalmente, se declaró competente para conocer del recurso y se confirmó la decisión recurrida.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "debido proceso",
+    "interés superior del niño",
+    "acción de amparo",
+    "manutención",
+    "juzgado",
+    "prueba"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0076_E24-0513.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341339-0076-7225-2025-24-0513.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.557948"
+}

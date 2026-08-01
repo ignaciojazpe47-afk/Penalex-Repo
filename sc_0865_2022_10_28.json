@@ -1,0 +1,25 @@
+{
+  "id": 37115,
+  "numero": "0865",
+  "fecha": "2022-10-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de octubre de 2022, declaró improcedente la acción de amparo constitucional interpuesta por Miguel Ángel Puentes Urgiles contra la sentencia del Juzgado Superior Quinto del Circuito Judicial del Trabajo, que había declarado sin lugar un recurso de hecho. La Sala determinó que el Juzgado no actuó fuera de su competencia y que el recurso de apelación ejercido no era el adecuado para impugnar una decisión interlocutoria que declinó la competencia por materia. Se concluyó que no hubo violación de derechos constitucionales en el proceso.",
+  "palabras_clave": [
+    "apelación",
+    "debido proceso",
+    "error judicial",
+    "derechos constitucionales",
+    "competencia",
+    "sentencia interlocutoria"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-28_S0865_E21-0329.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320467-0865-281022-2022-21-0329.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.424668"
+}

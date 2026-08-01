@@ -1,0 +1,25 @@
+{
+  "id": 17528,
+  "numero": "0038",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Luis Garbán Zurita, abogado de Juan Manuel Rodríguez Luis, contra la sentencia dictada el 27 de junio de 2025 por la Corte de Apelaciones. Se argumenta que la Corte actuó dentro de su competencia y no vulneró derechos constitucionales. La decisión se basa en la falta de elementos que evidencien un gravamen irreparable a los derechos del accionante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "violencia_contra_la_mujer",
+    "corte_de_apelaciones",
+    "tutela_judicial",
+    "cosa_juzgada",
+    "derecho_a_la_defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0038_E25-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352718-0038-18226-2026-25-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.068354"
+}

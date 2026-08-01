@@ -1,0 +1,26 @@
+{
+  "id": 22261,
+  "numero": "1601",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia n.° RC.000797 dictada por la Sala de Casación Civil, que había declarado con lugar el recurso de casación interpuesto por Marino Recio Asociados, C.A. contra Carlos Alejandro Diez Mora. La sentencia impugnada estableció que el capital adeudado debía pagarse a la tasa de cambio vigente al momento del pago, mientras que los intereses se calcularían a la tasa de cambio del 1° de junio de 2004, lo que generó alegaciones de incongruencia y violación de derechos constitucionales por parte de la demandante. La Sala Constitucional determinó que no existía tal incongruencia y que la decisión se ajustaba a derecho, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "incongruencia",
+    "intereses",
+    "capital",
+    "tasa de cambio",
+    "contrato",
+    "deuda",
+    "patrimonio"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de ejecución de hipoteca",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1601_E16-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348718-1601-151025-2025-16-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.751479"
+}

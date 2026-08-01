@@ -1,0 +1,26 @@
+{
+  "id": 33965,
+  "numero": "1091",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de agosto de 2023, declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Pedro Rafael Luciano Pérez Sosa en representación de Eduardo Domingo Urguelles Medina. La acción se basaba en la falta de pronunciamiento del Juzgado Segundo de Control sobre la solicitud de revisión de la medida de privación judicial preventiva de libertad y la negativa a otorgar copias certificadas del escrito acusatorio. La Sala consideró que la lesión denunciada había cesado, lo que llevó a la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "libertad",
+    "jurisdicción",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1091_E21-0338.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328228-1091-10823-2023-21-0338.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.346128"
+}

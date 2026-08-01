@@ -1,0 +1,23 @@
+{
+  "id": 16429,
+  "numero": "0621",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 380, anuló un fallo de la Sala de Casación Civil que había declarado la nulidad de una experticia complementaria y fijado un nuevo monto de indemnización por daño moral. La Sala Constitucional determinó que la Sala de Casación Civil había vulnerado la cosa juzgada al modificar un monto que ya había sido decidido y pagado, lo que constituye una violación del debido proceso y de la tutela judicial efectiva. Se ratificó el pago realizado por el demandado y se declaró la validez de la condena original.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "daño moral",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 380",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0621_E23-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355837-0621-27526-2026-23-0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.894089"
+}

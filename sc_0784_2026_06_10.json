@@ -1,0 +1,24 @@
+{
+  "id": 49743,
+  "numero": "0784",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por el abogado Juan Carlos Goitía Gómez en representación de Donnys Gregory Ruz Mora, quien solicitó la revisión de una sentencia de la Sala 9 de la Corte de Apelaciones que negó su solicitud de amnistía. La Corte de Apelaciones había determinado que los delitos por los cuales se le seguía a Ruz Mora no estaban relacionados con fines políticos, lo que excluía su caso de la Ley de Amnistía para la Convivencia Democrática. Tras analizar los argumentos, la Sala Constitucional declaró improcedente la acción de amparo, confirmando la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amnistía",
+    "acción de amparo",
+    "derechos humanos",
+    "sentencia",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Donnys Gregory Ruz Mora",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0784_E26-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356482-0784-10626-2026-26-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.931311"
+}

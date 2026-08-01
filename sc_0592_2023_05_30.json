@@ -1,0 +1,24 @@
+{
+  "id": 30546,
+  "numero": "0592",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Cándido Wolfgang Hidalgo Moreno, representado por el abogado Carlos José Mirabal González, contra la sentencia del Juzgado Superior Agrario que decidió sin lugar la apelación de una medida de protección agroalimentaria. La Sala establece que el demandante contaba con un medio judicial idóneo que no fue utilizado, lo que lleva a la inadmisibilidad de la acción. La decisión se fundamenta en la falta de agotamiento de las vías ordinarias y la necesidad de respetar los procedimientos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "producción agroalimentaria",
+    "medida cautelar",
+    "juzgado superior",
+    "conflictos posesorios"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0592_E22-0580.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325680-0592-30523-2023-22-0580.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.924368"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23699,
+  "numero": "1988",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Rafael Pérez Anzola y Marianela González Guerra, en representación de Grupo Médico Oriente, C.A., contra la sentencia del Tribunal Tercero Superior del Trabajo que declaró inadmisible la acción de amparo. La Sala consideró que la apelación fue interpuesta dentro del plazo legal y que no se justificó la necesidad de acudir a la vía del amparo, ya que las cuestiones procesales podían ser resueltas en el marco del recurso ordinario. Finalmente, se declaró sin lugar el recurso de apelación y se confirmó la sentencia del tribunal inferior.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "justicia",
+    "proceso",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1988_E25-0125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351701-1988-101225-2025-25-0125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.742059"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 37490,
+  "numero": "1011",
+  "fecha": "2022-11-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acumulación de causas en un caso de revisión constitucional. Se solicitó la acumulación de un expediente relacionado con una solicitud de revisión constitucional con medida cautelar de suspensión de efectos, presentada por la sociedad mercantil MACHIHEMBRADORA CARACAS, C.A. La Sala determinó que existía conexión entre los casos y que era necesario evitar decisiones contradictorias.",
+  "palabras_clave": [
+    "acumulación",
+    "revisión constitucional",
+    "suspensión de efectos"
+  ],
+  "titulo": "Sentencia sobre acumulación de causas en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-18_S1011_E21-0218-22-0784.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320917-1011-181122-2022-21-0218 - 22-0784.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.341174"
+}

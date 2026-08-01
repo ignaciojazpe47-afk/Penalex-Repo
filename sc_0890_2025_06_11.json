@@ -1,0 +1,22 @@
+{
+  "id": 20305,
+  "numero": "0890",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 11 de junio de 2025, declaró no ha lugar la solicitud de revisión de la sentencia N° RC.000137-2024 de la Sala de Casación Civil, que había declarado perecido el recurso de casación interpuesto por Antonio Luis Hernández Delgado. La Sala consideró que no se incurrió en indefensión y que se respetaron los derechos al debido proceso. Además, se ratificó la decisión del Juzgado Superior Accidental que había resuelto sobre el cumplimiento de un contrato verbal de compra venta, confirmando que el juez actuó dentro de los límites de la litis planteada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "casación civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0890_E24-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344685-0890-11625-2025-24-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.298761"
+}

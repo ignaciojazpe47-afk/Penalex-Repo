@@ -1,0 +1,24 @@
+{
+  "id": 68028,
+  "numero": "1595",
+  "fecha": "2015-12-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 27 de marzo de 2014 por la Corte Primera de lo Contencioso Administrativo, que había revocado una decisión anterior y declarado sin lugar un recurso contencioso administrativo funcionarial interpuesto por Orangel Enrique González Chirino contra la Alcaldía del Municipio Maracaibo. La Sala encontró que la sentencia impugnada incurrió en el vicio de silencio de pruebas y violó derechos constitucionales al no valorar adecuadamente la condición de funcionario de carrera administrativa del solicitante, lo que llevó a la vulneración de su derecho a la estabilidad en el cargo.\n\nEn consecuencia, la Sala declaró ha lugar la solicitud de revisión, anuló la sentencia de la Corte Primera y ordenó que la causa se repusiera al estado de que la Corte Segunda de lo Contencioso Administrativo emita un nuevo pronunciamiento sobre el recurso de apelación, conforme a la doctrina expuesta en el fallo. La decisión se fundamenta en la necesidad de garantizar el derecho a la tutela judicial efectiva y el debido proceso, asegurando que todas las pruebas sean debidamente analizadas y valoradas por el juez.\n\nFinalmente, se destaca la importancia de la motivación adecuada en las sentencias y el deber del juez de resolver todos los alegatos presentados por las partes, en cumplimiento de los principios establecidos en la Constitución y el Código de Procedimiento Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "silencio de pruebas",
+    "funcionario de carrera",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Corte Primera de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1595_E15-1179.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183731-1595-101215-2015-15-1179.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.603126"
+}

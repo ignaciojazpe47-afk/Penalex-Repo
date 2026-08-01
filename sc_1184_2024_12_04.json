@@ -1,0 +1,25 @@
+{
+  "id": 28133,
+  "numero": "1184",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por el abogado Luis Enrique La Cruz Gallardo en representación de los ciudadanos Francisco José Díaz González y Freddy Jesús Bastidas Olmos. La solicitud se refería a decisiones previas de la Corte de Apelaciones y de la Sala de Casación Penal del TSJ. La Sala determinó que la solicitud era inadmisible debido a la falta de presentación de copias certificadas de las sentencias objeto de revisión, lo que constituye una carga procesal del solicitante.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "carga procesal",
+    "sentencias",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "justiciable"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1184_E24-0272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340023-1184-41224-2024-24-0272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.037285"
+}

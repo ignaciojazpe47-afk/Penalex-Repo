@@ -1,0 +1,24 @@
+{
+  "id": 41762,
+  "numero": "0198",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de amparo interpuesta por Richard Martínez Rodríguez, en su calidad de administrador de la Sociedad Mercantil Constructora West Fargo, C.A., contra la sentencia de la Corte de Apelaciones que confirmó una medida cautelar de prohibición de enajenar un inmueble. La decisión de la Corte de Apelaciones fue considerada lesiva a los derechos de propiedad de los copropietarios del Conjunto Residencial Majestic Village, afectando a un colectivo de familias. La Sala Constitucional decidió limitar la medida cautelar solo a la parcela específica involucrada en el proceso penal, permitiendo así la protección de los derechos de los terceros afectados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "prohibición de enajenar",
+    "derecho a la propiedad",
+    "Conjunto Residencial Majestic Village"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en relación a medida cautelar de prohibición de enajenar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0198_E16-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310804-0198-241120-2020-16-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.404180"
+}

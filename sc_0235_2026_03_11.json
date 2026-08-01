@@ -1,0 +1,27 @@
+{
+  "id": 16573,
+  "numero": "0235",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis la acción de amparo constitucional intentada.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Doralys del Valle Andrade Marín, en representación de su hija A.C.R.A., contra una decisión de la Corte de Apelaciones de Trujillo. La Corte de Apelaciones había declarado con lugar un recurso de apelación, anulando una decisión anterior que había admitido la acusación fiscal contra Víctor Manuel Montilla Briceño por abuso sexual. Sin embargo, la Sala Constitucional determinó que la acción de amparo era improcedente, ya que la Corte de Apelaciones actuó dentro de su competencia y no vulneró derechos constitucionales. Se declaró la improcedencia de la acción de amparo y se consideró inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "apelación",
+    "excepciones",
+    "abuso sexual",
+    "motivación",
+    "derechos",
+    "niños",
+    "mujeres",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0235_E25-1366.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353540-0235-11326-2026-25-1366.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.573320"
+}

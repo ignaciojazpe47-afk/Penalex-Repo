@@ -1,0 +1,25 @@
+{
+  "id": 45046,
+  "numero": "0037",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil Oxicar Maracaibo C.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y Tránsito del Estado Zulia, que revocó una decisión anterior en un juicio de desalojo. La Sala concluye que no se evidencian violaciones a derechos constitucionales, ya que el Juzgado de alzada actuó dentro de sus competencias y valoró adecuadamente las pruebas presentadas.\n\nEl caso se centra en la falta de cualidad activa de la demandante, quien no demostró su condición de propietaria del inmueble objeto del litigio. La Sala resalta que la acción de amparo no puede ser utilizada para revisar errores de juzgamiento ordinarios, y que la valoración de pruebas es competencia exclusiva de los jueces de instancia.\n\nFinalmente, se establece que la acción de amparo no cumple con los requisitos de procedencia establecidos en la ley, por lo que se declara improcedente sin necesidad de pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "cualidad activa",
+    "legitimación",
+    "arrendamiento",
+    "contrato",
+    "propiedad",
+    "sociedad mercantil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0037_E17-0768.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206903-0037-17118-2018-17-0768.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.263133"
+}

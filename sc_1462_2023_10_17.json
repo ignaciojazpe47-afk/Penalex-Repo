@@ -1,0 +1,26 @@
+{
+  "id": 32315,
+  "numero": "1462",
+  "fecha": "2023-10-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, a través de la magistrada ponente Lourdes Benicia Suárez Anderson, declara inadmisible la solicitud de avocamiento presentada por el abogado Emmanuel Ortiz Peraza en representación de los ciudadanos Carmen Elena Giménez Romero y Doménico Tabone Yacodela. La solicitud se fundamentó en la existencia de irregularidades procesales en un juicio penal en curso ante el Tribunal Penal de Primera Instancia Estadal en Funciones de Control de Barquisimeto, Estado Lara.\n\nLa Sala determinó su competencia para conocer del caso, pero concluyó que el peticionante no cumplió con la carga procesal de presentar los documentos necesarios para verificar la existencia de motivos suficientes para admitir la solicitud. En consecuencia, se declaró inadmisible la acción intentada, enfatizando la importancia de la certeza probatoria en este tipo de solicitudes.\n\nFinalmente, se ordenó la publicación y registro de la decisión, notificándose conforme a lo previsto en la ley, y se archivó el expediente.",
+  "palabras_clave": [
+    "concubinato",
+    "orden público",
+    "jurisdicción penal",
+    "indemnización",
+    "caos procesal",
+    "tutela judicial",
+    "avocamiento"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-17_S1462_E23-0763.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329369-1462-171023-2023-23-0763.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.387080"
+}

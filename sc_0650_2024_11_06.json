@@ -1,0 +1,26 @@
+{
+  "id": 27234,
+  "numero": "0650",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por LUIS GERARDO PINEDA TORRES contra la sentencia n.° 567 de la Sala de Casación Social, dictada el 18 de diciembre de 2023. La decisión se fundamenta en la falta de legitimación activa del solicitante, quien no actuó como parte en el proceso original. La Sala enfatiza que la revisión constitucional es un mecanismo excepcional y que la solicitud no contribuye a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "legitimación",
+    "revisión constitucional",
+    "sentencia",
+    "intangible",
+    "derechos",
+    "procedimiento",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0650_E24-0162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338633-0650-61124-2024-24-0162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.298900"
+}

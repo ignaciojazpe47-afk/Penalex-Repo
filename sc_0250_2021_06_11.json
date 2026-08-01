@@ -1,0 +1,26 @@
+{
+  "id": 38873,
+  "numero": "0250",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Extinción del proceso por pérdida del interés procesal",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la extinción del proceso por pérdida del interés procesal en el recurso de interpretación presentado por Víctor Hugo Mendoza Cabrera. Se argumenta que desde la interposición del recurso el demandante no mostró interés en que se decidiera su solicitud, lo que llevó a la Sala a considerar que no había razón para continuar con el proceso. Además, se menciona que la situación política en el país ha cambiado, lo que hace irrelevante la interpretación solicitada.",
+  "palabras_clave": [
+    "interés procesal",
+    "acción",
+    "justicia",
+    "constitución",
+    "jurisprudencia",
+    "proceso",
+    "extinción"
+  ],
+  "titulo": "Sentencia sobre la extinción del proceso por pérdida del interés procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0250_E16-1128.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312371-0250-11621-2021-16-1128.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.174031"
+}

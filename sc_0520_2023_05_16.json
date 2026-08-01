@@ -1,0 +1,24 @@
+{
+  "id": 30302,
+  "numero": "0520",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rosalia Mercedes Fernández Mena, en representación del Frente del Movimiento Socialista Comisión Danilo Anderson, contra la entonces Fiscal General de la República, Luisa Ortega Díaz. La decisión se basa en que la acción se dirigía a denunciar actuaciones de la Fiscal que ya habían cesado, dado que fue destituida el 5 de agosto de 2017 y se encuentra prófuga de la justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fiscal general",
+    "destitución",
+    "violación de derechos",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0520_E17-0624.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325146-0520-16523-2023-17-0624.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.857729"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38251,
+  "numero": "0030",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, revoca la sentencia del Juzgado Superior que declaró inadmisible la acción de amparo interpuesta por Ricardo José Rojas Salas. Se argumenta que la apelación diferida no es un medio idóneo para restablecer de manera inmediata la situación jurídica infringida, lo que justifica la procedencia del amparo. La Sala establece que el Juzgado agraviante erró en aplicar la causal de inadmisibilidad, dado que la apelación no protege los derechos constitucionales denunciados como vulnerados.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "tutela_judicial",
+    "reconvencion",
+    "jurisprudencia",
+    "proteccion_ninos",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la admisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0030_E18-0542.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311443-0030-9321-2021-18-0542.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.759313"
+}

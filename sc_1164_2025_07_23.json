@@ -1,0 +1,25 @@
+{
+  "id": 21100,
+  "numero": "1164",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por el abogado José Cristóbal Álvarez en representación de los ciudadanos Luis Miguel García Gamarra y Federico Antonio Medina Parra. La acción fue presentada contra la Presidenta del Circuito Judicial Penal del Estado Guárico, alegando violaciones a derechos fundamentales debido a la destitución de una juez sin causa aparente. La Sala declina el conocimiento de la acción al Juzgado Superior Estadal de lo Contencioso Administrativo de la Circunscripción Judicial del Estado Guárico.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "derechos colectivos",
+    "funciones administrativas",
+    "Poder Judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1164_E24-0820.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346382-1164-23725-2025-24-0820.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.383014"
+}

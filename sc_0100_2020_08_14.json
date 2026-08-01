@@ -1,0 +1,23 @@
+{
+  "id": 41388,
+  "numero": "0100",
+  "fecha": "2020-08-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Sención Fuentes Vargas contra la decisión del Juzgado Décimo Segundo de Primera Instancia que declaró inadmisible un recurso de hecho. La Sala encontró que el juzgado había actuado fuera de su competencia al conocer y decidir el recurso, lo que vulneró el derecho a la defensa y al debido proceso del accionante. En consecuencia, se declaró con lugar el recurso de apelación, revocando la sentencia anterior y ordenando el desglose del escrito del recurso de hecho para su correcta tramitación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-14_S0100_E18-0019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310039-0100-14820-2020-18-0019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.100610"
+}

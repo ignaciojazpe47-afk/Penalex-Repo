@@ -1,0 +1,22 @@
+{
+  "id": 22935,
+  "numero": "1798",
+  "fecha": "2025-02-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por Devorgelia Paredes Rondón contra una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolivariano de Mérida. La acción se fundamentó en la supuesta violación de derechos fundamentales en el proceso judicial que afectó a la demandante. La Sala, tras analizar los requisitos de admisibilidad, declaró la acción como procedente y con lugar, ordenando la remisión de copias certificadas de los expedientes relacionados con el caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1798_E25-0165.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349789-1798-121125-2025-25-0165.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.764318"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27012,
+  "numero": "0498",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Samer El Asmar contra la sentencia del Juzgado Superior Tercero en lo Civil, Mercantil, Tránsito y Bancario, que había declarado con lugar una cuestión previa de cosa juzgada. La Sala argumenta que no se cumplen los requisitos de identidad de partes y causa, y que el juzgado actuó dentro de su competencia y sin abuso de poder. Se resalta que la acción de amparo no es un medio para replantear asuntos ya decididos por otro órgano judicial.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "debido proceso",
+    "simulación de contrato",
+    "derecho de acción",
+    "justicia",
+    "constitución",
+    "derecho de propiedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0498_E24-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338386-0498-301024-2024-24-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.478254"
+}

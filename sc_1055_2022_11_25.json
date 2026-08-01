@@ -1,0 +1,24 @@
+{
+  "id": 37700,
+  "numero": "1055",
+  "fecha": "2022-11-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la nulidad de varias ordenanzas municipales relacionadas con impuestos sobre juegos y apuestas. Las accionantes argumentaron que estas disposiciones violan derechos constitucionales y afectan su actividad económica. La Sala, tras analizar la competencia y la inactividad procesal, declaró la perención de la instancia y la extinción del proceso, considerando que no se verifican las excepciones para evitar dicha perención.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanzas municipales",
+    "impuestos",
+    "juegos",
+    "apuestas"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanzas municipales de impuestos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-25_S1055_E16-0817.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321249-1055-251122-2022-16-0817.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.459615"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31645,
+  "numero": "1003",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a un recurso de amparo constitucional interpuesto por la ciudadana Claudia Carolina Monsalve de Aufiero, quien denuncia violaciones a sus derechos fundamentales por parte del Tribunal Cuarto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Carabobo. La Sala Constitucional, tras evaluar la situación, ordena la remisión de copias certificadas de las actas procesales relacionadas con el caso penal que se sigue en su contra, destacando la importancia de garantizar el debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1003_E22-1053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327534-1003-28723-2023-22-1053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.916288"
+}

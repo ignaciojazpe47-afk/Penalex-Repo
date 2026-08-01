@@ -1,0 +1,26 @@
+{
+  "id": 20120,
+  "numero": "0829",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Fernando De Melo Matos, quien alegó la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda respecto a su recurso de apelación. La Sala, tras revisar el caso, determinó que la acción era inadmisible, ya que la Corte de Apelaciones finalmente se pronunció sobre el recurso, lo que cesó la situación de vulneración de derechos alegada por el demandante. La decisión fue firmada por la magistrada ponente Tania D’Amelio Cardiet.",
+  "palabras_clave": [
+    "excepción",
+    "sobreseimiento",
+    "jurisdicción",
+    "relación mercantil",
+    "Código Orgánico Procesal Penal",
+    "apelación",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0829_E25-0259.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344399-0829-3625-2025-25-0259.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.310077"
+}

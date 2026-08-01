@@ -1,0 +1,26 @@
+{
+  "id": 23729,
+  "numero": "2002",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia del 14 de enero de 2020, presentada por el abogado Audio Rocca Osorio en nombre de Jorge Denegri Luna contra Banesco Banco Universal. La inadmisibilidad se fundamenta en la falta de presentación del poder que acredite la representación del demandante ante el tribunal. La Sala también señala que la revisión constitucional es un mecanismo excepcional y no un medio de impugnación ordinario.",
+  "palabras_clave": [
+    "responsabilidad extracontractual",
+    "enriquecimiento sin causa",
+    "daño",
+    "reparación",
+    "Código Civil",
+    "jurisprudencia",
+    "equilibrio patrimonial"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2002_E23-0773.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351745-2002-101225-2025-23-0773.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.745020"
+}

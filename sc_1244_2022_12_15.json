@@ -1,0 +1,26 @@
+{
+  "id": 38121,
+  "numero": "1244",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Desiree Yohana Meléndez Rodríguez, quien desistió de la misma. La Sala declaró inadmisible la solicitud de avocamiento debido a la falta de legitimidad de los abogados que actuaron en representación de la demandante. Además, se destacó que no se presentaron los documentos necesarios para verificar la admisibilidad de la demanda.",
+  "palabras_clave": [
+    "desistimiento",
+    "avocamiento",
+    "legitimidad",
+    "representación",
+    "procedimiento civil",
+    "acción de amparo",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1244_E21-0307.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322137-1244-151222-2022-21-0307.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.144397"
+}

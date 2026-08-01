@@ -1,0 +1,25 @@
+{
+  "id": 22445,
+  "numero": "1642",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión presentada por la sociedad mercantil Administradora Condominio Paseo Las Mercedes, C.A. y la ciudadana Eliana Maily Bustamante Laguna. La decisión se fundamenta en la falta de presentación de documentos que acrediten la representación legal de los solicitantes, así como la ausencia de copia certificada de la sentencia objeto de revisión. La Sala enfatiza la importancia de cumplir con los requisitos formales para la admisión de solicitudes de revisión constitucional.",
+  "palabras_clave": [
+    "desacato",
+    "asamblea",
+    "junta de condominio",
+    "nulidad",
+    "ejecución forzosa",
+    "propiedad horizontal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1642_E25-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349024-1642-221025-2025-25-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.755270"
+}

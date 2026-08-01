@@ -1,0 +1,22 @@
+{
+  "id": 37729,
+  "numero": "1083",
+  "fecha": "2022-12-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Ramsés Ojeda en nombre de varios ciudadanos. La decisión se basa en la falta de legitimación del solicitante debido a la ineficacia del poder presentado para actuar en nombre de los requirentes. La Sala reafirma su competencia para conocer de la solicitud, pero determina que no se cumplió con la carga procesal necesaria para su admisibilidad.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-02_S1083_E22-0592.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321365-1083-21222-2022-22-0592.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.444055"
+}

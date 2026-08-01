@@ -1,0 +1,23 @@
+{
+  "id": 20140,
+  "numero": "0849",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió el 3 de junio de 2025, declarar sin lugar el recurso de apelación interpuesto por María Elena Cordero Mendoza contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Lara, que había declarado sin lugar la acción de amparo constitucional. La apelante alegaba violaciones a su derecho a la defensa y al debido proceso, argumentando que el tribunal inferior condicionó su derecho a oponerse a medidas cautelares a la citación de todos los co-demandados, lo cual consideraba injusto y contrario a la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "Lara"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional interpuesto por María Elena Cordero Mendoza",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0849_E24-0893.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344419-0849-3625-2025-24-0893.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.304968"
+}

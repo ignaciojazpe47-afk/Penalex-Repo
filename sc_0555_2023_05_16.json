@@ -1,0 +1,25 @@
+{
+  "id": 30337,
+  "numero": "0555",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Diurkin Bolívar Lugo en representación de Amanda Inés de la Santísima Trinidad Herrera Urriola, contra la decisión de la Sala N° 9 de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala constató que la situación jurídica denunciada había cesado, lo que llevó a declarar la inadmisibilidad de la acción de amparo constitucional. En consecuencia, se confirmó la decisión de la Corte de Apelaciones y se declaró sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "proceso penal",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0555_E21-0790.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325187-0555-16523-2023-21-0790.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.854674"
+}

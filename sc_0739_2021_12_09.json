@@ -1,0 +1,25 @@
+{
+  "id": 40794,
+  "numero": "0739",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La ciudadana Gelyna Mercado Carabaño interpuso una acción de amparo constitucional contra el Consejo Nacional Electoral por la omisión de respuesta a sus comunicaciones. La Sala Constitucional, tras analizar el caso, determinó que la acción era inadmisible debido a que la demandante no había agotado los recursos ordinarios disponibles, específicamente el recurso contencioso electoral, que es el medio adecuado para este tipo de pretensiones. En consecuencia, se declaró inadmisible la acción de amparo y se consideró inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucional",
+    "electoral",
+    "justicia",
+    "vías judiciales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Gelyna Mercado Carabaño",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0739_E21-0443.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315191-0739-91221-2021-21-0443.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.730009"
+}

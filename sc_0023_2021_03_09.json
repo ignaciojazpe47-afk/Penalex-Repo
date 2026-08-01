@@ -1,0 +1,26 @@
+{
+  "id": 38245,
+  "numero": "0023",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento de la acción de amparo interpuesta por un grupo de ciudadanos contra el Consejo Nacional Electoral y la Asamblea Nacional Constituyente, debido al abandono del trámite por falta de impulso procesal durante más de seis meses. Se establece que la falta de actuación por parte de los demandantes demuestra la pérdida de interés en la causa, lo que conlleva a la extinción del procedimiento.",
+  "palabras_clave": [
+    "abandonos",
+    "amparo",
+    "multa",
+    "interés",
+    "procedimiento",
+    "tutela",
+    "legalidad"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0023_E17-1266.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311435-0023-9321-2021-17-1266.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.759003"
+}

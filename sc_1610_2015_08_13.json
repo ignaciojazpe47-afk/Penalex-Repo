@@ -1,0 +1,24 @@
+{
+  "id": 68045,
+  "numero": "1610",
+  "fecha": "2015-08-13",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional interpuesta por Yamily del Carmen Rodríguez Moreno, en representación de sus hijos, contra una decisión del Juzgado Superior Agrario de Mérida. La acción se fundamentó en la supuesta violación de derechos sucesorales y la falta de competencia del tribunal agrario para conocer de la regulación de competencia en un caso que involucraba a menores de edad. La Sala consideró que la medida de protección a la continuidad de la producción agroalimentaria debía ser revisada, dado que se había dictado sin la debida notificación al Ministerio Público, lo que contraviene el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "producción agroalimentaria",
+    "derechos sucesorales",
+    "menores de edad",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1610_E15-0961.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183758-1610-101215-2015-15-0961.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:08.966217"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28140,
+  "numero": "1191",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado José Gabriel Carrasco Ramírez en representación de Jesús Ramón Castellanos Castellanos. La solicitud se fundamentó en la presunta violación del orden público constitucional y la tutela judicial efectiva en un proceso penal que cursa ante el Tribunal Segundo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Carabobo.\n\nLa Sala, tras analizar la solicitud, determinó que no se cumplían los requisitos necesarios para ejercer la figura del avocamiento, concluyendo que la competencia para conocer de la solicitud correspondía a la Sala de Casación Penal. Por lo tanto, se declaró incompetente y se declinó el conocimiento de la causa a la Sala de Casación Penal, ordenando el remitir el expediente correspondiente.\n\nFinalmente, la decisión fue firmada y sellada en el Salón de Sesiones de la Sala Constitucional, con la fecha del 4 de diciembre de 2024.",
+  "palabras_clave": [
+    "nulidades",
+    "tutela judicial",
+    "debido proceso",
+    "defensa",
+    "indefensión",
+    "audiencia preliminar"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1191_E18-0788.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340030-1191-41224-2024-18-0788.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.039398"
+}

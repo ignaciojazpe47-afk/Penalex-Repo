@@ -1,0 +1,23 @@
+{
+  "id": 28396,
+  "numero": "1338",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 175 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación. La parte demandante, FM POWER MATERIALES ELÉCTRICOS, C.A., alegó daños por un deslizamiento de talud que afectó sus galpones, argumentando que la demandada, ADMINISTRADORA GALPOFINCA, C.A., no realizó los estudios técnicos necesarios. La Sala Constitucional encontró que la Sala de Casación Civil incurrió en un error al establecer la carga de la prueba, debiendo ser la demandada quien demostrara su falta de culpa, y no la demandante. Por lo tanto, se declaró nula la decisión impugnada y se ordenó a la Sala de Casación Civil dictar una nueva decisión corrigiendo el vicio detectado.",
+  "palabras_clave": [
+    "responsabilidad decenal",
+    "revisión constitucional",
+    "daños",
+    "deslizamiento de talud"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre responsabilidad decenal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1338_E24-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340352-1338-101224-2024-24-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.209034"
+}

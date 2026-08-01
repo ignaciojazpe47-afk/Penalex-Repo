@@ -1,0 +1,22 @@
+{
+  "id": 22087,
+  "numero": "1520",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Se admite la presente solicitud de revisión.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión constitucional presentada por Minerva Paola Quintiliani Durán, quien actúa como coheredera de Antonio Quintiliani Tippi. La revisión se origina de una sentencia dictada el 4 de marzo de 2024, que declaró inadmisible la pretensión de tacha de falsedad de documentos en un juicio previo. La Sala también acordó medidas cautelares de prohibición de enajenar sobre dos inmuebles en disputa, así como la medida de no innovar sobre los mismos, hasta que se decida el mérito de la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tacha de falsedad",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1520_E25-0797.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348266-1520-61025-2025-25-0797.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.193706"
+}

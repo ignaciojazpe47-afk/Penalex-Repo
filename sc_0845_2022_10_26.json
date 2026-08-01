@@ -1,0 +1,24 @@
+{
+  "id": 36909,
+  "numero": "0845",
+  "fecha": "2022-10-26",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 14 de diciembre de 2020, que declaró sin lugar el recurso de apelación interpuesto por Manufacturas de Papel, C.A. (MANPA) contra la oferta real y depósito presentada por Turboven Maracay Company INC. La Sala concluyó que la decisión del juzgado inferior fue correcta al considerar que se cumplieron los requisitos para la procedencia de la oferta real y depósito, liberando a Turboven de la obligación de pago de energía eléctrica adeudada a MANPA. Finalmente, se declaró que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "oferta real",
+    "depósito",
+    "derecho al debido proceso",
+    "energía eléctrica"
+  ],
+  "titulo": "Revisión de sentencia sobre oferta real y depósito",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-26_S0845_E22-0418.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320227-0845-261022-2022-22-0418.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.431100"
+}

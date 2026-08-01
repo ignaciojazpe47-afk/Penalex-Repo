@@ -1,0 +1,25 @@
+{
+  "id": 24089,
+  "numero": "0036",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad interpuesta por Argenis José González Salas contra la resolución 005-2020 de la Sala de Casación Civil. La Sala declaró su incompetencia para conocer del caso, argumentando que la competencia corresponde a la Sala Político Administrativa, dado que se impugnaba una resolución administrativa. La decisión incluyó la remisión del expediente a la Sala correspondiente.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "despacho virtual",
+    "derecho a la defensa",
+    "Código de Procedimiento Civil",
+    "acceso a la justicia",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre la competencia de la Sala Constitucional en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0036_E21-0258.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332390-0036-5224-2024-21-0258.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.830136"
+}

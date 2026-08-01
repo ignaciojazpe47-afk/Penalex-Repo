@@ -1,0 +1,25 @@
+{
+  "id": 38402,
+  "numero": "0080",
+  "fecha": "2021-04-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El ciudadano Víctor Segundo González Valero interpuso una acción de amparo constitucional contra el desacato de una sentencia de la Sala Político Administrativa. La Sala Constitucional, tras revisar el expediente, determinó que la pretensión de amparo era confusa y no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Se ordenó al accionante corregir su solicitud en un plazo de tres días.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmision",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-09_S0080_E20-0151.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311637-0080-9421-2021-20-0151.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.744273"
+}

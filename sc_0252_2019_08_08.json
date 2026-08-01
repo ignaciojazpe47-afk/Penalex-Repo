@@ -1,0 +1,24 @@
+{
+  "id": 43818,
+  "numero": "0252",
+  "fecha": "2019-08-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "El abogado Eudomar Gregorio García Blanco interpuso una acción de amparo constitucional contra una decisión del Juzgado Primero de Primera Instancia que decretó la medida privativa de libertad a varios ciudadanos por delitos relacionados con drogas. La Sala Constitucional, tras analizar el caso, decidió solicitar el expediente al juzgado de origen y decretar la suspensión de actuaciones en el mismo. Además, se acordó sustituir la medida privativa de libertad por medidas cautelares menos gravosas, permitiendo la presentación periódica de los imputados ante el tribunal y prohibiendo su salida del país.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medidas cautelares",
+    "privativa de libertad",
+    "derechos humanos",
+    "procedimiento penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional y medidas cautelares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-08_S0252_E19-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/306938-0252-8819-2019-19-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.399807"
+}

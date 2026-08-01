@@ -1,0 +1,27 @@
+{
+  "id": 19093,
+  "numero": "0394",
+  "fecha": "2025-03-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Simón José Arrieta Quintero en representación de los ciudadanos Jenny Carol Godoy Gil y Neuro José Montes Arias. La acción fue presentada contra el Tribunal Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Trujillo, alegando actuaciones lesivas al proceso debido legal. La Sala, tras evaluar la competencia, decidió declinar el conocimiento del caso a la Corte de Apelaciones del Circuito Judicial con Competencia en Materia de Delitos de Violencia Contra La Mujer de la Circunscripción Judicial del Estado Trujillo.",
+  "palabras_clave": [
+    "privación de libertad",
+    "maltrato infantil",
+    "trata de personas",
+    "derechos de la infancia",
+    "violencia de género",
+    "código orgánico procesal penal",
+    "ley orgánica de niños",
+    "ley orgánica para una mujer libre de violencia"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Simón José Arrieta Quintero",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-26_S0394_E23-1299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342674-0394-26325-2025-23-1299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.713978"
+}

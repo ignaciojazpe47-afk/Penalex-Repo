@@ -1,0 +1,23 @@
+{
+  "id": 18795,
+  "numero": "0321",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia 126/2024, declara inadmisible la acción de amparo constitucional interpuesta por Elio Omar Rangel Trocell, en representación de la adolescente Y.D.B.C, por falta de legitimidad. La Corte de Apelaciones había declarado inadmisible la acción debido a que el poder apud acta presentado no cumplía con los requisitos de forma establecidos en la ley, al ser presentado en copia simple en lugar de copia certificada.\nLa Sala Constitucional confirma la decisión de la Corte de Apelaciones, argumentando que el abogado podía asistir a la víctima sin necesidad de poder, y que la falta de presentación del poder en forma adecuada es una deficiencia que no puede ser subsanada. Se establece que la acción de amparo no atañe a derechos colectivos o difusos, sino a la esfera particular del abogado accionante.\nFinalmente, se declara competente para conocer del recurso de apelación, pero se confirma la inadmisibilidad de la acción de amparo, resultando en la decisión de no lugar al recurso interpuesto.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "poder apud acta",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0321_E24-1098.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342266-0321-13325-2025-24-1098.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.731762"
+}

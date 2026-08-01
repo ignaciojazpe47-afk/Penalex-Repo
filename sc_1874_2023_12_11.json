@@ -1,0 +1,25 @@
+{
+  "id": 33727,
+  "numero": "1874",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada el 19 de diciembre de 2016 por el Juzgado Agrario Primero de Primera Instancia del Estado Carabobo, que declaró sin lugar la demanda de partición de herencia. La revisión fue solicitada por los ciudadanos Belén Rosalba Morillo Barrios y otros, quienes alegaron violaciones a sus derechos constitucionales en el proceso. La Sala, tras analizar los argumentos, concluyó que no existían infracciones que justificaran la revisión y declaró no ha lugar la solicitud.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "derecho agrario",
+    "procedimiento civil",
+    "defensa de fondo",
+    "seguridad alimentaria",
+    "ley de tierras"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1874_E20-0153.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331844-1874-111223-2023-20-0153.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.455950"
+}

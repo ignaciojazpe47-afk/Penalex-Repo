@@ -1,0 +1,23 @@
+{
+  "id": 21621,
+  "numero": "1369",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1068, declaró sin lugar la apelación interpuesta por Lennys Celeida Vásquez Abanes contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo constitucional. La Corte de Apelaciones argumentó que la accionante contaba con un recurso ordinario que no había agotado, lo que llevó a la inadmisibilidad de la acción de amparo. La Sala Constitucional confirmó esta decisión, sosteniendo que la muerte de la víctima no extingue la acción penal y que la acción de amparo no es procedente cuando existen vías ordinarias disponibles.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "acción penal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1369_E24-0528.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347206-1369-7825-2025-24-0528.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.032251"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34086,
+  "numero": "1193",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Efraín Algimiro Pinto Requena, representado por sus abogados, contra la falta de pronunciamiento de la Jueza de la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La acción se fundamentó en la omisión de respuesta a solicitudes de saneamiento de acto y pronunciamiento judicial, alegando violaciones al derecho de petición y a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho de petición",
+    "tutela judicial efectiva",
+    "omisión de pronunciamiento",
+    "Corte de Apelaciones",
+    "honorarios profesionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1193_E21-0801.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328397-1193-14823-2023-21-0801.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.860656"
+}

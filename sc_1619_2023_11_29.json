@@ -1,0 +1,24 @@
+{
+  "id": 33110,
+  "numero": "1619",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Yilder Sánchez, apoderado judicial de Erick Alexander Ramírez Ovalles, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación fue considerada tempestiva, pero se determinó que la acción de amparo no era admisible debido a que cesó la violación de derechos alegada por el accionante, ya que el tribunal había emitido un pronunciamiento posterior que subsanó la falta de fundamentación. Por lo tanto, se confirmó la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "fundamentación",
+    "tutela judicial"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1619_E22-0952.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330786-1619-291123-2023-22-0952.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.985935"
+}

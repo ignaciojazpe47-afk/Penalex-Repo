@@ -1,0 +1,22 @@
+{
+  "id": 36128,
+  "numero": "0497",
+  "fecha": "2022-08-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIxto ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional revisa la solicitud presentada por Pablo Alcides Waldrop Quijada, representado por la abogada Luz Clementina Torres, sobre la revisión de una sentencia de la Corte Primera de lo Contencioso Administrativo que anuló una decisión anterior. La Sala, tras la reconstitución y la instalación de sus miembros, decide solicitar la remisión del expediente correspondiente para continuar con el proceso de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia administrativa",
+    "Corte Primera de lo Contencioso Administrativo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-08_S0497_E17-0769.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319153-0497-8822-2022-17-0769.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.575536"
+}

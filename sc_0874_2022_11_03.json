@@ -1,0 +1,26 @@
+{
+  "id": 37124,
+  "numero": "0874",
+  "fecha": "2022-11-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Oscar Ramón Sosa Rojas, defensor de David Alejandro Sosa Alarcón, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala determinó que la acción era inadmisible debido a que el recurrente no había agotado las vías judiciales ordinarias para impugnar la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "privación de libertad",
+    "derechos humanos",
+    "constitucionalidad",
+    "nulidad",
+    "tribunales",
+    "amparo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-31_S0874_E20-0141.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320476-0874-311022-2022-20-0141.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.410376"
+}

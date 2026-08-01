@@ -1,0 +1,24 @@
+{
+  "id": 52006,
+  "numero": "400",
+  "fecha": "2017-06-01",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de protección de derechos e intereses colectivos presentada por concejales del Municipio Iribarren, Estado Lara, contra el Alcalde Alfredo Antonio Ramos Acosta, por el incumplimiento de sus obligaciones constitucionales. Los demandantes alegaron que la situación de violencia y obstrucción de vías públicas en el municipio afecta gravemente a la comunidad, impidiendo el libre tránsito y generando un ambiente de inseguridad y temor entre los ciudadanos.\n\nLa Sala, tras analizar los alegatos y la situación expuesta, se declaró competente para conocer la demanda, considerando que los hechos tienen trascendencia nacional y afectan derechos fundamentales como la salud, educación y seguridad personal. Se ordenó al Alcalde tomar medidas inmediatas para garantizar el libre tránsito y la seguridad en el municipio, así como la protección de los derechos de los niños y adolescentes.\n\nFinalmente, se acordó la admisión de la demanda y se ordenó la remoción de obstáculos en las vías públicas, así como la implementación de acciones para restablecer el orden y la paz en la comunidad, destacando la responsabilidad del Alcalde en la situación de crisis que enfrenta el municipio.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "amparo cautelar",
+    "violencia",
+    "libre tránsito",
+    "Estado Lara"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de derechos colectivos y amparo cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-01_S400_E17-0601.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199529-400-1617-2017-17-0601.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.095833"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 23235,
+  "numero": "1889",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos tribunales de la Circunscripción Judicial del estado Bolivariano de Miranda, relacionado con una acción de amparo constitucional interpuesta por Gloria Milagros de la Guerra de Padrino. La acción se fundamentó en presuntas violaciones a derechos fundamentales, incluyendo la vivienda y el debido proceso, por parte de los ciudadanos Pedro Manuel Albarrán y Jhon Oviedo, Fiscal Tercero del Ministerio Público. La Sala aceptó su competencia y ordenó la remisión del expediente al tribunal correspondiente para su conocimiento y decisión.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "derechos fundamentales"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1889_E24-1273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350485-1889-261125-2025-24-1273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.799919"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33222,
+  "numero": "1725",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 4 de diciembre de 2023, declaró sin lugar el recurso de apelación interpuesto por el abogado Marcos Rozo Hernández, actuando en nombre de varios ciudadanos, contra la decisión de la Sala 6 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamentó en la falta de presentación de los poderes originales que acreditaran la representación del abogado para actuar en nombre de los ciudadanos afectados.\nLa Sala Constitucional reafirmó su competencia para conocer la acción de amparo y confirmó la decisión de inadmisibilidad, argumentando que la falta de presentación de los documentos necesarios para demostrar la legitimidad del abogado impide el reconocimiento de la pretensión postulada. Se destacó que la acción de amparo debe ser oral, pública, breve y gratuita, y que no se exige formalismos que impidan el restablecimiento de derechos constitucionales.\nFinalmente, se ordenó la publicación y registro de la decisión, devolviendo el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1725_E18-0467.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330971-1725-41223-2023-18-0467.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.158052"
+}

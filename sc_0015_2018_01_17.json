@@ -1,0 +1,24 @@
+{
+  "id": 45014,
+  "numero": "0015",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC-000729 dictada por la Sala de Casación Civil, la cual había casado de oficio una decisión anterior y declarado la nulidad de sentencias de instancia. La Sala Constitucional determinó que la sentencia impugnada vulneró el derecho a la defensa y a la tutela judicial efectiva, al no pronunciarse sobre el mérito del caso y al imponer cargas no previstas en la ley. En consecuencia, se declaró con lugar la revisión y se anuló la sentencia impugnada, ordenando el reenvío a la Sala de Casación Civil para que decidiera sobre el recurso de casación interpuesto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derecho a la defensa",
+    "grupo de sociedades",
+    "nulidad de sentencias"
+  ],
+  "titulo": "Sentencia sobre revisión de la decisión de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0015_E16-0494.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206870-0015-17118-2018-16-0494.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.272420"
+}

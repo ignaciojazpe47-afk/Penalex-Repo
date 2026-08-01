@@ -1,0 +1,23 @@
+{
+  "id": 23856,
+  "numero": "2076",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por los abogados Carlos Desiderio Delgado y Alexander Torres en representación de Erika Celeste Hernández Ochoa y Yoselin del Carmen Flamez. La inadmisión se fundamenta en la falta de presentación del poder que acredite la representación de las solicitantes y la ausencia de la copia certificada de la sentencia cuya revisión se solicita.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisible",
+    "poder",
+    "representación judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2076_E25-1020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351889-2076-121225-2025-25-1020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.075800"
+}

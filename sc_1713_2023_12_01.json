@@ -1,0 +1,26 @@
+{
+  "id": 33210,
+  "numero": "1713",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la ciudadana Ninfa Esther Díaz Bermúdez, quien impugnó la sentencia N° 000246 de la Sala de Casación Civil. La Sala declaró que la intervención de la ciudadana Marilín Cristina Joya como tercera interviniente fue inadmisible, ya que no cumplió con los requisitos procesales necesarios. La Sala de Casación Civil había declarado con lugar el recurso extraordinario de casación interpuesto por Joya, lo que generó la nulidad de decisiones anteriores y la reposición del proceso para citar a Joya. Finalmente, la Sala Constitucional declaró no ha lugar la solicitud de revisión, reafirmando la necesidad de cumplir con los requisitos de legitimación y debido proceso.",
+  "palabras_clave": [
+    "procedimiento",
+    "casación",
+    "intervención",
+    "debido_proceso",
+    "legitimidad",
+    "constitución",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 000246",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1713_E22-0869.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330959-1713-11223-2023-22-0869.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.165993"
+}

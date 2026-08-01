@@ -1,0 +1,22 @@
+{
+  "id": 12870,
+  "numero": null,
+  "fecha": "2011-04-05",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por el abogado Pedro Miguel Castillo en representación de los ciudadanos Francisco Alberto Cermeño y Víctor Manuel Quintero, quienes habían sido objeto de una medida de arresto disciplinario. La Corte de Apelaciones había declarado inadmisible el amparo constitucional, lo que motivó la apelación. La Sala Constitucional, tras analizar los antecedentes y fundamentos del caso, concluyó que la juez que impuso la medida actuó fuera de su competencia y sin observar el debido proceso, lo que llevó a declarar sin lugar el recurso de apelación y confirmar la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "arresto disciplinario",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_d9ad81feeb3fe4b0126889a10229d508.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.551375"
+}

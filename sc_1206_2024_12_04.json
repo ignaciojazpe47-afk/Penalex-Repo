@@ -1,0 +1,26 @@
+{
+  "id": 28246,
+  "numero": "1206",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 047 de la Sala de Casación Social, que había declarado con lugar un recurso de casación interpuesto por los ciudadanos Adrián José Boutto y Rigoberto Antonio Campos Longares contra la sociedad mercantil Baker Hughes Venezuela, S.C.P.A. La Sala Constitucional encontró que la decisión de la Sala de Casación Social había vulnerado principios constitucionales al acordar una corrección monetaria que no era conforme a derecho, lo que llevó a la anulación parcial de dicha sentencia. Además, se ordenó a la Sala de Casación Social emitir un nuevo fallo conforme a la doctrina establecida por la Sala Constitucional.",
+  "palabras_clave": [
+    "competencia",
+    "revisión",
+    "sentencia",
+    "trabajo",
+    "moneda extranjera",
+    "derechos laborales",
+    "indexación"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 047 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1206_E21-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340142-1206-41224-2024-21-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.042150"
+}

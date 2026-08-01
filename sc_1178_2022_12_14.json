@@ -1,0 +1,22 @@
+{
+  "id": 38037,
+  "numero": "1178",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional se pronuncia sobre la revisión de una sentencia dictada por el Tribunal Primero de Primera Instancia de Juicio, que declaró parcialmente con lugar una acción de amparo constitucional. El solicitante, Edgar Orlando Ordoñez Márquez, argumenta que no fue notificado adecuadamente en el proceso, lo que vulnera sus derechos constitucionales. La Sala, tras evaluar los alegatos, se declara competente para conocer la revisión y ordena la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1178_E22-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322012-1178-141222-2022-22-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.147356"
+}

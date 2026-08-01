@@ -1,0 +1,23 @@
+{
+  "id": 42340,
+  "numero": "0053",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 10 de octubre de 2016, que había declarado improcedente la inadmisibilidad de la acción de amparo constitucional interpuesta por los ciudadanos Antonio Rafael González Fermín y Douglas Alberto González contra la Junta Directiva del Club Campestre Paracotos. La Sala determinó que la acción de amparo era procedente, ya que se habían vulnerado los derechos al debido proceso y a la defensa de los demandantes en el procedimiento disciplinario que les fue aplicado por la asociación civil.\n\nEn consecuencia, se declaró con lugar la solicitud de revisión, se anuló la decisión del juzgado inferior y se declaró inadmisible la acción de amparo. La Sala ordenó que se garantizara el debido proceso y el derecho a la defensa en los procedimientos disciplinarios de las asociaciones civiles sin fines de lucro, estableciendo que cualquier sanción debe ser impuesta respetando las garantías constitucionales.\n\nFinalmente, se ordenó la publicación de la sentencia en la Gaceta Oficial y en otros medios, resaltando la importancia de que las asociaciones civiles ajusten sus procedimientos a los principios constitucionales para evitar futuras vulneraciones de derechos.",
+  "palabras_clave": [
+    "debido proceso",
+    "derecho a la defensa",
+    "asociaciones civiles",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia que regula el debido proceso en asociaciones civiles sin fines de lucro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0053_E17-0056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303991-0053-27219-2019-17-0056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.606499"
+}

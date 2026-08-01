@@ -1,0 +1,25 @@
+{
+  "id": 28605,
+  "numero": "1436",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por Ricardo Rafael Pino Romero contra una decisión del Juzgado Superior Sexto en lo Civil, que había declarado con lugar un recurso de apelación. La Sala determinó su competencia para conocer la acción de amparo y ordenó al Juzgado Décimo Séptimo la remisión de copias del expediente y la información sobre el estado actual de la causa. Se estableció un plazo de cinco días hábiles para el cumplimiento de esta orden.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "desalojo",
+    "Juzgados Superiores",
+    "Ley Orgánica",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1436_E24-1129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340629-1436-121224-2024-24-1129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.820261"
+}

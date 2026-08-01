@@ -1,0 +1,25 @@
+{
+  "id": 43820,
+  "numero": "0254",
+  "fecha": "2019-08-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "El ciudadano Henry José Martínez Salazar interpuso una solicitud de revisión constitucional contra la decisión de la Corte Primera de lo Contencioso Administrativo que declaró con lugar un recurso de apelación de la Universidad Central de Venezuela. La Sala Constitucional, presidida por el Magistrado Juan José Mendoza Jover, se declaró competente para conocer la solicitud y decidió suspender los efectos de la decisión impugnada, argumentando que la ejecución de la misma podría afectar los derechos laborales del solicitante y otros docentes. La sentencia se dictó el 8 de agosto de 2019.",
+  "palabras_clave": [
+    "legitimación",
+    "derechos laborales",
+    "igualdad",
+    "convocatoria",
+    "universidades",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-08_S0254_E19-0373.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/306940-0254-8819-2019-19-0373.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.399122"
+}

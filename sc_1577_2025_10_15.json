@@ -1,0 +1,22 @@
+{
+  "id": 22237,
+  "numero": "1577",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite en la acción de amparo constitucional.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer la acción de amparo constitucional interpuesta por María Lerida Aguilera Sierra. Se determinó que la acción era tempestiva, pero se constató que hubo inactividad procesal por más de seis meses, lo que llevó a declarar el abandono del trámite. En consecuencia, se impuso una multa a la parte actora por incumplimiento de las obligaciones procesales.",
+  "palabras_clave": [
+    "abandonado",
+    "amparo constitucional",
+    "inactividad procesal"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1577_E25-0221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348694-1577-151025-2025-25-0221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.757481"
+}

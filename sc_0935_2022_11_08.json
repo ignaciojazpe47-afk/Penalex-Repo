@@ -1,0 +1,26 @@
+{
+  "id": 37237,
+  "numero": "0935",
+  "fecha": "2022-11-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Lesbia Molina, apoderada de Gerardo Enrique Araujo Pérez, contra una decisión del Tribunal Superior para la Protección de Niños, Niñas y Adolescentes que declaró inadmisible una acción de amparo. La apelante argumentó que la sentencia de partición de bienes no cumplió con los requisitos legales, afectando sus derechos constitucionales. Sin embargo, la Sala concluyó que la apelante no agotó las vías ordinarias para impugnar la decisión, lo que llevó a declarar sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "adolescentes",
+    "revocatoria",
+    "debido proceso",
+    "inadmision",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-08_S0935_E18-0726.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320623-0935-81122-2022-18-0726.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.398065"
+}

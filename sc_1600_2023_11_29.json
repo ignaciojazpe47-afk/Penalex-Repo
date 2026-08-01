@@ -1,0 +1,25 @@
+{
+  "id": 33091,
+  "numero": "1600",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 29 de noviembre de 2023, declaró SIN LUGAR el recurso de apelación interpuesto por el abogado Oscar José Ayala Ramírez, quien actuaba como defensor privado de los ciudadanos Marvelis Marín Moreno y Óscar Orangel López Martínez. La apelación se basaba en la inadmisibilidad de la acción de amparo constitucional dictada el 31 de octubre de 2018 por la Sala Dos de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que había declarado inadmisible la solicitud por falta de legitimidad del abogado recurrente.\n\nLa Sala Constitucional fundamentó su decisión en la falta de presentación de documentos que acreditaran la representación del abogado sobre sus defendidos, lo que constituye un requisito esencial para la admisibilidad de la acción de amparo. Se reiteró que la legitimación activa es un requisito indispensable para dar paso a cualquier impugnación que se intente, y al no existir en las actuaciones el comprobante que acreditara al abogado como defensor, se concluyó que la acción de amparo debía ser declarada inadmisible.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, reafirmando la importancia de cumplir con los requisitos procesales establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales para la interposición de acciones de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación activa",
+    "defensa técnica",
+    "jurisprudencia",
+    "derechos fundamentales",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1600_E18-0824.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330767-1600-291123-2023-18-0824.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.005250"
+}

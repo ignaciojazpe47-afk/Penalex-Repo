@@ -1,0 +1,22 @@
+{
+  "id": 21679,
+  "numero": "1426",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Amílcar Escalona en relación a la inadmisibilidad de la acción de amparo constitucional. La Sala confirmó la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del estado Lara, que había declarado inadmisible la acción de amparo, argumentando que existían vías ordinarias para resolver la controversia. La Sala destacó que el amparo constitucional no es la vía idónea para denunciar el fraude procesal, y que se requiere un término probatorio amplio que solo puede ser garantizado en un juicio ordinario.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fraude procesal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1426_E24-0891.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347297-1426-7825-2025-24-0891.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.036137"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24096,
+  "numero": "0043",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional interpuesta por Angy Antonieta Baschour González, en relación a una sentencia de divorcio dictada por el Tribunal Primero de Municipio Ordinario. La solicitante argumentó que la sentencia violó el orden público al no considerar la existencia de hijas menores de edad, lo que afectó la competencia del tribunal que dictó el fallo. La Sala, al considerar la gravedad de la situación, decidió ordenar al tribunal de origen que remita el expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "divorcio",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0043_E21-0282.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332397-0043-5224-2024-21-0282.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.826522"
+}

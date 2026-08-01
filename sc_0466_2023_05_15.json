@@ -1,0 +1,22 @@
+{
+  "id": 30247,
+  "numero": "0466",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Jenny Rueda en representación de varios ciudadanos, argumentando inepta acumulación de pretensiones. La acción fue presentada contra varios órganos judiciales, alegando violaciones a derechos fundamentales y la falta de pronunciamiento sobre un avocamiento previo. La Sala determina que no es competente para conocer de todas las denuncias planteadas, lo que justifica la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0466_E22-0403.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325087-0466-15523-2023-22-0403.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.891037"
+}

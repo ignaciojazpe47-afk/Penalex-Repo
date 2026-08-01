@@ -1,0 +1,25 @@
+{
+  "id": 38999,
+  "numero": "0280",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "CALIxto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Gladys Omaira Mogollón Morales contra una sentencia del Juzgado Superior Quinto de lo Contencioso Administrativo. La Sala determinó que no era competente para conocer del amparo, ya que la competencia corresponde a los Juzgados Nacionales de la Jurisdicción Contencioso Administrativa. La decisión se fundamenta en la falta de notificación a la presunta agraviada y en la normativa que regula la competencia en estos casos.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "competencia",
+    "jurisdicción",
+    "contencioso administrativo",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre incompetencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0280_E19-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312581-0280-9721-2021-19-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.176519"
+}

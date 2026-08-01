@@ -1,0 +1,27 @@
+{
+  "id": 22760,
+  "numero": "1711",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara no ha lugar la solicitud de revisión constitucional presentada por la representación judicial de José Leoncio Galvis Díaz, en relación a la decisión N° RC-000495 de la Sala de Casación Civil. Esta última había declarado sin lugar el recurso de casación interpuesto por el demandante contra una sentencia del Juzgado Undécimo Superior que ordenó la entrega de un inmueble a la demandada, Claudia Kowalski Saturno, en el marco de un juicio por cumplimiento de contrato de opción de compra venta de inmueble.\n\nLa Sala Constitucional argumenta que la revisión solicitada no se encuentra dentro de los supuestos para su procedencia, ya que no se evidencian infracciones a derechos constitucionales ni a principios fundamentales. Se concluye que la decisión de la Sala de Casación Civil fue debidamente fundamentada y no contraviene criterios jurisprudenciales establecidos.\n\nFinalmente, se ordena la devolución del expediente del juicio primigenio a su tribunal de origen, reafirmando la competencia de la Sala para conocer la solicitud de revisión, pero declarándola improcedente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "derecho a la defensa",
+    "cosa juzgada",
+    "contrato",
+    "cheque",
+    "Código de Comercio"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1711_E23-0981.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349449-1711-31125-2025-23-0981.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.526460"
+}

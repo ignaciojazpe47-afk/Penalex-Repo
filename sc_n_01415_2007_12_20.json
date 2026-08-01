@@ -1,0 +1,23 @@
+{
+  "id": 3462,
+  "numero": "N° 01415",
+  "fecha": "2007-12-20",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia anula la sentencia N° 01415 de la Sala Político-Administrativa, que había declarado sin lugar el recurso contencioso administrativo de nulidad interpuesto por Yolanda del Carmen Vivas Guerrero. La Sala Constitucional concluye que la Comisión Judicial vulneró el derecho a la igualdad de la recurrente al no considerar sus alegatos y pruebas, mientras que otros jueces en situaciones similares fueron reincorporados. Además, se destaca que la remoción de jueces provisorios no requiere un procedimiento administrativo previo, pero debe garantizarse el derecho a la defensa.",
+  "palabras_clave": [
+    "remoción",
+    "jueces provisorios",
+    "derecho a la defensa",
+    "igualdad"
+  ],
+  "titulo": "Anulación de la sentencia N° 01415 de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-12-20_PoliticoAdmin_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.104274"
+}

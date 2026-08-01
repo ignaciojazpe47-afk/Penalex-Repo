@@ -1,0 +1,24 @@
+{
+  "id": 38026,
+  "numero": "1167",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de una sentencia dictada por la Sala de Casación Social. La abogada Nathiel Annarella Peñaloza González, en representación de Manuel y Silvestre Pereira, solicitó la revisión de la sentencia N° 220, que había declarado 'CON LUGAR' un recurso de casación. La Sala Constitucional determinó su competencia para conocer la solicitud de revisión y ordenó al juzgado remitente que recabe y remita el expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "protección de niños",
+    "partición de bienes",
+    "potestad judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia de casación social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1167_E22-0216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322001-1167-141222-2022-22-0216.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.155989"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 42199,
+  "numero": "0039",
+  "fecha": "2019-02-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró la nulidad absoluta y carencia de efectos jurídicos del 'Estatuto que rige la transición a la democracia para restablecer la vigencia de la Constitución de la República Bolivariana de Venezuela', dictado por la Asamblea Nacional. Se exhorta al Ministerio Público a investigar penalmente las conductas delictivas relacionadas con este acto, y se ordena la notificación a diversas instituciones del Estado para su consideración y toma de decisiones pertinentes.\n\nLa sentencia establece que cualquier actuación de la Asamblea Nacional en desacato será nula y carente de validez, y se establece que el desconocimiento de un proceso electoral convalidado por el Tribunal Supremo de Justicia es un acto de fuerza que conlleva a la ruptura del orden constitucional. Además, se ordena la amplia difusión internacional de la sentencia y su publicación en la Gaceta Oficial.\n\nFinalmente, se decreta la prohibición de salida del país y la inmovilización de cuentas de ciertos ciudadanos involucrados en la usurpación de funciones, así como la protección de la actividad petrolera del Estado.",
+  "palabras_clave": [
+    "nulidad",
+    "constitucional",
+    "Asamblea Nacional",
+    "Estado de Derecho",
+    "transición democrática"
+  ],
+  "titulo": "Sentencia de nulidad del Estatuto que rige la transición a la democracia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-14_S0039_E17-0001.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303800-0039-14219-2019-17-0001.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.122563"
+}

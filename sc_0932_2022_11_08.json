@@ -1,0 +1,22 @@
+{
+  "id": 37234,
+  "numero": "0932",
+  "fecha": "2022-11-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible por extemporánea la apelación interpuesta por el abogado Diurkin Bolívar en representación de Paul Graham Stanley, en un proceso penal donde este último aparece como víctima. La apelación fue presentada fuera del lapso establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a la confirmación de la decisión de la Corte de Apelaciones que había declarado improcedente la acción de amparo constitucional. La Sala consideró que no se verificaron los requisitos de procedencia de la acción de amparo, ya que el tribunal de instancia había actuado conforme a derecho.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-08_S0932_E22-0022.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320620-0932-81122-2022-22-0022.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.401038"
+}

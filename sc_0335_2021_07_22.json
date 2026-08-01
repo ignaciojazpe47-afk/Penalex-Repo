@@ -1,0 +1,22 @@
+{
+  "id": 39133,
+  "numero": "0335",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Rosalynn Mercedes Cedeño Moya contra una sentencia del Tribunal Superior Segundo en lo Civil, que declaró sin lugar un recurso de apelación. La Sala consideró que la decisión impugnada violó el derecho al debido proceso y a la defensa de la solicitante, al no notificar adecuadamente la incorporación de un nuevo juez al proceso, lo que generó indefensión. En consecuencia, se declaró con lugar la acción de amparo y se ordenó la nulidad de la sentencia impugnada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al debido proceso",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0335_E21-0160.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312789-0335-22721-2021-21-0160.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.765064"
+}

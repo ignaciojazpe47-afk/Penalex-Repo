@@ -1,0 +1,24 @@
+{
+  "id": 38046,
+  "numero": "1187",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La sentencia número 575, dictada el 3 de noviembre de 2022, por la Sala de Casación Civil, declaró con lugar el recurso de casación interpuesto por Rutas Aéreas, C.A. (RUTACA) y casó total y sin reenvío la decisión recurrida, decretando la nulidad absoluta de la misma. Se declaró inadmisible la demanda de cobro de bolívares presentada por Julio César Cuesta Eisler contra RUTACA, condenando en costas al demandante conforme al artículo 274 del Código de Procedimiento Civil.\n\nLa Sala Constitucional, al revisar la decisión, consideró que existían vicios en la interpretación de las normas procesales y que el juez de alzada no aplicó correctamente el principio de carga de la prueba. Por lo tanto, se acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada, ordenando la remisión del expediente al Juzgado de origen para su cumplimiento.\n\nLa decisión reafirma la competencia de la Sala Constitucional para revisar sentencias firmes y garantizar la correcta interpretación de las normas y principios constitucionales, asegurando la tutela judicial efectiva y el debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "casación",
+    "nulidad",
+    "cobro de bolívares",
+    "RUTACA"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1187_E22-0915.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322021-1187-141222-2022-22-0915.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.158178"
+}

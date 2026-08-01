@@ -1,0 +1,25 @@
+{
+  "id": 35220,
+  "numero": "0236",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Richard Gomes Gouveia contra una decisión del Juzgado Superior Primero en lo Civil, que declaró sin lugar una apelación y con lugar un juicio de desalojo. La Sala, tras analizar el expediente, determinó que la parte actora había abandonado el trámite al no realizar ninguna actuación durante más de seis meses. Por lo tanto, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "desalojo",
+    "derecho a la defensa",
+    "ruinosidad",
+    "sentencia",
+    "pruebas",
+    "demolición"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0236_E20-0336.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317642-0236-29622-2022-20-0336.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.248264"
+}

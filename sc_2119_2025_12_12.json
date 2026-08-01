@@ -1,0 +1,24 @@
+{
+  "id": 23905,
+  "numero": "2119",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la defensora privada de Anderson Alfonso Yecerra Silva, quien alegó omisiones del Tribunal Segundo de Primera Instancia en Funciones de Ejecución del estado Yaracuy al negarle la libertad condicional. La Sala, tras analizar la situación, se declaró incompetente para conocer el caso, indicando que corresponde a las Cortes de Apelaciones del Circuito Judicial Penal del estado Yaracuy.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "libertad condicional",
+    "debido proceso",
+    "competencia",
+    "Cortes de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2119_E25-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351967-2119-121225-2025-25-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.081927"
+}

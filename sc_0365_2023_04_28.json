@@ -1,0 +1,24 @@
+{
+  "id": 29956,
+  "numero": "0365",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró improcedente la acción de amparo constitucional interpuesta por los abogados Julio José Carrero Jiménez y Jesús Alberto Carrero Oquendo, en representación de los ciudadanos Raniero Diandrés Herrera Briceño, Luis Ernesto Rivas Rincón y Víctor Daniel Casiques Rodríguez. La acción se fundamentó en la supuesta violación de derechos constitucionales en el proceso penal seguido en su contra por delitos relacionados con el tráfico de sustancias estupefacientes y materiales estratégicos.\nLa Sala consideró que la decisión de la Corte de Apelaciones que confirmó la medida de privación judicial preventiva de libertad y la aprehensión en flagrancia de los imputados fue ajustada a derecho, y que no se evidenció violación de derechos fundamentales. Se destacó que la decisión de la Corte de Apelaciones fue motivada y se enmarcó dentro de sus competencias, por lo que se desestimaron las alegaciones de nulidad planteadas por la defensa.\nFinalmente, la Sala reafirmó la importancia del respeto a los derechos fundamentales y el debido proceso, pero concluyó que en este caso no se configuraron las violaciones alegadas, por lo que la acción de amparo fue declarada sin lugar.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "decisión judicial",
+    "Corte de Apelaciones",
+    "privación de libertad"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por los defensores de los ciudadanos imputados",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0365_E22-0252.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324635-0365-28423-2023-22-0252.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.047980"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3845,
+  "numero": "230",
+  "fecha": "2000-04-07",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Moisés A. Troconis V.",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, se pronunció sobre una acción de amparo constitucional interpuesta por María Flor Márquez García contra la negativa del Registrador Subalterno del Tercer Circuito de Registro del Municipio Libertador del Distrito Federal. La negativa se basó en la supuesta falta de legitimidad de los títulos de propiedad del inmueble en cuestión. El tribunal determinó que la negativa del registrador violaba el derecho de propiedad y ordenó la protocolización del documento de compra-venta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protocolización",
+    "derecho de propiedad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra negativa de protocolización",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0551_MoisesA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.673436"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19204,
+  "numero": "0449",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la inadmisibilidad de la acción de amparo interpuesta por Álvaro José Sivira Ramos, quien alegaba violaciones a sus derechos en el proceso penal por violencia patrimonial. La Corte de Apelaciones había declarado inadmisible la acción, argumentando que el demandante había optado por la vía ordinaria al apelar el auto que acordó prórroga al Ministerio Público. La Sala Constitucional confirmó esta decisión, señalando que las denuncias debían ser resueltas en la audiencia preliminar y no a través de la acción de amparo.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Violencia de Género",
+    "Debido Proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-01_S0449_E24-0886.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342833-0449-1425-2025-24-0886.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.610215"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 18287,
+  "numero": "0083",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Anulada",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de febrero de 2025, anuló la sentencia del Tribunal Segundo de Primera Instancia que había declarado con lugar la incidencia de desacato a un mandamiento de amparo constitucional. La acción de amparo fue interpuesta por Aida del Carmen Hernández Medina contra Jairo Pascuas Cobaleda y Ana Victoria Zambrano Volcán, debido a un desalojo por vía de hecho. La Sala consideró que la ejecución del mandamiento de amparo era materialmente imposible debido al estado de ruina del inmueble en cuestión, lo que llevó a declarar inadmisible la acción de amparo y a anular la sentencia que la había declarado con lugar.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "desalojo",
+    "Barinas"
+  ],
+  "titulo": "Consulta sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0083_E19-0509.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341345-0083-7225-2025-19-0509.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.548858"
+}

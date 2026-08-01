@@ -1,0 +1,23 @@
+{
+  "id": 19225,
+  "numero": "0462",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por el abogado Juan Carlos Delgado Rosario en representación de José Manuel Delgado Materán, en contra de la decisión de la Corte de Apelaciones que declaró sin lugar un recurso de apelación. La inadmisibilidad se fundamenta en la falta de legitimidad del abogado para actuar como defensor, ya que no se presentó el poder correspondiente que acreditara su representación legal ante el tribunal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0462_E24-0926.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342861-0462-2425-2025-24-0926.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.603152"
+}

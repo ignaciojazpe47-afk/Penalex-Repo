@@ -1,0 +1,22 @@
+{
+  "id": 27442,
+  "numero": "0761",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por los abogados de los ciudadanos Luis Enrique De Sisto Briceño y Zhanna Kolpakova De De Sisto, en relación a una sentencia del 10 de febrero de 2017. La decisión se basa en la falta de legitimación activa de los solicitantes, quienes no fueron parte en el juicio original y no demostraron un interés directo en el proceso. La Sala reafirma que la falta de notificación no justifica la revisión, dado que los solicitantes tuvieron oportunidades para intervenir en el proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "legitimación activa",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0761_E23-0670.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338873-0761-131124-2024-23-0670.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.035749"
+}

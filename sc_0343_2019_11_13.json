@@ -1,0 +1,25 @@
+{
+  "id": 44416,
+  "numero": "0343",
+  "fecha": "2019-11-13",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Nizar Abou Assaf Eid El Ashkar y Jesús Eduardo Delascio Montero contra la sentencia del Tribunal Superior Segundo en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, dictada el 8 de agosto de 2019. Los accionantes argumentaron que la sentencia impugnada violó sus derechos al debido proceso y a la tutela judicial efectiva, al no considerar adecuadamente las pruebas presentadas en el juicio principal.\nLa Sala, tras analizar los argumentos y la documentación presentada, decidió suspender la ejecución de la sentencia impugnada y ordenó la notificación a los tribunales correspondientes para que se abstengan de tramitar dicha ejecución. Se destacó la importancia de garantizar los derechos de los accionantes mientras se resuelve el fondo del asunto.\nFinalmente, se estableció que la competencia para conocer del caso corresponde al Juzgado Primero de Primera Instancia Agraria de la Circunscripción Judicial del Estado Lara, dado que se trata de una acción de reivindicación civil sobre terrenos que, aunque ubicados en un área urbana, están sujetos a actividades agrícolas.",
+  "palabras_clave": [
+    "competencia",
+    "reivindicación",
+    "derecho civil",
+    "tribunales",
+    "actividad agraria",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Regulación de Competencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-13_S0343_E19-0514.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308090-0343-131119-2019-19-0514.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.383478"
+}

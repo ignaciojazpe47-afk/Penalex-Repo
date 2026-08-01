@@ -1,0 +1,24 @@
+{
+  "id": 65828,
+  "numero": "1057",
+  "fecha": "2015-08-07",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió parcialmente la acción de amparo interpuesta por la Asociación Civil Conductores Unidos Caracas Los Teques, contra la sentencia del Juzgado Superior Primero del Trabajo que había declarado con lugar la apelación de un demandante por cobro de prestaciones sociales. La Sala encontró que la sentencia impugnada violó el derecho a la defensa y al debido proceso al imponer una sanción de desacato sin fundamento legal. Se anula parcialmente la sentencia en cuanto a la aplicación de dicha sanción y se ordena al Juzgado Superior que decida sobre la apelación considerando lo establecido por la Sala.",
+  "palabras_clave": [
+    "amparo",
+    "prestaciones sociales",
+    "derecho a la defensa",
+    "debido proceso",
+    "sanción de desacato"
+  ],
+  "titulo": "Sentencia sobre acción de amparo interpuesta por la Asociación Civil Conductores Unidos Caracas Los Teques",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-07_S1057_E13-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/180551-1057-7815-2015-13-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:08.987943"
+}

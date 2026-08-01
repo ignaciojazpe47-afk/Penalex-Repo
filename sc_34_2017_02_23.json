@@ -1,0 +1,24 @@
+{
+  "id": 50284,
+  "numero": "34",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación de amparo interpuesta por Gonzalo Morales Benavides contra la decisión del Juzgado Superior Civil que declaró inadmisible su acción de amparo. La Sala constató que la medida cautelar que autorizaba a Elvira Zanini para movilizar cuentas bancarias había sido revocada, lo que generó la lesión denunciada por el apelante. La Sala, al considerar que la lesión había cesado, revocó la decisión del Juzgado Superior y ordenó notificar al Banco Caroní sobre el cese de la medida cautelar.",
+  "palabras_clave": [
+    "amparo",
+    "lesión",
+    "medida cautelar",
+    "revocación",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S34_E15-0527.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196339-34-23217-2017-15-0527.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.286606"
+}

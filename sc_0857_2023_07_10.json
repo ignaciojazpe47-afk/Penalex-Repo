@@ -1,0 +1,24 @@
+{
+  "id": 31150,
+  "numero": "0857",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por los fiscales Luis Enrique Ortiz Rivas y Greicys Muro Rivero, en relación a una decisión de la Sala Siete de la Corte de Apelaciones que declaró inadmisible dicha acción. La Sala Constitucional determinó su competencia para conocer el caso y ordenó la remisión del expediente completo del juicio penal seguido contra los ciudadanos JOSÉ ANTONIO ARVELO y LUIS AUGUSTO FRONTADO por presunta complicidad en el tráfico ilícito de sustancias estupefacientes.\n\nLa decisión se fundamenta en la falta de cualidad de los fiscales para actuar en la acción de amparo, según lo dispuesto en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Sin embargo, la Sala Constitucional consideró que era necesario recabar información adicional para garantizar el derecho a la defensa y la correcta administración de justicia, ordenando a la Secretaría del Tribunal realizar las diligencias pertinentes.\n\nFinalmente, se advierte que el incumplimiento de las órdenes emitidas podría conllevar sanciones a los funcionarios responsables, reafirmando la importancia de la colaboración entre los distintos órganos del sistema judicial para el cumplimiento de las decisiones del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "delito",
+    "drogas",
+    "sanciones",
+    "notificación",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0857_E22-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326677-0857-10723-2023-22-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.537683"
+}

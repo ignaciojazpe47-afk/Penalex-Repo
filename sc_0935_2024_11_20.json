@@ -1,0 +1,26 @@
+{
+  "id": 27729,
+  "numero": "0935",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Joel Blanco Toro contra la sentencia del Juzgado Superior Séptimo del Circuito Judicial del Trabajo. Se argumenta que el juez actuó dentro de su competencia y no se vulneraron derechos constitucionales. La decisión se basa en la autonomía del juez para valorar pruebas y aplicar el derecho, sin que el amparo pueda convertirse en una tercera instancia para revisar el fondo de la decisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "valoracion_de_pruebas",
+    "despido",
+    "incongruencia",
+    "silencio_de_prueba",
+    "derechos_constitucionales",
+    "inspector_de_trabajo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0935_E24-0145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339212-0935-201124-2024-24-0145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.181554"
+}

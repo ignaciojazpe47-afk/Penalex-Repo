@@ -1,0 +1,22 @@
+{
+  "id": 23835,
+  "numero": "2055",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional interpuesta por Willian Contreras Colmenares contra un auto del Juzgado Superior Agrario que declaró firme una sentencia definitiva. El demandante argumenta que la decisión fue emitida sin notificación adecuada y fuera de los plazos procesales, lo que generó una situación de indefensión. La Sala Constitucional, tras evaluar los argumentos, decide admitir la acción de amparo y declara con lugar la solicitud, ordenando la notificación de la sentencia y la suspensión de la ejecutoria de la misma.",
+  "palabras_clave": [
+    "amparo",
+    "indefensión",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2055_E25-0788.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351868-2055-101225-2025-25-0788.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.785963"
+}

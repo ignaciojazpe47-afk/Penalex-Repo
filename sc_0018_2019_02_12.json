@@ -1,0 +1,25 @@
+{
+  "id": 42121,
+  "numero": "0018",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono de trámite",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono de trámite de la demanda de amparo constitucional interpuesta por las abogadas Betty Pérez Aguirre e Ingrid Fernández Marcano contra la actuación del Juzgado Superior en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Miranda. Se impone una multa de cinco mil bolívares a la parte actora por el abandono del trámite, debiendo acreditar el pago correspondiente en un plazo determinado. La decisión se fundamenta en la falta de actuaciones idóneas que demuestren el interés del accionante en continuar con el proceso.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "amparo",
+    "derecho a la vivienda",
+    "procedimiento judicial",
+    "protección de inquilinos"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0018_E17-0114.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303683-0018-12219-2019-17-0114.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.617878"
+}

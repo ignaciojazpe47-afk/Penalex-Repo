@@ -1,0 +1,25 @@
+{
+  "id": 27212,
+  "numero": "0630",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Nulidad Absoluta",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer en consulta la causa relacionada con el desacato a un mandamiento de amparo constitucional. Se determina que la decisión del 31 de mayo de 2023, dictada por el Tribunal Tercero de Primera Instancia de Juicio del Trabajo, carece de la firma del Juez, lo que conlleva a su nulidad absoluta. Se ordena remitir el expediente a la Unidad de Recepción y Distribución de Documentos para su correcta ejecución.",
+  "palabras_clave": [
+    "nulidad",
+    "firma",
+    "procedimiento",
+    "justicia",
+    "tribunales",
+    "trabajo"
+  ],
+  "titulo": "Declaración de nulidad absoluta de decisión judicial por falta de firma",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0630_E23-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338611-0630-61124-2024-23-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.461114"
+}

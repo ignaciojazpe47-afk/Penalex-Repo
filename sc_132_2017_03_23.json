@@ -1,0 +1,23 @@
+{
+  "id": 50713,
+  "numero": "132",
+  "fecha": "2017-03-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por los ciudadanos Johann Manuel Otero Ruíz y José Luis Rodríguez Pérez, a través de su apoderado judicial, contra una sentencia interlocutoria del Juzgado Superior Segundo del Circuito Judicial del Trabajo de Carabobo. La acción fue motivada por la supuesta violación del derecho a la defensa y al debido proceso en el marco de un juicio por cobro de prestaciones sociales.\n\nLa Sala observó que la demanda presentada carecía de claridad y técnica argumentativa, lo que dificultaba un pronunciamiento congruente sobre su admisibilidad. Se destacó que el apoderado no describió adecuadamente las circunstancias que motivaban la solicitud y no presentó información relevante sobre el estado de los juicios relacionados, lo que llevó a la Sala a considerar la acción como confusa y carente de fundamento.\n\nFinalmente, la Sala ordenó a los demandantes corregir su escrito de amparo en un plazo de dos días, advirtiendo que de no cumplir con esta orden, la acción sería declarada inadmisible.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-23_S132_E16-0964.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/197115-132-23317-2017-16-0964.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.254880"
+}

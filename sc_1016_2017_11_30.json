@@ -1,0 +1,23 @@
+{
+  "id": 54990,
+  "numero": "1016",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar a la solicitud de revisión interpuesta por Juan Carlos Lozada Martínez, quien impugnó una decisión del Juzgado Segundo Superior del Trabajo que autorizó su despido. El solicitante alegó violaciones a sus derechos laborales, incluyendo la inamovilidad por tener un hijo con discapacidad y el derecho a la jubilación tras más de 20 años de servicio. Sin embargo, la Sala determinó que la normativa que otorgaba dicha protección no estaba vigente al momento del despido y que no se cumplían los requisitos para optar a la jubilación.",
+  "palabras_clave": [
+    "despido",
+    "inamovilidad laboral",
+    "derechos laborales",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de despido laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1016_E17-0005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205902-1016-301117-2017-17-0005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.492770"
+}

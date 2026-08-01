@@ -1,0 +1,24 @@
+{
+  "id": 21705,
+  "numero": "1452",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "CORRIGE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia interlocutoria n.° 1.109 el 9 de julio de 2025, donde se ordena al Juzgado Superior Agrario remitir el expediente original relacionado con un recurso por abstención. Se identificaron errores materiales en la sentencia que requerían corrección, específicamente en la identificación del órgano jurisdiccional correspondiente. La Sala, siguiendo criterios establecidos en sentencias anteriores, procedió a corregir dichos errores.",
+  "palabras_clave": [
+    "recursos",
+    "agricultura",
+    "instituto agrario",
+    "justicia",
+    "notificación"
+  ],
+  "titulo": "Corrección de errores materiales en la sentencia n.° 1.109",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1452_E20-0380.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347323-1452-7825-2025-20-0380.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.507699"
+}

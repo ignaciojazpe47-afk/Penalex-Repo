@@ -1,0 +1,25 @@
+{
+  "id": 23420,
+  "numero": "1935",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la solicitud de avocamiento presentada por los defensores de KRISTINA ANTONORSI QUINTERO, en relación a la medida de privación de libertad impuesta en el proceso penal que se le sigue. La Sala declina la competencia a la Sala de Casación Penal, ordenando la remisión del expediente correspondiente. Se argumenta que la solicitud de avocamiento se refiere a un proceso penal que no involucra competencias exclusivas de la Sala Constitucional.",
+  "palabras_clave": [
+    "debido proceso",
+    "libertad",
+    "medidas cautelares",
+    "inmunidad",
+    "justicia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en caso de KRISTINA ANTONORSI QUINTERO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1935_E25-0552.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350821-1935-281125-2025-25-0552.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.794705"
+}

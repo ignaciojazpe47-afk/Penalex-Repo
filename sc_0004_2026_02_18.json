@@ -1,0 +1,22 @@
+{
+  "id": 17522,
+  "numero": "0004",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión n°. 0562, del 1 de noviembre de 2024, ordenó la corrección del libelo de la demanda presentada por Petra Rosa Castellano Parada, garantizando su derecho a una tutela judicial efectiva. Se destacó la falta de comprensión en los términos propuestos en la demanda inicial, lo que llevó a la necesidad de notificar al Defensor Público General para la asignación de un defensor que actúe en su representación. La Sala ratificó la orden de notificación y estableció un plazo para que la parte accionante subsane lo requerido.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "corrección de demanda"
+  ],
+  "titulo": "Sentencia sobre la corrección de demanda en revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0004_E18-0327.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352661-0004-18226-2026-18-0327.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.071098"
+}

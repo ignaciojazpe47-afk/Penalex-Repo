@@ -1,0 +1,26 @@
+{
+  "id": 47227,
+  "numero": "0391",
+  "fecha": "2018-06-15",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por la abogada Yendy Maribel Machado Díaz en representación de Antonio José Figuera Medina. La decisión se basa en la falta de presentación de un poder que acredite la representación de su cliente, lo cual es un requisito esencial para la admisión de la solicitud. La sentencia objeto de revisión, dictada por la Sala de Casación Civil, había declarado sin lugar el recurso de casación interpuesto por el demandante.",
+  "palabras_clave": [
+    "casación",
+    "derecho de propiedad",
+    "debido proceso",
+    "silencio de pruebas",
+    "tutela judicial",
+    "Código de Procedimiento Civil",
+    "Constitución"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-15_S0391_E17-1010.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212185-0391-15618-2018-17-1010.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.888362"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 61116,
+  "numero": "1072",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo interpuesta por el abogado Oscar Ranier Rodríguez Rondón, en representación de Ricardo José Marín Rothe, contra la sentencia del Juzgado Superior Civil que declaró sin lugar el recurso de apelación en un juicio de desalojo. La Sala consideró que la parte actora había instaurado la demanda de desalojo sin respetar los plazos establecidos en la providencia administrativa que otorgaba un lapso de noventa días para la entrega del inmueble, lo que constituyó una violación al debido proceso y al derecho a la defensa del demandado.\n\nLa decisión de la Sala fue declarar con lugar la cuestión previa opuesta, lo que implicó la terminación del procedimiento de amparo por abandono del trámite, dado que el accionante no había realizado actos de procedimiento durante más de seis meses. Además, se impuso una multa a la parte actora por el entorpecimiento de las labores del tribunal debido a la presentación de demandas posteriormente abandonadas.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1072_E15-1446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193702-1072-91216-2016-15-1446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.110505"
+}

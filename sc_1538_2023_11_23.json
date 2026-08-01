@@ -1,0 +1,26 @@
+{
+  "id": 32969,
+  "numero": "1538",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA oficiar al Juzgado antes indicado.",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La ciudadana Regina Kauam Zeitoune solicitó la revisión constitucional de una sentencia de la Sala de Casación Civil que declaró sin lugar un recurso extraordinario de casación. La Sala Constitucional, tras analizar las alegaciones sobre la perención y el debido proceso, decidió ordenar al Juzgado Décimo Tercero remitir el expediente original para su revisión. La decisión se fundamenta en la competencia de la Sala Constitucional para revisar sentencias firmes que hayan desconocido precedentes o incurrido en errores graves.",
+  "palabras_clave": [
+    "perención",
+    "debido proceso",
+    "derecho a la defensa",
+    "constitucionalidad",
+    "Código de Procedimiento Civil",
+    "Estado de Derecho",
+    "justicia social"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1538_E22-0550.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330592-1538-241123-2023-22-0550.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.433229"
+}

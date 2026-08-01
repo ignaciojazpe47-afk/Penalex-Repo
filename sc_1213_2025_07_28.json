@@ -1,0 +1,25 @@
+{
+  "id": 21199,
+  "numero": "1213",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Tribunal Segundo de Primera Instancia del Circuito Judicial Civil y el Juzgado Superior Estadal Primero Contencioso Administrativo, en relación a una acción de amparo constitucional interpuesta por Flor de María Fernández Martín. La acción se fundamentó en un desalojo presuntamente arbitrario realizado por funcionarios policiales y del Ministerio Público, afectando sus derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "jurisdicción",
+    "vías de hecho",
+    "derechos humanos",
+    "función administrativa"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1213_E24-0651.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346510-1213-28725-2025-24-0651.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.376526"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33756,
+  "numero": "1903",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara su competencia para conocer la solicitud de revisión interpuesta por el abogado Yhonny Keifran Meza en representación de Brigith Alexandra Morán Roa. Sin embargo, se determina que no ha lugar a la solicitud de revisión, ya que la Sala de Casación Penal había declarado inadmisible el recurso de casación interpuesto por la solicitante, quien no ostentaba la cualidad de víctima en el proceso penal correspondiente. La decisión se fundamenta en la falta de legitimidad de la solicitante para impugnar la sentencia adversa.",
+  "palabras_clave": [
+    "tutela judicial",
+    "interés superior del niño",
+    "derecho a la defensa",
+    "debido proceso",
+    "recurso extraordinario",
+    "concubinato",
+    "herencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1903_E23-1108.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331873-1903-121223-2023-23-1108.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.454274"
+}

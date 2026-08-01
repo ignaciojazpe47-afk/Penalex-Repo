@@ -1,0 +1,25 @@
+{
+  "id": 27710,
+  "numero": "0916",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Tirbel Yurima Casique Mendoza interpuso una acción de amparo constitucional contra una sentencia que ordenaba la restitución de un inmueble. La Sala Constitucional, tras analizar el caso, determinó que la parte actora no mostró interés en continuar el proceso, lo que llevó a declarar el procedimiento terminado por abandono. Además, se impuso una multa a la parte accionante por la falta de impulso en la causa. Finalmente, se dejó sin efecto una medida cautelar previamente dictada.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "inactividad",
+    "interésprocesal",
+    "celeridad",
+    "economía procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0916_E21-0237.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339193-0916-201124-2024-21-0237.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.183283"
+}

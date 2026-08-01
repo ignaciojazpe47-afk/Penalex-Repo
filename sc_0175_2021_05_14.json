@@ -1,0 +1,22 @@
+{
+  "id": 38685,
+  "numero": "0175",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Carlos Eduardo Torres Quintero, quien actuó como defensor privado de varios ciudadanos. La decisión se basa en la falta de representación adecuada, ya que el solicitante no presentó el poder que acreditara su condición de apoderado judicial. La sentencia original, dictada el 28 de noviembre de 2018 por la Sala Tercera de la Corte de Apelaciones, había declarado inadmisible la acción de amparo constitucional interpuesta por el solicitante contra las omisiones del Tribunal Cuarto de Control Penal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisible",
+    "falta de representación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0175_E18-0809.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312135-0175-14521-2021-18-0809.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.873846"
+}

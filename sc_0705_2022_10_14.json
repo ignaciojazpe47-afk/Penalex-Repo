@@ -1,0 +1,23 @@
+{
+  "id": 36623,
+  "numero": "0705",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado José Luis Guillén en representación de David José Rosales Rosario, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La inadmisibilidad se fundamentó en la falta de acreditación de legitimidad del abogado accionante, quien no presentó el poder correspondiente para actuar en nombre de su defendido. La Sala reafirma que la falta de legitimación es causal de inadmisibilidad que no puede ser subsanada en el procedimiento de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0705_E18-0640.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319794-0705-141022-2022-18-0640.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.175673"
+}

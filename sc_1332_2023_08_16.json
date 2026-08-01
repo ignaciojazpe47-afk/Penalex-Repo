@@ -1,0 +1,24 @@
+{
+  "id": 34222,
+  "numero": "1332",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologación del desistimiento",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la homologación del desistimiento presentado por el abogado Alberto Meléndez Egea, defensor del ciudadano Ciro Alfonso Prado Martínez, en el marco de una acción de amparo constitucional. Se establece que el desistimiento es un mecanismo unilateral que permite al accionante abandonar su pretensión de amparo, y se verifica que el ciudadano ha cumplido la totalidad de la pena impuesta. La Sala declara su competencia para conocer del recurso de apelación interpuesto y acuerda la homologación del desistimiento.",
+  "palabras_clave": [
+    "habeas corpus",
+    "tutela judicial",
+    "libertad personal",
+    "debido proceso",
+    "desistimiento"
+  ],
+  "titulo": "Homologación del desistimiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1332_E21-0260.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328536-1332-16823-2023-21-0260.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.223014"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31584,
+  "numero": "0968",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del Juzgado Superior Séptimo del Trabajo que había declarado inadmisible la acción de amparo constitucional presentada por Juan Manuel Farías y otros. La Sala consideró que la decisión de la instancia inferior violó derechos constitucionales, al no garantizar el acceso a la justicia y la tutela judicial efectiva. Se ordenó la revisión de la sentencia y se declaró la obligación de la empresa demandada de restituir a Farías en su puesto de trabajo.",
+  "palabras_clave": [
+    "revisión",
+    "amparo constitucional",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre revisión de amparo constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0968_E21-0265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327459-0968-27723-2023-21-0265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.197301"
+}

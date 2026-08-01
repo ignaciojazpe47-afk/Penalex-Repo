@@ -1,0 +1,27 @@
+{
+  "id": 38992,
+  "numero": "0273",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 868 de la Sala de Casación Civil, que había declarado la nulidad de varias decisiones judiciales y repuesto la causa al estado de nueva admisión. La revisión se fundamentó en la alegación de vulneración de derechos al debido proceso y a la defensa, así como la garantía del juez natural. La Sala concluyó que no hubo quebrantamiento de derechos constitucionales y que la decisión de la Sala de Casación Civil fue ajustada a derecho, por lo que declaró 'Sin Lugar' la solicitud de revisión.",
+  "palabras_clave": [
+    "inhibición",
+    "reposición",
+    "tutela judicial",
+    "debido proceso",
+    "derecho a la defensa",
+    "seguridad jurídica",
+    "casación",
+    "constitucionalidad"
+  ],
+  "titulo": "Revisión de la sentencia número 868 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0273_E17-0904.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312574-0273-9721-2021-17-0904.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.172002"
+}

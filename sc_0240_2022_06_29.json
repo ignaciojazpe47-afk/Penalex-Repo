@@ -1,0 +1,26 @@
+{
+  "id": 35224,
+  "numero": "0240",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite",
+  "ponente": "CALIxto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia acepta la competencia para conocer del amparo incoado por Kenneth Blejman Giovannazzi, apoderado de KARMATY C.A., contra una sentencia de la Corte Segunda de lo Contencioso Administrativo. La acción se fundamenta en la falta de ejecución de un fallo anterior sobre el pago de una indemnización por expropiación. Sin embargo, se declara el abandono del trámite debido a la inactividad del accionante por más de seis meses.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "jurisdicción",
+    "indemnización",
+    "expropiación",
+    "derechosfundamentales",
+    "competencia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0240_E14-0958.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317646-0240-29622-2022-14-0958.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.248896"
+}

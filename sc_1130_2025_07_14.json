@@ -1,0 +1,24 @@
+{
+  "id": 20929,
+  "numero": "1130",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Soraima Mercedes Rodríguez, en representación de INVERSIONES MUYGG, C.A., contra dos sentencias definitivas de los tribunales de la Circunscripción Judicial del Estado Aragua. La decisión se fundamenta en la inepta acumulación de acciones, ya que se intentaron amparos contra dos jueces distintos en un solo escrito, lo que resulta en la incompetencia del tribunal para conocer de ambas pretensiones simultáneamente.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "acumulación",
+    "jurisdicción",
+    "competencia"
+  ],
+  "titulo": "Sentencia de inadmisibilidad por inepta acumulación de acciones de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1130_E25-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346037-1130-14725-2025-25-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.496865"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34348,
+  "numero": "0028",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer del recurso de apelación interpuesto por Kennia Alejandra Salazar Delgado contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo. La Corte había declarado inadmisible la acción de amparo constitucional ejercida por la demandante. La Sala, al analizar el caso, determina su competencia y ordena a la Corte de Apelaciones realizar el cómputo de los días hábiles transcurridos desde la decisión impugnada hasta la apelación presentada.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "constitucional",
+    "jurisprudencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0028_E20-0384.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315540-0028-11222-2022-20-0384.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.714536"
+}

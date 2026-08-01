@@ -1,0 +1,25 @@
+{
+  "id": 34068,
+  "numero": "1175",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 000381 dictada el 30 de junio de 2023, que declaró sin lugar el recurso extraordinario de casación interpuesto por la demandante reconvenida. La parte solicitante alegó violaciones a derechos constitucionales, específicamente a la tutela judicial efectiva y al debido proceso, argumentando que la sentencia no fijó un plazo para el cumplimiento de la obligación de pago. Sin embargo, la Sala concluyó que la decisión de la Sala de Casación Civil fue ajustada a derecho y no vulneró derechos constitucionales, confirmando así la sentencia impugnada.",
+  "palabras_clave": [
+    "incongruencia negativa",
+    "acción pauliana",
+    "Código de Procedimiento Civil",
+    "sentencia",
+    "congruencia",
+    "vicios procesales"
+  ],
+  "titulo": "Revisión de la sentencia n.° 000381 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1175_E23-0742.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328379-1175-14823-2023-23-0742.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.318448"
+}

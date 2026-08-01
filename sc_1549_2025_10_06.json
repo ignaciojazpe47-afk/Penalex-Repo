@@ -1,0 +1,25 @@
+{
+  "id": 22116,
+  "numero": "1549",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado José Jefferson Delgado Hernández en representación de Rodman Leroy Casanova. La decisión se basa en la falta de presentación de documentos esenciales para la verificación de la admisibilidad de la solicitud, específicamente copias certificadas de las sentencias objeto de revisión. La Sala reafirma la necesidad de cumplir con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia para la admisión de este tipo de recursos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "documentos",
+    "legitimación",
+    "procedimiento",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1549_E25-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348295-1549-61025-2025-25-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.195859"
+}

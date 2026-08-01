@@ -1,0 +1,23 @@
+{
+  "id": 20328,
+  "numero": "0905",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Juzgado Superior Estadal Quinto Contencioso Administrativo y el Juzgado Nacional Primero Contencioso Administrativo, en relación a una acción de amparo constitucional interpuesta por Román Arnaldo José Paz Pérez contra el Servicio Autónomo de Registros y Notarías (SAREN). La Sala aceptó la competencia para resolver el conflicto y determinó que el tribunal competente para conocer la acción de amparo era el Juzgado Superior Estadal Quinto Contencioso Administrativo de la Región Capital.\n\nLa decisión se fundamentó en la necesidad de garantizar el derecho a la propiedad y la protección de los derechos y garantías constitucionales, dado que el demandante alegaba que el SAREN había incurrido en vías de hecho al negar la inscripción de un documento de venta con pacto de retracto. La Sala ordenó la remisión del expediente al tribunal competente para que se proceda con el conocimiento de la acción de amparo.\n\nFinalmente, la sentencia fue firmada por la Presidenta Tania D'Amelio Cardiet y otros magistrados, estableciendo así la resolución del conflicto de competencia planteado.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "SAREN",
+    "derecho a la propiedad"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0905_E25-0356.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344709-0905-11625-2025-25-0356.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.295130"
+}

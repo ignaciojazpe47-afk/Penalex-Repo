@@ -1,0 +1,24 @@
+{
+  "id": 23206,
+  "numero": "1860",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Nadia Nacarit Pacheco Velasco, contra la sentencia del Juzgado Sexto de Municipio que declaró con lugar la demanda de nulidad de venta presentada por Mary Carmen Chacón Arroyo. La Sala fundamentó su decisión en que la accionante no había agotado las vías ordinarias de impugnación disponibles, lo que configuraba la causal de inadmisibilidad prevista en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nSe destacó que la parte accionante no hizo uso de los recursos procesales que le permitían cuestionar la decisión que consideraba lesiva, como el recurso de invalidación o la oposición a la ejecución de la sentencia. La Sala, al revisar de oficio la sentencia impugnada, determinó que existieron violaciones al debido proceso y a la defensa, lo que llevó a la anulación de la decisión del Juzgado Sexto y a la reposición de la causa al estado de que se cite a la parte demandada para que conteste la demanda de nulidad de venta.\n\nFinalmente, se declaró el decaimiento del objeto de la acción de amparo y del recurso de apelación interpuesto, ordenando la devolución del expediente al tribunal de origen para su tramitación correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad de contrato",
+    "intervención de terceros",
+    "derechos constitucionales",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1860_E23-0521.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350456-1860-261125-2025-23-0521.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.055332"
+}

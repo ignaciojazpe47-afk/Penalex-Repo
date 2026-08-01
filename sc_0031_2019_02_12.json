@@ -1,0 +1,26 @@
+{
+  "id": 42134,
+  "numero": "0031",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por Johnny Alexander Ríos Hernández, quien impugnó la decisión del Juzgado Superior Sexto que declaró inadmisible su demanda de cumplimiento de contrato de opción de compraventa. El solicitante alegó vicios de inconstitucionalidad en la sentencia, argumentando que vulneraba derechos fundamentales y el principio del Estado Social de Justicia y Derecho.\nLa Sala, tras analizar los argumentos presentados, concluyó que la decisión del Juzgado Superior fue ajustada a derecho, ya que se evidenció una inepta acumulación de pretensiones en la demanda, lo que constituye una causal de inadmisibilidad. Por lo tanto, se declaró que no ha lugar a la solicitud de revisión constitucional, reafirmando la competencia de la Sala para conocer del caso.\nFinalmente, la Sala declaró que la revisión no constituye una tercera instancia y que la solicitud no contribuiría a la uniformidad de la interpretación de normas y principios constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "inadmision",
+    "derecho de propiedad",
+    "procedimiento civil",
+    "tutela judicial",
+    "discrecionalidad"
+  ],
+  "titulo": "Revisión de sentencia inadmisible en demanda de cumplimiento de contrato de opción de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0031_E18-0479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303698-0031-12219-2019-18-0479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.118571"
+}

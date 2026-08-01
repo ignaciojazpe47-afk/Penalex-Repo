@@ -1,0 +1,22 @@
+{
+  "id": 36168,
+  "numero": "0537",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0416 el 02 de agosto de 2022, en la que se abandonó con carácter vinculante la consulta previa establecida en la sentencia N° 145 de fecha 18 de junio de 2019. Se ordenó a los tribunales que tramitan la ejecución de un mandamiento de amparo constitucional seguir el procedimiento establecido en los fallos números 138 y 245 de 2014.\n\nLa decisión se fundamenta en la naturaleza procesal del fallo y en el artículo 24 de la Constitución de la República Bolivariana de Venezuela. A partir de la publicación de esta decisión, todas las causas ante la Sala Constitucional deben ser remitidas a los tribunales correspondientes sin examinar la favorabilidad a trámite de la denuncia de desacato.\n\nFinalmente, se ordenó la remisión del expediente al Tribunal Noveno de Primera Instancia de Juicio del Circuito Judicial del Trabajo del Área Metropolitana de Caracas para continuar con la tramitación del procedimiento de ejecución del mandamiento de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sentencia vinculante",
+    "ejecución de mandamiento"
+  ],
+  "titulo": "Sentencia sobre cumplimiento de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0537_E19-0721.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319194-0537-12822-2022-19-0721.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.642767"
+}

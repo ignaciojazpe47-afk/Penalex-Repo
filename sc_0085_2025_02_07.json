@@ -1,0 +1,27 @@
+{
+  "id": 18289,
+  "numero": "0085",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Gregorio Gerardo Ramírez Salas contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure, que declaró inadmisible su acción de amparo constitucional. La Sala determinó que el amparo no era procedente ya que el demandante contaba con medios judiciales ordinarios para resolver su situación, específicamente el recurso de apelación, lo que llevó a declarar sin lugar la apelación. La decisión fue confirmada y se ordenó remitir el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "jurisdicción",
+    "penal",
+    "agraria",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0085_E24-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341347-0085-7225-2025-24-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.550248"
+}

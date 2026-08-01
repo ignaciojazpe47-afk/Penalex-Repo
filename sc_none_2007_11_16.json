@@ -1,0 +1,24 @@
+{
+  "id": 3427,
+  "numero": null,
+  "fecha": "2007-11-16",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el defensor de Jairo José Silva Gil, quien había sido condenado por distribución ilícita de sustancias estupefacientes. La Corte de Apelaciones había negado el beneficio de suspensión condicional de la pena, argumentando que los delitos de tráfico de drogas no gozan de beneficios procesales, considerándolos de lesa humanidad. La Sala Constitucional reafirma que la acción de amparo no puede ser utilizada para revisar decisiones ya tomadas en instancias anteriores.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "distribución ilícita",
+    "sustancias estupefacientes",
+    "beneficios procesales",
+    "lesa humanidad"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-11-16_CasacionPenal_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.105872"
+}

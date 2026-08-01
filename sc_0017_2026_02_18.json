@@ -1,0 +1,26 @@
+{
+  "id": 17543,
+  "numero": "0017",
+  "fecha": "2026-02-18",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Isabel Pestana De Freitas, apoderada de CERVECERÍA REGIONAL, C.A., contra la sentencia del Juzgado Superior Primero del Trabajo de Lara. La decisión se basa en que el juzgado actuó dentro de su competencia y aplicó correctamente las normas procesales, confirmando el desistimiento de la demanda por incumplimiento de la carga procesal de notificación. La Sala concluye que no se vulneraron derechos constitucionales en el proceso.",
+  "palabras_clave": [
+    "nulidad",
+    "notificación",
+    "jurisdicción",
+    "procedimiento",
+    "administrativa",
+    "tribunal",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-18_S0017_E25-0848.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352679-0017-18226-2026-25-0848.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.063833"
+}

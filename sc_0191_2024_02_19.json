@@ -1,0 +1,26 @@
+{
+  "id": 18504,
+  "numero": "0191",
+  "fecha": "2024-02-19",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la Sociedad Mercantil MMC AUTOMOTRIZ, S.A. en relación a una sentencia interlocutoria del Tribunal Primero Superior del Trabajo de Anzoátegui. La solicitud se fundamentó en la decisión de este tribunal que declaró sin lugar un recurso de apelación interpuesto por el ciudadano Luis Alberto Zerpa Reinoso. La Sala, tras analizar los argumentos, determinó su competencia para conocer el caso y concluyó que la apelación no debía prosperar debido a la falta de alegación de caducidad ante el tribunal de instancia.",
+  "palabras_clave": [
+    "caducidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "tribunal de alzada",
+    "constitución",
+    "jurisdicción",
+    "trabajo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-19_S0191_E24-1246.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341608-0191-19225-2025-24-1246.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.561074"
+}

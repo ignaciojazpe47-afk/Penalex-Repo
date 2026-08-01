@@ -1,0 +1,23 @@
+{
+  "id": 3258,
+  "numero": null,
+  "fecha": "2005-10-14",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara SIN LUGAR el recurso de apelación interpuesto por César Armando Caldera Oropeza, confirmando la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. Se argumenta que el demandante no interpuso el recurso de apelación contra la sentencia que rechazó su demanda de reparación de daños, lo que constituye un requisito previo para la admisibilidad del amparo. La Sala reafirma que el recurso de apelación es el medio adecuado para impugnar la decisión de primera instancia, y que la acción de amparo es subsidiaria.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "debido proceso",
+    "justicia"
+  ],
+  "titulo": "APLICACIÓN DEL RECURSO DE HECHO EN LOS CASOS EN LOS QUE EL TRIBUNAL NO ADMITE EL RECURSO DE APELACIÓN CONTRA LA DECISIÓN QUE RESUELVE EN PRIMERA INSTANCIA LA ACCIÓN DE AMPARO CONSTITUCIONAL",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2005-10-14_CasacionPenal_04.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.515311"
+}

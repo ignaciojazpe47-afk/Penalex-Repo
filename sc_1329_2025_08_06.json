@@ -1,0 +1,26 @@
+{
+  "id": 21469,
+  "numero": "1329",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible la solicitud de suspensión temporal de la ejecución forzosa de una sentencia de restitución internacional presentada por los abogados de Kevin Blanco Uribe Aladejo. La solicitud fue considerada improponible en derecho, ya que la Sala ya había decidido previamente sobre la revisión constitucional solicitada, declarando que no ha lugar a la misma.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "ejecución",
+    "jurisdicción",
+    "derecho",
+    "sentencia",
+    "revisión",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de suspensión temporal de ejecución forzosa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1329_E24-1044.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346991-1329-6825-2025-24-1044.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.751927"
+}

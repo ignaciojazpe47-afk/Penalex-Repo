@@ -1,0 +1,25 @@
+{
+  "id": 23227,
+  "numero": "1881",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara NO HA LUGAR la solicitud de revisión interpuesta por la abogada Isabel Castañeda Giral, en representación de la ciudadana Joshua Michell Castañeda Giral, respecto a la sentencia del 1 de febrero de 2024. La solicitud se fundamentó en la alegación de violación del debido proceso y tutela judicial efectiva en la decisión de la Corte de Apelaciones que confirmó la condena de tres años de prisión por estafa simple.\n\nLa Sala argumenta que la revisión constitucional no es un medio para corregir errores de juzgamiento, sino para asegurar la interpretación uniforme de normas y principios constitucionales. Se concluye que la decisión de la Corte de Apelaciones fue adecuada y no vulneró derechos fundamentales, por lo que se desestima la solicitud de revisión.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la autoridad del Tribunal Supremo de Justicia en la administración de justicia.",
+  "palabras_clave": [
+    "debido proceso",
+    "tutela judicial",
+    "apelación",
+    "sentencia",
+    "derechos constitucionales",
+    "seguridad jurídica"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1881_E25-0082.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350477-1881-261125-2025-25-0082.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.800081"
+}

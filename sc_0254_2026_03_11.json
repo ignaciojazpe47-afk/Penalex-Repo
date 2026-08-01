@@ -1,0 +1,26 @@
+{
+  "id": 17443,
+  "numero": "0254",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta contra la decisión de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada por el abogado Rafael Rincón Parra en representación de varios ciudadanos, quienes alegaron la omisión de pronunciamiento del Juzgado Segundo de Control sobre solicitudes de control judicial. La Sala Constitucional determinó que la acción de amparo era inadmisible, ya que la presunta violación había cesado tras el pronunciamiento del Tribunal de Instancia, lo que justificó la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "tutela judicial",
+    "derecho a la defensa",
+    "debido proceso",
+    "omisión de pronunciamiento",
+    "fiscalía",
+    "investigación",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0254_E25-0699.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353559-0254-11326-2026-25-0699.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.568523"
+}

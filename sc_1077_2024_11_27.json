@@ -1,0 +1,26 @@
+{
+  "id": 27964,
+  "numero": "1077",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de Edgar Armando Vargas, quien impugnó una sentencia del Juzgado Primero Superior del Circuito Judicial del Trabajo que declaró sin lugar su demanda de jubilación. La Sala determinó que el Juzgado a quo no era competente para conocer del asunto, ya que la relación laboral se regía por la Ley de Universidades y no por la legislación laboral. En consecuencia, se anuló la sentencia impugnada y se reenvió el caso a un Juzgado Superior Estadal de lo Contencioso Administrativo para que emita pronunciamiento sobre la admisión del recurso contencioso funcionarial interpuesto por Vargas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "juez natural",
+    "derecho a la jubilación",
+    "competencia",
+    "debido proceso",
+    "inconstitucionalidad",
+    "normas constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1077_E23-0554.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339600-1077-271124-2024-23-0554.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.483881"
+}

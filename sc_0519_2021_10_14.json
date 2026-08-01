@@ -1,0 +1,22 @@
+{
+  "id": 39852,
+  "numero": "0519",
+  "fecha": "2021-10-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la apelación interpuesta por Luis Eduardo Pulido Canino, revoca la decisión del Juzgado Sexto Superior Laboral que declaró inadmisible la acción de amparo constitucional. La Sala considera que el Juzgado no se pronunció adecuadamente sobre la solicitud de tener por notificadas a todas las co-demandadas, lo que vulneró los derechos constitucionales del apelante al debido proceso y a la tutela judicial efectiva. Se ordena al Juzgado Superior emitir un nuevo pronunciamiento sobre la admisibilidad de la acción de amparo, excluyendo la causal de inadmisibilidad previamente alegada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-14_S0519_E18-0816.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313735-0519-141021-2021-18-0816.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.128566"
+}

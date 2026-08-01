@@ -1,0 +1,23 @@
+{
+  "id": 12957,
+  "numero": null,
+  "fecha": "2001-11-07",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por TIM INTERNATIONAL B.V. contra una sentencia de la Corte Primera de lo Contencioso Administrativo. La decisión cuestionada imponía medidas cautelares que limitaban los derechos de TIM sobre sus acciones en Digitel, lo que fue considerado un abuso de poder y una violación de derechos constitucionales. La Sala decidió suspender temporalmente la ejecución de ciertas medidas cautelares hasta que se resuelva el fondo del recurso.",
+  "palabras_clave": [
+    "Amparo",
+    "Constitucional",
+    "Derechos Humanos",
+    "Telecomunicaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por TIM INTERNATIONAL B.V.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_f1f8dd7a50d737c7454b5aa05840ef4d.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.446554"
+}

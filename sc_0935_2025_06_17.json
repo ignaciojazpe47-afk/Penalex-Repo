@@ -1,0 +1,25 @@
+{
+  "id": 20384,
+  "numero": "0935",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión de una decisión de la Corte de Apelaciones que declaró inadmisible una acción de amparo constitucional. La solicitud fue presentada por Keren Sinai de Silva Urbaneja, defensora del ciudadano Ronald Gregori Borthomierth Rondón, quien alegó violaciones a sus derechos constitucionales. La Sala determinó que el accionante contaba con recursos ordinarios para impugnar la decisión, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "recursos",
+    "derechos",
+    "constitucional",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0935_E24-1123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344896-0935-17625-2025-24-1123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.310456"
+}

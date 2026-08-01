@@ -1,0 +1,25 @@
+{
+  "id": 30608,
+  "numero": "0654",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de sentencias dictadas el 11 de junio de 2021 y el 19 de agosto de 2021, emanadas del Juzgado Primero de Primera Instancia en lo Civil, Mercantil, Agrario, de Tránsito y de Trabajo del Estado Apure. La solicitud fue presentada por el ciudadano Julio César García, quien no cumplió con el requisito de presentar copia certificada de las decisiones impugnadas, lo que llevó a la Sala a declarar la inadmisibilidad de la solicitud.",
+  "palabras_clave": [
+    "revisión",
+    "competencia",
+    "inadmisibilidad",
+    "constitucionalidad",
+    "jurisprudencia",
+    "documentación"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0654_E23-0233.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325742-0654-30523-2023-23-0233.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.928983"
+}

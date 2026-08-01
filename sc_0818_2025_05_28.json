@@ -1,0 +1,26 @@
+{
+  "id": 20018,
+  "numero": "0818",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de mayo de 2025, declaró improcedente la acción de amparo constitucional interpuesta por Mónica del Carmen Díaz Rodríguez contra la decisión de la Sala Séptima de la Corte de Apelaciones, que había declarado inadmisible el recurso de apelación presentado por su defensa. La Sala consideró que la apelación era irrecurrible y que la decisión impugnada no vulneraba las garantías constitucionales alegadas por la accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "reformatio impeius",
+    "Corte de Apelaciones",
+    "sentencia condenatoria",
+    "derechos constitucionales",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0818_E25-0199.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344296-0818-28525-2025-25-0199.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.854833"
+}

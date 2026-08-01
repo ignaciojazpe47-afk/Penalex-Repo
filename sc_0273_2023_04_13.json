@@ -1,0 +1,25 @@
+{
+  "id": 29741,
+  "numero": "0273",
+  "fecha": "2023-04-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos Gregorio Carvajal Díaz en representación de varias víctimas de delitos de violencia. La inadmisibilidad se fundamenta en la falta de presentación del poder que acredite la representación judicial del abogado, lo que contraviene las disposiciones legales pertinentes. La Sala reafirma su competencia para conocer de la acción, pero resalta la necesidad de cumplir con los requisitos formales para la admisión de la demanda.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "legitimación",
+    "carga procesal",
+    "inadmisibilidad",
+    "representación judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-13_S0273_E22-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324360-0273-13423-2023-22-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.826437"
+}

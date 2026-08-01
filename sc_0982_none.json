@@ -1,0 +1,27 @@
+{
+  "id": 31598,
+  "numero": "0982",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "ANULA la decisión dictada el 8 de septiembre de 2017",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el desacato al mandamiento de amparo constitucional en el caso de María Eugenia Quintero contra la empresa Súper Líder Los Teques, C.A. Se impuso una sanción de prisión al presidente de la empresa por incumplimiento de una decisión anterior. Sin embargo, la Sala decidió anular la sentencia de desacato, argumentando que se había violado el derecho a la defensa del sancionado, ya que no se llevó a cabo el procedimiento adecuado para garantizar su defensa. Además, se negó la homologación del desistimiento presentado por la demandante, al considerarse que se realizó después de dictada la sentencia de fondo.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "derecho a la defensa",
+    "debido proceso",
+    "jurisdicción constitucional",
+    "sanción",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Decisión sobre desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0982_E17-0979.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327473-0982-27723-2023-17-0979.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.699266"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18804,
+  "numero": "0330",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por la abogada Marlyn Uzcátegui de Márquez en representación de varios ciudadanos acusados de invasión. La decisión se basa en la falta de documentación necesaria para validar las alegaciones de la parte solicitante, lo que impide a la Sala considerar la admisibilidad de la solicitud. Se enfatiza la importancia de cumplir con las cargas procesales para garantizar el debido proceso y la justicia.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "carga procesal",
+    "derechos fundamentales",
+    "documentación",
+    "poder judicial",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0330_E24-0718.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342277-0330-13325-2025-24-0718.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.730586"
+}

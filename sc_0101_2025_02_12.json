@@ -1,0 +1,25 @@
+{
+  "id": 18345,
+  "numero": "0101",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Décimo de Municipio Ordinario que declaró con lugar una demanda por retracto legal arrendaticio. Se argumentó que la defensa del demandado fue deficiente, ya que el defensor ad litem no cumplió con sus deberes procesales, lo que vulneró el derecho a la defensa. La Sala decidió anular la sentencia impugnada y reponer la causa para garantizar el debido proceso.",
+  "palabras_clave": [
+    "revisión",
+    "defensor ad litem",
+    "cosa juzgada",
+    "derecho de defensa",
+    "constitucional",
+    "procedimiento civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0101_E22-0390.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341434-0101-12225-2025-22-0390.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.540244"
+}

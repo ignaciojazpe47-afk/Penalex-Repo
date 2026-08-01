@@ -1,0 +1,22 @@
+{
+  "id": 25363,
+  "numero": "0209",
+  "fecha": "2024-05-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 69 emitida por la Sala de Casación Civil, que declaró la nulidad de una sentencia anterior y resolvió sobre una demanda de indemnización por daños materiales. La Sala Constitucional determinó su competencia para conocer la solicitud de revisión y consideró que la misma era admisible. Además, se decretó una medida cautelar de suspensión de los efectos de la sentencia N° 69 y su aclaratoria, para evitar daños a la parte solicitante mientras se resuelve el fondo del requerimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "indemnización"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 69",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-05-28_S0209_E24-0487.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/334785-0209-28524-2024-24-0487.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.646879"
+}

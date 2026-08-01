@@ -1,0 +1,25 @@
+{
+  "id": 23207,
+  "numero": "1861",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Juan Ramón León Villanueva contra la sentencia N° 00005 dictada por la Sala Político Administrativa. Se argumenta que la Ley Orgánica de Amparo prohíbe la admisión de acciones de amparo contra decisiones de este Tribunal. La decisión se basa en la interpretación de las normas que regulan el ejercicio de la acción de amparo y la jerarquía de los tribunales.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "sentencias",
+    "constitucional",
+    "justicia",
+    "revisión"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1861_E24-0210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350457-1861-261125-2025-24-0210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.801130"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18630,
+  "numero": "0195",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 26 de febrero de 2025, declaró inadmisible la acción de amparo constitucional interpuesta por Yubisay Abeida Barreiro Olmedo contra la decisión del Juzgado Superior Cuarto, que había declarado con lugar una acción de amparo constitucional sobrevenida. La Sala determinó su competencia para conocer del caso y no homologó el desistimiento presentado por la abogada de la demandante, argumentando que no contaba con la facultad expresa para ello. Finalmente, se resolvió que la acción de amparo era inadmisible debido a la existencia de cosa juzgada, dado que la misma decisión ya había sido objeto de apelación y revocación en una sentencia anterior.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "cosa juzgada",
+    "competencia",
+    "notificación",
+    "sentencia",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Yubisay Abeida Barreiro Olmedo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0195_E24-0096.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342007-0195-26225-2025-24-0096.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.886006"
+}

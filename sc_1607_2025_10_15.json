@@ -1,0 +1,25 @@
+{
+  "id": 22267,
+  "numero": "1607",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia n° 176, dictada por la Sala de Casación Civil, que declaró perecido un recurso de casación. La Sala declaró su competencia para conocer la solicitud, fundamentando su decisión en la transgresión del derecho a la tutela judicial efectiva. Se argumentó que el recurso fue presentado de manera tempestiva y que la Sala de Casación Civil incurrió en errores graves al declarar perecido el recurso sin considerar adecuadamente el auto de admisión del mismo.",
+  "palabras_clave": [
+    "recurso de casación",
+    "debido proceso",
+    "plazos procesales",
+    "admisión de recursos",
+    "jurisprudencia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre revisión de casación en fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1607_E19-0699.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348724-1607-151025-2025-19-0699.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.756455"
+}

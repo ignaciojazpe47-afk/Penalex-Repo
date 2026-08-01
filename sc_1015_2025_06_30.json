@@ -1,0 +1,26 @@
+{
+  "id": 20615,
+  "numero": "1015",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por el abogado Venancio Segundo Amaya Chirinos en representación de Víctor Tomás Vallestrines Coy. La acción se refiere a la sentencia dictada el 23 de marzo de 2023 por la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia, que declaró sin lugar el recurso de apelación y confirmó la decisión de inadmisibilidad de la acusación del Fiscal. La Sala Constitucional, tras revisar el expediente, determina que no ha habido impulso procesal durante más de seis meses, lo que se considera abandono del trámite, y por ello declara terminado el procedimiento.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "libertad_individual",
+    "retardo_procesal",
+    "nulidad",
+    "sobreseimiento",
+    "tutela_judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1015_E23-0510.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345284-1015-30625-2025-23-0510.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.513504"
+}

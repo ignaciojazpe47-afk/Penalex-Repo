@@ -1,0 +1,26 @@
+{
+  "id": 26884,
+  "numero": "0416",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La ciudadana Margherita Patella de Pestana solicitó el avocamiento de varias causas, argumentando violaciones a sus derechos constitucionales. La Sala Constitucional, tras revisar la solicitud, determinó que había una inepta acumulación de pretensiones, ya que las solicitudes eran incompatibles entre sí y provenían de diferentes órganos jurisdiccionales. Por lo tanto, se declaró inadmisible la solicitud presentada por la demandante.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "inadmisibilidad",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "pretensiones",
+    "jurisdicción",
+    "decisiones"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento por violación de derechos constitucionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0416_E23-0846.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338188-0416-241024-2024-23-0846.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.323906"
+}

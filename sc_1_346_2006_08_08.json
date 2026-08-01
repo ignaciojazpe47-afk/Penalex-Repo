@@ -1,0 +1,24 @@
+{
+  "id": 3326,
+  "numero": "1.346",
+  "fecha": "2006-08-08",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1.346, declaró sin lugar la acción de amparo constitucional interpuesta por CVG Productos Forestales de Oriente, C.A. contra Rómulo Castillo, por la supuesta violación de intereses individuales, difusos y colectivos relacionados con la propiedad y el medio ambiente. La Sala determinó que el demandado contaba con la autorización del Ministerio del Ambiente para realizar actividades de aprovechamiento forestal en los terrenos en cuestión, lo que justificó su actuación y desestimó las alegaciones de la parte demandante sobre la invasión y destrucción del medio ambiente.\n\nLa decisión también exhortó al Ministerio del Ambiente a colaborar en la vigencia del uso forestal y a cumplir con las recomendaciones para la protección de los derechos ambientales. La Sala enfatizó la importancia de la conservación del medio ambiente y la necesidad de políticas que integren el desarrollo económico con la protección de los recursos naturales, destacando la responsabilidad del Estado en la protección del ambiente y la biodiversidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos ambientales",
+    "invasión a la propiedad",
+    "CVG Proforca",
+    "Rómulo Castillo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por violación de derechos ambientales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-08-08_Constitucional_05.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.492268"
+}

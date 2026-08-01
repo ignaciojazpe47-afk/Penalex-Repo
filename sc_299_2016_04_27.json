@@ -1,0 +1,23 @@
+{
+  "id": 57289,
+  "numero": "299",
+  "fecha": "2016-04-27",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Giuseppe De Pinto Verni contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito del Estado Zulia, que había declarado con lugar un recurso de apelación en un juicio de nulidad de asamblea. La Sala consideró que la decisión del Juzgado Superior violó la cosa juzgada, ya que modificó los términos de una transacción homologada sin la debida consideración a los derechos del accionante. En consecuencia, se anuló la sentencia impugnada y se avocó al conocimiento del juicio original.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "cosa juzgada",
+    "nulidad de asamblea",
+    "transacción homologada"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre nulidad de asamblea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-04-27_S299_E13-0378.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/187470-299-27416-2016-13-0378.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:17.498129"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35820,
+  "numero": "0464",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por el abogado Cesar Enrique Calzadilla Iriarte en representación de Grette Genoveva Pardi Rincón, contra una decisión de la Corte de Apelaciones relacionada con un proceso penal. La Sala determinó su competencia para conocer el caso, pero al revisar el expediente, constató que hubo un abandono del trámite por parte de la actora, ya que no hubo actividad en el proceso durante más de seis meses.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparo",
+    "inactividad",
+    "multa",
+    "interésprocesal",
+    "derechosfundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0464_E21-0184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318405-0464-2822-2022-21-0184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.660320"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23703,
+  "numero": "1991",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Lourdes Benicia Suárez Anderson, se pronunció sobre la solicitud de revisión constitucional interpuesta por Mónica Nataly Fernández Marcano en representación de Osnelly Bracamonte Aguirre. La solicitud buscaba anular la sentencia N° 513 dictada por la Sala de Casación Penal, que había anulado de oficio el acto de la audiencia preliminar y decretado el sobreseimiento de la causa por vicios procesales. La Sala Constitucional determinó que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "nulidad",
+    "audiencia_preliminar",
+    "excepciones",
+    "Código_Orgánico_Procesal_Penal",
+    "justicia",
+    "derecho_defensa"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 513",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1991_E25-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351705-1991-101225-2025-25-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.743437"
+}

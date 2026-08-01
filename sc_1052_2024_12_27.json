@@ -1,0 +1,24 @@
+{
+  "id": 27939,
+  "numero": "1052",
+  "fecha": "2024-12-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por KELVYN RAFAEL TORREALBA MEDINA, quien impugnó una decisión del Tribunal Tercero en Funciones de Control del Circuito Judicial Penal del estado Carabobo. El apelante alegó incompetencia del tribunal para conocer su caso, argumentando que debía ser remitido a los tribunales especializados en materia de violencia contra la mujer, que habían comenzado a despachar en diciembre de 2023.\nLa Corte de Apelaciones había declarado procedente la acción de amparo, reconociendo la vulneración del derecho a ser juzgado por un juez natural. En consecuencia, la Sala Constitucional confirmó la decisión de la Corte de Apelaciones, declarando sin lugar el recurso de apelación y reafirmando la competencia de los tribunales especializados en esta materia.\nFinalmente, se ordenó la confirmación de la decisión dictada el 27 de febrero de 2024, manteniendo la nulidad de la actuación del tribunal de control que había conocido el caso inicialmente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "juez natural",
+    "violencia contra la mujer",
+    "competencia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1052_E24-0387.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339567-1052-271124-2024-24-0387.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.811750"
+}

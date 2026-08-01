@@ -1,0 +1,22 @@
+{
+  "id": 30225,
+  "numero": "0444",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 15 de mayo de 2023, se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Vitelio José Herrera en representación de Enorio Rafael Romero contra la Policía Nacional Bolivariana. La Sala observó que el escrito presentado no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, lo que llevó a ordenar la notificación al abogado para que subsanara las deficiencias en un plazo de cinco días.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "inadmisible"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0444_E22-0774.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325064-0444-15523-2023-22-0774.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.887481"
+}

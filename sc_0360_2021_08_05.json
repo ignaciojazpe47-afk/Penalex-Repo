@@ -1,0 +1,22 @@
+{
+  "id": 39217,
+  "numero": "0360",
+  "fecha": "2021-08-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por los apoderados de los ciudadanos Ferreira Nunes, en relación a una demanda de partición de bienes presentada por Flor Alba Villalba de Zappone. La Sala determina que el tribunal competente para conocer de esta acción es el Juzgado Superior en lo Civil y Mercantil de la Circunscripción Judicial del Estado Aragua, ordenando la remisión del expediente correspondiente. Se resalta que el amparo fue calificado incorrectamente como 'sobrevenido', ya que se trata de un amparo contra decisión judicial.",
+  "palabras_clave": [
+    "incompetencia",
+    "amparo constitucional",
+    "partición de bienes"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-05_S0360_E21-0304.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/312874-0360-5821-2021-21-0304.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.746429"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 44367,
+  "numero": "0335",
+  "fecha": "2019-11-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 633, declaró con lugar la acción de amparo constitucional interpuesta por Carlos Alfredo Pérez Terán en representación de TELCEL C.A. contra una sentencia del Juzgado Segundo en lo Civil, Mercantil y Menores del Estado Lara. La Sala anuló la decisión del juzgado inferior y reafirmó su competencia para conocer de las demandas de habeas data, ordenando el remitir el expediente original de la acción de habeas data a esta Sala. Se destacó la violación del derecho a la defensa y la garantía del juez natural en el proceso anterior.",
+  "palabras_clave": [
+    "habeas data",
+    "legitimación activa",
+    "derechos fundamentales",
+    "orden público",
+    "procedimiento",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta contra TELCEL C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-08_S0335_E04-1902.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308034-0335-81119-2019-04-1902.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.385867"
+}

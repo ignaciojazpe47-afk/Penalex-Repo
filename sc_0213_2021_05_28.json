@@ -1,0 +1,22 @@
+{
+  "id": 38778,
+  "numero": "0213",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Daninxon Daniel Zorrilla Pino e Hildemar José Tonito Gutiérrez, quienes alegaron violación del debido proceso y derecho a la defensa por parte del Juez Primero de Control. La decisión se basa en que el juez actuó conforme a la ley al designar un defensor público tras la incomparecencia del defensor privado. La Sala concluye que no se verificó violación de derechos constitucionales y ratifica la improcedencia de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0213_E19-0175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312234-0213-28521-2021-19-0175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.190844"
+}

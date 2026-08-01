@@ -1,0 +1,23 @@
+{
+  "id": 20624,
+  "numero": "1024",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 00485 dictada por la Sala Político-Administrativa, que había declarado con lugar la apelación del Fisco Nacional. La parte solicitante alegó violaciones a sus derechos constitucionales, argumentando que la Sala Político-Administrativa no consideró adecuadamente las pruebas y la figura de aceptación del reparo fiscal. Sin embargo, la Sala Constitucional determinó que no había lugar para la revisión, ya que la decisión impugnada no contradecía la jurisprudencia establecida y no se evidenciaba un error de interpretación de la norma constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sanciones tributarias",
+    "Fisco Nacional",
+    "aceptación del reparo"
+  ],
+  "titulo": "Revisión de sentencia sobre sanciones tributarias",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1024_E25-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345293-1024-30625-2025-25-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.509397"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40188,
+  "numero": "0625",
+  "fecha": "2021-11-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional presentada por el abogado Agustín Irene Bracho Ramírez, actuando con el carácter de apoderado judicial del ciudadano LUCIANO MANUEL CHÁVEZ GARCÍA.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0258, declaró no ha lugar la solicitud de revisión constitucional interpuesta por el abogado Agustín Irene Bracho Ramírez en representación de Luciano Manuel Chávez García. La decisión se fundamenta en la falta de cualidad o legitimación activa del demandante para sostener el juicio de cumplimiento de contrato, dado que el contrato fue celebrado por una sociedad irregular, el Grupo L-J-M, y no por el demandante individualmente. La Sala reafirmó que la falta de legitimación impide que se dicte una sentencia eficaz en el caso.",
+  "palabras_clave": [
+    "legitimación",
+    "reconvención",
+    "falta de cualidad",
+    "contrato",
+    "sociedad irregular",
+    "derecho civil",
+    "jurisdicción",
+    "orden público"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0625_E19-0236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314381-0625-111121-2021-19-0236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.519031"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 61156,
+  "numero": "1081",
+  "fecha": "2016-12-13",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de nulidad interpuesta por Lourdes Ramírez de Viloria, en su carácter de Presidenta de la Federación de Asociaciones de Profesores Universitarios de Venezuela, contra el artículo 31 del Decreto con Rango, Valor y Fuerza de Ley de Impuesto sobre la Renta. La Sala declaró inadmisible el recurso por haberse configurado la cosa juzgada, dado que el contenido y alcance del artículo ya había sido resuelto en sentencias anteriores, estableciendo que la norma impugnada violaba principios constitucionales relacionados con la capacidad contributiva y la progresividad de los derechos laborales.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "impuesto sobre la renta",
+    "capacidad contributiva",
+    "progresividad"
+  ],
+  "titulo": "Sentencia sobre la nulidad del artículo 31 de la Ley de Impuesto sobre la Renta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-13_S1081_E16-0255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193861-1081-131216-2016-16-0255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.107038"
+}

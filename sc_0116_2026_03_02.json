@@ -1,0 +1,27 @@
+{
+  "id": 17606,
+  "numero": "0116",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Juan Carlos Goitía Gómez en representación de Donnys Gregory Ruz Mora contra el Procurador General de la República. La decisión se basa en la falta de respuesta a las solicitudes de acceso a documentación relacionada con el proceso penal seguido contra el accionante, argumentando que no se evidenció una amenaza inmediata a los derechos constitucionales del demandante. La Sala reafirma su competencia para conocer de la acción y establece que la Procuraduría cumplió con su deber de emitir opinión en el proceso penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "Procuraduría General",
+    "lesión de derechos",
+    "inadmisibilidad",
+    "Constitución",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0116_E25-1450.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353106-0116-2326-2026-25-1450.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.378332"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20621,
+  "numero": "1021",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "IMPROPONIBLE",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la representación judicial de varios ciudadanos contra una sentencia del Juzgado Superior Segundo del Trabajo. La Sala declaró improponible el recurso debido a que el juzgado había admitido un recurso de apelación contra su propia decisión, lo que resultó en un agotamiento de la doble instancia. Además, se revocó el auto que admitió el recurso de apelación.",
+  "palabras_clave": [
+    "recurso de apelación",
+    "amparo constitucional",
+    "tribunal de alzada",
+    "improponibilidad",
+    "justicia laboral"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1021_E24-0959.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345290-1021-30625-2025-24-0959.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.513683"
+}

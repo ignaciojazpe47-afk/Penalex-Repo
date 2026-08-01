@@ -1,0 +1,22 @@
+{
+  "id": 42102,
+  "numero": "001",
+  "fecha": "2019-02-11",
+  "anio": 2019,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, declara procedente la solicitud de extradición activa del ciudadano Ángel Eduardo Varela Ibarra, quien se encuentra bajo custodia en los Estados Unidos por presunta violación de la ley de inmigración. La decisión se basa en la existencia de una medida cautelar de privación de libertad dictada por el Juzgado Cuadragésimo Séptimo de Primera Instancia en Funciones de Control, por su presunta participación en un homicidio calificado. Se asegura que se respetarán las garantías constitucionales durante el proceso penal en Venezuela.",
+  "palabras_clave": [
+    "extradición",
+    "homicidio",
+    "Varela Ibarra"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición activa del ciudadano Ángel Eduardo Varela Ibarra",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2019-02-11_S001_E18-334.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/febrero/303637-001-11219-2019-E18-334.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:10.823400"
+}

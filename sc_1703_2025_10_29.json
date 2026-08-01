@@ -1,0 +1,26 @@
+{
+  "id": 22646,
+  "numero": "1703",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1022, declaró sin lugar la apelación interpuesta por el abogado Freddy Eduardo Reyes Alvarado, actuando en nombre de Jesús David Palomino Reyes, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Corte consideró que la presunta violación de derechos había cesado, ya que el Tribunal Segundo había respondido a la solicitud de nombramiento de defensor privado. Además, se negó la homologación del desistimiento presentado por el abogado, al no contar con la autorización expresa del imputado para desistir de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "denegación de justicia",
+    "violencia contra la mujer",
+    "inadmisiibilidad",
+    "juramentación",
+    "defensa privada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1703_E24-0213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349306-1703-291025-2025-24-0213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.536273"
+}

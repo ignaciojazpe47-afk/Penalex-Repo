@@ -1,0 +1,22 @@
+{
+  "id": 36640,
+  "numero": "0722",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 14 de octubre de 2022, declaró con lugar el recurso de apelación interpuesto por la abogada Lenys Tibisay Cotiz Flores, revocando la decisión de la Sala N° 8 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La apelación se fundamentó en la vulneración de derechos constitucionales, específicamente el derecho a la defensa y al debido proceso, al no permitirse la juramentación de las abogadas designadas por el ciudadano Ulisis Daniel Velásquez Cotiz.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "juramentación de abogados"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0722_E21-0124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319811-0722-141022-2022-21-0124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.177749"
+}

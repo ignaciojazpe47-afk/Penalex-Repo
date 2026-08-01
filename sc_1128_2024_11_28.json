@@ -1,0 +1,24 @@
+{
+  "id": 28039,
+  "numero": "1128",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUAREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por SEF SHREIM MOSA y MERVET SHREIM MOSA contra varios juzgados y la Corte de Apelaciones del Estado Aragua. La decisión se fundamenta en la inepta acumulación de acciones, ya que se denunciaron actuaciones de diferentes órganos jurisdiccionales en un solo escrito, lo que contraviene las disposiciones legales sobre la acumulación de pretensiones. La Sala enfatiza que cada acción de amparo debe ser presentada de forma independiente según los sujetos agraviantes.",
+  "palabras_clave": [
+    "amparo",
+    "inepta acumulación",
+    "jurisdicción",
+    "derechos constitucionales",
+    "competencia"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional por inepta acumulación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1128_E24-0493.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339708-1128-281124-2024-24-0493.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.468879"
+}

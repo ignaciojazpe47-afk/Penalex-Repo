@@ -1,0 +1,27 @@
+{
+  "id": 40067,
+  "numero": "0570",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por INTERMORRO A.C. contra una sentencia del Juzgado Superior Octavo. Se determina que la parte accionante no realizó actuaciones procesales válidas durante un tiempo prolongado, lo que se considera abandono del trámite. En consecuencia, se declara terminado el procedimiento por falta de interés en obtener la tutela de los derechos alegados.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "tutela",
+    "interes",
+    "derechos",
+    "constitucionales",
+    "proceso",
+    "acción",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0570_E19-0308.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314068-0570-41121-2021-19-0308.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.113105"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 42870,
+  "numero": "0125",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Yulbreeng Grissette Vásquez Sivira contra un auto del Tribunal Quinto de Primera Instancia que oyó en ambos efectos un recurso de apelación. La Sala revocó la decisión del juzgado inferior que había declarado inadmisible la acción de amparo, argumentando que existía un desorden procesal que afectaba el derecho a la defensa. Se ordenó la remisión del expediente al tribunal correspondiente para continuar con el proceso laboral.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "desorden procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0125_E17-0633.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305044-0125-21519-2019-17-0633.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.857759"
+}

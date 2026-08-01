@@ -1,0 +1,26 @@
+{
+  "id": 20403,
+  "numero": "0954",
+  "fecha": "2025-03-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia N° RC 000121, dictada por la Sala de Casación Civil, fue objeto de revisión constitucional solicitada por Hilario Antonio Peña Rivero, en su carácter de administrador de la Unidad Educativa 'Instituto Padre Domingo Segado'. La Sala observó que la parte demandante no logró probar ni especificar las bienhechurías realizadas en el inmueble arrendado, lo que llevó a declarar sin lugar la apelación y la demanda por cumplimiento de contrato de arrendamiento. La Sala Constitucional admitió la revisión y acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada, considerando el interés superior del niño en el contexto educativo.",
+  "palabras_clave": [
+    "arrendamiento",
+    "cosa juzgada",
+    "incongruencia negativa",
+    "bienhechurías",
+    "debido proceso",
+    "tutela judicial",
+    "reconvención"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0954_E25-0421.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344915-0954-17625-2025-25-0421.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.610848"
+}

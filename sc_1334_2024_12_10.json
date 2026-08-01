@@ -1,0 +1,23 @@
+{
+  "id": 28392,
+  "numero": "1334",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de amparo interpuesta por Elizabeth Alves Da Silva contra la decisión del Juzgado Octavo de Primera Instancia, que había declarado sin lugar la demanda de resolución de contrato de opción de compraventa. La Sala anula la sentencia recurrida y ordena la reposición de la causa al estado en que otro tribunal dicte nueva decisión, sin incurrir en violaciones a derechos constitucionales. Se destaca que el juzgador de primera instancia incurrió en error al establecer el pago en bolívares al tipo de cambio de la fecha de celebración del contrato, en lugar de aplicar el tipo de cambio vigente al momento del pago.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "contrato de compraventa",
+    "derechos constitucionales",
+    "moneda extranjera"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1334_E22-0131.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340348-1334-101224-2024-22-0131.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.209402"
+}

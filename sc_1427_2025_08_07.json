@@ -1,0 +1,27 @@
+{
+  "id": 21680,
+  "numero": "1427",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Humberto Antonio Gutiérrez, quien alegaba la ejecución de una sentencia inexistente. La decisión se fundamentó en que la situación denunciada era irreparable, dado que el inmueble objeto de litigio ya había sido entregado a una tercera persona. La Sala confirmó la decisión del Juzgado Superior que había declarado inadmisible la acción, argumentando que no era posible restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo",
+    "ejecución",
+    "contrato",
+    "inmueble",
+    "jurisprudencia",
+    "inadmisibilidad",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1427_E24-1049.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347298-1427-7825-2025-24-1049.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.044660"
+}

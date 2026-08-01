@@ -1,0 +1,25 @@
+{
+  "id": 42034,
+  "numero": "0001",
+  "fecha": "2019-01-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una demanda de interpretación de los artículos 231 y 347 de la Constitución, presentada por Otoniel Pautt Andrade, en relación con la juramentación del presidente electo Nicolás Maduro Moros. La Sala determinó su competencia para conocer la demanda y reafirmó la legitimación del demandante, considerando la relevancia del asunto para la ciudadanía. Finalmente, se resolvió que, debido al desacato de la Asamblea Nacional, Nicolás Maduro debe ser juramentado ante el Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "constitucion",
+    "sufragio",
+    "juramentacion",
+    "poder constituyente",
+    "asamblea nacional",
+    "derechos politicos"
+  ],
+  "titulo": "Interpretación de los artículos 231 y 347 de la Constitución sobre juramentación presidencial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-01-08_S0001_E18-0835.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/303336-0001-8119-2019-18-0835.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.125887"
+}

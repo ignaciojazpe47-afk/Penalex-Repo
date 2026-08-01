@@ -1,0 +1,22 @@
+{
+  "id": 21225,
+  "numero": "1239",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se requiere información adicional",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Juzgado Cuarto de Primera Instancia de Juicio, relacionado con un juicio de presunción de muerte. Se determinó la competencia de la Sala para revisar la desaplicación del artículo 434 del Código Civil por control difuso de constitucionalidad. La Sala requiere información adicional para continuar con el análisis de la decisión del juzgado, que no ha sido declarada firme.",
+  "palabras_clave": [
+    "presunción de muerte",
+    "control difuso",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre presunción de muerte y control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1239_E25-0315.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346536-1239-28725-2025-25-0315.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.780710"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 39853,
+  "numero": "0520",
+  "fecha": "2021-10-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la sociedad mercantil MAKRO COMERCIALIZADORA, S.A. respecto a una sentencia dictada el 9 de agosto de 2018 por el Juzgado Superior Cuarto del Trabajo del Estado Bolívar. La solicitud se fundamentó en la alegación de violaciones al debido proceso y a la garantía de igualdad ante la ley, así como en la supuesta incompetencia de la Inspectora del Trabajo que dictó la providencia administrativa impugnada.\nLa Sala, tras examinar los argumentos y antecedentes del caso, determinó que no existían razones que justificaran el ejercicio de la potestad extraordinaria de revisión, concluyendo que la decisión del Juzgado Superior fue correcta y que no se incurrió en los vicios denunciados. Por lo tanto, se declaró que no había lugar a la solicitud de revisión constitucional interpuesta por la empresa.\nFinalmente, la Sala reafirmó su competencia para conocer de la solicitud y publicó su decisión, archivando el expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "due process",
+    "labor law",
+    "Makro Comercializadora"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-14_S0520_E19-0428.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313736-0520-141021-2021-19-0428.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.133358"
+}

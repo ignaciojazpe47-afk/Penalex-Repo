@@ -1,0 +1,22 @@
+{
+  "id": 22110,
+  "numero": "1543",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Octavo que declaró improcedente la demanda de estimación e intimación de honorarios profesionales presentada por los abogados Argenis Anderson Pérez Patiño y Luis Felipe Andrade Lozada. La Sala determinó que la decisión del tribunal inferior vulneró los derechos constitucionales de los solicitantes al no considerar adecuadamente las pruebas presentadas, lo que llevó a una indefensión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Honorarios Profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1543_E24-1247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348289-1543-61025-2025-24-1247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.194978"
+}

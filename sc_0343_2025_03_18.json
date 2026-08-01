@@ -1,0 +1,22 @@
+{
+  "id": 18871,
+  "numero": "0343",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión de la sentencia N° 362 dictada por la Sala de Casación Civil, que declaró sin lugar un recurso extraordinario de casación. Los solicitantes argumentaron que la decisión vulneró sus derechos constitucionales, especialmente el derecho a la defensa y la tutela judicial efectiva. La Sala, tras analizar los alegatos, decidió asumir la competencia para conocer la solicitud de revisión y declaró procedente la medida cautelar solicitada, suspendiendo los efectos de la sentencia condenatoria por daño moral dictada por el Tribunal Segundo de Primera Instancia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "medida cautelar",
+    "daño moral"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional y medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0343_E25-0061.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342374-0343-18325-2025-25-0061.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.729331"
+}

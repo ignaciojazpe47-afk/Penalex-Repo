@@ -1,0 +1,22 @@
+{
+  "id": 54978,
+  "numero": "1000",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara con lugar la solicitud de revisión constitucional interpuesta por la abogada Petrica López Ortega, en representación de HYUNDAI DE VENEZUELA, C.A., contra la decisión de la Sala de Casación Civil que había declarado sin lugar el recurso de casación. La Sala Constitucional argumenta que la decisión impugnada incurrió en el vicio de incongruencia omisiva, al no analizar adecuadamente los alegatos de abuso de derecho presentados por la parte actora, lo que vulneró el derecho a la defensa y al debido proceso. En consecuencia, se anula la decisión de la Sala de Casación Civil y se ordena que se dicte un nuevo fallo conforme a los criterios establecidos en esta sentencia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "abuso de derecho",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1000_E17-0249.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205890-1000-301117-2017-17-0249.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.495747"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1942,
+  "numero": null,
+  "fecha": "2000-08-02",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Constitucionales",
+  "decision": "CON LUGAR",
+  "ponente": "MOISÉS A. TROCONIS VILLARREAL",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 2 de agosto de 2000, decidió a favor de la CORPORACIÓN MIRANDA S.A. en un recurso de amparo constitucional contra una sentencia del Juzgado Primero de Primera Instancia en lo Civil, Mercantil, Agrario, Tránsito, Trabajo y Menores del Estado Carabobo. La empresa alegó violaciones a sus derechos constitucionales, incluyendo el derecho a la defensa y al debido proceso, debido a la continuación de un juicio ejecutivo a pesar de estar en proceso de liquidación. La Sala declaró nula la sentencia impugnada y ordenó la suspensión de cualquier acto de ejecución en su contra, reafirmando que el procedimiento de liquidación administrativa debía prevalecer sobre el juicio ejecutivo.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Constitucionales",
+    "Liquidación",
+    "Debido Proceso",
+    "Competencia Judicial",
+    "Intervención",
+    "Ejecutivo Fiscal",
+    "Sentencia Nula"
+  ],
+  "titulo": "Amparo Constitucional de CORPORACIÓN MIRANDA S.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-02_CasacionCivil_00_MoisesA.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.726865"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31204,
+  "numero": "0908",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Luis Trejo y Carlos Linares, defensores de Yovanny Junior Linares, contra la sentencia dictada el 21 de octubre de 2019 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure. La decisión de la Corte de Apelaciones había declarado inadmisible la pretensión interpuesta por la defensa, argumentando que no se había solicitado la nulidad de la acusación fiscal durante la audiencia preliminar, lo que evidenció una falta de técnica jurídica por parte de los defensores.",
+  "palabras_clave": [
+    "derechos fundamentales",
+    "libertad personal",
+    "abandonos de trámite",
+    "orden público",
+    "amparo",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0908_E19-0643.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326816-0908-12723-2023-19-0643.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.215985"
+}

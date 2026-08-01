@@ -1,0 +1,26 @@
+{
+  "id": 24242,
+  "numero": "0114",
+  "fecha": "2024-01-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena remitir el expediente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer la solicitud de revisión constitucional presentada por MOTORES RUDI, C.A. respecto a una sentencia de la Sala de Casación Civil. Se determinó que la solicitud recaía sobre una sentencia firme del 21 de julio de 2023, y se declaró competente para conocer del caso. Además, se ordenó al Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito de Monagas remitir el expediente relacionado con el juicio por retracto legal arrendaticio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal",
+    "debido proceso",
+    "tutela judicial",
+    "competencia",
+    "sentencia",
+    "sociedades mercantiles"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0114_E23-1154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332623-0114-19224-2024-23-1154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.838897"
+}

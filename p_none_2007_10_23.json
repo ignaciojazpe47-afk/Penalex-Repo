@@ -1,0 +1,22 @@
+{
+  "id": 10801,
+  "numero": null,
+  "fecha": "2007-10-23",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "DEYANIRA NIEVES BASTIDAS",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia admitió el recurso de casación interpuesto por la defensa de Dennys Rafael Cazorla Rodríguez, quien había sido condenado a dos años de prisión por el delito de concusión. La Corte de Apelaciones había declarado sin lugar la apelación presentada por los defensores, confirmando la decisión del Juzgado de Juicio. Los recurrentes alegaron vicios de inmotivación y violaciones al debido proceso en la sentencia apelada.",
+  "palabras_clave": [
+    "casación",
+    "concusión",
+    "penal"
+  ],
+  "titulo": "Sentencia de Casación sobre condena por concusión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_ad15c19d18b487deeff0d71fef10fa11.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:56.969357"
+}

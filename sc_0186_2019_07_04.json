@@ -1,0 +1,27 @@
+{
+  "id": 43388,
+  "numero": "0186",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de julio de 2019, declaró NO HA LUGAR la revisión constitucional solicitada por la abogada Glenda Guevara en representación de los ciudadanos GAUDYS ORLANDO AMARO CAMACARO, NELSON ELIAS MILANO RODRÍGUEZ, MIGUEL ANTONIO TELLECHEA y JOHN JAIRO HIDALGO SANABRIA. La revisión se refería a una sentencia de la Sala de Casación Social que había declarado SIN LUGAR un recurso de casación interpuesto por los demandantes en un juicio por cobro de prestaciones sociales.\n\nLa Sala Constitucional analizó los alegatos presentados y concluyó que no se evidenció la existencia de violaciones a derechos constitucionales ni errores en la valoración de pruebas por parte de la Sala de Casación Social. Se destacó que la parte solicitante no demostró que el tratamiento dado a las pruebas implicara un abuso de derecho o que la valoración resultara errónea o arbitraria.\n\nFinalmente, la Sala reafirmó que la decisión de la Sala de Casación Social se ajustó a derecho y que los derechos al debido proceso y a la defensa de las partes fueron garantizados durante el proceso judicial.",
+  "palabras_clave": [
+    "debido_proceso",
+    "prueba",
+    "derechos",
+    "experticia",
+    "Código_Civil",
+    "Código_de_Procedimiento_Civil",
+    "sentencia",
+    "revisión"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0186_E17-1172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305961-0186-4719-2019-17-1172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.823640"
+}

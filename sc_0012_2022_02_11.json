@@ -1,0 +1,25 @@
+{
+  "id": 34333,
+  "numero": "0012",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por Eugenio Pérez Gómez contra la decisión del Juzgado Superior Estadal de lo Contencioso Administrativo de Amazonas. La Sala considera que el conocimiento de la causa corresponde al Juzgado Nacional de la Jurisdicción Contencioso Administrativa de la Región Nor-Oriental. Además, se declara el decaimiento del objeto de la acción de amparo debido a la renovación de los cargos ejecutivos en las elecciones regionales celebradas el 21 de noviembre de 2021.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "elecciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0012_E20-0037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315524-0012-11222-2022-20-0037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.721432"
+}

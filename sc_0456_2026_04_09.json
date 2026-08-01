@@ -1,0 +1,26 @@
+{
+  "id": 18105,
+  "numero": "0456",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por la ciudadana Ibeth Cecilia Chávez, asistida por el abogado Jesús García, respecto a la decisión N° 371 del 23 de octubre de 2024. La Sala argumenta que la solicitud no se dirige a aclarar puntos oscuros o ambiguos, sino que representa una reiteración de alegatos ya expuestos, lo que no se ajusta a la naturaleza de la aclaratoria.",
+  "palabras_clave": [
+    "aclaratoria",
+    "revisión constitucional",
+    "Código de Procedimiento Civil",
+    "decisión judicial",
+    "jurisdicción",
+    "sentencia",
+    "principio de estabilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de la sentencia N° 371",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0456_E18-0563.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354908-0456-9426-2026-18-0563.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.025775"
+}

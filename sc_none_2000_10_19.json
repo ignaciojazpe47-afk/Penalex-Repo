@@ -1,0 +1,27 @@
+{
+  "id": 2048,
+  "numero": null,
+  "fecha": "2000-10-19",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Laborales",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los apoderados de la empresa FERRO-ALUMINIO C.A. (FERRALCA) contra la decisión del Juzgado Superior Segundo del Trabajo. La acción se fundamentó en la supuesta violación de derechos constitucionales relacionados con el debido proceso y la defensa, tras la negativa de homologación de una transacción judicial. La Sala argumenta que el amparo no es el medio adecuado para revisar criterios de interpretación de los jueces, y que la acción se basa en la interpretación de normas legales, no en la violación de derechos fundamentales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Laborales",
+    "FERRALCA",
+    "Juzgado Superior",
+    "Debido Proceso",
+    "Transacción Judicial",
+    "Interpretación Judicial",
+    "Autonomía Judicial"
+  ],
+  "titulo": "Improcedencia de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-10-19_CasacionCivil_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.723875"
+}

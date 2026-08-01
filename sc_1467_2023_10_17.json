@@ -1,0 +1,25 @@
+{
+  "id": 32320,
+  "numero": "1467",
+  "fecha": "2023-10-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Manuel Coromoto Brito Sánchez, en representación de Álvaro José Sivira Ramos, contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolecentes del Estado Lara, que declaró inadmisible la acción de amparo constitucional. La Sala determinó que existían vías ordinarias para satisfacer las pretensiones del apelante, lo que justificó la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "niños",
+    "justicia",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-17_S1467_E23-0511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329374-1467-171023-2023-23-0511.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.388872"
+}

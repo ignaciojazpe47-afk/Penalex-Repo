@@ -1,0 +1,24 @@
+{
+  "id": 55467,
+  "numero": "1101",
+  "fecha": "2017-12-15",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Juan Carlos Goncalves Rodríguez contra una sentencia del Juzgado Séptimo de Primera Instancia que había declarado parcialmente con lugar su demanda de amparo. La Sala ordenó la remisión de copias certificadas del expediente completo, ya que las enviadas estaban incompletas, lo que era necesario para decidir sobre el recurso de apelación pendiente. Se estableció un plazo de cinco días para la remisión de la documentación requerida.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "custodia compartida",
+    "niños",
+    "derechos"
+  ],
+  "titulo": "Sentencia sobre apelación en caso de amparo de custodia compartida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-12-15_S1101_E17-0538.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/206736-1101-151217-2017-17-0538.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.277564"
+}

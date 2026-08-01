@@ -1,0 +1,23 @@
+{
+  "id": 18799,
+  "numero": "0325",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por la sociedad mercantil Servicios Tecnológicos VG, C.A. contra la decisión del Juzgado Superior Sexto que declaró inadmisible su acción de amparo. La Sala consideró que la acción de amparo era improcedente en relación a la admisión de la demanda de cumplimiento de contrato de compraventa de acciones, pero revocó parcialmente la decisión respecto a la medida cautelar de embargo preventivo sobre la cuenta bancaria de la empresa. Se destacó la falta de agotamiento de las vías ordinarias como causa de inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "embargo preventivo",
+    "cumplimiento de contrato"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0325_E24-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342271-0325-13325-2025-24-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.729977"
+}

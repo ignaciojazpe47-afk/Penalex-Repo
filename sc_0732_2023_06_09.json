@@ -1,0 +1,27 @@
+{
+  "id": 30784,
+  "numero": "0732",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La abogada Petra Margarita Aular interpuso una acción de amparo constitucional en contra de una decisión de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que declaró sin lugar un recurso de apelación. La Sala Constitucional del TSJ, tras revisar el expediente, determinó que la parte actora no había dado impulso a la pretensión de amparo durante seis meses, lo que evidenció un abandono del trámite. Por lo tanto, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "apelación",
+    "derecho a la defensa",
+    "debido proceso",
+    "excepción",
+    "sobreseimiento",
+    "Código Orgánico Procesal Penal",
+    "Constitución",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0732_E22-0143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326003-0732-9623-2023-22-0143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.424143"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27141,
+  "numero": "0566",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer del amparo constitucional ejercido por Ana Mauricia Palma en favor de su hijo Javier David Uquillas Palma. La decisión se basa en la existencia de un proceso penal en curso ante el Tribunal Estadal Segundo de Primera Instancia en Funciones de Control con Jurisdicción Nacional y Competencia en casos vinculados al terrorismo. La Sala declina la competencia a la Corte de Apelaciones con Competencia en casos vinculados con delitos asociados al terrorismo.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "competencia",
+    "tribunales",
+    "derechos humanos",
+    "justicia",
+    "terrorismo"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0566_E21-0175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338525-0566-11124-2024-21-0175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.305217"
+}

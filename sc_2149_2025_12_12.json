@@ -1,0 +1,26 @@
+{
+  "id": 23953,
+  "numero": "2149",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1431, declaró sin lugar el recurso de apelación interpuesto por Carlos Eduardo Mazza Mirabal contra la decisión del Juzgado Superior Noveno que había declarado inadmisible su acción de amparo constitucional. La Sala fundamentó su decisión en que el apelante ya había ejercido acciones ordinarias para tutelar sus derechos hereditarios, lo que activó la causal de inadmisibilidad prevista en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa sentencia resalta que la acción de amparo es un medio extraordinario que no debe ser utilizado cuando existen vías ordinarias disponibles. En este caso, el Tribunal consideró que la controversia sobre derechos hereditarios y validez testamentaria debía ser resuelta por la jurisdicción civil ordinaria, y no a través de un amparo constitucional.\n\nFinalmente, la Sala confirmó la decisión del Juzgado Superior, reafirmando que el recurso de apelación no procedía y que el Juzgado actuó conforme a derecho al declarar inadmisible la acción de amparo presentada por el recurrente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos sucesorales",
+    "herencia",
+    "legitimación",
+    "derecho de propiedad",
+    "justicia",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2149_E22-0805.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352016-2149-121225-2025-22-0805.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.741722"
+}

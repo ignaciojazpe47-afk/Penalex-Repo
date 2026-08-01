@@ -1,0 +1,25 @@
+{
+  "id": 42860,
+  "numero": "0115",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta contra el Decreto N° 2.830 del 1 de mayo de 2017, que convocó a una Asamblea Nacional Constituyente. Los accionantes alegaron violaciones a sus derechos políticos y solicitaron la nulidad del decreto. La Sala, tras aceptar la declinatoria de competencia de la Sala Electoral, declaró la inadmisibilidad de la acción de amparo, argumentando que existía una vía recursiva disponible.",
+  "palabras_clave": [
+    "amparo",
+    "constitucionalidad",
+    "derechos políticos",
+    "asamblea constituyente",
+    "decreto",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0115_E18-0834.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305033-0115-21519-2019-18-0834.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.582352"
+}

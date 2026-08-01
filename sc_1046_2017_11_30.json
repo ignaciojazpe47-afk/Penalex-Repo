@@ -1,0 +1,24 @@
+{
+  "id": 55022,
+  "numero": "1046",
+  "fecha": "2017-11-30",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por los voceros del Consejo Comunal La Boyera, quienes impugnaron las sentencias dictadas por el Juzgado Superior Segundo en lo Civil y Contencioso Administrativo y la Corte Primera de lo Contencioso Administrativo. Se argumentó que hubo violaciones al debido proceso y a la defensa, al no ser notificados de las decisiones que afectaban sus derechos. La Sala declaró con lugar la revisión, anulando las sentencias impugnadas y ordenando la acumulación de causas para evitar sentencias contradictorias.",
+  "palabras_clave": [
+    "Consejo Comunal",
+    "Nulidad",
+    "Sentencias",
+    "Debido Proceso",
+    "Zonificación"
+  ],
+  "titulo": "Revisión constitucional de sentencias sobre nulidad de actos administrativos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-30_S1046_E17-0570.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205934-1046-301117-2017-17-0570.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.490037"
+}

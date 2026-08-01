@@ -1,0 +1,25 @@
+{
+  "id": 32974,
+  "numero": "1543",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Moisés Abelardo Mijares Terife en representación de Víctor José Sánchez Terán, quien alegaba un retardo procesal en la apertura de juicio por un delito de violencia sexual. La Sala, tras analizar la competencia, se declaró incompetente para conocer del caso y declinó la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Estado La Guaira.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "retardo procesal",
+    "violencia contra la mujer",
+    "debido proceso",
+    "tutela judicial",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1543_E23-1007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330598-1543-241123-2023-23-1007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.428467"
+}

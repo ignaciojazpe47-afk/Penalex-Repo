@@ -1,0 +1,24 @@
+{
+  "id": 44974,
+  "numero": "0507",
+  "fecha": "2019-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la acción de amparo constitucional interpuesta por Otoniel Pautt Andrade contra el Decreto Presidencial N° 2.878, que establece las bases comiciales para la Asamblea Nacional Constituyente, declara inadmisible la acción. La Sala Electoral había declinado la competencia a la Sala Constitucional, lo que fue aceptado por esta última. Se argumenta que la acción es inadmisible debido a la existencia de cosa juzgada, ya que la constitucionalidad del decreto ya había sido declarada en una sentencia anterior.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "amparo constitucional",
+    "decreto presidencial",
+    "asamblea nacional constituyente",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta contra el Decreto Presidencial N° 2.878",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-17_S0507_E17-0740.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309232-0507-171219-2019-17-0740.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.808117"
+}

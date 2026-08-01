@@ -1,0 +1,25 @@
+{
+  "id": 35142,
+  "numero": "0210",
+  "fecha": "2021-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento de amparo constitucional interpuesto por Marisol Puentes Urgiles en representación de José Gregorio Ramírez y Zaybeth Dubraska Diamont Centeno, contra una sentencia del Juzgado Superior Quinto. La decisión se basa en el abandono del trámite por parte de la accionante, quien no realizó actuaciones durante más de seis meses. Además, se impone una multa a la parte accionante por la cantidad de dos mil bolívares, a ser pagados a la Tesorería Nacional.",
+  "palabras_clave": [
+    "amparo",
+    "abandonode trámite",
+    "derechos constitucionales",
+    "due process",
+    "arrendamiento",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0210_E17-1288.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317471-0210-21622-2022-17-1288.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.173715"
+}

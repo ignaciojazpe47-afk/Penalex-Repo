@@ -1,0 +1,26 @@
+{
+  "id": 27475,
+  "numero": "0787",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Christian Alexander Martínez Frenzel contra la sentencia del Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La decisión se basa en que la demanda de cumplimiento de contrato de opción de compra venta fue declarada sin lugar por no cumplir con los requisitos legales necesarios para la venta de bienes pertenecientes a menores de edad. La Sala concluye que no se vulneraron los derechos constitucionales del demandante, ya que el juez actuó conforme a la protección de los intereses de los adolescentes involucrados en el caso.",
+  "palabras_clave": [
+    "cumplimiento de contrato",
+    "error de juzgamiento",
+    "incongruencia",
+    "ultrapetita",
+    "interés superior",
+    "niños y adolescentes",
+    "jurisdicción de protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0787_E18-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338912-0787-141124-2024-18-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.025348"
+}

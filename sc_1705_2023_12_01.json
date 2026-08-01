@@ -1,0 +1,22 @@
+{
+  "id": 33202,
+  "numero": "1705",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 1 de diciembre de 2023, declaró con lugar el recurso de apelación interpuesto por el abogado Moisés Rojas Bolívar, en su carácter de defensor privado del ciudadano Moisés Junior Rojas Silva. La apelación se fundamentó en la inadmisibilidad de la acción de amparo constitucional dictada por la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua el 8 de noviembre de 2022, que alegaba la falta de remisión oportuna del asunto penal recursivo a la Corte de Apelaciones.\n\nLa Corte de Apelaciones había declarado inadmisible la acción de amparo por considerar que el abogado había fundamentado incorrectamente su solicitud, refiriéndose a la Ley Orgánica de Amparo a la Libertad y Seguridad Personal en lugar de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Sin embargo, la Sala Constitucional determinó que la acción de amparo cumplía con los requisitos necesarios y que la Corte de Apelaciones no actuó conforme a derecho al declarar la inadmisibilidad.\n\nFinalmente, se ordenó la remisión del expediente a la Unidad de Recepción y Distribución de Documentos del Circuito Judicial Penal del Estado Aragua para que otra Corte de Apelaciones se pronuncie sobre la admisibilidad de la acción de amparo, garantizando así el derecho a la tutela judicial efectiva del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "inadmisiibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1705_E22-1023.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330951-1705-11223-2023-22-1023.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.165742"
+}

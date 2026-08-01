@@ -1,0 +1,25 @@
+{
+  "id": 16734,
+  "numero": "0085",
+  "fecha": "2026-01-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Carlos J. Villarroel, en representación de Andrea Falcone Bonazzio, contra la sentencia de la Sala 7 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación se fundamentó en la supuesta omisión de pronunciamiento por parte del Juzgado Cuadragésimo Segundo de Primera Instancia en Funciones de Control, respecto a solicitudes de control judicial presentadas en julio de 2025.\nLa Sala Constitucional constató que el Juzgado había emitido pronunciamiento el 22 de julio de 2025, lo que cesó la supuesta violación de derechos fundamentales alegada por el apelante. En consecuencia, se declaró que la acción de amparo era inadmisible, confirmando la decisión de la Corte de Apelaciones.\nFinalmente, la Sala Constitucional declaró SIN LUGAR el recurso de apelación, confirmando la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "control judicial",
+    "omisión",
+    "derechos fundamentales",
+    "debido proceso",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0085_E25-0965.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352772-0085-19226-2026-25-0965.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.073669"
+}

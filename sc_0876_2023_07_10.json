@@ -1,0 +1,24 @@
+{
+  "id": 31169,
+  "numero": "0876",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "QUE NO TIENE COMPETENCIA",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La abogada Carmen Idaima Mora Molina interpuso una acción de amparo constitucional en representación de Carmen Oneida Villa Mora contra la ONCDOFT, alegando desacato a una decisión anterior que ordenaba la entrega de un vehículo. La Sala Constitucional del TSJ, tras analizar el caso, determinó que no tenía competencia para conocer de la acción de amparo, declinando la misma al Juzgado Nacional de lo Contencioso Administrativo. La sentencia destaca la importancia de la competencia jurisdiccional en el contexto de la administración pública y el control de la legalidad administrativa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción contencioso administrativa",
+    "derecho a la propiedad",
+    "incompetencia",
+    "oficina nacional contra la delincuencia organizada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0876_E23-0351.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326696-0876-10723-2023-23-0351.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.534180"
+}

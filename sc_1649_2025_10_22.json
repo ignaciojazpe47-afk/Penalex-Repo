@@ -1,0 +1,22 @@
+{
+  "id": 22461,
+  "numero": "1649",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado José Miguel Idrogo Martínez en representación de Kaled Abdul Hadi Mansour. La solicitud se refiere a una sentencia del Juzgado Superior Accidental que declaró inadmisible un recurso de apelación y confirmó una decisión anterior sobre la resolución de un contrato de arrendamiento. La Sala argumenta que la falta de representación legal adecuada del solicitante impide la admisión de la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisible",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1649_E17-1148.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349040-1649-221025-2025-17-1148.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.753833"
+}

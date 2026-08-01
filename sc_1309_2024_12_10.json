@@ -1,0 +1,26 @@
+{
+  "id": 28367,
+  "numero": "1309",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Isidro Antonio Hamilton Muñoz en representación de Karina Gouverneur Kann, debido a la falta de presentación del acta de juramentación que acredite su representación legal. La decisión impugnada fue dictada el 22 de agosto de 2023 por la Sala 6 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, alegando vulneración de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "legitimidad",
+    "carga procesal",
+    "derechos constitucionales",
+    "representación",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1309_E23-0899.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340323-1309-101224-2024-23-0899.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.220924"
+}

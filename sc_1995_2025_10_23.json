@@ -1,0 +1,26 @@
+{
+  "id": 23707,
+  "numero": "1995",
+  "fecha": "2025-10-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 661 de la Sala de Casación Civil, que declaró perecido un recurso de casación interpuesto por Carlos Elías Vivas Márquez. La revisión se solicitó debido a la alegación de violaciones a derechos constitucionales y errores en el cómputo de plazos procesales. La Sala Constitucional determinó que la sentencia de la Sala de Casación Civil había vulnerado derechos fundamentales, por lo que decidió anularla y ordenar un nuevo pronunciamiento sobre la admisión del recurso de casación.",
+  "palabras_clave": [
+    "revisión",
+    "tutela judicial",
+    "cosa juzgada",
+    "derechos",
+    "constitución",
+    "procedimiento civil",
+    "casación"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1995_E25-1245.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351715-1995-101225-2025-25-1245.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.745392"
+}

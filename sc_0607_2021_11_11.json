@@ -1,0 +1,22 @@
+{
+  "id": 40170,
+  "numero": "0607",
+  "fecha": "2021-11-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Corte Constitucional se pronunció sobre un recurso de apelación interpuesto por la Defensora Pública en representación de Carlos Alberto Barco Toledo, quien alegó violaciones al debido proceso en su juicio penal. La Corte declaró su competencia para conocer el recurso y ordenó a la Corte de Apelaciones del Estado Guárico informar sobre el estado de las apelaciones relacionadas y la causa principal. Se enfatizó la importancia de cumplir con los plazos establecidos para garantizar el derecho a la defensa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-11_S0607_E21-0561.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314363-0607-111121-2021-21-0561.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.517379"
+}

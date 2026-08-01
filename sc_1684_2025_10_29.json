@@ -1,0 +1,22 @@
+{
+  "id": 22627,
+  "numero": "1684",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por Natacha Nazareth Pérez Colmenares, quien alegaba violaciones a sus derechos en el contexto de una medida de custodia provisional dictada por un tribunal inferior. La Sala confirmó la decisión del Tribunal Superior Tercero, que había declarado inadmisible la acción de amparo, argumentando que la accionante no agotó las vías ordinarias disponibles para impugnar la medida de custodia. La Sala destacó que la acción de amparo es un recurso extraordinario que solo debe ser utilizado cuando no existen medios ordinarios idóneos para restablecer los derechos vulnerados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "custodia provisional",
+    "derechos de la infancia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1684_E24-1276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349287-1684-291025-2025-24-1276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.534288"
+}

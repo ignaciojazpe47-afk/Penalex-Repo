@@ -1,0 +1,24 @@
+{
+  "id": 44635,
+  "numero": "0432",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia de la Corte Segunda de lo Contencioso Administrativo que había declarado sin lugar el recurso de apelación interpuesto por Jean Carlos Contreras Martínez, quien fue destituido de su cargo en el CICPC. La Sala encontró vicios de incongruencia y silencio de pruebas en la decisión impugnada, así como la violación del principio ne bis in idem, al sancionar al recurrente dos veces por el mismo hecho. En consecuencia, se declaró con lugar la solicitud de revisión, anulando la decisión de la Corte Segunda y restableciendo la situación jurídica del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "destitución",
+    "CICPC",
+    "ne bis in idem",
+    "incongruencia"
+  ],
+  "titulo": "Revisión de sentencia de destitución de funcionario policial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0432_E15-1168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308369-0432-291119-2019-15-1168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.833248"
+}

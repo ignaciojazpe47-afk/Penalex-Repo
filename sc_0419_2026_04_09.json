@@ -1,0 +1,25 @@
+{
+  "id": 17751,
+  "numero": "0419",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de abril de 2026, declaró improcedente la acción de amparo constitucional interpuesta por Antonio José Perdomo contra la decisión del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario del estado Táchira, dictada el 11 de agosto de 2025. La acción fue considerada improcedente in limine litis, ya que no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala determinó su competencia para conocer la acción, pero concluyó que la omisión de notificación a la parte demandada no constituyó una violación de derechos constitucionales, y que el Juzgado Superior actuó dentro de su competencia y ajustado a derecho. Se enfatizó que la falta de notificación no afectó el derecho a la defensa, ya que el tribunal había garantizado el debido proceso al declarar la nulidad de las actuaciones posteriores al auto del 15 de mayo de 2024.\n\nFinalmente, la Sala ordenó la publicación, registro y archivo del expediente, reafirmando la importancia de la notificación en el proceso judicial y la autonomía de los jueces en sus decisiones.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "notificación",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0419_E25-1271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354871-0419-9426-2026-25-1271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.021897"
+}

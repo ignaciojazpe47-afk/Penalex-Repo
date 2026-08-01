@@ -1,0 +1,26 @@
+{
+  "id": 39753,
+  "numero": "0485",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de una sentencia dictada por el Juzgado Superior en lo Civil, Mercantil, del Tránsito y de Protección del Niño y del Adolescente del Estado Vargas, que había declarado sin lugar la apelación contra una decisión anterior sobre una demanda de retracto legal arrendaticio. La parte solicitante argumentó que no se le había notificado debidamente sobre la enajenación del inmueble, lo que vulneró sus derechos al debido proceso y a la defensa. La Sala concluyó que la notificación no se realizó correctamente y que el lapso de caducidad no había comenzado a correr, por lo que se decidió anular la sentencia impugnada y ordenar al juzgado de origen dictar una nueva decisión.",
+  "palabras_clave": [
+    "caducidad",
+    "arrendamientos",
+    "contrato",
+    "citaciones",
+    "fraude procesal",
+    "nulidad",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de apelación en caso de retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0485_E19-0463.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313600-0485-11021-2021-19-0463.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.619101"
+}

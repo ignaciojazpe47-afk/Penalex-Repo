@@ -1,0 +1,26 @@
+{
+  "id": 31959,
+  "numero": "1074",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por Félix Ruggiero Báez, quien alegó vulneración de sus derechos al no tener acceso al expediente en un juicio previo. La Sala declaró inadmisible el amparo, argumentando que el abogado que lo representaba no presentó el poder correspondiente, lo que afectó su legitimidad para actuar. Además, se revocó la decisión del Juzgado Superior que había declarado con lugar el amparo, y se levantaron las medidas cautelares dictadas anteriormente.",
+  "palabras_clave": [
+    "orden público",
+    "amparo constitucional",
+    "derechos fundamentales",
+    "supremacía constitucional",
+    "informalidad",
+    "oficiosidad",
+    "proceso judicial"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional y nulidad de sentencia anterior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1074_E22-0448.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328210-1074-10823-2023-22-0448.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.343933"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 30284,
+  "numero": "0503",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una denuncia de desacato de un mandamiento de amparo constitucional, dictado el 11 de agosto de 2022, en el contexto de un conflicto arrendaticio. La denuncia fue presentada por el abogado Wilmer Antonio Peña Urea, en representación de Federico Tranfa Oliveto, quien alegó que la sentencia del 30 de enero de 2023, emitida por el Tribunal Superior Séptimo, incurrió en vicios de incongruencia y violación de derechos constitucionales, al no considerar la duración real de la relación arrendaticia y al declarar resuelto el contrato de arrendamiento sin respetar la prórroga legal correspondiente.\n\nLa Sala, tras analizar los argumentos, concluyó que efectivamente existieron violaciones a las garantías constitucionales del debido proceso y a la defensa, por lo que se declaró con lugar la solicitud de amparo, anulando la decisión del Tribunal Superior y ordenando que se dictara una nueva sentencia que respete los derechos del arrendatario. Además, se decretó una medida cautelar innominada de suspensión de los efectos de la sentencia impugnada, para evitar situaciones irreparables mientras se resuelve el caso.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "arrendamiento",
+    "prórroga legal",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre denuncia de desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0503_E22-0573.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325124-0503-15523-2023-22-0573.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.035669"
+}

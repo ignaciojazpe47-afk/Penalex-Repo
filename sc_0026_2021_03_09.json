@@ -1,0 +1,26 @@
+{
+  "id": 38247,
+  "numero": "0026",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "CALIxto Ortega Rios",
+  "resumen": "El ciudadano Wilmer Alexander Figueroa interpuso una acción de amparo constitucional contra varios funcionarios del Estado Carabobo por presuntas violaciones a derechos constitucionales. La Sala Constitucional del TSJ, tras analizar la competencia, determinó que no le corresponde conocer el caso, ya que los demandados no son considerados altos funcionarios públicos según la ley. Por lo tanto, se declaró incompetente y se ordenó la remisión del expediente al Juzgado Superior con competencia en lo Contencioso Administrativo de la Región Capital.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "altos funcionarios",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0026_E19-0725.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311439-0026-9321-2021-19-0725.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.758010"
+}

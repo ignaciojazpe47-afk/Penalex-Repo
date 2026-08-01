@@ -1,0 +1,25 @@
+{
+  "id": 21412,
+  "numero": "1272",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "NO ES COMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 971, declara su incompetencia para conocer la acción de amparo interpuesta por Nairelys Carolina Coello Pereira contra la Dirección General de Delitos Comunes del Ministerio Público. La acción se fundamenta en la alegada abstención de respuesta a una denuncia formulada contra un fiscal adscrito a dicho órgano. La Sala determina que el tribunal competente para conocer el caso es el Juzgado Nacional de la Jurisdicción Contencioso Administrativa, dado que la situación denunciada se enmarca en el ámbito administrativo.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción contencioso administrativa",
+    "derechos fundamentales",
+    "incompetencia",
+    "silencio administrativo",
+    "Ministerio Público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1272_E24-0491.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346927-1272-6825-2025-24-0491.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.772568"
+}

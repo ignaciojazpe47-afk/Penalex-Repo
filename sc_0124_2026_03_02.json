@@ -1,0 +1,26 @@
+{
+  "id": 16186,
+  "numero": "0124",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de marzo de 2026, declaró sin lugar la solicitud de revisión constitucional interpuesta por el abogado Félix Ireneo Sánchez Padilla en representación de Lauris Marielis Álvarez Martínez y Francisco de Jesús Guanipa Álvarez. La revisión se solicitó respecto a las sentencias números 026-M-26-05-22 y 000183/2024, dictadas por el Juzgado Superior en lo Civil, Mercantil, Tránsito, Bancario y Marítimo de la Circunscripción Judicial del Estado Falcón y la Sala de Casación Civil, que habían declarado sin lugar recursos de apelación y casación relacionados con un contrato de honorarios profesionales.\n\nLa Sala consideró que no existían vicios que afectaran el debido proceso ni la tutela judicial efectiva, y que las decisiones impugnadas se ajustaron a los parámetros legales y constitucionales. Asimismo, se destacó que la revisión constitucional no debe ser utilizada como un recurso de tercera instancia, sino para garantizar la uniformidad en la interpretación de normas y principios constitucionales. Por lo tanto, se desestimaron las denuncias presentadas por los requirentes, concluyendo que no se evidenció un estado de indefensión ni irregularidades en el procedimiento judicial anterior.",
+  "palabras_clave": [
+    "indefensión",
+    "carga procesal",
+    "tribunales",
+    "sentencia",
+    "derecho a la defensa",
+    "Código de Procedimiento Civil",
+    "orden público"
+  ],
+  "titulo": "Revisión constitucional de sentencias sobre cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0124_E24-1031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353121-0124-2326-2026-24-1031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.381807"
+}

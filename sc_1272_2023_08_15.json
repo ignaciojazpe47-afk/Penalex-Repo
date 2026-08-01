@@ -1,0 +1,26 @@
+{
+  "id": 34164,
+  "numero": "1272",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Richard Robinson Figuera contra el Cuerpo de Bomberos del Estado Miranda, alegando vicios en la notificación de un acto administrativo. La Sala determinó su incompetencia para conocer el caso, ya que el acto administrativo no se encontraba dentro de su jurisdicción, declinando la competencia al Juzgado Superior Estadal Contencioso Administrativo de la Región Capital. Se ordenó la remisión del expediente al tribunal correspondiente para su distribución.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "Cuerpo de Bomberos",
+    "actos administrativos",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "interpretación normativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1272_E22-0792.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328476-1272-15823-2023-22-0792.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.847519"
+}

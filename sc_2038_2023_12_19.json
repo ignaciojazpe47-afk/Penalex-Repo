@@ -1,0 +1,26 @@
+{
+  "id": 33891,
+  "numero": "2038",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 19 de diciembre de 2023, declaró sin lugar la solicitud de revisión constitucional presentada por el abogado Ricardo Bencomo López, en representación de Edgar Ramón Salas Mendoza, contra la sentencia dictada el 22 de mayo de 2023 por el Tribunal Superior del Trabajo del Estado Portuguesa. La revisión se solicitó debido a alegaciones de incongruencia negativa y falta de valoración de pruebas por parte del juez superior. La Sala consideró que no se evidenciaron violaciones a derechos constitucionales ni errores graves en la interpretación de normas.",
+  "palabras_clave": [
+    "apelación",
+    "trabajo",
+    "due process",
+    "tutela judicial",
+    "incongruencia negativa",
+    "valor probatorio",
+    "inspectoría del trabajo"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2038_E23-1055.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332008-2038-191223-2023-23-1055.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.693975"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 9027,
+  "numero": null,
+  "fecha": "2000-06-27",
+  "anio": 2000,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "RAFAEL PEREZ PERDOMO",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas condenó a Gilbert José Ontiveros Briceño a once años de prisión por homicidio calificado. La defensa presentó un recurso de casación alegando infracciones de ley, específicamente sobre la imputabilidad del procesado y la calificación del delito. La Sala de Casación Penal del TSJ, tras analizar las denuncias, declaró sin lugar el recurso, confirmando la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "imputabilidad",
+    "embriaguez",
+    "alevosía"
+  ],
+  "titulo": "Sentencia de Casación sobre homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2df17139b5a7c482950235cf6f26c6ed.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:11.353109"
+}

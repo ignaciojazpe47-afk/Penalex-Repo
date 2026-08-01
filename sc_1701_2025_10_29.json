@@ -1,0 +1,23 @@
+{
+  "id": 22644,
+  "numero": "1701",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional formulada por el ciudadano Germán Roberto Gutiérrez Morales, de la sentencia N° 1020, dictada el 13 de diciembre de 2018, por la Sala de Casación Social del Tribunal Supremo de Justicia, y que declaró: “PRIMERO: SIN LUGAR el recurso de casación interpuesto por la parte actora, contra la sentencia dictada por el Juzgado Superior del Circuito de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del estado Yaracuy, publicada en fecha 25 de junio de 2018; SEGUNDO: SE CONFIRMA la decisión recurrida”.",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 1020 de la Sala de Casación Social, que había declarado sin lugar un recurso de casación interpuesto por Germán Roberto Gutiérrez Morales. La Sala Constitucional determinó que la decisión de la Sala de Casación Social vulneró derechos constitucionales, específicamente el derecho a la defensa y el debido proceso, al no otorgar el valor adecuado a las pruebas presentadas. En consecuencia, se declaró ha lugar la revisión y se anuló la sentencia impugnada, ordenando que se emita un nuevo pronunciamiento considerando los criterios establecidos por la Sala Constitucional sobre uniones estables de hecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "unión concubinaria",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de unión concubinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1701_E19-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349304-1701-291025-2025-19-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.532855"
+}

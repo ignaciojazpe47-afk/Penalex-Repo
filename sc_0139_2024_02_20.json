@@ -1,0 +1,25 @@
+{
+  "id": 24268,
+  "numero": "0139",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 1250, declara inadmisible la acción de amparo interpuesta por Bolivia Gioconda Gil Álvarez contra la omisión de pronunciamiento del Tribunal Cuarto de Primera Instancia de Mediación, Sustanciación y Ejecución del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del estado Carabobo. La decisión se fundamenta en que las causas que motivaron la acción de amparo han cesado, ya que el tribunal de primera instancia se pronunció sobre la medida cautelar solicitada posteriormente a la interposición del recurso de apelación.\n\nLa Sala también señala que la fundamentación del juzgado inferior para declarar inadmisible la acción de amparo fue errada, ya que no existen medios ordinarios de impugnación ante la omisión de pronunciamiento. Finalmente, se confirma la decisión del juzgado de primera instancia y se declara inadmisible la acción de amparo de manera sobrevenida, conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "adolescentes",
+    "decisión",
+    "inadmision",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0139_E19-0540.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332649-0139-20224-2024-19-0540.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.555132"
+}

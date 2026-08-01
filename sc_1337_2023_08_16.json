@@ -1,0 +1,25 @@
+{
+  "id": 34227,
+  "numero": "1337",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo interpuesta por el abogado Abraham Cantillo en representación de RUGENDRI GONZÁLEZ. Se evidencia que desde la interposición de la acción hasta la decisión transcurrieron más de seis meses sin actividad procesal, lo que configura el abandono del trámite. Además, se impone una multa de dos mil bolívares al demandante por la falta de impulso en el proceso.",
+  "palabras_clave": [
+    "amparo",
+    "interés procesal",
+    "abandonar trámite",
+    "tutela judicial",
+    "derechos fundamentales",
+    "inactividad procesal"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1337_E22-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328541-1337-16823-2023-22-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.228008"
+}

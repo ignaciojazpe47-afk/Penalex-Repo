@@ -1,0 +1,24 @@
+{
+  "id": 38014,
+  "numero": "1155",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agrario",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de noviembre de 2015 por el Juzgado Superior Agrario, que desaplicó el artículo 282 del Código de Procedimiento Civil por ser incompatible con la Constitución. El caso se originó por un juicio de daño material y moral donde la parte demandante desistió del procedimiento antes de la citación del demandado. La Sala concluyó que la imposición de costas procesales a la parte actora era inaplicable dado que no se había generado gasto judicial alguno, y que la regulación de costas en el derecho civil no se ajusta a la naturaleza del derecho agrario, que busca proteger a los más vulnerables.",
+  "palabras_clave": [
+    "costas procesales",
+    "desaplicación",
+    "control difuso",
+    "derecho agrario",
+    "constitucionalidad"
+  ],
+  "titulo": "Desaplicación de costas procesales en juicio agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1155_E17-0182.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321989-1155-141222-2022-17-0182.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.150882"
+}

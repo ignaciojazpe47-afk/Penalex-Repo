@@ -1,0 +1,25 @@
+{
+  "id": 32249,
+  "numero": "1402",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Piter Paolo Sánchez Sisnigalli, en representación de Evelia Josefina Cartalla Méndez, contra una decisión del Juzgado Superior que declaró inadmisible la acción de amparo. La Sala determinó que la acción de amparo era inadmisible, ya que la parte accionante contaba con medios procesales idóneos para ventilar su pretensión y no los ejerció. La Sala confirmó la decisión del Juzgado Superior, declarando sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "procedimiento",
+    "vías procesales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1402_E18-0851.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329277-1402-111023-2023-18-0851.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.403868"
+}

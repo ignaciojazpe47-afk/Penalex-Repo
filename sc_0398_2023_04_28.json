@@ -1,0 +1,24 @@
+{
+  "id": 29989,
+  "numero": "0398",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Dulce Marisela Landaeta Coronado contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito de la Circunscripción Judicial del Estado Aragua. La acción fue considerada inadmisible debido a la falta de presentación de la copia certificada de la sentencia cuestionada, requisito indispensable para la admisión de la demanda. La Sala reafirma que el amparo constitucional es un recurso excepcional y que no se puede utilizar como un medio ordinario de impugnación.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0398_E18-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324668-0398-28423-2023-18-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.054360"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27231,
+  "numero": "0647",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó un fallo del Tribunal Superior de Protección de Niños, donde se solicitó la nulidad de una medida de protección impuesta a favor de una niña, tras denuncias de abuso sexual. El demandante argumentó que la medida vulneraba los derechos de la menor y solicitó la revisión constitucional del acto de juzgamiento. La Sala, tras evaluar las actuaciones procesales, decidió ordenar la verificación del estado actual del caso y la remisión de las actuaciones procesales pertinentes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "protección de niños",
+    "abuso sexual"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0647_E21-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338630-0647-61124-2024-21-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.460026"
+}

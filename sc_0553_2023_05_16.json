@@ -1,0 +1,25 @@
+{
+  "id": 30335,
+  "numero": "0553",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de mayo de 2023, declaró sin lugar la solicitud de revisión presentada por el defensor de José Luis Tamayo Rodríguez, en relación a la sentencia dictada el 3 de diciembre de 2020 por la Sala de Casación Penal. La Sala consideró que la sentencia impugnada no quebrantó principios jurídicos fundamentales y que la revisión no constituye una tercera instancia, sino una potestad extraordinaria para mantener la homogeneidad de los criterios constitucionales.",
+  "palabras_clave": [
+    "nulidad",
+    "casación",
+    "fraude procesal",
+    "querella",
+    "Ministerio Público",
+    "justicia penal"
+  ],
+  "titulo": "Solicitud de revisión de sentencia de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0553_E21-0442.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325185-0553-16523-2023-21-0442.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.875607"
+}

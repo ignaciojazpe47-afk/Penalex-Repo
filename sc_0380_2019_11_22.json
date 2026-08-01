@@ -1,0 +1,25 @@
+{
+  "id": 44532,
+  "numero": "0380",
+  "fecha": "2019-11-22",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Eddycson Peña Sosa, quien impugnó la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Mérida que declaró inadmisible su recurso de apelación. La Corte de Apelaciones había argumentado que la apelación era extemporánea, lo que fue cuestionado por el demandante, quien alegó no haber sido debidamente notificado de la decisión que motivó su apelación.",
+  "palabras_clave": [
+    "abandonodeprocedimiento",
+    "amparo",
+    "derechos",
+    "garantías",
+    "inactividad",
+    "tutela"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Eddycson Peña Sosa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-22_S0380_E16-0401.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308239-0380-221119-2019-16-0401.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.373789"
+}

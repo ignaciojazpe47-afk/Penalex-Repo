@@ -1,0 +1,25 @@
+{
+  "id": 38850,
+  "numero": "0227",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia dictada por el Juzgado Noveno Superior del Trabajo que declaró sin lugar los recursos de apelación interpuestos por los apoderados de las partes. La Sala observó que se vulneraron derechos laborales fundamentales, como el derecho al trabajo y a la estabilidad laboral, al confirmar la inadmisibilidad de la acción de amparo. Se ordenó el restablecimiento inmediato de la situación jurídica infringida a favor de los trabajadores afectados por la decisión de la empresa demandada.",
+  "palabras_clave": [
+    "derechos laborales",
+    "amparo constitucional",
+    "estabilidad laboral",
+    "jurisdicción laboral",
+    "constitución",
+    "CERVECERÍA POLAR"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0227_E19-0327.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312348-0227-11621-2021-19-0327.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.182956"
+}

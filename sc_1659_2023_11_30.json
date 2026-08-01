@@ -1,0 +1,23 @@
+{
+  "id": 33150,
+  "numero": "1659",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió el amparo constitucional interpuesto por Luis Alberto Henríquez Contreras contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que había declarado sin lugar los recursos de apelación interpuestos por la Fiscalía y la parte actora. La Sala encontró que la Corte de Apelaciones no valoró adecuadamente los argumentos sobre la continuidad del delito de uso no autorizado de obra de ingenio, lo que vulneró el derecho a la tutela judicial efectiva del demandante. En consecuencia, se revocó la sentencia impugnada y se ordenó a la Corte de Apelaciones decidir nuevamente los recursos de apelación sin considerar el tiempo transcurrido entre la presentación del amparo y la notificación del fallo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho de autor",
+    "prescripción",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Luis Alberto Henríquez Contreras",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1659_E22-0659.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330826-1659-301123-2023-22-0659.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.969321"
+}

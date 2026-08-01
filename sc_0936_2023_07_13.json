@@ -1,0 +1,25 @@
+{
+  "id": 31285,
+  "numero": "0936",
+  "fecha": "2023-07-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Carlos Alexis Echeverría Kolt, quien impugnó la decisión de la Sala de Casación Civil que declaró perecido su recurso extraordinario de casación. La revisión se fundamentó en la supuesta vulneración de su derecho a la defensa, argumentando que el cómputo del lapso para la formalización del recurso fue incorrecto debido a un retraso en la remisión del expediente por parte del Juzgado Superior en lo Civil, Mercantil y del Tránsito de La Guaira.\nLa Sala Constitucional determinó que la Sala de Casación Civil actuó conforme a la ley al declarar perecido el recurso, ya que el escrito de formalización fue presentado fuera del lapso legal establecido. La Sala Constitucional concluyó que no se evidenció un error grotesco en la interpretación de la norma constitucional y, por lo tanto, no procedió a la nulidad del fallo impugnado.\nFinalmente, la Sala declaró su competencia para conocer de la solicitud de revisión, pero resolvió que no había lugar a la misma, manteniendo la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión",
+    "constitucionalidad",
+    "derecho a la defensa",
+    "cosa juzgada",
+    "casación",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión Constitucional sobre la declaración de perecido del recurso extraordinario de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-13_S0936_E23-0547.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326910-0936-13723-2023-23-0547.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.211863"
+}

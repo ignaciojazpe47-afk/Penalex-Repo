@@ -1,0 +1,25 @@
+{
+  "id": 33440,
+  "numero": "1774",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 137, declaró sin lugar el recurso de apelación interpuesto por el abogado José Gabriel Carrasco Ramírez, en representación del ciudadano Irael Antonio Alcalá, contra la decisión de la Sala N° 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en la falta de consignación de copia certificada de la decisión que se impugnaba, lo que constituye un requisito indispensable para la admisibilidad de la acción de amparo. Además, se ordenó la remisión del expediente a la Corte de Apelaciones para que se pronuncie sobre otras acciones de amparo pendientes en el caso.",
+  "palabras_clave": [
+    "nulidad",
+    "debido proceso",
+    "garantías constitucionales",
+    "acción de amparo",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1774_E19-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331309-1774-71223-2023-19-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.145474"
+}

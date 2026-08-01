@@ -1,0 +1,26 @@
+{
+  "id": 38487,
+  "numero": "0112",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por Ismael Medina Pacheco contra la sentencia N° 00799 dictada el 4 de junio de 2014. La decisión se basa en que la solicitud ya había sido objeto de un pronunciamiento previo, lo que genera cosa juzgada. Se argumenta que no se vulneraron los derechos a la defensa y al debido proceso del solicitante, ya que la Sala Político-Administrativa valoró adecuadamente el contenido de los documentos presentados por el recurrente.",
+  "palabras_clave": [
+    "remoción",
+    "juez",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad",
+    "reincorporación",
+    "indemnización"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0112_E18-0808.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311825-0112-16421-2021-18-0808.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.734886"
+}

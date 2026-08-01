@@ -1,0 +1,24 @@
+{
+  "id": 41005,
+  "numero": "0010",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la solicitud de revisión de la sentencia N° 2018-00378, dictada por la Sala Político Administrativa, que había confirmado la improcedencia de la demanda por vía de hecho interpuesta por Jully Virginia Pérez Villamizar contra el IACFANB. La Sala argumenta que no se evidencian violaciones a derechos constitucionales y que la actuación del Instituto se basó en un acto administrativo válido. Se resalta que la revisión no debe ser entendida como una tercera instancia para cuestionar decisiones adversas.",
+  "palabras_clave": [
+    "incongruencia",
+    "debido proceso",
+    "vías de hecho",
+    "actos administrativos",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión de sentencia N° 2018-00378",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0010_E18-0490.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309520-0010-11220-2020-18-0490.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.143835"
+}

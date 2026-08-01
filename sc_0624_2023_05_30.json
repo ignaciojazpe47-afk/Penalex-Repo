@@ -1,0 +1,25 @@
+{
+  "id": 30578,
+  "numero": "0624",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por los abogados Nelson Barrios y Annabel Moncada en representación del ciudadano Robert Yobán Pérez Leal, contra la decisión de la Sala 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación se fundamentó en la omisión de pronunciamiento por parte de la Jueza Emma Carina Plaza Piñate respecto a varias solicitudes realizadas por la defensa en el proceso penal que se le sigue al ciudadano Pérez Leal.\nLa Sala Constitucional, tras analizar los argumentos presentados y la situación procesal del caso, determinó que la apelación carecía de fundamento, ya que el proceso penal estaba suspendido debido a la falta de estadía a derecho del imputado. En consecuencia, se confirmó la decisión de inadmisibilidad de la acción de amparo constitucional, considerando que no era posible restablecer la situación jurídica alegada por la parte accionante.\nFinalmente, la Sala declaró SIN LUGAR el recurso de apelación, manteniendo la decisión de la Corte de Apelaciones y ordenando el remitir el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "debido proceso",
+    "privación de libertad",
+    "justicia",
+    "normativa constitucional"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0624_E21-0229.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325712-0624-30523-2023-21-0229.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.913720"
+}

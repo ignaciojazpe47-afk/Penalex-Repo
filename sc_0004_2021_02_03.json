@@ -1,0 +1,22 @@
+{
+  "id": 38160,
+  "numero": "0004",
+  "fecha": "2021-02-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Gabriela Yeiret Mijares Pacheco, quien alegó violaciones a los derechos de sus hijos en relación con un régimen de convivencia familiar. La decisión impugnada había declarado inadmisible la acción de amparo, argumentando que no se había agotado la vía judicial ordinaria. La Sala, tras revisar los fundamentos y la temporalidad del recurso, decidió admitir la apelación y convocar una audiencia oral para escuchar a las partes involucradas.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Régimen de Convivencia Familiar",
+    "Derechos de Niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-02-03_S0004_E21-0005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/311282-0004-3221-2021-21-0005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.384276"
+}

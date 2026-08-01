@@ -1,0 +1,22 @@
+{
+  "id": 34064,
+  "numero": "1171",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 2021-141, dictada por el Juzgado Nacional Primero de la Jurisdicción Contencioso Administrativa, que confirmaba la decisión de jubilación del ciudadano Juan Luis Blanco Gutiérrez. La Sala determinó su competencia para conocer la solicitud de revisión y consideró que la decisión impugnada vulneraba derechos constitucionales al debido proceso y al trabajo. Se ordenó remitir el expediente correspondiente para su análisis.",
+  "palabras_clave": [
+    "revisión",
+    "jubilación",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión de decisión administrativa de jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1171_E21-0725.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328375-1171-14823-2023-21-0725.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.871521"
+}

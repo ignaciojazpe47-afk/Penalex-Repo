@@ -1,0 +1,26 @@
+{
+  "id": 20622,
+  "numero": "1022",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la revisión constitucional solicitada por Liberty Express C.A. respecto a la sentencia N° 635 de la Sala de Casación Civil. Se establece la competencia de la Sala para conocer la revisión y se ordena la remisión del expediente correspondiente para verificar la existencia de errores en la interpretación constitucional. La decisión se fundamenta en la necesidad de garantizar el orden público y la correcta aplicación de la ley.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "medida cautelar",
+    "capacidad de postulación",
+    "arrendamiento",
+    "daños y perjuicios",
+    "jurisdicción",
+    "interpretación constitucional"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1022_E24-1218.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345291-1022-30625-2025-24-1218.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.509613"
+}

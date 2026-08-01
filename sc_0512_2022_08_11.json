@@ -1,0 +1,25 @@
+{
+  "id": 36143,
+  "numero": "0512",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada el 13 de octubre de 2015 por el Juzgado Superior Primero del Trabajo de Miranda. La solicitud fue presentada por el abogado Julio César Sánchez Ramos en representación de las sociedades mercantiles CONSTRUCTORA NORBERTO ODEBRECHT, S.A. y VENEZOLANA DE INVERSIONES Y CONSTRUCCIONES CLERICO, C.A., quienes alegaron violaciones a derechos constitucionales en la decisión que declaró sin lugar la apelación y confirmó la caducidad de la acción de nulidad interpuesta contra un acto administrativo.\n\nLa Sala, tras analizar los argumentos, determinó que no se configuraron las violaciones alegadas y que la decisión del juzgado inferior se ajustó a derecho, por lo que declaró que no ha lugar a la solicitud de revisión. Además, homologó el desistimiento de la solicitud de revisión presentada por la abogada Noris Marina García en representación de CONSTRUCTORA NORBERTO ODEBRECHT, S.A. La sentencia reafirma la importancia de la caducidad de las acciones en el ámbito administrativo y la necesidad de respetar los plazos establecidos por la ley.",
+  "palabras_clave": [
+    "caducidad",
+    "nulidad",
+    "actos administrativos",
+    "jurisdicción contencioso administrativa",
+    "procedimiento administrativo",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0512_E15-1308.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319169-0512-11822-2022-15-1308.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.568519"
+}

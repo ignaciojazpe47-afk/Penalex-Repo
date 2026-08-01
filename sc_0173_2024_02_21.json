@@ -1,0 +1,27 @@
+{
+  "id": 24308,
+  "numero": "0173",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono de trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Ritho López en representación de Ronal Javier Hernández contra la Contraloría General de la República y el Consejo Nacional Electoral. La acción fue motivada por la inhabilitación del demandante para ejercer funciones públicas, lo que afectaba su derecho a participar en las elecciones municipales de 2021.\nLa Sala determinó su competencia para conocer el caso, pero tras un análisis, se evidenció que el demandante y su representante legal no habían impulsado el procedimiento durante más de seis meses, lo que se consideró como abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa al demandante por la falta de interés en continuar con la acción de amparo.\nFinalmente, se ordenó notificar a la parte accionante sobre la decisión y se establecieron las condiciones para el pago de la multa impuesta.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "funcionarios",
+    "elecciones",
+    "constitucional",
+    "administración",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0173_E21-0687.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332714-0173-21224-2024-21-0687.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.667456"
+}

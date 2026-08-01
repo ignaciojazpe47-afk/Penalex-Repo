@@ -1,0 +1,24 @@
+{
+  "id": 37822,
+  "numero": "1107",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre la revisión de dos sentencias emitidas por la Sala 10° y la Sala 5° de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La primera sentencia, dictada el 22 de marzo de 2022, declaró sin lugar el recurso de apelación interpuesto por la Fiscalía 28° contra la decisión de sobreseimiento de la causa, mientras que la segunda, del 13 de diciembre de 2021, anuló una decisión anterior sobre una querella penal por calumnia contra el solicitante de revisión, Leandro Humberto Martínez Puentes.\n\nLa Sala Constitucional determinó que ambas decisiones contenían vicios de orden constitucional, afectando el derecho a la defensa y a la tutela judicial efectiva del solicitante. Se concluyó que no existía cosa juzgada en el asunto y que el sobreseimiento no había adquirido firmeza, por lo que se ordenó la reposición de la causa al estado de nuevo pronunciamiento sobre el recurso de apelación interpuesto por la víctima, garantizando así el respeto a los derechos fundamentales del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "calumnia",
+    "derechos fundamentales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisiones de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1107_E22-0746.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321690-1107-91222-2022-22-0746.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.425137"
+}

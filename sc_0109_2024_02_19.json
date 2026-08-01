@@ -1,0 +1,25 @@
+{
+  "id": 24237,
+  "numero": "0109",
+  "fecha": "2024-02-19",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la empresa URBANIZADORA BELLA MAR C.A. contra la decisión del Juzgado Superior Primero Agrario que declaró inadmisible la acción de amparo constitucional. La apelación fue fundamentada en la omisión de respuesta del Instituto Nacional de Tierras (INTI) a la solicitud de registro agrario presentada por la empresa. La Sala determinó que la acción de amparo era inadmisible debido a que habían transcurrido más de seis meses desde la violación alegada, lo que implicaba consentimiento tácito por parte del agraviado.",
+  "palabras_clave": [
+    "recurso de apelación",
+    "acción de amparo",
+    "caducidad",
+    "tutela judicial",
+    "consentimiento tácito",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0109_E22-0954.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332618-0109-19224-2024-22-0954.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.565900"
+}

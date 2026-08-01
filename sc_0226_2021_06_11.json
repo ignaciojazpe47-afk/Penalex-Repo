@@ -1,0 +1,25 @@
+{
+  "id": 38849,
+  "numero": "0226",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Juan Rondón en representación de Juan José Montilla López, cuestionando una sentencia del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Portuguesa. La Sala determinó que no era competente para conocer del caso, declinando la competencia al Juzgado Superior en lo Civil, Mercantil, Bancario y del Tránsito del mismo circuito judicial.\n\nSe argumentó que la competencia funcional es un requisito esencial para la validez del proceso y que la acción de amparo debe ser interpuesta ante un tribunal superior al que emitió la decisión cuestionada. La Sala enfatizó que la acción de amparo puede referirse a cualquier decisión que lesione derechos constitucionales, y que en este caso, la sentencia impugnada provenía de un tribunal de primera instancia, lo que excluye la competencia de la Sala Constitucional.\n\nFinalmente, se ordenó la remisión de las actuaciones al tribunal competente, reafirmando el principio de la supremacía constitucional y la necesidad de que los jueces actúen dentro de su ámbito competencial.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "garantías",
+    "sentencia",
+    "inmueble"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0226_E20-0154-21-0117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312347-0226-11621-2021-20-0154-21-0117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.177902"
+}

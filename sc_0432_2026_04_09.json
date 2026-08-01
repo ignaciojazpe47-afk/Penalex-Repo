@@ -1,0 +1,25 @@
+{
+  "id": 17062,
+  "numero": "0432",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los abogados de Juan José López Torres, contra la sentencia de la Corte de Apelaciones que declaró inadmisible un recurso de apelación por extemporáneo. La Sala argumenta que la decisión de la Corte de Apelaciones fue correcta y no vulneró derechos constitucionales del demandante. Se resalta que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya tomadas por los tribunales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "competencia",
+    "jurisprudencia",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0432_E25-0751.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354884-0432-9426-2026-25-0751.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.023857"
+}

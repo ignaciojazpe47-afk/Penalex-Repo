@@ -1,0 +1,22 @@
+{
+  "id": 37348,
+  "numero": "0964",
+  "fecha": "2022-11-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de una sentencia dictada por el Juzgado Quinto Superior del Trabajo, que había declarado con lugar la defensa de falta de cualidad y la demanda por cobro de prestaciones sociales interpuesta por Andrés Rafael Suárez Párraga. La Sala consideró que existían elementos suficientes para revisar la decisión, dado que se denunciaron vulneraciones al debido proceso y la falta de consideración de pruebas fundamentales presentadas por el demandante.\n\nSe ordenó al Juzgado Vigésimo Quinto de Primera Instancia que remitiera el expediente correspondiente y se solicitó información adicional sobre la adscripción del centro de salud involucrado en el caso. La Sala destacó la importancia de cumplir con los plazos establecidos para la remisión de la información requerida, advirtiendo sobre posibles sanciones en caso de incumplimiento.\n\nFinalmente, la Sala declaró su competencia para conocer de la solicitud de revisión y ordenó la publicación y cumplimiento de la decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-11_S0964_E16-0052.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320750-0964-111122-2022-16-0052.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.358948"
+}

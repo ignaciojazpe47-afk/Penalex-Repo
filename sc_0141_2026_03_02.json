@@ -1,0 +1,24 @@
+{
+  "id": 16207,
+  "numero": "0141",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULIDAD de la sentencia N° 670 dictada, el 3 de noviembre de 2023, por la Sala de Casación Civil de este Máximo Tribunal y de todos los actos procesales subsiguientes.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 670 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación y confirmado el derecho a cobrar honorarios profesionales. La Sala Constitucional declaró la nulidad de dicha sentencia, argumentando que la demanda de estimación e intimación de honorarios no fue admitida correctamente al no acompañarse el contrato de servicios profesionales que justificara el cobro en moneda extranjera. Se concluyó que la falta de este documento esencial generó indefensión para la parte demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "nulidad",
+    "sentencia",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia N° 670 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0141_E24-0048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353137-0141-2326-2026-24-0048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.594609"
+}

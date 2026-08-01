@@ -1,0 +1,27 @@
+{
+  "id": 32303,
+  "numero": "1450",
+  "fecha": "2023-10-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió a favor de la solicitud de revisión constitucional presentada por Ignacio Suárez Quintas, quien impugnó una sentencia del Tribunal Superior Primero en lo Civil que declaró nulo un contrato de compra venta. La Sala encontró que la decisión del tribunal inferior vulneró el derecho a la defensa y la tutela judicial efectiva, al no resolver adecuadamente los puntos planteados en la demanda y al incurrir en incongruencias. Como resultado, se anuló la sentencia impugnada y se ordenó la emisión de una nueva decisión por un tribunal diferente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "sentencia",
+    "contrato",
+    "tutela judicial",
+    "congruencia",
+    "interpretación",
+    "normas"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de contrato de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-16_S1450_E19-0566.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329356-1450-161023-2023-19-0566.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.391968"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33332,
+  "numero": "1749",
+  "fecha": "2023-12-06",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite la solicitud de avocamiento presentada por el abogado Gedar De Sousa Chirinos en representación de Zaileth Eneida Díaz Lucero, en relación con la causa penal signada con el número 26°C-S-747-2022. Se argumenta que la decisión del Tribunal Vigésimo Sexto de Control, que decretó una orden de aprehensión, vulnera derechos fundamentales y ha generado un gravamen irreparable a la solicitante, quien es acusada de invasión de un bien inmueble bajo una denuncia considerada falsa.\nLa Sala, tras analizar las irregularidades procesales y la falta de notificación adecuada a la defensa, decide suspender los efectos de la sentencia de fecha 27 de julio de 2023 y ordena la remisión del expediente al tribunal correspondiente. Se destaca la importancia de garantizar el derecho a la defensa y la tutela judicial efectiva, así como la necesidad de evitar la criminalización de casos civiles.\nFinalmente, se establece que la Sala se avoca al conocimiento de la causa, reconociendo la relevancia de los derechos constitucionales involucrados y la necesidad de un control judicial efectivo ante posibles violaciones al debido proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "invasión",
+    "derechos fundamentales",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-06_S1749_E23-1046.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331153-1749-61223-2023-23-1046.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.153051"
+}

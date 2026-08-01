@@ -1,0 +1,25 @@
+{
+  "id": 27707,
+  "numero": "0913",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible la solicitud de revisión de dos sentencias emitidas por la misma Sala, argumentando que no es posible admitir acción o recurso contra decisiones firmes de esta máxima instancia. Se establece que la potestad de revisión de sentencias firmes no se aplica a las decisiones de la propia Sala Constitucional, en virtud del principio de cosa juzgada.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "revisión constitucional",
+    "competencia",
+    "sentencias",
+    "Tribunal Supremo de Justicia",
+    "inimpugnabilidad"
+  ],
+  "titulo": "Declaración de improponibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0913_E24-0485.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339190-0913-201124-2024-24-0485.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.184496"
+}

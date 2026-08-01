@@ -1,0 +1,23 @@
+{
+  "id": 7828,
+  "numero": null,
+  "fecha": "2007-05-09",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declaró con lugar el recurso de casación interpuesto por la Fundación Tigres de Aragua, anulando las decisiones previas que habían decretado el sobreseimiento de la causa. Se argumentó que la Corte de Apelaciones no convocó a audiencia oral para debatir los fundamentos del sobreseimiento, vulnerando así el derecho a la defensa y el debido proceso. La sentencia establece que el juez debe convocar a las partes y a la víctima para discutir sobre el sobreseimiento, garantizando así el derecho a ser oído.",
+  "palabras_clave": [
+    "sobreseimiento",
+    "recurso de casación",
+    "derecho a la defensa",
+    "audiencia oral"
+  ],
+  "titulo": "Sentencia de Casación sobre el sobreseimiento de la causa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2007_ManuelCoronado_2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:59.420446"
+}

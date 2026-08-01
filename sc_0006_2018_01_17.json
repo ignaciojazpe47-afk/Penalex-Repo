@@ -1,0 +1,22 @@
+{
+  "id": 45003,
+  "numero": "0006",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CELESTE JOSEFINA LIENDO LIENDO",
+  "resumen": "La sentencia aborda una acción por derechos o intereses difusos interpuesta por la Asociación de Usuarios de Servicios Eléctricos de Venezuela contra Telcel C.A. por la mala prestación de servicios de telefonía celular. La Sala Constitucional ordenó a la Comisión Nacional de Telecomunicaciones (CONATEL) realizar un análisis sobre diversos aspectos de la prestación del servicio por parte de Telcel, incluyendo costos, facturación y calidad del servicio.",
+  "palabras_clave": [
+    "telefonía celular",
+    "mala prestación",
+    "intereses difusos"
+  ],
+  "titulo": "Sentencia sobre mala prestación de servicios de telefonía celular",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0006_E08-0664.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206859-0006-17118-2018-08-0664.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.260015"
+}

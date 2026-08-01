@@ -1,0 +1,26 @@
+{
+  "id": 45016,
+  "numero": "0017",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de interpretación del artículo 258 de la Constitución de la República Bolivariana de Venezuela, presentada por Víctor Manuel Sandoval Rivas, quien alegó desconocimiento de su función como Juez de Paz Comunal. La Sala declaró su competencia para conocer la demanda, pero la consideró inadmisible debido a que no se cumplían los requisitos establecidos para este tipo de recursos.",
+  "palabras_clave": [
+    "juez de paz",
+    "interpretación",
+    "constitución",
+    "legitimidad",
+    "jurisdicción",
+    "derechos",
+    "comunidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda de interpretación del artículo 258 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0017_E17-0356.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206872-0017-17118-2018-17-0356.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.271173"
+}

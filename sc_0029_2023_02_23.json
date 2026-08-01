@@ -1,0 +1,25 @@
+{
+  "id": 28909,
+  "numero": "0029",
+  "fecha": "2023-02-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por la sociedad mercantil C.A. Policlínica Barquisimeto contra la sentencia del Juzgado Segundo de Primera Instancia de Juicio del Trabajo, que había declarado con lugar la acción de amparo constitucional interpuesta por Yolanda Milagro García Padilla. La Sala determinó que la acción de amparo era procedente, ya que la demandante había demostrado la vulneración de su derecho al trabajo al ser impedida de ejercer su profesión en el consultorio asignado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al trabajo",
+    "obstrucción",
+    "consultorio",
+    "C.A. POLICLÍNICA BARQUISIMETO",
+    "normativas internas"
+  ],
+  "titulo": "Revisión constitucional de sentencia de amparo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-23_S0029_E16-1139.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322827-0029-23223-2023-16-1139.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.295612"
+}

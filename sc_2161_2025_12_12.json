@@ -1,0 +1,26 @@
+{
+  "id": 23977,
+  "numero": "2161",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 12 de diciembre de 2025, declaró improcedente la acción de amparo constitucional interpuesta por la sociedad mercantil Inversiones Fircar, C.A. contra la decisión del Juzgado Superior Tercero en lo Civil, Mercantil, Tránsito y Bancario del Estado Carabobo, que había ordenado la reposición de la causa al estado de nueva admisión de la demanda. La Sala consideró que la acción de amparo no es un medio para replantear asuntos ya decididos y que la decisión del tribunal inferior no vulneró derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "competencia",
+    "justicia",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2161_E25-1096.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352040-2161-121225-2025-25-1096.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.081771"
+}

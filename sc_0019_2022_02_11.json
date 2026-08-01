@@ -1,0 +1,24 @@
+{
+  "id": 34340,
+  "numero": "0019",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Declara su incompetencia",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la solicitud de nulidad presentada por ASTIVENCA ASTILLEROS DE VENEZUELA, C.A. contra la Resolución 051 sobre Toma de Posesión de Servicios y Empresas de Actividades Primarias de Hidrocarburos. Se argumenta que la materia es de competencia contencioso-administrativa, dado que la resolución impugnada afecta derechos constitucionales relacionados con el debido proceso y la propiedad. La Sala declina la competencia a la Sala Político Administrativa para que conozca del asunto.",
+  "palabras_clave": [
+    "incompetencia",
+    "nulidad",
+    "resolución",
+    "toma de posesión",
+    "derechos constitucionales"
+  ],
+  "titulo": "Incompetencia de la Sala Constitucional en el caso de la Resolución 051 sobre Toma de Posesión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0019_E18-0681.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315531-0019-11222-2022-18-0681.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.722508"
+}

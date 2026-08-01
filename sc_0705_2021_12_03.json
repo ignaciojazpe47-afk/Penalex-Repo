@@ -1,0 +1,26 @@
+{
+  "id": 40580,
+  "numero": "0705",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer la acción de amparo interpuesta por Carlos Elías Rodríguez de la Cabada, en su carácter de Presidente de la sociedad mercantil Inversiones Megavolt C.R. C.A., contra la Resolución de Imposición de Sanción N° SNAT-INTI-GRTI-RCA/STIGG/AF/2020-170. La acción se fundamentó en la supuesta violación de derechos constitucionales relacionados con la iniciativa privada y la capacidad económica, en el contexto de sanciones tributarias impuestas por el SENIAT.\n\nLa Sala, tras analizar los argumentos presentados, concluyó que la competencia para conocer del amparo solicitado corresponde a un Juzgado Superior de lo Contencioso Tributario de la Región Capital, declinando así su conocimiento. La decisión se fundamenta en la necesidad de que el órgano jurisdiccional tenga afinidad material con los derechos supuestamente lesionados, en concordancia con el lugar de ocurrencia del hecho lesivo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sanciones",
+    "SENIAT",
+    "efecto confiscatorio",
+    "derechos constitucionales",
+    "Código Orgánico",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0705_E20-0457.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314945-0705-31221-2021-20-0457.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.735925"
+}

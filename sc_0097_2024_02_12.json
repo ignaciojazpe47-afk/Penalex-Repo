@@ -1,0 +1,24 @@
+{
+  "id": 18341,
+  "numero": "0097",
+  "fecha": "2024-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Antonio José Stumpo Meléndez y Lérida Andreína Guillén de Stumpo, quienes alegaron violaciones a sus derechos fundamentales tras la admisión de una querella y la imposición de medidas cautelares sin la debida notificación. La Corte de Apelaciones había declarado con lugar la acción de amparo, señalando que el Tribunal de Primera Instancia había incurrido en irregularidades que afectaron el derecho a la defensa y el debido proceso. La Sala Constitucional confirmó la decisión de la Corte de Apelaciones, ordenando la restitución de la situación jurídica infringida y el levantamiento de las medidas cautelares impuestas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "debido proceso",
+    "notificación",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0097_E21-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341428-0097-12225-2025-21-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.566374"
+}

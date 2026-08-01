@@ -1,0 +1,24 @@
+{
+  "id": 62512,
+  "numero": "245",
+  "fecha": "2015-03-11",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de marzo de 2015, declaró sin lugar la solicitud de revisión presentada por Ángel Oscar Loreto contra la sentencia dictada el 7 de noviembre de 2014 por la Sala de Casación Civil. La revisión se fundamentó en la alegación de que la Sala de Casación Civil había incurrido en un error al declarar inadmisible la demanda de prescripción adquisitiva por falta de consignación de documentos requeridos por el Código de Procedimiento Civil.\n\nLa Sala Constitucional determinó que la decisión de la Sala de Casación Civil se ajustó a derecho, ya que se basó en la falta de cumplimiento de los requisitos establecidos en el artículo 691 del Código de Procedimiento Civil, que exige la presentación de una certificación del Registrador y copia certificada del título respectivo. La Sala enfatizó que la revisión no constituye una tercera instancia y que su función es preservar la uniformidad de la interpretación de normas y principios constitucionales.\n\nFinalmente, la Sala Constitucional concluyó que no se evidenció ninguna violación a derechos fundamentales ni error inexcusable en la sentencia impugnada, por lo que se declaró que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "prescripción adquisitiva",
+    "sentencia",
+    "inadmibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión de sentencia de casación civil sobre prescripción adquisitiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S245_E14-1228.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175286-245-11315-2015-14-1228.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.363976"
+}

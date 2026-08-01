@@ -1,0 +1,26 @@
+{
+  "id": 27172,
+  "numero": "0597",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por JIMMY JOSÉ LEIVA MARTÍNEZ, quien cuestiona una sentencia dictada por la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas. La solicitud se basa en alegaciones de inmotivación y violaciones de derechos durante el proceso penal que se le sigue. La Sala determina su competencia para conocer la revisión y ordena la remisión de un informe pormenorizado sobre el estado de la causa penal.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "inmovilización",
+    "constitucionalidad",
+    "proceso penal",
+    "competencia",
+    "informe"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0597_E23-1243.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338558-0597-11124-2024-23-1243.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.303093"
+}

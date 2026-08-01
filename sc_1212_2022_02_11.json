@@ -1,0 +1,22 @@
+{
+  "id": 34101,
+  "numero": "1212",
+  "fecha": "2022-02-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia N° 0016, declaró inadmisible la solicitud de revisión constitucional presentada por Williams Rafael Cedeño Urbano, en su carácter de presidente de la sociedad mercantil Corporación 3C, C.A. La decisión se fundamentó en la falta de presentación de copias certificadas de la sentencia cuestionada. Sin embargo, se constató que efectivamente se habían consignado las copias necesarias, lo que llevó a la Sala a revocar su decisión anterior y a admitir la solicitud de aclaratoria. Finalmente, se determinó que la solicitud de revisión constitucional presentada por la parte demandada no procedía, manteniendo la decisión de la Sala de Casación Civil que había declarado la falta de cualidad activa del demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "falta de cualidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1212_E21-0487.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328412-1212-14823-2023-21-0487.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.724190"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16010,
+  "numero": "0542",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la solicitud de revisión constitucional interpuesta por CARDÓN IV, S.A. contra la sentencia N° 639 de la Sala de Casación Social, que había declarado con lugar el recurso de casación y anulado parcialmente el fallo recurrido. La Sala consideró que no se evidenciaron infracciones a normas constitucionales ni a criterios jurisprudenciales vinculantes, y que la decisión de la Sala de Casación Social se ajustó a derecho, sin vulnerar el debido proceso ni la tutela judicial efectiva.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "ejecución_sentencia",
+    "intereses_patrimoniales",
+    "revisión_constitucional",
+    "derechos_constitucionales",
+    "sentencia_inconstitucional",
+    "protección_intereses"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 639 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0542_E25-0761.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355535-0542-13526-2026-25-0761.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.890297"
+}

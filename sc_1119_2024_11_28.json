@@ -1,0 +1,27 @@
+{
+  "id": 28030,
+  "numero": "1119",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de noviembre de 2024, confirmó la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional interpuesta por WILMARYS SUÁREZ contra la Fiscalía Cuarta del Ministerio Público. La Corte de Apelaciones argumentó que la presunta lesión de derechos constitucionales había cesado, dado que el tribunal de control había admitido las pruebas de la defensa en la audiencia preliminar, subsanando así las denuncias de omisión. La Sala Constitucional, al revisar el caso, determinó que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró las garantías constitucionales de la parte accionante.",
+  "palabras_clave": [
+    "derecho de defensa",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "tutela judicial efectiva",
+    "fiscalía",
+    "diligencias de investigación",
+    "constitución",
+    "amparo constitucional"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1119_E22-0921.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339699-1119-281124-2024-22-0921.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.469257"
+}

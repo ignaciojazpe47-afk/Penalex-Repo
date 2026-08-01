@@ -1,0 +1,23 @@
+{
+  "id": 20122,
+  "numero": "0831",
+  "fecha": "2022-12-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Wilson Iván Nieves Herrera en representación de los ciudadanos Juan Ismael Mercado Aguiar y Kenya Yurimar Guevara López. La decisión se basa en la omisión de la Sala 1 de la Corte de Apelaciones del Estado Falcón al no pronunciarse sobre el amparo, la cual ya había sido subsanada mediante un pronunciamiento posterior que declaró inadmisible el amparo solicitado. La Sala concluye que la acción de amparo no puede ser admitida al haber cesado la violación alegada de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "Corte de Apelaciones",
+    "Falcón"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0831_E22-0696.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344401-0831-3625-2025-22-0696.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.158522"
+}

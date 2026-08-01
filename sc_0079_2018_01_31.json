@@ -1,0 +1,25 @@
+{
+  "id": 45243,
+  "numero": "0079",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La abogada Arminda Guevara de Parra solicitó la revisión de la sentencia N° 251 dictada por la Sala de Casación Civil, argumentando violaciones a sus derechos a la tutela judicial efectiva. La Sala Constitucional, tras analizar los argumentos, determinó que la solicitud era inadmisible debido a la falta de presentación de la copia certificada del fallo cuya revisión se solicitaba. En consecuencia, se declaró inadmisible la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "tutela judicial",
+    "normas",
+    "sentencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0079_E17-0789.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207255-0079-31118-2018-17-0789.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.455578"
+}

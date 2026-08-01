@@ -1,0 +1,23 @@
+{
+  "id": 54780,
+  "numero": "979",
+  "fecha": "2017-11-22",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia relacionado con una acción de amparo constitucional interpuesta por Yordan Gregori Dell’Onto Arjona, quien alegaba la vulneración de su derecho al servicio eléctrico tras el desmantelamiento de una servidumbre eléctrica. La Sala determinó que el tribunal competente para conocer del recurso de apelación era el Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial del Estado Portuguesa, declinando la competencia de otros tribunales que habían intervenido en el caso. La decisión se fundamentó en la naturaleza del derecho reclamado y la normativa aplicable en materia de servicios públicos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "servicio eléctrico",
+    "conflicto de competencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-11-22_S979_E17-0794.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/205539-979-221117-2017-17-0794.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.505999"
+}

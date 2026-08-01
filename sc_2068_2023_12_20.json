@@ -1,0 +1,26 @@
+{
+  "id": 33921,
+  "numero": "2068",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado David Terán Guerra en representación de Carlos Esteban Urbano Fermín, quien impugnó la decisión del Tribunal Trigésimo Noveno que negó el decaimiento de la medida cautelar de privación de libertad. La Sala declaró inadmisible la acción de amparo, argumentando que el recurso de apelación era el medio procesal adecuado para restablecer la situación jurídica lesionada, y que no se había agotado la vía ordinaria correspondiente.",
+  "palabras_clave": [
+    "habeas corpus",
+    "amparo",
+    "decisión judicial",
+    "privación de libertad",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2068_E23-0366.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332038-2068-201223-2023-23-0366.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.684336"
+}

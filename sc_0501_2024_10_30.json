@@ -1,0 +1,26 @@
+{
+  "id": 27015,
+  "numero": "0501",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Comercializadora Snacks, S.R.L. contra la sentencia del Juzgado Superior Tercero del Trabajo que había declarado con lugar la demanda de nulidad contra la providencia administrativa que autorizó el despido de Jean Carlos López Mata. La Sala argumentó que la acción fue presentada fuera del lapso de seis meses establecido por la ley, lo que implica un consentimiento tácito a la decisión impugnada. Además, se determinó que no existían violaciones de orden público que justificaran la admisión de la acción de amparo.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "despido",
+    "LOTTT",
+    "actos administrativos",
+    "jurisprudencia",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Comercializadora Snacks, S.R.L.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0501_E22-0585.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338389-0501-301024-2024-22-0585.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.475152"
+}

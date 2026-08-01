@@ -1,0 +1,27 @@
+{
+  "id": 23865,
+  "numero": "2086",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia número 0296, declaró sin lugar la apelación interpuesta por Raúl Alexander Contreras Urbina contra la decisión del Tribunal Superior Cuarto que había declarado sin lugar la acción de amparo constitucional. La Sala analizó las denuncias de violaciones a derechos constitucionales y determinó que no existieron infracciones que justificaran la procedencia del amparo, confirmando así la actuación del tribunal inferior. La decisión se fundamenta en la correcta aplicación de las normas y el respeto al debido proceso.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "error material",
+    "mediación",
+    "custodia",
+    "transparencia",
+    "terrorismo judicial"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2086_E24-0910.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351906-2086-121225-2025-24-0910.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.079329"
+}

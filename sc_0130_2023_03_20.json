@@ -1,0 +1,26 @@
+{
+  "id": 29391,
+  "numero": "0130",
+  "fecha": "2023-03-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Laboral",
+  "decision": "INCOMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer el recurso de apelación interpuesto contra la sentencia dictada el 10 de mayo de 2019 por el Tribunal Primero de Primera Instancia de Juicio del Trabajo de la Circunscripción Judicial del Estado Anzoátegui. La decisión del tribunal inferior había declarado que no existía desacato a un mandamiento de amparo constitucional. La Sala ordena la remisión del expediente al Juzgado Superior Segundo del Trabajo para que pronuncie sobre el recurso de apelación.",
+  "palabras_clave": [
+    "desacato",
+    "reincorporación",
+    "salarios",
+    "beneficios sociales",
+    "amparo",
+    "trabajo",
+    "empresa"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0130_E19-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323791-0130-20323-2023-19-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.331367"
+}

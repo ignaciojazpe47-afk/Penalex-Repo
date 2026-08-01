@@ -1,0 +1,22 @@
+{
+  "id": 20607,
+  "numero": "1007",
+  "fecha": "2022-08-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia n.º 0416 el 2 de agosto de 2022, en la que se abordó un caso de amparo constitucional relacionado con el desacato de un fallo anterior. Se ordenó la remisión del expediente al Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Lara para continuar con la ejecución del mandamiento de amparo. La decisión se fundamenta en la consulta previa establecida en la sentencia n.º 145 de 2019, la cual fue abandonada con carácter vinculante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "sentencia vinculante"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de desacato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1007_E20-0352.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345276-1007-27625-2025-20-0352.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.579896"
+}

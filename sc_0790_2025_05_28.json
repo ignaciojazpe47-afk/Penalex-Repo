@@ -1,0 +1,26 @@
+{
+  "id": 19990,
+  "numero": "0790",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los abogados Joxi Luis Robles y Herrera Edgar Ríos, en representación de los ciudadanos Euclides Francisco Hurtado y Jeferson Hurtado. La solicitud se fundamentó en presuntas irregularidades en el proceso penal que se sigue contra los mencionados ciudadanos ante el Juzgado Cuarto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Carabobo. La Sala, tras analizar la solicitud, determinó que no se cumplían los requisitos para avocarse al caso, declinando el conocimiento a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "debido_proceso",
+    "defensa",
+    "ministerio_publico",
+    "audiencia_preliminar",
+    "irregularidades",
+    "control_judicial",
+    "testigos"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0790_E25-0192.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344268-0790-28525-2025-25-0192.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.851522"
+}

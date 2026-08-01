@@ -1,0 +1,25 @@
+{
+  "id": 17755,
+  "numero": "0427",
+  "fecha": "2026-04-09",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por el abogado José Alberto Navarro Márquez, quien solicitó ampliaciones a la sentencia n.° 1623 dictada el 22 de octubre de 2025. La Sala argumenta que la solicitud no cumple con los requisitos establecidos en el Código de Procedimiento Civil, ya que no se evidencian dudas ni omisiones en la sentencia original que ameriten su corrección o ampliación. Se concluye que la solicitud desborda la finalidad de la figura de la aclaratoria.",
+  "palabras_clave": [
+    "aclaratoria",
+    "amparo",
+    "sentencia",
+    "procedimiento civil",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Solicitud de aclaratoria de la sentencia n.° 1623",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0427_E25-0355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354879-0427-9426-2026-25-0355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.027887"
+}

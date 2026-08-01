@@ -1,0 +1,24 @@
+{
+  "id": 22784,
+  "numero": "1734",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de ampliación de la sentencia N° 1311, dictada el 6 de agosto de 2025, en la que se declaró ha lugar la revisión constitucional interpuesta. La solicitante argumentó que la sentencia no restableció su posesión legítima del inmueble despojado. Sin embargo, la Sala consideró que la ampliación solicitada era improcedente, ya que no había nada más que resolver en el fallo original, el cual ya había anulado decisiones anteriores y ordenado la reposición del caso a un tribunal de primera instancia para que dictara una nueva decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "potestad extraordinaria",
+    "interpretación de normas",
+    "derechos constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre solicitud de ampliación de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1734_E24-0869.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349473-1734-31125-2025-24-0869.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.530013"
+}

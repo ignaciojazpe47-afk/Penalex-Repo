@@ -1,0 +1,22 @@
+{
+  "id": 66968,
+  "numero": "1324",
+  "fecha": "2015-10-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia número 402, dictada por la Sala de Casación Social. La inadmisibilidad se fundamenta en la falta de presentación de un poder judicial certificado que acredite la representación de la sociedad mercantil MERCK S.A. por parte de los abogados solicitantes. La Sala establece que la revisión constitucional es un mecanismo extraordinario y que la falta de legitimación de los solicitantes impide el ejercicio de esta acción judicial.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-27_S1324_E15-0948.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182267-1324-271015-2015-15-0948.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.407934"
+}

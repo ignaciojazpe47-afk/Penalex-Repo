@@ -1,0 +1,24 @@
+{
+  "id": 61200,
+  "numero": "1092",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el Ministerio Público en relación a la decisión del Consejo de Guerra Permanente de Maturín que declaró extinguida por prescripción la acción penal y terminada la averiguación sumarial sobre la desaparición forzada de Donato Antonio Carmona Natera. La Sala encontró que las decisiones estaban inmotivadas y presentaban contradicciones, lo que vulneraba derechos fundamentales y el acceso a la justicia. Se ordenó la reapertura de la investigación penal para determinar la posible responsabilidad de los autores de los hechos.",
+  "palabras_clave": [
+    "desaparición forzada",
+    "derechos humanos",
+    "prescripción",
+    "justicia",
+    "investigación penal"
+  ],
+  "titulo": "Revisión Constitucional sobre la desaparición forzada de Donato Antonio Carmona Natera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1092_E16-0403.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193959-1092-151216-2016-16-0403.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.080700"
+}

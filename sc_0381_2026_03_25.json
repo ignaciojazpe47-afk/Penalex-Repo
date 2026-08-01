@@ -1,0 +1,25 @@
+{
+  "id": 16886,
+  "numero": "0381",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 25 de marzo de 2026, se pronunció sobre la solicitud de revisión constitucional de las sentencias N° 55 y N° 265, dictadas por la Sala de Casación Penal. Se determinó que la Sala Constitucional es competente para conocer de la solicitud, dado que las sentencias impugnadas afectan derechos fundamentales de la parte solicitante. La decisión concluyó con la orden de remitir el expediente original del juicio para verificar las violaciones constitucionales denunciadas.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "valoración de pruebas",
+    "casación",
+    "tutela judicial efectiva",
+    "incongruencia negativa"
+  ],
+  "titulo": "Revisión Constitucional de Sentencias N° 55 y 265",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0381_E26-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354397-0381-25326-2026-26-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.566585"
+}

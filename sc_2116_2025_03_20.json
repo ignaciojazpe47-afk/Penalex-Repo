@@ -1,0 +1,27 @@
+{
+  "id": 23902,
+  "numero": "2116",
+  "fecha": "2025-03-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se declaró incompetente para conocer del recurso de casación interpuesto por María Eugenia Croquer Landaeta y Clemente José Marrero Gutiérrez, en contra de la decisión de la Sala Ocho de la Corte de Apelaciones que declaró sin lugar el recurso de apelación de una acción de amparo constitucional. La Sala argumentó que la competencia para conocer de estos recursos corresponde a la Sala Constitucional, según lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia y la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "fiscal",
+    "invasión",
+    "arrendamiento",
+    "SUNAVI",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre la incompetencia en recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2116_E25-0324.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351963-2116-121225-2025-25-0324.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.722166"
+}

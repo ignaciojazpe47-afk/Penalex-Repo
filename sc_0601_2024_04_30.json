@@ -1,0 +1,24 @@
+{
+  "id": 19583,
+  "numero": "0601",
+  "fecha": "2024-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de enero de 2020 por el Juzgado Superior Octavo del Trabajo, que había declarado sin lugar el recurso de apelación interpuesto por la Procuraduría General de la República. La revisión se fundamentó en la incongruencia omisiva y el silencio de pruebas, afectando el derecho a la defensa y al debido proceso. La Sala declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando que otro Juzgado Superior del Trabajo juzgue sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión",
+    "nulidad",
+    "laboral",
+    "debido proceso",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre revisión de nulidad laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0601_E23-0690.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343460-0601-30425-2025-23-0690.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.649147"
+}

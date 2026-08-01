@@ -1,0 +1,22 @@
+{
+  "id": 38090,
+  "numero": "1213",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional interpuesta por Elio César Burguera, apoderado de Murat Bora, contra la sentencia N° 223 de la Sala de Casación Penal, que declaró procedente la solicitud de extradición pasiva de Bora por parte de Turquía. La Sala concluyó que la decisión de la Sala de Casación Penal cumplió con los requisitos legales y principios constitucionales para la extradición, y que no se evidenció vulneración de derechos fundamentales ni de criterios vinculantes.",
+  "palabras_clave": [
+    "extradición",
+    "revisión constitucional",
+    "derechos fundamentales"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 223 sobre extradición pasiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1213_E18-0738.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322105-1213-151222-2022-18-0738.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.135462"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 44447,
+  "numero": "0345",
+  "fecha": "2019-11-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC. 000288 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por la demandada, MULTINACIONAL DE SEGUROS S.A., y revocado un fallo anterior. La revisión se fundamentó en alegaciones de violaciones al debido proceso y a la seguridad jurídica por parte de la Sala de Casación Civil al computar incorrectamente los plazos procesales. La Sala Constitucional, tras analizar los argumentos, decidió suspender los efectos de la sentencia impugnada y ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "casación",
+    "debido proceso",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-19_S0345_E19-0563.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308123-0345-191119-2019-19-0563.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.377210"
+}

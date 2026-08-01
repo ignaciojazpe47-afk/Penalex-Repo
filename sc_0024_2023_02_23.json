@@ -1,0 +1,24 @@
+{
+  "id": 28904,
+  "numero": "0024",
+  "fecha": "2023-02-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de febrero de 2023, se pronunció sobre la apelación interpuesta por la abogada Yoleide Baptista Muchacho en representación del ciudadano Jaime José Gaya Araujo, contra la decisión de la Corte de Apelaciones que declaró inadmisible la solicitud de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en la falta de pronunciamiento del Juzgado de Primera Instancia, alegando que no existió violación de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "violencia",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-23_S0024_E18-0135.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322822-0024-23223-2023-18-0135.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.295235"
+}

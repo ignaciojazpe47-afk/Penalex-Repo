@@ -1,0 +1,22 @@
+{
+  "id": 30584,
+  "numero": "0630",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró inadmisible la acción de amparo constitucional interpuesta por Sergio Luís Martínez, en su calidad de Director de la sociedad mercantil Pedal Power, C.A., contra dos decisiones del Juzgado Tercero de Primera Instancia. La primera decisión fue el auto de admisión de una demanda que no identificó a los demandados, y la segunda fue la medida cautelar de secuestro sobre un inmueble. La Sala consideró que la acción de amparo no era procedente, ya que el agravio alegado no cumplía con los requisitos establecidos para su admisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisible",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0630_E22-0647.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325718-0630-30523-2023-22-0647.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.920262"
+}

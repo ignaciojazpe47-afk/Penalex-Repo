@@ -1,0 +1,27 @@
+{
+  "id": 34059,
+  "numero": "1166",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia n.° RC.000580, dictada por la Sala de Casación Civil, que declaró con lugar un recurso extraordinario de casación. La parte solicitante alegó que la juez de alzada incurrió en un error de interpretación al considerar que el lapso de caducidad para demandar la nulidad de una asamblea comenzaba a contarse desde la publicación del acto inscrito, cuando en realidad debía contarse desde la publicación del acto registrado. La Sala Constitucional determinó que la interpretación de la Sala de Casación Civil fue correcta y que la solicitud de revisión no contribuía a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "caducidad",
+    "prescripción",
+    "nulidad",
+    "asamblea",
+    "registro",
+    "publicación",
+    "acción",
+    "derecho"
+  ],
+  "titulo": "Revisión de sentencia de casación sobre nulidad de acta de asamblea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1166_E16-1147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328370-1166-14823-2023-16-1147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.873687"
+}

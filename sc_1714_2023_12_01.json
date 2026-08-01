@@ -1,0 +1,22 @@
+{
+  "id": 33211,
+  "numero": "1714",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Williams Hernando Zang Hernández, quien había solicitado un amparo constitucional contra una sentencia del Juzgado Superior en lo Civil, Mercantil, Tránsito, Bancario y Marítimo del Estado Sucre. La acción fue declarada inadmisible por el tribunal inferior, lo que motivó la apelación. La Sala Constitucional, tras analizar el caso, determinó que el apelante no había agotado las vías judiciales ordinarias antes de recurrir al amparo, lo que llevó a la inadmisibilidad de su acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1714_E23-0014.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330960-1714-11223-2023-23-0014.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.169518"
+}

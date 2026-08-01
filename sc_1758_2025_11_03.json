@@ -1,0 +1,27 @@
+{
+  "id": 22809,
+  "numero": "1758",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por el abogado Marco Antonio Hernández Bolívar en representación de Alexander Leonel Pereira de Almada. La acción se dirigía contra dos decisiones de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui, que declararon inadmisible una recusación y confirmaron una sentencia que desestimó excepciones planteadas por la defensa. La Sala concluye que no se han demostrado violaciones a derechos constitucionales.",
+  "palabras_clave": [
+    "inmovilización",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "Código Orgánico Procesal Penal",
+    "Ley de Abogados",
+    "debido proceso",
+    "poder",
+    "querella"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1758_E25-0934.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349498-1758-31125-2025-25-0934.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.529317"
+}

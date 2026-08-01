@@ -1,0 +1,24 @@
+{
+  "id": 40997,
+  "numero": "0003",
+  "fecha": "2020-01-29",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la nulidad absoluta del Decreto N° 18, emitido por Juan Guaidó, que pretendía crear una Comisión para la Reorganización de TELESUR VENEZUELA. Se argumenta que dicho decreto usurpa funciones del Presidente de la República y viola varios artículos de la Constitución. La Sala también prohíbe la salida del país y la enajenación de bienes de los ciudadanos designados en el decreto, y ordena medidas para proteger la actividad de TELESUR.",
+  "palabras_clave": [
+    "TELESUR",
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Guaidó",
+    "Comisión"
+  ],
+  "titulo": "Nulidad del Decreto N° 18 de fecha 15 de enero de 2020",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-01-29_S0003_E20-0038.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/309498-0003-29120-2020-20-0038.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.801566"
+}

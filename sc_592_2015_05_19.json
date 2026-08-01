@@ -1,0 +1,24 @@
+{
+  "id": 63958,
+  "numero": "592",
+  "fecha": "2015-05-19",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo interpuesta por los ciudadanos JOSÉ LUIS CEDEÑO, ULICES MARTÍNEZ y LUIS BELTRÁN CALDERÓN MEJÍAS contra la organización política Mesa de la Unidad Democrática (MUD). La acción se fundamenta en la supuesta violación de derechos políticos y de participación en el proceso electoral, alegando que la MUD no permitió la realización de elecciones primarias adecuadas para la selección de candidatos a la Asamblea Nacional.\n\nLa Sala concluye que la competencia para conocer de esta acción corresponde a la Sala Electoral del Tribunal Supremo de Justicia, dado que la demanda no fue dirigida contra los órganos electorales establecidos en la ley. Por lo tanto, se declina la competencia y se ordena remitir el expediente a la Sala Electoral para su consideración.\n\nLa decisión se fundamenta en la normativa vigente que regula las competencias de las distintas salas del Tribunal Supremo de Justicia, así como en precedentes que establecen la naturaleza electoral de las acciones contra la MUD en contextos similares.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Mesa de la Unidad Democrática",
+    "Derechos Políticos",
+    "Elecciones Primarias",
+    "Incompetencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra la MUD",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-05-19_S592_E15-0291.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/177470-592-19515-2015-15-0291.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:33.806951"
+}

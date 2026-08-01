@@ -1,0 +1,24 @@
+{
+  "id": 43567,
+  "numero": "0238",
+  "fecha": "2019-07-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 14 de noviembre de 2017, que había declarado con lugar el recurso de apelación interpuesto por el demandado, revocando el fallo anterior que ordenaba el cumplimiento de un contrato de opción de compra-venta. La Sala encontró que la decisión apelada violaba principios de seguridad jurídica y tutela judicial efectiva, al aplicar retroactivamente un criterio jurisprudencial que no estaba vigente al momento de la celebración del contrato. En consecuencia, se declaró con lugar la revisión y se anuló la sentencia impugnada, manteniendo firme la decisión del 28 de abril de 2017 que ordenaba el cumplimiento del contrato.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "opción de compra-venta",
+    "seguridad jurídica",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de opción de compra-venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-18_S0238_E17-1256.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/306372-0238-18719-2019-17-1256.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.407819"
+}

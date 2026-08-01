@@ -1,0 +1,23 @@
+{
+  "id": 44978,
+  "numero": "0511",
+  "fecha": "2019-12-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia n.° 17-0897, declara inadmisible la acción de amparo constitucional interpuesta por Ysbeth Carolina Quijada Calanche contra las resoluciones n.° 170607-118 y n.° 170607-119 del Consejo Nacional Electoral. La Sala acepta la declinatoria de competencia del Tribunal Superior Estadal Contencioso Administrativo de Aragua, considerando que las resoluciones impugnadas son de naturaleza constitucional y deben ser conocidas por la Sala Constitucional.\n\nSe argumenta que las resoluciones en cuestión, que convocan a una Asamblea Nacional Constituyente, ya fueron objeto de pronunciamiento previo por parte de la Sala, lo que genera cosa juzgada. Por lo tanto, se concluye que no es procedente la acción de amparo, ya que se ha establecido que los actos del Consejo Nacional Electoral son constitucionales y válidos.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Consejo Nacional Electoral",
+    "Asamblea Nacional Constituyente",
+    "cosa juzgada"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra resoluciones del Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-18_S0511_E17-0897.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309236-0511-181219-2019-17-0897.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.806703"
+}

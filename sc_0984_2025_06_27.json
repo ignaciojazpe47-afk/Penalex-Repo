@@ -1,0 +1,25 @@
+{
+  "id": 20584,
+  "numero": "0984",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la demanda de nulidad parcial interpuesta por José Caracciolo Junior Urdaneta Martínez contra la Guía Única de Movilización Seguimiento y Control emitida por SUNAGRO. Se argumenta que la competencia corresponde a un Juzgado Nacional de la Jurisdicción Contencioso Administrativa, dado que el acto administrativo impugnado es de una autoridad distinta a las mencionadas en la ley. La Sala declina la competencia y ordena la remisión del expediente al juzgado correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "nulidad",
+    "acción de amparo",
+    "administración pública",
+    "derechos constitucionales",
+    "jurisdicción contencioso administrativa"
+  ],
+  "titulo": "Sentencia sobre la competencia para conocer de la demanda de nulidad parcial contra SUNAGRO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0984_E25-0448.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345253-0984-27625-2025-25-0448.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.306595"
+}

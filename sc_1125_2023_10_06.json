@@ -1,0 +1,23 @@
+{
+  "id": 28036,
+  "numero": "1125",
+  "fecha": "2023-10-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 569, declara sin lugar la revisión constitucional solicitada por la sociedad mercantil INVERSORA HILDI C.A. contra la sentencia de la Sala de Casación Civil, que había declarado la caducidad de la acción de nulidad de un documento de compra venta. La Sala concluye que no se evidencian violaciones a derechos fundamentales ni errores en la interpretación de normas constitucionales, reafirmando que la caducidad de la acción se fundamenta en el artículo 1.346 del Código Civil, que establece un lapso de cinco años para la nulidad de convenciones. La decisión se basa en la correcta aplicación de la ley y la falta de elementos que justifiquen la revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "caducidad",
+    "nulidad de documento",
+    "Código Civil"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 569 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1125_E24-0305.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339705-1125-281124-2024-24-0305.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.208012"
+}

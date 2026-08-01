@@ -1,0 +1,25 @@
+{
+  "id": 45026,
+  "numero": "0028",
+  "fecha": "2017-01-12",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La sentencia se refiere a la acción de amparo constitucional presentada por Marcos Alexander Macías García contra una decisión del Juzgado Primero Superior del Trabajo que declaró sin lugar su recurso de apelación. El demandante alegó violaciones a sus derechos laborales y solicitó el reenganche y pago de salarios caídos tras ser despedido. La Sala Constitucional, tras analizar los argumentos, decidió confirmar el fallo del tribunal inferior, declarando sin lugar el recurso de apelación interpuesto por el demandante.",
+  "palabras_clave": [
+    "inseguridad juridica",
+    "derechos constitucionales",
+    "actos administrativos",
+    "reenganche",
+    "estabilidad laboral",
+    "interpretacion de normas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0028_E17-0075.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206882-0028-17118-2018-17-0075.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.258659"
+}

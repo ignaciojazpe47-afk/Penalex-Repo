@@ -1,0 +1,25 @@
+{
+  "id": 34338,
+  "numero": "0017",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "El ciudadano Edgar Alexander Quijada, en su calidad de Presidente de la organización política 'Movimiento Liberador Sucre Despierta', interpuso una acción de amparo constitucional contra el Consejo Nacional Electoral (CNE) por la presunta violación de su derecho a la postulación y participación política en las elecciones regionales del 21 de noviembre de 2021. La Sala Constitucional del TSJ determinó su competencia para conocer el caso, pero declaró inadmisible la acción, argumentando que existía un recurso contencioso electoral idóneo que debía ser agotado previamente por el accionante.",
+  "palabras_clave": [
+    "amparo",
+    "derechos políticos",
+    "CNE",
+    "recurso contencioso",
+    "participación política",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional interpuesta por Edgar Alexander Quijada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0017_E21-0602.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315529-0017-11222-2022-21-0602.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.715849"
+}

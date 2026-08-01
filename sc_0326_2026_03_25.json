@@ -1,0 +1,25 @@
+{
+  "id": 17623,
+  "numero": "0326",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de hecho interpuesto por Michel Lepinoux Chupeau contra la decisión del Juzgado Superior Primero en lo Civil, que declaró improponible un recurso de apelación en un juicio de amparo. La Sala, tras analizar el caso, determinó que no existe la posibilidad de un segundo recurso de apelación en los juicios de amparo, lo que llevó a declarar improponible el recurso presentado. Finalmente, se ordenó remitir el expediente al juzgado de origen para los fines legales correspondientes.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "apelación",
+    "recursos",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre recurso de hecho en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0326_E25-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354306-0326-25326-2026-25-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.563274"
+}

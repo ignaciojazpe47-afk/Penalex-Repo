@@ -1,0 +1,26 @@
+{
+  "id": 26878,
+  "numero": "0410",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Neil Jesús Reaño García, quien actuaba como apoderado de NYC CONSTRUCCIONES, C.A. La inadmisibilidad se fundamenta en la falta de legitimidad del abogado para actuar en el presente asunto, ya que no presentó copia certificada del poder que acreditara su representación. La decisión se basa en el artículo 133.3 de la Ley Orgánica del Tribunal Supremo de Justicia, que exige la presentación de documentos fehacientes para la admisión de solicitudes de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "carga procesal",
+    "poder",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0410_E23-0019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338182-0410-241024-2024-23-0019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.490385"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30780,
+  "numero": "0728",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un recurso de amparo interpuesto por María Fernanda Escalona Escalona contra decisiones del Tribunal de Primera Instancia de Juicio en un caso de violencia de género. La Corte de Apelaciones había declarado con lugar la acción de amparo, pero remitió erróneamente el recurso a la Sala de Casación Penal, que no era competente. La Sala Constitucional determinó su competencia para conocer el caso y ordenó la remisión del expediente original para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "violencia de género",
+    "derechos humanos",
+    "justicia",
+    "tribunales",
+    "mujer"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0728_E20-0273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325999-0728-9623-2023-20-0273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.407600"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33512,
+  "numero": "1846",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Nula",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por el abogado Carlos Enrique Sifontes Brito, en representación de la sociedad mercantil REPRESENTACIONES SEA COAST, C.A., contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Anzoátegui, que había declarado parcialmente con lugar un recurso de apelación en un caso de desalojo. La Sala consideró que la decisión impugnada vulneró el derecho a la tutela judicial efectiva y al debido proceso, ya que no se valoraron adecuadamente las pruebas presentadas, lo que llevó a la nulidad de la sentencia en cuestión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "tutela judicial efectiva",
+    "due process"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1846_E23-1017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331381-1846-81223-2023-23-1017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.469769"
+}

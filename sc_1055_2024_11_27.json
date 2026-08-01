@@ -1,0 +1,26 @@
+{
+  "id": 27942,
+  "numero": "1055",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la acción de amparo constitucional interpuesta por María Mercedes Tibisay Martínez Verastegui, en representación de su hijo menor, contra el Tribunal Quinto Itinerante Estadal de Primera Instancia. La accionante alegó violaciones al debido proceso y al derecho a la defensa debido a la falta de notificación personal de la víctima en un proceso penal. La Sala decide declinar la competencia a una de las Cortes de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas y ordena la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "debido_proceso",
+    "justicia",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1055_E24-0533.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339573-1055-271124-2024-24-0533.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.130754"
+}

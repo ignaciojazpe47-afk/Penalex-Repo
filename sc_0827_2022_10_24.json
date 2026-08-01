@@ -1,0 +1,27 @@
+{
+  "id": 36891,
+  "numero": "0827",
+  "fecha": "2022-10-24",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara SIN LUGAR el recurso de apelación interpuesto por Anderson Peinero Guzmán contra la sentencia del Juzgado Superior que declaró inadmisible la acción de amparo constitucional. Se argumenta que el demandante tenía a su disposición otros recursos judiciales ordinarios que no fueron agotados, lo que lleva a la inadmisibilidad de la acción de amparo. La decisión se fundamenta en el interés superior de los niños y en la necesidad de respetar los procedimientos establecidos por la ley.",
+  "palabras_clave": [
+    "interes superior",
+    "niños",
+    "amparo",
+    "debido proceso",
+    "tutela judicial",
+    "derechos",
+    "constitucion",
+    "libertad de transito"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-24_S0827_E18-0618.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320209-0827-241022-2022-18-0618.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.093055"
+}

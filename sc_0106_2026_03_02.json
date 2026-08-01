@@ -1,0 +1,26 @@
+{
+  "id": 16195,
+  "numero": "0106",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 26 dictada el 16 de febrero de 2024, que declaró sin lugar el recurso de casación interpuesto por Luis Francisco Millán contra una decisión del Juzgado Superior en lo Civil. La Sala concluyó que la sentencia cuestionada no incurrió en errores de interpretación constitucional ni en violaciones de derechos fundamentales, y que el rechazo de las denuncias por falta de técnica casacional era procedente. Por lo tanto, se declaró NO HA LUGAR la solicitud de revisión.",
+  "palabras_clave": [
+    "casación",
+    "formalismo",
+    "derecho a la defensa",
+    "motivación",
+    "Código de Procedimiento Civil",
+    "infracción de ley",
+    "acceso a la justicia"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 26 dictada por la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0106_E24-0523.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353094-0106-2326-2026-24-0523.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.596658"
+}

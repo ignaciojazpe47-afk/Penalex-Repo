@@ -1,0 +1,25 @@
+{
+  "id": 37511,
+  "numero": "1033",
+  "fecha": "2022-11-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Luis Antonio Ojeda Guzmán, representante de la empresa Auto Partes El Llacin, C.A., contra la decisión de la Corte de Apelaciones del Área Metropolitana de Caracas, dictada el 15 de noviembre de 2021. La acción fue considerada inadmisible debido a que el demandante había optado por recurrir a la vía judicial ordinaria, interponiendo un recurso de casación el 3 de diciembre de 2021, lo que impide la admisión de la acción de amparo según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "estafa",
+    "sobreseimiento",
+    "derecho penal",
+    "debido proceso",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-22_S1033_E21-0826.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320938-1033-221122-2022-21-0826.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.335993"
+}

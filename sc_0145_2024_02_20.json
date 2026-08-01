@@ -1,0 +1,25 @@
+{
+  "id": 24273,
+  "numero": "0145",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Quinto que declaró sin lugar el recurso de apelación interpuesto por la sociedad mercantil Distribuidora Errefe, C.A. contra la decisión que declaró con lugar la acción de desalojo por falta de pago. La Sala determinó que el procedimiento seguido no cumplió con las normas aplicables, afectando el derecho a la defensa y el debido proceso de la parte demandada. En consecuencia, se anula la sentencia del 13 de febrero de 2023 y se ordena la reposición del caso para que otro tribunal competente decida sobre la admisión del juicio de desalojo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "debido proceso",
+    "tutela judicial",
+    "arrendamiento",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0145_E23-0589.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332654-0145-20224-2024-23-0589.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.559866"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28476,
+  "numero": "1381",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, decidió sobre la solicitud de revisión constitucional presentada por Antonio María Claret González Gutiérrez, en relación a la sentencia número 00918 dictada por la Sala Político Administrativa. En esta sentencia, se declaró improcedente la inadmisibilidad de la demanda de nulidad interpuesta por la Procuraduría General de la República y se declaró firme el acto administrativo impugnado.\n\nLa Sala Constitucional concluyó que no se cumplían los elementos necesarios para declarar la procedencia de la solicitud de revisión, ya que la decisión de la Sala Político Administrativa no contradecía ninguna sentencia previa ni incurrió en excesos interpretativos que vulneraran derechos constitucionales. Por lo tanto, se declaró que la solicitud de revisión no tenía lugar.\n\nFinalmente, se reafirmó la competencia de la Sala Constitucional para conocer de la solicitud y se ordenó el archivo del expediente, dejando claro que la revisión no constituye una tercera instancia, sino una potestad extraordinaria para garantizar la uniformidad de criterios constitucionales.",
+  "palabras_clave": [
+    "derecho administrativo",
+    "debido proceso",
+    "nulidad",
+    "tutela judicial",
+    "sentencia",
+    "arrendamiento",
+    "libertad económica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1381_E24-0268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340487-1381-121224-2024-24-0268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.824829"
+}

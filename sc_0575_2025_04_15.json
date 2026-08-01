@@ -1,0 +1,23 @@
+{
+  "id": 19473,
+  "numero": "0575",
+  "fecha": "2025-04-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1023, declaró con lugar la apelación interpuesta por ABOGADOS SÁNCHEZ & ASOCIADOS contra el fallo del Juzgado Superior Quinto, que había declarado improcedente la acción de amparo constitucional. La Sala revocó la decisión apelada y declaró inadmisible la acción de amparo, conservando los efectos de la medida cautelar de secuestro decretada el 22 de enero de 2024. Se argumentó que existían recursos ordinarios que no fueron utilizados por el accionante, lo que llevó a la inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "medida cautelar",
+    "secuestro",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-15_S0575_E24-0222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343180-0575-15425-2025-24-0222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.040440"
+}

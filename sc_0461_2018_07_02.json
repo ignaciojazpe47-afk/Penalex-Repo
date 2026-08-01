@@ -1,0 +1,24 @@
+{
+  "id": 47415,
+  "numero": "0461",
+  "fecha": "2018-07-02",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por el abogado Santiago Gutiérrez Hernández en defensa de Nelson Rafael Agüero Castillo, quien alegó violaciones a su derecho al debido proceso. La Corte de Apelaciones había declarado inadmisible la demanda de amparo, lo que motivó la apelación. La Sala Constitucional, al revisar el caso, constató que la decisión del Juzgado Sexto de Primera Instancia carecía de motivación adecuada, lo que vulneraba los derechos fundamentales del demandado.\n\nEl Tribunal Supremo de Justicia, al confirmar la decisión de la Corte de Apelaciones que había declarado con lugar la demanda de amparo, ordenó la celebración de una nueva audiencia preliminar ante un juez distinto, garantizando así el respeto a los derechos constitucionales del demandado. La sentencia subraya la importancia de la motivación en las decisiones judiciales y el derecho a la defensa en el proceso penal.\n\nFinalmente, se declaró sin lugar el recurso de apelación interpuesto por el abogado José Gregorio Ocanto Carrasco, representante de las víctimas, confirmando la decisión de la Corte de Apelaciones que había admitido el amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "estafa calificada",
+    "Corte de Apelaciones",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de estafa calificada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-07-02_S0461_E18-0008.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/212492-0461-2718-2018-18-0008.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.056998"
+}

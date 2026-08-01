@@ -1,0 +1,22 @@
+{
+  "id": 42336,
+  "numero": "0049",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Contencioso-Administrativo",
+  "decision": "INCOMPETENTE",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para resolver el conflicto de competencia entre el Juzgado Superior Primero en lo Civil y Contencioso Administrativo y el Juzgado Décimo Segundo de Primera Instancia de Juicio del Trabajo. La decisión se fundamenta en la naturaleza del caso, que involucra un recurso de nulidad interpuesto por Aminta Román Valero contra un acto administrativo de remoción de su cargo en el Ministerio del Poder Popular para la Mujer y la Igualdad de Género. La Sala Plena del TSJ asumirá el conocimiento del conflicto de competencia.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "recurso de nulidad",
+    "actos administrativos"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0049_E17-1212.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303987-0049-27219-2019-17-1212.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.607282"
+}

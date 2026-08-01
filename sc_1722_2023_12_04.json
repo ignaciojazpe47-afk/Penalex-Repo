@@ -1,0 +1,22 @@
+{
+  "id": 33219,
+  "numero": "1722",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por KA LEE LAU, asistido por la abogada Raquel Martínez, contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo constitucional por inepta acumulación de pretensiones. La Sala confirmó la decisión apelada, argumentando que la acción de amparo fue ejercida contra dos sujetos distintos, lo que configuró una inepta acumulación, ya que no se puede acumular en un solo escrito pretensiones que correspondan a distintos órganos jurisdiccionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1722_E21-0384.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330968-1722-41223-2023-21-0384.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.159940"
+}

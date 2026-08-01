@@ -1,0 +1,23 @@
+{
+  "id": 32992,
+  "numero": "1561",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por la Fundación Frida Mercedes Valentin, representada por sus abogados, contra una sentencia del Juzgado Primero Superior del Trabajo. La decisión se basa en que la solicitud no cumple con los requisitos establecidos en la ley, ya que la sentencia en cuestión ya había sido objeto de análisis constitucional previo, lo que genera cosa juzgada. La Sala reafirma que la revisión constitucional es un recurso extraordinario y que la solicitud no presenta fundamentos suficientes para su admisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia inadmisible",
+    "cosa juzgada",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1561_E17-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330616-1561-271123-2023-17-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.424687"
+}

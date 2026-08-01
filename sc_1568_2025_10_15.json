@@ -1,0 +1,24 @@
+{
+  "id": 22228,
+  "numero": "1568",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Tribunal Primero de Primera Instancia en Funciones de Control y la Sala n.° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, en relación a una acción de amparo constitucional en la modalidad de habeas corpus interpuesta por las abogadas Lyli López y Úrsula María Mujica Colmenarez. La Sala declaró su competencia para conocer del caso, argumentando que la acción de amparo se fundamenta en la decisión judicial que emitió una orden de aprehensión contra el ciudadano William Alexander Izarra Mujica, la cual carecía de la firma del juez correspondiente, lo que vulneraba sus derechos constitucionales a la libertad y al debido proceso.\n\nLa Sala también destacó que, al no existir un tribunal superior común entre los órganos jurisdiccionales involucrados, le corresponde a la Sala Constitucional dirimir el conflicto. Finalmente, se ordenó remitir el expediente a la Corte de Apelaciones para que esta decidiera sobre la acción de amparo constitucional planteada, reafirmando la importancia de la tutela judicial efectiva y el respeto a los derechos fundamentales en el proceso judicial.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "habeas corpus",
+    "derechos fundamentales",
+    "Carabobo"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1568_E25-0385.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348681-1568-151025-2025-25-0385.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.761976"
+}

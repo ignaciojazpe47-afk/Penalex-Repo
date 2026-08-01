@@ -1,0 +1,26 @@
+{
+  "id": 16205,
+  "numero": "0123",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por los abogados de Rafael Ramón Medina, quien alegaba graves violaciones al debido proceso en un juicio civil. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso, declinando el conocimiento a la Sala de Casación Civil. La decisión se fundamenta en que las irregularidades denunciadas no involucraban competencias exclusivas de la Sala Constitucional.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "medida provisional",
+    "fraude procesal",
+    "competencia",
+    "avocamiento",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0123_E24-0370.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353113-0123-2326-2026-24-0370.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.383676"
+}

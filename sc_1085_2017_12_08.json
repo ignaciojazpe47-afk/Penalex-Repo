@@ -1,0 +1,23 @@
+{
+  "id": 55211,
+  "numero": "1085",
+  "fecha": "2017-12-08",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una demanda de amparo presentada por varias asociaciones y ciudadanos en defensa de la libertad de expresión e información, alegando la negativa del Complejo Editorial Alfredo Maneiro S.A. de suministrar papel periódico al Diario 'El Carabobeño'. La Sala determinó que la situación denunciada no tiene relevancia nacional, ya que sus efectos son regionales, y por lo tanto, se declaró incompetente para conocer de la demanda. Se ordenó la remisión del expediente a un Juzgado de Primera Instancia en lo Civil de la Circunscripción Judicial del Estado Carabobo.",
+  "palabras_clave": [
+    "libertad de expresión",
+    "derechos difusos",
+    "discriminación",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre la demanda de amparo por derechos e intereses difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-12-08_S1085_E16-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/206255-1085-81217-2017-16-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.279452"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38094,
+  "numero": "1217",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Escarlet Guillermina Ybarra del Mar, contra la decisión de la Corte de Apelaciones que declaró sin lugar el recurso de apelación por desistimiento de la querella. La Sala consideró que la Corte de Apelaciones actuó dentro de su competencia al confirmar el desistimiento, ya que los abogados de la parte actora no comparecieron a la audiencia de juicio sin justificación. La decisión se fundamentó en la falta de citación a la víctima y la representación legal, lo que llevó a la conclusión de que no se vulneraron derechos constitucionales.",
+  "palabras_clave": [
+    "debido_proceso",
+    "incongruencia",
+    "citación",
+    "victima",
+    "apelación",
+    "derechos_humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1217_E21-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322109-1217-151222-2022-21-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.139551"
+}

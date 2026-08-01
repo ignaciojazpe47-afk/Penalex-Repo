@@ -1,0 +1,27 @@
+{
+  "id": 45230,
+  "numero": "0066",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la sentencia N° 2017-408 de la Corte Segunda de lo Contencioso Administrativo, que declaró firme un fallo apelado. El abogado Humberto José Rodríguez Uvieda, actuando como Síndico Procurador del Municipio Atures, solicitó la revisión por presuntas violaciones al debido proceso y derechos constitucionales. La Sala determina su competencia para conocer la solicitud y ordena al solicitante consignar copia certificada del trámite en un plazo determinado.",
+  "palabras_clave": [
+    "jubilaciones",
+    "pensiones",
+    "debido proceso",
+    "revisión",
+    "competencia",
+    "derecho a la defensa",
+    "Corte Segunda",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0066_E17-1124.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207242-0066-31118-2018-17-1124.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.459364"
+}

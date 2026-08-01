@@ -1,0 +1,26 @@
+{
+  "id": 22787,
+  "numero": "1737",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de noviembre de 2025, declaró inadmisible la acción de amparo constitucional interpuesta por los abogados de Aimara Beatriz Urdaneta Rodríguez. La inadmisibilidad se fundamentó en la falta de representación judicial adecuada, ya que los apoderados no contaban con el poder necesario para actuar en nombre de la accionante. Además, se observó que la acción se encontraba caducada, dado que había transcurrido más de seis meses desde que la parte actora tuvo conocimiento de la decisión judicial impugnada, dictada en 1970.",
+  "palabras_clave": [
+    "amparo",
+    "poder judicial",
+    "caducidad",
+    "representación",
+    "acción constitucional",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1737_E25-0064.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349476-1737-31125-2025-25-0064.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.524491"
+}

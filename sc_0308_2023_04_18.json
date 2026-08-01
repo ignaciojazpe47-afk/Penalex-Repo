@@ -1,0 +1,24 @@
+{
+  "id": 29775,
+  "numero": "0308",
+  "fecha": "2023-04-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Tribunal Superior en lo Civil y el Tribunal Tercero de Primera Instancia de Juicio del Trabajo del Estado Sucre. La acción de amparo constitucional fue interpuesta por la abogada María de Fátima Rodríguez Coelho, quien alegó violaciones a los derechos al debido proceso y a la defensa al no poder representar a su cliente en un juicio. El Tribunal Superior se declaró incompetente, remitiendo el caso al Tribunal Laboral, lo que generó el conflicto que fue resuelto por la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "derechos laborales",
+    "competencia",
+    "tribunales",
+    "garantías constitucionales"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0308_E23-0011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324395-0308-18423-2023-23-0011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.816150"
+}

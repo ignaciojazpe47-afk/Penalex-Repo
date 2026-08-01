@@ -1,0 +1,23 @@
+{
+  "id": 66252,
+  "numero": "1160",
+  "fecha": "2015-08-14",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "No Ha Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de agosto de 2015, declaró 'No Ha Lugar' la solicitud de revisión interpuesta por los apoderados de Pedro Romero Velásquez contra la sentencia del 3 de julio de 2014 del Juzgado Superior Civil, Mercantil y Tránsito de Anzoátegui. La parte solicitante alegó que la sentencia era nula por incompetencia del tribunal en razón de la cuantía, argumentando que la demanda debió ser presentada ante un Juzgado de Municipio debido a que no excedía las tres mil unidades tributarias.\n\nLa Sala precisó que la incompetencia por cuantía debe ser alegada en primera instancia y, al no haberse hecho, se consolidó la competencia del Juzgado Superior. Además, se destacó que la revisión no es un medio ordinario y que la Sala debe actuar con prudencia en la admisión de solicitudes de revisión, buscando la uniformidad en la interpretación de normas constitucionales.\n\nFinalmente, la Sala concluyó que no se evidenciaron infracciones constitucionales en la sentencia objeto de revisión, por lo que se mantuvo la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incompetencia",
+    "cuantía",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-14_S1160_E14-1207.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/181158-1160-14815-2015-14-1207.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.230374"
+}

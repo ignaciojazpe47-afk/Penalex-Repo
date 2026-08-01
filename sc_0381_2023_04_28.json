@@ -1,0 +1,23 @@
+{
+  "id": 29972,
+  "numero": "0381",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional presentada por Jair De Freitas De Jesús, quien alegó violaciones a sus derechos y garantías constitucionales en relación con la custodia y convivencia con sus hijas durante la pandemia. El Tribunal Constitucional, tras analizar el caso, concluyó que la acción era improcedente, ya que no se evidenciaron violaciones a derechos fundamentales que justificaran la intervención del amparo. Se destacó que el interés superior de las niñas debía prevalecer y que el procedimiento ordinario debía seguir su curso.",
+  "palabras_clave": [
+    "amparo",
+    "custodia",
+    "interés superior",
+    "pandemia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0381_E20-0374.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324651-0381-28423-2023-20-0374.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.809537"
+}

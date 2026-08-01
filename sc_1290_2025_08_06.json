@@ -1,0 +1,24 @@
+{
+  "id": 21430,
+  "numero": "1290",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada la acción de amparo constitucional por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por los ciudadanos Giuseppe Muro Colitto, Pasqualina Colitto de Muro y Marisa Muro Colitto. La acción fue presentada en contra de una decisión del Juzgado Superior Undécimo en lo Civil, Mercantil, Tránsito, Bancario y Marítimo, que había declarado con lugar un recurso de apelación. Sin embargo, se constató que desde la interposición de la acción hasta la fecha de la decisión habían transcurrido más de seis meses sin que los accionantes manifestaran interés en continuar con el proceso, lo que fue calificado como abandono del trámite.\n\nLa Sala, al considerar que la falta de actuación por parte de los demandantes implicaba la pérdida de interés en la tutela constitucional solicitada, declaró terminado el procedimiento por abandono del trámite. Además, se impuso una multa a la parte actora por la cantidad de dos mil bolívares, a ser pagados a favor de la Tesorería Nacional, y se ordenó la notificación correspondiente.\n\nFinalmente, se ordenó la remisión de copia de la decisión al juzgado de origen y se archivó el expediente, cumpliendo con lo dispuesto en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "interes",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1290_E24-0767.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346952-1290-6825-2025-24-0767.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.769764"
+}

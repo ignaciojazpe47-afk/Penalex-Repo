@@ -1,0 +1,26 @@
+{
+  "id": 22773,
+  "numero": "1723",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por los apoderados de varios ciudadanos contra una sentencia de la Corte de Apelaciones. La Corte de Apelaciones había declarado parcialmente con lugar un recurso de apelación, pero la Sala Constitucional determinó que la decisión no vulneró derechos constitucionales y que la pretensión de los accionantes no cumplía con los requisitos de procedencia establecidos en la ley. Se ordena la publicación y registro de la decisión.",
+  "palabras_clave": [
+    "debido_proceso",
+    "defensa",
+    "Corte_de_Apelaciones",
+    "COPP",
+    "recurso_de_apelación",
+    "actos_irritos",
+    "herencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1723_E25-0673.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349462-1723-31125-2025-25-0673.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.525346"
+}

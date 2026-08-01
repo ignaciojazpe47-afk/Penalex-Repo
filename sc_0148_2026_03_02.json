@@ -1,0 +1,23 @@
+{
+  "id": 17612,
+  "numero": "0148",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por la abogada Diomar Silva, representante de la víctima Milexa Jacqueline García Peralta, contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del estado Lara. La Corte había declarado sin lugar la querella presentada por la víctima, lo que se consideró una violación al derecho al debido proceso y a la tutela judicial efectiva. La Sala anula parcialmente la decisión impugnada y ordena la reposición del caso para que se emita un nuevo pronunciamiento sobre la admisibilidad de la querella.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "querella"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0148_E25-0567.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353144-0148-2326-2026-25-0567.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.384845"
+}

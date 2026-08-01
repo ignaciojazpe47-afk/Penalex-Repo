@@ -1,0 +1,22 @@
+{
+  "id": 41443,
+  "numero": "0130",
+  "fecha": "2020-05-22",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 0064 el 22 de mayo de 2020, en respuesta a una acción de amparo constitucional presentada por ciudadanos en defensa de derechos e intereses colectivos relacionados con la suspensión del servicio de televisión por parte de Galaxy Entertainment de Venezuela. La decisión establece la competencia de la Sala para conocer el caso y admite la acción de amparo, ordenando medidas cautelares para garantizar la continuidad del servicio de televisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "servicio de televisión",
+    "derechos colectivos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra suspensión de servicio de televisión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-09-11_S0130_E20-0202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/310103-0130-11920-2020-20-0202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.127981"
+}

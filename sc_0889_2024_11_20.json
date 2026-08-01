@@ -1,0 +1,26 @@
+{
+  "id": 27682,
+  "numero": "0889",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente In Limine Litis",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Humberto José Pérez contra decisiones del Juzgado Superior Accidental en lo Civil, Mercantil, del Tránsito, Bancario y de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Apure. Se argumentó que el juzgado vulneró el derecho al debido proceso al no tramitar los edictos para citar a los herederos desconocidos del codemandante Juan Bautista Rivas Belisario, lo que llevó a la subversión del proceso judicial. La Sala declaró procedente la acción de amparo y anuló la decisión del juzgado que había dictado sentencia definitiva sin cumplir con los requisitos legales.",
+  "palabras_clave": [
+    "suspension",
+    "debido_proceso",
+    "herederos",
+    "edictos",
+    "pandemia",
+    "jurisprudencia",
+    "Código_de_Procedimiento_Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0889_E21-0466.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339165-0889-201124-2024-21-0466.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.192647"
+}

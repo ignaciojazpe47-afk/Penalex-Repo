@@ -1,0 +1,26 @@
+{
+  "id": 19584,
+  "numero": "0602",
+  "fecha": "2025-04-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una solicitud de avocamiento presentada por el abogado Cristian Izaguirre en representación de María De Los Ángeles González Herdee. La solicitud se basó en presuntos desórdenes procesales en un juicio de partición y liquidación de comunidad concubinaria ante el Tribunal 14° de Primera Instancia. La Sala, tras analizar la competencia, decidió declararse incompetente para conocer del caso y declinó el conocimiento a la Sala de Casación Social.",
+  "palabras_clave": [
+    "avocamiento",
+    "orden público",
+    "competencia",
+    "intereses colectivos",
+    "Poder Judicial",
+    "excepción",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0602_E23-0806.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343461-0602-30425-2025-23-0806.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.607285"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 29962,
+  "numero": "0371",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara procedente la acción de amparo constitucional interpuesta por los abogados Elías Antonio Castro Guerra y María del Carmen Navas Alvarado, en representación de varios ciudadanos, contra la decisión de la Sala Octava de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala considera que la apelación era procedente y que la decisión impugnada vulneraba el derecho a la defensa de los imputados.",
+  "palabras_clave": [
+    "debido_proceso",
+    "nulidad",
+    "tortura",
+    "apelación",
+    "control_judicial",
+    "derechos_humanos",
+    "leyes_penales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0371_E22-0410.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324641-0371-28423-2023-22-0410.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.060184"
+}

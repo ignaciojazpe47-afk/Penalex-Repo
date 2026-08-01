@@ -1,0 +1,27 @@
+{
+  "id": 2380,
+  "numero": null,
+  "fecha": "2001-04-02",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Laborales",
+  "decision": "INADMISIBLE",
+  "ponente": "Antonio J. García García",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por la abogada Andrea Mujica Fernández en representación de Maykol Antonio Cheremos, quien alegaba violaciones a sus derechos laborales tras un despido injustificado. La acción se fundamentó en la falta de respuesta a un recurso de apelación y en la alegación de que la decisión del Juzgado Superior Quinto del Trabajo violaba derechos constitucionales. Sin embargo, la Sala determinó que no era posible interponer un amparo contra una decisión de la misma Sala Constitucional, ya que no existe un tribunal superior al que se pueda recurrir en este caso. Además, se advirtió sobre la insistencia de la abogada en presentar acciones similares, lo que llevó a la Sala a remitir el caso al Tribunal Disciplinario del Colegio de Abogados del Distrito Capital.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos Laborales",
+    "Inadmisibilidad",
+    "Despido Injustificado",
+    "Tribunal Supremo de Justicia",
+    "Cosa Juzgada",
+    "Representación Legal",
+    "Colegio de Abogados"
+  ],
+  "titulo": "Inadmisibilidad de Amparo Constitucional en Caso Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-04-02_CasacionCivil_01_AntonioJ.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.709606"
+}

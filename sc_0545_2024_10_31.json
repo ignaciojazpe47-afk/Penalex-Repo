@@ -1,0 +1,26 @@
+{
+  "id": 27114,
+  "numero": "0545",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con una sentencia de desalojo dictada por el Juzgado Superior en lo Civil. La decisión impugnada había declarado sin lugar una apelación y ordenado el desalojo de la sociedad mercantil Automercado La Vivienda San Juan, C.A. La Sala se declaró competente para conocer la revisión solicitada, argumentando que la decisión anterior había violado derechos fundamentales como el derecho a la defensa y al debido proceso.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "confesión ficta",
+    "extinción de dominio",
+    "desalojo",
+    "vía administrativa",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0545_E23-1080.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338498-0545-311024-2024-23-1080.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.315735"
+}

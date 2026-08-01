@@ -1,0 +1,26 @@
+{
+  "id": 23975,
+  "numero": "2159",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La ciudadana Blanca Tamara Vargas Ruiz interpuso una acción de amparo constitucional contra la Fiscalía Quincuagésima Sexta del Ministerio Público, alegando falta de competencia para intervenir en asuntos de arrendamiento. La Sala Constitucional, tras analizar el caso, declaró su incompetencia para conocer de la acción y ordenó remitir el expediente al Tribunal de Primera Instancia en Función de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la jurisprudencia que establece que la competencia debe ser determinada por la materia y la persona involucrada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "competencia",
+    "Ministerio Público",
+    "arrendamiento",
+    "justicia",
+    "responsabilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2159_E25-1047.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352038-2159-121225-2025-25-1047.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.082239"
+}

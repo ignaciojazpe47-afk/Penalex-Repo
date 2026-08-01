@@ -1,0 +1,22 @@
+{
+  "id": 44607,
+  "numero": "0412",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 26 de febrero de 2015, que había declarado sin lugar la apelación interpuesta por Samuel Cadenas Maldonado. La revisión se fundamentó en la alegación de que la perención de la instancia en la separación de cuerpos y bienes no era aplicable, ya que se trataba de un procedimiento no contencioso. La Sala concluyó que el Juzgado Superior había erróneamente confirmado la sentencia que ordenaba liquidar la comunidad conyugal, ya que dicha comunidad ya había sido acordada y protocolizada anteriormente. Por lo tanto, se declaró con lugar la solicitud de revisión y se anuló el punto relativo a la liquidación de la comunidad conyugal.",
+  "palabras_clave": [
+    "separación de cuerpos",
+    "liquidación de comunidad conyugal",
+    "perención"
+  ],
+  "titulo": "Revisión de sentencia sobre separación de cuerpos y bienes",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0412_E19-0177.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308340-0412-291119-2019-19-0177.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.355673"
+}

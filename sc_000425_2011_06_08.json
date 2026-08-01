@@ -1,0 +1,22 @@
+{
+  "id": 4375,
+  "numero": "000425",
+  "fecha": "2011-06-08",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 000425 dictada por la Sala de Casación Civil, que había declarado sin lugar el recurso de casación interpuesto por el Fondo Internacional de Indemnización de Daños. En su decisión, la Sala Constitucional determinó que no había lugar a la revisión solicitada, ya que no se evidenciaron infracciones constitucionales graves ni errores de interpretación que justificaran la intervención de este órgano. La solicitud de revisión fue desestimada, reafirmando la decisión de la Sala de Casación Civil sobre la caducidad de la acción y la valoración de las pruebas presentadas en el caso.",
+  "palabras_clave": [
+    "indemnización",
+    "contaminación",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre indemnización por contaminación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_2011_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.546638"
+}

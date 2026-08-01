@@ -1,0 +1,26 @@
+{
+  "id": 21688,
+  "numero": "1435",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de agosto de 2025, declaró competente para conocer la apelación interpuesta por Carmen Elena Páez de Mata contra la decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito del Estado Bolívar, que había declarado parcialmente con lugar la acción de amparo constitucional. La Sala confirmó la decisión del Juzgado Superior, argumentando que la sentencia dictada el 15 de enero de 2025 se ajustaba a derecho y que la apelación carecía de fundamento suficiente para ser admitida.",
+  "palabras_clave": [
+    "debido_proceso",
+    "amparo_constitucional",
+    "inadmisibilidad",
+    "CPC",
+    "nulidad",
+    "defensa",
+    "legitimación"
+  ],
+  "titulo": "Decisión sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1435_E25-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347306-1435-7825-2025-25-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.035066"
+}

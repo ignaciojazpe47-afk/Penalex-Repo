@@ -1,0 +1,23 @@
+{
+  "id": 36619,
+  "numero": "0701",
+  "fecha": "2022-10-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por Evan Pastora Díaz Malvacias, representada por el abogado Dervis Huwerley Faudito Rodríguez, contra una sentencia del Juzgado Superior Civil que declaró nulos los autos de ejecución de desalojo. La Sala determinó que la acción era inadmisible debido a que fue interpuesta fuera del plazo legal de seis meses, lo que implicaba un consentimiento tácito a la decisión impugnada. La sentencia del Juzgado Superior había ordenado la restitución del inquilino en el inmueble, lo que fue considerado conforme a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "due process",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-14_S0701_E22-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/319790-0701-141022-2022-22-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.196658"
+}

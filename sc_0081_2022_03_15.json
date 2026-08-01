@@ -1,0 +1,27 @@
+{
+  "id": 34784,
+  "numero": "0081",
+  "fecha": "2022-03-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara sin lugar la acción popular por motivos de inconstitucionalidad de la Ley Orgánica de Reforma de la Ley Orgánica del Tribunal Supremo de Justicia, publicada en la Gaceta Oficial n.° 6.684, extraordinario, el 19 de enero de 2022. La decisión se basa en la competencia de la Sala para conocer de la demanda y en la inadmisibilidad de las alegaciones presentadas por el demandante, quien argumentó violaciones a varios artículos de la Constitución.\n\nLa Sala resalta que la iniciativa legislativa en materia de organización y procedimientos judiciales corresponde al Tribunal Supremo de Justicia, pero aclara que el presidente del Tribunal, al presentar el proyecto de ley, actuó dentro de sus atribuciones. Además, se defiende la integración del Comité de Postulaciones Judiciales, que incluye a diputados, como parte del principio de colaboración de poderes, lo que no infringe la Constitución.\n\nFinalmente, se ordena la publicación del fallo en la Gaceta Oficial y se archiva el expediente, reafirmando la constitucionalidad de la ley impugnada.",
+  "palabras_clave": [
+    "constitucionalidad",
+    "magistrados",
+    "Ley Orgánica",
+    "Tribunal Supremo",
+    "derechos",
+    "remoción",
+    "periodo",
+    "designación"
+  ],
+  "titulo": "Sentencia de la Sala Constitucional que declara sin lugar la acción popular por inconstitucionalidad de la Ley Orgánica de Reforma del Tribunal Supremo de Justicia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-15_S0081_E22-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/316186-0081-15322-2022-22-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.434816"
+}

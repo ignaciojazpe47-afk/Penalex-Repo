@@ -1,0 +1,26 @@
+{
+  "id": 22618,
+  "numero": "1675",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, NULA la sentencia dictada el 14 de agosto de 2024 por la Sala de Casación Civil.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una solicitud de revisión constitucional presentada por Haydana María Pérez Marcano, quien impugnó una sentencia de la Sala de Casación Civil que declaró sin lugar un recurso de casación en un juicio de resolución de contrato de opción de compra-venta. La Sala Constitucional encontró que la decisión impugnada vulneró derechos fundamentales, como el derecho a la defensa y la seguridad jurídica, al aplicar incorrectamente el artículo 1482 del Código Civil, lo que afectó la cualidad activa del demandante. En consecuencia, se declaró nula la sentencia de la Sala de Casación Civil y se ordenó un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "cesión de derechos",
+    "opción de compra",
+    "contrato",
+    "Código Civil",
+    "jurisprudencia",
+    "derechos reales",
+    "notificación"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre resolución de contrato de opción de compra-venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1675_E25-0676.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349278-1675-291025-2025-25-0676.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.741201"
+}

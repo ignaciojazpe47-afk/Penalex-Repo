@@ -1,0 +1,26 @@
+{
+  "id": 32987,
+  "numero": "1556",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Kennia Alejandra Salazar Delgado contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo. La sentencia ordena a la Corte de Apelaciones remitir el expediente completo que demuestre la notificación a las partes en la fecha indicada. La decisión se fundamenta en la falta de constancia de notificación en el expediente, lo que impide verificar si las partes fueron debidamente notificadas.",
+  "palabras_clave": [
+    "amparo",
+    "notificación",
+    "competencia",
+    "Corte de Apelaciones",
+    "derechos",
+    "garantías",
+    "expediente"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1556_E20-0384.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330611-1556-271123-2023-20-0384.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.421852"
+}

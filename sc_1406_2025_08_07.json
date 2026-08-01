@@ -1,0 +1,27 @@
+{
+  "id": 21659,
+  "numero": "1406",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la revisión constitucional de la sentencia dictada por el Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del estado Lara, el 5 de mayo de 2023. Sin embargo, la solicitud de revisión es declarada inadmisible debido a la falta de presentación de documentos que acrediten que la sentencia objeto de revisión tiene carácter definitivamente firme, lo que es un requisito esencial para la admisión de este tipo de solicitudes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "justicia",
+    "derechos humanos",
+    "constitucionalismo",
+    "jurisdicción",
+    "derecho de defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1406_E24-0565.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347266-1406-7825-2025-24-0565.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.037704"
+}

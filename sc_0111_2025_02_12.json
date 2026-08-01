@@ -1,0 +1,27 @@
+{
+  "id": 18355,
+  "numero": "0111",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión del fallo n° 0195, dictado el 8 de julio de 2019, por la Sala de Casación Social, que declaró sin lugar el recurso de casación en un caso de inquisición de paternidad. La Sala determinó que la solicitud de revisión no cumplía con los requisitos para ser admitida, ya que no se evidenciaron violaciones a derechos constitucionales ni se presentaron fundamentos que justificaran la revisión del fallo.",
+  "palabras_clave": [
+    "caducidad",
+    "acción",
+    "paternidad",
+    "maternidad",
+    "Código Civil",
+    "constitucionalidad",
+    "derecho",
+    "identidad"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0111_E23-0838.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341449-0111-12225-2025-23-0838.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.770023"
+}

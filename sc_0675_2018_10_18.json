@@ -1,0 +1,24 @@
+{
+  "id": 48529,
+  "numero": "0675",
+  "fecha": "2018-10-18",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo del Trabajo de Monagas, que había declarado parcialmente con lugar un recurso de apelación. La revisión se fundamentó en la existencia de un desorden procesal, donde se violaron derechos al debido proceso y a la defensa. Se determinó que el juez de primera instancia había actuado incorrectamente al revocar decisiones previas sin la debida autoridad, lo que llevó a la nulidad de la sentencia impugnada. La Sala ordenó la reposición de la causa para garantizar un nuevo juicio con el debido proceso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desorden procesal",
+    "debido proceso",
+    "prestaciones sociales",
+    "sentencia nula"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre apelación de prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-10-18_S0675_E15-1425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/301716-0675-181018-2018-15-1425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:08.267448"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 42856,
+  "numero": "0111",
+  "fecha": "2019-05-21",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por la sociedad mercantil CORVEL MERCANTIL, C.A. contra decisiones del Juzgado Trigésimo Octavo de Primera Instancia. La apelación se fundamentó en la supuesta inadmisibilidad de la acción de amparo por inepta acumulación de pretensiones, lo que fue declarado tempestivo por la Sala. La Sala determinó su competencia para conocer de la apelación y ordenó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0111_E15-1174.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305029-0111-21519-2019-15-1174.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.860149"
+}

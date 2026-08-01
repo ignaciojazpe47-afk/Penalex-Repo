@@ -1,0 +1,25 @@
+{
+  "id": 29770,
+  "numero": "0303",
+  "fecha": "2022-08-02",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente de amparo constitucional relacionado con el incumplimiento de la entidad de trabajo Cervecería Polar C.A. en acatar una sentencia anterior que ordenaba la restitución de trabajadores a sus puestos. La Sala decidió remitir el expediente al tribunal de origen para continuar con la ejecución del mandamiento de amparo constitucional, siguiendo lo establecido en sentencias previas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desacato",
+    "trabajo",
+    "ejecución",
+    "sentencias",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre remisión de expediente de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0303_E20-0002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324390-0303-18423-2023-20-0002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.580857"
+}

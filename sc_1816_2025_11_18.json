@@ -1,0 +1,26 @@
+{
+  "id": 23048,
+  "numero": "1816",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por ALENTUY C.A. contra la sentencia n° 335 de la Sala Político Administrativa, que declaró inadmisible una demanda por abstención. La Sala concluyó que la demanda fue interpuesta erróneamente contra el Procurador General, quien actúa como órgano consultor y no decisor en materia patrimonial, y que la parte actora no cumplió con los plazos establecidos para la presentación de su solicitud. Por lo tanto, se declaró que no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "caducidad",
+    "acción administrativa",
+    "jurisdicción contencioso administrativa",
+    "derecho de petición",
+    "procuraduría",
+    "sentencia firme"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia n° 335",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1816_E25-0824.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349940-1816-181125-2025-25-0824.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.060030"
+}

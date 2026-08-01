@@ -1,0 +1,25 @@
+{
+  "id": 28400,
+  "numero": "1342",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La ciudadana Crisdeli Herminia Navazio Mossucca interpuso una acción de amparo contra el Fiscal Cuadragésimo Cuarto del Ministerio Público, alegando violaciones a sus derechos constitucionales en el contexto de desalojos. La Sala Constitucional, tras evaluar la solicitud, se declaró incompetente para conocer el caso, declinando la competencia a los Tribunales de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la naturaleza del derecho invocado y la competencia del Ministerio Público en materia penal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos colectivos",
+    "intereses difusos",
+    "legitimación activa",
+    "protección constitucional",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1342_E24-0058.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340356-1342-101224-2024-24-0058.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.222955"
+}

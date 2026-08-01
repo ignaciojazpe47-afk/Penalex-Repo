@@ -1,0 +1,25 @@
+{
+  "id": 22444,
+  "numero": "1640",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Nicolás Mangieri Cauterucce contra la sentencia del Juzgado Undécimo de Primera Instancia. La decisión se basa en la falta de agotamiento de los recursos ordinarios previos, lo que contraviene el artículo 6, numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala también revoca la decisión anterior que había declarado con lugar la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "caducidad",
+    "inadmision",
+    "derechos constitucionales",
+    "legitimación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1640_E24-1186.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349023-1640-221025-2025-24-1186.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.749178"
+}

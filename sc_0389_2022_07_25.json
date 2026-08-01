@@ -1,0 +1,23 @@
+{
+  "id": 35592,
+  "numero": "0389",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la acción de amparo interpuesta por María de los Ángeles González Herdee contra la Jueza Dagiely Palma Rodríguez. La acción se fundamentó en la supuesta violación de derechos a la tutela judicial efectiva, debido proceso y derecho a la defensa, alegando irregularidades en el proceso judicial. Sin embargo, la Sala concluyó que no se evidenció que la Jueza actuara fuera de su competencia ni que existieran violaciones constitucionales que justificaran el amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial",
+    "debido proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0389_E22-0340.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318150-0389-25722-2022-22-0340.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.778388"
+}

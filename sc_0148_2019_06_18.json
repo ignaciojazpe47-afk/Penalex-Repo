@@ -1,0 +1,23 @@
+{
+  "id": 43145,
+  "numero": "0148",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Marco Antonio Salazar Seijas, quien alegó violaciones a sus derechos en relación a una sentencia dictada por el Juzgado Segundo de Primera Instancia. La Sala argumenta que el demandante tenía a su disposición el recurso ordinario de apelación, el cual no fue ejercido, lo que justifica la inadmisibilidad del amparo. Además, se resalta que el demandante no presentó razones válidas para optar por el amparo en lugar de las vías ordinarias.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0148_E18-0568.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305592-0148-18619-2019-18-0568.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.843367"
+}

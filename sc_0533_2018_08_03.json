@@ -1,0 +1,24 @@
+{
+  "id": 47962,
+  "numero": "0533",
+  "fecha": "2018-08-03",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por Luis Alberto Rodríguez Castillo contra el auto dictado por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara. La Sala argumenta que el accionante no agotó los mecanismos procesales ordinarios disponibles, específicamente el recurso de apelación, lo que constituye una causal de inadmisibilidad según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala también revisa de oficio el auto del Juzgado de Primera Instancia que suspendió la ejecución de una sentencia de partición de bienes, concluyendo que dicha suspensión fue ilegal, ya que no se presentaron las causales que justifican tal medida. Por lo tanto, se anula el auto impugnado y se ordena la continuación del proceso en el estado en que se encontraba antes de la suspensión.\n\nFinalmente, se confirma la decisión del Juzgado Superior que declaró inadmisible la acción de amparo, reafirmando la importancia de agotar las vías ordinarias antes de recurrir a la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "debido proceso",
+    "suspensión de ejecución"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-08-03_S0533_E16-0889.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/300556-0533-3818-2018-16-0889.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.026298"
+}

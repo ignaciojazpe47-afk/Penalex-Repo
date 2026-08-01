@@ -1,0 +1,24 @@
+{
+  "id": 55191,
+  "numero": "1052",
+  "fecha": "2017-12-08",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 8 de diciembre de 2017, declaró con lugar el recurso de apelación interpuesto por el abogado Juan Ernesto Garantón Hernández, en representación de Hermágoras González Polanco, contra la decisión de la Sala número 6 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala consideró que la acción de amparo debía ser admitida, ya que se alegaba la omisión de pronunciamiento sobre la solicitud de medida humanitaria y la fórmula alternativa de cumplimiento de pena, en virtud del estado de salud del accionante.\n\nLa Corte de Apelaciones había argumentado que el recurso de apelación no había sido ejercido contra una decisión anterior y que la acción de amparo había caducado. Sin embargo, la Sala Constitucional determinó que el derecho a la salud es un derecho fundamental y que la acción de amparo debía ser admitida, revocando así el fallo apelado y ordenando que una nueva Sala de la Corte de Apelaciones se pronuncie sobre la admisibilidad de la acción sin considerar la caducidad alegada.\n\nFinalmente, la Sala instruyó que se remita el expediente a una Sala diferente para su revisión, asegurando así el respeto a los derechos constitucionales del accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "medida humanitaria",
+    "salud",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-12-08_S1052_E17-0798.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/206221-1052-81217-2017-17-0798.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.279804"
+}

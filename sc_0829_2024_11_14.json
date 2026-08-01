@@ -1,0 +1,26 @@
+{
+  "id": 27565,
+  "numero": "0829",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia surgido entre el Tribunal Primero de Primera Instancia de Juicio y el Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Apure, en relación a una acción de amparo constitucional interpuesta por Carlos Eloy Silva Belisario en representación de su hijo. La Sala declaró su competencia para conocer del caso y exhortó al tribunal inferior a cumplir con la ley y garantizar los derechos del niño involucrado.\n\nSe determinó que el tribunal competente para conocer la acción de amparo era el Juzgado Superior, dado que el Tribunal de Primera Instancia había declarado su incompetencia. La decisión incluyó la anulación de actuaciones previas y la remisión del expediente al Juzgado Superior para su tramitación adecuada, enfatizando la importancia de la protección de los derechos de los niños en el proceso judicial.\n\nFinalmente, la Sala instó a los tribunales a abordar con mayor atención y cuidado los asuntos relacionados con la protección de los derechos de los niños, evitando así la postergación de soluciones definitivas que afectan el derecho al debido proceso y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "jurisdicción",
+    "constitucional",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0829_E24-0026.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339002-0829-141124-2024-24-0026.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.018010"
+}

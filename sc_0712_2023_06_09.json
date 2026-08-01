@@ -1,0 +1,27 @@
+{
+  "id": 30764,
+  "numero": "0712",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento presentada por el abogado Jesús Andrés Durán Romero en representación de César Luis Viña Bonillo. La solicitud se refiere a un juicio por la presunta comisión del delito de traición a la patria, que se tramita en el Juzgado Quinto de Juicio Militar de la Circunscripción Judicial del Estado Monagas. La Sala declina el conocimiento de la solicitud a la Sala de Casación Penal, ordenando el envío del expediente correspondiente.",
+  "palabras_clave": [
+    "derecho penal",
+    "debido proceso",
+    "jurisdicción",
+    "competencia",
+    "derechos humanos",
+    "justicia militar",
+    "defensa",
+    "juez natural"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0712_E19-0335.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325983-0712-9623-2023-19-0335.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.420566"
+}

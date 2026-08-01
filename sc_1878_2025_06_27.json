@@ -1,0 +1,24 @@
+{
+  "id": 23224,
+  "numero": "1878",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Anulada la decisión de desacato y culminación del proceso de amparo.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, anuló la decisión del Tribunal Cuarto de Primera Instancia que había declarado el desacato de Cervecería Polar, C.A. y sancionado a su gerente. Se determinó que los trabajadores habían sido reenganchados y que las diferencias en los pagos debían ser reclamadas por la vía judicial ordinaria. Se culminó el proceso de amparo, declarando que la situación jurídica de los trabajadores había sido restablecida.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "trabajo",
+    "reenganche",
+    "salarios caídos"
+  ],
+  "titulo": "Sentencia sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1878_E23-0152.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350474-1878-261125-2025-23-0152.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.298957"
+}

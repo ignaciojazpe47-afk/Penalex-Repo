@@ -1,0 +1,23 @@
+{
+  "id": 6768,
+  "numero": null,
+  "fecha": "2003-02-26",
+  "anio": 2003,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Julio Elías Mayaudón Grau",
+  "resumen": "La Sala Tercera de la Corte de Apelaciones declaró sin lugar la apelación de la defensa de Virginia Fuster Pico, condenándola a 20 años de presidio por homicidio calificado. La defensa interpuso recurso de casación, alegando errores en la aplicación de la pena. El Tribunal Supremo de Justicia, tras revisar el caso, determinó que la pena máxima no puede exceder de 30 años, y aplicó la rebaja correspondiente, resultando en una condena de 29 años de presidio. Se declaró la nulidad del fallo de la Corte de Apelaciones en cuanto a la penalidad impuesta.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "pena",
+    "admisión de hechos"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de homicidio calificado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_0734d147f621c78bebea0c93f23a2e6e_MayaudonGrau.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:07.741526"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 38252,
+  "numero": "0031",
+  "fecha": "2020-06-12",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N.° 0070, en la que se ordena a los Jueces Rectores de las Circunscripciones Judiciales en materia Civil que informen sobre las causas con sentencia firme en estado de ejecución que impliquen desalojo de inmuebles destinados a vivienda. Esta decisión busca proteger los derechos de los arrendatarios y garantizar soluciones habitacionales ante la falta de ejecución de sentencias de desalojo.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "arrendatarios",
+    "desalojo",
+    "vivienda"
+  ],
+  "titulo": "Sentencia sobre derechos de inquilinos y medidas cautelares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0031_E15-0484.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311444-0031-9321-2021-15-0484.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.122807"
+}

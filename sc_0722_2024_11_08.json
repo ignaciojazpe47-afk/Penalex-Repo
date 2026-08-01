@@ -1,0 +1,23 @@
+{
+  "id": 27342,
+  "numero": "0722",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Jorge Alonso Jaramillo Hernández contra el Juzgado Superior Segundo de la Circunscripción Judicial del Estado Aragua. El demandante argumentó que el juzgado no había emitido sentencia en un recurso de apelación durante un prolongado periodo de tiempo, lo que justificaba la solicitud de amparo. La Sala, tras evaluar los argumentos y la falta de respuesta del juzgado, decidió declarar con lugar la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "juzgado",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0722_E24-0600.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338747-0722-81124-2024-24-0600.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.437954"
+}

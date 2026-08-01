@@ -1,0 +1,25 @@
+{
+  "id": 33504,
+  "numero": "1838",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D'AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Gilberto José López Medina, en representación de Yoel José Guilarte Hernández, contra una decisión de la Corte de Apelaciones en Materia de Delitos de Violencia contra la Mujer. La Corte de Apelaciones había anulado de oficio una sentencia absolutoria dictada por un tribunal de primera instancia, lo que llevó al demandante a solicitar la protección de sus derechos constitucionales. La Sala Constitucional, tras evaluar los argumentos, declaró improcedente la acción de amparo, argumentando que no se evidenciaron violaciones a derechos constitucionales ni usurpación de funciones por parte del tribunal inferior.",
+  "palabras_clave": [
+    "debido_proceso",
+    "supremacía_constitucional",
+    "apelación",
+    "violencia_contra_la_mujer",
+    "tutela_judicial",
+    "Código_Orgánico_Procesal_Penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1838_E23-0317.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331373-1838-81223-2023-23-0317.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.346679"
+}

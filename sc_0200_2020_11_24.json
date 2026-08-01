@@ -1,0 +1,24 @@
+{
+  "id": 41764,
+  "numero": "0200",
+  "fecha": "2020-11-24",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC.000827 de la Sala de Casación Civil, que había declarado sin lugar el recurso de casación interpuesto por Carmen Pastora Cedeño Colmenares. La Sala Constitucional encontró que la decisión de la Sala de Casación Civil había desmejorado la situación de la apelante, vulnerando su derecho a la defensa y al debido proceso al aplicar el principio de reformatio in peius, lo que llevó a la anulación de la sentencia y a la reposición del caso para un nuevo fallo. Se destaca la importancia de la tutela judicial efectiva y el equilibrio procesal en las decisiones judiciales.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "cobro de bolívares",
+    "reformatio in peius"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de cobro de bolívares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0200_E17-0901.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310806-0200-241120-2020-17-0901.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.404548"
+}

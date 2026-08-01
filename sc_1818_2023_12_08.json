@@ -1,0 +1,25 @@
+{
+  "id": 33483,
+  "numero": "1818",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Alberto González Suárez en representación de Pedro Pablo Romero Carrillo, contra el Tribunal Cuarto de Primera Instancia en Función de Juicio del Circuito Judicial Penal del Estado Zulia. La acción se fundamentó en la presunta violación de derechos y garantías constitucionales, específicamente en relación a la notificación de una sentencia condenatoria. La Sala, tras analizar el caso, se declaró incompetente para conocer de la acción y decidió remitir el expediente a una Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia.",
+  "palabras_clave": [
+    "debido_proceso",
+    "notificaciones",
+    "apelacion",
+    "victima",
+    "sentencia",
+    "amparo_constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1818_E23-0263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331352-1818-81223-2023-23-0263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.474608"
+}

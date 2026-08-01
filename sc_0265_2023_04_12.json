@@ -1,0 +1,26 @@
+{
+  "id": 29733,
+  "numero": "0265",
+  "fecha": "2023-04-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por el abogado Jorge Enrique Núñez en representación de Félix Aurelio Sánchez Chaparro, contra una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La apelación se basa en la presunta violación de derechos fundamentales del demandante en un proceso penal. La Sala determinó su competencia para conocer el caso y ordenó la remisión de actas del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo",
+    "libertad personal",
+    "presunción de inocencia",
+    "apelación",
+    "tribunal supremo",
+    "corte de apelaciones",
+    "responsabilidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0265_E20-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324352-0265-12423-2023-20-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.046260"
+}

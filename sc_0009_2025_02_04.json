@@ -1,0 +1,26 @@
+{
+  "id": 18153,
+  "numero": "0009",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Gustavo Boada Chacón en nombre de Carmen Marina Rodríguez Lamas, respecto a la sentencia dictada el 22 de julio de 2014 por el Juzgado Sexto de Municipio Ordinario. La decisión se basa en que la sentencia objeto de revisión no es definitivamente firme, ya que se había ejercido recurso de apelación que fue negado por la cuantía y se había declarado sin lugar una acción de amparo constitucional. La Sala enfatiza que la revisión no es un medio ordinario y que su finalidad es la unificación de criterios de interpretación constitucional.",
+  "palabras_clave": [
+    "contrato",
+    "opción de compra-venta",
+    "obligaciones",
+    "buena fe",
+    "resolución",
+    "cumplimiento",
+    "plazo"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0009_E24-0466.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341153-0009-4225-2025-24-0466.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.571987"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3284,
+  "numero": null,
+  "fecha": "2006-02-24",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Segundo en lo Civil, que había declarado inadmisible la demanda de amparo interpuesta por Humberto Enrique Duque Colmenares y Judith Virginia Sánchez Gómez. La Sala determinó que no había lugar a la revisión, ya que la situación jurídica infringida era irreparable debido a la adjudicación del inmueble a un tercero. Además, se anularon de oficio los autos del Juzgado del Municipio Ayacucho que condujeron al remate del inmueble, por violaciones al debido proceso y al orden público constitucional.",
+  "palabras_clave": [],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-02-24_Constitucional_04_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.504617"
+}

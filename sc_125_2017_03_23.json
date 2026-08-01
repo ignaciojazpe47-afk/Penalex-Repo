@@ -1,0 +1,24 @@
+{
+  "id": 50706,
+  "numero": "125",
+  "fecha": "2017-03-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por un grupo de ciudadanos en defensa de derechos colectivos y difusos, debido a la grave escasez de medicamentos y suministros médicos en el país. La acción fue inadmitida por la Sala, argumentando que la acumulación de pretensiones era inepta, ya que incluía solicitudes que no correspondían a la competencia de la Sala Constitucional. La decisión se fundamentó en la necesidad de garantizar la idoneidad del órgano jurisdiccional y el respeto al debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desabastecimiento",
+    "medicamentos",
+    "derechos colectivos",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por desabastecimiento de medicamentos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-03-23_S125_E16-0910.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/197108-125-23317-2017-16-0910.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.245877"
+}

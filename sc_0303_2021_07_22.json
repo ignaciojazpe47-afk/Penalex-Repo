@@ -1,0 +1,25 @@
+{
+  "id": 39102,
+  "numero": "0303",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Christian Alexander Martínez Frenzel contra una sentencia del Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La acción se fundamentó en la presunta violación de derechos constitucionales, incluyendo el derecho a la defensa y al debido proceso, en el marco de un juicio de cumplimiento de contrato.\n\nLa Sala declaró su competencia para conocer de la acción y ordenó la remisión de un expediente relacionado con el caso. Se destacó que la sentencia impugnada no analizó adecuadamente la capacidad contractual de una de las partes y no valoró las pruebas presentadas, lo que motivó la decisión de la Sala de actuar en consecuencia.\n\nFinalmente, se ordenó la notificación a la Presidenta del Circuito Judicial correspondiente para el cumplimiento de lo dispuesto, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "niños",
+    "justicia",
+    "proceso",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0303_E18-0235.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312757-0303-22721-2021-18-0235.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.779670"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17667,
+  "numero": "0354",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Rafael González Arias en favor de Yesenia Soledad Mejías Díaz, quien se encontraba en prisión preventiva. La acción fue motivada por la negativa del Juzgado Cuarto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Barinas de otorgar una medida cautelar sustitutiva de libertad, alegando que la situación de salud de la imputada no justificaba tal medida. La Sala consideró que la decisión del tribunal inferior no vulneró los derechos a la salud y a la vida de la ciudadana, ya que su diagnóstico no se subsumía en las condiciones para la aplicación de medidas humanitarias según el Código Orgánico Procesal Penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la salud",
+    "prisión preventiva",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Yesenia Soledad Mejías Díaz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0354_E25-0590.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354348-0354-25326-2026-25-0590.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.564383"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 46009,
+  "numero": "0282",
+  "fecha": "2018-02-16",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional declaró con lugar la solicitud de revisión presentada por EGLÉ JOSEFINA CEDEÑO VÁSQUEZ contra una sentencia anterior de la Sala Político Administrativa. Se anuló parcialmente el fallo en lo que respecta a la desestimación de daños materiales y morales, ordenando a la Sala Político Administrativa que reevalúe la procedencia de dichos daños. Además, se corrigió un error involuntario en la instrucción de desglose del expediente original.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "daños",
+    "procedimiento",
+    "certiorari"
+  ],
+  "titulo": "Sentencia sobre revisión de fallo de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0282_E15-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208726-0282-14318-2018-15-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.702215"
+}

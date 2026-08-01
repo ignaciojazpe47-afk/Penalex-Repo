@@ -1,0 +1,18 @@
+{
+  "id": 65527,
+  "numero": "1020",
+  "fecha": "2015-03-18",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la empresa C.A. Fábrica Nacional de Cementos, S.A.C.A. contra la sentencia de la Corte Segunda de lo Contencioso Administrativo que declaró desistido el procedimiento en una demanda de contenido patrimonial. La decisión se basa en que la parte demandante no compareció a la audiencia preliminar, lo que conllevó a la aplicación del artículo 60 de la Ley Orgánica de la Jurisdicción Contencioso Administrativa, que establece el desistimiento del procedimiento en tales casos.\n\nLos apoderados de la empresa argumentaron que su representada es patrimonio público y que la incomparecencia de uno de sus abogados a la audiencia preliminar causó un perjuicio significativo. Sin embargo, la Sala concluyó que existía una vía judicial ordinaria, como el recurso de apelación, que era idónea para restablecer la situación denunciada, lo que llevó a la inadmisibilidad de la acción de amparo.\n\nFinalmente, la Sala reafirma que el amparo constitucional no es la única vía para denunciar violaciones a derechos y garantías constitucionales, y que en este caso, el recurso de apelación era el medio adecuado para abordar la situación planteada.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-29_S1020_E15-0609.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/180075-1020-29715-2015-15-0609.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:54.334599"
+}

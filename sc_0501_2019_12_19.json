@@ -1,0 +1,26 @@
+{
+  "id": 44789,
+  "numero": "0501",
+  "fecha": "2019-12-19",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Yoel Ernesto Castillo Núñez en favor de Sattrack Mardiros Kezarian, quien se encuentra detenido desde noviembre de 2016. La decisión se basa en que el demandante no corrigió su demanda conforme a lo ordenado en una sentencia anterior. A pesar de la falta de claridad en la fundamentación de la acción, se evidencia que el accionante ha estado privado de libertad sin justificación legal desde hace más de tres años.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "pena",
+    "extradición",
+    "derechos",
+    "justicia",
+    "migración"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-09_S0501_E18-0066.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308710-0501-91219-2019-18-0066.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.804554"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 58351,
+  "numero": "555",
+  "fecha": "2016-07-11",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2013-1195 de la Corte Primera de lo Contencioso Administrativo, que había declarado sin lugar el recurso contencioso administrativo funcionarial interpuesto por Dilia Bernal Angarita, quien solicitaba su jubilación. La Sala determinó que la exigencia de haber trabajado al menos diez años en la Asamblea Nacional para acceder a la jubilación era inconstitucional, dado que la solicitante contaba con 29 años de servicio y 56 años de edad, lo que le daba derecho a la jubilación. La Sala anuló la sentencia impugnada y ordenó remitir el caso a la Corte Segunda de lo Contencioso Administrativo para que se pronuncie sobre la apelación, garantizando así el derecho a la seguridad social de la demandante.",
+  "palabras_clave": [
+    "jubilación",
+    "derechos humanos",
+    "revisión constitucional",
+    "Asamblea Nacional",
+    "seguridad social"
+  ],
+  "titulo": "Revisión de sentencia sobre derecho a jubilación de Dilia Bernal Angarita",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-07-11_S555_E16-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/188890-555-11716-2016-16-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:07.722957"
+}

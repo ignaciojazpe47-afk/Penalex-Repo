@@ -1,0 +1,23 @@
+{
+  "id": 10687,
+  "numero": null,
+  "fecha": "2003-03-18",
+  "anio": 2003,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Desestima",
+  "ponente": "BELTRÁN HADDAD",
+  "resumen": "La sentencia se origina a partir de un recurso de casación interpuesto por la defensa de MANUEL FELIPE LEAL PEÑA, condenado por forjamiento de documento público y otros delitos. La Corte de Apelaciones había confirmado la condena, lo que llevó a la defensa a impugnar la decisión. La Sala de Casación Penal revisó el caso y determinó que el recurso carecía de la técnica adecuada y que no se vulneraron las garantías procesales del imputado.",
+  "palabras_clave": [
+    "casación",
+    "penal",
+    "forjamiento de documento",
+    "sentencia"
+  ],
+  "titulo": "Sentencia de Casación sobre recurso interpuesto por la defensa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_a13ad392f47a57559551b9b765dd7bd5.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:07.740951"
+}

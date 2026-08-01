@@ -1,0 +1,26 @@
+{
+  "id": 23957,
+  "numero": "2151",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Augusta Francia Mata Otero contra la decisión de la Sala 9 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que había declarado parcialmente con lugar un recurso de apelación. La Sala concluye que la decisión impugnada no vulneró las garantías constitucionales y que la acción de amparo no cumplía con los requisitos legales para su tramitación.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "notificación",
+    "igualdad_procesal",
+    "derechos_constitucionales",
+    "victimas",
+    "amparo_constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2151_E25-0087.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352020-2151-121225-2025-25-0087.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.740009"
+}

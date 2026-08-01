@@ -1,0 +1,27 @@
+{
+  "id": 23896,
+  "numero": "2110",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por Víctor Simoes Márquez, apoderado judicial de Juvenal de Jesús Pinto Pereira, contra la decisión del Juzgado Superior Tercero que declaró inadmisible la acción de amparo constitucional. La Sala determina que la situación jurídica denunciada cesó al oírse la apelación el 29 de noviembre de 2024, lo que hace que la acción de amparo sea inadmisible. Se confirma la decisión del Juzgado Superior Tercero.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "medidas cautelares",
+    "acción de amparo",
+    "Código de Procedimiento Civil",
+    "Constitución",
+    "incidente cautelar"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2110_E24-1272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351957-2110-121225-2025-24-1272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.081201"
+}

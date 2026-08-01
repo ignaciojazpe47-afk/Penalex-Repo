@@ -1,0 +1,22 @@
+{
+  "id": 19103,
+  "numero": "0406",
+  "fecha": "2025-01-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar los recursos de apelación interpuestos contra la decisión del Juzgado Superior Tercero que había declarado con lugar la acción de amparo constitucional. Se revoca la sentencia que suspendía las medidas de prohibición de enajenar y gravar dictadas en un juicio de nulidad por simulación. La Sala concluye que el Juzgado de primera instancia actuó incorrectamente al no notificar a las partes y al no considerar adecuadamente la existencia de enemistad manifiesta con el juez que dictó la decisión impugnada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "suspensión de medidas",
+    "enemistad manifiesta"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-26_S0406_E17-0034.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342688-0406-26325-2025-17-0034.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.808031"
+}

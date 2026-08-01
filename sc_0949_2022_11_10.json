@@ -1,0 +1,23 @@
+{
+  "id": 37255,
+  "numero": "0949",
+  "fecha": "2022-11-10",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Daniel Alexander Zapata Zuria, quien alegó violaciones a su derecho a la defensa y al debido proceso en una audiencia preliminar. La Sala declaró inadmisible la acción de amparo presentada ante la Corte de Apelaciones, argumentando que el demandante había consentido tácitamente la realización de la audiencia sin la presencia de su abogado. Sin embargo, la Sala Constitucional revisó de oficio el fallo de la audiencia preliminar y determinó que se habían vulnerado los derechos del demandante, por lo que anuló la decisión del Juzgado Segundo de Primera Instancia y ordenó la celebración de una nueva audiencia preliminar.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "audiencia preliminar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Daniel Alexander Zapata Zuria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-10_S0949_E22-0226.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320643-0949-101122-2022-22-0226.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.360938"
+}

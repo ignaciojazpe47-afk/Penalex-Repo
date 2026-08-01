@@ -1,0 +1,25 @@
+{
+  "id": 32944,
+  "numero": "1513",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer un recurso de apelación en un caso de amparo constitucional. Se determinó que la Sala es competente para conocer apelaciones de sentencias de Tribunales Superiores en materia penal, excluyendo lo contencioso administrativo. En este caso, se apeló una decisión que declaró inadmisible una acción de amparo presentada por los abogados de Carlos Eduardo Marrón Colmenares, quien alegaba privación ilegítima de libertad.",
+  "palabras_clave": [
+    "habeas corpus",
+    "derechos humanos",
+    "tutela judicial",
+    "medidas cautelares",
+    "privación de libertad",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1513_E19-0523.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330567-1513-231123-2023-19-0523.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.430737"
+}

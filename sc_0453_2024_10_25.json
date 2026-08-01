@@ -1,0 +1,26 @@
+{
+  "id": 26929,
+  "numero": "0453",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Luis Javier Rodríguez Calderón y Mario José Jiménez Franco, en representación de las víctimas por extensión, María Anita Andrade y Maira Alejandra López Andrade. La decisión se basa en que no se agotaron las vías recursivas antes de interponer el amparo, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nEl tribunal argumenta que, aunque se alegó la urgencia de la acción debido a la falta de acceso al expediente, se constató que los demandantes pudieron acceder al mismo en varias ocasiones antes de la interposición del recurso. Por lo tanto, se concluye que la apelación fue presentada de manera extemporánea, lo que lleva a la firmeza de la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo.\n\nFinalmente, se ordena la remisión del expediente al tribunal de origen y se exhorta a garantizar el acceso a la justicia y el debido proceso en futuros casos.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "temporalidad",
+    "derechos",
+    "garantías",
+    "justicia",
+    "corte"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0453_E23-0962.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338239-0453-251024-2024-23-0962.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.484277"
+}

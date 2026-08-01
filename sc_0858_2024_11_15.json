@@ -1,0 +1,24 @@
+{
+  "id": 27611,
+  "numero": "0858",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por los abogados de Osnelly del Valle Bracamonte Aguirre, quien había solicitado un amparo constitucional por la omisión en la notificación de una decisión judicial. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que existía un recurso ordinario disponible. Sin embargo, la Sala Constitucional determinó que la falta de notificación impedía el ejercicio de dicho recurso, lo que vulneraba los derechos de la parte accionante al debido proceso y a la defensa. Por lo tanto, se revocó la decisión de la Corte de Apelaciones y se ordenó que se pronuncie nuevamente sobre la admisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "debido proceso",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0858_E23-1168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339048-0858-151124-2024-23-1168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.200125"
+}

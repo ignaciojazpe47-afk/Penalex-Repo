@@ -1,0 +1,22 @@
+{
+  "id": 29444,
+  "numero": "0183",
+  "fecha": "2023-03-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Oscar Borges Prim en representación de Paul Graham Stanley, en relación a un proceso penal que se ventila ante el Juzgado Séptimo de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Aragua. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso y declinó el conocimiento a la Sala de Casación Penal, ordenando el remitir las actuaciones correspondientes.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en proceso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-23_S0183_E22-0162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323844-0183-23323-2023-22-0162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.071735"
+}

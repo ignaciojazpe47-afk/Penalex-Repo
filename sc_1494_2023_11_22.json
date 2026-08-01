@@ -1,0 +1,26 @@
+{
+  "id": 32925,
+  "numero": "1494",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del TSJ recibió un expediente relacionado con una acción de amparo constitucional interpuesta por Luis Fernando Galindo. La apelación se originó de una decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo. La Sala se declaró competente para conocer el recurso y ordenó al tribunal inferior realizar el cómputo correspondiente y remitir la información solicitada en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "niños",
+    "adolescentes",
+    "tribunales",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Decisión sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1494_E23-0863.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330546-1494-221123-2023-23-0863.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.437912"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33809,
+  "numero": "1956",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por Wolfgang Eduardo Toledo Revolledo, quien impugnaba la decisión de la Corte de Apelaciones que había declarado inadmisible su recurso de apelación. La Sala fundamentó su decisión en la falta de agotamiento de los recursos ordinarios disponibles, específicamente el recurso de casación, que podría haber sido utilizado para contrarrestar la decisión impugnada. Además, se destacó que la acción de amparo no puede ser utilizada como sustituto de los medios procesales establecidos en el ordenamiento jurídico.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1956_E23-0008.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331926-1956-141223-2023-23-0008.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.440120"
+}

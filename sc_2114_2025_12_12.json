@@ -1,0 +1,26 @@
+{
+  "id": 23900,
+  "numero": "2114",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado José Luis Da Silva Ruíz en representación de Elías Wilfredo Celis, contra las actuaciones de la Fiscalía 44 Nacional Plena del Ministerio Público y el Tribunal de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Guárico. La decisión se fundamenta en la inepta acumulación de pretensiones, ya que se denunciaron a distintos agraviantes cuyas competencias corresponden a órganos jurisdiccionales diferentes.\n\nLa Sala argumenta que la acumulación de pretensiones en un mismo escrito, cuando involucra a diferentes sujetos agraviantes, resulta inadmisible y debe ser interpuesta de forma independiente ante los tribunales competentes. Se destaca que la acción de amparo debe ser resuelta con inmediatez, pero en este caso, la diversidad de accionados impide su tramitación conjunta.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la importancia de la competencia jurisdiccional en el proceso de amparo constitucional.",
+  "palabras_clave": [
+    "tutela constitucional",
+    "inepta acumulación",
+    "competencia",
+    "tribunales",
+    "amparo",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2114_E25-0248.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351961-2114-121225-2025-25-0248.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.738070"
+}

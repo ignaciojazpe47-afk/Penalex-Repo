@@ -1,0 +1,24 @@
+{
+  "id": 28920,
+  "numero": "0041",
+  "fecha": "2023-02-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero en lo Civil, que declaró inadmisible la demanda de reivindicación presentada por las sociedades mercantiles CONSORCIO DOBLE O, C.A. y LACICA, C.A. contra los ciudadanos José Gregorio Pinto Romero y Franklin José Pinto Romero. La decisión de inadmisibilidad se basó en la supuesta inepta acumulación de pretensiones, argumentando que las pretensiones de reivindicación y demolición de bienhechurías eran incompatibles en cuanto a procedimientos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "reivindicación",
+    "bienhechurías",
+    "procedimientos incompatibles"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de demanda de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-24_S0041_E22-0806.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322838-0041-24223-2023-22-0806.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.291173"
+}

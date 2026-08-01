@@ -1,0 +1,25 @@
+{
+  "id": 22934,
+  "numero": "1797",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la Fiscal Provisoria Heymer Pimentel, en relación a una sentencia de la Corte de Apelaciones del Estado Falcón que declaró sin lugar el efecto suspensivo de una medida cautelar. La acción se fundamentó en la supuesta violación del debido proceso y la tutela judicial efectiva, argumentando que la decisión de la Corte de Apelaciones generó un gravamen irreparable a la administración de justicia.\n\nLa Sala consideró que tenía competencia para conocer la acción de amparo y, tras analizar los argumentos presentados, decidió admitir la solicitud, ordenando la remisión de ciertos actos procesales para evaluar la situación jurídica del imputado Danilo José Díaz Bracho. La decisión se basa en la necesidad de garantizar el debido proceso y la tutela judicial efectiva, así como en la protección de los derechos fundamentales de las partes involucradas.\n\nFinalmente, se ordenó a la Secretaría de la Sala Constitucional realizar las diligencias necesarias para recabar la información requerida, advirtiendo sobre las sanciones por incumplimiento de lo solicitado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1797_E24-1162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349788-1797-121125-2025-24-1162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.074984"
+}

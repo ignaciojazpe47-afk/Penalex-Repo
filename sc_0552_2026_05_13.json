@@ -1,0 +1,23 @@
+{
+  "id": 17451,
+  "numero": "0552",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un escrito de avocamiento presentado por Vitelio Herrera Lamus, quien denuncia la invasión de su inmueble por varios ciudadanos y solicita la intervención judicial. La Sala, tras revisar el escrito, determina que presenta imprecisiones que dificultan su comprensión y la identificación del trámite procesal correspondiente. Por lo tanto, se ordena la notificación al solicitante para que corrija su demanda en un plazo de tres días.",
+  "palabras_clave": [
+    "avocamiento",
+    "invasión de inmueble",
+    "demanda",
+    "Sala Constitucional"
+  ],
+  "titulo": "Decisión sobre avocamiento en caso de invasión de inmueble",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0552_E26-0118.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355545-0552-13526-2026-26-0118.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.890158"
+}

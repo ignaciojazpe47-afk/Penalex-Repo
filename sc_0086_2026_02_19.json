@@ -1,0 +1,24 @@
+{
+  "id": 17550,
+  "numero": "0086",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una consulta per saltum relacionada con un desacato decretado por el Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara. El desacato se refiere a la ejecución de una sentencia que condenó a Germán José Escalona Alvarado a diez meses de prisión por incumplir un mandamiento de amparo constitucional. La Sala, tras examinar los antecedentes del caso, determinó su competencia para conocer la consulta y ordenó al juzgado remitente la entrega de los expedientes correspondientes.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "sentencia",
+    "Juzgado Superior",
+    "Estado Lara"
+  ],
+  "titulo": "Consulta per saltum sobre desacato en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0086_E25-1048.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352773-0086-19226-2026-25-1048.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.397123"
+}

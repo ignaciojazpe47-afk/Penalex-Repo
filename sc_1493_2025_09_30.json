@@ -1,0 +1,25 @@
+{
+  "id": 21955,
+  "numero": "1493",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por el abogado Ricardo Alejandro Ávalos Salazar, en representación de los ciudadanos colombianos Fabio Leguizamón Pulido y Dairo Ederlan Leguizamón Pulido. La acción se basa en la omisión del Ministro del Poder Popular de Relaciones Exteriores en realizar los trámites necesarios para ejecutar la sentencia de extradición de los mencionados ciudadanos, quienes están requeridos por la República de Colombia por delitos graves.\n\nLa Sala observa que ha transcurrido un período superior a seis meses sin impulso procesal por parte del demandante, lo que se califica como abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa al abogado por la falta de interés en la prosecución de la acción de amparo, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nFinalmente, se ordena la publicación, registro y comunicación de la decisión, así como el archivo del expediente, cumpliendo con lo dispuesto en la normativa aplicable.",
+  "palabras_clave": [
+    "amparo",
+    "extradición",
+    "interés procesal",
+    "abandonos de trámite",
+    "tutela judicial",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1493_E19-0365.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348108-1493-30925-2025-19-0365.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.200283"
+}

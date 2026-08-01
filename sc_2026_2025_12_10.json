@@ -1,0 +1,25 @@
+{
+  "id": 23806,
+  "numero": "2026",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por el abogado Omar José Espitia, en representación de Antonio José Manzano, contra la sentencia N° 020-2023 dictada por la Corte de Apelaciones del Circuito Judicial Penal del estado Zulia. La inadmisibilidad se fundamenta en la falta de presentación de la sentencia correcta para su revisión, ya que se presentó una decisión distinta a la solicitada. La Sala reafirma la carga procesal del solicitante de presentar copia certificada del fallo a revisarse.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "carga procesal",
+    "sentencia",
+    "tribunal",
+    "derecho penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2026_E24-0324.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351839-2026-101225-2025-24-0324.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.749041"
+}

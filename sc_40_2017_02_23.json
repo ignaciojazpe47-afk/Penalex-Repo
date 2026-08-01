@@ -1,0 +1,24 @@
+{
+  "id": 50294,
+  "numero": "40",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Tribunal Superior Segundo del Trabajo y el Tribunal Superior Estadal Contencioso Administrativo del Estado Aragua, en relación a una acción de amparo constitucional interpuesta por el abogado Luís Enrique Díaz González en representación de Antonio José Elbittar Navas. La acción se fundamentó en la presunta violación de derechos constitucionales relacionados con la tutela judicial efectiva y el debido proceso, debido a un retardo procesal por parte de la Coordinación Laboral del Estado Aragua.\n\nLa Sala declaró su competencia para conocer del caso, argumentando que los derechos constitucionales presuntamente violados no correspondían a la materia laboral, sino a la jurisdicción contencioso-administrativa. En consecuencia, se ordenó la remisión del expediente al Tribunal Superior Estadal Contencioso Administrativo para que se pronuncie sobre la admisibilidad del amparo y, de ser el caso, lo sustancie.\n\nFinalmente, la Sala decidió aceptar la competencia declinada y ordenó la remisión del expediente al tribunal correspondiente, reafirmando la importancia de la tutela judicial efectiva en el contexto de los derechos laborales.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "retardo procesal",
+    "tutela judicial efectiva",
+    "Estado Aragua"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S40_E16-0612.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196349-40-23217-2017-16-0612.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.247921"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 67695,
+  "numero": "1505",
+  "fecha": "2015-11-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 30 de abril de 2015 por el Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Zulia, que había declarado con lugar la demanda de reivindicación interpuesta por los ciudadanos Edgar de Jesús Gil Machado y Mariela del Pilar Carruyo Villasmil contra Héctor Segundo Quintero Martínez. La Sala determinó que la sentencia apelada había violado el derecho a la tutela judicial efectiva, ya que no se cumplían los requisitos para la procedencia de la acción reivindicatoria, dado que la posesión del demandado era legítima y consentida por los demandantes. Por lo tanto, se anuló la sentencia de 30 de abril de 2015 y se confirmó la decisión del Juzgado Cuarto de Primera Instancia que había declarado sin lugar la demanda de reivindicación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "reivindicación",
+    "tutela judicial efectiva",
+    "posesión legítima"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-26_S1505_E15-0832.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183282-1505-261115-2015-15-0832.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:46.354118"
+}

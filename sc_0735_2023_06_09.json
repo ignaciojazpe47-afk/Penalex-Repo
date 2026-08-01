@@ -1,0 +1,27 @@
+{
+  "id": 30787,
+  "numero": "0735",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Javier José Franco Dorado contra la sentencia del Tribunal Superior Tercero, que ordenó iniciar un proceso psicoterapéutico para poder compartir con su hijo. Se argumenta que el demandante no agotó las vías ordinarias antes de recurrir al amparo, lo que lleva a la inadmisibilidad de su solicitud. La decisión se fundamenta en la necesidad de que el demandante cumpla con las condiciones impuestas por el tribunal inferior antes de solicitar la revisión del régimen de convivencia familiar.",
+  "palabras_clave": [
+    "convivencia familiar",
+    "niños",
+    "derechos",
+    "filiación",
+    "patria potestad",
+    "revisión",
+    "protección",
+    "interés superior"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0735_E22-0822.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326006-0735-9623-2023-22-0822.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.424776"
+}

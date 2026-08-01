@@ -1,0 +1,26 @@
+{
+  "id": 37129,
+  "numero": "0879",
+  "fecha": "2022-10-31",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Manuel Antonio Díaz González, representado por Félix Enrique Carrasquel Pérez, contra una sentencia del Juzgado Primero Superior que declaró sin lugar un recurso de apelación. La Sala declaró inadmisible la acción de amparo, argumentando que el demandante no agotó los medios judiciales ordinarios antes de recurrir a esta vía. Se destacó que la acción de amparo no es la única vía para restablecer derechos y que existen otros recursos disponibles que debieron ser utilizados.",
+  "palabras_clave": [
+    "control constitucional",
+    "inflación",
+    "BCV",
+    "derechos laborales",
+    "corrección monetaria",
+    "jurisprudencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-31_S0879_E19-0165.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320481-0879-311022-2022-19-0165.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.421767"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21654,
+  "numero": "1401",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por César Augusto Rivero Figueroa contra la decisión del Juzgado Superior Tercero Agrario que declaró inadmisible su acción de amparo constitucional. La Sala confirmó la inadmisibilidad, argumentando que la amenaza contra los derechos constitucionales no era inmediata ni realizable por el tribunal demandado, y que el demandante no había agotado las vías judiciales ordinarias antes de recurrir al amparo.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "jurisdicción",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1401_E17-0858.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347257-1401-7825-2025-17-0858.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.746294"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35153,
+  "numero": "0221",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de apelación interpuesto por el abogado Ermilo José Dellán, actuando como Fiscal Provisorio, contra una decisión de la Corte de Apelaciones que declaró inadmisible una acción de amparo constitucional. La Sala consideró que la acumulación de pretensiones en el mismo libelo era inepta, ya que involucraba a distintos órganos jurisdiccionales, lo que generaba incompetencia para el tribunal. Finalmente, se declaró firme la decisión apelada y se ordenó la remisión del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial efectiva",
+    "derechos constitucionales",
+    "inepta acumulación",
+    "justicia",
+    "procedimiento civil"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0221_E17-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317482-0221-21622-2022-17-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.619027"
+}

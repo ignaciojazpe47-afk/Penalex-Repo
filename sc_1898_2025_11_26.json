@@ -1,0 +1,26 @@
+{
+  "id": 23244,
+  "numero": "1898",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión de la sentencia n.° RC.000644, dictada el 13 de diciembre de 2018, por la Sala Accidental de la Sala de Casación Civil. La solicitante, Adriana Piedrahita Ramos, argumentó violaciones a sus derechos en el proceso de cumplimiento de contrato de compraventa, solicitando la nulidad de la sentencia impugnada. Sin embargo, la Sala concluye que no se configuraron las violaciones denunciadas y que la Sala Accidental actuó conforme a derecho, desestimando la solicitud de revisión.",
+  "palabras_clave": [
+    "contrato",
+    "nulidad",
+    "comunidad conyugal",
+    "apelación",
+    "derechos reales",
+    "debido proceso",
+    "cumplimiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1898_E19-0106.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350494-1898-261125-2025-19-0106.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.049478"
+}

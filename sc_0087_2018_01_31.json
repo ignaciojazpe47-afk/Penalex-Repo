@@ -1,0 +1,27 @@
+{
+  "id": 45251,
+  "numero": "0087",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la sentencia N° 2017-403 de la Corte Segunda de lo Contencioso Administrativo, que declaró firme un fallo apelado. El abogado del Municipio Atures solicita la revisión alegando violaciones al derecho a la defensa y al debido proceso. La Sala determina su competencia para conocer la solicitud y ordena al solicitante consignar copia certificada del trámite en un plazo determinado.",
+  "palabras_clave": [
+    "jubilaciones",
+    "pensiones",
+    "debido proceso",
+    "revisión",
+    "competencia",
+    "derecho a la defensa",
+    "Corte Segunda",
+    "Sala Constitucional"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia N° 2017-403",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0087_E17-1121.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207265-0087-31118-2018-17-1121.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.451264"
+}

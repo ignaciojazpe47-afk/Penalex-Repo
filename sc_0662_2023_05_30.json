@@ -1,0 +1,26 @@
+{
+  "id": 30616,
+  "numero": "0662",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación de una acción de amparo constitucional interpuesta por el abogado José Navarro Adeyán en representación de OCARLOS MARTÍN RAMÍREZ. La apelación se fundamentó en la supuesta violación del debido proceso y el derecho a la defensa, alegando que se habían admitido pruebas ilegales en el juicio. La Sala constató que el recurso de apelación fue interpuesto dentro del lapso legal y que la decisión de la Corte de Apelaciones que declaró 'INADMISIBLE' la acción de amparo era procedente.",
+  "palabras_clave": [
+    "apelación",
+    "pruebas",
+    "testigos",
+    "debido proceso",
+    "derechos humanos",
+    "justicia",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0662_E17-0955.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325750-0662-30523-2023-17-0955.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.922993"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30306,
+  "numero": "0524",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible sobrevenidamente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró con lugar la apelación interpuesta por los abogados María Hernández y Carlos Salas en representación del ciudadano Nie Yongfa, contra la sentencia que declaró inadmisible la acción de amparo constitucional. La Sala consideró que la acción de amparo se centró en la negativa del Tribunal Tercero de Primera Instancia en Funciones de Ejecución para juramentar a los abogados defensores, lo que vulneró el derecho a la defensa y al debido proceso del ciudadano. Finalmente, se anuló la decisión del tribunal inferior y se declaró inadmisible la acción de amparo sobrevenidamente debido al desistimiento de la parte accionante tras ser juramentados los abogados.",
+  "palabras_clave": [
+    "habeas corpus",
+    "debido proceso",
+    "amparo constitucional",
+    "legitimación",
+    "derechos humanos",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0524_E22-0374.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325150-0524-16523-2023-22-0374.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.850515"
+}

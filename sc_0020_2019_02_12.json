@@ -1,0 +1,25 @@
+{
+  "id": 42123,
+  "numero": "0020",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declaró sin lugar el recurso de apelación interpuesto por Jesús David Pérez Morales, quien había solicitado la entrega material de bienes adjudicados en un remate judicial. La acción de amparo fue considerada inadmisible debido a que el demandante no utilizó los mecanismos judiciales ordinarios disponibles para impugnar la decisión que consideraba lesiva de sus derechos constitucionales. La Sala concluyó que la pretensión del accionante fue satisfecha con la entrega del bien inmueble, por lo que se confirmó la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "tutela judicial",
+    "ejecución",
+    "inhibición",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0020_E18-0074.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303685-0020-12219-2019-18-0074.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.619868"
+}

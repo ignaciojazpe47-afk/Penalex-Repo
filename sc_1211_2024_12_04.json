@@ -1,0 +1,26 @@
+{
+  "id": 28251,
+  "numero": "1211",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de diciembre de 2024, declaró no ha lugar la solicitud de revisión interpuesta por el abogado Daniel Ávila Borges, defensor de Manuel Alejandro Chacón Pirela. La solicitud buscaba revisar las sentencias dictadas el 8 de junio de 2021, 24 de agosto de 2021 y 25 de mayo de 2022, que condenaron a Chacón Pirela a 24 años y 3 meses de prisión por los delitos de cómplice necesario, violación y trato cruel. La Sala concluyó que las sentencias impugnadas fueron ajustadas a derecho y no se evidenció violación de derechos constitucionales.",
+  "palabras_clave": [
+    "ilógica",
+    "valoración de pruebas",
+    "delitos",
+    "violación",
+    "trato cruel",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Revisión de sentencias en caso de violación y trato cruel",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1211_E23-1176.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340147-1211-41224-2024-23-1176.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.036165"
+}

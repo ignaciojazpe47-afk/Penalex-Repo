@@ -1,0 +1,25 @@
+{
+  "id": 17591,
+  "numero": "0105",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por el abogado Gustavo Crocker Romero en nombre de la Cooperativa Seracoop II R.L. respecto a la sentencia N° 290, dictada el 12 de marzo de 2025. La Sala argumenta que la solicitud no se dirige a aclarar puntos oscuros o ambiguos, sino que reitera alegatos ya expuestos, lo que no es compatible con la naturaleza de la aclaratoria. Se concluye que la sentencia N° 290 está debidamente motivada y no presenta errores que ameriten corrección.",
+  "palabras_clave": [
+    "contratación",
+    "cooperativas",
+    "licitaciones",
+    "pruebas",
+    "contraloría",
+    "administrativo"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de la sentencia N° 290",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0105_E24-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353093-0105-2326-2026-24-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.383209"
+}

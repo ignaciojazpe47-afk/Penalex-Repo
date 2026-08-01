@@ -1,0 +1,25 @@
+{
+  "id": 20832,
+  "numero": "1091",
+  "fecha": "2025-07-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por el abogado Derbis Huwerley Faudito Rodríguez en representación de Edilia Rosa Rivero De Franco, contra la decisión del Juzgado Superior Civil que declaró sin lugar un recurso de apelación. Sin embargo, la Sala determina que la acción es inadmisible debido a la falta de presentación del poder que acredita la representación del abogado, lo que constituye un requisito esencial para la admisión de la demanda.",
+  "palabras_clave": [
+    "jurisprudencia",
+    "procedimiento civil",
+    "experticia",
+    "documento",
+    "apelación",
+    "costas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1091_E24-0970.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345853-1091-9725-2025-24-0970.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.509222"
+}

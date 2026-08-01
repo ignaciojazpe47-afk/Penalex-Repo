@@ -1,0 +1,26 @@
+{
+  "id": 28415,
+  "numero": "1357",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del TSJ se pronuncia sobre la competencia para conocer de una acción de amparo constitucional sobrevenido interpuesta por Juan Carlos II López Rodríguez, en contra de una decisión de la Corte de Apelaciones que anuló una sentencia de sobreseimiento. La Sala declara su competencia y ordena la remisión de información adicional sobre el estado del proceso penal relacionado. Se establece un plazo de seis días para el cumplimiento de lo ordenado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido_proceso",
+    "sentencia",
+    "tribunales",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre Acción de Amparo Constitucional Sobrevenido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1357_E24-0532.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340371-1357-101224-2024-24-0532.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.206995"
+}

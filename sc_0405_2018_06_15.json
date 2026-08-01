@@ -1,0 +1,24 @@
+{
+  "id": 47241,
+  "numero": "0405",
+  "fecha": "2018-06-15",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Superior Tercero del Trabajo que había declarado sin lugar un recurso de apelación y repuesto la causa al estado de fijar una nueva audiencia preliminar. La abogada Claribel Castillo Meza, en representación de los demandantes, argumentó que la decisión violó derechos fundamentales al debido proceso y a la defensa, ya que la audiencia preliminar se había celebrado correctamente y la parte demandada no justificó su incomparecencia. La Sala concluyó que la sentencia del Tribunal Superior era contraria a las garantías procesales y decidió anularla, declarando firme la sentencia del Tribunal Sexto que había declarado parcialmente con lugar la demanda por cobro de prestaciones sociales.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "laboral",
+    "debido proceso",
+    "audiencia preliminar"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre cobro de prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-15_S0405_E16-0759.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212200-0405-15618-2018-16-0759.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.880493"
+}

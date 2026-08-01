@@ -1,0 +1,24 @@
+{
+  "id": 52804,
+  "numero": "536",
+  "fecha": "2017-07-11",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una demanda de amparo constitucional presentada por ciudadanos de San Cristóbal, Táchira, contra la Alcaldesa Patricia Lorena Gutiérrez Fernández, por la violación de derechos constitucionales relacionados con el libre tránsito, la educación, la salud y el medio ambiente. Los demandantes alegaron que la Alcaldesa no cumplió con sus deberes, permitiendo la obstrucción de vías públicas y la realización de actos violentos que afectan a la comunidad.\n\nLa Sala declaró su competencia para conocer la demanda, considerando que los hechos denunciados tienen trascendencia nacional. Se acordó un amparo cautelar, ordenando a la Alcaldesa tomar medidas para garantizar el libre tránsito y la seguridad de los ciudadanos, así como la protección del medio ambiente y el cumplimiento de las leyes.\n\nFinalmente, se ordenó la remisión del expediente al Juzgado de Sustanciación para la citación de la Alcaldesa y se establecieron medidas para asegurar el cumplimiento de la decisión, recordando las sanciones por desobediencia a la autoridad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "libre tránsito",
+    "Táchira",
+    "Patricia Lorena Gutiérrez"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional contra la Alcaldesa de San Cristóbal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-07-11_S536_E17-0741.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/201018-536-11717-2017-17-0741.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.602366"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 19804,
+  "numero": "0694",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por la abogada Yobani Mendoza en representación de Darcy Alicia Márquez Velandia, quien alegaba amenazas de desalojo por parte de funcionarios de la Fiscalía Superior del Ministerio Público del Estado Trujillo. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso, ya que los actos cuestionados se enmarcan dentro de la jurisdicción contencioso administrativa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción contencioso administrativa",
+    "derechos humanos",
+    "funcionarios públicos",
+    "vivienda",
+    "coacción",
+    "amenazas"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0694_E24-1011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343769-0694-14525-2025-24-1011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.716931"
+}

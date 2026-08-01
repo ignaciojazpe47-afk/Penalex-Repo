@@ -1,0 +1,24 @@
+{
+  "id": 27021,
+  "numero": "0507",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Se ORDENA notificar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer la desaplicación de una norma efectuada por un tribunal inferior. Se establece la obligación de remitir copia certificada de la sentencia definitivamente firme que contenga la desaplicación, y se ordena notificar a la Jueza del Tribunal Sexto para que informe sobre la firmeza del fallo del 14 de abril de 2024. La Sala destaca la importancia de garantizar una interpretación uniforme de la Constitución.",
+  "palabras_clave": [
+    "competencia",
+    "desaplicación",
+    "causa penal",
+    "firmeza",
+    "notificación"
+  ],
+  "titulo": "Notificación a Jueza sobre firmeza de fallo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0507_E24-0457.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338395-0507-301024-2024-24-0457.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.468330"
+}

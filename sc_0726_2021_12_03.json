@@ -1,0 +1,23 @@
+{
+  "id": 40601,
+  "numero": "0726",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por Jesús David Macías Hernández, curador de la sucesión de José Rojas Contreras, en relación a dos causas que cursan ante tribunales de Caracas. Se argumentó la existencia de graves desórdenes procesales y un retardo en la resolución de los juicios de nulidad testamentaria y herencia yacente, lo que podría afectar el orden público constitucional y el derecho al debido proceso. La Sala se declaró competente para conocer el caso y ordenó la remisión de las causas a su instancia.",
+  "palabras_clave": [
+    "avocamiento",
+    "nulidad testamentaria",
+    "herencia yacente",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causas de nulidad testamentaria y herencia yacente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0726_E21-0707.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314966-0726-31221-2021-21-0707.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.736934"
+}

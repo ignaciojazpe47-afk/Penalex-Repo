@@ -1,0 +1,25 @@
+{
+  "id": 18701,
+  "numero": "0247",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono del trámite en la acción de amparo constitucional.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el amparo constitucional ejercido por el abogado Argenis Martínez Ramírez en representación de Juan Carlos Guevara González. Se determina que la acción de amparo es tempestiva, pero se constata que hubo inactividad por parte del accionante durante seis meses, lo que ocasiona el abandono del trámite y la extinción de la instancia. Además, se impone una multa de dos mil bolívares a la parte actora por el abandono del procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotramite",
+    "multas",
+    "derechos",
+    "garantias",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0247_E24-0139.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342125-0247-5325-2025-24-0139.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.876964"
+}

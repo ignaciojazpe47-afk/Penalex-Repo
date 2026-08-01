@@ -1,0 +1,26 @@
+{
+  "id": 23060,
+  "numero": "1828",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Segundo Superior del Circuito Judicial del Trabajo. El abogado Luis Alfonso Bastidas, actuando como apoderado judicial del ciudadano Miguel Alberto Mata González, solicitó la revisión de la sentencia del 9 de agosto de 2024, alegando violaciones al debido proceso y derechos laborales.",
+  "palabras_clave": [
+    "intangible",
+    "trabajadores",
+    "derechos laborales",
+    "progresividad",
+    "infracción",
+    "representación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1828_E25-1162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349952-1828-181125-2025-25-1162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.066595"
+}

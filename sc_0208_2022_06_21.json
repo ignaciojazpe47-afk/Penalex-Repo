@@ -1,0 +1,26 @@
+{
+  "id": 35140,
+  "numero": "0208",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por Carmen Cecilia Padilla D´ Viasi contra una decisión del Juzgado Superior Cuarto Agrario de Barinas. La Sala declaró que el recurso era improcedente in limine litis, argumentando que el juzgado no había actuado fuera de su competencia y que no se había demostrado una violación de derechos constitucionales. Se destacó que el amparo no puede ser utilizado como una tercera instancia para revisar decisiones judiciales ya resueltas.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "apelación",
+    "debido proceso",
+    "Código de Procedimiento Civil",
+    "jurisdicción agraria",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0208_E17-0946.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317469-0208-21622-2022-17-0946.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.621393"
+}

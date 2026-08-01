@@ -1,0 +1,25 @@
+{
+  "id": 37509,
+  "numero": "1031",
+  "fecha": "2022-11-22",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Ricardo de Armas Dávila contra la decisión del Juzgado Superior Agrario de Mérida, que declaró inadmisible su acción de amparo constitucional. La Sala constató que el apelante había optado por la vía ordinaria, lo que llevó a la inadmisibilidad del amparo. En consecuencia, se confirmó el fallo del Juzgado Superior Agrario, manteniendo la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "procedimiento",
+    "inadmisibilidad",
+    "recursos ordinarios",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-22_S1031_E22-0655.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320936-1031-221122-2022-22-0655.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.335676"
+}

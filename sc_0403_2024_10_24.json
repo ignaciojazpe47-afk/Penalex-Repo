@@ -1,0 +1,25 @@
+{
+  "id": 26871,
+  "numero": "0403",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por Joussef Antonio Sleiman, debido a la falta de consignación de la copia certificada de la sentencia objeto de revisión. La solicitud fue interpuesta contra la decisión del Tribunal Tercero de Primera Instancia que declaró inadmisible una acción de amparo. La Sala destacó que los abogados que representaban al solicitante no tenían la facultad para actuar en su nombre, lo que también constituyó una causal de inadmisibilidad.",
+  "palabras_clave": [
+    "motivación",
+    "debido proceso",
+    "tutela judicial",
+    "jurisprudencia",
+    "incongruencia",
+    "vías ordinarias"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0403_E23-0792.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338175-0403-241024-2024-23-0792.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.319317"
+}

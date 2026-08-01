@@ -1,0 +1,23 @@
+{
+  "id": 56764,
+  "numero": "238",
+  "fecha": "2016-03-29",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero del Trabajo que había declarado competente a la Inspectoría del Trabajo para conocer sobre el reenganche de Julio Eleno Rincón Méndez, quien fue destituido como funcionario público. La Sala determinó que la decisión del Juzgado había violado principios constitucionales al considerar que Rincón Méndez no era un funcionario público, dado que no había ingresado por concurso. La Sala concluyó que la Inspectoría del Trabajo no tenía competencia en este caso y que la controversia debía ser resuelta por la jurisdicción contencioso-administrativa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "funcionario público",
+    "Inspectoría del Trabajo",
+    "derecho al debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del caso de Julio Eleno Rincón Méndez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-29_S238_E14-1355.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/186544-238-29316-2016-14-1355.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:23.452944"
+}

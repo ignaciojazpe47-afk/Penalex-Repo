@@ -1,0 +1,26 @@
+{
+  "id": 37256,
+  "numero": "0950",
+  "fecha": "2022-05-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en amparo constitucional interpuesto por Izmaly Isolina Yzaguirre Valderrama, quien alegó violaciones a sus derechos en un juicio de acción reivindicatoria. La Sala, tras analizar los fundamentos del recurso, determinó que la acción de amparo era inadmisible por haber transcurrido el lapso de caducidad establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "caducidad",
+    "apelación",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-10_S0950_E22-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320644-0950-101122-2022-22-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.431902"
+}

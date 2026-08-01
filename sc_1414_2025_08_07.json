@@ -1,0 +1,27 @@
+{
+  "id": 21667,
+  "numero": "1414",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el recurso de apelación interpuesto por Jairo Campos Álvarez, quien solicitó amparo constitucional contra el Juzgado Segundo de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del estado Zulia. La acción fue declarada inadmisible por la Sala Primera de la Corte de Apelaciones del mismo circuito, debido a que la situación jurídica denunciada había cesado tras un pronunciamiento del juzgado agraviante el 9 de septiembre de 2024.\n\nLa Sala Constitucional confirma la decisión de inadmisibilidad, argumentando que la acción de amparo no puede ser admitida cuando la violación o amenaza de derechos ha cesado. Se establece que el recurso de apelación fue interpuesto dentro del plazo legal, pero se concluye que no hay lugar para el amparo solicitado, ya que el juzgado se pronunció sobre la acción civil solicitada por el demandante.\n\nFinalmente, se declara sin lugar el recurso de apelación y se confirma la sentencia de la Corte de Apelaciones, ordenando el cumplimiento de lo dispuesto.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "debido proceso",
+    "justicia",
+    "inadmision",
+    "derechos",
+    "garantías",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1414_E24-1075.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347280-1414-7825-2025-24-1075.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.030220"
+}

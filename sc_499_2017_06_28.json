@@ -1,0 +1,24 @@
+{
+  "id": 52559,
+  "numero": "499",
+  "fecha": "2017-06-28",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Ha Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n° 2016-0062 dictada por la Corte Primera de lo Contencioso Administrativo, que declaró inadmisible un recurso de nulidad interpuesto por Iván Darío Sposito Reyes. La Corte consideró que la decisión de la Corte Primera vulneraba el principio de confianza legítima, ya que el demandante había sido informado de un plazo de seis meses para interponer su recurso, conforme a la Ley Orgánica de la Contraloría General de la República. La Sala Constitucional decidió anular la sentencia recurrida y devolver el caso a la Corte Primera para que se pronuncie sobre la admisión del recurso de nulidad.",
+  "palabras_clave": [
+    "revisión",
+    "nulidad",
+    "confianza legítima",
+    "caducidad",
+    "administración pública"
+  ],
+  "titulo": "Revisión de sentencia sobre nulidad administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-28_S499_E16-1238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/200510-499-28617-2017-16-1238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.671292"
+}

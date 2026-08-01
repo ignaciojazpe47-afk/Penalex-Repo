@@ -1,0 +1,26 @@
+{
+  "id": 34121,
+  "numero": "1228",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Egidio Salvador Lascano, quien impugnó la decisión N° 000444 de la Sala de Casación Civil que declaró perecido su recurso de casación. La Sala determinó que la presentación del recurso fue extemporánea, lo que llevó a la declaración de perecimiento del mismo. En consecuencia, la Sala Constitucional declaró no ha lugar la solicitud de revisión, reafirmando la competencia para conocer del caso y la validez de la decisión impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "discrecionalidad",
+    "tutela judicial",
+    "debido proceso",
+    "Código de Procedimiento Civil",
+    "sentencias firmes",
+    "control de constitucionalidad"
+  ],
+  "titulo": "Revisión Constitucional sobre la decisión N° 000444 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1228_E19-0735.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328432-1228-14823-2023-19-0735.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.317244"
+}

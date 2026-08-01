@@ -1,0 +1,27 @@
+{
+  "id": 28020,
+  "numero": "1109",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA la decisión dictada el 4 de mayo de 2023, por el Juzgado Superior Tercero, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Antonio Alejandro Carvallo Cristo contra la decisión del Juzgado Superior Tercero que declaró procedente la acción de amparo de Carlos Luis Calzadilla Quiroz. La Sala declaró nula la decisión del 4 de mayo de 2023, argumentando que la acción de amparo de Calzadilla Quiroz era inadmisible, ya que existía una vía ordinaria para cuestionar la legalidad del asiento registral. Se confirma la inadmisibilidad de la acción de amparo ejercida por Calzadilla Quiroz.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "asiento registral",
+    "tutela judicial",
+    "debido proceso",
+    "nulidad",
+    "amparo",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1109_E23-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339689-1109-281124-2024-23-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.475822"
+}

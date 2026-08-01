@@ -1,0 +1,24 @@
+{
+  "id": 45002,
+  "numero": "0005",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIERREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 17 de enero de 2018, declaró con lugar el recurso de amparo interpuesto por Stanislao Jakubowicz Raitan contra la sentencia del Juzgado Séptimo de Primera Instancia que había declarado improcedente la acción de amparo. La Sala consideró que la exigencia de caución para el demandante no domiciliado en Venezuela era inaplicable en este caso, dado que se trataba de una materia de derecho de autor, lo que implica que no se debe exigir fianza para actuar en juicio. La decisión revoca la sentencia anterior y ordena que se decida nuevamente sobre la cuestión previa sin la exigencia de caución.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho de autor",
+    "caución",
+    "fianza",
+    "acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Stanislao Jakubowicz Raitan",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0005_E15-0451.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206858-0005-17118-2018-15-0451.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.270807"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 19902,
+  "numero": "0765",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1982, confirma la decisión del Juzgado Superior Sexto de lo Contencioso Tributario que declaró inadmisible la acción de amparo constitucional interpuesta por varias sociedades y un ciudadano contra resoluciones administrativas sancionatorias. La Sala argumenta que los demandantes no agotaron la vía administrativa antes de recurrir al amparo, lo que constituye una causal de inadmisibilidad según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La decisión se basa en la falta de agotamiento de recursos ordinarios y en la correcta aplicación de la normativa tributaria vigente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "recursos ordinarios"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0765_E23-0381.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343972-0765-21525-2025-23-0381.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.870992"
+}

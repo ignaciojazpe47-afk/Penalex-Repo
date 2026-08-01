@@ -1,0 +1,23 @@
+{
+  "id": 19582,
+  "numero": "0600",
+  "fecha": "2025-01-16",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Álvaro Carlos Herrera Morales en representación de MAFRE LA SEGURIDAD, C.A., DE SEGUROS, respecto a una decisión del Juzgado Superior Segundo en lo Civil, Mercantil, Bancario, del Tránsito y de Protección del Niño, Niña y del Adolescente del Estado Carabobo. La solicitud se fundamentó en la supuesta vulneración de derechos constitucionales y la existencia de errores en la interpretación del contrato de arrendamiento que dio origen a la condena por daños y perjuicios.\nLa Sala declaró su competencia para conocer la solicitud, pero negó la homologación del desistimiento presentado por el abogado y, finalmente, decidió no ha lugar a la revisión solicitada, argumentando que la decisión impugnada no contradecía ningún precedente de la Sala ni vulneraba principios constitucionales. Se destacó que la revisión no es un recurso para replantear lo ya decidido, sino para asegurar la uniformidad en la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato",
+    "daños y perjuicios",
+    "MAFRE LA SEGURIDAD"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre cumplimiento de contrato y daños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0600_E23-0678.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343459-0600-30425-2025-23-0678.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.808228"
+}

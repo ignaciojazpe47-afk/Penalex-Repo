@@ -1,0 +1,24 @@
+{
+  "id": 2775,
+  "numero": null,
+  "fecha": "2002-05-15",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "RAFAEL PÉREZ PERDOMO",
+  "resumen": "La Corte de Apelaciones del Estado Lara declaró inadmisible el recurso de apelación por extemporáneo, lo que llevó a la defensa a interponer un recurso de casación. El Tribunal Supremo de Justicia, al revisar el caso, determinó que la decisión del Juzgado de Control era una sentencia y no un auto, lo que hacía procedente el recurso de apelación. Finalmente, se declaró con lugar el recurso de casación, anulando el fallo recurrido y ordenando oír el recurso de apelación.",
+  "palabras_clave": [
+    "casación",
+    "apelación",
+    "inadmisibilidad",
+    "delito",
+    "sustancias estupefacientes"
+  ],
+  "titulo": "Sentencia de Casación sobre inadmisibilidad de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-05-15_CasacionPenal_C010533_PerdomoLa.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:08.623196"
+}

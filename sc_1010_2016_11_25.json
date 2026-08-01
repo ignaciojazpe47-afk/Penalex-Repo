@@ -1,0 +1,24 @@
+{
+  "id": 60702,
+  "numero": "1010",
+  "fecha": "2016-11-25",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "No Ha Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Darwin Antonio Mosquera Peña, quien impugnó una decisión del Juzgado Superior Cuarto del Circuito Judicial del Trabajo de Zulia. La sentencia cuestionada había declarado con lugar un recurso de apelación interpuesto por Pdvsa Operaciones Acuáticas, S.A., en relación a la calificación de faltas que resultó en su despido. Mosquera alegó violaciones a principios constitucionales como la presunción de inocencia y el non bis in idem, argumentando que la decisión administrativa se basó en pruebas de un proceso penal donde fue sobreseído.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "presunción de inocencia",
+    "non bis in idem",
+    "despido",
+    "calificación de faltas"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia Laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-25_S1010_E16-0136.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/193145-1010-251116-2016-16-0136.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.608660"
+}

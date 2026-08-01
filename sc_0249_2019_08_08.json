@@ -1,0 +1,25 @@
+{
+  "id": 43807,
+  "numero": "0249",
+  "fecha": "2019-08-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer de la demanda de protección de derechos e intereses colectivos interpuesta por varios ciudadanos contra el Alcalde del municipio Santa Rita, Alenis José Guerrero Urrutia. Los demandantes alegan que las acciones del Alcalde han generado una crisis en el municipio, afectando la calidad de vida de sus habitantes y vulnerando sus derechos. La Sala determina que la competencia corresponde a la jurisdicción contencioso administrativa, declinando así el conocimiento del caso.",
+  "palabras_clave": [
+    "derechos colectivos",
+    "servicios públicos",
+    "jurisdicción contencioso administrativa",
+    "Ley Orgánica del Poder Público Municipal",
+    "calidad de vida",
+    "autoridad municipal"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de derechos e intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-08_S0249_E19-0154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/306926-0249-8819-2019-19-0154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.401219"
+}

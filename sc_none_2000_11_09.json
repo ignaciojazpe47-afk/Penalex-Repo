@@ -1,0 +1,27 @@
+{
+  "id": 2114,
+  "numero": null,
+  "fecha": "2000-11-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Derechos Políticos y Tratados Internacionales",
+  "decision": "INADMISIBLE",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia de Venezuela declaró inadmisible la acción de nulidad interpuesta por los abogados Adolfo R. Taylhardat y Alejandro Feo La Cruz contra el artículo 10 del Decreto de Transición del Poder Público. Este artículo establecía la cesación de funciones de los parlamentarios venezolanos en el Parlamento Latinoamericano y Andino, lo que fue considerado por los demandantes como una violación a derechos políticos fundamentales y a tratados internacionales. La Sala argumentó que el acto impugnado no estaba sujeto a la nueva Constitución de 1999, ya que fue emitido antes de su vigencia, y que la acción de nulidad no procedía. Además, se concluyó que la norma impugnada había perdido su contenido jurídico tras la realización de elecciones posteriores.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Derechos Políticos",
+    "Tratados Internacionales",
+    "Asamblea Nacional Constituyente",
+    "Régimen de Transición",
+    "Parlamento Latinoamericano",
+    "Decisión Judicial"
+  ],
+  "titulo": "Nulidad del Artículo 10 del Decreto de Transición del Poder Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-11-09_Constitucional_00_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.722046"
+}

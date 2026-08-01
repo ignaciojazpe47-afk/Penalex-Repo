@@ -1,0 +1,23 @@
+{
+  "id": 22910,
+  "numero": "1773",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 12 de noviembre de 2025, declaró sin lugar la acción de amparo constitucional interpuesta por Carlos Luis Figueredo Yánez contra el Tribunal Segundo de Primera Instancia en función de Control del Circuito Judicial Penal del estado Cojedes. El demandante alegaba violaciones al debido proceso y a su derecho a la defensa, argumentando que se le impuso un defensor público sin su consentimiento. La Sala consideró que el tribunal de instancia actuó conforme a la normativa al declarar el abandono de la defensa privada por inasistencia injustificada de sus abogadas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "Cojedes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Carlos Luis Figueredo Yánez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1773_E25-0226.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349763-1773-121125-2025-25-0226.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.071352"
+}

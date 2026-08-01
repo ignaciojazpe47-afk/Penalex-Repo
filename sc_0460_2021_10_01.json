@@ -1,0 +1,24 @@
+{
+  "id": 39723,
+  "numero": "0460",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Luis Carreño Pino en representación de la ciudadana Ciralbert Rodríguez. La solicitud se refería a una sentencia emitida el 31 de octubre de 2017 por el Juzgado Superior Accidental del Trabajo de Nueva Esparta, que declaró sin lugar una apelación. La Sala declaró inadmisible la solicitud debido a la falta de documentación necesaria, como el poder del apoderado y la copia certificada de la sentencia objeto de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "inadmisibilidad",
+    "representación judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0460_E18-0780.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313569-0460-11021-2021-18-0780.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.614565"
+}

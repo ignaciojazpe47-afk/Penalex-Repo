@@ -1,0 +1,25 @@
+{
+  "id": 35297,
+  "numero": "0272",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por José Alessi Grifo, en representación de la sociedad mercantil Aluvidrios Alessi, C.A., contra una sentencia del Juzgado Superior Noveno que declaró con lugar un recurso de apelación en un juicio de desalojo. La Sala determinó que no se configuró la tácita reconducción del contrato de arrendamiento, ya que el arrendatario continuó en posesión del inmueble sin el consentimiento del arrendador tras la finalización de la prórroga legal.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "contrato",
+    "derecho de acción",
+    "inmuebles",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en caso de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0272_E19-0529.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317724-0272-7722-2022-19-0529.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.235609"
+}

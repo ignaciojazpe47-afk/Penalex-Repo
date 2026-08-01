@@ -1,0 +1,24 @@
+{
+  "id": 34967,
+  "numero": "0103",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 23 de febrero de 2017 por el Juzgado Cuadragésimo Séptimo, que declaró el sobreseimiento de la causa penal contra varios ciudadanos. El abogado Lisandro Bautista, en representación de Jimmy Zhang Zheng, solicitó la revisión constitucional argumentando violaciones a derechos procesales y a la condición de víctima de su representado. La Sala, tras analizar la solicitud, decidió declarar competente para conocer el caso y acordó la suspensión de los efectos de la sentencia cuestionada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "derechos procesales",
+    "víctima",
+    "suspensión de efectos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de sobreseimiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0103_E21-0550.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316860-0103-2622-2022-21-0550.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.424784"
+}

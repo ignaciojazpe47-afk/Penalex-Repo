@@ -1,0 +1,25 @@
+{
+  "id": 38768,
+  "numero": "0203",
+  "fecha": "2021-05-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono de trámite en la acción de amparo interpuesta por Beatriz Margarita La Cruz Sanz, representada por el abogado Arnaldo Zavarse Pérez, contra una decisión de la Corte de Apelaciones del Estado Carabobo. Se establece que la parte actora no realizó actuaciones procesales válidas durante más de seis meses, lo que se considera como falta de interés en obtener la tutela constitucional solicitada.\nLa sentencia también impone una multa de cinco mil bolívares a la parte accionante, que deberá ser pagada a la Tesorería Nacional. Se ordena la notificación de esta decisión a las partes involucradas y se establece que el cumplimiento de la multa debe ser acreditado ante el Tribunal correspondiente.\nFinalmente, se destaca que la decisión se fundamenta en la falta de impulso procesal y en la ausencia de un interés que justifique la continuación del procedimiento, lo que lleva a la conclusión de que se ha configurado el abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "tutela judicial",
+    "abandonos de trámite",
+    "derechos constitucionales",
+    "competencia",
+    "proceso judicial"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-28_S0203_E16-0950.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312224-0203-28521-2021-16-0950.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.187456"
+}

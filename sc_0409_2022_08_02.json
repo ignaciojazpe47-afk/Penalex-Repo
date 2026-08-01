@@ -1,0 +1,26 @@
+{
+  "id": 35752,
+  "numero": "0409",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El ciudadano José Orlando Giménez Vieweg solicitó revisión constitucional de dos sentencias de la Sala de Casación Social del TSJ que declararon con lugar recursos de nulidad contra actos administrativos del Instituto Nacional de Tierras. La Sala Constitucional, tras analizar la solicitud, declaró su competencia para conocer el caso, pero finalmente decidió no ha lugar a la revisión solicitada, argumentando que no se evidenció una violación manifiesta de derechos constitucionales en las sentencias impugnadas.",
+  "palabras_clave": [
+    "nulidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "tierras",
+    "administrativo",
+    "Ley Orgánica de Procedimientos Administrativos",
+    "Instituto Nacional de Tierras"
+  ],
+  "titulo": "Revisión Constitucional sobre Sentencias de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0409_E17-0503.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318336-0409-2822-2022-17-0503.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.582146"
+}

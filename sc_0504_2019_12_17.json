@@ -1,0 +1,26 @@
+{
+  "id": 44971,
+  "numero": "0504",
+  "fecha": "2019-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a la acción de amparo constitucional interpuesta por Rosnell Vladimir Carrasco Baptista, declaró inadmisible la solicitud debido a la existencia de cosa juzgada respecto a las Resoluciones N° 170607-118 y N° 170607-119 del Consejo Nacional Electoral. Estas resoluciones, que convocaban a una Asamblea Nacional Constituyente, ya habían sido objeto de pronunciamiento previo por parte de la Sala. Además, se negó la homologación del desistimiento presentado por el demandante.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "Consejo Nacional Electoral",
+    "derechos constitucionales",
+    "resoluciones",
+    "jurisdicción",
+    "tutela"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-17_S0504_E17-0837.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309229-0504-171219-2019-17-0837.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.807778"
+}

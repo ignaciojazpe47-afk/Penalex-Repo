@@ -1,0 +1,25 @@
+{
+  "id": 15990,
+  "numero": "0555",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 13 de mayo de 2026, declaró sin lugar la solicitud de revisión constitucional presentada por Vicenzo Di Martino Caruzo, asistido por su abogado, en relación a una sentencia del Juzgado Superior Quinto en lo Civil, Mercantil, Tránsito y Bancario. La revisión se solicitó debido a la supuesta vulneración de principios de confianza legítima y expectativa plausible en el fallo que declaró parcialmente con lugar un recurso de apelación sobre un contrato de arrendamiento. La Sala concluyó que no existían elementos que justificaran la revisión, reafirmando que las solicitudes de revisión no deben ser utilizadas como una tercera instancia.",
+  "palabras_clave": [
+    "arrendamiento",
+    "tácita reconducción",
+    "contrato",
+    "jurisdicción",
+    "pruebas",
+    "decisión judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0555_E26-0211.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355548-0555-13526-2026-26-0211.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.886910"
+}

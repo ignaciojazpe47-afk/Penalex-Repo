@@ -1,0 +1,22 @@
+{
+  "id": 26999,
+  "numero": "0485",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D´Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto en el marco de una acción de amparo constitucional. Los demandantes alegaron violaciones a sus derechos por no haber sido notificados de una querella en su contra. La Corte de Apelaciones había admitido la acción de amparo, lo que llevó a la apelación por parte del abogado del querellante. La Sala determinó su competencia para conocer del recurso y decidió a favor de los demandantes, ordenando la remisión del expediente original para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0485_E21-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338373-0485-301024-2024-21-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.470649"
+}

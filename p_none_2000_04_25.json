@@ -1,0 +1,22 @@
+{
+  "id": 10991,
+  "numero": null,
+  "fecha": "2000-04-25",
+  "anio": 2000,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre la Sala número 2 de la Corte de Apelaciones y el Tribunal Tercero de Reenvío en lo Penal. Se determinó que el Tribunal Tercero de Reenvío es competente para conocer del recurso de casación declarado con lugar por la Corte Suprema de Justicia en 1993, en el caso de Luis Enrique Faneite Guevara por el delito de robo a mano armada. La decisión se fundamenta en el incumplimiento de los plazos establecidos por el Código Orgánico Procesal Penal para dictar sentencia.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "recurso de casación",
+    "robo a mano armada"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en caso de Robo a Mano Armada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_c205f9d1bdc729bbb31ce65a155bb529.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:11.354822"
+}

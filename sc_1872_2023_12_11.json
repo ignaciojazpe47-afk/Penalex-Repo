@@ -1,0 +1,25 @@
+{
+  "id": 33725,
+  "numero": "1872",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por los abogados Freddy Álvarez Bernee, Magally García Malpica y Alfonso José López, en contra de la decisión del Juzgado Undécimo de Primera Instancia que declaró inadmisible la recusación planteada. La Sala determinó que la recusación fue presentada de manera extemporánea, por lo que no se configuraron las violaciones a los derechos constitucionales alegadas por los accionantes. En consecuencia, se declaró sin lugar el recurso de apelación interpuesto contra la decisión del juzgado superior.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "honorarios",
+    "juzgado",
+    "inadmision",
+    "recusación"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1872_E19-0012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331842-1872-111223-2023-19-0012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.460164"
+}

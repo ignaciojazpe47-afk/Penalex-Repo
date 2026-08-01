@@ -1,0 +1,26 @@
+{
+  "id": 31162,
+  "numero": "0869",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la revisión constitucional solicitada por Belkis Mirian Tami Portilla, quien impugna una sentencia del Juzgado de Municipio Ordinario que declaró con lugar la confesión ficta y la demanda de simulación de contrato de compraventa. La Sala determina su competencia para conocer el caso y ordena al juzgado remitente que envíe el expediente correspondiente para su revisión. Se destaca la importancia del derecho a la defensa y el debido proceso en la decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "confesión ficta",
+    "derecho a la defensa",
+    "debido proceso",
+    "simulación de contrato",
+    "competencia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia dictada por el Juzgado de Municipio Ordinario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0869_E20-0110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326689-0869-10723-2023-20-0110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.537051"
+}

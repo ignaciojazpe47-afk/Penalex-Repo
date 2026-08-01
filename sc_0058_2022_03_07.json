@@ -1,0 +1,26 @@
+{
+  "id": 34595,
+  "numero": "0058",
+  "fecha": "2022-03-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión de la sentencia N° RC000091, dictada por la Sala de Casación Civil. La solicitante argumenta que la decisión afecta el orden público y el debido proceso, pero la Sala concluye que no se evidencia vulneración de derechos ni interpretación contraria a criterios establecidos. Se declara que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales, por lo que se niega la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "fuero de atracción",
+    "legitimación",
+    "expropiación",
+    "jurisdicción",
+    "falsedad documental"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-07_S0058_E21-00256.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315894-0058-7322-2022-21-00256.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.709239"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28051,
+  "numero": "1140",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 28 de septiembre de 2023, que había declarado con lugar la acción de amparo constitucional presentada por Juan Alcides Caro Pérez contra la Asociación de Scouts de Venezuela. La Sala declaró inadmisible la acción de amparo, argumentando que existía un medio ordinario de impugnación que no fue agotado por el demandante. En consecuencia, se anuló la sentencia del tribunal inferior y se declaró la inadmisibilidad de la acción de amparo, enfatizando la necesidad de seguir los procedimientos ordinarios antes de recurrir a la tutela constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Revisión",
+    "Derechos Constitucionales",
+    "Asociación de Scouts de Venezuela"
+  ],
+  "titulo": "Revisión de sentencia sobre amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1140_E23-1113.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339737-1140-281124-2024-23-1113.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.471122"
+}

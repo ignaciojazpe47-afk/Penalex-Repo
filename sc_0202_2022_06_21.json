@@ -1,0 +1,22 @@
+{
+  "id": 35134,
+  "numero": "0202",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La abogada Doris González Araujo interpuso una solicitud de revisión constitucional de una decisión de la Corte de Apelaciones que declaró la nulidad de un fallo condenatorio. La Sala Constitucional, tras analizar la competencia, decidió aceptar la revisión de la sentencia firmada el 17 de febrero de 2021. Se ordenó a la Corte de Apelaciones remitir el expediente completo del caso penal seguido contra Melaneo José Monasterios Rodríguez por homicidio calificado.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "homicidio calificado",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0202_E21-0301.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317463-0202-21622-2022-21-0301.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.616877"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21165,
+  "numero": "1199",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por César Augusto Castro Castro contra la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Miranda. La acción se fundamentó en la presunta omisión de pronunciamiento de la Corte respecto a un recurso de apelación y una acción de amparo interpuesta en fechas anteriores. La Sala determinó su competencia para conocer el caso y decidió acumular la nueva acción de amparo con el expediente anterior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "violencia sexual",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1199_E25-0488.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346448-1199-23725-2025-25-0488.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.380248"
+}

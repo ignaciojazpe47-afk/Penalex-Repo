@@ -1,0 +1,25 @@
+{
+  "id": 20114,
+  "numero": "0824",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en la sentencia N° 0414, declara inadmisible la acción de amparo constitucional interpuesta por el abogado Luis Carlos Malavé Esaa en representación de Giuseppe Tufano, contra la omisión de pronunciamiento del Tribunal Sexto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado la Guaira. La Corte de Apelaciones había declarado improcedente la acción, lo que fue revocado por la Sala Constitucional, que determinó que la acción debía ser inadmisible debido a que las supuestas violaciones constitucionales cesaron al emitirse el pronunciamiento correspondiente por parte del tribunal de juicio. La decisión se fundamenta en el hecho de que el texto íntegro de la sentencia fue publicado y notificado a las partes, garantizando así el derecho a recurrir.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "apelación",
+    "jueces"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0824_E24-0717.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344393-0824-3625-2025-24-0717.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.309066"
+}

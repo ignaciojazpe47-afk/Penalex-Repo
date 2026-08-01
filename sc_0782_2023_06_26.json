@@ -1,0 +1,24 @@
+{
+  "id": 30999,
+  "numero": "0782",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Julio César Camacho Álvarez contra la sentencia del Juzgado Superior Primero en lo Civil, que había declarado procedente la acción de amparo y nula la sentencia anterior del Juzgado Segundo de Primera Instancia. La Sala confirmó la decisión del Juzgado Superior, argumentando que la actuación de la defensora ad litem fue negligente, dejando a la demandada en un estado de indefensión. La Sala también destacó la importancia de la defensa efectiva en los procesos judiciales.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "defensora ad litem",
+    "indefensión",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0782_E21-0584.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326438-0782-26623-2023-21-0584.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.544868"
+}

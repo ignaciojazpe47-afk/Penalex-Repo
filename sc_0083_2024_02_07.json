@@ -1,0 +1,25 @@
+{
+  "id": 24136,
+  "numero": "0083",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Pasqualino Fischietto Mariane, quien alegaba violaciones a sus derechos constitucionales en el proceso penal contra varios acusados. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que el accionante no había agotado las vías ordinarias de impugnación. La Sala Constitucional reafirma esta decisión, considerando que el recurso de apelación fue presentado de manera extemporánea, lo que lleva a la firmeza de la sentencia apelada.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "apelación",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-07_S0083_E23-1214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332454-0083-7224-2024-23-1214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.571483"
+}

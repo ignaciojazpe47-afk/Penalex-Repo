@@ -1,0 +1,22 @@
+{
+  "id": 61065,
+  "numero": "1050",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de Dany Jakson Lira Chacón, quien impugnó una sentencia que declaró sin lugar su apelación contra un fallo de desalojo. La Sala determinó su competencia para conocer el caso y acordó la suspensión de los efectos de la sentencia impugnada, considerando que existían elementos suficientes para proteger los derechos del solicitante. Finalmente, se ordenó al juzgado de origen remitir el expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho a la vivienda"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1050_E16-0591.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193643-1050-91216-2016-16-0591.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.580524"
+}

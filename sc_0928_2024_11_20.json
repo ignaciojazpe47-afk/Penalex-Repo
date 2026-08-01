@@ -1,0 +1,26 @@
+{
+  "id": 27722,
+  "numero": "0928",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión interpuesta por INVERCORE C.A. contra la sentencia N° RC-000570 de la Sala de Casación Civil, dictada el 13 de diciembre de 2019. La Sala constató que los abogados que actuaron en nombre del demandado no tenían la representación legítima, lo que constituyó una violación de los derechos a la tutela judicial efectiva y al debido proceso. En consecuencia, se anularon las sentencias impugnadas y se repondrá la causa al estado de contestación de la demanda por parte de abogados válidamente representativos del demandado.",
+  "palabras_clave": [
+    "usura",
+    "derechos",
+    "justicia",
+    "contrato",
+    "proceso",
+    "constitucionalidad",
+    "representación"
+  ],
+  "titulo": "Sentencia sobre revisión de fallo de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0928_E20-0480.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339205-0928-201124-2024-20-0480.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.197395"
+}

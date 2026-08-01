@@ -1,0 +1,27 @@
+{
+  "id": 28584,
+  "numero": "1415",
+  "fecha": "2023-11-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Ha Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Yadira Del Rosario Pinto Sumoza, quien impugnó la sentencia del Tribunal Superior Primero en lo Civil, Mercantil y del Tránsito de Carabobo, que había declarado sin lugar su apelación y con lugar la demanda de cumplimiento de contrato de compra-venta. La Sala determinó que no existían infracciones grotescas ni violaciones a principios constitucionales en la decisión impugnada, concluyendo que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "decisión",
+    "jurisprudencia",
+    "infracciones",
+    "principios",
+    "derechos",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1415_E21-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340607-1415-121224-2024-21-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.430976"
+}

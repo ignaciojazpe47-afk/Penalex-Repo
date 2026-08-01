@@ -1,0 +1,25 @@
+{
+  "id": 16100,
+  "numero": "0068",
+  "fecha": "2025-07-23",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 464 de la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por Yubymar Ivone Cedeño de Texeira. La revisión se fundamentó en alegaciones de violación de derechos constitucionales, específicamente en relación con la tutela judicial efectiva y el debido proceso. Sin embargo, la Sala Constitucional determinó que no hubo violación a los derechos alegados y que la decisión de la Sala de Casación Civil se ajustó a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "derechos constitucionales",
+    "tutela judicial",
+    "debido proceso",
+    "supremacía constitucional"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 464 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0068_E25-0988.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352753-0068-19226-2026-25-0988.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.384773"
+}

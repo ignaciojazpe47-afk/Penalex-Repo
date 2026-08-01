@@ -1,0 +1,23 @@
+{
+  "id": 39127,
+  "numero": "0329",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por un grupo de pensionados del Instituto Venezolano de los Seguros Sociales, quienes alegan la omisión en el pago de pensiones correspondientes a los meses de agosto y septiembre de 2018. La Sala determina que la competencia corresponde al Juzgado Superior en lo Civil (Bienes) y Contencioso Administrativo de la Circunscripción Judicial del Estado Apure y Municipio Arismendi del Estado Barinas, dado que el Instituto Venezolano de los Seguros Sociales es un ente administrativo y no se encuentra dentro de las autoridades a las que se refiere la Ley Orgánica de la Jurisdicción Contencioso Administrativa para el conocimiento de amparos constitucionales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Pensiones",
+    "Derechos Colectivos",
+    "Instituto Venezolano de los Seguros Sociales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por intereses colectivos y difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0329_E18-0677.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312783-0329-22721-2021-18-0677.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.768864"
+}

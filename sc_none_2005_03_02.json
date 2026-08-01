@@ -1,0 +1,18 @@
+{
+  "id": 15276,
+  "numero": null,
+  "fecha": "2005-03-02",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional revisó la sentencia de la Sala Político-Administrativa que declaró inadmisible un recurso contencioso administrativo de nulidad interpuesto por el Banco Industrial de Venezuela C.A. La Sala Constitucional determinó que la decisión de inadmisibilidad vulneró el derecho de acceso a la justicia y el debido proceso, ya que la Sala Político-Administrativa no remitió el caso al tribunal competente tras declararse incompetente. En consecuencia, se anula la decisión objeto de revisión y se ordena a la Sala Político-Administrativa que se pronuncie nuevamente sobre la competencia del recurso.",
+  "palabras_clave": [],
+  "titulo": "Revisión de sentencia inadmisible de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_ba1eef2c85bf81c3b2b2f69adf492aae_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.523526"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33441,
+  "numero": "1775",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer del recurso de apelación interpuesto por Sergio Ramón Aranguren Carrero, en representación del ciudadano Leonard Eligio Briceño Vivas, contra la decisión de la Sala Especial Dos de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala concluye que la apelación es sin lugar, confirmando la inadmisibilidad por inepta acumulación de pretensiones, ya que se intentó cuestionar actuaciones de diferentes órganos del sistema de justicia en un mismo libelo, lo cual es incompatible.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "competencia",
+    "derechos",
+    "justicia",
+    "infracciones",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1775_E20-0307.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331310-1775-71223-2023-20-0307.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.146181"
+}

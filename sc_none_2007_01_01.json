@@ -1,0 +1,22 @@
+{
+  "id": 3385,
+  "numero": null,
+  "fecha": "2007-01-01",
+  "anio": 2007,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Tribunal Primero de Ejecución que desaplicó los artículos 13.3 y 22 del Código Penal, argumentando que la pena de sujeción a la vigilancia de la autoridad era violatoria de derechos humanos. La Sala concluyó que dicha pena no contraviene la Constitución y que su desaplicación fue correcta, reafirmando la importancia de la dignidad humana y el respeto a los derechos fundamentales en el contexto de la ejecución de penas. Se destacó la necesidad de un reexamen de la doctrina sobre la desaplicación de normas penales en el marco del control difuso de constitucionalidad.",
+  "palabras_clave": [
+    "control difuso",
+    "derechos humanos",
+    "Código Penal"
+  ],
+  "titulo": "Desaplicación de artículos del Código Penal por control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2007-05-21_Constitucional_03.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.123298"
+}

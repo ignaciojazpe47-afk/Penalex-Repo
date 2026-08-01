@@ -1,0 +1,22 @@
+{
+  "id": 3352,
+  "numero": null,
+  "fecha": "2006-05-11",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por Reinaldo Alberto Díaz, en relación con el proceso penal 8-U-260-03. Se argumenta que el avocamiento solo es admisible para procesos en curso y que el solicitante carece de legitimación para interponer dicha solicitud, ya que es un tercero en el proceso penal. Además, se señala que la causa ya concluyó con una sentencia firme, lo que imposibilita el avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-11-27_CasacionPenal_06_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.498444"
+}

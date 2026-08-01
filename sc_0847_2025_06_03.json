@@ -1,0 +1,26 @@
+{
+  "id": 20138,
+  "numero": "0847",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por varios ciudadanos contra actos de arbitrariedad y abuso de poder relacionados con un desalojo. La decisión se fundamenta en la inepta acumulación de pretensiones, ya que los demandantes denunciaron a diferentes funcionarios y actos que no podían ser acumulados en un solo recurso. Se resalta la falta de respeto en el lenguaje utilizado por el abogado de los demandantes, instando a un uso apropiado del mismo en el ejercicio profesional.",
+  "palabras_clave": [
+    "amparo",
+    "inepta acumulación",
+    "competencia",
+    "jurisprudencia",
+    "derechos",
+    "garantías",
+    "tribunales"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de amparo constitucional por inepta acumulación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0847_E24-0829.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344417-0847-3625-2025-24-0829.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.310842"
+}

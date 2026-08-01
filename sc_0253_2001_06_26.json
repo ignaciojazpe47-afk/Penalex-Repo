@@ -1,0 +1,27 @@
+{
+  "id": 29721,
+  "numero": "0253",
+  "fecha": "2001-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Domingo Alberto Fleitas, en representación de José Marín, contra una sentencia del Tribunal Superior Tercero de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión del tribunal inferior, argumentando que el apelante no había agotado los recursos ordinarios disponibles antes de recurrir al amparo, lo que llevó a declarar la inadmisibilidad de la acción. Finalmente, se decidió declarar competente para conocer del recurso, pero se resolvió sin lugar el mismo.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "niños",
+    "adolescentes",
+    "derechos",
+    "constitucionales",
+    "inadmision",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0253_E18-0322.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324340-0253-11423-2023-18-0322.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.456873"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 54226,
+  "numero": "799",
+  "fecha": "2017-10-27",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró sin lugar la solicitud de revisión constitucional presentada por Antonio José Lilo Vidal, quien impugnaba la sentencia 00974 de la Sala Político-Administrativa que lo destituyó de su cargo de Juez. La Sala consideró que el recurrente incurrió en abuso de autoridad al otorgar facultades de disposición a un administrador judicial en un juicio de partición, lo que excedía sus atribuciones legales. La decisión se fundamentó en la falta de base legal para dicha actuación y en la violación de normas que regulan el ejercicio de la función judicial.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "abuso de autoridad",
+    "destitución",
+    "juez",
+    "partición"
+  ],
+  "titulo": "Revisión constitucional de la sentencia 00974",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-27_S799_E17-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204588-799-271017-2017-17-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:58.573877"
+}

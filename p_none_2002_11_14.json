@@ -1,0 +1,23 @@
+{
+  "id": 2911,
+  "numero": null,
+  "fecha": "2002-11-14",
+  "anio": 2002,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "DESESTIMADO POR MANIFIESTAMENTE INFUNDADO",
+  "ponente": "DOCTOR ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, revisó el recurso de casación interpuesto por la defensa de Alexis Segundo Castillo, quien había sido condenado por robo a mano armada y lesiones intencionales leves. La defensa argumentó que el fallo de la Corte de Apelaciones adolecía de in motivación y no resolvía adecuadamente las denuncias presentadas en el recurso de apelación. Sin embargo, el TSJ determinó que el fallo impugnado estaba ajustado a derecho y desestimó el recurso.",
+  "palabras_clave": [
+    "casación",
+    "robo",
+    "lesiones",
+    "motivación"
+  ],
+  "titulo": "Sentencia de Casación sobre recurso de apelación en caso de robo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2002-11-14_CasacionPenal_C020414_AnguloFontiveros.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:08.615713"
+}

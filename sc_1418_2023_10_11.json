@@ -1,0 +1,25 @@
+{
+  "id": 32264,
+  "numero": "1418",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui, en el que se declinó la competencia para conocer de una acción de amparo constitucional interpuesta por los abogados de Fernando Josué Campos Lobo. La acción se fundamentó en un supuesto retardo procesal que configuraba la denegación de justicia. Tras el análisis, la Sala Constitucional determinó que la acción era inadmisible debido a que la situación jurídica denunciada había cesado.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "retardo procesal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1418_E23-0200.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329293-1418-111023-2023-23-0200.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.401050"
+}

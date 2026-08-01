@@ -1,0 +1,22 @@
+{
+  "id": 20004,
+  "numero": "0804",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional dictó la sentencia N° 0043 el 5 de febrero de 2025, en la que se ordena al Juez Presidente de la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy que informe sobre el estado actual de la causa identificada con el alfanumérico UP01-P-2014-001039. La decisión se basa en la presunta omisión de pronunciamiento por parte del tribunal inferior respecto a la solicitud de entrega de un vehículo por parte del ciudadano Julio César Tovar López.\n\nLa Sala también instruyó a la Presidenta del Circuito Judicial Penal del estado Yaracuy para que recabe copia certificada del expediente relacionado y un informe detallado de todas las actuaciones realizadas en la causa. Se destaca que el accionante no contaba con asistencia legal adecuada, lo que llevó a la Sala a instruir a la Defensa Pública para que se le proporcione la representación legal necesaria.\n\nFinalmente, se advierte que el incumplimiento de la orden impartida por la Sala acarreará sanciones conforme a la ley, y se insta a la Secretaría de la Sala a notificar esta decisión a las partes involucradas.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "omisión de pronunciamiento",
+    "Yaracuy"
+  ],
+  "titulo": "Sentencia sobre Amparo Constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0804_E24-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344282-0804-28525-2025-24-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.564045"
+}

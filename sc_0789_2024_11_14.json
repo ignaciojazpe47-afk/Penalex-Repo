@@ -1,0 +1,25 @@
+{
+  "id": 27477,
+  "numero": "0789",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Alirio Alberto García Arauca, quien alegó irregularidades en el proceso judicial que cursa ante el Tribunal Superior Accidental en lo Civil, Mercantil y del Tránsito del Estado Trujillo. La Sala, tras analizar la naturaleza del caso, determinó que no se cumplen los requisitos para ejercer su facultad de avocamiento, ya que se trata de un asunto civil que no involucra competencias exclusivas de la Sala Constitucional.",
+  "palabras_clave": [
+    "casación",
+    "inhibición",
+    "justicia",
+    "poder judicial",
+    "derechos",
+    "proceso civil"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0789_E19-0390.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338914-0789-141124-2024-19-0390.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.028050"
+}

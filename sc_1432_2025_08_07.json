@@ -1,0 +1,24 @@
+{
+  "id": 21685,
+  "numero": "1432",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Michel Adriana Velásquez Grillet, se pronunció sobre la solicitud de revisión de la sentencia n° 077-2024 dictada por la Corte de Apelaciones del Circuito Judicial Penal del estado Cojedes. La solicitud fue presentada por el abogado Eusebio Giménez en representación de Pascual José Robles Grimán, quien se encontraba privado de libertad. La Sala determinó su competencia para conocer la solicitud, pero observó que el defensor no presentó copia certificada de la decisión impugnada, lo que llevó a declarar la solicitud inadmisible.",
+  "palabras_clave": [
+    "revisión",
+    "inadmisibilidad",
+    "derechos",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1432_E25-0329.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347303-1432-7825-2025-25-0329.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.027267"
+}

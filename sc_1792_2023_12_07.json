@@ -1,0 +1,24 @@
+{
+  "id": 33458,
+  "numero": "1792",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1289, donde se declara SIN LUGAR el recurso de apelación interpuesto por el abogado Jesús Andrés Durán Romero, en representación del ciudadano César Luis Viña Bonillo. La apelación se basaba en la inadmisibilidad del amparo declarado por la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas el 17 de noviembre de 2020, por considerar que la situación de violación de derechos no había cesado. Sin embargo, la Sala constató que el Tribunal de Control había dado continuidad al proceso, lo que llevó a confirmar la inadmisibilidad del amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "violación constitucional",
+    "audiencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1792_E21-0068.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331327-1792-71223-2023-21-0068.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.481227"
+}

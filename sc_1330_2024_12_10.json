@@ -1,0 +1,25 @@
+{
+  "id": 28388,
+  "numero": "1330",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la acción de amparo constitucional interpuesta por los abogados Arturo José Bonomie Medina y José Luis Vásquez Navarro, contra una sentencia dictada por el Tribunal Segundo de Juicio del Trabajo de Mérida. La acción de amparo fue presentada en relación a una decisión que declaró el desistimiento de un juicio de cobro de prestaciones laborales. La Sala decidió declinar la competencia a un Juzgado Superior del Circuito Judicial del Trabajo de la misma circunscripción.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "constitucional",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1330_E24-0873.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340344-1330-101224-2024-24-0873.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.217827"
+}

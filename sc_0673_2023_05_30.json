@@ -1,0 +1,22 @@
+{
+  "id": 30627,
+  "numero": "0673",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por las ciudadanas Madelein Leal Serrano y Madeley Gineth Ollarves Leal, en contra del Tribunal Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Yaracuy. Las demandantes alegaron violaciones al debido proceso y la tutela judicial efectiva, al no permitirles el acceso al expediente del caso penal que les afecta.\nLa Corte de Apelaciones había declarado sin lugar la acción de amparo, manteniendo la vigencia de las actuaciones del tribunal de instancia. Sin embargo, la Sala Constitucional determinó que existieron irregularidades en el acceso al expediente y en la consideración de la abogada Esmeralda Serrano como parte interviniente, lo que justificó la decisión de ordenar al tribunal de origen que remita información y copias certificadas sobre el estado del caso.\nFinalmente, se ordenó a la Secretaría de la Sala que realice las diligencias necesarias para asegurar el cumplimiento de lo ordenado, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0673_E22-0760.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325761-0673-30523-2023-22-0760.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.938397"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 44734,
+  "numero": "0487",
+  "fecha": "2019-12-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia nro. 29 del 11 de febrero de 2014, dictada por la Sala de Casación Penal, que había declarado con lugar la solicitud de avocamiento del Ministerio Público contra Keller José Vivenes Muñoz. La Sala Constitucional determinó que la decisión de la Sala de Casación Penal violó el principio non bis in ídem, ya que el sobreseimiento dictado el 13 de agosto de 2012 había quedado definitivamente firme. Por lo tanto, se anuló la sentencia impugnada y se declaró firme el sobreseimiento a favor del ciudadano Vivenes Muñoz.",
+  "palabras_clave": [
+    "revisión",
+    "sobreseimiento",
+    "avocamiento",
+    "Keller José Vivenes Muñoz",
+    "principio non bis in ídem"
+  ],
+  "titulo": "Revisión de la sentencia nro. 29 del 11 de febrero de 2014",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-04_S0487_E15-0577.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/308488-0487-41219-2019-15-0577.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.811204"
+}

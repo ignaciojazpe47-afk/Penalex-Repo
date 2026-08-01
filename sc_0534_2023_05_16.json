@@ -1,0 +1,22 @@
+{
+  "id": 30316,
+  "numero": "0534",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre una acción de amparo constitucional interpuesta por los ciudadanos Virgen Chiquinquirá Quintanillo Meza y Carlos Miguel Muchacho Arenas, representados por la abogada María Fernanda Torres, contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La acción se relaciona con la privación judicial preventiva de libertad y la aprehensión en flagrancia de los accionantes por varios delitos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "privación de libertad",
+    "flagrancia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0534_E18-0204.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325162-0534-16523-2023-18-0204.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.851823"
+}

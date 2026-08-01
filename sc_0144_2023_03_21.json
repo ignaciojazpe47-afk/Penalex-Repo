@@ -1,0 +1,22 @@
+{
+  "id": 29405,
+  "numero": "0144",
+  "fecha": "2023-03-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre un recurso de apelación interpuesto por Faviola Méndez Padrón contra una sentencia interlocutoria de partición de bienes. La decisión del tribunal inferior había adjudicado bienes a Osdeyglis Deyanira Quijada Bermúdez en el contexto de un juicio de partición de la comunidad conyugal. La Sala declara con lugar la acción de amparo constitucional y anula la sentencia objeto de amparo, ordenando la reposición de la causa para que se realice un nuevo informe de partición sin incluir un vehículo de la empresa agraviada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "partición de bienes",
+    "sentencia interlocutoria"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-21_S0144_E20-0181.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323805-0144-21323-2023-20-0181.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.327689"
+}

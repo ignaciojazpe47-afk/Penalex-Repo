@@ -1,0 +1,23 @@
+{
+  "id": 62409,
+  "numero": "181",
+  "fecha": "2015-03-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 01670 dictada por la Sala Político Administrativa, que había declarado la jurisdicción del Poder Judicial venezolano para conocer de una demanda de divorcio. La parte solicitante argumentó que la Sala Político Administrativa había incurrido en violaciones a la jurisprudencia y a principios de derecho internacional privado, específicamente en relación con el tiempo de residencia habitual del demandante en Venezuela. La Sala Constitucional, tras analizar los alegatos y la normativa aplicable, concluyó que el Poder Judicial venezolano no tenía jurisdicción para conocer la demanda, ya que el demandante no cumplía con el requisito de un año de residencia habitual en el país.",
+  "palabras_clave": [
+    "jurisdicción",
+    "divorcio",
+    "revisión constitucional",
+    "derecho internacional privado"
+  ],
+  "titulo": "Revisión de sentencia sobre jurisdicción en demanda de divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-10_S181_E14-1338.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175163-181-10315-2015-14-1338.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:00.126773"
+}

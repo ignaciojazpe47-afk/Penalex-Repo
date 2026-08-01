@@ -1,0 +1,25 @@
+{
+  "id": 44975,
+  "numero": "0508",
+  "fecha": "2019-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia n.° 17-0890, declara inadmisible la acción de amparo constitucional interpuesta por Luis Augusto Azuaje Gómez contra las resoluciones del Consejo Nacional Electoral que convocaban a la Asamblea Nacional Constituyente. La Sala acepta la declinatoria de competencia del Tribunal Superior Estadal Contencioso Administrativo de Aragua, argumentando que la competencia para conocer del caso corresponde a la Sala Constitucional, dado que se trata de un control concentrado de la constitucionalidad de actos de esa naturaleza.\n\nSe establece que las resoluciones impugnadas, que fijaban la fecha de elecciones para la Asamblea Nacional Constituyente, ya habían sido objeto de pronunciamiento previo por parte de la Sala, lo que genera cosa juzgada. Por lo tanto, se concluye que no es necesario pronunciarse sobre la medida cautelar solicitada, ya que la acción es inadmisible por haber operado la cosa juzgada en relación a los actos impugnados.",
+  "palabras_clave": [
+    "amparo",
+    "cosa juzgada",
+    "resoluciones",
+    "constitucionalidad",
+    "tribunal",
+    "electoral"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional contra el Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-12-17_S0508_E17-0890.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/309233-0508-171219-2019-17-0890.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.809187"
+}

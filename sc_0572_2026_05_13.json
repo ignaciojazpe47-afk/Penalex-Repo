@@ -1,0 +1,23 @@
+{
+  "id": 17461,
+  "numero": "0572",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado Ulises José Briceño Núñez en representación del ciudadano Franklin Alberto Avendaño Mendoza. La acción se basaba en la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Trujillo, que había declarado sin lugar un recurso de nulidad absoluta. La Sala consideró que no se configuraba una violación constitucional, sino una discrepancia con el criterio del juzgado, lo cual no es suficiente para activar la protección del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "derechos fundamentales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0572_E25-1201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355565-0572-13526-2026-25-1201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.882920"
+}

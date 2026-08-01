@@ -1,0 +1,25 @@
+{
+  "id": 19685,
+  "numero": "0657",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 3 de noviembre de 2022, que declaró sin lugar la cuestión previa de incompetencia territorial en un juicio civil. El solicitante argumentó que la decisión violó principios constitucionales como el derecho a la defensa y el debido proceso, al no considerar que todos los demandados tenían su domicilio en Guasdualito, Estado Apure, donde debía conocerse la causa. La Sala concluyó que la sentencia recurrida no aplicó correctamente las normas sobre competencia territorial, lo que justificó la anulación de la misma.",
+  "palabras_clave": [
+    "competencia",
+    "procedimiento civil",
+    "daños y perjuicios",
+    "jurisdicción",
+    "mercancía",
+    "acción civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre incompetencia territorial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0657_E24-0506.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343604-0657-8525-2025-24-0506.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.729446"
+}

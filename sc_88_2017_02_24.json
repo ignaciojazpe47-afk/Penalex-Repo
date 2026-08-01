@@ -1,0 +1,24 @@
+{
+  "id": 50368,
+  "numero": "88",
+  "fecha": "2017-02-24",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara procedente la demanda de nulidad interpuesta por la abogada Petrica López Ortega en representación de Rafael Darío Ramírez Carreño, contra los actos realizados por la Comisión Permanente de Contraloría de la Asamblea Nacional. La Sala considera que los actos impugnados carecen de validez y eficacia jurídica, al no ajustarse a los parámetros establecidos en la Constitución y por exceder las competencias de la Asamblea Nacional en el ejercicio del control político.\n\nLa decisión resalta la importancia de la tutela judicial efectiva y el respeto a los derechos fundamentales, así como la necesidad de que las acciones del Poder Legislativo se mantengan dentro del marco constitucional. Se ordena la remisión de copia de la sentencia a la Contraloría General y al Ministerio Público para que determinen la procedencia de iniciar investigaciones contra el diputado Freddy Guevara por su actuación en el caso.\n\nFinalmente, se revoca la medida cautelar acordada en una decisión anterior y se reafirma el compromiso del Tribunal Supremo de Justicia en la protección de la Constitución y los derechos del pueblo venezolano.",
+  "palabras_clave": [
+    "nulidad",
+    "inconstitucionalidad",
+    "Comisión Permanente de Contraloría",
+    "Petróleos de Venezuela",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre nulidad de actos de investigación de la Comisión Permanente de Contraloría",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-24_S88_E16-0940.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196424-88-24217-2017-16-0940.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:31.275442"
+}

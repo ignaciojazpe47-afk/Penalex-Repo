@@ -1,0 +1,23 @@
+{
+  "id": 57046,
+  "numero": "265",
+  "fecha": "2015-10-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente ha lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional revisó la sentencia RC.000608 dictada por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por Mercantil Bank Curacao, N.V. La Sala Constitucional encontró que la decisión de la Sala de Casación Civil incurrió en un vicio de incongruencia omisiva al no pronunciarse sobre alegatos fundamentales de la parte oferida, Hotelera Sol, C.A. En consecuencia, se anuló parcialmente la sentencia recurrida y se declaró sin lugar el recurso de casación, reafirmando la validez de la oferta real hecha por Hotelera Sol, C.A. a su acreedor.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "incongruencia omisiva",
+    "oferta real",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-04-13_S265_E15-1275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/187118-265-13416-2016-15-1275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.203907"
+}

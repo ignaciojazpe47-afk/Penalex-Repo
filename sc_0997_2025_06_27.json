@@ -1,0 +1,23 @@
+{
+  "id": 20597,
+  "numero": "0997",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Moisés Martínez Fuenmayor en representación de Amelis María Figueroa de Dyner. La solicitud se fundamenta en la presunta violación del orden público constitucional en un proceso penal por delitos de legitimación de capitales y asociación para delinquir. Sin embargo, la Sala determina que el solicitante no acompañó los documentos necesarios para validar sus alegaciones, lo que lleva a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "avocamiento",
+    "legitimación de capitales",
+    "asociación para delinquir",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0997_E24-0175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345266-0997-27625-2025-24-0175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.299679"
+}

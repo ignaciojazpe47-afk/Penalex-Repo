@@ -1,0 +1,23 @@
+{
+  "id": 50343,
+  "numero": "78",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia número 2015-0469, dictada por la Corte Primera de lo Contencioso Administrativo. En esta sentencia, se declaró sin lugar la apelación interpuesta por el ciudadano Hugo Abreu Labastida, quien había impugnado una resolución de la Contraloría General de la República relacionada con su pensión de jubilación. La Sala, al no contar con la totalidad de las actas del expediente, ordenó a la Secretaría que oficiara al Presidente de la Corte Primera para que remitiera la copia certificada del expediente correspondiente a la querella funcionarial.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "contencioso administrativo",
+    "Contraloría General"
+  ],
+  "titulo": "Sentencia sobre revisión de fallo contencioso administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S78_E15-1454.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196398-78-23217-2017-15-1454.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.241963"
+}

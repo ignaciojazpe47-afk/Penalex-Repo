@@ -1,0 +1,23 @@
+{
+  "id": 33487,
+  "numero": "1817",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, anula la sentencia dictada el 3 de mayo de 2022 y ordena a la Corte de Apelaciones que emita nuevo pronunciamiento.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que había declarado improcedente la demanda de reparación de daños interpuesta por las víctimas. La Sala Constitucional determinó que la decisión de la Corte de Apelaciones vulneró derechos fundamentales, como el derecho a la tutela judicial efectiva y el debido proceso, al exigir una sentencia condenatoria para la procedencia de la acción civil. En consecuencia, se declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando a la Corte de Apelaciones que emita un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "reparación de daños",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión Constitucional sobre improcedencia de demanda de reparación de daños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1817_E22-0703.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331356-1817-81223-2023-22-0703.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.467504"
+}

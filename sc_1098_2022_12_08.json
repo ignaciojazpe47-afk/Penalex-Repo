@@ -1,0 +1,25 @@
+{
+  "id": 37788,
+  "numero": "1098",
+  "fecha": "2022-12-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 8 de diciembre de 2022, declaró sin lugar el recurso de apelación interpuesto por los abogados de José Esteban Avendaño Godoy, quien alegaba la existencia de un fraude procesal en un juicio por cobro de bolívares. La Sala confirmó la inadmisibilidad de la acción de amparo constitucional dictada por el Juzgado Superior Segundo en lo Civil, Mercantil, del Tránsito, del Trabajo y de Menores de la Circunscripción Judicial del Estado Mérida, que había declarado inadmisible la pretensión de amparo por no evidenciarse el fraude procesal denunciado. Además, se dejó sin efecto la medida cautelar acordada anteriormente.",
+  "palabras_clave": [
+    "amparo",
+    "fraude procesal",
+    "apelación",
+    "derechos constitucionales",
+    "tutela judicial",
+    "vías ordinarias"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-08_S1098_E04-0268.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321656-1098-81222-2022-04-0268.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.437545"
+}

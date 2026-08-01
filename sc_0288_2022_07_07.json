@@ -1,0 +1,27 @@
+{
+  "id": 35313,
+  "numero": "0288",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE por extemporáneo",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Zoe del Carmen de Armas García, representada por su abogado Jorge Luis Medina Orosco, contra la sentencia del Tribunal Superior Segundo que había declarado inadmisible una demanda de amparo. La Sala consideró que el recurso de apelación fue interpuesto de manera extemporánea, ya que transcurrieron más de tres días desde la notificación de la sentencia original. La decisión reafirma la firmeza de la sentencia del 20 de febrero de 2020, que había declarado inadmisible la demanda de amparo, y se considera inoficioso pronunciarse sobre el fondo del asunto.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "temporalidad",
+    "derechos",
+    "justicia",
+    "niños",
+    "adolescentes"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0288_E21-0538.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317740-0288-7722-2022-21-0538.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.239979"
+}

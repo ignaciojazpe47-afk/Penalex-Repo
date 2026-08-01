@@ -1,0 +1,23 @@
+{
+  "id": 54104,
+  "numero": "736",
+  "fecha": "2017-11-25",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a un recurso de amparo constitucional interpuesto por Isabella Magual Bravo, quien solicitó autorización para que su hija viajara al extranjero. La decisión del Tribunal Tercero de Primera Instancia que había negado dicha autorización fue considerada lesiva a los derechos de la niña, por lo que se declaró con lugar el amparo. La Sala estableció que las decisiones sobre solicitudes de autorización judicial para viajar deben ser motivadas adecuadamente por los jueces, garantizando el interés superior del niño.",
+  "palabras_clave": [
+    "autorización judicial",
+    "viaje al extranjero",
+    "interés superior del niño",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre autorización judicial para viajar al extranjero de un niño",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-10-25_S736_E17-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/204457-736-251017-2017-17-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:48.500123"
+}

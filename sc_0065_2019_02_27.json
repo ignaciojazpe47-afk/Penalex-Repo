@@ -1,0 +1,23 @@
+{
+  "id": 42361,
+  "numero": "0065",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por las defensoras del ciudadano José Ramón Pérez Margarit, confirmando la decisión de la Sala N° 9 de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La apelación se fundamentó en la falta de pronunciamiento sobre la solicitud de sobreseimiento por extinción de la acción penal, alegando violaciones a derechos constitucionales como el debido proceso y la tutela judicial efectiva.\n\nLa Sala Constitucional argumentó que la parte accionante no consignó el documento fundamental para la admisión de la acción de amparo, lo que llevó a la inadmisibilidad de la misma. Se destacó que la falta de pronunciamiento judicial representa una negación del proceso y afecta la garantía de justicia, pero se concluyó que la decisión de inadmisibilidad fue correcta al no cumplirse con los requisitos establecidos.\n\nFinalmente, se reafirmó la importancia de la consignación de documentos esenciales en los procesos de amparo y se reiteró que la acción de amparo no puede prosperar si no se cumplen los requisitos formales necesarios para su admisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "prescripción",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0065_E18-0625.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304012-0065-27219-2019-18-0625.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.607632"
+}

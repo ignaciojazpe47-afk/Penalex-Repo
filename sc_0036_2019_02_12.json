@@ -1,0 +1,25 @@
+{
+  "id": 42139,
+  "numero": "0036",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminado el procedimiento por abandono del trámite",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo interpuesta por Ana María Sousa Castaño. La acción fue presentada contra una sentencia del Juzgado Superior que declaró inadmisible la demanda de nulidad de venta de acciones y nulidad de acta de asamblea, alegando caducidad de la acción. La Sala observa que la parte demandante no realizó actuaciones procesales válidas para impulsar el proceso, lo que llevó a la extinción del mismo.",
+  "palabras_clave": [
+    "nulidad",
+    "matrimonio",
+    "acciones",
+    "constitución",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0036_E18-0341.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303703-0036-12219-2019-18-0341.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.615019"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 49726,
+  "numero": "0765",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó las sentencias dictadas el 1 de junio y el 5 de diciembre de 2022 por el Juzgado Tercero de Primera Instancia Estadal en Función de Control del Circuito Judicial Penal del Estado Aragua. En la primera, se declaró inadmisible por extemporánea la querella presentada por Alessandra Lombardi Cardozo, y en la segunda, se concedió el sobreseimiento solicitado por la Fiscalía. La Sala encontró que la primera sentencia vulneró el derecho a la tutela judicial efectiva de la víctima, ya que la querella fue presentada dentro del lapso legal. Por lo tanto, se anularon ambas sentencias y se ordenó que un nuevo juzgado se pronuncie sobre la inadmisibilidad de la querella.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "querella inadmisible",
+    "sobreseimiento",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión Constitucional de Sentencias del Juzgado Tercero de Control del Estado Aragua",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0765_E23-1009.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356464-0765-10626-2026-23-1009.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.928492"
+}

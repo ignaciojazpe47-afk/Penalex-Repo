@@ -1,0 +1,26 @@
+{
+  "id": 30543,
+  "numero": "0589",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE para conocer del conflicto de competencia planteado",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre dos juzgados de la Circunscripción Judicial del Estado Bolivariano de Miranda, relacionado con una acción de amparo constitucional interpuesta por Yenni Guerrero y José Azuaje. Los demandantes alegaron violaciones a sus derechos constitucionales debido a la supuesta intención de vecinos de cerrar el acceso a su negocio de venta de medicamentos, lo que afectaría su derecho al trabajo.\nLa Sala declaró competente al Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito de la misma circunscripción para conocer de la acción de amparo, ordenando la remisión del expediente correspondiente. La decisión se fundamenta en la naturaleza de la relación jurídica y la competencia material de los tribunales, destacando que no existía relación laboral entre las partes, lo que excluye la competencia de los tribunales laborales.\nFinalmente, se ordenó la publicación de la decisión y se dejó constancia de la remisión del expediente al juzgado competente para su conocimiento.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos laborales",
+    "tribunales",
+    "jurisdicción",
+    "constitucional",
+    "trabajo"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0589_E21-0516.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325677-0589-30523-2023-21-0516.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.919783"
+}

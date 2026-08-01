@@ -1,0 +1,25 @@
+{
+  "id": 32964,
+  "numero": "1533",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de revisión constitucional interpuesta por Yadira Del Rosario Pinto Sumoz, relacionada con una sentencia anterior que declaró sin lugar una apelación y con lugar una demanda de cumplimiento de contrato de compra-venta. La solicitante argumentó violaciones al orden público y al debido proceso en la decisión anterior, solicitando que se declare ha lugar su revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "orden público",
+    "tutela judicial",
+    "sentencia",
+    "inmueble"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional solicitada por Yadira Del Rosario Pinto Sumoz",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1533_E21-0825.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330587-1533-231123-2023-21-0825.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.436118"
+}

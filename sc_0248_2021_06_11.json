@@ -1,0 +1,27 @@
+{
+  "id": 38871,
+  "numero": "0248",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de revisión presentada por el abogado Luis José López Jiménez, en representación de G.H.T. Construcciones, C.A., contra la sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas, que había declarado sin lugar el recurso de apelación interpuesto por la empresa. La Corte de Apelaciones había desestimado la denuncia por considerar que los hechos no revestían carácter penal, argumentando que la conducta denunciada debía ser tratada en la jurisdicción civil.\n\nLa Sala Constitucional determinó que la Corte de Apelaciones erró al valorar la documentación presentada, ya que no consideró adecuadamente la legitimidad de las acciones del Alcalde electo al momento de emitir la orden de suspensión de pagos. La Sala concluyó que la decisión de la Corte de Apelaciones no se sustentaba en una correcta interpretación de los hechos y las normas aplicables, lo que vulneró los derechos a la defensa y a la tutela judicial efectiva.\n\nFinalmente, la Sala declaró con lugar la solicitud de revisión, anulando el fallo de la Corte de Apelaciones y ordenando que se emita un nuevo pronunciamiento sobre la denuncia de usurpación de funciones presentada por G.H.T. Construcciones, C.A.",
+  "palabras_clave": [
+    "jurisdicción",
+    "penal",
+    "civil",
+    "contratos",
+    "fideicomiso",
+    "obligaciones",
+    "derechos",
+    "denuncia"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0248_E16-1194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312369-0248-11621-2021-16-1194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.181860"
+}

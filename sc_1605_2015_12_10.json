@@ -1,0 +1,24 @@
+{
+  "id": 68038,
+  "numero": "1605",
+  "fecha": "2015-12-10",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Laboral",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por Chocolates El Globo, C.A. contra la decisión del Juzgado Superior Segundo del Trabajo de Miranda, que había confirmado una sentencia de amparo anterior. La Sala argumentó que la acción de amparo contra amparo no era procedente, ya que se trataba de una decisión firme y no se presentaron violaciones a derechos fundamentales que justificaran su revisión. Además, se destacó que el juez de amparo actuó dentro de su competencia y que la parte actora no demostró la existencia de agravio constitucional que justificara la admisión del recurso.",
+  "palabras_clave": [
+    "amparo",
+    "laboral",
+    "decisión judicial",
+    "incompetencia",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo contra decisión judicial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-10_S1605_E15-0675.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183750-1605-101215-2015-15-0675.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.618586"
+}

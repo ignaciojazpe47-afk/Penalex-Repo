@@ -1,0 +1,23 @@
+{
+  "id": 23231,
+  "numero": "1885",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la solicitud de avocamiento presentada por la abogada Norka Flores en representación de José Antonio Flores Ubieda, en relación con el expediente número 2J-3658-2024. La Sala concluye que las denuncias presentadas no justifican el avocamiento, por lo que declina el conocimiento del asunto a la Sala de Casación Penal. La decisión se fundamenta en la necesidad de corregir graves desórdenes procesales que vulneren los derechos de los justiciables.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "desalojo",
+    "derechos constitucionales"
+  ],
+  "titulo": "Declaración de incompetencia en solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1885_E25-0370.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350481-1885-261125-2025-25-0370.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.049962"
+}

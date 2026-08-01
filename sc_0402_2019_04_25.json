@@ -1,0 +1,22 @@
+{
+  "id": 44595,
+  "numero": "0402",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara competente",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la sentencia dictada el 9 de noviembre de 2015 por el Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Lara, que homologó una transacción en un juicio de desalojo. Los solicitantes argumentan que se desconoce un criterio vinculante establecido en una sentencia anterior. La Sala se declara competente para conocer la solicitud de revisión y requiere la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "homologación de transacción",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de homologación de transacción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-28_S0402_E18-0445.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308328-0402-281119-2019-18-0445.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.598264"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27567,
+  "numero": "0831",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de una sentencia dictada por el Juzgado Nacional Segundo Contencioso Administrativo, que se declaró incompetente para conocer de la acción de amparo constitucional. La solicitud fue presentada por el abogado Antonio José Cova en representación de EGLIS MARÍA PAZ AMESTY y MIGUEL ÁNGEL PAZ AMESTY. La Sala, tras analizar la competencia, declaró inadmisible la solicitud por no cumplir con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "competencia",
+    "amparo constitucional",
+    "supremacía constitucional",
+    "error de interpretación",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0831_E24-0110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339004-0831-141124-2024-24-0110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.029045"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23881,
+  "numero": "2101",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara que no ha lugar la solicitud de revisión interpuesta por DROGUERÍA FARMALOR, C.A. contra la sentencia número 244 de la Sala de Casación Civil. Se argumenta que la revisión no constituye una tercera instancia y que la decisión impugnada no incurrió en violaciones al debido proceso ni a la defensa, ya que se ajustó a derecho y no contradijo principios constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "debido proceso",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "cosa juzgada",
+    "competencia",
+    "seguridad jurídica"
+  ],
+  "titulo": "Revisión de sentencia número 244 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2101_E25-1254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351928-2101-121225-2025-25-1254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.080148"
+}

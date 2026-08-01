@@ -1,0 +1,25 @@
+{
+  "id": 30601,
+  "numero": "0647",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Leobardo José Nava Rondón, quien denunció violaciones a sus derechos en un proceso penal. La Sala constató la falta de actas procesales completas en el expediente y solicitó a la Fiscalía Superior del Estado Mérida la remisión de copias certificadas de la causa. Se ordenó a la Secretaría de la Sala notificar a la Fiscalía para el cumplimiento de esta solicitud en un plazo determinado.",
+  "palabras_clave": [
+    "amparo",
+    "delitos",
+    "fiscalía",
+    "proceso penal",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0647_E22-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325735-0647-30523-2023-22-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.697740"
+}

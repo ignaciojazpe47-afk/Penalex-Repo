@@ -1,0 +1,26 @@
+{
+  "id": 30237,
+  "numero": "0456",
+  "fecha": "2023-05-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de aclaratoria presentada por Williams Rafael Cedeño Urbano respecto a la sentencia N° 307 del 16 de agosto de 2019. La solicitud se fundamenta en la alegación de falta de cualidad del ciudadano Michel Mazloum para interponer la revisión constitucional, así como en la supuesta existencia de fraude procesal. La Sala determina que la solicitud no cumple con los requisitos para ser admitida, ya que no se trata de una aclaratoria sino de un desacuerdo con la decisión anterior.",
+  "palabras_clave": [
+    "nulidad",
+    "asamblea",
+    "sociedad",
+    "jurisprudencia",
+    "seguridad_juridica",
+    "tutela_judicial",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0456_E18-0846.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325077-0456-15523-2023-18-0846.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.846373"
+}

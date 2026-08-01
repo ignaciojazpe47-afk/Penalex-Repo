@@ -1,0 +1,23 @@
+{
+  "id": 32981,
+  "numero": "1550",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Carlos Luis Calzadilla Quiroz contra el asiento registral de un inmueble, argumentando que se había realizado en desacato a una medida cautelar. La Sala declaró con lugar la acción de amparo, anulando el asiento registral por considerarlo inconstitucional, ya que se registró a pesar de la existencia de una medida cautelar que suspendía su ejecución. La decisión se fundamenta en la protección de los derechos constitucionales de las partes involucradas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "asiento registral",
+    "medida cautelar",
+    "inconstitucionalidad"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra asiento registral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1550_E23-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330605-1550-241123-2023-23-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.427359"
+}

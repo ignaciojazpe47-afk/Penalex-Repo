@@ -1,0 +1,24 @@
+{
+  "id": 18343,
+  "numero": "0099",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia n° 108-2023 del 21 de junio de 2023.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia n° 108-2023, que había declarado sin lugar el recurso de apelación interpuesto por Harold Jesús Licciardino Soriano, padre de un menor víctima de abuso. La Corte anuló la sentencia de la Corte de Apelaciones, argumentando que no se valoraron adecuadamente las pruebas presentadas, lo que constituyó un silencio de prueba y una violación al debido proceso. Se ordenó que otra Corte de Apelaciones se pronuncie nuevamente sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "abuso sexual",
+    "menor",
+    "sobreseimiento",
+    "derechos humanos"
+  ],
+  "titulo": "Revisión de sentencia sobre sobreseimiento en caso de abuso sexual a menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0099_E24-0588.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341430-0099-12225-2025-24-0588.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.771572"
+}

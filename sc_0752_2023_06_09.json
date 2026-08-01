@@ -1,0 +1,26 @@
+{
+  "id": 30804,
+  "numero": "0752",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de apelación interpuesto por los abogados de Zobeida Marina Parra, debido a que no se consignó la decisión impugnada en el plazo establecido. La acción de amparo fue presentada contra una decisión del Juzgado Duodécimo que declaró con lugar las cuestiones previas opuestas por la parte demandada. La Sala fundamenta su decisión en la falta de cumplimiento de la carga procesal de presentar los documentos necesarios para la admisibilidad del recurso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "extemporaneidad",
+    "derechos",
+    "garantías",
+    "justicia",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0752_E17-0787.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326023-0752-9623-2023-17-0787.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.408136"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21933,
+  "numero": "1471",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria presentada por la abogada Jeanette Margarita Liendo Abad, en representación de María Alejandra Martínez Marcano, debido a que fue presentada de forma extemporánea. La solicitud se realizó el 20 de mayo de 2025, mientras que la sentencia objeto de aclaratoria fue dictada el 6 de marzo de 2025, superando el plazo legal establecido para tal efecto.\n\nLa decisión se fundamenta en el artículo 252 del Código de Procedimiento Civil, que establece que la solicitud de aclaratoria debe hacerse el día de la publicación del fallo o al día siguiente. Al no cumplir con este requisito, la Sala considera que la solicitud no puede ser admitida, por lo que se declara inadmisible.\n\nFinalmente, se ordena la publicación, registro y archivo del expediente, reafirmando la autoridad de la Sala en la administración de justicia en nombre de la República.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "inadmisible",
+    "plazos",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1471_E25-0096.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348086-1471-30925-2025-25-0096.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.872623"
+}

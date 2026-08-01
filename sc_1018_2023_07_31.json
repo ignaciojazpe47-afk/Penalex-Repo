@@ -1,0 +1,26 @@
+{
+  "id": 31660,
+  "numero": "1018",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara sin lugar la acción de amparo constitucional interpuesta por Hugo Javier Rael Mendoza contra decisiones del Tribunal Primero de Primera Instancia de Mediación, Sustanciación y Ejecución. El demandante alegó violaciones al debido proceso y al derecho de petición, argumentando que los autos dictados en varias fechas no garantizaban un proceso justo. Sin embargo, la Sala concluyó que no hubo vulneración de derechos constitucionales y que el procedimiento seguido fue ajustado a derecho.",
+  "palabras_clave": [
+    "debido proceso",
+    "derecho de petición",
+    "amparo constitucional",
+    "notificaciones",
+    "circuito judicial",
+    "protección de niños",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1018_E19-0297.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327550-1018-31723-2023-19-0297.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.902803"
+}

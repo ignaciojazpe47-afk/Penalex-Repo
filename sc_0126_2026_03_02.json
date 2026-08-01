@@ -1,0 +1,26 @@
+{
+  "id": 18135,
+  "numero": "0126",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR, NULA, INADMISIBLE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 347 del Juzgado Superior Primero Agrario, que había declarado con lugar una acción mero declarativa de certeza de propiedad sobre un terreno denominado 'Lothlorien'. La revisión se solicitó por el ciudadano Hugo Espinoza González, quien argumentó que no se le permitió ejercer su derecho a la defensa y que la sentencia original incurrió en vicios que afectaron su legitimación procesal. La Sala encontró que el fallo impugnado violó el derecho a la tutela judicial efectiva y, por tanto, decidió anularlo y declarar inadmisible la acción original.",
+  "palabras_clave": [
+    "due_process",
+    "tutela_judicial",
+    "derecho_agrario",
+    "legitimación",
+    "sentencia",
+    "inseguridad_jurídica",
+    "comunidad_campesina"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia n.° 347 del Juzgado Superior Primero Agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0126_E25-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353115-0126-2326-2026-25-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.592059"
+}

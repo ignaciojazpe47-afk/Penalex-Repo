@@ -1,0 +1,25 @@
+{
+  "id": 42138,
+  "numero": "0035",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer un recurso de apelación interpuesto por Domisiano Castellanos Villamizar, en relación a una acción de amparo constitucional. La apelación fue presentada contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira que declaró inadmisible la acción de amparo. La Sala se declaró competente para conocer del recurso y ordenó a la Corte de Apelaciones que informara sobre la legalidad de la sentencia objeto de apelación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "Corte de Apelaciones",
+    "derechos constitucionales",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-12_S0035_E18-0674.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303702-0035-12219-2019-18-0674.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.618195"
+}

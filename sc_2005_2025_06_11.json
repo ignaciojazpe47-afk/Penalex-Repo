@@ -1,0 +1,22 @@
+{
+  "id": 23738,
+  "numero": "2005",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Dhaniela León Camposano contra decisiones del Juzgado Décimo de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario. La Sala declaró la competencia para conocer el caso y ordenó la suspensión de los efectos de las decisiones impugnadas, argumentando la posible violación de derechos y garantías constitucionales. Se ordenó al juzgado remitente que informara sobre el estado actual del expediente relacionado con la partición de bienes de la comunidad conyugal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "partición de bienes"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2005_E24-0768.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351756-2005-101225-2025-24-0768.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.303187"
+}

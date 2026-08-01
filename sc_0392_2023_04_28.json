@@ -1,0 +1,22 @@
+{
+  "id": 29983,
+  "numero": "0392",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se ordena la restitución internacional de un menor a su residencia habitual en Argentina, tras considerar que el traslado del niño a Venezuela fue ilícito. La decisión se basa en la falta de autorización del progenitor y la ausencia de pruebas que justifiquen un 'grave riesgo' para el menor en caso de restitución. Se establece un régimen de convivencia provisional en caso de negativa de la madre a regresar con el niño.",
+  "palabras_clave": [
+    "restitución internacional",
+    "custodia",
+    "interés superior del niño"
+  ],
+  "titulo": "Sentencia sobre restitución internacional de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0392_E23-0170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324662-0392-28423-2023-23-0170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.808333"
+}

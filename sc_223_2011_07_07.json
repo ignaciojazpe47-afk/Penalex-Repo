@@ -1,0 +1,24 @@
+{
+  "id": 4331,
+  "numero": "223",
+  "fecha": "2011-07-07",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 223, declara con lugar la acción de amparo constitucional interpuesta por Paula Andreína Sánchez Portillo, en representación de varios ciudadanos, contra la decisión del Juzgado Agrario Primero de Primera Instancia del Estado Zulia. La sentencia desaplica los artículos 699 al 711 del Código de Procedimiento Civil, argumentando que estos son incompatibles con la Constitución, específicamente en lo que respecta al debido proceso y la naturaleza de las acciones posesorias agrarias, que deben ser tramitadas bajo el procedimiento ordinario agrario establecido en la Ley de Tierras y Desarrollo Agrario.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desaplicación",
+    "Código de Procedimiento Civil",
+    "derecho agrario",
+    "seguridad alimentaria"
+  ],
+  "titulo": "Sentencia sobre la desaplicación de artículos del Código de Procedimiento Civil en materia agraria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_2011_2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.543289"
+}

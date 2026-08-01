@@ -1,0 +1,22 @@
+{
+  "id": 34331,
+  "numero": "0010",
+  "fecha": "2017-02-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala de Casación Civil del Tribunal Supremo de Justicia dictó la sentencia N° 000019/2017, declarando inadmisible la demanda de nulidad de venta interpuesta por Andrés Eloy Guerrero Contreras contra María Inmaculada Aponte Figuera y la sociedad Hielo Zar, C.A. La decisión se fundamentó en la caducidad de la acción, ya que la demanda fue presentada más de cinco años después de la protocolización de la venta en cuestión. La Sala consideró que la revisión solicitada no contribuiría a la uniformidad en la interpretación de normas constitucionales, por lo que se declaró sin lugar la revisión solicitada.",
+  "palabras_clave": [
+    "nulidad de venta",
+    "caducidad",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de demanda de nulidad de venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0010_E17-0680.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315522-0010-11222-2022-17-0680.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.255158"
+}

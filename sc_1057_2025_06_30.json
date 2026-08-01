@@ -1,0 +1,25 @@
+{
+  "id": 20660,
+  "numero": "1057",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la revisión constitucional interpuesta por las abogadas Iraima Yannette Ibarra Salazar y Luddy Marisol Camacho Rodríguez en representación del ciudadano Jesús Eduardo Pérez Aguilar. La decisión se basa en la falta de legitimidad y representación de las abogadas, quienes no presentaron los documentos necesarios para acreditar su condición de defensoras. La Sala también hace un llamado a la Corte de Apelaciones por no remitir la copia certificada de la decisión objeto de revisión.",
+  "palabras_clave": [
+    "legitimidad",
+    "representación",
+    "revisión constitucional",
+    "proceso penal",
+    "carga procesal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1057_E21-0227.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345337-1057-30625-2025-21-0227.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.514240"
+}

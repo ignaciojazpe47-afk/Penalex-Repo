@@ -1,0 +1,25 @@
+{
+  "id": 17580,
+  "numero": "0104",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por Carlos José Flores González. La apelación se originó tras la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, que declaró inadmisible la acción de amparo. La Sala, tras analizar la competencia, decidió asumir el conocimiento del caso y solicitó información adicional al tribunal de origen para verificar las violaciones constitucionales denunciadas por el apelante.",
+  "palabras_clave": [
+    "amparo",
+    "justicia",
+    "derechos",
+    "proceso",
+    "penal",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0104_E24-0390.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353092-0104-2326-2026-24-0390.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.374922"
+}

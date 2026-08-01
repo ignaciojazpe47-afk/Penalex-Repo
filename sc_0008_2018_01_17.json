@@ -1,0 +1,22 @@
+{
+  "id": 45006,
+  "numero": "0008",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La sentencia se refiere a la revisión constitucional de un fallo dictado por la Sala de Casación Social que declaró con lugar un recurso de casación. El demandante, Christopher Jesús García Bolívar, argumentó que la Sala excluyó conceptos de indexación en su demanda, lo que violaba principios constitucionales. La Sala decidió oficiar al Juzgado Sexto Superior del Trabajo para que informara sobre el estado del caso y remitiera las actuaciones pertinentes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "casación social",
+    "prestaciones sociales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0008_E16-1219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206862-0008-17118-2018-16-1219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.257843"
+}

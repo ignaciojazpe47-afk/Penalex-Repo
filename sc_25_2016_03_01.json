@@ -1,0 +1,24 @@
+{
+  "id": 56137,
+  "numero": "25",
+  "fecha": "2016-03-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad por inconstitucionalidad interpuesta por Eduardo Meier García contra los artículos 173 y 195 del Decreto con Rango, Valor y Fuerza de Ley de Reforma de la Ley de Impuesto sobre la Renta. La demanda fue admitida, considerando que la exclusión de las entidades financieras del ajuste por inflación en la determinación del impuesto sobre la renta vulnera principios de justicia tributaria y derechos fundamentales de igualdad ante la ley.\nLa Sala declaró improcedente la acción de amparo cautelar solicitada, argumentando que no se evidenció la violación de derechos fundamentales. Sin embargo, se admitió la demanda de nulidad, reconociendo la competencia de la Sala para conocer del caso y ordenando la continuación del procedimiento ante el Juzgado de Sustanciación.",
+  "palabras_clave": [
+    "Nulidad",
+    "Inconstitucionalidad",
+    "Impuesto sobre la Renta",
+    "Ajuste por Inflación",
+    "Derechos Fundamentales"
+  ],
+  "titulo": "Sentencia sobre Nulidad por Inconstitucionalidad de Artículos de la Ley de Impuesto sobre la Renta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-01_S25_E15-0724.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185668-25-1316-2016-15-0724.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.954998"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33922,
+  "numero": "2069",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Héctor Alfredo López-Méndez Parra contra una sentencia del Juzgado Superior Quinto del Circuito Judicial del Trabajo. La acción fue considerada inadmisible debido a que el demandante había optado por recurrir a las vías judiciales ordinarias antes de interponer el amparo, lo que contraviene el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "jubilación",
+    "derechos constitucionales",
+    "inadmision",
+    "recursos judiciales",
+    "seguridad social"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2069_E23-0371.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332039-2069-201223-2023-23-0371.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.686640"
+}

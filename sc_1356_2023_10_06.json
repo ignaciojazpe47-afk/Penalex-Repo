@@ -1,0 +1,24 @@
+{
+  "id": 28414,
+  "numero": "1356",
+  "fecha": "2023-10-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia nº 0571 dictada el 6 de octubre de 2023 por la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por Víctor José Suárez Barrientos. La revisión se solicitó por el abogado José Tomas Barrios Medina, quien argumentó que la sentencia carecía de motivación razonada y violaba principios fundamentales del debido proceso. Sin embargo, la Sala Constitucional determinó que no existía un error evidente en la interpretación de la Constitución y que la decisión de la Sala de Casación Civil era válida, por lo que declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "casación civil",
+    "due process",
+    "justicia"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1356_E24-0321.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340370-1356-101224-2024-24-0321.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.207570"
+}

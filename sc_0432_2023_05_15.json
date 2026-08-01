@@ -1,0 +1,22 @@
+{
+  "id": 30213,
+  "numero": "0432",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por Andrés Avelino Nacero Alvarado contra la omisión de pronunciamiento del Juzgado Cuarto de Primera Instancia en Funciones de Control. La apelación se originó tras la declaración de inadmisibilidad de la acción de amparo por parte de la Corte de Apelaciones. La Sala determinó su competencia para conocer del caso y ordenó oficiar a la Presidencia del Circuito Judicial Penal para obtener una copia certificada de la decisión cuestionada, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia contra la mujer",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en materia de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0432_E21-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325052-0432-15523-2023-21-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.883532"
+}

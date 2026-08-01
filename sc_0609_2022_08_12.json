@@ -1,0 +1,22 @@
+{
+  "id": 36240,
+  "numero": "0609",
+  "fecha": "2022-08-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC.000218 dictada por la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. La revisión se fundamentó en la alegación de que se había infringido el debido proceso al no aplicar el procedimiento de ejecución de hipoteca para garantizar el pago de una obligación. La Sala Constitucional concluyó que la sentencia impugnada contravino principios constitucionales y ordenó su nulidad, devolviendo el caso a la Sala de Casación Civil para un nuevo pronunciamiento conforme a los parámetros establecidos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "ejecución de hipoteca"
+  ],
+  "titulo": "Revisión de la sentencia RC.000218 del 4 de mayo de 2018",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0609_E18-0803.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319266-0609-12822-2022-18-0803.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.559749"
+}

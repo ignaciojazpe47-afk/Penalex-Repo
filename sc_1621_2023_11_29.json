@@ -1,0 +1,23 @@
+{
+  "id": 33112,
+  "numero": "1621",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Declina la competencia",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de nulidad interpuesto por Leni Zulay Petit Jurado contra la Ordenanza para la Convivencia y la Paz Ciudadana del Municipio Naguanagua. El Juzgado Superior Estadal Contencioso Administrativo declinó la competencia a la Sala Constitucional, argumentando que la ordenanza podría ser inconstitucional y que la Sala tiene la autoridad para decidir sobre la nulidad de actos emanados de los órganos del Poder Público. La Sala Constitucional aceptó la declinatoria y admitió el recurso de nulidad, ordenando notificaciones a las partes involucradas.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanza",
+    "competencia",
+    "constitucionalidad"
+  ],
+  "titulo": "Declinatoria de competencia en recurso de nulidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1621_E22-1030.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330788-1621-291123-2023-22-1030.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.985530"
+}

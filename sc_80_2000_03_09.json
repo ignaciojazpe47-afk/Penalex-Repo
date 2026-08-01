@@ -1,0 +1,18 @@
+{
+  "id": 3760,
+  "numero": "80",
+  "fecha": "2000-03-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia confirma la decisión del Juzgado Superior Segundo en lo Civil, Mercantil y Menores del Estado Lara, que declaró improcedente la acción de amparo constitucional interpuesta por Gustavo Enrique Querales Castañeda. El tribunal de instancia argumentó que el amparo tiene carácter restablecedor y no puede ser utilizado para exigir el cumplimiento de otro fallo judicial sin que se cumplan los extremos legales establecidos en la sentencia de amparo anterior.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0092_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.680341"
+}

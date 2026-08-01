@@ -1,0 +1,26 @@
+{
+  "id": 32292,
+  "numero": "1446",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por los abogados de Humberto Gregorio Ferreira Vílchez, debido a la falta de documentación probatoria que respalde las alegaciones de irregularidades procesales. Se argumenta que no se acompañaron los actos procesales necesarios para validar las denuncias, lo que impide a la Sala tomar una decisión informada sobre la solicitud. La decisión se fundamenta en la necesidad de certeza probatoria y el respeto al principio del juez natural.",
+  "palabras_clave": [
+    "avocamiento",
+    "derecho a la defensa",
+    "retardo judicial",
+    "irregularidades",
+    "justicia",
+    "orden público",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1446_E19-0582.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329321-1446-131023-2023-19-0582.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.398679"
+}

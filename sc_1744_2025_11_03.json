@@ -1,0 +1,26 @@
+{
+  "id": 22795,
+  "numero": "1744",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Franklin Quero Aular en representación de Norwin Urbanay Martínez Montilla, contra la sentencia de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Corte de Apelaciones fundamentó su decisión en la inimpugnabilidad de las decisiones tomadas en la audiencia preliminar, basándose en el Código Orgánico Procesal Penal. La Sala Constitucional, tras revisar el caso, determinó que no se configuraban violaciones constitucionales y declaró improcedente la acción de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "audiencia preliminar",
+    "acusación",
+    "pruebas",
+    "irrecurribilidad",
+    "derechos",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1744_E25-0459.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349484-1744-31125-2025-25-0459.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.530335"
+}

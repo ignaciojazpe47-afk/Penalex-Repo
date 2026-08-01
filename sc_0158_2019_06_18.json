@@ -1,0 +1,22 @@
+{
+  "id": 43155,
+  "numero": "0158",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 1.371 dictada el 6 de diciembre de 2016 por la Sala Político Administrativa, que declaró la falta de jurisdicción del Poder Judicial para conocer la demanda de resolución de contrato interpuesta por L’ UNIÓN, C.A. La Sala concluyó que el Poder Judicial sí tiene jurisdicción para conocer del caso, dado que se trataba de una demanda por incumplimiento de contrato y no de una rescisión unilateral. En consecuencia, se declaró nula la sentencia impugnada y se ordenó al tribunal inferior que decidiera el recurso de apelación correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisdicción",
+    "resolución de contrato"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 1.371 del 6 de diciembre de 2016",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0158_E17-1203.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305602-0158-18619-2019-17-1203.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.840542"
+}

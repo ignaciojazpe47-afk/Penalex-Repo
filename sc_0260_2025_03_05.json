@@ -1,0 +1,26 @@
+{
+  "id": 18713,
+  "numero": "0260",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La ciudadana Andrea Falcone interpuso una acción de amparo contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo, que declaró inadmisible un recurso de apelación por extemporáneo. La Sala Constitucional del TSJ, tras revisar el caso, determinó que la acción de amparo era inadmisible por no haberse presentado la copia certificada del fallo impugnado, lo que es un requisito indispensable para la admisibilidad de la demanda según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "carga procesal",
+    "documentos",
+    "justicia",
+    "tribunal",
+    "decisión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0260_E24-0993.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342137-0260-5325-2025-24-0993.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.877592"
+}

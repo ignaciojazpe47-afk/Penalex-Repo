@@ -1,0 +1,26 @@
+{
+  "id": 41943,
+  "numero": "0256",
+  "fecha": "2020-12-15",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 15 de diciembre de 2020, declara con lugar la solicitud de revisión constitucional presentada por la abogada Luz Clementina Torres, en representación de Emidia Josefina Torres. La revisión se centra en la decisión de la Corte Segunda de lo Contencioso Administrativo, que había declarado inadmisible un recurso contencioso administrativo funcionarial por caducidad. La Sala concluye que la caducidad no puede computarse desde una fecha anterior al pago de las prestaciones sociales, sino desde el momento en que se realizó dicho pago, lo que afecta el derecho a la defensa y al debido proceso de la demandante.",
+  "palabras_clave": [
+    "comprobantes de pago",
+    "liquidación final",
+    "derechos laborales",
+    "caducidad",
+    "debido proceso",
+    "constitución",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de la Corte Segunda de lo Contencioso Administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-15_S0256_E18-0338.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311055-0256-151220-2020-18-0338.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.390985"
+}

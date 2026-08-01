@@ -1,0 +1,23 @@
+{
+  "id": 16004,
+  "numero": "0522",
+  "fecha": "2024-05-03",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "Dra. Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 258 de la Sala de Casación Civil, que declaró con lugar la acción de resolución de contrato presentada por Bryan Andrew Stanley Galindo. La decisión original se basó en la falta de pago de los inmuebles vendidos, argumentando que el demandado no pudo probar el cumplimiento de la obligación de pago. La Sala Constitucional, tras analizar la solicitud de revisión, concluyó que no existió un error grotesco en la interpretación de la ley y que la decisión de la Sala de Casación Civil fue correcta, por lo que se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "resolución de contrato",
+    "nulidad de contratos",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión de contrato de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0522_E24-0490.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355510-0522-13526-2026-24-0490.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.648778"
+}

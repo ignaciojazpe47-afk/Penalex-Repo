@@ -1,0 +1,24 @@
+{
+  "id": 42755,
+  "numero": "0104",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Aclaratoria",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decide sobre la solicitud de aclaratoria presentada por el abogado Gerardo Henríquez Carabaño en representación de Jorge Gómez Mantellini García. La solicitud se refiere a la sentencia N° 0897 dictada el 13 de diciembre de 2018, que resolvió una solicitud de aclaratoria anterior. La Sala considera que la aclaratoria es procedente y se pronuncia sobre la validez de las decisiones previas, así como sobre la existencia de un supuesto fraude procesal alegado por la parte solicitante.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento civil",
+    "tutela judicial",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de aclaratoria de la sentencia N° 0897",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0104_E16-0623.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304847-0104-14519-2019-16-0623.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.587290"
+}

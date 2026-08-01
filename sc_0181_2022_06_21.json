@@ -1,0 +1,22 @@
+{
+  "id": 35113,
+  "numero": "0181",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por Arabia Alejandra Marelli Solórzano, quien impugnó una decisión del Juzgado Superior de Protección de Niños, Niñas y Adolescentes que ordenó la restitución internacional de su hijo a Colombia. La Sala consideró que la decisión de restitución violaba derechos constitucionales y ordenó la suspensión de los efectos de dicha decisión, priorizando el interés superior del niño involucrado. Además, se ordenó al juzgado de origen remitir copias certificadas de las actuaciones del procedimiento de restitución internacional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "interés superior del niño"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en materia de restitución internacional de menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0181_E21-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317442-0181-21622-2022-21-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.627928"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 37954,
+  "numero": "1141",
+  "fecha": "2022-12-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Elio Rodríguez Valero, actuando en nombre propio y como representante sin poder de Armando Carvalho Martins de Maia, contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito del Estado Aragua. La acción se fundamentó en la supuesta violación de derechos constitucionales en un juicio de desalojo, pero la Sala determinó que no existían elementos probatorios suficientes para justificar la acción de amparo, y que los derechos procesales de las partes se mantuvieron incólumes durante el juicio.",
+  "palabras_clave": [
+    "amparo",
+    "desalojo",
+    "derechos constitucionales",
+    "fraude procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-13_S1141_E22-0709.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321867-1141-131222-2022-22-0709.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.412640"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 50270,
+  "numero": "21",
+  "fecha": "2017-02-23",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara competente para conocer de la acción de amparo interpuesta por Víctor José Curapiaca, Presidente de Servicios Luvi, C.A., contra las actuaciones de la Inspectoría del Trabajo en varios municipios del Estado Anzoátegui. La acción se fundamenta en la violación del derecho al debido proceso y a la defensa, debido a la falta de notificación adecuada de un procedimiento administrativo que afectó a la empresa demandante.\nLa Sala concluyó que la entidad de trabajo no acató la orden de reenganche y restitución de derechos a favor del trabajador Denny López, lo que constituye una obstrucción a la ejecución de actos administrativos. Por lo tanto, se ordena el reenganche del trabajador y el pago de salarios caídos, así como la imposición de multas en caso de incumplimiento.\nFinalmente, se establece un criterio vinculante sobre la competencia de los tribunales laborales para conocer de las acciones relacionadas con actos administrativos dictados por las Inspectorías del Trabajo, reafirmando la protección de los derechos laborales en el contexto de la relación de trabajo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al debido proceso",
+    "reenganche",
+    "salarios caídos",
+    "Inspectoría del Trabajo"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional contra actuaciones administrativas de la Inspectoría del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-02-23_S21_E16-1090.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/196325-21-23217-2017-16-1090.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.245338"
+}

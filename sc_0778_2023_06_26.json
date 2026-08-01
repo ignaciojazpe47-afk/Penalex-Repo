@@ -1,0 +1,23 @@
+{
+  "id": 30995,
+  "numero": "0778",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo constitucional interpuesta por Adhemar de Jesús Vásquez Barrios, quien cuestionó la inadmisibilidad de su acción de reivindicación contra Carmen Mireya Quintero y las sociedades Ferreagro San José, C.A. y Ferreagro San Roque, C.A. La sentencia impugnada había revocado un auto de admisión y anulado decisiones previas del juzgado de instancia. La Sala concluyó que se vulneraron derechos constitucionales fundamentales, como el derecho a la tutela judicial efectiva y al debido proceso, al no permitir que el demandante ejerciera su derecho a presentar informes en el proceso judicial.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Reivindicación",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de acción de reivindicación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0778_E20-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326434-0778-26623-2023-20-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.544292"
+}

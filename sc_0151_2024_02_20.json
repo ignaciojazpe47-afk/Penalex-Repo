@@ -1,0 +1,23 @@
+{
+  "id": 24279,
+  "numero": "0151",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional interpuesta por Valentina Alejandra Reyes Zumeta Grisanti contra una sentencia del Juzgado Superior Tercero que confirmó la restitución de su hijo a Daniel Andre Degenmann Rojas. La Sala consideró que la decisión del juzgado inferior vulneró derechos fundamentales de la madre y del menor, como el derecho a la defensa y el debido proceso. Se ordenó la suspensión de los efectos de la sentencia impugnada y se solicitó la remisión del expediente correspondiente para su revisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "restitución internacional",
+    "derechos del niño",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de restitución internacional de menor",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0151_E23-1303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332660-0151-20224-2024-23-1303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.553882"
+}

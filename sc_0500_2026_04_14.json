@@ -1,0 +1,27 @@
+{
+  "id": 17504,
+  "numero": "0500",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Fanny Zulay Lozada Mata en favor de su hija Alianis Briggeth Araujo Lozada, contra funcionarios del CICPC. La Sala, tras analizar la competencia, declaró su incompetencia para conocer el caso, remitiendo el expediente a un Juzgado de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Área Metropolitana de Caracas. La decisión se fundamenta en la naturaleza del derecho a la libertad personal y la presunta detención arbitraria.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "libertad",
+    "constitucional",
+    "habeas corpus",
+    "justicia",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0500_E26-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354951-0500-14426-2026-26-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.019199"
+}

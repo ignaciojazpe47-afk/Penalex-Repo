@@ -1,0 +1,24 @@
+{
+  "id": 41221,
+  "numero": "0064",
+  "fecha": "2020-05-22",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió una acción de amparo constitucional interpuesta por ciudadanos en defensa de los derechos colectivos y difusos de los usuarios de la operadora de televisión por suscripción Galaxy Entertainment de Venezuela, S.C.A. La acción se fundamenta en la suspensión de señales de televisoras y radios, afectando derechos constitucionales como la información, educación y recreación, especialmente en el contexto de la pandemia de COVID-19. La Sala acordó medidas cautelares para restablecer el servicio y proteger los derechos de los usuarios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos colectivos",
+    "televisión por suscripción",
+    "suspensión de servicios",
+    "COVID-19"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por suspensión de servicios de televisión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-05-22_S0064_E20-0202.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/309866-0064-22520-2020-20-0202.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.129149"
+}

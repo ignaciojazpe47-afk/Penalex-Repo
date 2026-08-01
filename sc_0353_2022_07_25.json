@@ -1,0 +1,27 @@
+{
+  "id": 35558,
+  "numero": "0353",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por los abogados Arturo González Barrios y Milagros Nava Pineda en favor de Arles Sánchez Paz, contra la conducta omisiva del Ministro del Poder Popular para Relaciones Interiores Justicia y Paz y la Sala de Casación Penal. La decisión se basa en la acumulación indebida de demandas y en la prohibición de ejercer acciones de amparo contra decisiones de la Corte Suprema de Justicia, hoy Tribunal Supremo de Justicia.\n\nLa sentencia resalta que no se pueden acumular pretensiones que se excluyan mutuamente y que la acción de amparo no es procedente contra decisiones de este alto tribunal. Se menciona que la solicitud de extradición del ciudadano Arles Sánchez Paz fue diferida hasta que cumpla su pena en Venezuela, lo que genera un conflicto en la ejecución de la sentencia de extradición.\n\nFinalmente, se ordena la publicación, registro y archivo del expediente, reafirmando la inadmisibilidad de la acción presentada.",
+  "palabras_clave": [
+    "amparo",
+    "extradición",
+    "libertad",
+    "derechos humanos",
+    "salud",
+    "inadmisibilidad",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0353_E22-0506.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318114-0353-25722-2022-22-0506.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.769187"
+}

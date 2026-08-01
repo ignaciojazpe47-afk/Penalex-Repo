@@ -1,0 +1,25 @@
+{
+  "id": 46007,
+  "numero": "0280",
+  "fecha": "2018-03-14",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con una decisión del Juzgado Superior Primero del Trabajo del Estado Carabobo. La solicitud fue presentada por el abogado Alfredo Rafael Brito Rodríguez en representación de Thurman Rojas Aponte, quien impugnaba una sentencia que declaró sin lugar un recurso de apelación. La Sala, tras analizar el caso, decidió ordenar al juzgado remitente que enviara copia certificada del expediente correspondiente para verificar aspectos relevantes para la decisión.",
+  "palabras_clave": [
+    "tutela judicial",
+    "acceso a la justicia",
+    "revisión constitucional",
+    "normas de orden público",
+    "Juzgado Superior",
+    "expediente"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-14_S0280_E16-1243.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208724-0280-14318-2018-16-1243.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.831715"
+}

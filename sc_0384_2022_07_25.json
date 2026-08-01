@@ -1,0 +1,27 @@
+{
+  "id": 35587,
+  "numero": "0384",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por los defensores de Andy Juan Carlos Arias Fagúndez, quien se encontraba privado de libertad. El recurso fue presentado debido a la presunta omisión de pronunciamiento del Tribunal Primero de Primera Instancia en Función de Control, que no otorgó la libertad a su patrocinado tras la presentación extemporánea del acto conclusivo acusatorio por parte del Ministerio Público. La Corte de Apelaciones había declarado improcedente la acción de amparo.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "fiscalía",
+    "violencia contra la mujer",
+    "medidas cautelares",
+    "imputado",
+    "nulidad",
+    "control judicial"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional en materia de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0384_E21-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318145-0384-25722-2022-21-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.780568"
+}

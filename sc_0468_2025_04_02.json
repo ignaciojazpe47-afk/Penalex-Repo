@@ -1,0 +1,27 @@
+{
+  "id": 19231,
+  "numero": "0468",
+  "fecha": "2025-04-02",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 293, declaró NO HA LUGAR la solicitud de revisión constitucional presentada por la abogada Andrea Carolina Huamani Guerrero, en representación de la sociedad mercantil Servicios Halliburton de Venezuela, S.A. La solicitud se fundamentó en la supuesta violación de derechos constitucionales y de precedentes vinculantes en la casación de oficio realizada por la Sala de Casación Social. Sin embargo, la Sala Constitucional determinó que no existían infracciones que justificaran la revisión, reafirmando la validez de la decisión impugnada y la correcta aplicación de la normativa laboral en el caso.",
+  "palabras_clave": [
+    "prestaciones sociales",
+    "casación",
+    "derechos laborales",
+    "debido proceso",
+    "seguridad jurídica",
+    "tutela judicial efectiva",
+    "LOT",
+    "USD"
+  ],
+  "titulo": "Revisión de la sentencia n.° 293 dictada por la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-02_S0468_E24-1265.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/342867-0468-2425-2025-24-1265.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.603343"
+}

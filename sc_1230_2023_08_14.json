@@ -1,0 +1,24 @@
+{
+  "id": 34123,
+  "numero": "1230",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ofíciese lo conducente. Cúmplase lo ordenado.",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional recibió una solicitud de revisión de sentencia presentada por Chahid Kamil Aboul Hons, en su carácter de presidente de la sociedad mercantil INVERCORE, C.A. La solicitud se refiere a una sentencia proferida por la Sala de Casación Civil en diciembre de 2019. A lo largo del proceso, se realizaron diversas actuaciones, incluyendo la solicitud de información a otros tribunales y la presentación de escritos complementarios por parte de los representantes judiciales de la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder",
+    "notarías",
+    "competencia",
+    "sanciones"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional solicitada por Chahid Kamil Aboul Hons",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1230_E20-0480.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328434-1230-14823-2023-20-0480.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.876765"
+}

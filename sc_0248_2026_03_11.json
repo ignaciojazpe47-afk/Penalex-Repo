@@ -1,0 +1,26 @@
+{
+  "id": 17440,
+  "numero": "0248",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Angri Zulimar Veliz en nombre de Gladys Isabel González. La solicitud se fundamenta en la revisión de una sentencia dictada el 1° de febrero de 2024 por el Tribunal Primero de Municipio, que declaró con lugar una demanda de desalojo por falta de pago de cánones de arrendamiento. La Sala argumenta que la sentencia a revisar no tiene carácter definitivamente firme, ya que no se presentó evidencia de que se hubiera agotado el recurso ordinario de apelación.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "inmuebles",
+    "procedimiento civil",
+    "sentencia",
+    "jurisdicción",
+    "pruebas"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0248_E25-0544.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353553-0248-11326-2026-25-0544.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.569200"
+}

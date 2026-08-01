@@ -1,0 +1,25 @@
+{
+  "id": 34126,
+  "numero": "1233",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia N° 000359, proferida por la Sala de Casación Civil, que había declarado con lugar un recurso de casación interpuesto por la demandada. La Sala Constitucional determinó que la sentencia cuestionada estaba viciada de inmotivación por contradicción, lo que llevó a declarar no ha lugar la solicitud de revisión. Se destacó que la revisión constitucional no debe ser entendida como un medio ordinario de impugnación, sino como un mecanismo excepcional.",
+  "palabras_clave": [
+    "cumplimiento de contrato",
+    "arrendamiento",
+    "Código Civil",
+    "prueba",
+    "obligaciones",
+    "resolución de contrato"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1233_E22-0878.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328437-1233-14823-2023-22-0878.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.875841"
+}

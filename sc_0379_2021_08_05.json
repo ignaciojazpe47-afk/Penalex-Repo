@@ -1,0 +1,25 @@
+{
+  "id": 39236,
+  "numero": "0379",
+  "fecha": "2021-08-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Alexis Rivas Cayone en representación de Jesús Manuel Colmenares Contreras, alegando denegación de justicia por parte del Tribunal Tercero de Primera Instancia en Funciones de Control del Estado Bolívar. La Sala, tras analizar el caso, se declaró incompetente para conocer de la acción, declinando la competencia a la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. La decisión se fundamenta en la violación de derechos constitucionales y la falta de pronunciamiento del tribunal inferior.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "denegación de justicia",
+    "debido proceso",
+    "tutela judicial",
+    "competencia",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-05_S0379_E21-0133.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/312894-0379-5821-2021-21-0133.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.745454"
+}

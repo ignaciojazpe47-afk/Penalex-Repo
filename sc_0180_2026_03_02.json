@@ -1,0 +1,25 @@
+{
+  "id": 17238,
+  "numero": "0180",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por el Instituto Nacional de Tierras (INTI) contra una medida cautelar dictada por el Juzgado Tercero de Primera Instancia Agraria. La acción fue considerada inadmisible debido a que la medida cautelar había perdido vigencia, lo que implicaba el cese de la supuesta violación de derechos constitucionales. La Sala confirmó la decisión del Juzgado Superior Cuarto Agrario que había declarado inadmisible la acción de amparo en su sentencia del 19 de febrero de 2020.",
+  "palabras_clave": [
+    "jurisdicción",
+    "amparo",
+    "agroalimentaria",
+    "procedimiento administrativo",
+    "derecho a la defensa",
+    "Ley de Tierras"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0180_E20-0358.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353176-0180-2326-2026-20-0358.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.385117"
+}

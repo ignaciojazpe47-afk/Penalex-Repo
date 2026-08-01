@@ -1,0 +1,23 @@
+{
+  "id": 8303,
+  "numero": null,
+  "fecha": "2012-06-12",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la acción de amparo constitucional interpuesta por el Ministerio Público contra la decisión de la Sala Accidental Segunda de Reenvío en lo Penal, que había declarado inadmisible un recurso de apelación por considerarlo extemporáneo. La decisión se fundamentó en que el recurso fue presentado fuera del lapso legal establecido por la Ley Orgánica Sobre el Derecho de las Mujeres a una Vida Libre de Violencia, que establece un término de tres días para la interposición del recurso tras la notificación de la decisión que se impugna.\nLa Sala argumentó que, aunque el recurso de apelación se consideraba como una decisión interlocutoria con carácter definitivo, el mismo fue interpuesto fuera del plazo legal, lo que llevó a la inadmisibilidad del mismo. Se enfatizó la importancia de respetar los plazos establecidos por la ley para garantizar la efectividad del proceso judicial y la protección de los derechos de las víctimas de violencia de género.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Violencia de Género",
+    "Inadmisibilidad",
+    "Recurso de Apelación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del recurso de apelación en materia de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2012_25.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.528193"
+}

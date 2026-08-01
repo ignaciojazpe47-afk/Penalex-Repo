@@ -1,0 +1,25 @@
+{
+  "id": 34114,
+  "numero": "1221",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Mérida, que declaró inadmisible una demanda por fraude procesal y retracto legal. El solicitante argumentó violaciones a derechos constitucionales y errores en la interpretación de la ley. Sin embargo, la Sala concluyó que no había lugar para la revisión, ya que la decisión del juzgado inferior se ajustaba a derecho y no se evidenciaron violaciones a derechos fundamentales.",
+  "palabras_clave": [
+    "procedimiento civil",
+    "prejuzgamiento",
+    "nulidad",
+    "tutela judicial",
+    "principio de legalidad",
+    "incongruencia"
+  ],
+  "titulo": "Revisión constitucional sobre inadmisibilidad de demanda por fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1221_E23-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328425-1221-14823-2023-23-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.868701"
+}

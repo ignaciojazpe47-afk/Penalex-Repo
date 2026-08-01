@@ -1,0 +1,25 @@
+{
+  "id": 18040,
+  "numero": "0721",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de mayo de 2026, declaró inadmisible la solicitud de revisión constitucional presentada por Juan Parra Duarte, en relación a una sentencia dictada el 12 de febrero de 2025 por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo del Estado Zulia. La inadmisibilidad se fundamentó en la falta de cumplimiento de las formalidades exigidas por la Ley Orgánica del Tribunal Supremo de Justicia, específicamente en cuanto a la presentación de documentos indispensables para la admisibilidad de la solicitud.\n\nLa Sala destacó que el solicitante no cumplió con la carga procesal de consignar los documentos necesarios, lo que llevó a la conclusión de que la solicitud no podía ser admitida. Además, se reafirmó la importancia de la verificación de la identidad y legitimidad del solicitante en procedimientos de revisión constitucional, especialmente cuando no hay contraparte involucrada.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la solicitud, pero al no cumplir con los requisitos formales, se decidió declarar la solicitud inadmisible, enfatizando la necesidad de seguir los procedimientos establecidos para garantizar la seguridad jurídica.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmision",
+    "competencia",
+    "seguridad jurídica",
+    "documentación",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0721_E25-1301.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355991-0721-27526-2026-25-1301.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.896950"
+}

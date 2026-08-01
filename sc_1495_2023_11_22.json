@@ -1,0 +1,27 @@
+{
+  "id": 32926,
+  "numero": "1495",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Manuel Fernández, quien alegó la omisión de pronunciamiento de la Corte de Apelaciones Accidental del Circuito Judicial Penal del Estado Anzoátegui. La acción se fundamenta en la violación del derecho al debido proceso y a la tutela judicial efectiva, debido a la falta de respuesta a su solicitud de amparo presentada el 19 de julio de 2023.\n\nLa Sala, tras analizar la competencia para conocer del caso, determinó que le corresponde a ella decidir sobre la acción de amparo, dado que se ejerce contra una decisión de la Corte de Apelaciones. En consecuencia, se ordenó a la Secretaría de la Sala que oficie al presidente del Circuito Judicial Penal del Estado Anzoátegui para que informe sobre el estado de la causa relacionada con la acción de amparo.\n\nFinalmente, la Sala declaró con lugar la acción de amparo, instando al tribunal correspondiente a pronunciarse conforme a derecho, advirtiendo que el incumplimiento de esta orden podría acarrear sanciones.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "Corte de Apelaciones",
+    "omisión de pronunciamiento",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por MANUEL FERNÁNDEZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1495_E23-0883.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330547-1495-221123-2023-23-0883.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.440441"
+}

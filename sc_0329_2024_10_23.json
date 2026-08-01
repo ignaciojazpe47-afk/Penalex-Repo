@@ -1,0 +1,26 @@
+{
+  "id": 26729,
+  "numero": "0329",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión de una sentencia dictada el 1° de febrero de 2016, en la que se declaró sin lugar una demanda por cumplimiento de contrato de opción de compra venta. El solicitante alega violaciones a su derecho a la defensa y al debido proceso. La Sala se declara competente para conocer la solicitud y ordena la remisión del expediente original del juicio correspondiente para su revisión.",
+  "palabras_clave": [
+    "revisión",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "interpretación constitucional",
+    "potestad",
+    "remisión de expediente"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0329_E16-1145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338011-0329-231024-2024-16-1145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.327235"
+}

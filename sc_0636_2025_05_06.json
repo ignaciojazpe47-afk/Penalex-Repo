@@ -1,0 +1,22 @@
+{
+  "id": 19653,
+  "numero": "0636",
+  "fecha": "2025-05-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo constitucional interpuesta por Georges Chakour Salím, quien alegó violaciones a sus derechos constitucionales por parte del Fiscal Octavo del Ministerio Público. La decisión se basa en la falta de notificación adecuada al demandante para asistir a la audiencia de amparo, lo que vulneró su derecho a la defensa y al debido proceso. La Sala declina la competencia para conocer del caso a la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la defensa",
+    "Debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-06_S0636_E24-0821.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343572-0636-6525-2025-24-0821.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.739089"
+}

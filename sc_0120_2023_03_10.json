@@ -1,0 +1,25 @@
+{
+  "id": 29122,
+  "numero": "0120",
+  "fecha": "2023-03-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los ciudadanos Jorge Reimer Smith, Rodolfo Alejandro Castañeda y Juan Hernández Martínez, contra la sentencia del 16 de diciembre de 2022 de la Sala 9 de la Corte de Apelaciones del Circuito Judicial Penal. La acción fue considerada inadmisible por no haberse agotado los recursos ordinarios previos, tal como lo establece el artículo 6.5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa decisión se fundamenta en que los accionantes no hicieron uso de los medios judiciales disponibles para restablecer la situación jurídica que alegan infringida, lo que constituye una causal de inadmisibilidad. La Sala también señala que la acción de amparo no puede ser utilizada como sustituto de los recursos procesales establecidos en el ordenamiento jurídico.\n\nFinalmente, se ordena la publicación y archivo del expediente, reafirmando la autoridad de la ley en la administración de justicia.",
+  "palabras_clave": [
+    "amparo",
+    "homicidio",
+    "debido proceso",
+    "niños",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-10_S0120_E23-0136.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323288-0120-10323-2023-23-0136.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.336690"
+}

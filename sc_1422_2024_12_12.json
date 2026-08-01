@@ -1,0 +1,26 @@
+{
+  "id": 28591,
+  "numero": "1422",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró SIN LUGAR el recurso de apelación interpuesto por la abogada Belxis Coromoto Gil García, actuando como defensora privada de Marlene Coromoto Gil García, contra la sentencia dictada el 15 de abril de 2024, que declaró inadmisible la acción de amparo constitucional. La apelante argumentó violaciones al debido proceso y a su derecho a la defensa, alegando que el tribunal había actuado sin su presencia y había designado un defensor público en contra de la voluntad de su defendida.\n\nLa Sala Constitucional determinó que la apelante no presentó los documentos necesarios para demostrar la supuesta violación de derechos, lo que llevó a la inadmisibilidad de la acción de amparo. Se destacó que la falta de consignación de los recaudos necesarios es una carga procesal del accionante, y su omisión impide el reconocimiento de la pretensión de tutela constitucional.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, reafirmando que el procedimiento seguido cumplió con las garantías constitucionales y que no se vulneraron los derechos invocados por la parte apelante.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "competencia",
+    "derechos constitucionales",
+    "Corte de Apelaciones",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1422_E24-0478.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340615-1422-121224-2024-24-0478.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.818744"
+}

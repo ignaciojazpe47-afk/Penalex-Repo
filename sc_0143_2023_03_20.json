@@ -1,0 +1,25 @@
+{
+  "id": 29404,
+  "numero": "0143",
+  "fecha": "2023-03-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con la sentencia RC.000776 del 13 de diciembre de 2022, que declaró sin lugar un recurso de casación. La parte solicitante argumentó que se vulneraron derechos constitucionales en el proceso anterior, alegando incongruencias y falta de motivación en la sentencia recurrida. La Sala, tras analizar los alegatos, decidió que era competente para conocer la solicitud y ordenó al juzgado correspondiente remitir el expediente completo para su revisión.",
+  "palabras_clave": [
+    "revisión",
+    "honorarios",
+    "debido proceso",
+    "tutela judicial",
+    "jurisprudencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0143_E23-0222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323804-0143-20323-2023-23-0222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.333766"
+}

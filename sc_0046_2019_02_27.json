@@ -1,0 +1,22 @@
+{
+  "id": 42329,
+  "numero": "0046",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de regulación de competencia en el marco de una acción de amparo constitucional. Los accionantes denunciaron violaciones a sus derechos laborales y solicitaron la nulidad de una decisión que consideraron incompetente. La Sala, tras analizar el caso, declaró improcedente el recurso de regulación de competencia y ordenó la remisión del expediente al tribunal correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "regulación de competencia",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre recurso de regulación de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0046_E18-0750.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303980-0046-27219-2019-18-0750.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.613331"
+}

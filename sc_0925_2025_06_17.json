@@ -1,0 +1,22 @@
+{
+  "id": 20374,
+  "numero": "0925",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la revisión constitucional solicitada por INVERSIONES CM C.A. respecto a la sentencia N° 261 de la Sala de Casación Civil. Se argumenta que la Sala de Casación incurrió en error en la valoración probatoria al decidir la causa primigenia. La Sala se declara competente para conocer de la revisión y ordena la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "error de valoración"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0925_E24-0964.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344886-0925-17625-2025-24-0964.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.316395"
+}

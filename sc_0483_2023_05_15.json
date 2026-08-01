@@ -1,0 +1,23 @@
+{
+  "id": 30264,
+  "numero": "0483",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de amparo constitucional interpuesto por Amanda Herrera Urriola contra la decisión del Tribunal Superior Cuarto que había anulado el régimen de convivencia familiar establecido en favor de su hija. La Sala constató que la adolescente no fue escuchada adecuadamente en el proceso, lo que vulneró su derecho a la defensa y a ser oída, y por ello declaró con lugar el recurso de amparo, revocando la decisión impugnada y manteniendo el régimen de convivencia familiar previamente establecido. La sentencia enfatiza la importancia de garantizar el interés superior de los niños en los procedimientos judiciales relacionados con su custodia y convivencia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "patria potestad",
+    "convivencia familiar",
+    "interés superior"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional en materia de patria potestad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0483_E22-0868.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325104-0483-15523-2023-22-0868.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.045049"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3483,
+  "numero": null,
+  "fecha": "2008-04-14",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira, que desaplicó el último aparte del artículo 430 del Código Orgánico Procesal Penal, referente a la no recurribilidad de sentencias en procedimientos de reparación de daños. La Corte consideró que esta disposición contraviene derechos fundamentales establecidos en la Constitución y tratados internacionales sobre derechos humanos, garantizando así el derecho a la doble instancia y a un juicio justo.",
+  "palabras_clave": [
+    "control difuso",
+    "constitucionalidad",
+    "recurso de apelación",
+    "derechos humanos",
+    "reparación de daños"
+  ],
+  "titulo": "Desaplicación de norma por control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-04-14_Constitucional_08.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.093501"
+}

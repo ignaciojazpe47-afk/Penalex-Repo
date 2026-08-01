@@ -1,0 +1,22 @@
+{
+  "id": 52587,
+  "numero": "527",
+  "fecha": "2017-06-28",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por el Colegio Madison contra una sentencia del Juzgado Superior que había declarado con lugar un recurso de apelación en un caso de desalojo. La Sala consideró que se habían cumplido los requisitos de admisibilidad y que la decisión impugnada podría causar una lesión irreparable al derecho a la educación de los niños que asisten al colegio. Por lo tanto, se acordó la medida cautelar de suspensión de los efectos de la sentencia apelada hasta que se dicte un pronunciamiento definitivo en la causa.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Desalojo",
+    "Derecho a la educación"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-28_S527_E17-0550.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/200538-527-28617-2017-17-0550.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.680399"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20285,
+  "numero": "0870",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena la remisión del expediente original del juicio primigenio.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisa la decisión N° RC-000495 del 30 de septiembre de 2021, que declaró sin lugar un recurso de casación. Se argumenta que la decisión violó derechos constitucionales del solicitante, específicamente el debido proceso y el derecho a la defensa. La Sala determina su competencia para conocer la solicitud y ordena la remisión del expediente original del juicio primigenio para su análisis.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "contrato",
+    "inmueble",
+    "jurisprudencia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0870_E23-0981.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344664-0870-11625-2025-23-0981.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.297108"
+}

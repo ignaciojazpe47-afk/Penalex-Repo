@@ -1,0 +1,24 @@
+{
+  "id": 18298,
+  "numero": "0094",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Ricardo Rafael Pino Romero contra la decisión del Juzgado Superior Sexto en lo Civil, Mercantil, Tránsito y Bancario. La Sala declaró su competencia para conocer del caso, pero consideró que la acción era improcedente in limine litis, ya que el juzgado no había actuado fuera de su competencia ni había incurrido en abuso de poder. La decisión del Juzgado Superior fue confirmada, y se desestimó la solicitud de amparo.",
+  "palabras_clave": [
+    "debido_proceso",
+    "derecho_a_la_defensa",
+    "constitucion",
+    "jurisprudencia",
+    "garantias_constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0094_E24-1129.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341356-0094-7225-2025-24-1129.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.549172"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14293,
+  "numero": null,
+  "fecha": "2002-05-30",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara que no ha lugar a la solicitud de revisión interpuesta por Trina Blanco de Ramos contra una sentencia de la Sala Político-Administrativa. La solicitante argumentó que la sentencia revisada declaró la perención en un recurso de nulidad, pero la Sala concluyó que la revisión no era procedente debido a la inactividad del demandante antes de que se dictara la sentencia en cuestión. Además, se declaró incompetente para conocer la demanda de nulidad contra una resolución del Ministerio de Justicia.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_4381e89e9383130a83107f966fac8a17_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.433796"
+}

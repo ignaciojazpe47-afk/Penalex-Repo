@@ -1,0 +1,23 @@
+{
+  "id": 28056,
+  "numero": "1145",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia número 1573, declarando sin lugar el recurso de apelación interpuesto por las abogadas Belkis Isacc Pérez y Jholeesky del Valle Villegas Espina, en representación del ciudadano Antonio José Niño Nava. Este recurso fue presentado contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional por falta de soporte en las peticiones realizadas. La Sala constató que la acción de amparo carecía de fundamento serio para demostrar la presunta violación de derechos constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "derechos constitucionales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1145_E21-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339742-1145-281124-2024-21-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.470898"
+}

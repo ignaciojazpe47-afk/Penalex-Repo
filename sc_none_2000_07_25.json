@@ -1,0 +1,27 @@
+{
+  "id": 1925,
+  "numero": null,
+  "fecha": "2000-07-25",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "PARCIALMENTE CON LUGAR",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 25 de julio de 2000, se pronunció sobre la acción de amparo constitucional interpuesta por la empresa Todo Metal C.A. contra la decisión del Juzgado Primero de Primera Instancia del Trabajo de Carabobo, que había condenado a la empresa al pago de daños y perjuicios. La Sala consideró que la notificación de la sentencia a la empresa por cartel en el tribunal violó su derecho a la defensa y al debido proceso, ya que la empresa no fue debidamente notificada de la sentencia que le era adversa. La Sala revocó la decisión del Juzgado Superior que había declarado con lugar la acción de amparo, y ordenó la reposición de la causa al estado en que se realice la notificación adecuada a la empresa demandada.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derechos",
+    "Debido Proceso",
+    "Notificación",
+    "Sentencia",
+    "Reposición",
+    "Carabobo",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Amparo Constitucional de Todo Metal C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-07-25_Constitucional_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.728876"
+}

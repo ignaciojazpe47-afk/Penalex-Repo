@@ -1,0 +1,22 @@
+{
+  "id": 33101,
+  "numero": "1610",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por José Gregorio Molina Molina y Gualca Mejías Saavedra, coapoderados de los ciudadanos Milena del Carmen Varón Briceño, Heberth Yesih Varón Valecillos y Elbeling Mercedes Varón Briceño, contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo constitucional. La Sala consideró que la apelación fue presentada sin la debida representación legal, ya que el poder otorgado al abogado no cumplía con los requisitos necesarios para actuar en la acción de amparo, lo que llevó a la declaratoria de inadmisibilidad de la misma.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1610_E23-0781.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330777-1610-291123-2023-23-0781.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.999046"
+}

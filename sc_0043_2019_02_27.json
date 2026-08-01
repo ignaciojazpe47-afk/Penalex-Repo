@@ -1,0 +1,24 @@
+{
+  "id": 42318,
+  "numero": "0043",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Jorge Luis Mogollón, quien actuaba como apoderado judicial de Andrés Ramón Matos Rosales. La inadmisibilidad se fundamenta en la falta de presentación de copia certificada del poder que acredita la representación del solicitante, así como la ausencia de la copia certificada de la sentencia cuya revisión se solicita.",
+  "palabras_clave": [
+    "interes procesal",
+    "competencia",
+    "revisión constitucional",
+    "apoderado judicial",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0043_E18-0712.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/303968-0043-27219-2019-18-0712.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.609811"
+}

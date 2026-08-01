@@ -1,0 +1,27 @@
+{
+  "id": 19899,
+  "numero": "0762",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia ha decidido a favor de la solicitud de revisión constitucional presentada por Regina Kauam Zeitoune y sus hermanos, en relación a la sentencia de la Sala de Casación Civil que había declarado sin lugar el recurso extraordinario de casación. La decisión de la Sala de Casación Civil fue considerada nula, ya que se argumentó que no se había operado la perención de la instancia, dado que no habían transcurrido los plazos establecidos por la ley debido a la falta de actividad judicial durante ciertos períodos.",
+  "palabras_clave": [
+    "perención",
+    "debido proceso",
+    "legitimación",
+    "Código de Procedimiento Civil",
+    "derechos",
+    "justicia",
+    "sentencia",
+    "revisión"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0762_E22-0550.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343962-0762-21525-2025-22-0550.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.867343"
+}

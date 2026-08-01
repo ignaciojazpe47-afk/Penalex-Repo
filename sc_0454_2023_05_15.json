@@ -1,0 +1,26 @@
+{
+  "id": 30235,
+  "numero": "0454",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por un grupo de ciudadanos en contra de la decisión de un tribunal inferior. La solicitud fue inadmitida debido a la falta de legitimidad de los apoderados judiciales que la presentaron, quienes no acompañaron el poder correspondiente que acreditara su representación. La Sala declaró su competencia para conocer la solicitud, pero al no cumplirse con los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia, se decidió declarar inadmisible la solicitud de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "legitimidad",
+    "representación",
+    "procedimiento",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0454_E18-0512.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325075-0454-15523-2023-18-0512.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.886621"
+}

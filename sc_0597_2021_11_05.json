@@ -1,0 +1,26 @@
+{
+  "id": 40103,
+  "numero": "0597",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación interpuesto por Jesús Alberto De La M Rodríguez Márquez contra una sentencia que declaró inadmisible su acción de amparo. La Sala determinó su competencia para conocer del recurso y ordenó al Juzgado Superior del Circuito de Protección de Niños, Niñas y Adolescentes que remitiera un cómputo de los días transcurridos entre la fecha de la decisión apelada y la interposición del recurso, para verificar la tempestividad del mismo. Se advirtió que el incumplimiento de esta orden podría acarrear sanciones.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "niños",
+    "adolescentes",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0597_E21-0106.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314180-0597-51121-2021-21-0106.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.102171"
+}

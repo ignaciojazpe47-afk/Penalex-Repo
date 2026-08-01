@@ -1,0 +1,23 @@
+{
+  "id": 28394,
+  "numero": "1336",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Dulce Morelba Molina de Carrero contra la sentencia del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito de Mérida. La acción fue considerada inadmisible debido a que la demandante había optado por recurrir a vías judiciales ordinarias, lo que contraviene el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La decisión se fundamenta en la falta de agotamiento de los recursos procesales disponibles antes de interponer el amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1336_E23-1210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340350-1336-101224-2024-23-1210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.220697"
+}

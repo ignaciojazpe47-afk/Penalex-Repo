@@ -1,0 +1,22 @@
+{
+  "id": 4531,
+  "numero": "79",
+  "fecha": "2000-03-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la Compañía Anónima Venezolana SEGUROS CARACAS contra una sentencia del Juzgado Superior Accidental. La acción fue considerada inadmisible debido a que el agraviado había optado por recurrir a las vías judiciales ordinarias, lo que contraviene lo dispuesto en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se establece que el lapso de caducidad para la interposición de la acción había vencido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_20_JoseM.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.680955"
+}

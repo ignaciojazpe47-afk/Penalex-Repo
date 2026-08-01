@@ -1,0 +1,24 @@
+{
+  "id": 21925,
+  "numero": "1463",
+  "fecha": "2025-02-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Luis Wilfredo Betancourt Zurita, quien alegó violaciones a sus derechos a la defensa y debido proceso en un procedimiento administrativo disciplinario que resultó en su destitución. La Sala ordenó la reconstrucción del expediente original que se había calcinado, estableciendo lineamientos específicos para su cumplimiento. La decisión busca garantizar la tutela judicial efectiva y el respeto a los derechos constitucionales del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos a la defensa",
+    "debido proceso",
+    "destitución",
+    "reconstrucción de expediente"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de procedimiento administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1463_E17-1255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348078-1463-30925-2025-17-1255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.882647"
+}

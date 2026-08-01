@@ -1,0 +1,25 @@
+{
+  "id": 37488,
+  "numero": "1009",
+  "fecha": "2022-11-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por la abogada Belzahir Flores González, en representación de los ciudadanos Antonio Fernandes de Sousa y Joao Nicolau Goncalves Fernandes, contra la decisión del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Bolívar. La sentencia apelada había declarado con lugar la solicitud de amparo presentada por Delfín Rodríguez Suárez, en relación a las actuaciones de un tribunal arbitral que había declarado inadmisible una recusación presentada por la parte demandada.\nLa Sala confirmó la decisión del juzgado superior, argumentando que la recusación de todos los árbitros del tribunal arbitral debía llevar al cese de sus funciones, tal como lo establece la Ley de Arbitraje Comercial. Se concluyó que la decisión del tribunal superior se ajustaba a derecho, y se declaró sin lugar el recurso de apelación, permitiendo que las partes quedaran libres de acudir a los órganos jurisdiccionales o reiniciar el procedimiento arbitral si así lo deseaban.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "herencia",
+    "debido proceso",
+    "arbitraje",
+    "recusación"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-18_S1009_E15-1430.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320915-1009-181122-2022-15-1430.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.343015"
+}

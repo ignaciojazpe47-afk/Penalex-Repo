@@ -1,0 +1,24 @@
+{
+  "id": 23228,
+  "numero": "1882",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 26 de noviembre de 2025, declaró sin lugar la acción de amparo constitucional interpuesta por Carmen Zoraya Pérez, abuela materna de la niña adoptada, contra la decisión del Juzgado Superior Primero Accidental que había declarado sin lugar la acción de amparo. La Sala consideró que no era necesaria la intervención de la abuela en el proceso de adopción, ya que la ley solo permite la oposición a la adopción a quienes ejercen la patria potestad y al Ministerio Público.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "adopción",
+    "derechos del niño",
+    "familia",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en caso de adopción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1882_E25-0115.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350478-1882-261125-2025-25-0115.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.049164"
+}

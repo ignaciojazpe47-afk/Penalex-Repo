@@ -1,0 +1,24 @@
+{
+  "id": 21222,
+  "numero": "1236",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Javier Armando Pérez Oliveros en representación de Karl Alexander Díaz Aparicio, contra la sentencia de la Sala 10 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La inadmisibilidad se fundamenta en la falta de presentación de la copia certificada de la decisión impugnada, lo cual es un requisito procesal esencial. La Sala reafirma su competencia para conocer de este tipo de acciones de amparo, pero subraya la importancia de cumplir con las cargas procesales establecidas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "carga procesal",
+    "documentos",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1236_E24-0995.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346533-1236-28725-2025-24-0995.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.374736"
+}

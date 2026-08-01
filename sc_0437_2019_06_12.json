@@ -1,0 +1,25 @@
+{
+  "id": 44640,
+  "numero": "0437",
+  "fecha": "2019-06-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo interpuesta por Miguel Ángel Viloria Quevedo, representado por su abogado Jhonny Leonardo De Gouveia Muñoz. La acción fue presentada contra una decisión de la Corte de Apelaciones del Estado Carabobo, la cual resolvió un recurso de apelación en un caso penal. La Sala constató que desde enero de 2019 no hubo impulso procesal por parte del accionante, configurándose así el abandono del trámite.\n\nLa Sala también impone una multa de cinco mil bolívares a la parte accionante, que deberá ser pagada en un plazo de cinco días, más dos días adicionales. Se destaca que la denuncia del accionante no afecta el orden público ni las buenas costumbres, y que su interés en obtener la tutela de sus derechos no se ha mantenido a lo largo del proceso, lo que justifica la decisión de dar por terminado el procedimiento.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "jurisdicción",
+    "derechos",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre abandono del trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0437_E18-0221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308374-0437-291119-2019-18-0221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.852670"
+}

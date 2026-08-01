@@ -1,0 +1,23 @@
+{
+  "id": 3276,
+  "numero": null,
+  "fecha": "2006-02-02",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 24 de noviembre de 2004 por la Sala de Casación Civil, que declaró sin lugar un recurso de casación y condenó en costas a la Corporación Venezolana de Guayana. Los abogados de la corporación solicitaron la revisión argumentando que la condena en costas violaba el criterio vinculante de la Sala Constitucional que prohíbe dicha condena a entes públicos. La Sala Constitucional, tras analizar los fundamentos, decidió anular la parte de la sentencia que imponía costas a la corporación, declarando que esta no debía ser condenada en costas por gozar de privilegios procesales.",
+  "palabras_clave": [
+    "revisión",
+    "costas",
+    "Corporación Venezolana de Guayana",
+    "Sala Constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre condena en costas a la Corporación Venezolana de Guayana",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-02-02_CasacionCivil_05_DugartePadron.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.507504"
+}

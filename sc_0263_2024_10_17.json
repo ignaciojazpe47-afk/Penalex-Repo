@@ -1,0 +1,22 @@
+{
+  "id": 26647,
+  "numero": "0263",
+  "fecha": "2024-10-17",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una consulta per saltum del Tribunal Cuarto de Primera Instancia de Juicio del Trabajo de Anzoátegui, relacionada con un desacato a un mandamiento de amparo constitucional. El Tribunal de origen había declarado el desacato al ciudadano Antonio Villegas, gerente de Cervecería Polar, y la Sala decidió requerir la totalidad del expediente para garantizar el debido proceso y la legalidad en la ejecución de la sanción impuesta.\n\nLa Sala, al examinar la documentación, determinó que era necesario conocer todos los elementos que fundamentaron la decisión de desacato, dada la trascendencia de la sanción sobre la libertad personal. Se ordenó al Tribunal de origen remitir el expediente completo en un plazo específico, advirtiendo sobre las consecuencias de no acatar la orden.\n\nFinalmente, la decisión fue firmada por la Presidenta y los magistrados de la Sala, reafirmando la competencia de la Sala Constitucional para conocer de la consulta y la importancia de la legalidad en el procedimiento de amparo constitucional.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "consulta per saltum"
+  ],
+  "titulo": "Consulta per saltum sobre desacato a mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-17_S0263_E23-0682.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337829-0263-171024-2024-23-0682.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.074624"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 18431,
+  "numero": "0125",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR a la solicitud de revisión interpuesta.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por Mayerling Rojas Villasmil, quien cuestionó la decisión de la Corte de Apelaciones que declaró inadmisible su recurso de apelación. La Sala determinó su competencia para conocer del caso y, tras analizar los argumentos, concluyó que la solicitante carecía de legitimación para apelar, ya que no era parte directa en el proceso penal en cuestión. Por lo tanto, se declaró no ha lugar a la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión de sentencias",
+    "cosa juzgada",
+    "competencia",
+    "derechos constitucionales",
+    "recursos penales"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0125_E21-0715.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341530-0125-13225-2025-21-0715.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.769198"
+}

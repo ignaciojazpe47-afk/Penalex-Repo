@@ -1,0 +1,24 @@
+{
+  "id": 19693,
+  "numero": "0665",
+  "fecha": "2025-05-08",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar el recurso de apelación interpuesto por la defensa de Domingo Arturo Gori Alvarado, confirmando la decisión de la Sala Tres de la Corte de Apelaciones que había declarado con lugar la acción de amparo constitucional presentada por Carlos David Martínez Mora, en representación de la víctima Oleg Fortner Fesenko. La Corte de Apelaciones había anulado la audiencia preliminar realizada el 4 de octubre de 2024, debido a la falta de notificación a la víctima, lo que constituyó una violación a sus derechos de tutela judicial efectiva y debido proceso.\n\nLa sentencia resalta la importancia de la notificación adecuada a las partes en el proceso penal, especialmente a la víctima, para garantizar su derecho a participar en los actos judiciales. La omisión de esta notificación fue considerada un vicio grave que afectó la validez de la audiencia preliminar, lo que llevó a la anulación de dicha audiencia y a la orden de celebrar una nueva audiencia ante un juez distinto.\n\nFinalmente, el Tribunal reafirmó que el Estado debe garantizar el respeto a los derechos de las víctimas y la correcta administración de justicia, subrayando que la falta de notificación a la víctima quebranta el orden público y los derechos constitucionales establecidos en la legislación venezolana.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "notificación",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-08_S0665_E25-0022.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343612-0665-8525-2025-25-0022.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.727914"
+}

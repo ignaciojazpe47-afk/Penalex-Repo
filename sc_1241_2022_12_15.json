@@ -1,0 +1,26 @@
+{
+  "id": 38118,
+  "numero": "1241",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Homologa el desistimiento",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia homologó el desistimiento de la acción de amparo constitucional interpuesta por José Sivira Hernández, en representación de su hijo Renzo José Sivira García, contra el Tribunal 31 de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción fue interpuesta el 18 de noviembre de 2019, alegando violaciones a derechos fundamentales en el proceso penal de su hijo.\nLa Sala constató que el desistimiento fue presentado por la abogada Diurkin Daniuska Bolívar Lugo, quien tenía autorización expresa para ello. Se determinó que no existían violaciones al orden público ni a las buenas costumbres, y que el desistimiento se ajustaba a las disposiciones legales pertinentes.\nFinalmente, se decidió homologar el desistimiento, dado que se había otorgado la libertad al ciudadano Renzo José Sivira García tras el juicio respectivo.",
+  "palabras_clave": [
+    "desistimiento",
+    "amparo",
+    "derechos",
+    "orden público",
+    "procedimiento",
+    "capacidad",
+    "autocomposición"
+  ],
+  "titulo": "Homologación del desistimiento de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1241_E19-0757.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322133-1241-151222-2022-19-0757.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.125082"
+}

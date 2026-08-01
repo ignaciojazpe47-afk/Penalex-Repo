@@ -1,0 +1,26 @@
+{
+  "id": 15941,
+  "numero": "0213",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1.866, declara no ha lugar la solicitud de revisión de la sentencia N° 526 dictada por la Sala de Casación Civil. La revisión se fundamenta en la alegación de violaciones al debido proceso y a derechos constitucionales, pero la Sala concluye que el fallo impugnado realizó un análisis exhaustivo y razonado de las denuncias formuladas, sin incurrir en arbitrariedades ni en violaciones a la normativa aplicable. Se destaca que la revisión constitucional no es una tercera instancia y que las discrepancias con el fallo no constituyen violaciones a derechos fundamentales.",
+  "palabras_clave": [
+    "fianza",
+    "contrato agrario",
+    "debido proceso",
+    "tutela judicial",
+    "inmotivación",
+    "documento público",
+    "prueba"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0213_E25-1125.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353490-0213-11326-2026-25-1125.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.577096"
+}

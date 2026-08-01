@@ -1,0 +1,25 @@
+{
+  "id": 19886,
+  "numero": "0749",
+  "fecha": "2025-05-21",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Gedar de Sousa Chirinos en representación de Jerley Beatriz Ibarra Lemus. La solicitud se refería a un proceso penal por presunta estafa, pero la Sala determinó que no se presentaron los documentos necesarios para admitir la petición. Por lo tanto, se declaró inadmisible la solicitud de avocamiento.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisibilidad",
+    "pruebas",
+    "tutela constitucional",
+    "carga de la prueba",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Solicitud de avocamiento inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-21_S0749_E24-0655.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343912-0749-21525-2025-24-0655.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.876865"
+}

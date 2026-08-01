@@ -1,0 +1,24 @@
+{
+  "id": 30230,
+  "numero": "0450",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ordena solicitar información adicional",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional recibió un oficio relacionado con la solicitud de revisión constitucional de una sentencia que declaró inadmisible un amparo. La ciudadana Zully Coromoto López Villarroel, quien solicitó la revisión, no corrigió su escrito, lo que llevó a la Sala a asumir su competencia. Se destaca la importancia de que la solicitante aclare su condición de abogada y su número de inscripción en el INPREABOGADO para determinar su capacidad de postulación.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tutela constitucional",
+    "capacidad de postulación",
+    "notificación"
+  ],
+  "titulo": "Solicitud de revisión constitucional por inadmisibilidad de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0450_E23-0064.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325070-0450-15523-2023-23-0064.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.885767"
+}

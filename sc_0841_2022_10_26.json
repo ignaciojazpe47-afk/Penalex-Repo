@@ -1,0 +1,26 @@
+{
+  "id": 36905,
+  "numero": "0841",
+  "fecha": "2022-10-26",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Juzgado Superior Estadal Noveno Contencioso Administrativo, que remitió un expediente relacionado con una acción de amparo constitucional interpuesta por Ramón José Lozada Vásquez contra los diputados electos de la Asamblea Nacional. La Sala se declaró competente para conocer el caso, pero determinó que la parte accionante había abandonado el trámite al no manifestar interés en más de seis meses. Por lo tanto, se declaró terminado el procedimiento y se impuso una multa al demandante.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "abandonotrámite",
+    "interésprocesal",
+    "tutela",
+    "derechosfundamentales",
+    "LeyOrgánica"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-26_S0841_E22-0065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320223-0841-261022-2022-22-0065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.430798"
+}

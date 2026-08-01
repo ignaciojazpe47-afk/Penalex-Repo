@@ -1,0 +1,24 @@
+{
+  "id": 51911,
+  "numero": "374",
+  "fecha": "2017-05-02",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Juan José Mendoza Jover, se pronunció sobre una solicitud de avocamiento presentada por General Motors Venezolana, C.A. en relación a varios mandamientos de ejecución dictados por el Juzgado Tercero de Primera Instancia en lo Civil y Mercantil del Estado Zulia. La solicitud se fundamentó en la supuesta ilegitimidad de dichos mandamientos, argumentando que excedían los límites de la cosa juzgada y violaban derechos constitucionales de la empresa demandante.\n\nLa Sala, tras analizar los argumentos presentados, declaró inadmisible la solicitud de avocamiento, señalando que no se evidenciaron violaciones al orden público constitucional ni desorden procesal que justificaran la intervención de la Sala. Se enfatizó que la ejecución de las sentencias en cuestión no afectaba la operatividad de la empresa y que las decisiones del tribunal inferior se ajustaban a derecho.\n\nFinalmente, se destacó la importancia de garantizar el debido proceso y la defensa de los derechos de las partes involucradas, así como la necesidad de mantener el equilibrio en la aplicación de la justicia en el ámbito empresarial.",
+  "palabras_clave": [
+    "avocamiento",
+    "ejecución",
+    "mandamientos",
+    "inadmision",
+    "derechos constitucionales"
+  ],
+  "titulo": "Solicitud de avocamiento sobre expedientes de ejecución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-25_S374_E17-0454.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/199363-374-25517-2017-17-0454.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:27.484582"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20399,
+  "numero": "0950",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por los abogados de la ciudadana S/2 Génesis Jesimar Cúrvelo Soto, argumentando que no se configuró la violación de derechos constitucionales. La Corte Marcial había declarado inadmisible la acción de amparo por considerar que la negativa a otorgar copias simples del expediente no constituía una violación a la tutela judicial efectiva ni al derecho a la defensa, ya que se había permitido el acceso a las actuaciones necesarias para la defensa.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Tutela Judicial Efectiva",
+    "Derecho a la Defensa"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0950_E25-0386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344911-0950-17625-2025-25-0386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.311917"
+}

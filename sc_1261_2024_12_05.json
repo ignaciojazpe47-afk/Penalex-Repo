@@ -1,0 +1,25 @@
+{
+  "id": 28303,
+  "numero": "1261",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por Yhonny Keifran Meza en representación de Guerlys Naidelys Hernández Urrieta. Se determina que ha transcurrido un período superior a seis meses sin actuación procesal válida, lo que configura el abandono del trámite. En consecuencia, se declara terminado el procedimiento por abandono del mismo y se impone una multa a la parte accionante.",
+  "palabras_clave": [
+    "nulidad",
+    "debido_proceso",
+    "tutela_judicial",
+    "allanamiento",
+    "derechos_humanos",
+    "Código_Orgánico_Procesal_Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1261_E22-0793.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340217-1261-51224-2024-22-0793.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.228734"
+}

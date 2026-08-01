@@ -1,0 +1,22 @@
+{
+  "id": 42746,
+  "numero": "0095",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por la sociedad civil LAS GARCITAS, S.C. contra la decisión del Juzgado Agrario Primero de Primera Instancia. La acción fue considerada inadmisible debido a que existían recursos ordinarios que no fueron agotados por la parte demandante. La Sala fundamentó su decisión en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, resaltando que el amparo no debe ser un medio sustitutivo de los recursos procesales ordinarios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0095_E18-0437.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304837-0095-14519-2019-18-0437.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.590143"
+}

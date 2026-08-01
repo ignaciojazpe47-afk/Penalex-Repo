@@ -1,0 +1,24 @@
+{
+  "id": 33923,
+  "numero": "2070",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre una acción de amparo constitucional interpuesta por Huáscar Francois Fossey Guevara, quien denuncia la omisión de pronunciamiento de la Sala N° 9 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción se origina tras la decisión del Tribunal Quincuagésimo de Primera Instancia que declaró sin lugar una solicitud de control interpuesta por el accionante, afectando su derecho a la tutela judicial efectiva.\n\nLa Sala determina su competencia para conocer la apelación y ordena al Presidente de la Corte de Apelaciones que informe sobre el estado del recurso de apelación interpuesto el 4 de abril de 2023, así como las razones por las cuales no se ha emitido pronunciamiento, si es el caso. Se establece un plazo de cinco días para el cumplimiento de esta orden, advirtiendo sobre las sanciones por incumplimiento.\n\nFinalmente, se ordena la notificación de esta decisión de manera expedita, resaltando la importancia de salvaguardar la tutela judicial efectiva en el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "tutela judicial efectiva",
+    "fiscalía",
+    "control judicial"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2070_E23-1061.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332040-2070-201223-2023-23-1061.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.684097"
+}

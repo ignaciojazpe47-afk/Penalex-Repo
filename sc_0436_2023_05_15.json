@@ -1,0 +1,26 @@
+{
+  "id": 30217,
+  "numero": "0436",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia n.° 0526, donde se declara la nulidad del artículo 6 del Decreto con Rango, Valor y Fuerza de Ley de Timbre Fiscal, por infracción del derecho a la información, del derecho a la participación ciudadana y del principio de reserva legal tributaria. Se argumenta que el aumento de las tasas de timbre fiscal afecta derechos fundamentales y no se realizó el debido proceso de consulta pública previa.",
+  "palabras_clave": [
+    "interpretacion",
+    "ley habilitante",
+    "timbres fiscales",
+    "principio de reserva legal",
+    "derecho a la informacion",
+    "participacion ciudadana",
+    "consulta publica"
+  ],
+  "titulo": "Sentencia sobre la nulidad del artículo 6 del Decreto con Rango, Valor y Fuerza de Ley de Timbre Fiscal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0436_E15-0257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325056-0436-15523-2023-15-0257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.044783"
+}

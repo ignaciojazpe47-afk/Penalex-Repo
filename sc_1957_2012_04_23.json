@@ -1,0 +1,23 @@
+{
+  "id": 12106,
+  "numero": "1957",
+  "fecha": "2012-04-23",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en respuesta a una acción de amparo constitucional, declaró con lugar la demanda presentada por Alfredo Manuel Furnaguera Cachutt contra el Ministerio de Salud y otras entidades, por la comercialización del producto 'Materna' como alimento en lugar de como especialidad farmacéutica. La sentencia establece que el producto debe ser vendido bajo receta médica, dado que representa un riesgo para la salud de las mujeres embarazadas y en periodo de postpartum. Además, se ordena la publicación de un aviso en prensa para informar a la colectividad sobre esta decisión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "salud",
+    "productos farmacéuticos",
+    "intereses difusos"
+  ],
+  "titulo": "Sentencia que ordena el expendio bajo récipe médico de productos farmacéuticos para mujeres en estado de gravidez o postpartum",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2012_6.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.533275"
+}

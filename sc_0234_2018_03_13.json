@@ -1,0 +1,27 @@
+{
+  "id": 45957,
+  "numero": "0234",
+  "fecha": "2018-03-13",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar la apelación interpuesta por los ciudadanos Flor de María Barradas Liscano y Ramón Antonio Cañizalez contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara, que había declarado inadmisible su acción de amparo constitucional. La Corte de Apelaciones fundamentó su decisión en que los accionantes habían ejercido un recurso de apelación contra el auto impugnado, lo que los inhabilitaba para solicitar el amparo constitucional según el numeral 5 del artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala Constitucional ratificó que la acción de amparo no era procedente, ya que los accionantes contaban con un medio judicial preexistente para impugnar la medida cautelar de desalojo. Se enfatizó que el amparo sobrevenido no es aplicable a decisiones judiciales, y que los accionantes debieron utilizar la figura de oposición a la providencia cautelar en lugar de recurrir al amparo. Finalmente, se confirmó la decisión de inadmisibilidad de la acción de amparo, reafirmando la competencia del tribunal para conocer de la causa.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "decisión judicial",
+    "seguridad jurídica",
+    "proceso",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-13_S0234_E17-0496.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/208670-0234-13318-2018-17-0496.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:30.681512"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 17512,
+  "numero": "0511",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Martino Kodiak Lapenna González, en representación de Jorge Ventura Torres Bárcenas, contra la decisión del Juzgado Superior Primero Agrario que declaró inadmisible un recurso de casación agrario. La Sala fundamenta su decisión en la falta de interés y premura del demandante, ya que transcurrieron más de nueve meses desde que la decisión que se impugnaba quedó firme hasta la interposición del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "derechos",
+    "garantias",
+    "constitucionales",
+    "jurisprudencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0511_E26-0191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354962-0511-14426-2026-26-0191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.893795"
+}

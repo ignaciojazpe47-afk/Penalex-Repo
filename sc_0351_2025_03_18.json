@@ -1,0 +1,27 @@
+{
+  "id": 18879,
+  "numero": "0351",
+  "fecha": "2025-03-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por el abogado Diego Fernando Molina Rondón, en representación de los ciudadanos Ricardo Ivanel Uribe Carrillo y Anielo Viterio Uribe Carrillo. La revisión se centra en un fallo del Tribunal Tercero de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Táchira, que declaró con lugar una demanda por fraude procesal relacionada con un divorcio. La Sala encontró que el tribunal de instancia vulneró el derecho a la defensa y el debido proceso al no notificar a los herederos del de cujus, Pedro Pablo Uribe Hernández, lo que resultó en una decisión que afectó su estado civil sin su participación en el proceso.",
+  "palabras_clave": [
+    "fraude procesal",
+    "debido proceso",
+    "legitimación",
+    "justicia",
+    "derecho a la defensa",
+    "tutela judicial",
+    "sentencia",
+    "jurisdicción"
+  ],
+  "titulo": "Revisión constitucional sobre fraude procesal en divorcio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-18_S0351_E24-0650.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342382-0351-18325-2025-24-0650.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.724804"
+}

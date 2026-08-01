@@ -1,0 +1,25 @@
+{
+  "id": 38980,
+  "numero": "0261",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Luis Alfonso Bastidas, en representación de Luis Enrique Nouel Díaz, respecto a una sentencia del 5 de noviembre de 2020. La inadmisibilidad se fundamenta en la falta de presentación de documentos esenciales, como la copia certificada de la sentencia solicitada y el instrumento poder que acredite la representación del solicitante.\nLa decisión se basa en el incumplimiento de la carga procesal establecida por la Ley Orgánica del Tribunal Supremo de Justicia, que exige la presentación de documentos que verifiquen la legitimidad y representación del demandante. La Sala enfatiza la importancia de estos requisitos para garantizar la seguridad jurídica y la correcta administración de justicia.\nFinalmente, se ordena la publicación y registro de la decisión, archívese el expediente, reafirmando la inadmisibilidad de la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "apoderado judicial",
+    "legitimidad",
+    "seguridad jurídica",
+    "carga procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0261_E21-0054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312562-0261-9721-2021-21-0054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.167779"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32976,
+  "numero": "1545",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Elena Ageeva, representada por Felipe Oresteres Chacón Medina, contra decisiones de los juzgados de Táchira. La acción se fundamentó en la supuesta violación de derechos fundamentales en el proceso de nulidad de un acta de asamblea de la Sociedad Mercantil Inmobiliaria Verona C.A. La Sala constató que desde el 16 de septiembre de 2022 no hubo actividad procesal por parte de la demandante, lo que se interpretó como abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte accionante.",
+  "palabras_clave": [
+    "representación",
+    "poder",
+    "due process",
+    "sociedades mercantiles",
+    "nulidad",
+    "amparo",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1545_E22-0596.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330600-1545-241123-2023-22-0596.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.429202"
+}

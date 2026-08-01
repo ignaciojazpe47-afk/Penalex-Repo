@@ -1,0 +1,23 @@
+{
+  "id": 41790,
+  "numero": "0217",
+  "fecha": "2020-12-01",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de avocamiento presentada por el abogado Jesús Fernando Mendoza en representación de Carlos Lombsang Acuña Moreno, quien alegó violaciones a sus derechos fundamentales en un proceso penal. La Sala constató que la medida de privación judicial preventiva de libertad dictada por el Juzgado Noveno de Control carecía de fundamentación adecuada y vulneraba el derecho a la defensa y la presunción de inocencia del demandado. En consecuencia, se suspendió la medida de privación de libertad y se ordenó la remisión del expediente original a la Sala.",
+  "palabras_clave": [
+    "avocamiento",
+    "derecho a la defensa",
+    "presunción de inocencia",
+    "medida de privación de libertad"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en proceso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-01_S0217_E20-0428.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310841-0217-11220-2020-20-0428.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.403376"
+}

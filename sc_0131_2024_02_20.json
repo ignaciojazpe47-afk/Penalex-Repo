@@ -1,0 +1,25 @@
+{
+  "id": 24259,
+  "numero": "0131",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión constitucional presentada por Adaia Cenaida Sánchez Farfán, quien impugnó una decisión del Juzgado Superior Estadal Cuarto Contencioso Administrativo que declaró sin lugar su recurso contencioso administrativo contra el SENIAT. La Sala determina su competencia para conocer el caso y ordena la remisión del expediente judicial correspondiente para garantizar la tutela de los derechos constitucionales de la solicitante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "revisión_constitucional",
+    "pruebas",
+    "administrativo",
+    "SENIAT",
+    "tutela_derechos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0131_E22-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332640-0131-20224-2024-22-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.558076"
+}

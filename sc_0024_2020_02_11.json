@@ -1,0 +1,23 @@
+{
+  "id": 41019,
+  "numero": "0024",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Agrario del Estado Bolívar, que declaró con lugar una demanda de impugnación de paternidad. La solicitante, Andrea Fernanda Pedrouzo Sánchez, argumentó que no se respetaron sus derechos al debido proceso y a la defensa, ya que no se ordenó la publicación del edicto que llamara a terceros interesados en el juicio. La Sala encontró que la omisión de esta formalidad esencial vulneró los derechos constitucionales de la solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "impugnación de paternidad",
+    "debido proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de impugnación de paternidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0024_E18-0837.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309534-0024-11220-2020-18-0837.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.148560"
+}

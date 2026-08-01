@@ -1,0 +1,22 @@
+{
+  "id": 14205,
+  "numero": "02532",
+  "fecha": "2002-05-10",
+  "anio": 2002,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó un recurso interpuesto por el Consorcio Technip, Inelectra Dit Harris, contra una sentencia de la Sala Político Administrativa que declaró la perención de la instancia en un recurso contencioso tributario. La Sala Constitucional consideró que la decisión impugnada vulneró el derecho a la tutela judicial efectiva, ya que se dictó después de haber dicho 'VISTOS', lo que implicaba que la causa estaba en espera de decisión. En consecuencia, se anuló la sentencia de la Sala Político Administrativa y se ordenó la reposición de la causa para que se dicte la respectiva sentencia.",
+  "palabras_clave": [
+    "perención",
+    "revisión",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre recurso de revisión de perención de instancia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_38f52913cb4af580f83abd6ebfe7ea6b.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.437801"
+}

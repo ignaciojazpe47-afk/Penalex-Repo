@@ -1,0 +1,26 @@
+{
+  "id": 20851,
+  "numero": "1111",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no ha lugar la solicitud de revisión constitucional interpuesta por el abogado Jesús Alberto Rosales en representación de Gabriel Abusada James. La revisión se solicitó contra la decisión n° 166 de la Sala de Casación Penal, que anuló de oficio todas las actuaciones a partir del auto del 24 de septiembre de 2019, en el que se reactivaron órdenes de aprehensión dictadas el 5 de marzo de 2018. La Sala Constitucional ratificó la validez de la decisión de la Sala de Casación Penal, argumentando que se vulneraron derechos fundamentales y el debido proceso.",
+  "palabras_clave": [
+    "debido proceso",
+    "audiencia de presentación",
+    "orden de aprehensión",
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "Código Orgánico Procesal Penal",
+    "Constitución de Venezuela"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1111_E22-0755.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345873-1111-9725-2025-22-0755.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.502452"
+}

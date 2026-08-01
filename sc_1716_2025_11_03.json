@@ -1,0 +1,24 @@
+{
+  "id": 22765,
+  "numero": "1716",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 3 de noviembre de 2025, declaró sin lugar la solicitud de revisión constitucional presentada por Antonio Zan Mardelli, a través de su apoderado judicial, Pedro Makso Cortéz. La solicitud se refería a la sentencia de la Corte de Apelaciones del 11 de abril de 2024, que había confirmado el sobreseimiento de la causa por extinción de la acción penal en relación a los delitos de forjamiento de documento público y otros, argumentando que la acción penal había prescrito. La Sala consideró que la decisión de la Corte de Apelaciones se ajustaba a derecho y no vulneraba derechos constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "acción penal",
+    "prescripción",
+    "delitos"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1716_E25-0515.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349454-1716-31125-2025-25-0515.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.528820"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17552,
+  "numero": "0094",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por Rosaría Scifo de Finelli contra el Banco Provincial, declarando inadmisible la solicitud debido a la caducidad de la acción, ya que se interpuso 17 años después de la ejecución de hipoteca. La Sala concluyó que la parte demandante tuvo acceso a representación legal y medios ordinarios de defensa durante el proceso, lo que desvirtúa la alegación de indefensión. Finalmente, se confirma la sentencia apelada y se hace un llamado a los abogados para que actúen con probidad y lealtad procesal.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "debido proceso",
+    "ejecución hipotecaria",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0094_E20-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352782-0094-19226-2026-20-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.397576"
+}

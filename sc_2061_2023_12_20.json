@@ -1,0 +1,22 @@
+{
+  "id": 33914,
+  "numero": "2061",
+  "fecha": "2023-12-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer la acción de amparo interpuesta contra una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del estado Anzoátegui. La acción fue presentada por varios abogados en representación de ciudadanos que alegan violaciones a sus derechos constitucionales. La Sala declaró su competencia y ordenó la verificación de actuaciones procesales denunciadas como lesivas.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-20_S2061_E23-1032.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332031-2061-201223-2023-23-1032.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.683246"
+}

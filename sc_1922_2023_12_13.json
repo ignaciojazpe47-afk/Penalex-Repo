@@ -1,0 +1,25 @@
+{
+  "id": 33774,
+  "numero": "1922",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por los abogados Maiker Morillo y Mariana Meneses, en representación del ciudadano Edmundo Rafael Peña Lavarte, contra una decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión apelada, argumentando que los recurrentes no acompañaron las copias necesarias para sustentar su solicitud de amparo, lo que constituye un requisito fundamental para la admisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "legitimidad",
+    "defensa",
+    "presupuestos procesales",
+    "Corte de Apelaciones",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1922_E19-0293.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331891-1922-131223-2023-19-0293.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.443904"
+}

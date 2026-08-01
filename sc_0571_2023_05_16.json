@@ -1,0 +1,23 @@
+{
+  "id": 30365,
+  "numero": "0571",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a una acción de amparo constitucional presentada por Jesús Argenis Acosta Alemán, en contra de la presunta omisión de pronunciamiento del Tribunal Superior en lo Civil, Mercantil y Tránsito de La Guaira. La acción se relaciona con un recurso de apelación que no fue resuelto por el tribunal inferior, lo que generó la solicitud de tutela constitucional por parte del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "Tribunal Superior",
+    "La Guaira"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0571_E22-0838.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325215-0571-16523-2023-22-0838.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.879046"
+}

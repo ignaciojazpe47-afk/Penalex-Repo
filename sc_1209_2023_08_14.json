@@ -1,0 +1,25 @@
+{
+  "id": 34098,
+  "numero": "1209",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Recurso de hecho",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de hecho interpuesto por el abogado Jorge Luís Mogollón, en representación de Andrés Ramón Matos Rosales, contra una decisión del Juzgado Superior Primero que negó la admisión de un recurso de casación. La Sala declaró su competencia para conocer del recurso, pero consideró que el mismo era improponible debido a la naturaleza del procedimiento de amparo constitucional, que no permite la interposición de recursos de casación. Finalmente, se ordenó remitir el expediente al juzgado de origen.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "casación",
+    "jurisdicción",
+    "improponible",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de hecho interpuesto en caso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1209_E18-0507.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328409-1209-14823-2023-18-0507.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.874224"
+}

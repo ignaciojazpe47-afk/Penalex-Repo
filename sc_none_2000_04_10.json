@@ -1,0 +1,22 @@
+{
+  "id": 13731,
+  "numero": null,
+  "fecha": "2000-04-10",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Jesús Eduardo Cabrera Romero",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la interpretación de la Constitución en relación con los intereses difusos y colectivos, a solicitud del abogado Servio Tulio León Briceño. Se abordaron aspectos sobre quiénes pueden hacer valer estos intereses, el procedimiento aplicable y el alcance de las sentencias en estos casos. La Sala reafirmó su competencia para interpretar la Constitución, destacando que dicha interpretación es vinculante y debe ser ejercida en el marco de acciones concretas.",
+  "palabras_clave": [
+    "intereses difusos",
+    "interpretación constitucional",
+    "acción popular"
+  ],
+  "titulo": "Interpretación de la Constitución sobre intereses difusos y colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_07e1e43c9b6d8b90aec02ae813f489c2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.671023"
+}

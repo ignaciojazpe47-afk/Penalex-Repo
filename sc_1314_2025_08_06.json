@@ -1,0 +1,26 @@
+{
+  "id": 21454,
+  "numero": "1314",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la revisión constitucional interpuesta.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión de la sentencia N° RC000683, dictada por la Sala de Casación Civil, que había declarado sin lugar la demanda por prescripción adquisitiva interpuesta por Jesús Antonio Moya contra Héctor Lorenzo González. La Sala concluyó que no se demostró el carácter de poseedor legítimo del demandante, por lo que la revisión fue declarada sin lugar. Se reafirmó la competencia de la Sala para conocer de la solicitud y se determinó que no hubo vulneración de derechos constitucionales.",
+  "palabras_clave": [
+    "posesión",
+    "inmotivación",
+    "prescripción",
+    "derecho civil",
+    "contradicción",
+    "sentencia",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° RC000683",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1314_E24-0966.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346976-1314-6825-2025-24-0966.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.766547"
+}

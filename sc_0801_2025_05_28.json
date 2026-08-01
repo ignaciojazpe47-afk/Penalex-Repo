@@ -1,0 +1,23 @@
+{
+  "id": 20001,
+  "numero": "0801",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de amparo constitucional interpuesta por Juan Carlos Scarpone Rante y Antonio Lema Santos contra la decisión de la Sala N° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que declaró inadmisible el recurso de apelación. La Sala consideró que la decisión impugnada no se pronunció sobre las documentales ofrecidas por la defensa, lo que constituye una violación al derecho a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "inadmisibilidad",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0801_E24-0819.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344279-0801-28525-2025-24-0819.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.848403"
+}

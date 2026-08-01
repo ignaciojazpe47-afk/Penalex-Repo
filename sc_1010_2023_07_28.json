@@ -1,0 +1,22 @@
+{
+  "id": 31650,
+  "numero": "1010",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en amparo constitucional interpuesto por la defensa de Delfa Marilin Silva Bravo, contra una decisión de la Corte de Apelaciones que declaró inadmisible el amparo por falta de legitimidad. La Sala determinó que el recurso era extemporáneo, ya que no se interpuso dentro del lapso legal establecido. La decisión se fundamenta en la falta de presentación de documentos que acreditaran la legitimidad del defensor en el procedimiento de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "recurso de apelación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S1010_E18-0724.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327539-1010-28723-2023-18-0724.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.908676"
+}

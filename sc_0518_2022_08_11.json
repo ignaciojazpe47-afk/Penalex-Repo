@@ -1,0 +1,26 @@
+{
+  "id": 36149,
+  "numero": "0518",
+  "fecha": "2022-08-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia ha decidido sobre la solicitud de revisión constitucional presentada por Antonio Luis Hernández Delgado, quien impugnó la sentencia N° RC.000034 dictada por la Sala de Casación Civil. La Sala ha declarado ha lugar la solicitud de revisión, anulando la sentencia que declaró perecido el recurso de casación y ordenando que se emita un nuevo pronunciamiento sobre el mismo, cumpliendo con el trámite legal correspondiente. La decisión se fundamenta en la violación del derecho a la defensa y en la omisión del término de distancia en el cómputo del plazo para la formalización del recurso de casación.",
+  "palabras_clave": [
+    "debido_proceso",
+    "nulidad",
+    "incongruencia",
+    "ultrapetita",
+    "derechos_fundamentales",
+    "recurso_de_casacion",
+    "seguridad_juridica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0518_E21-0339.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319175-0518-11822-2022-21-0339.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.570698"
+}

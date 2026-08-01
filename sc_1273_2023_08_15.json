@@ -1,0 +1,22 @@
+{
+  "id": 34165,
+  "numero": "1273",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por José Nicolaz Peñaloza y Juan Agustín Rojas Muñoz, contra una decisión del Juzgado Superior Tercero del Trabajo que declaró inadmisible su acción. La Sala observa que faltan documentos clave para evaluar el estado procesal del caso, lo que impide un pronunciamiento adecuado sobre el recurso de apelación. Por ello, se ordena al Juzgado correspondiente remitir el expediente completo para garantizar el debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1273_E22-0824.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328477-1273-15823-2023-22-0824.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.855258"
+}

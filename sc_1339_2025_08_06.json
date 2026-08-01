@@ -1,0 +1,27 @@
+{
+  "id": 21479,
+  "numero": "1339",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible la acción de amparo constitucional interpuesta por Sergio Rafael Gil García, asistido por su abogado, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La Corte de Apelaciones había declarado inadmisible la solicitud de amparo, argumentando que el agraviado había optado por recurrir a vías ordinarias, lo que excluye la posibilidad de amparo según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala Constitucional confirma la decisión de la Corte de Apelaciones, señalando que el accionante tenía a su disposición recursos ordinarios para impugnar la decisión cuestionada y que no se evidenció acción lesiva de los derechos constitucionales denunciados. Por lo tanto, se concluye que la acción de amparo no es idónea en este caso, y se reafirma la inadmisibilidad de la acción.\n\nFinalmente, se declara competente para conocer de la apelación ejercida y se confirma la decisión que declaró inadmisible la acción de amparo, ordenando la remisión del expediente a la Corte de Apelaciones correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "jurisprudencia",
+    "decisiones",
+    "recursos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1339_E25-0474.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347001-1339-6825-2025-25-0474.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.752936"
+}

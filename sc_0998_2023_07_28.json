@@ -1,0 +1,25 @@
+{
+  "id": 31640,
+  "numero": "0998",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Vitelio José Herrera en representación de Enorio Rafael Romero, debido a la inepta acumulación de pretensiones contra varios órganos y funcionarios públicos. Se argumenta que las pretensiones no pueden ser acumuladas ya que corresponden a diferentes competencias jurisdiccionales. La decisión se basa en la normativa aplicable que establece que cada pretensión debe ser interpuesta de forma independiente ante el tribunal competente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "justicia",
+    "defensa",
+    "juicio",
+    "imparcialidad"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S0998_E22-0774.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327529-0998-28723-2023-22-0774.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.909932"
+}

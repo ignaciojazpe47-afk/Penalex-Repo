@@ -1,0 +1,25 @@
+{
+  "id": 32286,
+  "numero": "1440",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La ciudadana Julia del Carmen Rodríguez solicitó la revisión de una sentencia que declaró inadmisible su acción de amparo constitucional contra la Junta de Condominio del edificio Marta. El Juzgado Superior Séptimo confirmó la inadmisibilidad, argumentando que la acción estaba incursa en causales de inadmisibilidad. La Sala Constitucional del TSJ, al revisar el caso, determinó que no existían violaciones a los derechos constitucionales denunciados y que el tribunal de instancia actuó conforme a derecho al declarar inadmisible la apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos",
+    "garantías",
+    "junta de condominio",
+    "propiedad horizontal",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1440_E23-0071.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329315-1440-131023-2023-23-0071.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.397633"
+}

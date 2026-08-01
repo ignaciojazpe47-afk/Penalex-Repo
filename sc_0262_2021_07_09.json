@@ -1,0 +1,25 @@
+{
+  "id": 38981,
+  "numero": "0262",
+  "fecha": "2021-07-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional recibió una acción de amparo constitucional presentada por la abogada Blanca Josefina Montenegro en representación de Jesús Gregorio Delgado, solicitando el pago de una indemnización. Sin embargo, se observó que ni el demandante ni su apoderada comparecieron para ratificar la solicitud ante el tribunal, lo que llevó a la Sala a considerar la acción inadmisible. La sentencia destaca la importancia de la ratificación personal de la acción de amparo, especialmente en el contexto de la pandemia de COVID-19.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "COVID-19",
+    "procedimiento",
+    "ratificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-09_S0262_E21-0167.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312563-0262-9721-2021-21-0167.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.157072"
+}

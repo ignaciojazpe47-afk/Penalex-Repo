@@ -1,0 +1,22 @@
+{
+  "id": 45009,
+  "numero": "0011",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 13 de octubre de 2016, que había declarado con lugar una apelación en un caso de ejecución de contrato de arrendamiento. El demandante, LEONARDO ERNESTO ARIAS CHACÓN, argumentó que no se le dio valor probatorio a ciertos documentos que demostraban la renovación del contrato de arrendamiento. La Sala consideró que hubo una vulneración del debido proceso y que el juzgado inferior no aplicó correctamente la normativa vigente en materia de arrendamientos.",
+  "palabras_clave": [
+    "revisión",
+    "contrato de arrendamiento",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre ejecución de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0011_E16-1116.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206865-0011-17118-2018-16-1116.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.256961"
+}

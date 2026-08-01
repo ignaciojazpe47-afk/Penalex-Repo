@@ -1,0 +1,25 @@
+{
+  "id": 45038,
+  "numero": "0033",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La sentencia se refiere a la acción de amparo constitucional interpuesta por el abogado Miguel Antonio Rasquín Trujillo en representación del ciudadano Carlos del Carmen Rivas Barrios, contra una decisión de la Corte de Apelaciones que declaró sin lugar una recusación. La Sala Constitucional, tras analizar los argumentos y pruebas presentadas, concluyó que la Corte de Apelaciones actuó conforme a derecho y que la acción de amparo no cumplía con los requisitos de procedencia establecidos en la ley. Por lo tanto, se declaró improcedente la acción de amparo interpuesta.",
+  "palabras_clave": [
+    "nulidad",
+    "recusación",
+    "tutela judicial",
+    "debido proceso",
+    "inmotivación",
+    "incongruencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0033_E17-0193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206894-0033-17118-2018-17-0193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.254604"
+}

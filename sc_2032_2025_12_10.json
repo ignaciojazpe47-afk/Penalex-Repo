@@ -1,0 +1,22 @@
+{
+  "id": 23812,
+  "numero": "2032",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por los abogados César Mirabal Mata y Carlos Oduardo García Rodríguez, quienes actuaban como defensores del ciudadano Alexander Emilio Zerega Knuth. La apelación se basaba en la inadmisibilidad de la Acción de Amparo Constitucional dictada por la Sala Especial Dos de la Corte de Apelaciones, que consideró que no se presentaron pruebas suficientes para demostrar las violaciones a los derechos constitucionales alegadas. La Sala Constitucional confirma la decisión de inadmisibilidad, argumentando que los accionantes no acreditaron la existencia de la negativa del juez a permitir la juramentación de la defensa privada designada por el imputado.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la defensa",
+    "Debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la Acción de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2032_E25-0758.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351845-2032-101225-2025-25-0758.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.744601"
+}

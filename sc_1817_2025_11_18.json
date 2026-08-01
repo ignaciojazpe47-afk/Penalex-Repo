@@ -1,0 +1,26 @@
+{
+  "id": 23049,
+  "numero": "1817",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Andrea Teresa Coppola Barazarte contra actos de la Escuela de Medicina José María Vargas. La Sala declaró que no tiene competencia para conocer la acción, declinando la misma a los Juzgados Superiores Estadales de lo Contencioso Administrativo de la Región Capital. Se argumentó que los actos impugnados no son de competencia de la Sala Constitucional, ya que se trata de decisiones administrativas de la escuela.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "educación",
+    "debido proceso",
+    "presunción de inocencia",
+    "universidad",
+    "sanciones"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por Andrea Teresa Coppola Barazarte",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1817_E25-0936.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349941-1817-181125-2025-25-0936.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.060253"
+}

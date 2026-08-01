@@ -1,0 +1,26 @@
+{
+  "id": 31661,
+  "numero": "1019",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la solicitud de revisión constitucional presentada por la abogada Luisa Mercedes Díaz en representación de Pierre Cudabachi Hayek, debido a la falta de presentación de poder que acreditara su representación y la falta de documentos necesarios para la admisibilidad de la solicitud. La decisión se basa en el incumplimiento de las normas establecidas en la Ley Orgánica del Tribunal Supremo de Justicia, que requieren la presentación de documentos que verifiquen la legitimidad del solicitante y la autenticidad de la sentencia cuya revisión se pretende.",
+  "palabras_clave": [
+    "motivación",
+    "inmotivación",
+    "sentencia",
+    "derecho",
+    "procedimiento civil",
+    "tutela judicial",
+    "arbitrariedad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1019_E18-0448.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327551-1019-31723-2023-18-0448.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.905964"
+}

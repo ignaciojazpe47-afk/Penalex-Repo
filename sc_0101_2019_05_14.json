@@ -1,0 +1,24 @@
+{
+  "id": 42752,
+  "numero": "0101",
+  "fecha": "2019-05-14",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por las abogadas Diurkin Daniuska Bolívar Lugo e Indira Mercedes Amarista Aguilar en representación de Héctor Daniel Páez Salazar. Esta acción se dirigió contra una sentencia de la Corte de Apelaciones que declaró sin lugar un recurso de apelación y confirmó un auto de ejecución de sentencia que impedía la suspensión condicional de la pena impuesta al ciudadano.\n\nLa Sala, tras analizar la competencia para conocer de la acción, decidió que le correspondía resolver el caso en única instancia. Se ordenó al Juzgado Décimo Cuarto de Primera Instancia en Funciones de Ejecución que remitiera el expediente original de la causa penal, a fin de garantizar la tutela de los derechos constitucionales del demandante.\n\nFinalmente, se establecieron las medidas necesarias para asegurar el cumplimiento de la orden, incluyendo la notificación electrónica al juzgado correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "decisiones judiciales",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "ejecución de sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-14_S0101_E18-0863.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/304844-0101-14519-2019-18-0863.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.589025"
+}

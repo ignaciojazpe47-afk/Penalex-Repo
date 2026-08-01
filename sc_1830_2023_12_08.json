@@ -1,0 +1,25 @@
+{
+  "id": 33496,
+  "numero": "1830",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Oswaldo de Jesús Casneiro Itriago, quien alegó retardo procesal en la resolución de su acción de amparo constitucional contra Cervecería Polar, C.A. La Sala Plena había declinado la competencia a la Sala Político-Administrativa, que posteriormente aceptó conocer la consulta de jurisdicción. La Sala Constitucional declaró improcedente la solicitud de avocamiento, argumentando que la causa ya había sido decidida por la Sala Político-Administrativa y que no era competente para conocer el asunto.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción",
+    "tutela judicial",
+    "competencia",
+    "administración pública",
+    "tribunal supremo"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1830_E23-0195.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331365-1830-81223-2023-23-0195.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.475083"
+}

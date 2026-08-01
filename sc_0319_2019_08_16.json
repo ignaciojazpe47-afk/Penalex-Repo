@@ -1,0 +1,24 @@
+{
+  "id": 44015,
+  "numero": "0319",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 5 de mayo de 2017 por el Tribunal Cuarto Itinerante, que decretó el sobreseimiento de la causa seguida contra José Norberto Faría Faría por presunta comisión de abuso sexual. La solicitante, Lismar Figueira de Faría, argumentó que la decisión vulneró derechos fundamentales y la garantía del juez natural, al no considerar adecuadamente la naturaleza del caso y las víctimas involucradas.\nLa Sala encontró que la sentencia original carecía de motivación adecuada y que la decisión de sobreseimiento no se justificaba, ya que los exámenes periciales indicaban la existencia de hechos que debían ser investigados. Por lo tanto, se declaró con lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando que el caso sea conocido por otro tribunal competente.\nFinalmente, se ordenó notificar la decisión al Circuito Judicial Penal del Área Metropolitana de Caracas para que se proceda a la distribución del expediente a un nuevo tribunal, asegurando así el respeto a los derechos de las víctimas y la correcta aplicación de la justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "abuso sexual",
+    "derechos de las víctimas",
+    "justicia"
+  ],
+  "titulo": "Revisión de sentencia de sobreseimiento en caso de abuso sexual",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0319_E18-0394.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307185-0319-16819-2019-18-0394.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.384858"
+}

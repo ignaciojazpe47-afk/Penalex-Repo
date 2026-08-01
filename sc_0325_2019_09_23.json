@@ -1,0 +1,25 @@
+{
+  "id": 44031,
+  "numero": "0325",
+  "fecha": "2019-09-23",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del Decreto n.° 3.980, que decreta el Estado de Excepción y Emergencia Económica en Venezuela. Se argumenta que el decreto es necesario para garantizar la seguridad y el bienestar del pueblo venezolano ante la crisis económica y social actual. La Sala reafirma su competencia para revisar la constitucionalidad de tales decretos y declara que cualquier acto de la Asamblea Nacional en desacato es nulo e ineficaz.",
+  "palabras_clave": [
+    "constitucionalidad",
+    "decreto",
+    "estado de excepción",
+    "emergencia económica",
+    "poder público",
+    "proporcionalidad"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto n.° 3.980 del 07 de septiembre de 2019",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-09-23_S0325_E19-0511.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/307256-0325-23919-2019-19-0511.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.390092"
+}

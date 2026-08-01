@@ -1,0 +1,24 @@
+{
+  "id": 30745,
+  "numero": "0693",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió no lugar la revisión constitucional solicitada por el abogado Alfonso Laya Uribe en representación de IVÁN ALEXI TARAZONA GUTIÉRREZ, quien fue condenado en Colombia por extorsión. La sentencia objeto de revisión, dictada por la Sala de Casación Penal, declaró procedente la solicitud de extradición pasiva del ciudadano mencionado, presentada por la República de Colombia. La Sala Constitucional concluyó que no se evidenció el desconocimiento de criterios interpretativos de normas constitucionales ni vulneración de derechos fundamentales.",
+  "palabras_clave": [
+    "extradición",
+    "revisión constitucional",
+    "extorsión",
+    "sentencia",
+    "Colombia"
+  ],
+  "titulo": "Revisión Constitucional de la sentencia de extradición de IVÁN ALEXI TARAZONA GUTIÉRREZ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0693_E17-1034.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/325964-0693-9623-2023-17-1034.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.417344"
+}

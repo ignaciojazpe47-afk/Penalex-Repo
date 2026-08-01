@@ -1,0 +1,24 @@
+{
+  "id": 20144,
+  "numero": "0853",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se concede el amparo constitucional solicitado por Eilyn Danery Acevedo de Betancourt en relación a la detención de su esposo, Néstor Luis Betancourt Reyes. La decisión se basa en la falta de individualización de las acusaciones y la violación del debido proceso, lo que llevó a la nulidad de la acusación penal presentada por el Ministerio Público. Se ordena el sobreseimiento definitivo de la causa y la libertad plena del imputado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "sanciones",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en favor de Eilyn Danery Acevedo de Betancourt",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0853_E24-01300.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344423-0853-3625-2025-24-01300.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.305754"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18443,
+  "numero": "0137",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado David Calzadilla en representación de la ciudadana Adriana González, quien alegaba detención ilegítima. Tras analizar el caso, la Sala determinó que no era competente para conocer de la acción, declinando la competencia a un Tribunal de Primera Instancia en Funciones de Control con competencia en amparo sobre la libertad y seguridad personal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "habeas corpus",
+    "detención ilegítima"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0137_E24-0631.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341542-0137-13225-2025-24-0631.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.766136"
+}

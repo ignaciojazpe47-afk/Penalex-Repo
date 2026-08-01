@@ -1,0 +1,25 @@
+{
+  "id": 30577,
+  "numero": "0623",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "La PÉRDIDA DE INTERÉS PROCESAL y el ABANDONO DEL TRÁMITE en la pretensión de nulidad interpuesta.",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una demanda de nulidad interpuesta por Rómulo Antonio Herrera contra los artículos 82 al 103 del Código de Procedimiento Civil, alegando que estos violan garantías constitucionales. Tras un análisis del expediente, la Sala determinó su competencia para conocer la demanda, pero observó que el demandante no había impulsado la causa durante más de un año, lo que evidenció una falta de interés procesal.",
+  "palabras_clave": [
+    "nulidad",
+    "interés procesal",
+    "abandonar trámite",
+    "acción",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre la demanda de nulidad de artículos del Código de Procedimiento Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0623_E21-0225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325711-0623-30523-2023-21-0225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.939514"
+}

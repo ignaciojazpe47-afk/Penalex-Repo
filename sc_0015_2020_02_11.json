@@ -1,0 +1,25 @@
+{
+  "id": 41010,
+  "numero": "0015",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara terminado el procedimiento por abandono del trámite en la acción de amparo interpuesta por Iván Darío Rondón Duarte contra la decisión de la Corte de Apelaciones que declaró sin lugar su recurso de apelación. Se argumenta que la parte actora no impulsó el proceso durante más de seis meses, lo que conlleva a la extinción de la instancia. Además, se impone una multa a la parte accionante por el entorpecimiento de las labores judiciales.",
+  "palabras_clave": [
+    "nulidad",
+    "imputación",
+    "violencia",
+    "derechos",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0015_E18-0379.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309525-0015-11220-2020-18-0379.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.147435"
+}

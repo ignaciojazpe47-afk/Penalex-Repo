@@ -1,0 +1,24 @@
+{
+  "id": 20141,
+  "numero": "0850",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible la solicitud de revisión interpuesta por la abogada Davinka Del Valle Bethencourt Gutiérrez en representación de Imad Nagib El Asmar, respecto a la sentencia N° 1144 dictada el 14 de diciembre de 2022. La Sala argumenta que no existe un medio de impugnación legalmente consagrado para revisar sus propias decisiones, lo que implica que la cosa juzgada es inimpugnable y no puede ser atacada ante el mismo tribunal que la dictó.\n\nSe establece que la revisión de sentencias firmes es una potestad que la Sala Constitucional ejerce, pero no puede revisar sus propios fallos. La decisión se fundamenta en la interpretación de la Constitución y la Ley Orgánica del Tribunal Supremo de Justicia, que prohíbe cualquier acción o recurso contra las decisiones del más alto tribunal de la República.\n\nFinalmente, se ordena la publicación, registro y comunicación de la decisión, así como el archivo del expediente correspondiente.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "cosa juzgada",
+    "improponibilidad",
+    "control judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0850_E24-0214.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344420-0850-3625-2025-24-0214.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.305152"
+}

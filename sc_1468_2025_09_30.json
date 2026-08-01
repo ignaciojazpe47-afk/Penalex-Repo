@@ -1,0 +1,25 @@
+{
+  "id": 21930,
+  "numero": "1468",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional revisa la solicitud de revisión constitucional presentada por María Gorete González Araujo y Daniel Marcelino Goncalves González, quienes impugnan una sentencia de adopción dictada en 2015. Argumentan que la decisión vulneró sus derechos constitucionales, específicamente el derecho a la tutela judicial efectiva y al debido proceso. La Sala determina su competencia para conocer la solicitud y ordena al Juez Rector Civil recabar y remitir el expediente original del juicio de adopción.",
+  "palabras_clave": [
+    "tutela judicial",
+    "adopción",
+    "revisión constitucional",
+    "derechos",
+    "proceso",
+    "Ley Orgánica"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de adopción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1468_E24-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348083-1468-30925-2025-24-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.200758"
+}

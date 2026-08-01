@@ -1,0 +1,27 @@
+{
+  "id": 18460,
+  "numero": "0147",
+  "fecha": "2025-02-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Giovanni Ernesto Méndez Pino contra el Gobernador del estado Anzoátegui y el Comandante General del Instituto Autónomo de Policía del estado Anzoátegui, por inepta acumulación de pretensiones. El demandante alegó violaciones a sus derechos constitucionales debido a la retención de su motocicleta por parte de la policía, argumentando que dicha acción era arbitraria y contraria a la ley. La Sala concluye que las pretensiones acumuladas no pueden ser resueltas por el mismo órgano jurisdiccional, lo que lleva a la inadmisibilidad de la demanda.",
+  "palabras_clave": [
+    "amparo",
+    "inconstitucionalidad",
+    "competencia",
+    "inepta acumulación",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional e inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-18_S0147_E24-0629.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341564-0147-18225-2025-24-0629.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.763285"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 39837,
+  "numero": "0504",
+  "fecha": "2019-02-13",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Ha lugar parcialmente la solicitud de revisión constitucional.",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC-000021 dictada el 13 de febrero de 2019 por la Sala de Casación Civil, que había declarado sin lugar el recurso de casación interpuesto por Francisco Ignacio Troconis Morales. La revisión se centró en la solicitud de cumplimiento de un contrato de opción de compra-venta de un inmueble, donde se alegó una discrepancia en el metraje del inmueble y el precio acordado. La Sala determinó que el juez de alzada no incurrió en incongruencia negativa, pero sí se evidenció un vicio de incongruencia positiva al no pronunciarse sobre el cumplimiento del contrato, lo que llevó a declarar ha lugar parcialmente la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato de opción de compra-venta",
+    "incongruencia negativa",
+    "incongruencia positiva",
+    "cumplimiento de contrato"
+  ],
+  "titulo": "Revisión constitucional de sentencia de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-14_S0504_E19-0631.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313720-0504-141021-2021-19-0631.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.614348"
+}

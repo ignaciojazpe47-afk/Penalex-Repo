@@ -1,0 +1,26 @@
+{
+  "id": 39571,
+  "numero": "0441",
+  "fecha": "2021-09-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "CONFIRMA",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Yasandry Bauza, en representación de Lola Josefina Landaeta de Morales, contra un fallo que declaró con lugar una acción de amparo constitucional presentada por Luis Eduardo Prada Díaz. La acción de amparo se fundamentó en la alegación de violaciones a derechos fundamentales en el contexto de una medida de secuestro dictada por un juzgado inferior.\nLa Sala constató que el juzgado de instancia no analizó adecuadamente las pruebas presentadas y no valoró los argumentos de la parte demandada, lo que constituyó una violación al debido proceso y a la tutela judicial efectiva. En consecuencia, se declaró con lugar la acción de amparo, ordenando la suspensión de la ejecución de la medida de secuestro.\nFinalmente, la Sala confirmó el fallo apelado, reafirmando la urgencia de proteger los derechos del accionante ante el riesgo de un daño irreparable.",
+  "palabras_clave": [
+    "amparo",
+    "medida cautelar",
+    "derechos constitucionales",
+    "reparabilidad",
+    "secuestró",
+    "justicia",
+    "inmueble"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-16_S0441_E17-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313408-0441-16921-2021-17-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.622544"
+}

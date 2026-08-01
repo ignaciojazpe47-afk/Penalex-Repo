@@ -1,0 +1,26 @@
+{
+  "id": 39747,
+  "numero": "0479",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Constitucional",
+  "decision": "IMPROPONIBLE",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improponible el recurso de hecho interpuesto por Igor Eduardo García Otero contra la decisión del Juzgado Superior Segundo en lo Civil, Mercantil y del Tránsito del Estado Lara. La decisión impugnada había negado la admisión de un recurso de casación. La Sala argumenta que el recurso de hecho no puede ser utilizado para admitir un recurso de casación en juicios de amparo, ya que este medio de impugnación extraordinario es incompatible con la naturaleza de los juicios de amparo constitucional.",
+  "palabras_clave": [
+    "recurso de hecho",
+    "amparo constitucional",
+    "doble instancia",
+    "casación",
+    "jurisdicción",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0479_E19-0570.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313594-0479-11021-2021-19-0570.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.607806"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30597,
+  "numero": "0643",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible el recurso de amparo interpuesto por los abogados Irving Márquez y Naybis Brett González, actuando como apoderados de Kairiana Solange Torrealba López. La decisión se basa en la falta de legitimación de los abogados para presentar la acción, ya que no se acreditó adecuadamente su representación mediante un poder auténtico. La Sala confirma la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo por la misma razón.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "legitimidad"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0643_E21-0521.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325731-0643-30523-2023-21-0521.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.925996"
+}

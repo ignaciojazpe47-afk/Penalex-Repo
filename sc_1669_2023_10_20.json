@@ -1,0 +1,24 @@
+{
+  "id": 22612,
+  "numero": "1669",
+  "fecha": "2023-10-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Agrario",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° 437 de la Sala de Casación Social, que había declarado con lugar un recurso extraordinario de casación. El solicitante argumentó vulneraciones a su derecho a la tutela judicial efectiva, a la propiedad agraria y al debido proceso. Sin embargo, la Sala Constitucional determinó que la decisión de la Sala de Casación Social se ajustó a derecho, desestimando las denuncias presentadas y declarando no ha lugar la solicitud de revisión constitucional. Se enfatizó que la revisión no constituye una nueva instancia y que la valoración probatoria realizada por el juez no puede ser cuestionada en este tipo de procedimientos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derecho de propiedad",
+    "due process",
+    "simulación de venta"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 437 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1669_E24-0201.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349272-1669-291025-2025-24-0201.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.385262"
+}

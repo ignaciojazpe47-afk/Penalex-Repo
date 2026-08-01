@@ -1,0 +1,25 @@
+{
+  "id": 18192,
+  "numero": "0042",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Bella Eliana Skife Miranda contra la decisión del Tribunal Segundo de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes, que había reabierto la causa al estado de admisión. La Sala consideró que la apelante no agotó las vías ordinarias disponibles, como el recurso de apelación, antes de recurrir al amparo. La decisión del tribunal de alzada fue confirmada, manteniendo la inadmisibilidad de la acción de amparo.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "niños",
+    "adolescentes",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0042_E24-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341208-0042-5225-2025-24-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.567522"
+}

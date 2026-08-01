@@ -1,0 +1,27 @@
+{
+  "id": 38357,
+  "numero": "0035",
+  "fecha": "2021-03-19",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por los defensores de Reinaldo Alves Saraiva, argumentando violaciones a la tutela judicial efectiva y al debido proceso por parte del Juzgado Décimo Séptimo. Se expusieron diversas irregularidades, incluyendo la denegación de justicia y la ampliación indebida de lapsos procesales. La Sala se declaró competente para conocer del caso y ordenó la remisión de un informe pormenorizado sobre la causa.",
+  "palabras_clave": [
+    "derechos humanos",
+    "debido proceso",
+    "cosa juzgada",
+    "medidas cautelares",
+    "victima",
+    "avocamiento",
+    "justicia",
+    "derecho penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-19_S0035_E20-0429.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311592-0035-19321-2021-20-0429.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.757341"
+}

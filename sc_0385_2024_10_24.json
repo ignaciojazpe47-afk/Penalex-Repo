@@ -1,0 +1,23 @@
+{
+  "id": 26853,
+  "numero": "0385",
+  "fecha": "2024-10-24",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 24 de octubre de 2024, declaró sin lugar la solicitud de revisión constitucional presentada por los ciudadanos Jesús Manuel Bigott Piñero e Irene Milagros Garbán Taria de Bigott, en relación a la sentencia N° 0794 dictada el 14 de diciembre de 2022 por la Sala de Casación Civil. La solicitud se fundamentó en la supuesta incongruencia negativa y vicios de inmotivación en la sentencia recurrida, alegando que no se consideraron criterios establecidos en sentencias anteriores sobre contratos preliminares y su naturaleza jurídica.\n\nLa Sala Constitucional determinó que la Sala de Casación Civil actuó conforme a derecho al desestimar las denuncias del recurrente, señalando que no se evidenció un error en la interpretación de la ley ni violaciones a derechos constitucionales. Se reafirmó que la revisión constitucional no debe ser utilizada como un medio ordinario de impugnación, sino en casos excepcionales donde se demuestre una violación clara de derechos fundamentales o de criterios jurisprudenciales establecidos.\n\nFinalmente, se declaró la competencia de la Sala Constitucional para conocer de la solicitud y se resolvió que no había lugar a la revisión solicitada, manteniendo la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato preliminar",
+    "incongruencia negativa",
+    "vicios de inmotivación"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 0794",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-24_S0385_E23-0714.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338156-0385-241024-2024-23-0714.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.491324"
+}

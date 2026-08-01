@@ -1,0 +1,25 @@
+{
+  "id": 33099,
+  "numero": "1608",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 29 de noviembre de 2023, declaró sin lugar la revisión constitucional solicitada por Martín Segundo Pérez Trejo, quien impugnaba una sentencia de la Sala de Casación Civil. El recurrente alegaba violaciones a sus derechos fundamentales en el proceso de interdicto de amparo, argumentando que no se valoraron adecuadamente las pruebas presentadas. Sin embargo, la Sala concluyó que la decisión impugnada no vulneró principios constitucionales y que la revisión no contribuiría a la uniformidad en la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "posesión",
+    "interdicto",
+    "debido proceso",
+    "pruebas",
+    "tutela judicial",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1608_E23-0104.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330775-1608-291123-2023-23-0104.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.003767"
+}

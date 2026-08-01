@@ -1,0 +1,22 @@
+{
+  "id": 31197,
+  "numero": "0901",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por Silvia del Carmen Stivala da Silva, contra decisiones del Tribunal Décimo Tercero de Primera Instancia de Mediación, Sustanciación y Ejecución. La Sala confirmó la decisión del Tribunal Superior Tercero que había declarado la inadmisibilidad de la pretensión de amparo, argumentando que la parte accionante no había agotado los recursos ordinarios disponibles, como el recurso de apelación, antes de recurrir a la acción de amparo constitucional.\n\nLa Sala destacó que la acción de amparo es un mecanismo residual y que debe ser utilizado solo cuando no existen otros recursos judiciales idóneos. En este caso, se determinó que la parte actora tenía la posibilidad de recurrir a la apelación y no lo hizo, lo que llevó a la confirmación de la inadmisibilidad de su acción.\n\nFinalmente, se ordenó notificar a los tribunales involucrados sobre el contenido de la decisión, reafirmando la importancia de la celeridad y economía procesal en los procedimientos de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0901_E19-0462.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326809-0901-12723-2023-19-0462.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.217954"
+}

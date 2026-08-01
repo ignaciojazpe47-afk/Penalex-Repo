@@ -1,0 +1,25 @@
+{
+  "id": 28260,
+  "numero": "1220",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por Isabel Alicia Agüero Ablan, quien impugnó una sentencia de la Sala de Casación Social que declaró inadmisible un recurso contencioso administrativo. La Sala concluye que no ha lugar a la revisión, ya que la decisión impugnada no contraviene la jurisprudencia y se fundamenta en la existencia de un recurso paralelo que afecta la admisibilidad del caso. Se reafirma la importancia de la cosa juzgada y la limitación de la revisión constitucional a supuestos específicos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial",
+    "cosa juzgada",
+    "recursos administrativos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1220_E23-1207.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340156-1220-41224-2024-23-1207.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.035168"
+}

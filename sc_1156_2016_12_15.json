@@ -1,0 +1,23 @@
+{
+  "id": 61252,
+  "numero": "1156",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por el abogado Jorge Enrique Núñez Sánchez, en representación de Gustavo García Rincón y Gustavo García Soto, quienes enfrentan múltiples procesos penales por los mismos hechos. La Sala argumentó que la continuación de estos juicios simultáneos vulnera el principio constitucional de ne bis in idem, que prohíbe juzgar a una persona dos veces por el mismo hecho, lo que afecta el orden público constitucional y el debido proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "ne bis in idem",
+    "orden público constitucional",
+    "debido proceso"
+  ],
+  "titulo": "Solicitud de avocamiento por violación al orden público constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1156_E16-1095.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194021-1156-151216-2016-16-1095.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.273070"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33096,
+  "numero": "1605",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC-000555 emitida por la Sala de Casación Civil, que desestimó un recurso de casación interpuesto por la sociedad mercantil INDUSTRIAS MAXIPLASCA, C.A. La revisión se fundamentó en vicios de incongruencia y falta de motivación en la sentencia original, que afectaron el debido proceso y el derecho a la defensa. La Sala declaró ha lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando a la Sala de Casación Civil emitir un nuevo pronunciamiento sobre el recurso de casación.",
+  "palabras_clave": [
+    "motivación",
+    "inmotivación",
+    "pruebas",
+    "juez",
+    "decisión",
+    "control de legalidad",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1605_E22-0067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330772-1605-291123-2023-22-0067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.007663"
+}

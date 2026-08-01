@@ -1,0 +1,25 @@
+{
+  "id": 30307,
+  "numero": "0525",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento, por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por los abogados de Albanelis Castañeda Ceballos contra la Corte de Apelaciones del Estado Monagas por la omisión de pronunciamiento en un caso de invasión a su propiedad. La Sala determinó su competencia para conocer del caso y evidenció que la parte actora había abandonado el trámite al no demostrar interés en la prosecución del asunto durante más de seis meses.",
+  "palabras_clave": [
+    "abandonode trámite",
+    "amparo constitucional",
+    "tutela judicial",
+    "interés procesal",
+    "multa",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0525_E22-0719.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325151-0525-16523-2023-22-0719.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.860925"
+}

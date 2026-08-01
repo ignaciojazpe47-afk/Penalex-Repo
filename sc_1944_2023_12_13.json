@@ -1,0 +1,25 @@
+{
+  "id": 33796,
+  "numero": "1944",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión interpuesta por los abogados Moisés Alejandro García Velásquez y Nelis Emiro Carrero Soto, quienes actuaron en representación de varios ciudadanos condenados por homicidio intencional. La inadmisibilidad se fundamenta en la falta de acreditación de la representación judicial, ya que no se presentó el poder correspondiente que legitimara a los abogados para actuar en nombre de los solicitantes.",
+  "palabras_clave": [
+    "inmotivación",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "proceso penal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1944_E22-0110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331913-1944-131223-2023-22-0110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.444140"
+}

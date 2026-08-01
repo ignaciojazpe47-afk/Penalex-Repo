@@ -1,0 +1,22 @@
+{
+  "id": 32256,
+  "numero": "1409",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Regulacion de Competencia",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de regulación de competencia planteado por SUB ANTOR TROCONIS, quien alegaba un desalojo arbitrario. La Sala declaró improcedente el recurso, argumentando que el Juzgado Octavo de Primera Instancia había actuado erróneamente al darle curso al mismo, debiendo haber declarado no ha lugar y remitir el expediente al tribunal competente. La decisión se fundamenta en la naturaleza breve y sumaria del proceso de amparo, que no permite la regulación de competencia como medio de impugnación.",
+  "palabras_clave": [
+    "amparo",
+    "regulación de competencia",
+    "desalojo arbitrario"
+  ],
+  "titulo": "Sentencia sobre recurso de regulación de competencia en acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1409_E23-0836.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329284-1409-111023-2023-23-0836.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.405642"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18180,
+  "numero": "0031",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por Tania D'Amelio Cardiet y con Lourdes Benicia Suárez Anderson como ponente, decidió no ha lugar la solicitud de revisión de la sentencia dictada el 18 de febrero de 2021 por el Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Amazonas. La solicitud fue presentada por las abogadas Ledys Sotillo y Gladis Quiñones en representación de Wuilson Alexander Álvarez Gómez, quien cuestionó la constitucionalidad de la decisión que declaró la confesión ficta en un juicio de desalojo promovido por César Maldonado.\n\nLa Sala argumentó que la revisión no encuadra en los supuestos que justifican la revisión constitucional, ya que no se evidenció el desconocimiento de normas o principios constitucionales. Se destacó que el Juzgado de Primera Instancia actuó conforme a derecho al declarar la confesión ficta, dado que el demandado no contestó la demanda ni promovió pruebas en su defensa, lo que llevó a la decisión de la Sala de no admitir la revisión solicitada.\n\nFinalmente, se ordenó la publicación, registro y archivo del expediente, reafirmando la decisión de la Sala Constitucional en nombre de la República y la autoridad de la ley.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "procedimiento civil",
+    "pruebas",
+    "demanda",
+    "contestación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0031_E22-0126.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341196-0031-5225-2025-22-0126.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.564360"
+}

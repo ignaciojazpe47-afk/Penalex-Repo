@@ -1,0 +1,25 @@
+{
+  "id": 16202,
+  "numero": "0117",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de marzo de 2026, declaró competente para conocer la solicitud de revisión presentada por el abogado Unaldo José Atencio, en representación de Amada Figuera de Schepis y Manuel Antonio Schepis Ytanare. La revisión se solicitó en relación a la sentencia del 25 de septiembre de 2025, que había declarado sin lugar el recurso de apelación interpuesto por los demandantes contra la decisión del Tribunal Segundo de Municipio Ordinario y Ejecutor de Medidas del Municipio Pedro María Freites, que había declarado con lugar la demanda de retracto legal arrendaticio de Inversiones Veracer, C.A.\n\nLa Sala, tras analizar los alegatos de los solicitantes, concluyó que no existían infracciones de interpretación de normas constitucionales y que la decisión del tribunal de alzada había dado respuesta a las defensas opuestas en la audiencia oral de apelación. Por lo tanto, se declaró que no había lugar a la solicitud de revisión constitucional, manteniendo la decisión del tribunal inferior.\n\nFinalmente, se resolvió que la medida cautelar de suspensión de los efectos de la sentencia objeto de revisión era inoficiosa, dado que la solicitud de revisión fue desestimada.",
+  "palabras_clave": [
+    "retracto",
+    "arrendamiento",
+    "preferencia",
+    "inmueble",
+    "solvencia",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0117_E25-1468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353107-0117-2326-2026-25-1468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.592886"
+}

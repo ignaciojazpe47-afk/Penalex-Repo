@@ -1,0 +1,22 @@
+{
+  "id": 34175,
+  "numero": "1283",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Huáscar Francois Fossey Guevara, quien solicitó la admisión de una acción de amparo constitucional contra la omisión de pronunciamiento del Tribunal Tercero de Primera Instancia. La acción fue declarada inadmisible por el Juzgado Superior Décimo en lo Civil, Mercantil, Tránsito y Bancario, lo que motivó la apelación. La Sala constató que la supuesta violación de derechos había cesado, confirmando así la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1283_E23-0534.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328487-1283-15823-2023-23-0534.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.234438"
+}

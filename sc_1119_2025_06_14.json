@@ -1,0 +1,25 @@
+{
+  "id": 20918,
+  "numero": "1119",
+  "fecha": "2025-06-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Anays Elvira Varela Perete contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Miranda, que confirmó la nulidad de asambleas de la sociedad mercantil Colegio Jesús de Nazaret, C.A. La Sala argumenta que la acción fue presentada fuera del lapso de caducidad establecido por la ley, lo que implica un consentimiento tácito de la parte actora respecto a la decisión impugnada. Se concluye que no se evidencian violaciones al orden público o a las buenas costumbres que justifiquen la admisión de la acción.",
+  "palabras_clave": [
+    "confesión ficta",
+    "litisconsorcio",
+    "acción de amparo",
+    "nulidad",
+    "sociedad mercantil",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1119_E24-0828.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346026-1119-14725-2025-24-0828.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.288144"
+}

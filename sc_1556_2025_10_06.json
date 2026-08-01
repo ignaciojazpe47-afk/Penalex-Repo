@@ -1,0 +1,24 @@
+{
+  "id": 22123,
+  "numero": "1556",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Elizabeth Lesley Haycock, quien impugnó la sentencia n.° 875 de la Sala de Casación Civil que declaró sin lugar su recurso de casación. La Sala concluyó que la solicitud era improcedente, ya que la acción había prescrito antes de ser interpuesta, y que los vicios procesales denunciados no afectaron el resultado del litigio. Se determinó que la revisión no era un medio para cuestionar decisiones ya firmes y que la interpretación de la ley por parte de la Sala de Casación Civil era correcta.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción",
+    "simulación de venta",
+    "derecho a la defensa",
+    "due process"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 875 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1556_E18-0708.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348302-1556-61025-2025-18-0708.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.189962"
+}

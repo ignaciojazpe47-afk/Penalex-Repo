@@ -1,0 +1,22 @@
+{
+  "id": 28372,
+  "numero": "1314",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la abogada Jazmín Flores Valdez en representación de Milagros Claret Goitía García. La solicitud se refería a un proceso penal en el que se desestimaron varios delitos, admitiendo únicamente el de uso de documento privado falso. La Sala, tras analizar el caso, determinó que no era competente para conocer de la solicitud, declinando el conocimiento a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "incompetencia",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1314_E24-0408.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340328-1314-101224-2024-24-0408.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.218520"
+}

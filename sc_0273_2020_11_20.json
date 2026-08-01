@@ -1,0 +1,26 @@
+{
+  "id": 42032,
+  "numero": "0273",
+  "fecha": "2020-11-20",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión N° 0161, levanta la suspensión de 90 días decretada sobre los instrumentos normativos dictados por varios concejos municipales, tras verificar que estos se adecuan al Acuerdo Nacional de Armonización Tributaria. La decisión se fundamenta en el cumplimiento de los parámetros establecidos en sentencias anteriores, garantizando la vigencia efectiva del Texto Constitucional.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanzas",
+    "tributaria",
+    "constitucional",
+    "municipal",
+    "amparo",
+    "potestad"
+  ],
+  "titulo": "Levantamiento de suspensión de instrumentos normativos municipales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-30_S0273_E19-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311230-0273-301220-2020-19-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.417518"
+}

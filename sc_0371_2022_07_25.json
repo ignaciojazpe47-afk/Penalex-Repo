@@ -1,0 +1,25 @@
+{
+  "id": 35576,
+  "numero": "0371",
+  "fecha": "2022-07-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Adasmisley Luisa Manzano Pereira, en representación de un adolescente, contra la decisión N° 004-2021 de la Corte de Apelaciones del Estado Zulia. La decisión impugnada había confirmado una condena de privación de libertad por seis años por abuso sexual continuado a niñas, lo que generó la acción de amparo por supuestas violaciones a derechos constitucionales del adolescente.\nLa Sala argumenta que la acción de amparo no es admisible dado que el recurso de casación es el medio idóneo para restablecer la situación jurídica del adolescente, conforme a lo establecido en la Ley Orgánica para la Protección de Niños, Niñas y Adolescentes. Se concluye que la acción de amparo no debe ser utilizada cuando existen recursos ordinarios disponibles para la defensa de los derechos constitucionales.\nFinalmente, se ordena la publicación y registro de la decisión, archivando el expediente correspondiente.",
+  "palabras_clave": [
+    "sanciones",
+    "adolescentes",
+    "derechos",
+    "apelación",
+    "justicia",
+    "motivación"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-25_S0371_E21-0427.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/318132-0371-25722-2022-21-0427.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:32.766260"
+}

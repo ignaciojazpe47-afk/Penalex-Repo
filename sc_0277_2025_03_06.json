@@ -1,0 +1,26 @@
+{
+  "id": 18733,
+  "numero": "0277",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió un recurso de apelación en relación a una acción de amparo constitucional presentada por María Magdalena Paredes contra una sentencia que ordenó la ejecución forzosa de un inmueble. La apelación fue interpuesta por sus abogados, quienes argumentaron que la decisión vulneraba derechos constitucionales. La Sala se declaró competente para conocer del recurso y ordenó la remisión de un expediente relacionado para su análisis.",
+  "palabras_clave": [
+    "amparo",
+    "ejecución forzosa",
+    "derechos constitucionales",
+    "propiedad",
+    "competencia",
+    "justicia",
+    "circuito judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0277_E24-0734.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342182-0277-6325-2025-24-0734.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.868112"
+}

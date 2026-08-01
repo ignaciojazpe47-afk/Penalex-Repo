@@ -1,0 +1,23 @@
+{
+  "id": 41225,
+  "numero": "0068",
+  "fecha": "2020-06-05",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad por Inconstitucionalidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la demanda de inconstitucionalidad por omisión presentada por un grupo de ciudadanos contra la Asamblea Nacional, por no designar a los rectores del Consejo Nacional Electoral. La Sala determinó que la Asamblea se encuentra en desacato desde 2017, lo que invalida cualquier acto relacionado con la designación de dichos funcionarios. Se ordenó al Consejo Nacional Electoral convocar elecciones para los diputados de la Asamblea Nacional y se desaplicaron varios artículos de la Ley Orgánica de Procesos Electorales que contravienen la Constitución.",
+  "palabras_clave": [
+    "omisión legislativa",
+    "Consejo Nacional Electoral",
+    "desacato",
+    "inconstitucionalidad"
+  ],
+  "titulo": "Declaratoria de omisión legislativa por parte de la Asamblea Nacional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-06-05_S0068_E20-0215.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/309870-0068-5620-2020-20-0215.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.125142"
+}

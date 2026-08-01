@@ -1,0 +1,25 @@
+{
+  "id": 22100,
+  "numero": "1533",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por Celeste Marbila Aldana Vegas, quien alegó desorden procesal y violaciones al ordenamiento jurídico en un caso de amparo. La Sala fundamenta su decisión en la existencia de cosa juzgada, lo que impide el ejercicio del avocamiento en juicios con sentencia firme. Se destaca que la solicitud fue presentada por la demandante asistida por sus abogados, quienes argumentaron irregularidades en el proceso judicial anterior.",
+  "palabras_clave": [
+    "avocamiento",
+    "justicia",
+    "ordenamiento jurídico",
+    "interés público",
+    "protección de niños",
+    "amparo"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1533_E22-0391.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348279-1533-61025-2025-22-0391.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.197754"
+}

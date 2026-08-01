@@ -1,0 +1,23 @@
+{
+  "id": 23074,
+  "numero": "1842",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Saúl Alberto Pírela Sosa, quien alegó violaciones a sus derechos en el proceso penal que culminó con su condena a 12 meses de prisión por violencia psicológica. La Corte de Apelaciones había declarado sin lugar su apelación, lo que motivó la revisión. La Sala concluyó que no hubo incorporación ilegal de pruebas y que la acusación cumplió con los requisitos legales, desestimando las denuncias del recurrente y confirmando la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "violencia psicológica",
+    "derechos humanos",
+    "debido proceso"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia por Violación de Derechos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1842_E25-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349966-1842-181125-2025-25-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.063999"
+}

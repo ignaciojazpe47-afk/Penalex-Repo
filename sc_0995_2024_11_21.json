@@ -1,0 +1,26 @@
+{
+  "id": 27817,
+  "numero": "0995",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por Carlos Greco Bonifacio, en representación de la sociedad mercantil Italia Íntima y Casual, C.A. La acción fue presentada contra decisiones de un tribunal inferior que ordenó la ejecución de una sentencia sobre deslinde de propiedades. La Sala determinó que la acción de amparo no era procedente, ya que los recursos ordinarios debieron ser agotados antes de recurrir a esta vía constitucional.\n\nEl tribunal concluyó que la acción de amparo no es supletoria de los recursos ordinarios y que, en este caso, existían medios procesales idóneos para restablecer la situación jurídica. Por lo tanto, se confirmó la inadmisibilidad de la acción de amparo y se declaró competente para conocer de la apelación, pero se decidió sin lugar la misma.\n\nFinalmente, la Sala reafirmó la importancia de seguir los procedimientos establecidos en el Código de Procedimiento Civil y la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, enfatizando que la ejecución de sentencias firmes debe continuar sin interrupciones, salvo en casos excepcionales.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "ejecución",
+    "derechos",
+    "sentencia",
+    "procedimiento",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0995_E23-0558.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339308-0995-211124-2024-23-0558.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.142258"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32935,
+  "numero": "1504",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Juan Carlos Armas Chirino contra una sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito de La Guaira. La acción se fundamenta en la alegación de irregularidades en la decisión que ordenó la inspección de libros de la sociedad mercantil JC Ground Support Aviation. La Sala se declaró competente para conocer del caso y ordenó al juzgado remitente la entrega de información relevante para la resolución del amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "jurisprudencia",
+    "tribunales",
+    "sentencias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1504_E23-0828.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330556-1504-221123-2023-23-0828.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.440708"
+}

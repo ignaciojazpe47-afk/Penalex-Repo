@@ -1,0 +1,26 @@
+{
+  "id": 36151,
+  "numero": "0520",
+  "fecha": "2022-03-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara COMPETENTE en razón de la materia y del territorio, al Juzgado Superior Estadal Contencioso Administrativo de la Circunscripción Judicial de la Región Capital.",
+  "ponente": "LUÍS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con un conflicto de competencia entre el Tribunal Primero de Municipio Ordinario y el Juzgado Nacional Primero de lo Contencioso Administrativo, en el contexto de una acción de amparo constitucional interpuesta por Manuel Felipe Fajardo Herrera contra la Alcaldía del Municipio Acevedo. La Sala Plena se declaró incompetente y remitió el caso a la Sala Constitucional para su resolución. Finalmente, la Sala Constitucional aceptó la declinatoria de competencia y se declaró competente para conocer del caso, ordenando la remisión del expediente al Juzgado Superior Estadal Contencioso Administrativo de la Región Capital.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "contencioso administrativo",
+    "jurisdicción",
+    "debido proceso",
+    "tutela judicial",
+    "regulación"
+  ],
+  "titulo": "Sentencia sobre regulación de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-11_S0520_E22-0210.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319177-0520-11822-2022-22-0210.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.435507"
+}

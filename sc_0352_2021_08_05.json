@@ -1,0 +1,25 @@
+{
+  "id": 39209,
+  "numero": "0352",
+  "fecha": "2021-08-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar Parcialmente",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del TSJ revisó la sentencia del Juzgado Superior Primero del Trabajo de Lara, que había declarado parcialmente con lugar un recurso de apelación. La revisión se centró en la aplicación de un acta convenio que no se aplicó correctamente a trabajadoras que no eran activas al momento de su firma. La Sala encontró que el Juzgado Superior había violado el derecho a la defensa y la tutela judicial efectiva al aplicar retroactivamente el acta convenio, lo que llevó a la anulación parcial de la sentencia. Se ordenó al Juzgado Superior que se pronuncie nuevamente sobre la aplicación del acta convenio conforme a lo establecido en la decisión.",
+  "palabras_clave": [
+    "convencion colectiva",
+    "derecho laboral",
+    "bono mixto",
+    "seguridad juridica",
+    "derecho a la defensa",
+    "acuerdo colectivo"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-08-05_S0352_E15-1186.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/312866-0352-5821-2021-15-1186.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.737365"
+}

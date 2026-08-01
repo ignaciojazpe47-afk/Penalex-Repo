@@ -1,0 +1,25 @@
+{
+  "id": 33791,
+  "numero": "1939",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Diego Arturo Lara Colmenares, en representación de Alexander González Urbina, debido a la falta de presentación de copia certificada de la decisión cuestionada. La Sala establece que es indispensable acompañar la solicitud con los documentos necesarios para su admisión, lo cual no fue cumplido en este caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "copia certificada",
+    "jurisdicción",
+    "seguridad jurídica"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1939_E22-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331908-1939-131223-2023-22-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.444720"
+}

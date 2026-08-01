@@ -1,0 +1,23 @@
+{
+  "id": 34603,
+  "numero": "0061",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se declara con lugar la acción de amparo interpuesta por Enrique Valerio Bolívar Urbani, en contra de la decisión del Tribunal Superior Cuarto que había revocado la restitución internacional de sus hijos. La Sala anula la sentencia del Tribunal Superior y ordena la restitución inmediata de los adolescentes a su residencia habitual en Francia, argumentando que el Juez Superior aplicó erróneamente la Convención de La Haya sobre Sustracción Internacional de Menores y no consideró adecuadamente las pruebas presentadas en el caso. Se enfatiza la importancia del interés superior del niño y la necesidad de garantizar el contacto entre padres e hijos.",
+  "palabras_clave": [
+    "restitución internacional",
+    "menores",
+    "amparo",
+    "convención de La Haya"
+  ],
+  "titulo": "Sentencia de Amparo sobre Restitución Internacional de Menores",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0061_E21-0764.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315911-0061-8322-2022-21-0764.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.439155"
+}

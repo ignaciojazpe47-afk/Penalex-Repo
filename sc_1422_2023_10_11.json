@@ -1,0 +1,25 @@
+{
+  "id": 32268,
+  "numero": "1422",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la abogada Anamely Nairomy Bolívar de Mendoza, en representación del ciudadano Josmar Alfredo Castro Nadales, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Cojedes, que declaró inadmisible la acción de amparo constitucional. La Sala constató que la acción de amparo fue interpuesta debido a la omisión de pronunciamiento del Tribunal de Control, pero determinó que dicha omisión había cesado, lo que llevó a declarar la inadmisibilidad del recurso. Finalmente, la Sala confirmó la decisión apelada y declaró sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1422_E21-0213.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329297-1422-111023-2023-21-0213.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.400793"
+}

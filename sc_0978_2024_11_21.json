@@ -1,0 +1,26 @@
+{
+  "id": 27800,
+  "numero": "0978",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 21 de noviembre de 2024, declaró no ha lugar la solicitud de revisión constitucional presentada por el defensor de los ciudadanos Nicola Rafael Romano, Aníbal José Macayo y Amílcar Rafael Macayo, en relación a la sentencia número 535 dictada el 4 de diciembre de 2023 por la Sala de Casación Penal. La Sala consideró que la revisión no contribuye a la uniformidad de la interpretación de normas y principios constitucionales, y que no se evidenció la vulneración de derechos fundamentales ni de garantías constitucionales en el fallo impugnado.\n\nLa solicitud de revisión se fundamentó en alegaciones de errónea interpretación de la ley y falta de aplicación de normas constitucionales y procesales, pero la Sala concluyó que las denuncias eran meras disconformidades con el pronunciamiento de la Sala de Casación Penal, lo que no justifica la revisión. Se reafirmó que la revisión constitucional no es un medio para cuestionar decisiones judiciales, sino una potestad extraordinaria para garantizar la uniformidad en la interpretación de la ley.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la solicitud, pero al no encontrar fundamentos que justifiquen la revisión, desestimó la solicitud presentada.",
+  "palabras_clave": [
+    "inmediación",
+    "contradicción",
+    "delación",
+    "pruebas",
+    "debido_proceso",
+    "casación",
+    "inconstitucionalidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia número 535 de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0978_E24-0189.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339291-0978-211124-2024-24-0189.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.133866"
+}

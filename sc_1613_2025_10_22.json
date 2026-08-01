@@ -1,0 +1,25 @@
+{
+  "id": 22416,
+  "numero": "1613",
+  "fecha": "2025-10-22",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Competente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Juzgado Tercero de Primera Instancia en lo Civil y el Tribunal Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Bolivariano de Miranda, relacionado con una acción de amparo constitucional interpuesta por Rosa Amelia Duarte Alzuro. La Sala determinó que corresponde al Tribunal Penal conocer de la acción de amparo, dado que las actuaciones cuestionadas se enmarcan en un proceso penal por la presunta comisión del delito de invasión.\n\nLa Sala también destacó que, al no existir un tribunal superior común entre los órganos jurisdiccionales involucrados, le corresponde a la Sala Constitucional decidir sobre el conflicto de competencia. Se ordenó la remisión del expediente al Tribunal Tercero de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal para que continúe con el conocimiento del caso.\n\nFinalmente, se exhortó al tribunal penal a considerar criterios vinculantes establecidos en sentencias anteriores de la Sala Constitucional, asegurando así la correcta aplicación de la justicia en el presente caso.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-22_S1613_E24-0479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348994-1613-221025-2025-24-0479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.746841"
+}

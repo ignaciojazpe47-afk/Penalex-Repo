@@ -1,0 +1,25 @@
+{
+  "id": 31815,
+  "numero": "1058",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró competente para conocer la solicitud de revisión presentada por la abogada Vanessa Hoyer Rivas, en representación de la Sociedad Mercantil Tintorerías M.P, C.A., contra la sentencia del 17 de febrero de 2023, dictada por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario. La solicitud se fundamentó en la alegación de violación del derecho a la tutela judicial efectiva, argumentando que el tribunal de alzada incurrió en un desconocimiento del principio dispositivo al no considerar la notificación de desahucio realizada por la parte actora.\n\nLa Sala, tras analizar los argumentos, concluyó que la decisión del tribunal superior no se subsume en los supuestos de revisión establecidos en la Ley Orgánica del Tribunal Supremo de Justicia, y que la parte solicitante no demostró la inconstitucionalidad alegada. Por lo tanto, se declaró no ha lugar la solicitud de revisión, resultando inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "tutela judicial efectiva",
+    "inconstitucionalidad",
+    "sentencia",
+    "proceso civil",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1058_E23-0431.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327891-1058-4823-2023-23-0431.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.886337"
+}

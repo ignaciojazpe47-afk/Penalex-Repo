@@ -1,0 +1,27 @@
+{
+  "id": 16772,
+  "numero": "0165",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo interpuesta por las abogadas Rocío Valbuena Cordero y Almarina Ferrer Guerrero, en representación de la ciudadana Elena del Carmen Valbuena Cordero. La acción se dirigía contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara, que había confirmado una sentencia anterior que declaró sin lugar la nulidad de la acusación por estafa agravada continuada. La Sala consideró que no hubo violación de derechos constitucionales y que la Corte de Apelaciones actuó dentro de su competencia y conforme a derecho.",
+  "palabras_clave": [
+    "debido proceso",
+    "derecho a la defensa",
+    "imputación formal",
+    "nulidad",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal",
+    "constitución",
+    "estafa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0165_E25-0257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353161-0165-2326-2026-25-0257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.596942"
+}

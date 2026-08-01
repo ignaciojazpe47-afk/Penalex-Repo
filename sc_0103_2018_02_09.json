@@ -1,0 +1,24 @@
+{
+  "id": 45439,
+  "numero": "0103",
+  "fecha": "2018-02-09",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia número 804/2016, presentada por el abogado Cesáreo José Espinal Vásquez en representación del ciudadano Elías Daniel Angulo García. La inadmisibilidad se fundamenta en la falta de acreditación de la representación judicial del solicitante, ya que no se presentó el poder correspondiente en original o copia certificada.",
+  "palabras_clave": [
+    "apoderado judicial",
+    "representación",
+    "inadmisibilidad",
+    "poder",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-02-09_S0103_E16-1192.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/207662-0103-9218-2018-16-1192.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.437267"
+}

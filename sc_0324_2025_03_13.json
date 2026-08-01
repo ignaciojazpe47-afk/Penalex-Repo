@@ -1,0 +1,24 @@
+{
+  "id": 18798,
+  "numero": "0324",
+  "fecha": "2025-03-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula el fallo objeto de revisión.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por los ciudadanos Miguel Ángel Sifontes Fernández y Mary Yanilex Sifontes Fernández, quienes impugnaron un fallo del Juzgado Superior que había declarado sin lugar un recurso de apelación en un caso de desalojo. La Sala encontró que el Juzgado Superior incurrió en incongruencia omisiva al no analizar adecuadamente la prueba de la demolición de una pared divisoria entre locales, lo que afectó el derecho a la defensa de los solicitantes. En consecuencia, se declaró ha lugar la solicitud de revisión, se anuló el fallo impugnado y se ordenó que otro Juzgado Superior emita un nuevo pronunciamiento sobre el recurso de apelación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "incongruencia omisiva",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión constitucional de fallo de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-13_S0324_E24-0382.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342270-0324-13325-2025-24-0382.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.734195"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 36768,
+  "numero": "0780",
+  "fecha": "2022-10-18",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión de una sentencia dictada el 14 de agosto de 2018, que declaró improcedente una demanda de desalojo interpuesta por Ramón Rafael Guevara Prado. La revisión fue solicitada por los abogados del demandante, quienes argumentaron violaciones al derecho a la defensa y al debido proceso. Sin embargo, la Sala concluyó que no existían fundamentos suficientes para proceder con la revisión, declarando que la decisión impugnada se ajustaba a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-18_S0780_E18-0744.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320033-0780-181022-2022-18-0744.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:13.109337"
+}

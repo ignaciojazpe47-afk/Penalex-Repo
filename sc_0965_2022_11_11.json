@@ -1,0 +1,26 @@
+{
+  "id": 37349,
+  "numero": "0965",
+  "fecha": "2022-11-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia N° 48 dictada por la Sala Electoral, que había declarado sin lugar un recurso contencioso electoral. Los recurrentes argumentaron incongruencias en la decisión y violaciones a principios constitucionales. Sin embargo, la Sala Constitucional determinó que no existían infracciones grotescas ni violaciones a derechos fundamentales, y que la decisión de la Sala Electoral se ajustaba a derecho.",
+  "palabras_clave": [
+    "debido proceso",
+    "derecho a la defensa",
+    "nulidad",
+    "reglamento electoral",
+    "asociaciones civiles",
+    "sentencias",
+    "procedimiento electoral"
+  ],
+  "titulo": "Revisión de la sentencia N° 48 de la Sala Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-11_S0965_E17-0834.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320751-0965-111122-2022-17-0834.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.359833"
+}

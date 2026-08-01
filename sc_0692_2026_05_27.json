@@ -1,0 +1,25 @@
+{
+  "id": 16428,
+  "numero": "0692",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Arturo Borbón Díaz contra una sentencia del Juzgado Primero de Municipio Ordinario que declaró con lugar una demanda de desalojo. La Sala declaró su incompetencia para conocer del caso, indicando que el tribunal competente es un Juzgado de Primera Instancia en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Área Metropolitana de Caracas. La decisión se fundamenta en la normativa que regula la competencia en materia de amparo constitucional.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "jurisdicción",
+    "sentencias",
+    "violaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0692_E26-0171.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355962-0692-27526-2026-26-0171.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.901248"
+}

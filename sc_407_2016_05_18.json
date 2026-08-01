@@ -1,0 +1,25 @@
+{
+  "id": 57547,
+  "numero": "407",
+  "fecha": "2016-05-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Superior en lo Civil y Contencioso Administrativo y el Juzgado Primero de Primera Instancia de Juicio del Trabajo, relacionado con una acción de amparo constitucional interpuesta por HIDROLARA C.A. contra miembros del Sindicato de Trabajadores de Hidrolara C.A. por la obstaculización de sus instalaciones. La Sala determinó que el tribunal competente para conocer del caso es el Juzgado Primero de Primera Instancia de Juicio del Trabajo, dado que la controversia se origina en una relación laboral y no en un acto administrativo.\n\nLa decisión se fundamenta en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que establece que los tribunales competentes deben ser aquellos que correspondan a la materia afín con la naturaleza del derecho o garantía constitucional violados. La Sala concluyó que los derechos vulnerados, como el libre tránsito y la libertad económica, están vinculados a la relación laboral entre la empresa y los trabajadores, lo que justifica la competencia del tribunal laboral.\n\nFinalmente, se ordenó la remisión del expediente al Juzgado Primero de Primera Instancia de Juicio del Trabajo para su conocimiento y trámite, destacando la importancia de la celeridad en los procesos judiciales.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "amparo constitucional",
+    "HIDROLARA C.A.",
+    "Sindicato de Trabajadores",
+    "libertad económica",
+    "libre tránsito"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-05-18_S407_E15-1293.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/187845-407-18516-2016-15-1293.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:12.221227"
+}

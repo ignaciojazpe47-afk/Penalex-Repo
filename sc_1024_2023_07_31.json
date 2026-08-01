@@ -1,0 +1,22 @@
+{
+  "id": 31666,
+  "numero": "1024",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por la Sociedad Mercantil PRONTO HCM, C.A. contra una decisión del Juzgado Nacional Primero Contencioso Administrativo que declaró inadmisible la acción de amparo constitucional. La apelación fue presentada por el abogado Luis Carlos Malavé Esaa, quien alegó la violación del derecho a la propiedad por parte de la Superintendencia de la Actividad Aseguradora al no devolver bienes retenidos desde 2017.\nLa Sala determinó que la acción de amparo era inadmisible, ya que el demandante había optado por vías judiciales ordinarias y había obtenido respuesta a sus requerimientos. En consecuencia, se confirmó la decisión del Juzgado de primera instancia, declarando sin lugar el recurso de apelación y reafirmando la inadmisibilidad de la acción de amparo constitucional.\nFinalmente, la Sala Constitucional se declaró competente para conocer del recurso, pero mantuvo la decisión de inadmisibilidad, argumentando que no se presentaron circunstancias que justificaran el uso de la vía del amparo, dado que existían medios ordinarios para restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la Propiedad",
+    "Inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1024_E21-0536.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327556-1024-31723-2023-21-0536.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.900936"
+}

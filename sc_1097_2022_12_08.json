@@ -1,0 +1,25 @@
+{
+  "id": 37787,
+  "numero": "1097",
+  "fecha": "2022-12-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se admite la acción de amparo constitucional interpuesta por Houssam Chater contra la decisión del Juzgado Superior Primero en lo Civil, que declaró sin lugar el recurso de apelación. La Sala constató que se vulneraron derechos fundamentales al no pronunciarse sobre un punto esencial de la apelación, lo que llevó a la declaración de confesión ficta en el juicio primigenio. La decisión revisada fue declarada nula, y se ordenó la reposición del juicio al estado de contestación de la demanda.",
+  "palabras_clave": [
+    "confesión ficta",
+    "procedimiento civil",
+    "desalojo",
+    "arrendamiento",
+    "competencia",
+    "amparo constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-08_S1097_E22-0509.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321655-1097-81222-2022-22-0509.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.436130"
+}

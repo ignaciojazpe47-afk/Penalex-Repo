@@ -1,0 +1,25 @@
+{
+  "id": 22799,
+  "numero": "1748",
+  "fecha": "2025-11-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis la acción de amparo constitucional; INADMISIBLE la acción de amparo constitucional.",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente e inadmisible la acción de amparo constitucional presentada por los ciudadanos Celida Núñez de Vergara y Juan Carlos Vergara López, a través de sus apoderados judiciales, en contra de las decisiones del Tribunal Superior Tercero. Se argumenta que la acción no satisface los requisitos de procedencia establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que existían medios judiciales ordinarios que no fueron agotados por los accionantes. La sentencia reafirma la importancia del debido proceso y la tutela judicial efectiva en el contexto de la protección de los derechos de los niños.",
+  "palabras_clave": [
+    "recusación",
+    "debido_proceso",
+    "niños_y_adolescentes",
+    "justicia",
+    "imparcialidad",
+    "garantías_constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1748_E25-0808.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349488-1748-31125-2025-25-0808.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.519841"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33240,
+  "numero": "1743",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La ciudadana Rosa Del Valle Rodríguez Valerio, a través de su abogada Yoly Zapata, solicitó la revisión de una sentencia dictada el 18 de septiembre de 2017, que declaró sin lugar la apelación contra un auto que daba por terminado un amparo constitucional. La Sala Constitucional del TSJ, presidida por la magistrada Michel Adriana Velásquez Grillet, analizó la solicitud y determinó que no hubo violación de derechos constitucionales ni contradicción con criterios previos de la Sala. En consecuencia, se declaró que la solicitud de revisión no tenía lugar.",
+  "palabras_clave": [
+    "desalojo",
+    "amparo",
+    "derechos",
+    "constitucional",
+    "tutela",
+    "proceso",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1743_E18-0290.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330989-1743-41223-2023-18-0290.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.159399"
+}

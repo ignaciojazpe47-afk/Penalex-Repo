@@ -1,0 +1,22 @@
+{
+  "id": 44660,
+  "numero": "0457",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del TSJ se pronunció sobre la solicitud de revisión de una sentencia del Juzgado Superior en lo Civil, que había declarado sin lugar un recurso de apelación interpuesto por el abogado José Francisco Ávila Marcano, en representación de Samir Alberto Kassar Rincón. La decisión original confirmaba la resolución de un contrato de arrendamiento a favor de Ceferino Antonio Millán, obligando a Kassar Rincón a desocupar el inmueble arrendado.\n\nLa Sala, al no poder notificar a Kassar Rincón en su domicilio, ordenó que se practicara la notificación por medios electrónicos o, en su defecto, se fijara un cartel de notificación. Se advirtió que la falta de consignación de documentos requeridos podría llevar a la inadmisibilidad del recurso.\n\nFinalmente, se ordenó la publicación del cartel de notificación en el portal electrónico del TSJ, asegurando así el cumplimiento de los procedimientos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión",
+    "contrato de arrendamiento",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre revisión de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0457_E18-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308394-0457-291119-2019-18-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.828422"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3083,
+  "numero": null,
+  "fecha": "2004-03-09",
+  "anio": 2004,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia se pronunció sobre un recurso de casación interpuesto por los defensores de varios ciudadanos condenados por delitos de robo agravado y privación ilegítima de libertad. La Corte de Apelaciones había declarado sin lugar las apelaciones, lo que motivó la presentación del recurso ante el TSJ. La Sala constató que no se garantizó el derecho a la defensa de los acusados al no ser notificados para asistir a la audiencia oral.",
+  "palabras_clave": [
+    "casación",
+    "penal",
+    "derecho a la defensa",
+    "audiencia oral"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en materia penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2004-03-09_CasacionPenal_C030468.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:06.738033"
+}

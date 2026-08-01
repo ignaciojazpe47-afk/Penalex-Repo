@@ -1,0 +1,25 @@
+{
+  "id": 23668,
+  "numero": "1963",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por Pedro Segundo Molinos contra la sentencia del Juzgado Superior Agrario que había declarado con lugar la acción de amparo constitucional presentada por AGROPECUARIA LA ISLA, C.A. La decisión se basa en la violación del debido proceso y el derecho a la defensa, al no permitirse a la parte accionante oponerse a las medidas cautelares decretadas en el juicio de cobro de bolívares. Se confirma la decisión del tribunal inferior y se ordena la restitución de la situación jurídica infringida.",
+  "palabras_clave": [
+    "debido_proceso",
+    "amparo_constitucional",
+    "medidas_cautelares",
+    "sociedad_mercantil",
+    "jurisdicción_agraria",
+    "derechos_constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por AGROPECUARIA LA ISLA, C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1963_E22-0782.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351660-1963-101225-2025-22-0782.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.780256"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2280,
+  "numero": null,
+  "fecha": "2001-02-13",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Humanos",
+  "decision": "CON LUGAR",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 13 de febrero de 2001, decidió sobre la apelación interpuesta por el abogado Alejandro Manuel Canónico Sarabia en favor de Eulices Salomé Rivas Ramírez, quien había sido objeto de una medida preventiva de privación de libertad. La Corte de Apelaciones del Circuito Judicial Penal del Estado Nueva Esparta se había declarado incompetente para conocer de la solicitud de hábeas corpus. La Sala, tras analizar la competencia, determinó que le correspondía conocer del caso, revocando la decisión de la Corte de Apelaciones y ordenando el remitir el expediente a la Oficina Distribuidora de Expedientes Penales para los fines legales correspondientes.",
+  "palabras_clave": [
+    "hábeas corpus",
+    "derechos humanos",
+    "libertad personal",
+    "competencia",
+    "Corte de Apelaciones",
+    "Tribunal Supremo de Justicia",
+    "Eulices Salomé Rivas Ramírez",
+    "amparo constitucional"
+  ],
+  "titulo": "Recurso de Amparo Constitucional a favor de Eulices Salomé Rivas Ramírez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-13_Constitucional_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.714449"
+}

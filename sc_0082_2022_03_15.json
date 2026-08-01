@@ -1,0 +1,23 @@
+{
+  "id": 34785,
+  "numero": "0082",
+  "fecha": "2022-03-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por Francisco Javier Solórzano Maita, quien actúa en representación de su hijo menor, en relación a un procedimiento de régimen de convivencia familiar. Se alegaron graves irregularidades procesales y violaciones al debido proceso, lo que motivó la intervención de la Sala para garantizar el interés superior del niño. La Sala ordenó la remisión del expediente al tribunal competente y la ejecución inmediata de la medida provisional de convivencia familiar.",
+  "palabras_clave": [
+    "avocamiento",
+    "convivencia familiar",
+    "interés superior del niño",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en régimen de convivencia familiar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-15_S0082_E22-0169.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/316187-0082-15322-2022-22-0169.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.435136"
+}

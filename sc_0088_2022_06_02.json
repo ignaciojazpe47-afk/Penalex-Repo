@@ -1,0 +1,24 @@
+{
+  "id": 34952,
+  "numero": "0088",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa una solicitud de revisión presentada por Germán Antonio Romero Araujo, quien argumenta un error en el cómputo de términos para su recurso de casación. La Sala considera necesario obtener información adicional del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Mérida para esclarecer el cómputo de los días de despacho desde el anuncio del recurso hasta su admisión. Se ordena remitir dicha información en un plazo específico.",
+  "palabras_clave": [
+    "recurso de casación",
+    "cómputo de días",
+    "receso decembrino",
+    "notificaciones",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre revisión de sentencia de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0088_E15-1278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316845-0088-2622-2022-15-1278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.421985"
+}

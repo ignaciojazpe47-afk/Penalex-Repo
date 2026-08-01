@@ -1,0 +1,23 @@
+{
+  "id": 41733,
+  "numero": "0167",
+  "fecha": "2019-07-15",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 0221 dictada por la Sala de Casación Social, que había declarado sin lugar un recurso de casación. El abogado Freddy José Ferrer Medina, en representación de Nerio Segundo Rosales Ortigoza, solicitó la revisión alegando violaciones al derecho a la defensa y al debido proceso. La Sala encontró que la renuncia del apoderado no fue notificada al poderdante, lo que generó una situación de indefensión.",
+  "palabras_clave": [
+    "revisión",
+    "concubinato",
+    "indefensión",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de sentencia sobre acción mero declarativa de concubinato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-24_S0167_E19-0584.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310772-0167-241120-2020-19-0584.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.408148"
+}

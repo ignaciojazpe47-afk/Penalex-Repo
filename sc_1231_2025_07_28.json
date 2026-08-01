@@ -1,0 +1,26 @@
+{
+  "id": 21217,
+  "numero": "1231",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por Rafael Simón Gutiérrez Calderón contra la sentencia del Juzgado Superior Segundo Accidental que declaró inadmisible su acción de amparo constitucional. La decisión se fundamenta en que la acción fue presentada fuera del plazo establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que el demandante tuvo conocimiento de la sentencia impugnada hace más de cuatro años.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "autonomía de la persona",
+    "Código de Procedimiento Civil",
+    "derecho a la defensa",
+    "nulidad de actos",
+    "jurisdicción contenciosa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1231_E24-0351.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346528-1231-28725-2025-24-0351.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.777614"
+}

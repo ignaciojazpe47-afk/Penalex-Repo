@@ -1,0 +1,22 @@
+{
+  "id": 34100,
+  "numero": "1211",
+  "fecha": "2021-03-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró competente para conocer la solicitud de avocamiento presentada por los abogados de Reinaldo Saraiva, en relación con un proceso penal por varios delitos. Se ordenó la remisión de un informe sobre el estado del recurso de apelación contra una sentencia anterior que decretó el sobreseimiento de la causa penal. La Sala solicitó información adicional para verificar la firmeza de la sentencia en cuestión.",
+  "palabras_clave": [
+    "avocamiento",
+    "proceso penal",
+    "sentencia"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en proceso penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1211_E20-0429.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328411-1211-14823-2023-20-0429.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.757031"
+}

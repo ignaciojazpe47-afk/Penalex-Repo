@@ -1,0 +1,24 @@
+{
+  "id": 33439,
+  "numero": "1773",
+  "fecha": "2023-12-07",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Tribunal Superior Segundo en lo Civil, que había declarado sin lugar un recurso de apelación. La Sala encontró que hubo violaciones al debido proceso y a la tutela judicial efectiva, debido a la falta de notificación a las partes sobre la reanudación del juicio y la admisión de la reconvención. Se anula el fallo impugnado y se ordena reponer la causa al estado en que se abra de nuevo el lapso para la contestación de la reconvención, previa notificación de las partes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "reconvención",
+    "Estado Barinas"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo del Tribunal Superior en lo Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-07_S1773_E18-0455.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331308-1773-71223-2023-18-0455.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.479211"
+}

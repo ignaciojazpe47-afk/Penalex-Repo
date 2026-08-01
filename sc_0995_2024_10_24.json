@@ -1,0 +1,22 @@
+{
+  "id": 20595,
+  "numero": "0995",
+  "fecha": "2024-10-24",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Penal",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0409, ordenando a la Presidenta del Circuito Judicial Penal del Área Metropolitana de Caracas que recabara y remitiera el expediente relacionado con la acción de amparo constitucional presentada por Leyda Rodríguez Ríos. Esta acción fue declarada inadmisible por la Corte de Apelaciones el 23 de noviembre de 2022. La Sala, al considerar la situación de la recurrente, solicitó información urgente sobre el estatus del proceso penal y la apelación interpuesta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "Leyda Rodríguez Ríos"
+  ],
+  "titulo": "Sentencia N° 0409 sobre recurso de apelación en caso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S0995_E22-0970.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345264-0995-27625-2025-22-0970.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.319067"
+}

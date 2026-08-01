@@ -1,0 +1,24 @@
+{
+  "id": 16000,
+  "numero": "0519",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1033, declara con lugar la solicitud de revisión constitucional presentada por el abogado Rafael Francisco Giordano Troconis, en representación de Inversiones WMRW, S.R.L., anulando la sentencia N° 209 de la Sala de Casación Civil. Esta última había declarado con lugar un recurso de casación interpuesto por Julio César Almeida Flores, quien demandaba el cumplimiento de un contrato de opción de compraventa. La Sala Constitucional determinó que la Sala de Casación Civil incurrió en vicios de inmotivación y contradicción en su fallo, al no considerar adecuadamente la carga probatoria sobre el cumplimiento de las obligaciones contractuales por parte del demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cumplimiento de contrato",
+    "opción de compraventa",
+    "inversiones WMRW",
+    "Julio César Almeida Flores"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cumplimiento de contrato de opción de compraventa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0519_E23-0446.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355507-0519-13526-2026-23-0446.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.908144"
+}

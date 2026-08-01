@@ -1,0 +1,22 @@
+{
+  "id": 62030,
+  "numero": "99",
+  "fecha": "2015-02-20",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la apelación interpuesta por Andreina Cabarcas de la Hoz contra la decisión del Tribunal Superior Tercero que declaró inadmisible su acción de amparo. La Sala considera que la vía ordinaria no era idónea para resolver la situación, ya que la apelante había denunciado violaciones a los derechos de su hija en el régimen de convivencia familiar homologado. Se revoca la sentencia anterior y se ordena al Tribunal Superior que pronuncie nuevamente sobre la admisibilidad de la acción de amparo, exceptuando el análisis de la causal de inadmisibilidad prevista en la ley, en atención al interés superior de la niña.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "convivencia familiar",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-02-20_S99_E14-0906.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/174493-99-20215-2015-14-0906.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.518101"
+}

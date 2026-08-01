@@ -1,0 +1,24 @@
+{
+  "id": 44643,
+  "numero": "0440",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA",
+  "ponente": "Calixto Ortega Rios",
+  "resumen": "La Procuradora Especial de Trabajadores, actuando en representación de Josefina Bravo Gutiérrez, interpone una solicitud de revisión constitucional de una sentencia dictada por el Tribunal Segundo de Primera Instancia de Juicio del Trabajo. Se argumenta que la peticionaria no fue debidamente notificada de la sentencia apelada. La Sala Constitucional decide solicitar al tribunal de origen la remisión del expediente correspondiente para evaluar la denuncia de falso supuesto.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "trabajo",
+    "falso supuesto",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0440_E16-1036.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308377-0440-291119-2019-16-1036.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.356751"
+}

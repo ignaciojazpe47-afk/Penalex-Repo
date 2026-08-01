@@ -1,0 +1,25 @@
+{
+  "id": 20320,
+  "numero": "0902",
+  "fecha": "2025-06-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Jorge Nava Gouveia en representación de Keisler Josué Pérez Martínez, contra la sentencia dictada el 18 de marzo de 2025 por la Corte de Apelaciones. La acción fue considerada inadmisible debido a que el agraviado había optado por recurrir a las vías judiciales ordinarias, lo que contraviene el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nSe argumenta que el recurso de casación interpuesto el 31 de marzo de 2025 agotó la doble instancia, y que la acción de amparo no puede ser utilizada como una tercera instancia para restablecer la situación jurídica. La Sala reitera que el amparo no es admisible cuando existen recursos ordinarios disponibles que no han sido ejercidos previamente.\n\nFinalmente, se declara que la acción de amparo es inadmisible y se ordena la publicación, registro y comunicación de la decisión, así como el archivo del expediente.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "justicia penal",
+    "violencia de género",
+    "sentencia",
+    "motivación judicial"
+  ],
+  "titulo": "Inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-11_S0902_E25-0318.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344701-0902-11625-2025-25-0318.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.297559"
+}

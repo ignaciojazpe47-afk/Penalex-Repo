@@ -1,0 +1,24 @@
+{
+  "id": 27620,
+  "numero": "0867",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Asier Guridi Zaloña en nombre de su hijo, contra un auto del Juzgado Segundo de Primera Instancia que declaró improcedente la solicitud de rectificación de acta de nacimiento. La Sala, tras analizar la competencia, decidió declinar el conocimiento del caso al Juzgado Superior de Protección de Niños, Niñas y Adolescentes del Estado Aragua, declarando su incompetencia para conocer la acción de amparo. La decisión fue firmada por la magistrada ponente Michel Adriana Velásquez Grillet y otros magistrados.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "acta de nacimiento",
+    "incompetencia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0867_E23-0778.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339057-0867-151124-2024-23-0778.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.205523"
+}

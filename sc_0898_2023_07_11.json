@@ -1,0 +1,25 @@
+{
+  "id": 31192,
+  "numero": "0898",
+  "fecha": "2023-07-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 11 de julio de 2023, declaró con lugar el recurso de apelación interpuesto por Willimar Gutiérrez Perdomo contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que había declarado inadmisible su acción de amparo. La Sala consideró que la acción de amparo se interpuso contra un auto de homologación de desistimiento que vulneraba derechos fundamentales de una niña, lo que justificaba su revisión a pesar de la inadmisibilidad inicial.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "niños",
+    "vía ordinaria",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-11_S0898_E23-0388.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326784-0898-11723-2023-23-0388.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.221013"
+}

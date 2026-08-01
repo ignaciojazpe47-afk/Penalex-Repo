@@ -1,0 +1,26 @@
+{
+  "id": 23876,
+  "numero": "2097",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine Litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por las ciudadanas Milagros del Valle Ortega Cabrera y Nohely Valentina Barco Ortega, contra la decisión de la Sala Dos de la Corte de Apelaciones del Circuito Judicial Penal del estado Barinas, que declaró la nulidad de oficio de todas las actuaciones judiciales celebradas a partir del 27 de agosto de 2024. La Sala considera que la decisión de la Corte de Apelaciones fue ajustada a derecho y no vulneró las garantías constitucionales denunciadas por las accionantes.",
+  "palabras_clave": [
+    "nulidad",
+    "audiencia",
+    "flagrancia",
+    "debido proceso",
+    "tutela judicial",
+    "Código Orgánico Procesal Penal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por las ciudadanas Ortega Cabrera y Barco Ortega",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2097_E25-0940.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351921-2097-121225-2025-25-0940.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.079172"
+}

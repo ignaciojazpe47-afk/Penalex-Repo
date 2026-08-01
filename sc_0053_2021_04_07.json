@@ -1,0 +1,22 @@
+{
+  "id": 38375,
+  "numero": "0053",
+  "fecha": "2021-04-07",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Medidas Cautelares",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de medida preventiva anticipada presentada por Carlos Manuel Trapani Blanco, en representación de CECODAP, contra el Ministerio del Poder Popular para la Educación. La solicitud buscaba el reinicio inmediato de actividades escolares, suspendidas por el gobierno, alegando la vulneración de derechos de niños, niñas y adolescentes. La Sala determinó que el Tribunal Primero de Primera Instancia había declinado su competencia erróneamente, ya que la solicitud no se enmarca en intereses colectivos, sino en la protección de derechos individuales y difusos de la niñez.\nFinalmente, la Sala Constitucional no aceptó la declinatoria de competencia y ordenó devolver el expediente al tribunal de origen para su tramitación, reafirmando la importancia de garantizar el derecho a la educación en el contexto de la crisis educativa del país.",
+  "palabras_clave": [
+    "Medida Preventiva",
+    "Derechos de la Niñez",
+    "Educación"
+  ],
+  "titulo": "Decisión sobre Medida Preventiva Anticipada",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-07_S0053_E19-0247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311610-0053-7421-2021-19-0247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.749510"
+}

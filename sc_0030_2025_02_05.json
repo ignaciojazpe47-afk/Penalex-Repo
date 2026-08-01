@@ -1,0 +1,25 @@
+{
+  "id": 18185,
+  "numero": "0030",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Libia Del Mar Obregón Seijas, quien solicitó la intervención de la Sala ante una causa penal en su contra. La Sala, tras evaluar las alegaciones y la documentación presentada, determinó que no existían motivos suficientes para justificar el avocamiento, declarándose incompetente para conocer del asunto. En consecuencia, la Sala declina el conocimiento del caso a la Sala de Casación Penal del TSJ.",
+  "palabras_clave": [
+    "avocamiento",
+    "justicia",
+    "derechos",
+    "proceso",
+    "jurisdicción",
+    "interés público"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0030_E24-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341201-0030-5225-2025-24-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.563746"
+}

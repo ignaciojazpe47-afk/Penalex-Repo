@@ -1,0 +1,22 @@
+{
+  "id": 3005,
+  "numero": null,
+  "fecha": "2003-07-03",
+  "anio": 2003,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Desestima por inadmisible",
+  "ponente": "Blanca Rosa Mármol de León",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declaró inadmisibles los recursos de nulidad y casación interpuestos por la parte acusadora contra la sentencia de la Corte de Apelaciones que absolvió al acusado de homicidio culposo. Se argumentó que la sentencia recurrida era absolutoria y que la ley prohíbe la admisión de recursos en tales casos, aplicando el principio de doble conformidad. La decisión se fundamentó en la falta de motivación y en la ausencia de pruebas suficientes para modificar la absolución.",
+  "palabras_clave": [
+    "homicidio culposo",
+    "nulidad",
+    "casación"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad y casación en caso de homicidio culposo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2003-07-03_CasacionPenal_C030211.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:07.734074"
+}

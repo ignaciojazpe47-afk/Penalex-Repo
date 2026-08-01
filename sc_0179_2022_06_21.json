@@ -1,0 +1,23 @@
+{
+  "id": 35111,
+  "numero": "0179",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carmela Murga de Misari, quien alegaba incumplimiento de una sentencia anterior por parte de la Superintendencia Nacional de Arrendamiento de Vivienda. La acción fue presentada el 21 de diciembre de 2020, pero no fue ratificada dentro del plazo de tres días establecido por la ley, lo que llevó a la inadmisibilidad de la solicitud. La decisión se fundamenta en la falta de cumplimiento de los requisitos formales para la interposición de la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisible",
+    "desacato",
+    "derechos de propiedad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0179_E20-0515.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317440-0179-21622-2022-20-0515.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.626880"
+}

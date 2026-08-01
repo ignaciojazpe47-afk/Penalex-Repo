@@ -1,0 +1,26 @@
+{
+  "id": 37828,
+  "numero": "1113",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Antonio José Maldonado Toyo, en relación a una decisión del Juzgado Nacional Segundo Contencioso Administrativo que declaró competente para conocer la apelación interpuesta. La Sala, tras analizar los antecedentes y argumentos presentados, determinó que la decisión impugnada violaba derechos constitucionales del solicitante, por lo que se declaró con lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación",
+    "derechos laborales",
+    "control difuso",
+    "competencia",
+    "sentencia",
+    "justicia administrativa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1113_E22-0708.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321696-1113-91222-2022-22-0708.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.428866"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 40480,
+  "numero": "0666",
+  "fecha": "2021-11-26",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Tribunal Superior Octavo de lo Contencioso Tributario y el Juzgado Nacional Segundo Contencioso Administrativo, relacionado con una acción de amparo constitucional interpuesta por Miguel Ángel Carvajal Rojas contra el Servicio Autónomo de Registros y Notarías (SAREN). La acción buscaba invalidar las vías de hecho en que incurrió el SAREN al aumentar unilateralmente las alícuotas impositivas de manera desproporcional.\n\nLa Sala declaró competente para conocer del conflicto y remitió el expediente al Tribunal Superior Octavo de lo Contencioso Tributario para la continuación del procedimiento. Se fundamentó en la necesidad de que la Sala Constitucional dirimiera el conflicto, dado que no existía un tribunal superior común a los involucrados en el caso.\n\nFinalmente, la decisión fue firmada por la Presidenta de la Sala, Lourdes Benicia Suárez Anderson, y el magistrado ponente fue Juan José Mendoza Jover, quien destacó la importancia de la competencia en materia tributaria y la protección de los derechos constitucionales en el contexto de la acción de amparo.",
+  "palabras_clave": [
+    "competencia",
+    "tributos",
+    "impuestos",
+    "tasas",
+    "SAREN",
+    "derecho administrativo",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-26_S0666_E19-0481.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314742-0666-261121-2021-19-0481.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:54.509583"
+}

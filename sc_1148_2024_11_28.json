@@ -1,0 +1,25 @@
+{
+  "id": 28065,
+  "numero": "1148",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por la abogada Mireya Sanmiguel, pero inadmite la solicitud por considerarla extemporánea. Se argumenta que la acción de amparo no es procedente dado que ya existía una decisión previa de la Corte de Apelaciones que resolvía la situación planteada. Además, se señala que la acción de amparo no puede ser utilizada como sustituto de los recursos ordinarios disponibles.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "libertad personal",
+    "orden judicial",
+    "incompetencia",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1148_E23-0412.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339751-1148-281124-2024-23-0412.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.465728"
+}

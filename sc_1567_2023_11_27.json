@@ -1,0 +1,22 @@
+{
+  "id": 32998,
+  "numero": "1567",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró la pérdida del interés y la extinción del proceso en un juicio de protección de derechos e intereses colectivos contra Digitel GSM. La decisión se fundamenta en la falta de impulso procesal por parte de la parte actora desde marzo de 2016, lo que evidencia una ausencia de interés en la resolución del caso. La sentencia resalta la importancia de la continuidad en la acción judicial para la protección de derechos colectivos.",
+  "palabras_clave": [
+    "intereses colectivos",
+    "extinción del proceso",
+    "Digitel GSM"
+  ],
+  "titulo": "Sentencia sobre la extinción del proceso por pérdida de interés en la demanda contra Digitel GSM",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1567_E08-1472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330622-1567-271123-2023-08-1472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.422361"
+}

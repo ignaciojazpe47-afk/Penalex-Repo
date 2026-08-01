@@ -1,0 +1,24 @@
+{
+  "id": 28379,
+  "numero": "1321",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por la ciudadana Divonne Josefina Soler Ruz contra el fallo del Juzgado Superior Segundo que levantó una medida cautelar de suspensión de efectos contractuales de un contrato de capitulaciones matrimoniales. La Sala determinó que el tribunal de alzada actuó fuera de su competencia al emitir su decisión, ya que la causa se encontraba suspendida por la solicitud de regulación de la jurisdicción. En consecuencia, se anuló la decisión impugnada y se declaró procedente el amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad de contrato",
+    "capitulaciones matrimoniales",
+    "debido proceso",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en relación a la nulidad de contrato de capitulaciones matrimoniales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1321_E23-1291.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340335-1321-101224-2024-23-1291.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.218952"
+}

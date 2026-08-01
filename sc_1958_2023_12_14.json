@@ -1,0 +1,22 @@
+{
+  "id": 33811,
+  "numero": "1958",
+  "fecha": "2023-12-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un caso relacionado con un presunto desacato al mandamiento de amparo constitucional por parte de la sociedad Cervecería Polar, C.A. El caso fue remitido por el Tribunal Quinto de Primera Instancia de Juicio del Trabajo del Estado Anzoátegui. Se destaca que el demandante, Oscar Rafael Martínez, había solicitado la protección de sus derechos mediante un amparo constitucional, el cual fue objeto de desacato por parte de la empresa demandada.\n\nEn la decisión, la Sala acuerda solicitar al Juzgado de la causa la remisión inmediata del expediente para el pronunciamiento correspondiente. Se establece un plazo de cinco días para el cumplimiento de esta orden, advirtiendo que la falta de cumplimiento podría acarrear sanciones según la Ley Orgánica del Tribunal Supremo de Justicia.\n\nLa sentencia es firmada por la magistrada ponente Lourdes Benicia Suárez Anderson, junto con otros magistrados, y se ordena la notificación correspondiente al tribunal de instancia para asegurar el cumplimiento de lo dispuesto.",
+  "palabras_clave": [
+    "desacato",
+    "amparo constitucional",
+    "Cervecería Polar"
+  ],
+  "titulo": "Sentencia sobre desacato en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-14_S1958_E23-0279.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331928-1958-141223-2023-23-0279.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.435848"
+}

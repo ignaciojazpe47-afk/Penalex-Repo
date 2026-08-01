@@ -1,0 +1,26 @@
+{
+  "id": 37503,
+  "numero": "1025",
+  "fecha": "2022-11-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio de la Corte de Apelaciones Ordinaria relacionado con una acción de amparo constitucional. Se destaca la denuncia del accionante sobre la falta de foliación en documentos judiciales, lo que afecta la transparencia y el derecho a la defensa. La Sala decide solicitar a la Corte de Apelaciones la remisión de copias certificadas del expediente para verificar aspectos relevantes para la decisión de la apelación.",
+  "palabras_clave": [
+    "desorden procesal",
+    "amparo constitucional",
+    "justicia",
+    "derechos",
+    "garantías",
+    "documentación",
+    "transparencia"
+  ],
+  "titulo": "Decisión sobre solicitud de remisión de expediente",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-21_S1025_E21-0748.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320930-1025-211122-2022-21-0748.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.338289"
+}

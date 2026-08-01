@@ -1,0 +1,23 @@
+{
+  "id": 34990,
+  "numero": "0120",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Inversiones Dunamis C.A. contra la decisión del Juzgado Superior Tercero que declaró inadmisible la pretensión de amparo. La Sala consideró que la homologación de una transacción judicial realizada durante la ejecución de una medida cautelar violó el derecho al debido proceso, ya que no se respetaron las formalidades necesarias para el remate de bienes embargados. En consecuencia, se anuló la decisión impugnada y se reponía la causa al estado de publicidad de remate y fijación de justiprecio de los bienes a ejecutar.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "remate",
+    "transacción judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0120_E21-0311.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316884-0120-3622-2022-21-0311.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.415238"
+}

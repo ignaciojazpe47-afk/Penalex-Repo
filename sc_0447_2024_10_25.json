@@ -1,0 +1,24 @@
+{
+  "id": 26923,
+  "numero": "0447",
+  "fecha": "2024-10-25",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Luis José Landaeta Salazar, en representación de la sociedad mercantil MAS CARS 2015, C.A., en relación a una acción por resolución de contrato de compra-venta. La Sala declaró su incompetencia para conocer del caso, argumentando que corresponde a la Sala de Casación Civil, dado que la materia es afín a sus competencias.",
+  "palabras_clave": [
+    "medidas cautelares",
+    "inmotivación",
+    "derecho a la defensa",
+    "debido proceso",
+    "acción de amparo"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-25_S0447_E23-0862.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338233-0447-251024-2024-23-0862.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.489953"
+}

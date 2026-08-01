@@ -1,0 +1,26 @@
+{
+  "id": 27112,
+  "numero": "0543",
+  "fecha": "2023-02-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Ramsés Jurado Martínez contra la decisión de la Corte de Apelaciones que declaró sin lugar su recurso de apelación. La Corte de Apelaciones había confirmado la condena de 12 meses de prisión por violencia psicológica. En su decisión, la Sala Constitucional determinó su competencia para conocer el caso, pero declaró terminado el procedimiento por abandono de trámite debido a la falta de actuación del demandante durante más de seis meses. Además, se impuso una multa al accionante por el abandono del trámite.",
+  "palabras_clave": [
+    "proceso penal",
+    "derechos humanos",
+    "defensa",
+    "corrupción",
+    "justicia",
+    "sentencia",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0543_E23-0953.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338496-0543-311024-2024-23-0953.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.287145"
+}

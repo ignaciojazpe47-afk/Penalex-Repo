@@ -1,0 +1,22 @@
+{
+  "id": 31000,
+  "numero": "0783",
+  "fecha": "2023-07-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Gladys María Gutiérrez Alvarado, decidió sobre la solicitud de amparo constitucional interpuesta por Luis Eduardo Lisboa Hernández contra las actuaciones judiciales en el expediente PP21-1-2021-000010. La solicitud se fundamentó en la alegación de fraude procesal en un juicio laboral previo. La Sala constató que la notificación a Lisboa Hernández no se realizó adecuadamente, lo que afectó su derecho a la defensa.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fraude procesal",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0783_E22-0658.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326439-0783-26623-2023-22-0658.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.199649"
+}

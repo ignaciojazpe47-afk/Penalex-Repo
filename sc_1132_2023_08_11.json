@@ -1,0 +1,23 @@
+{
+  "id": 34025,
+  "numero": "1132",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0367, declaró sin lugar el recurso de apelación interpuesto por Rosalinda Natalie López Pirela contra la sentencia N° 007 del Tribunal Superior Segundo del Circuito Judicial de Protección de Niños, Niñas y Adolescentes, que había declarado inadmisible la acción de amparo constitucional. La Sala consideró que la acción de amparo era inadmisible al estar incursa en las causales de inadmisibilidad previstas en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, dado que la parte había hecho uso de las vías judiciales ordinarias mediante la oposición a las medidas preventivas anticipadas decretadas a favor de Orlando Luís Неvia Faría.\n\nLa decisión se fundamentó en que la representación judicial de la demandante había ejercido su derecho a la defensa y había obtenido respuesta a su oposición, lo que restituía la situación jurídica infringida. La Sala también destacó que la acción de amparo no era el medio adecuado para corregir la situación, ya que la parte había tenido acceso a los recursos ordinarios y había sido notificada de las decisiones pertinentes.\n\nFinalmente, se confirmó el fallo apelado, manteniendo la inadmisibilidad de la acción de amparo y reafirmando la importancia del debido proceso y la tutela judicial efectiva en el marco de las decisiones judiciales.",
+  "palabras_clave": [
+    "Amparo",
+    "Constitucional",
+    "Protección de Niños",
+    "Zulia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1132_E20-0447.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328289-1132-11823-2023-20-0447.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.334811"
+}

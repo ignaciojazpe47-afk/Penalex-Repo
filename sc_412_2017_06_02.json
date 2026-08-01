@@ -1,0 +1,24 @@
+{
+  "id": 52019,
+  "numero": "412",
+  "fecha": "2017-06-02",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar con lugar la apelación interpuesta por Jorge Luis Mogollón, quien había sido declarado inadmisible en su acción de amparo constitucional por falta de legitimación. La Sala consideró que el abogado sí tenía legitimación para solicitar la protección constitucional, dado que había realizado requerimientos a la jueza del Juzgado Primero de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Lara, sin obtener respuesta, lo que le impidió participar en el proceso penal como víctima.\n\nLa Corte de Apelaciones había fundamentado su decisión en que el abogado no encuadraba en la definición de víctima según el Código Orgánico Procesal Penal. Sin embargo, la Sala Constitucional concluyó que la falta de respuesta a sus solicitudes afectó su esfera jurídica, lo que le otorgaba legitimación para interponer la acción de amparo.\n\nFinalmente, se revocó el fallo de la Corte de Apelaciones y se repuso la causa para que otra Sala se pronuncie sobre la admisibilidad de la pretensión de tutela constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación",
+    "victima",
+    "Corte de Apelaciones",
+    "Estado Lara"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Jorge Luis Mogollón",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-02_S412_E16-1123.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199542-412-2617-2017-16-1123.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.081148"
+}

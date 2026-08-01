@@ -1,0 +1,22 @@
+{
+  "id": 46220,
+  "numero": "0299",
+  "fecha": "2018-03-23",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por José Concepción Martínez Ortega, quien alegó la vulneración de su derecho a la libertad personal y a la salud debido a la prolongación de su medida de privación judicial preventiva de libertad. La Corte de Apelaciones había declarado sin lugar el recurso de apelación contra la decisión del tribunal de juicio, lo que motivó la acción de amparo. La Sala constató que la medida había superado el plazo legal de dos años sin la debida prórroga solicitada por el Ministerio Público, lo que justificó la decisión de conceder el amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "privación de libertad",
+    "derecho a la salud"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de José Concepción Martínez Ortega",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-03-23_S0299_E17-0751.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/209157-0299-23318-2018-17-0751.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:25.821000"
+}

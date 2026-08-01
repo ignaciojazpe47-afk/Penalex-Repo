@@ -1,0 +1,23 @@
+{
+  "id": 33118,
+  "numero": "1627",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR la solicitud de revisión constitucional, ANULA la sentencia dictada el 6 de junio de 2022, y la del 14 de febrero de 2022, y REPONE al estado de que otro juzgado con competencia en la materia, ordene la notificación de la ciudadana Yauri Del Carmen Rojas.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior de Protección de Niños, Niñas y Adolescentes del Estado Táchira, que había confirmado la privación de custodia del niño a su madre, Yauri Del Carmen Rojas, a favor del padre, Carlos Alberto Cuenca Figueredo. La Sala encontró que se vulneraron derechos fundamentales de la madre, como el derecho a la defensa y al debido proceso, al no otorgarle el término de distancia ultramarino para preparar su defensa. En consecuencia, se anuló la sentencia impugnada y se ordenó la reposición del caso a otro juzgado para que se realicen las notificaciones correspondientes.",
+  "palabras_clave": [
+    "custodia",
+    "revisión constitucional",
+    "derechos del niño",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de custodia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1627_E23-0150.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330794-1627-291123-2023-23-0150.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.001708"
+}

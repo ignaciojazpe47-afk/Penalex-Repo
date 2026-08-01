@@ -1,0 +1,25 @@
+{
+  "id": 29111,
+  "numero": "0109",
+  "fecha": "2023-03-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de marzo de 2023, se pronunció sobre dos acciones de amparo constitucional interpuestas por Tivisay Romero González contra el Tribunal Primero de Primera Instancia Municipal en Funciones de Control del Circuito Judicial Penal del Estado Nueva Esparta. La Corte de Apelaciones había declarado inadmisible la primera acción, argumentando que la lesión constitucional había cesado al resolverse la solicitud de nulidad presentada por la accionante. Sin embargo, la Sala Constitucional consideró que la segunda acción de amparo, relacionada con la revocación de una audiencia de imputación, no había cesado y, por lo tanto, la decisión de inadmisibilidad no era ajustada a derecho.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "control constitucional",
+    "subversión procesal",
+    "derecho a la defensa",
+    "nulidad"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-09_S0109_E21-0736.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323277-0109-9323-2023-21-0736.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.340180"
+}

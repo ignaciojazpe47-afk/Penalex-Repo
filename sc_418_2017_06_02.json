@@ -1,0 +1,22 @@
+{
+  "id": 52025,
+  "numero": "418",
+  "fecha": "2017-06-02",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de amparo constitucional interpuesto por Nelson de Jesús Urbaneja Guzmán, representado por Roberto Arévalo Magdaleno, contra la decisión del Juzgado Primero Superior del Circuito Judicial del Trabajo que declaró inadmisible su pretensión de amparo. La Sala determinó que el Juzgado a quo había incurrido en error al calificar la solicitud como un amparo sobrevenido, ya que se trataba de una violación al derecho de acceso al expediente, lo que afectó el derecho a la defensa del demandante.\n\nLa Sala, al analizar los alegatos y la situación presentada, concluyó que el Juzgado Primero Superior debió atender las denuncias de imposibilidad de acceso al expediente y no declararse incompetente. Por lo tanto, se revocó la decisión del Juzgado y se ordenó a otro Juzgado Superior que se pronuncie sobre la admisibilidad de la pretensión de amparo constitucional ejercida por la parte actora.\n\nFinalmente, la Sala Constitucional reafirmó su competencia para decidir el recurso de apelación y declaró con lugar el mismo, ordenando que se tomen las acciones necesarias para garantizar el derecho al debido proceso del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "acceso al expediente"
+  ],
+  "titulo": "Decisión sobre recurso de amparo constitucional sobrevenido",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-02_S418_E16-1065.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199548-418-2617-2017-16-1065.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:18.086961"
+}

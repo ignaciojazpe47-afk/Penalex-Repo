@@ -1,0 +1,22 @@
+{
+  "id": 29723,
+  "numero": "0255",
+  "fecha": "2023-03-06",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 09 de enero de 2019 por el Juzgado Octavo de Primera Instancia, que condenó a la Federación Canina de Venezuela al pago de indemnización. La revisión fue solicitada por el abogado Melina Crespo, en representación de Domingo Jesús Agüero Bravo, presidente de la Federación. La Sala declaró competente para conocer la solicitud y acordó la suspensión de los efectos de la sentencia impugnada, así como la prohibición de cualquier actuación procesal en el expediente correspondiente hasta que se resuelva el fondo de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indemnización",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia del Juzgado Octavo de Primera Instancia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-12_S0255_E22-0863.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324342-0255-12423-2023-22-0863.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.350976"
+}

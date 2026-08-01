@@ -1,0 +1,23 @@
+{
+  "id": 29753,
+  "numero": "0285",
+  "fecha": "2023-04-17",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Jorge Luis Abzueta Sturla y Giovanna Sturla Calcagno, quienes alegaron violaciones a sus derechos en un juicio penal por estafa calificada. La Sala declaró su incompetencia para conocer del caso, indicando que la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida es el tribunal competente para decidir sobre la acción de amparo. La decisión se fundamenta en la normativa que establece la competencia de los tribunales en materia de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "incompetencia",
+    "derechos fundamentales",
+    "tribunal superior"
+  ],
+  "titulo": "Sentencia sobre la incompetencia para conocer de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-17_S0285_E22-0807.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324372-0285-17423-2023-22-0807.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.822071"
+}

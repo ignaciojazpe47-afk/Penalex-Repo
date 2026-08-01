@@ -1,0 +1,27 @@
+{
+  "id": 23828,
+  "numero": "2048",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0310, declara competente para conocer la solicitud de revisión presentada por la Comunidad de Propietarios del Centro Comercial Buenaventura. Se anula la sentencia del Juzgado Segundo de Municipio Ordinario que había declarado con lugar la demanda de resolución de contrato de arrendamiento, por no haberse notificado al Procurador General de la República, lo que constituye una violación al debido proceso y a la tutela judicial efectiva. La Sala ordena la reposición de la causa al estado de nueva admisión de la demanda, garantizando así la protección de los intereses patrimoniales del Estado venezolano.",
+  "palabras_clave": [
+    "arrendamiento",
+    "expropiación",
+    "dueño",
+    "derechos",
+    "proceso",
+    "sentencia",
+    "notificación",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de resolución de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2048_E22-1019.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351861-2048-101225-2025-22-1019.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.747084"
+}

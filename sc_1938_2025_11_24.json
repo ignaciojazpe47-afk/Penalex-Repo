@@ -1,0 +1,26 @@
+{
+  "id": 23423,
+  "numero": "1938",
+  "fecha": "2025-11-24",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 24 de noviembre de 2025, declaró su competencia para conocer la solicitud de revisión constitucional presentada por el abogado Darwin Camacaro en representación de Dixon Argenis Canelón Mendoza. Sin embargo, la Sala consideró inadmisible la solicitud, argumentando que el solicitante debió atacar la última decisión dictada por la Sala de Casación Penal en marzo de 2016, en lugar de la sentencia original de septiembre de 2011. La Sala reafirmó la importancia de la cosa juzgada y la prudencia en el ejercicio de la revisión de sentencias firmes.",
+  "palabras_clave": [
+    "motivación",
+    "sentencia",
+    "pruebas",
+    "derechos",
+    "justicia",
+    "constitución",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1938_E24-0407.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350824-1938-281125-2025-24-0407.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.055939"
+}

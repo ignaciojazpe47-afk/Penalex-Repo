@@ -1,0 +1,25 @@
+{
+  "id": 23223,
+  "numero": "1877",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el defensor privado de Francisco Ignacio Domínguez Díaz, quien alegaba la omisión de pronunciamiento del Tribunal de Primera Instancia en un caso de violencia contra la mujer. La Sala determinó que la apelación era inadmisible debido a que la violación de derechos alegada había cesado, dado que se había ordenado la libertad del demandado tras el archivo fiscal del caso. Por lo tanto, se declaró sin lugar la apelación y se confirmó la inadmisibilidad de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "violencia contra la mujer",
+    "derechos humanos",
+    "inadmision",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre la apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1877_E20-0411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350473-1877-261125-2025-20-0411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.573815"
+}

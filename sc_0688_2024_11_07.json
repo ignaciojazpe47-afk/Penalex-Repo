@@ -1,0 +1,22 @@
+{
+  "id": 27281,
+  "numero": "0688",
+  "fecha": "2024-11-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de noviembre de 2024, declaró SIN LUGAR la apelación interpuesta por el abogado José Filogonio Molina Molina, defensor de Marisela Piña Oviedo, contra la sentencia de la Corte de Apelaciones que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en que había cesado la violación de derechos alegada, dado que el recurso de apelación había sido admitido y se encontraba en fase de pronunciamiento.\n\nLa acción de amparo fue presentada por la ciudadana Marisela Piña Oviedo, quien alegaba retardo procesal en su caso. Sin embargo, la Corte de Apelaciones determinó que la acción de amparo no era admisible, ya que la situación que motivó la solicitud había dejado de existir. La Sala Constitucional ratificó esta decisión, considerando que la acción de amparo es un medio procesal que requiere la existencia de una violación actual de derechos.\n\nFinalmente, la Sala Constitucional confirmó la decisión de la Corte de Apelaciones, estableciendo su competencia para conocer del recurso y ordenando la remisión del expediente al tribunal de origen.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "retardo procesal",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-07_S0688_E23-1018.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338684-0688-71124-2024-23-1018.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.449735"
+}

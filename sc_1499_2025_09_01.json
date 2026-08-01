@@ -1,0 +1,25 @@
+{
+  "id": 21961,
+  "numero": "1499",
+  "fecha": "2025-09-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Michel Adriana Velásquez Grillet, se pronunció sobre la solicitud de revisión constitucional presentada por el abogado Alexander Acosta en nombre de Julio César Tovar López. La solicitud buscaba revisar dos sentencias de la Sala de Casación Penal que habían declarado inadmisibles recursos interpuestos por el demandante. La Sala determinó su competencia para conocer la solicitud, pero concluyó que esta era inadmisible debido a la falta de legitimidad del abogado para actuar en representación del demandante, ya que no se presentó el poder correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencias",
+    "admisibilidad",
+    "legitimación",
+    "procedimiento",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1499_E25-0623.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348114-1499-30925-2025-25-0623.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.207142"
+}

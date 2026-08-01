@@ -1,0 +1,26 @@
+{
+  "id": 34152,
+  "numero": "1260",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer el amparo constitucional interpuesto por María Eusebia Contreras Seijas contra la empresa estadal AGROGUÁRICO POTENCIA, S.A. La decisión se basa en que la competencia para conocer de la acción de amparo corresponde al Juzgado Superior Contencioso Administrativo de la Circunscripción Judicial del Estado Bolivariano de Guárico, dado que se trata de un ente de la administración pública. La Sala destaca la importancia de la competencia territorial y material en el ejercicio de la acción de amparo, enfatizando que el acceso a la justicia debe ser garantizado a los justiciables.",
+  "palabras_clave": [
+    "tutela constitucional",
+    "derechos humanos",
+    "debido proceso",
+    "empresa estatal",
+    "agroalimentaria",
+    "notificación",
+    "garantías constitucionales"
+  ],
+  "titulo": "Sentencia sobre incompetencia en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1260_E22-0884.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328464-1260-15823-2023-22-0884.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.857623"
+}

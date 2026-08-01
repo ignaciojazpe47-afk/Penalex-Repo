@@ -1,0 +1,24 @@
+{
+  "id": 16902,
+  "numero": "0361",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Jesús Argelio Sutil Pérez, quien alegaba desórdenes procesales en un juicio penal en su contra. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso y declinó el conocimiento a la Sala de Casación Penal, ordenando el remitir el expediente correspondiente. La decisión se fundamenta en la naturaleza del asunto y en la competencia de las distintas Salas del TSJ.",
+  "palabras_clave": [
+    "avocamiento",
+    "competencia",
+    "justicia constitucional",
+    "jurisprudencia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0361_E25-0760.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354362-0361-25326-2026-25-0760.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.566996"
+}

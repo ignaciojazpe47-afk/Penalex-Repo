@@ -1,0 +1,26 @@
+{
+  "id": 23875,
+  "numero": "2096",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la acción de amparo interpuesta por el abogado Ricardo Guerrero en representación de Yavi Jocsan Ortiz Infante. La acción fue presentada contra la decisión de la Sala 2 de la Corte de Apelaciones que declaró inadmisible el recurso de apelación por no causar gravamen irreparable. Tras analizar los argumentos, la Sala concluye que la acción de amparo es improcedente, ya que no se configuró la violación constitucional alegada.",
+  "palabras_clave": [
+    "nulidad",
+    "debido proceso",
+    "defensa técnica",
+    "indefensión",
+    "proceso penal",
+    "tutela judicial",
+    "gravamen"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2096_E25-0913.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351919-2096-121225-2025-25-0913.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.740949"
+}

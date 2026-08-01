@@ -1,0 +1,25 @@
+{
+  "id": 20828,
+  "numero": "1087",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por el abogado Luis José Villarroel en representación de Antonio Márquez Valente, contra la sentencia dictada el 19 de diciembre de 2022. La inadmisibilidad se fundamentó en la falta de legitimación del abogado, quien no presentó el poder correspondiente que acreditara su representación. La Sala enfatizó que la falta de consignación del documento demostrativo de la representación judicial es una carga exclusiva de las partes y no puede ser suplida por el juez constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "ejecución",
+    "sentencia",
+    "notificación",
+    "vacaciones judiciales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1087_E23-1292.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345849-1087-9725-2025-23-1292.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.506580"
+}

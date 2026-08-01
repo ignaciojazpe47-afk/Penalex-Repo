@@ -1,0 +1,25 @@
+{
+  "id": 16698,
+  "numero": "0583",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Carlos Rafael Mugno Urbina en representación de Heriberto José Piñero Baena, contra los jueces de la Corte de Apelaciones del Circuito Judicial Penal del Estado Monagas. La decisión se fundamenta en la falta de cualidad de postulación del demandante, quien no es abogado y no puede actuar en juicio sin la representación de un profesional del derecho. La Sala establece que la falta de capacidad de postulación conlleva a la inadmisibilidad de la demanda.",
+  "palabras_clave": [
+    "capacidad de postulación",
+    "ilegitimidad",
+    "representación",
+    "abogados",
+    "Código de Procedimiento Civil",
+    "Ley de Abogados"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0583_E26-0126.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355576-0583-13526-2026-26-0126.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.878876"
+}

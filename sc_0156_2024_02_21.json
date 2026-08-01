@@ -1,0 +1,23 @@
+{
+  "id": 24291,
+  "numero": "0156",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, admitió la acción de amparo constitucional interpuesta por la sociedad mercantil Administradora Yuruary, C.A. contra la decisión del Juzgado Superior Tercero en lo Civil, Mercantil, del Tránsito y Bancario de Caracas, que había anulado una sentencia anterior. La Sala determinó que el Juzgado Superior había vulnerado el derecho a la defensa y al debido proceso al permitir un recurso de apelación que no era procedente, ya que la decisión original era inapelable. En consecuencia, se declaró con lugar la acción de amparo y se restableció la sentencia del Juzgado Noveno de Primera Instancia que había declarado con lugar la cuestión previa de inadmisibilidad de la demanda.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "nulidad de asamblea"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra decisión de Juzgado Superior",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0156_E23-1254.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332697-0156-21224-2024-23-1254.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.671344"
+}

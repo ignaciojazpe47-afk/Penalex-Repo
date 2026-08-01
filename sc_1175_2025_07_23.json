@@ -1,0 +1,27 @@
+{
+  "id": 21111,
+  "numero": "1175",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer el recurso de apelación interpuesto por los abogados Alejandro Ramón Barraez Marcucci y Antonio José Vargas Pacheco. Se confirma la decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda, que declaró improcedente in limine litis la acción de amparo constitucional. La Sala concluye que no existió lesión a los derechos constitucionales del accionante, ya que el tribunal de apelaciones actuó dentro de su competencia y motivó adecuadamente su decisión.",
+  "palabras_clave": [
+    "acción de amparo",
+    "lesiones culposas",
+    "debido proceso",
+    "derecho a la defensa",
+    "Código Penal",
+    "Corte de Apelaciones",
+    "sentencia",
+    "recurso de apelación"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1175_E24-1036.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346393-1175-23725-2025-24-1036.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.386085"
+}

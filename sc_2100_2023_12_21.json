@@ -1,0 +1,26 @@
+{
+  "id": 33953,
+  "numero": "2100",
+  "fecha": "2023-12-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la demanda presentada por los abogados Víctor Alfonso Laya Uribe y José Rafael Jiménez, quienes alegan la vulneración de derechos fundamentales por parte de la Junta Directiva de la Asociación Civil sin Fines de Lucro Centro de Profesionales del Estado Aragua. La Sala argumenta que la controversia tiene un ámbito regional y no nacional, por lo que corresponde a un tribunal de primera instancia en lo civil del estado Aragua conocer del caso.\n\nSe destaca que la demanda busca proteger derechos e intereses colectivos de los agremiados de los Colegios de Ingenieros y Abogados del estado Aragua, pero se concluye que la afectación es local y no reviste trascendencia nacional. La Sala ordena la remisión del expediente al tribunal competente para su conocimiento.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como la remisión inmediata del expediente a la presidencia del Circuito correspondiente.",
+  "palabras_clave": [
+    "intereses colectivos",
+    "derechos",
+    "tutela",
+    "jurisdicción",
+    "indemnización",
+    "acción",
+    "colectividad"
+  ],
+  "titulo": "Sentencia sobre demanda de protección de derechos e intereses colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2100_E23-1002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332070-2100-211223-2023-23-1002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.842679"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2379,
+  "numero": null,
+  "fecha": "2001-03-29",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derecho Procesal Civil",
+  "decision": "PARCIALMENTE CON LUGAR",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 29 de marzo de 2001, abordó un caso de amparo constitucional interpuesto por Andrés Guerra Guerra, apoderado de la Asociación Civil Mérida Entidad de Ahorro y Préstamo MERENAP. La acción se originó tras la decisión del Juzgado Superior Segundo que declaró sin lugar la acción de amparo, argumentando que la demandante no tenía legitimación activa. La Sala, al revisar el caso, determinó que, aunque la demandante no había intervenido en el juicio original, sí existía un agravio a sus derechos, dado que se había practicado un embargo ejecutivo sobre bienes que ya estaban embargados preventivamente. La Sala concluyó que el fallo apelado incurrió en error y ordenó mantener el embargo preventivo, revocando la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "embargo preventivo",
+    "legitimación activa",
+    "derecho al debido proceso",
+    "Código de Procedimiento Civil",
+    "decisión judicial",
+    "agravio constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Análisis de la Sentencia sobre Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-03-29_Constitucional_2616_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.710042"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33969,
+  "numero": "1095",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, decidió sobre el recurso de apelación interpuesto por Edgardo José Gutiérrez Guillén contra la sentencia del Juzgado Superior Segundo en lo Civil, que declaró inadmisible la acción de amparo constitucional. La Sala confirmó la decisión del juzgado inferior, argumentando que existía cosa juzgada y que el recurso de revisión constitucional era el medio adecuado para impugnar la sentencia anterior, no el amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "derecho a la defensa",
+    "emplazamiento",
+    "competencia",
+    "constitucional",
+    "jurisdicción",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1095_E23-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328232-1095-10823-2023-23-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.341249"
+}

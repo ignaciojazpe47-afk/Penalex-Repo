@@ -1,0 +1,25 @@
+{
+  "id": 33145,
+  "numero": "1653",
+  "fecha": "2023-01-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La abogada Elbis Marina Larreal López interpuso una acción de amparo constitucional en nombre de Delvis Esther González contra la sentencia N° 044 del 16 de enero de 2023, dictada por el Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo del estado Zulia. La acción se fundamentó en la supuesta vulneración de derechos constitucionales relacionados con la tutela judicial efectiva y la propiedad, tras la inadmisibilidad de una solicitud de ampliación de una sentencia anterior. La Sala Constitucional del TSJ, tras analizar la competencia y los requisitos de admisibilidad, determinó que la acción era inadmisible por haberse presentado de forma extemporánea, dado que existían recursos ordinarios que debieron ser agotados previamente.",
+  "palabras_clave": [
+    "apelación",
+    "ampliación de sentencia",
+    "derechos constitucionales",
+    "propiedad",
+    "sociedad mercantil",
+    "proceso civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1653_E23-0729.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330821-1653-301123-2023-23-0729.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.306787"
+}

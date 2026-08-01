@@ -1,0 +1,24 @@
+{
+  "id": 59300,
+  "numero": "800",
+  "fecha": "2016-08-19",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suarez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 19 de agosto de 2016, declaró sin lugar el recurso de apelación interpuesto por Elizabeth del Rocío Alcalá Murillo contra la decisión del Juzgado Superior de Protección de Niños, Niñas y Adolescentes de Aragua, que había declarado parcialmente con lugar la acción de amparo constitucional presentada por Isabel Cristina Serna Pérez en representación de sus hijos. La acción de amparo se fundamentó en la violación de derechos constitucionales debido a medidas cautelares que impedían la ejecución de una sentencia firme que ordenaba la restitución de bienes a los herederos del de cujus Gabriel Gerardo Gómez López.\n\nLa Sala consideró que la medida de prohibición de enajenar y gravar dictada en 2012 por el Tribunal Segundo de Primera Instancia de Mediación y Sustanciación de Protección de Niños, Niñas y Adolescentes, lesionaba los derechos de los herederos, quienes no podían acceder a los bienes dejados por su padre. La decisión reafirmó la importancia de la tutela judicial efectiva y el interés superior del niño, permitiendo que los herederos pudieran recuperar la posesión de los bienes en cuestión.\n\nFinalmente, la Sala exhortó al Tribunal de origen a decidir con prontitud sobre la acción mero declarativa de concubinato interpuesta por la demandada, enfatizando la necesidad de una justicia expedita y sin dilaciones indebidas.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial efectiva",
+    "interdicto restitutorio",
+    "concubinato",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-08-19_S800_E16-0073.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/190386-800-19816-2016-16-0073.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.786470"
+}

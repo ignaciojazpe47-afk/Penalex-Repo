@@ -1,0 +1,23 @@
+{
+  "id": 61227,
+  "numero": "1106",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió el recurso de nulidad interpuesto por la Universidad Central de Venezuela contra ciertos artículos de los Decretos n.° 1.401 y n.° 2.198, argumentando que estos violan el principio de autonomía universitaria consagrado en la Constitución. La Sala destacó que la autonomía universitaria es un derecho fundamental que permite a las universidades gestionar su patrimonio y funcionamiento sin interferencias del Poder Ejecutivo. La decisión se fundamenta en la supremacía de la Constitución sobre cualquier norma que limite dicha autonomía.",
+  "palabras_clave": [
+    "autonomía universitaria",
+    "nulidad",
+    "decreto",
+    "administración financiera"
+  ],
+  "titulo": "Sentencia sobre nulidad de artículos de Decretos relacionados con la administración financiera del sector público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1106_E16-0316.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193990-1106-151216-2016-16-0316.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.076109"
+}

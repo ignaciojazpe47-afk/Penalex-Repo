@@ -1,0 +1,27 @@
+{
+  "id": 42375,
+  "numero": "0072",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Cooperativa Cofabrica 657 R.S. interpuso un amparo constitucional contra varias sentencias del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito del Estado Lara, alegando violaciones a sus derechos constitucionales. El tribunal declaró inadmisible la demanda de amparo, argumentando que la parte agraviada contaba con recursos ordinarios para defenderse y que el amparo no era el medio adecuado para resolver las controversias planteadas. Finalmente, se confirmó la decisión del juzgado inferior y se declaró sin lugar el recurso de apelación interpuesto por la Cooperativa.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "jurisprudencia",
+    "proceso",
+    "tutela",
+    "juez"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por la Cooperativa Cofabrica 657 R.S.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0072_E16-0596.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304026-0072-27219-2019-16-0596.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.608026"
+}

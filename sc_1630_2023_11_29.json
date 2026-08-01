@@ -1,0 +1,26 @@
+{
+  "id": 33121,
+  "numero": "1630",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Delia Raquel Pérez Martín de Anzola contra la Comisión Judicial del Tribunal Supremo de Justicia y la Dirección Ejecutiva de la Magistratura. La accionante alegó la violación de sus derechos constitucionales a la tutela judicial efectiva y al debido proceso, debido al incumplimiento de decisiones judiciales previas relacionadas con su reincorporación y pago de salarios. Sin embargo, la Sala determinó que la falta de cumplimiento no es imputable a la Comisión Judicial, sino a la Dirección Ejecutiva de la Magistratura, lo que llevó a la inadmisibilidad del recurso.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "competencia",
+    "Comisión Judicial",
+    "Dirección Ejecutiva de la Magistratura",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1630_E23-0797.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330797-1630-291123-2023-23-0797.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.993242"
+}

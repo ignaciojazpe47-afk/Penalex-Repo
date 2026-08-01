@@ -1,0 +1,25 @@
+{
+  "id": 35228,
+  "numero": "0244",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIxto ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Samira Jacivi Assad Zambrano contra una sentencia del Tribunal Superior Primero en lo Civil, Mercantil y Tránsito de Barinas. La solicitante argumentó que la decisión de desalojo no consideró el desistimiento tácito de la acción por el retiro de cánones de arrendamiento, así como la falta de pronunciamiento sobre precedentes de la Sala Constitucional.\nLa Sala, tras analizar los alegatos, concluyó que la sentencia impugnada no incurrió en los vicios alegados y que la decisión de desalojo era procedente, ya que no se evidenció el cumplimiento de las obligaciones por parte de la demandada. Por lo tanto, se declaró que la solicitud de revisión no tenía lugar.\nFinalmente, la Sala declaró NO HA LUGAR la solicitud de revisión constitucional, reafirmando la validez de la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisprudencia",
+    "motivación",
+    "desistimiento",
+    "arrendamientos",
+    "seguridad jurídica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0244_E18-0328.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317650-0244-29622-2022-18-0328.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.613571"
+}

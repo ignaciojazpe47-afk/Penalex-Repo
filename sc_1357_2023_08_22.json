@@ -1,0 +1,26 @@
+{
+  "id": 31981,
+  "numero": "1357",
+  "fecha": "2023-08-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la abogada Zaida Maidelin Jaspe Mora, en representación de Yurbis Mallary Hernández Rondón, contra la omisión y falta de pronunciamiento de la misma Sala. La decisión se fundamenta en la falta de cumplimiento de requisitos procesales y en la prohibición de admitir amparos contra sentencias de la Corte Suprema de Justicia.\n\nSe destaca que la acción de amparo fue presentada en virtud de una omisión de pronunciamiento respecto a una medida cautelar solicitada en un juicio de desalojo. Sin embargo, la Sala concluye que la situación jurídica denunciada cesó, lo que hace que la acción devenga inadmisible. La sentencia también menciona que la parte demandante no cumplió con la carga de presentar la copia certificada de la decisión judicial objeto de amparo.\n\nFinalmente, se ordena la publicación y archivo del expediente, reafirmando la inadmisibilidad de la acción de amparo por las razones expuestas en la decisión.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "jurisprudencia",
+    "derechos",
+    "garantías",
+    "sentencia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-22_S1357_E23-0145.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328563-1357-22823-2023-23-0145.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.213078"
+}

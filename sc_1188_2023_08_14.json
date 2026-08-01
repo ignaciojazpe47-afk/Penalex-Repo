@@ -1,0 +1,26 @@
+{
+  "id": 34081,
+  "numero": "1188",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente el recurso de hecho interpuesto por Daniel Alexander Zapata Zuria contra la negativa del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Estado Aragua. El tribunal argumenta que en el procedimiento de amparo constitucional no están permitidas las incidencias procesales, lo que incluye la regulación de competencia, y que el recurso presentado no es admisible según la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "jurisdicción",
+    "constitucional",
+    "procedimiento",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre recurso de hecho interpuesto por Daniel Alexander Zapata Zuria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1188_E23-0693.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328392-1188-14823-2023-23-0693.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.861809"
+}

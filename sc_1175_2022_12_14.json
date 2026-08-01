@@ -1,0 +1,25 @@
+{
+  "id": 38034,
+  "numero": "1175",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO EL PROCEDIMIENTO, por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer del amparo constitucional interpuesto por Erol Oscar Emanuels Sperandio en representación de tres ciudadanos. Se determina que ha habido inactividad procesal por parte de la parte actora desde diciembre de 2018, lo que lleva a la conclusión de que no existe interés en continuar con el procedimiento. Por lo tanto, se declara terminado el procedimiento por abandono de trámite y se impone una multa a la parte accionante por entorpecer las labores del Tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido proceso",
+    "tutela judicial",
+    "inactividad",
+    "extinción de instancia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1175_E18-0833.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322009-1175-141222-2022-18-0833.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.156839"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34199,
+  "numero": "1307",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Henry José Armenta Ortega, quien alegó violaciones a sus derechos de tutela judicial efectiva y debido proceso. La acción fue presentada contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Apure, que había declarado inadmisible un recurso de apelación por extemporáneo. La Sala determinó que el demandante no acompañó la documentación necesaria para sustentar su pretensión, lo que llevó a la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "notificación",
+    "inadmisibilidad",
+    "derechos",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1307_E22-0368.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328511-1307-16823-2023-22-0368.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.227094"
+}

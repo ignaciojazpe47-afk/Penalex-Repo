@@ -1,0 +1,22 @@
+{
+  "id": 19998,
+  "numero": "0798",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la solicitud de revisión constitucional presentada por el abogado Carmine Romaniellos en representación de Salvatore Agostinelli, quien había sido condenado por lesiones personales intencionales. La Sala determinó que la solicitud no cumplía con los requisitos para la revisión, ya que no se evidenció una violación de derechos fundamentales ni un error grave en la valoración de pruebas por parte de la Corte de Apelaciones. Se reafirmó que la revisión constitucional es una facultad excepcional y no una nueva instancia de juicio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "lesiones personales",
+    "sentencia penal"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0798_E24-0669.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344276-0798-28525-2025-24-0669.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.849498"
+}

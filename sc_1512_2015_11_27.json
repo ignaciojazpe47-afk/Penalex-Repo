@@ -1,0 +1,23 @@
+{
+  "id": 67708,
+  "numero": "1512",
+  "fecha": "2015-11-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Lucía Capaldo y otros, en contra de presuntas violaciones a sus derechos fundamentales por parte de funcionarios del C.I.C.P.C. y del Ministerio Público. La acción se fundamentó en la práctica de allanamientos sin orden judicial y desalojo forzoso, alegando que estas acciones vulneraron sus derechos a la familia, vida, salud y educación, entre otros. La Sala, tras analizar los hechos, determinó que la acción de amparo era de carácter individual y no colectivo, declinando su competencia a un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "allanamiento",
+    "desalojo forzoso",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-27_S1512_E15-0895.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/183296-1512-271115-2015-15-0895.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:46.350100"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4361,
+  "numero": null,
+  "fecha": "2011-02-25",
+  "anio": 2011,
+  "sala": "SC",
+  "tipo_recurso": "Casacion Civil",
+  "materia": "Civil",
+  "decision": "NULA",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara nula la sentencia dictada el 04 de agosto de 2008 por el Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Lara, así como todas las actuaciones procesales realizadas posteriormente en el juicio por daños y perjuicios. Se establece que el conocimiento de la demanda debe ser asumido por un tribunal competente, dado que la causa involucra a niños y adolescentes, lo que requiere la intervención de los Juzgados de Protección de Niños, Niñas y Adolescentes.\n\nLa Sala también resalta la importancia de notificar a la Procuraduría General de la República en casos donde se vean afectados los intereses patrimoniales del Estado, y establece un criterio vinculante para todos los tribunales en relación a la paralización de causas que involucren empresas estatales sin la debida notificación a la Procuraduría. Finalmente, se ordena remitir el expediente a la Sala de Juicio del Tribunal de Protección de Niños, Niñas y Adolescentes para su conocimiento.\n\nLa decisión se fundamenta en la necesidad de garantizar los derechos constitucionales de los menores involucrados y asegurar que los procesos judiciales se realicen ante el juez natural competente, conforme a lo establecido en la legislación vigente.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre conflicto de competencia entre Salas del TSJ",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_2011_MendozaJover.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.553241"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 34043,
+  "numero": "1151",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por el abogado José Gabriel Carrasco Ramírez en representación de Joe Daniel Rebolledo Grimán. La acción se basa en la incongruencia omisiva y error inexcusable de una sentencia anterior dictada por la Sala Nº 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Carabobo. Tras revisar el caso, la Sala determina que ha habido abandono del trámite por parte del accionante, ya que no se ha realizado actuación procesal válida durante más de seis meses.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonos del trámite",
+    "derechos constitucionales",
+    "interés procesal",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1151_E20-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328308-1151-11823-2023-20-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.327908"
+}

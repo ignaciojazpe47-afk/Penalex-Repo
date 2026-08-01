@@ -1,0 +1,18 @@
+{
+  "id": 15104,
+  "numero": null,
+  "fecha": "2001-09-25",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la improcedencia de una demanda de amparo interpuesta por varias partes contra la negativa de un tribunal inferior de recibir diversos escritos. La Corte Primera de lo Contencioso Administrativo había declarado improcedente la demanda, lo que fue confirmado por la Sala Constitucional, argumentando que no hubo violación del derecho a la defensa ni del debido proceso, ya que los demandantes no fueron notificados adecuadamente en el procedimiento administrativo previo.\n\nLa Sala destacó que la negativa del tribunal a recibir los escritos presentados por los demandantes se subsume en el supuesto del artículo 51 de la Constitución, que establece la obligación de los tribunales de dar respuesta a las peticiones de los ciudadanos. Sin embargo, se consideró que la regulación obtenida en sede judicial podría ser objeto de un nuevo ajuste, y que la apelación de los demandantes era extemporánea.\n\nFinalmente, la Sala Constitucional confirmó la decisión de la Corte Primera, pero por diferentes motivos, enfatizando la importancia de la seguridad jurídica y el respeto a los procedimientos establecidos.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre la improcedencia de la demanda de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_a80d679566ea0f9c7391bc45deda9e63_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.448928"
+}

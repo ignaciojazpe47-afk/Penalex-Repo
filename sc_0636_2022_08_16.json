@@ -1,0 +1,26 @@
+{
+  "id": 36267,
+  "numero": "0636",
+  "fecha": "2022-08-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Mary Consuelo Ramírez Rosales, quien alegaba la omisión en la notificación de una sentencia dictada por el Juzgado Primero de Primera Instancia. Se argumenta que la acción fue presentada fuera del lapso de caducidad establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que transcurrieron más de seis meses desde la última notificación. La Sala concluye que no se evidencian violaciones que afecten el orden público o las buenas costumbres, lo que refuerza la inadmisibilidad de la acción.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "debido_proceso",
+    "competencia",
+    "notificación",
+    "sentencia",
+    "caducidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-16_S0636_E22-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319293-0636-16822-2022-22-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.549690"
+}

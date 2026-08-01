@@ -1,0 +1,22 @@
+{
+  "id": 11038,
+  "numero": null,
+  "fecha": "2008-01-29",
+  "anio": 2008,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Admitido",
+  "ponente": "Eladio Ramón Aponte Aponte",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia admitió el recurso de casación interpuesto por la defensa de Miguel Ángel Barrios Rivero, quien fue condenado por robo agravado. La defensa argumentó violaciones a la ley en la valoración de pruebas, específicamente en relación al reconocimiento en rueda de individuos, alegando que este acto fue realizado bajo un sistema inquisitivo y no respetó los principios de oralidad y contradicción. La Sala decidió convocar a una audiencia pública para continuar con el proceso.",
+  "palabras_clave": [
+    "casación",
+    "robo agravado",
+    "reconocimiento en rueda"
+  ],
+  "titulo": "Sentencia sobre recurso de casación en caso de robo agravado",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_c84b5e3a90cd34826436b00079d14701_RamonAponte.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:56.959353"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27191,
+  "numero": "0607",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio del Juzgado Noveno de Primera Instancia que se declaró incompetente para conocer de la acción de amparo constitucional interpuesta por Vilma Canelón. La Sala, tras analizar la situación, determinó que los Juzgados de Primera Instancia en materia Civil de la Circunscripción Judicial del Área Metropolitana de Caracas son los competentes para conocer del caso. Por lo tanto, la Sala se declaró incompetente y declinó el conocimiento del amparo al tribunal correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "tribunales",
+    "decreto",
+    "suspensión"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0607_E20-0253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338590-0607-61124-2024-20-0253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.463286"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27623,
+  "numero": "0870",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del TSJ se pronunció sobre un recurso de apelación interpuesto por el abogado Leonardo Pereira Meléndez en nombre de EDUARBER ALEXANDER MALDONADO GRANADOS, quien alegó la omisión de notificación de la sentencia condenatoria. La Corte de Apelaciones había declarado inadmisible el amparo, argumentando que la sentencia fue publicada dentro del plazo legal y que el acusado fue debidamente notificado. La Sala Constitucional, tras revisar el caso, determinó que no hubo violación de derechos y que la apelación era infundada.",
+  "palabras_clave": [
+    "amparo",
+    "notificación",
+    "debido proceso",
+    "sentencia",
+    "Corte de Apelaciones",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0870_E24-0147.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339060-0870-151124-2024-24-0147.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.204361"
+}

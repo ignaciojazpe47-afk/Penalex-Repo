@@ -1,0 +1,22 @@
+{
+  "id": 61290,
+  "numero": "1144",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de interpretación del artículo 227 de la Constitución de la República Bolivariana de Venezuela, que establece los requisitos para ser elegido Presidente de la República. El recurrente, Jaime Pájaro Novoa, argumentó que la redacción de la norma es ambigua, especialmente en lo que respecta a la doble nacionalidad, y solicitó una aclaratoria sobre su alcance. La Sala, tras analizar los argumentos, declaró su competencia y admitió el recurso, considerando que el artículo en cuestión requiere que el candidato a la presidencia no posea otra nacionalidad.",
+  "palabras_clave": [
+    "interpretación",
+    "nacionalidad",
+    "Presidencia"
+  ],
+  "titulo": "Sentencia sobre interpretación del artículo 227 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1144_E16-0275.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194075-1144-151216-2016-16-0275.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:41.097475"
+}

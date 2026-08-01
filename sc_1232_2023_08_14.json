@@ -1,0 +1,24 @@
+{
+  "id": 34125,
+  "numero": "1232",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 23 de julio de 2021, que declaró con lugar la nulidad de un acta de asamblea extraordinaria de la sociedad mercantil Inversiones Los Morros, C.A. La revisión fue solicitada por Milagros Cecilia Lourdes del Valle Irureta Ortiz, apoderada de Leonardo Martínez Spencer, quien argumentó que no se citó al representante legal de la sociedad demandada, lo que vulneró su derecho a la defensa y al debido proceso. La Sala encontró que la sentencia original incurrió en un error judicial al no garantizar la citación adecuada, lo que llevó a la anulación de la decisión anterior y a la reposición del juicio para practicar la debida citación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad",
+    "acta de asamblea",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de acta de asamblea extraordinaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1232_E22-0856.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328436-1232-14823-2023-22-0856.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.867300"
+}

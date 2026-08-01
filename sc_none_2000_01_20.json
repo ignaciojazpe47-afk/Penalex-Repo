@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "numero": null,
+  "fecha": "2000-01-20",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos de asilo y refugio",
+  "decision": "INADMISIBLE",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Domingo Gustavo Ramírez Monja, quien alegaba la amenaza de violación de sus derechos de asilo y refugio, así como la obtención de la ciudadanía venezolana. El demandante no presentó pruebas suficientes que evidenciaran la existencia de una amenaza inminente a sus derechos, ni demostró haber solicitado asilo ante las autoridades competentes. Además, se constató que había acciones de amparo previas en curso por los mismos hechos, lo que también llevó a la inadmisibilidad de la nueva solicitud. La decisión se fundamenta en la falta de elementos que justifiquen la urgencia de la medida solicitada y en la naturaleza del amparo constitucional, que no puede ser utilizado para crear un nuevo estatus jurídico.",
+  "palabras_clave": [
+    "amparo",
+    "derechos humanos",
+    "asilo",
+    "ciudadanía",
+    "inadmisibilidad",
+    "justicia",
+    "Venezuela",
+    "constitucional"
+  ],
+  "titulo": "Inadmisibilidad de acción de amparo por falta de pruebas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-01-20_Constitucional_00_UrdanetaEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.684604"
+}

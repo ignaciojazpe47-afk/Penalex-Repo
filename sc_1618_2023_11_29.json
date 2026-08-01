@@ -1,0 +1,24 @@
+{
+  "id": 33109,
+  "numero": "1618",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Ana Maguin Oropeza Mendoza, quien impugnó una sentencia del Juzgado Segundo Superior del Trabajo de Lara que declaró sin lugar su demanda por cobro de prestaciones sociales. La Sala determinó que la demandante no logró desvirtuar la presunción de laboralidad, ya que la relación alegada era mercantil y no laboral, conforme a las pruebas presentadas. Finalmente, se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "prestaciones sociales",
+    "C.A. Cervecería Regional",
+    "relación laboral"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1618_E22-0950.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330785-1618-291123-2023-22-0950.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.999926"
+}

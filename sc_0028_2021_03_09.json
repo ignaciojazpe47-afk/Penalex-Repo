@@ -1,0 +1,23 @@
+{
+  "id": 38249,
+  "numero": "0028",
+  "fecha": "2021-03-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala Constitucional, revisó la acción de amparo constitucional interpuesta por Jorge Félix Caro Meza contra la sentencia dictada el 6 de octubre de 2017 por el Juzgado Superior Agrario de Yaracuy. La Sala constató que el Juzgado de Alzada incurrió en falta de motivación y en el vicio de silencio de pruebas al no valorar adecuadamente las testimoniales presentadas, lo que vulneró los derechos al debido proceso y a la defensa del demandante. En consecuencia, se anuló la decisión impugnada y se ordenó a otro Juzgado Superior emitir un nuevo pronunciamiento sobre la apelación interpuesta.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "due process",
+    "testimoniales",
+    "Yaracuy"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-09_S0028_E18-0194.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311441-0028-9321-2021-18-0194.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.759970"
+}

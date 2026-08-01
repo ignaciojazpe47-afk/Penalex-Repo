@@ -1,0 +1,27 @@
+{
+  "id": 34092,
+  "numero": "1199",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por los abogados de Antony Stiwart Gastello Campo, en relación con la sentencia de la Sala de Casación Penal que declaró inadmisible la solicitud de avocamiento. La decisión se fundamenta en la falta de representación adecuada, ya que los abogados no presentaron el mandato correspondiente que acreditara su condición de apoderados judiciales. La Sala enfatiza la importancia de cumplir con los requisitos legales para la admisibilidad de tales solicitudes.",
+  "palabras_clave": [
+    "jurisdicción",
+    "avocamiento",
+    "homicidio",
+    "derechos",
+    "competencia",
+    "justicia",
+    "constitucional",
+    "militar"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1199_E22-0929.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328403-1199-14823-2023-22-0929.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.876122"
+}

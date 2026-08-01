@@ -1,0 +1,18 @@
+{
+  "id": 64321,
+  "numero": "703",
+  "fecha": "2015-06-04",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por ciudadanos contra el Ministro del Poder Popular para el Turismo, Andrés Izarra, debido a la ejecución del 'Plan Maestro de Desarrollo Turístico de Playa El Agua'. Los demandantes alegaron violaciones a sus derechos fundamentales y la falta de consulta pública en el proceso. El Tribunal Superior de lo Contencioso Administrativo declinó la competencia a la Sala Constitucional, que aceptó dicha declinatoria y se declaró competente para conocer el caso.\n\nSin embargo, la Sala Constitucional declaró inadmisible la acción de amparo, argumentando que existía un medio judicial ordinario, como el recurso de nulidad, que los demandantes podían utilizar para cuestionar la legalidad del acto administrativo impugnado. La Sala enfatizó que el juez constitucional no está facultado para crear o modificar situaciones jurídicas, y que la acción de amparo no era el mecanismo adecuado en este caso.\n\nFinalmente, la Sala decidió aceptar la declinatoria de competencia y declarar inadmisible la acción de amparo constitucional interpuesta, ordenando la publicación y registro de la decisión.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta contra el Ministro del Poder Popular para el Turismo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-04_S703_E15-0297.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178184-703-4615-2015-15-0297.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.333877"
+}

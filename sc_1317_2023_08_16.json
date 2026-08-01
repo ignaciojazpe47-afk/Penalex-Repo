@@ -1,0 +1,25 @@
+{
+  "id": 34209,
+  "numero": "1317",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por el abogado Francisco Andrés Briceño Fernández en representación de José Enrique Monrroy Ferrer. La acción fue presentada contra decisiones de la Sala Tercera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia, que admitieron un recurso de apelación y revocaron una decisión anterior que otorgaba arresto domiciliario al demandado.\n\nSe determina que ha habido abandono del trámite por parte del accionante, ya que no se realizaron actuaciones en el expediente durante más de seis meses. Por lo tanto, se declara terminado el procedimiento y se impone una multa a la parte actora por el abandono del trámite, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nFinalmente, se ordena la publicación, registro y notificación de la decisión, así como el archivo del expediente.",
+  "palabras_clave": [
+    "extorsión",
+    "medidas cautelares",
+    "derechos humanos",
+    "justicia penal",
+    "delitos",
+    "fundamentación judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1317_E21-0524.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328521-1317-16823-2023-21-0524.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.225516"
+}

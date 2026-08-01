@@ -1,0 +1,26 @@
+{
+  "id": 34347,
+  "numero": "0027",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "Se ORDENA",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer del recurso de apelación interpuesto por Juvenal José Ramos Villafranca contra una sentencia que declaró inadmisible su acción de amparo. Se establece que la apelación fue presentada fuera del lapso legal, lo que lleva a la Sala a requerir al Tribunal Superior que remita el cómputo de los días hábiles para verificar la oportunidad del recurso. Finalmente, se ordena la notificación correspondiente y se publica la decisión.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "competencia",
+    "tribunales",
+    "justicia",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0027_E20-0170.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315539-0027-11222-2022-20-0170.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.719720"
+}

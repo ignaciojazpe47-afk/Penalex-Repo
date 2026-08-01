@@ -1,0 +1,27 @@
+{
+  "id": 29980,
+  "numero": "0389",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Jorge José Bastidas Perdomo, quien cuestionó la decisión del Juzgado Superior Undécimo que declaró sin lugar su apelación contra el fallo que decretó su divorcio por desafecto. El tribunal determinó que el procedimiento seguido fue el adecuado y que no se requería el consentimiento del otro cónyuge para la declaración de divorcio en este caso, dado que se trataba de un procedimiento no contencioso. La Sala concluyó que no se configuraron las violaciones denunciadas y que el solicitante participó activamente en el proceso, por lo que se declaró improcedente la acción de amparo y se confirmó la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "divorcio",
+    "amparo",
+    "jurisdicción",
+    "debido proceso",
+    "derechos constitucionales",
+    "jurisprudencia",
+    "Código Civil",
+    "Código Procedimiento Civil"
+  ],
+  "titulo": "Revisión Constitucional sobre solicitud de divorcio por desafecto",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0389_E23-0004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324659-0389-28423-2023-23-0004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.049553"
+}

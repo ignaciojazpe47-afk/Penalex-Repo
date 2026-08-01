@@ -1,0 +1,25 @@
+{
+  "id": 21417,
+  "numero": "1277",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "ANULA DE OFICIO, la decisión dictada el 27 de septiembre de 2024, por el Juzgado Tercero Superior del Trabajo de la Circunscripción Judicial del Estado Anzoátegui, Extensión El Tigre.",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia relacionado con una acción de amparo constitucional presentada por varios ciudadanos contra un juzgado de trabajo. La acción se originó por la negativa del juzgado a fijar la oportunidad para la ejecución de una orden de reenganche. La Sala declaró que no existía conflicto de competencia y anuló la decisión del Juzgado Tercero Superior que había anulado un fallo anterior del Juzgado Segundo de Primera Instancia, el cual se había declarado incompetente para conocer el caso. Finalmente, se ordenó la remisión del expediente al Juzgado Tercero Superior del Trabajo para su conocimiento.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "tribunales",
+    "derechos",
+    "garantías",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1277_E24-0977.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346932-1277-6825-2025-24-0977.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.772013"
+}

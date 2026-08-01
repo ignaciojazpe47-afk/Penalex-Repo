@@ -1,0 +1,22 @@
+{
+  "id": 34066,
+  "numero": "1173",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la revisión constitucional solicitada por los abogados de Pablo Vicente Muñoz Aguanés, quien impugnaba una decisión del Tribunal Segundo Superior del Trabajo. La Sala determinó que la falta de presentación del poder original o copia certificada de los apoderados judiciales era causal de inadmisibilidad, conforme a la Ley Orgánica del Tribunal Supremo de Justicia. La decisión se fundamenta en la necesidad de verificar la representación legal en los procesos de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1173_E23-0179.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328377-1173-14823-2023-23-0179.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.862908"
+}

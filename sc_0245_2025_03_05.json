@@ -1,0 +1,24 @@
+{
+  "id": 18699,
+  "numero": "0245",
+  "fecha": "2025-03-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Enrique Cerrada Pargas en representación de Wilmer Antonio Gudiño Pulido. La solicitud fue motivada por la supuesta falta de respuesta del tribunal de juicio en un caso de abuso sexual. La Sala, tras analizar la situación, se declaró incompetente para conocer del avocamiento y decidió remitir el expediente a la Sala de Casación Penal.",
+  "palabras_clave": [
+    "avocamiento",
+    "justicia",
+    "derechos humanos",
+    "proceso penal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-05_S0245_E24-0645.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342123-0245-5325-2025-24-0645.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.875957"
+}

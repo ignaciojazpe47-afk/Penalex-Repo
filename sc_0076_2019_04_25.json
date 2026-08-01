@@ -1,0 +1,26 @@
+{
+  "id": 42593,
+  "numero": "0076",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Juan José Mendoza Jover, decidió no ha lugar la solicitud de revisión constitucional interpuesta por Eduardo Antonio Hernández Bracho en representación de Asmel Antonio Hernández Ferrebus. La solicitud se basaba en la impugnación de una sentencia del Juzgado Segundo de Primera Instancia en función de Control del Circuito Judicial Penal del Estado Zulia, que había declarado el sobreseimiento de una investigación penal por considerar que los hechos denunciados no revisten carácter penal.",
+  "palabras_clave": [
+    "sobreseimiento",
+    "derecho a la defensa",
+    "Código Orgánico Procesal Penal",
+    "pruebas",
+    "jurisdicción",
+    "pensión",
+    "testigos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0076_E18-0552.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304622-0076-25419-2019-18-0552.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.598991"
+}

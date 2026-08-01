@@ -1,0 +1,23 @@
+{
+  "id": 43150,
+  "numero": "0153",
+  "fecha": "2019-06-18",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión N° 577 de la Sala de Casación Civil, que declaró inadmisible la demanda de cumplimiento parcial de contrato de venta de acciones interpuesta por Ransses Rafael Rodríguez Muñoz. La Sala consideró que la existencia de una transacción extrajudicial entre las partes tenía carácter de cosa juzgada, lo que justificaba la inadmisibilidad de la demanda. La Sala Constitucional concluyó que la decisión de la Sala de Casación Civil no contradecía principios constitucionales y que la revisión solicitada no era procedente, ya que no se evidenció un quebrantamiento de derechos fundamentales ni un error en la interpretación de la ley.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "inadmisibilidad",
+    "transacción extrajudicial"
+  ],
+  "titulo": "Revisión de la decisión N° 577 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-06-18_S0153_E17-1257.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/305597-0153-18619-2019-17-1257.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.846171"
+}

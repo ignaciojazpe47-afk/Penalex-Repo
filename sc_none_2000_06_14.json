@@ -1,0 +1,24 @@
+{
+  "id": 15069,
+  "numero": null,
+  "fecha": "2000-06-14",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre un recurso de interpretación presentado por tres ciudadanos en relación al artículo 188 de la Constitución, que establece las condiciones para ser elegido diputado. La solicitud busca aclarar el sentido de la norma, enfatizando la importancia de la residencia en la entidad correspondiente antes de la elección. La Sala reafirma su competencia para interpretar normas constitucionales y destaca la necesidad de que las interpretaciones sean vinculantes para garantizar la seguridad jurídica.",
+  "palabras_clave": [
+    "Interpretación",
+    "Constitución",
+    "Diputados",
+    "Residencia",
+    "Derechos Electorales"
+  ],
+  "titulo": "Recurso de Interpretación sobre el artículo 188 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_a39d9ea172b882137295718c94a5c779.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.730787"
+}

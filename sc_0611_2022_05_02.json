@@ -1,0 +1,23 @@
+{
+  "id": 36242,
+  "numero": "0611",
+  "fecha": "2022-05-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Impropio",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de regulación de competencia interpuesto por Michel Mazloum, quien solicitó el restablecimiento de su situación jurídica como Presidente de la empresa Corporación 3C, C.A. La acción de amparo fue planteada debido a que sus socios le negaron el acceso a las instalaciones de la empresa, alegando que ya no era accionista ni Presidente, lo que consideró una violación de sus derechos. El Juzgado Primero de Primera Instancia en lo Civil, Mercantil y Tránsito había declarado su incompetencia para conocer el caso, declinando la competencia a los tribunales penales, lo que fue considerado erróneo por la Sala Constitucional.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Regulación de Competencia",
+    "Derechos Constitucionales",
+    "Corporación 3C"
+  ],
+  "titulo": "Decisión sobre recurso de regulación de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-12_S0611_E20-0185.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/319268-0611-12822-2022-20-0185.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.430958"
+}

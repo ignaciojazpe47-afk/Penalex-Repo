@@ -1,0 +1,22 @@
+{
+  "id": 18285,
+  "numero": "0081",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Manuel Torruella Seijas, quien impugnó la sentencia de la Corte de Apelaciones que declaró la nulidad de un juicio por delitos de violencia. La Corte de Apelaciones había argumentado que la sentencia de primera instancia era inmotivada y contradictoria. Sin embargo, la Sala Constitucional determinó que no había lugar para la revisión, confirmando la decisión de la Corte de Apelaciones y señalando que no se evidenció violación de principios constitucionales.",
+  "palabras_clave": [
+    "nulidad",
+    "violencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de juicio por violencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0081_E24-0772.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341343-0081-7225-2025-24-0772.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.551870"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20812,
+  "numero": "1070",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la revisión constitucional solicitada por Yarelis Beatriz Sánchez Peña, quien impugna una sentencia que declaró inadmisible su acción de amparo constitucional. La decisión de la Sala se basa en la alegación de violaciones a sus derechos humanos y al debido proceso durante el procedimiento de desalojo arbitrario en su contra. La Sala considera que la citación telefónica realizada no cumplió con los requisitos legales, lo que justifica la revisión de la sentencia anterior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo arbitrario",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo arbitrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1070_E24-1175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345832-1070-9725-2025-24-1175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.502816"
+}

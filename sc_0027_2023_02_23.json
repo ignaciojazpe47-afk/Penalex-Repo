@@ -1,0 +1,22 @@
+{
+  "id": 28907,
+  "numero": "0027",
+  "fecha": "2023-02-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 23 de febrero de 2023, declaró improcedente la solicitud de avocamiento presentada por la ciudadana Daniela Alexandra Silva Palacios. La solicitud se fundamentaba en la alegación de violaciones a sus derechos constitucionales en procesos penales relacionados con su cónyuge, quien había sido víctima de defraudación. La Sala determinó que no se cumplían los requisitos necesarios para el avocamiento, ya que no se evidenció un desorden procesal que justificara la intervención del Tribunal Supremo.",
+  "palabras_clave": [
+    "avocamiento",
+    "defraudación",
+    "derechos constitucionales"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-02-23_S0027_E22-0351.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/322825-0027-23223-2023-22-0351.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.293560"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 40594,
+  "numero": "0719",
+  "fecha": "2021-12-03",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó una solicitud de revisión constitucional presentada por Maitée Marín y Gustavo Buitriago contra una sentencia del Juzgado Superior Primero en lo Civil que declaró sin lugar una apelación relacionada con un desalojo. La Sala encontró contradicciones en la motivación de la decisión impugnada, especialmente en lo que respecta a la duración de la relación arrendaticia y la prórroga legal. En consecuencia, se decidió anular la sentencia y reponer la causa para que se dicte una nueva decisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "motivación",
+    "contradicción",
+    "contrato",
+    "Código Civil",
+    "justicia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-03_S0719_E19-0277.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/314959-0719-31221-2021-19-0277.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.739938"
+}

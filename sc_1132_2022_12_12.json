@@ -1,0 +1,25 @@
+{
+  "id": 37887,
+  "numero": "1132",
+  "fecha": "2022-12-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Lucy Dinorah Mijares Montenegro solicitó la revisión constitucional de una sentencia dictada en 2018 por el Juzgado Superior Primero en lo Civil, Mercantil, Bancario y del Tránsito del Estado Aragua, en un juicio por cumplimiento de contrato de opción de compra venta. La Sala Constitucional, tras analizar los argumentos presentados, concluyó que no se evidenció el desconocimiento de criterios interpretativos de normas constitucionales ni la vulneración de derechos fundamentales de la solicitante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "defensa",
+    "citación",
+    "apoderado",
+    "sentencia",
+    "contrato"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en caso de cumplimiento de contrato de opción de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-12_S1132_E22-0337.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321798-1132-121222-2022-22-0337.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.414103"
+}

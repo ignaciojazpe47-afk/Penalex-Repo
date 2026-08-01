@@ -1,0 +1,25 @@
+{
+  "id": 32949,
+  "numero": "1518",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de interpretación interpuesto por el abogado Nelson Antonio Páez Castro en nombre de Oliver Dax Gutiérrez Castellanos, respecto al artículo 134 de la Ley Constitucional de la Fuerza Armada Nacional Bolivariana. La Sala determinó que no se cumplían los requisitos de admisibilidad, ya que el recurrente no demostró un interés jurídico actual y legítimo, ni precisó la oscuridad o ambigüedad de la norma en cuestión.\n\nLa decisión se fundamenta en la falta de conexión con un caso concreto y en la insuficiencia del escrito de solicitud para señalar un supuesto de hecho concreto. La Sala, al declarar la inadmisibilidad del recurso, reafirma su competencia para interpretar normas constitucionales, pero establece que el recurso no puede ser utilizado como una acción popular, sino que debe estar fundamentado en un interés jurídico específico.\n\nFinalmente, la Sala declara que es competente para conocer del recurso, pero lo considera inadmisible, ordenando su archivo y cumplimiento de lo decidido.",
+  "palabras_clave": [
+    "interpretacion",
+    "derechos humanos",
+    "fuerza armada",
+    "jurisdiccion",
+    "constitucion",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre recurso de interpretación del artículo 134 de la Ley Constitucional de la Fuerza Armada Nacional Bolivariana",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1518_E21-0597.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330572-1518-231123-2023-21-0597.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.431542"
+}

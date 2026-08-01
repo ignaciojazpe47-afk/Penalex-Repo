@@ -1,0 +1,26 @@
+{
+  "id": 38082,
+  "numero": "1205",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado José Gregorio Delgado Zambrano en representación de Daniel Gregorio Astudillo Espinoza, debido a la falta de ratificación personal de la acción dentro del plazo establecido. La decisión se fundamenta en la interpretación del artículo 16 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, que exige la ratificación personal de la acción interpuesta por medios telegráficos o electrónicos.",
+  "palabras_clave": [
+    "amparo",
+    "justicia",
+    "derechos",
+    "garantías",
+    "internet",
+    "ratificación",
+    "normativa"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1205_E20-0347.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322097-1205-151222-2022-20-0347.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.129377"
+}

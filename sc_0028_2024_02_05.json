@@ -1,0 +1,25 @@
+{
+  "id": 24081,
+  "numero": "0028",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con un recurso de amparo constitucional interpuesto por Andrés Avelino Nacero Alvarado, contra la omisión de pronunciamiento del Juzgado Cuarto de Primera Instancia en Funciones de Control de Audiencias y Medidas. El caso se origina de una denuncia de violencia contra la mujer, donde se argumenta que la Fiscalía no actuó dentro de los plazos establecidos por la ley, vulnerando el debido proceso del demandante.\n\nLa Sala, tras analizar los argumentos presentados, decidió ordenar a la Presidencia del Circuito Judicial Penal del Área Metropolitana de Caracas que informe sobre el estado actual de la causa y las medidas cautelares aplicadas al ciudadano Nacero Alvarado. Se establece un plazo de cinco días hábiles para el cumplimiento de esta orden, advirtiendo sobre las sanciones en caso de incumplimiento.\n\nFinalmente, la decisión fue firmada por la Presidenta de la Sala, Tania D’Amelio Cardiet, junto con los demás magistrados, y se ordenó su publicación y notificación correspondiente.",
+  "palabras_clave": [
+    "debido proceso",
+    "omisión de pronunciamiento",
+    "violencia contra la mujer",
+    "fiscalía",
+    "justicia",
+    "medidas cautelares"
+  ],
+  "titulo": "Sentencia sobre omisión de pronunciamiento en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0028_E21-0468.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332380-0028-5224-2024-21-0468.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.825686"
+}

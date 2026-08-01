@@ -1,0 +1,25 @@
+{
+  "id": 37220,
+  "numero": "0918",
+  "fecha": "2022-11-04",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Carlos Enrique Núñez Morón contra la decisión del Juzgado Superior en lo Civil, Mercantil y Tránsito de Anzoátegui, que declaró inadmisibles las acciones de amparo. La Sala confirmó la inadmisibilidad, argumentando que el agraviado no había ejercido los recursos ordinarios disponibles, lo que llevó a declarar sin lugar el recurso de apelación. La decisión se fundamentó en la falta de ejercicio de la apelación por parte de la madre del recurrente, quien era la parte agraviada en el juicio original.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "recursos ordinarios",
+    "sentencia firme"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-04_S0918_E16-1167.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320606-0918-41122-2022-16-1167.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.406928"
+}

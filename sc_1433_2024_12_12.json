@@ -1,0 +1,23 @@
+{
+  "id": 28602,
+  "numero": "1433",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado José Daniel Linares en nombre de Rommel Gilberto Guerrero Galindo. La decisión se basa en que ya existió un pronunciamiento adecuado sobre la inadmisibilidad del recurso de casación interpuesto, el cual fue declarado extemporáneo por la Sala de Casación Penal. La Sala Constitucional reafirma su competencia para conocer la solicitud, pero concluye que no se cumplen los requisitos necesarios para su admisión.",
+  "palabras_clave": [
+    "avocamiento",
+    "inadmisible",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Solicitud de avocamiento inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1433_E23-0114.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340626-1433-121224-2024-23-0114.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.822836"
+}

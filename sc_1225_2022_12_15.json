@@ -1,0 +1,24 @@
+{
+  "id": 38102,
+  "numero": "1225",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer del amparo constitucional interpuesto por la sociedad mercantil ABASTECIMIENTO Y LOGÍSTICA AGROPECUARIO AL AGRO, C.A. contra la sentencia del Tribunal Superior Segundo del Trabajo de Aragua. Sin embargo, se determina que la parte actora ha mostrado inactividad durante más de seis meses, lo que se considera abandono del trámite. Por lo tanto, se declara terminado el procedimiento por esta causa y se impone una multa a la parte accionante por el entorpecimiento de las labores del tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "inactividad procesal",
+    "derechos fundamentales",
+    "abandonos de trámite"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1225_E18-0219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322117-1225-151222-2022-18-0219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.130346"
+}

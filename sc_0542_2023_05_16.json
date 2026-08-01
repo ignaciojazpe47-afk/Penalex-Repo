@@ -1,0 +1,25 @@
+{
+  "id": 30324,
+  "numero": "0542",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por Alexander José Martineau Cedeño contra Erika Farías, Alcaldesa del Municipio Libertador. La Sala argumenta que la competencia para conocer de este tipo de acciones corresponde a los tribunales contencioso-administrativos, dado que se trata de una orden de desalojo y demolición de la vivienda del accionante. Además, se declara terminado el procedimiento por abandono del trámite, ya que la parte actora no realizó actuaciones procesales válidas durante más de seis meses.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos",
+    "funcionarios",
+    "justicia",
+    "administrativa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0542_E20-0204.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325172-0542-16523-2023-20-0204.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.862666"
+}

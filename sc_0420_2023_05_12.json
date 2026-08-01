@@ -1,0 +1,25 @@
+{
+  "id": 30179,
+  "numero": "0420",
+  "fecha": "2023-05-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia de Venezuela admitió la acción de amparo interpuesta por Camilla Fabri, esposa del Enviado Especial Alex Nain Saab Morán, contra su detención ilegal por parte de los gobiernos de Cabo Verde y Estados Unidos. La Sala destacó que Saab goza de inmunidades diplomáticas y que su detención contraviene la Convención de Viena sobre Relaciones Diplomáticas. Se exhortó al Ejecutivo Nacional a exigir el respeto a estas inmunidades y a continuar las acciones necesarias para la liberación de Saab.",
+  "palabras_clave": [
+    "Alex Nain Saab Morán",
+    "detención ilegal",
+    "inmunidad diplomática",
+    "Cabo Verde",
+    "Estados Unidos",
+    "acción de amparo"
+  ],
+  "titulo": "Sentencia sobre la detención ilegal del Enviado Especial Alex Nain Saab Morán",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-12_S0420_E23-0208.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325017-0420-12523-2023-23-0208.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.046169"
+}

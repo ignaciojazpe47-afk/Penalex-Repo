@@ -1,0 +1,26 @@
+{
+  "id": 20370,
+  "numero": "0921",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión de la sentencia n° 23-0442, dictada el 25 de mayo de 2023, por el Juzgado Nacional Primero Contencioso Administrativo. En esta sentencia, se declaró inadmisible la demanda de prescripción adquisitiva interpuesta por el abogado Gustavo Enrique Crócker Romero, quien alegó no haber sido notificado adecuadamente en el procedimiento administrativo previo a la demanda judicial.\nLa Sala, tras analizar los argumentos presentados, concluyó que no se evidenció un error de interpretación de la norma constitucional ni se contravinieron principios jurídicos fundamentales. Por lo tanto, se declaró competente para conocer la solicitud de revisión, pero se decidió que no había lugar a la misma, manteniendo la inadmisibilidad de la demanda original.\nFinalmente, se hizo un llamado a los abogados litigantes sobre la importancia de respetar los procedimientos administrativos y evitar conductas que entorpezcan la administración de justicia.",
+  "palabras_clave": [
+    "competencia",
+    "inadmisibilidad",
+    "antejuicio administrativo",
+    "procedimiento administrativo",
+    "demandas patrimoniales",
+    "FOGADE",
+    "Ley Orgánica de la Procuraduría"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0921_E24-0656.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344882-0921-17625-2025-24-0656.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.310657"
+}

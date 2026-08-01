@@ -1,0 +1,24 @@
+{
+  "id": 22111,
+  "numero": "1544",
+  "fecha": "2025-10-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jesús Manuel Silva Rivas, argumentando inepta acumulación de pretensiones. Silva Rivas solicitó la suspensión de actos procesales relacionados con una audiencia judicial de imputación y un avocamiento de la causa penal en su contra, alegando violaciones a sus derechos constitucionales. Sin embargo, la Sala determinó que la demanda no era competente para conocer de la solicitud de amparo, ya que correspondía a una Corte de Apelaciones del Circuito Judicial Penal.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisible",
+    "Derechos Constitucionales",
+    "Audiencia Judicial",
+    "Imputación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-06_S1544_E20-0105.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348290-1544-61025-2025-20-0105.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.191074"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 38158,
+  "numero": "0002",
+  "fecha": "2021-01-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la constitucionalidad del Decreto N° 4.413, dictado por el Presidente de la República, que establece el Estado de Excepción de Alarma en todo el territorio nacional debido a la pandemia de COVID-19. Se argumenta que el decreto cumple con los principios y normas de la Constitución y de la Ley Orgánica sobre Estados de Excepción, garantizando la protección de la salud pública y la seguridad de los ciudadanos.",
+  "palabras_clave": [
+    "Estado de Excepción",
+    "COVID-19",
+    "Constitucionalidad",
+    "Decreto 4.413"
+  ],
+  "titulo": "Declaración de constitucionalidad del Decreto 4.413 sobre Estado de Excepción de Alarma",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-01-14_S0002_E21-0003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/311233-0002-14121-2021-21-0003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.386926"
+}

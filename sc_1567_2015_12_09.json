@@ -1,0 +1,24 @@
+{
+  "id": 67974,
+  "numero": "1567",
+  "fecha": "2015-12-09",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la desaplicación del artículo 310.3 del Código Orgánico Procesal Penal realizada por el Juzgado Cuadragésimo Tercero, que afectaba el derecho a ser oído del imputado. La Sala determinó que la desaplicación no se ajustaba a derecho, ya que el Juez no garantizó la comparecencia del imputado en la audiencia preliminar, lo que contraviene el debido proceso. Se anula la decisión del Juzgado y se ordena la celebración de una nueva audiencia preliminar con la presencia del imputado.",
+  "palabras_clave": [
+    "control difuso",
+    "derecho a ser oído",
+    "audiencia preliminar",
+    "Código Orgánico Procesal Penal",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre desaplicación de norma procesal penal por control difuso de constitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-09_S1567_E14-1247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183627-1567-91215-2015-14-1247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.623962"
+}

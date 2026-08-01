@@ -1,0 +1,23 @@
+{
+  "id": 16713,
+  "numero": "0495",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Julio César Galarza, quien alegaba violaciones a sus derechos fundamentales en el proceso de extradición. La decisión se basa en que no se verificó la existencia de una amenaza inminente y realizable contra sus derechos, lo que es un requisito esencial para la admisibilidad del amparo. La Sala concluye que la negativa del Tribunal Primero de Control a permitir la juramentación de los abogados no constituyó una violación a los derechos alegados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derecho a la defensa",
+    "extradición"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0495_E26-0005.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354946-0495-14426-2026-26-0005.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.015822"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35307,
+  "numero": "0282",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Calixto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por Arnaldo Cristóbal Quintín Rodríguez, quien impugnó la decisión del Juzgado Superior Segundo del Trabajo que declaró sin lugar su recurso de apelación. La Sala consideró que la revisión no constituye una nueva instancia y que el juzgado actuó conforme a derecho al desechar las pruebas testimoniales presentadas por el solicitante, argumentando que los testigos tenían interés en la causa.",
+  "palabras_clave": [
+    "responsabilidad solidaria",
+    "vicio de silencio",
+    "prueba testimonial",
+    "derechos procesales",
+    "debido proceso",
+    "valoración de pruebas"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0282_E17-0653.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317734-0282-7722-2022-17-0653.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.236256"
+}

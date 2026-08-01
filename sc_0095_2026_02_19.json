@@ -1,0 +1,24 @@
+{
+  "id": 17553,
+  "numero": "0095",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Extinción de la instancia por pérdida de interés procesal",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de nulidad parcial por inconstitucionalidad interpuesto por varios ciudadanos contra el artículo 5 de la Ordenanza de Actividades Económicas del Municipio Chacao. La Sala declaró su competencia para conocer del recurso, pero posteriormente constató la pérdida de interés procesal de los recurrentes, quienes no realizaron actos en el proceso durante más de un año. Por lo tanto, se decidió la extinción de la instancia por dicha pérdida de interés.",
+  "palabras_clave": [
+    "interés procesal",
+    "inactividad",
+    "extinción de la acción",
+    "justicia",
+    "constitucionalidad"
+  ],
+  "titulo": "Sentencia sobre nulidad parcial por inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0095_E23-0221.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352783-0095-19226-2026-23-0221.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.398274"
+}

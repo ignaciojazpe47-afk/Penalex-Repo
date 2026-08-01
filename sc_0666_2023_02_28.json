@@ -1,0 +1,22 @@
+{
+  "id": 30620,
+  "numero": "0666",
+  "fecha": "2023-02-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 416, en la que se ordena la remisión del expediente al Tribunal de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes del Estado Yaracuy para continuar con la ejecución del mandamiento de amparo constitucional. Esta decisión se basa en la consulta previa establecida en la sentencia N° 145 de 2019 y en los fallos números 138 y 245 de 2014, que establecen el procedimiento a seguir en estos casos.\n\nLa sentencia se fundamenta en la necesidad de garantizar la protección de los derechos de los niños y adolescentes involucrados, y se destaca la importancia de que los tribunales sigan el procedimiento establecido para la ejecución de los mandamientos de amparo. La decisión fue firmada por la Magistrada Michel Adriana Velásquez Grillet, quien actuó como ponente en este caso.\n\nSe resalta que la Sala Constitucional se reconstituyó y se realizaron cambios en su composición, lo que refleja la dinámica del Tribunal Supremo de Justicia y su compromiso con la protección de los derechos fundamentales en el país.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "protección de niños",
+    "sentencia vinculante"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0666_E20-0007.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325754-0666-30523-2023-20-0007.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.288383"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34324,
+  "numero": "0003",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Maryori Isabel Velásquez contra la sentencia del 31 de enero de 2019, dictada por el Juzgado Superior Sexto en lo Civil, Mercantil, Tránsito y Bancario. La Sala argumenta que la acción de amparo no es un medio para revisar errores de juzgamiento de los tribunales de instancia, sino para proteger derechos y garantías constitucionales. Se concluye que el juzgado actuó dentro de su competencia y no violó derechos constitucionales.",
+  "palabras_clave": [
+    "arrendamiento",
+    "debido proceso",
+    "tutela judicial",
+    "incongruencia negativa",
+    "medida cautelar",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0003_E19-0322.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315515-0003-11222-2022-19-0322.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.712881"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 37446,
+  "numero": "1002",
+  "fecha": "2022-11-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por la abogada Adriana Pacheco Hernández en representación de la Sociedad Mercantil “AGROPECUARIA VILMA CECILIA, C.A.”, contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa. La acción fue declarada improcedente in limine litis, ya que no se cumplieron los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nLa Sala consideró que la solicitud de amparo no cumplía con los criterios vinculantes establecidos para su procedencia, ya que no se evidenció la usurpación de funciones o abuso de poder por parte del tribunal que dictó la decisión impugnada. Se destacó que la acción de amparo solo puede ser procedente si se demuestra que el tribunal actuó fuera de su competencia o violó derechos constitucionales, lo cual no se comprobó en este caso.\n\nFinalmente, la Sala se declaró competente para conocer de la acción, pero concluyó que la misma era improcedente, ordenando su archivo y notificando a las partes involucradas.",
+  "palabras_clave": [
+    "amparo",
+    "nulidad",
+    "derechos",
+    "proceso penal",
+    "sentencia",
+    "audiencia"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-17_S1002_E22-0670.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320851-1002-171122-2022-22-0670.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.347403"
+}

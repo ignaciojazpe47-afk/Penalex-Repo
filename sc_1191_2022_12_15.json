@@ -1,0 +1,24 @@
+{
+  "id": 38068,
+  "numero": "1191",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Grupo GECC, C.A. contra la decisión del Juzgado Superior Octavo que admitió una acción de amparo. La Sala revocó la sentencia apelada, declarando inadmisible la acción de amparo interpuesta por José Rafael Mata Pérez en representación de Josian Nayith García, argumentando que existían medios ordinarios para impugnar el laudo arbitral. La decisión se fundamentó en la violación de derechos constitucionales y en la distorsión del procedimiento arbitral.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "tribunal arbitral",
+    "Cámara de Arbitraje",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1191_E22-0699.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322083-1191-151222-2022-22-0699.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.309768"
+}

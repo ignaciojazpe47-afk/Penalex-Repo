@@ -1,0 +1,25 @@
+{
+  "id": 27116,
+  "numero": "0547",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado José Gregorio Fajardo en representación de HÉCTOR JOSÉ GÓMEZ GARCÍA. La solicitud se fundamenta en la revisión de una sentencia dictada el 15 de junio de 2023 por el Juzgado Superior Séptimo del Circuito Judicial del Trabajo, que había declarado sin lugar una apelación relacionada con un recurso de nulidad. La Sala argumenta que la falta de presentación de una copia certificada de la sentencia impugnada es un defecto procesal que impide la admisión de la solicitud.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "copia certificada",
+    "cosa juzgada",
+    "documentos indispensables",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0547_E23-1240.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338500-0547-311024-2024-23-1240.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.316186"
+}

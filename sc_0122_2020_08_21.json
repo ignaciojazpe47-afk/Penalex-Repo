@@ -1,0 +1,23 @@
+{
+  "id": 41407,
+  "numero": "0122",
+  "fecha": "2020-08-21",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo constitucional interpuesta por militantes del partido Patria Para Todos, quienes denunciaron violaciones a sus derechos de participación política por parte del Secretario General, Rafael Uzcátegui. La acción fue admitida y se decretaron medidas cautelares que incluyen la suspensión de la actual Dirección Nacional del partido y la creación de una Junta Directiva Ad Hoc para reestructurar la organización y garantizar la participación en las elecciones parlamentarias del 6 de diciembre de 2020.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "participación política",
+    "Patria Para Todos",
+    "elecciones parlamentarias"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por militantes de Patria Para Todos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-08-21_S0122_E20-0278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/310061-0122-21820-2020-20-0278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.094726"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44610,
+  "numero": "0415",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 29 de noviembre de 2019, declaró sin lugar la solicitud de revisión constitucional interpuesta por Inés María Díaz Coronil contra la sentencia del Juzgado Superior Octavo de lo Contencioso Administrativo que había declarado sin lugar su recurso contencioso administrativo. La solicitante alegó violaciones a sus derechos constitucionales, incluyendo el derecho a la defensa y al debido proceso, argumentando que no tuvo asistencia legal durante el procedimiento administrativo que resultó en su destitución del cargo de Archivista III.\n\nLa Sala analizó los alegatos y concluyó que la ciudadana había sido debidamente notificada del procedimiento y tuvo acceso al expediente, así como la oportunidad de presentar sus descargos y pruebas. Se determinó que el procedimiento administrativo cumplió con las formalidades requeridas y que no hubo violación al debido proceso, ya que la solicitante actuó en su propio nombre y tuvo la oportunidad de defenderse adecuadamente.\n\nFinalmente, la Sala consideró que no existían fundamentos suficientes para la revisión solicitada, ya que no se evidenciaron infracciones a normas constitucionales ni errores en la interpretación de las mismas, concluyendo que la decisión del Juzgado Superior fue ajustada a derecho.",
+  "palabras_clave": [
+    "debido_proceso",
+    "administracion_publica",
+    "derechos_humanos",
+    "pruebas",
+    "inmotivacion",
+    "despido",
+    "defensa",
+    "sentencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia de destitución de funcionaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0415_E17-1175.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308343-0415-291119-2019-17-1175.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.820491"
+}

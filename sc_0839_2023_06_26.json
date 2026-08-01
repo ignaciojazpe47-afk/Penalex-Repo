@@ -1,0 +1,25 @@
+{
+  "id": 31056,
+  "numero": "0839",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de junio de 2023, ha declarado con lugar la solicitud de revisión constitucional presentada por Isamanda Hernández Reyes, a través de su abogada Isabella Urbani Ramírez, contra la decisión N° 00400 del 4 de octubre de 2019 de la Sala de Casación Civil. Esta última había declarado con lugar un recurso de casación, pero omitió pronunciarse sobre un punto esencial del petitorio de la demandante, lo que constituyó una violación al derecho a la tutela judicial efectiva.\n\nLa Sala Constitucional encontró que la decisión de la Sala de Casación Civil incurrió en incongruencia negativa y contradicción, al declarar procedente la demanda de cumplimiento de contrato de opción de compra venta, pero al mismo tiempo señalar que era imposible materializar la ejecución forzosa del contrato debido a gravámenes existentes sobre el inmueble. En consecuencia, se anula la decisión objeto de revisión y se ordena el reenvío a la Sala de Casación Civil para una nueva decisión sobre el recurso de casación interpuesto.\n\nLa sentencia resalta la importancia de que los tribunales se pronuncien de manera exhaustiva sobre todas las pretensiones planteadas por las partes, garantizando así el derecho a un debido proceso y a la tutela judicial efectiva.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cosa juzgada",
+    "tutela judicial efectiva",
+    "interpretación constitucional",
+    "discrecionalidad",
+    "sentencias firmes"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de casación civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0839_E20-0505.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326495-0839-26623-2023-20-0505.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.557507"
+}

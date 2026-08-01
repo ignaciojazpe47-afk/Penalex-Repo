@@ -1,0 +1,25 @@
+{
+  "id": 33516,
+  "numero": "1850",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento por abandono de trámite",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La ciudadana Odaisi Del Valle Cedeño Marcano presentó una acción de amparo constitucional contra decisiones judiciales previas, alegando violaciones a sus derechos al debido proceso y a la defensa. La Sala Constitucional del TSJ, tras analizar el caso, determinó que hubo abandono de trámite por parte de la actora, dado que no impulsó el proceso durante más de seis meses. Como consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora por el abandono.",
+  "palabras_clave": [
+    "abandonode trámite",
+    "amparo constitucional",
+    "interés procesal",
+    "tutela judicial",
+    "derechos fundamentales",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1850_E22-0622.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331385-1850-81223-2023-22-0622.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.464779"
+}

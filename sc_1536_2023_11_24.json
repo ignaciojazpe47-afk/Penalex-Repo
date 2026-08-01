@@ -1,0 +1,25 @@
+{
+  "id": 32967,
+  "numero": "1536",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Daniela García Chirinos, en representación de su padre Rafael Clemente Máximo García Benfele, contra el Tribunal Tercero en funciones de Control del Circuito Judicial Penal del estado Bolívar. La decisión se basa en la falta de pronunciamiento del tribunal sobre la solicitud de revisión de medida de cambio de sitio de reclusión, argumentando que la acción de amparo no persigue la revisión de un acto, sino la restitución de derechos y garantías constitucionales.",
+  "palabras_clave": [
+    "motivación",
+    "apelación",
+    "amparo",
+    "derechos",
+    "salud",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1536_E22-0204.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330590-1536-241123-2023-22-0204.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.429962"
+}

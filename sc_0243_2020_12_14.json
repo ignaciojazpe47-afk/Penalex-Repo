@@ -1,0 +1,22 @@
+{
+  "id": 41924,
+  "numero": "0243",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por las abogadas Lucía Gómez de Delgado y Magaly Carolina Godoy en representación de Daniela Carolina Guerrieri Selvaggio. La decisión anula la resolución del Juzgado Vigésimo Sexto que había negado el levantamiento de la medida de aseguramiento sobre una aeronave, considerando que no se evidenció que dicha aeronave constituyera el objeto activo o pasivo del delito y que la propietaria no había sido individualizada en un proceso penal. Se ordena la entrega de la aeronave a su propietaria.",
+  "palabras_clave": [
+    "avocamiento",
+    "medida de aseguramiento",
+    "aeronave"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento y levantamiento de medida de aseguramiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0243_E19-0512.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311028-0243-141220-2020-19-0512.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.397153"
+}

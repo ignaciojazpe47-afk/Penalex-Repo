@@ -1,0 +1,24 @@
+{
+  "id": 37694,
+  "numero": "1049",
+  "fecha": "2022-11-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Superior Segundo del Trabajo que había declarado sin lugar el recurso de apelación interpuesto por José Adonay Balestrini Moronta. La Sala encontró que ambos juzgados de instancia incurrieron en incongruencias por omisión al no valorar adecuadamente la actuación del alguacil que notificó a la demandada sobre la existencia de la demanda, lo que interrumpió la prescripción. La Sala declaró con lugar la revisión, anuló la decisión impugnada y ordenó que se pronuncie sobre la apelación en los términos fijados en la presente decisión, incluyendo la determinación de los montos correspondientes a prestaciones sociales y otros beneficios laborales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción",
+    "derechos laborales",
+    "notificación",
+    "incongruencia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la decisión del Juzgado Superior Segundo del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-25_S1049_E21-0300.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321243-1049-251122-2022-21-0300.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.460528"
+}

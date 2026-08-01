@@ -1,0 +1,23 @@
+{
+  "id": 47760,
+  "numero": "0489",
+  "fecha": "2018-07-26",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por la ciudadana Xiomara Guillermina Freites de Angulo contra la sentencia dictada el 22 de marzo de 2018 por el Tribunal Superior en lo Civil, Mercantil, Bancario y Tránsito del Estado Bolívar. La acción se fundamentó en la supuesta vulneración de derechos constitucionales tras la muerte de la parte actora en un juicio de desalojo, alegando que la causa debía suspenderse de pleno derecho y que la actuación de la abogada Lilina Núñez Coa, quien continuó representando a los co-herederos sin poder, era inválida.\n\nLa Sala consideró que la demanda de amparo cumplía con los requisitos formales, pero no encontró violaciones a derechos constitucionales, ya que la actuación de la abogada fue válida y los co-herederos estaban debidamente citados. Además, se destacó que la acción de amparo no puede ser utilizada como una tercera instancia para revisar decisiones ya firmes, y que la valoración de pruebas y hechos corresponde al juez de instancia.\n\nFinalmente, se ordenó la publicación y registro de la decisión, remitiendo copia certificada del fallo al juzgado de origen y al tribunal superior correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "derechos constitucionales",
+    "Estado Bolívar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-07-26_S0489_E18-0378.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/300301-0489-26718-2018-18-0378.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.043362"
+}

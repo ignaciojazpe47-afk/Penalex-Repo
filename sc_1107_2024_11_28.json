@@ -1,0 +1,24 @@
+{
+  "id": 28018,
+  "numero": "1107",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional presentada por Arnold Alexander López Salazar, quien alegó desacato por parte de la ONCDOFT en la ejecución de una decisión judicial que ordenaba la entrega de un vehículo. La Sala determinó su incompetencia para conocer la ejecución de dicha decisión, indicando que el mecanismo adecuado para restituir la situación era solicitar la ejecución ante el tribunal que emitió la sentencia original. Finalmente, se instó a la abogada del accionante a abstenerse de utilizar el amparo constitucional para el cumplimiento de decisiones judiciales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "constitución",
+    "jurisdicción",
+    "restitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1107_E23-0062.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339687-1107-281124-2024-23-0062.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.476033"
+}

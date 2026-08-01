@@ -1,0 +1,26 @@
+{
+  "id": 20366,
+  "numero": "0917",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer la acción de amparo interpuesta por los abogados de Antony Stiwart Gastello Campo, quien alegó omisión de pronunciamiento por parte de la Corte Marcial. Sin embargo, se determina que la acción es inadmisible debido a que la Corte ya había tramitado el recurso de apelación correspondiente, lo que cesó la violación alegada. Por lo tanto, se niega el desistimiento presentado por la defensa y se declara inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial efectiva",
+    "derechos constitucionales",
+    "Corte Marcial",
+    "omisión de pronunciamiento",
+    "justicia",
+    "defensa"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0917_E22-0279.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344878-0917-17625-2025-22-0279.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.311549"
+}

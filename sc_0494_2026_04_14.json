@@ -1,0 +1,27 @@
+{
+  "id": 17501,
+  "numero": "0494",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre dos tribunales, el Juzgado Primero de Primera Instancia en lo Civil y el Tribunal Cuarto de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal, ambos del Estado Bolivariano de Miranda. Ambos tribunales se declararon incompetentes para conocer de la acción de amparo constitucional interpuesta por Zoraida Carrillo Vallejo contra Rafael Antonio Vallejo, por un presunto desalojo arbitrario de su vivienda.\nLa Sala aceptó la competencia que le fue declinada y declaró competente al Juzgado Primero de Primera Instancia en lo Civil, Mercantil y Tránsito para conocer de la acción de amparo, ordenando la remisión del expediente a dicho juzgado. La decisión se fundamenta en que el derecho a la vivienda es un derecho humano protegido por la Constitución, y corresponde a los tribunales civiles conocer de las acciones que involucren derechos de propiedad.\nFinalmente, se ordenó la remisión del expediente al Juzgado correspondiente para que continúe con el proceso de amparo, garantizando así el derecho de la solicitante a ser escuchada y a la protección de su vivienda.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "constitucional",
+    "penal",
+    "administración"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0494_E25-1454.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354945-0494-14426-2026-25-1454.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.892531"
+}

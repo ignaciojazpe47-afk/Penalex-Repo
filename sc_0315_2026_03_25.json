@@ -1,0 +1,25 @@
+{
+  "id": 16372,
+  "numero": "0315",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana Oly Soraya Rodríguez Gómez solicitó la revisión constitucional de la sentencia N° 535 dictada el 13 de agosto de 2025 por la Sala de Casación Civil, que declaró sin lugar el recurso de hecho propuesto. La Sala Constitucional, tras analizar los argumentos presentados, concluyó que no existían infracciones a los derechos constitucionales alegados y que la decisión de la Sala de Casación Civil se ajustaba a derecho. Por lo tanto, se declaró sin lugar la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "litisconsorcio",
+    "nulidad",
+    "derecho a la defensa",
+    "tutela judicial",
+    "proceso civil",
+    "indemnización"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 535 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0315_E25-1140.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354295-0315-25326-2026-25-1140.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.034984"
+}

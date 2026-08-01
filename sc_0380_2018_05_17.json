@@ -1,0 +1,22 @@
+{
+  "id": 46843,
+  "numero": "0380",
+  "fecha": "2018-05-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar la apelación interpuesta por General Motors Venezolana C.A. contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Zulia, que había declarado improcedente in limine litis la acción de amparo. La Sala concluye que no hubo violación de derechos constitucionales, ya que el Juzgado de primera instancia actuó conforme a derecho al autorizar el remate anticipado de bienes embargados, cumpliendo con los requisitos establecidos en el Código de Procedimiento Civil.\n\nSe argumenta que la acción de amparo no puede ser utilizada como una nueva instancia para cuestionar decisiones ya resueltas por la jurisdicción competente. La Sala reafirma que la tutela jurisdiccional debe garantizar la protección de los derechos fundamentales, pero en este caso, no se evidenció la existencia de una grave usurpación de funciones o abuso de poder por parte del Juzgado denunciado.\n\nFinalmente, se confirma la decisión del Juzgado Superior, manteniendo firme la improcedencia del amparo solicitado, y se ordena la remisión del expediente al Juzgado correspondiente para su cumplimiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "remate anticipado",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de General Motors Venezolana C.A.",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-17_S0380_E18-0184.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211386-0380-17518-2018-18-0184.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.895521"
+}

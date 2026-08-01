@@ -1,0 +1,24 @@
+{
+  "id": 33232,
+  "numero": "1735",
+  "fecha": "2023-12-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con una sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Zulia, que había declarado sin lugar una demanda de posesión. La solicitante argumentó que se violaron principios constitucionales en la decisión del tribunal inferior. La Sala, tras analizar el caso, determinó que el Juzgado actuó conforme a derecho y que la revisión no debía ser entendida como una nueva instancia, sino como un mecanismo para preservar la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "posesión",
+    "tutela jurisdiccional",
+    "derecho a la defensa",
+    "silencio de prueba",
+    "acción interdictal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en caso de posesión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-04_S1735_E23-0704.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330981-1735-41223-2023-23-0704.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.160695"
+}

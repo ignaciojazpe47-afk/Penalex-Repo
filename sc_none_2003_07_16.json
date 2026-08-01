@@ -1,0 +1,24 @@
+{
+  "id": 3304,
+  "numero": null,
+  "fecha": "2003-07-16",
+  "anio": 2003,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia el 16 de julio de 2003, en la que se acordó la medida cautelar de suspensión de los efectos del artículo 211 del Decreto con Fuerza de Ley de Tierras y Desarrollo Agrario. Este artículo permitía al juez agrario actuar oficiosamente para dictar medidas cautelares, lo que fue considerado una violación al principio de separación de poderes y al derecho a la defensa. La sentencia argumentó que la norma atacada desvirtuaba la función jurisdiccional al permitir que el juez actuara sin juicio previo, lo que podría llevar a decisiones arbitrarias y a la vulneración de derechos fundamentales.",
+  "palabras_clave": [
+    "nulidad",
+    "tierras",
+    "desarrollo agrario",
+    "medidas cautelares",
+    "separación de poderes"
+  ],
+  "titulo": "Sentencia sobre la nulidad del artículo 211 del Decreto con Fuerza de Ley de Tierras y Desarrollo Agrario",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-05-09_Constitucional_03.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.409773"
+}

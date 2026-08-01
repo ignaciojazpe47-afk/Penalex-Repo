@@ -1,0 +1,26 @@
+{
+  "id": 33842,
+  "numero": "1989",
+  "fecha": "2023-12-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "ORDENA",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio del Tribunal Primero de Primera Instancia de Juicio del Trabajo de Anzoátegui, relacionado con un desacato a un mandamiento de amparo. En la sentencia del 14 de diciembre de 2022, se declaró el desacato al mandamiento de ejecución de una sentencia anterior. La Sala ordena al tribunal de origen remitir el expediente completo en un plazo determinado, advirtiendo sobre las sanciones por incumplimiento.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "trabajo",
+    "derechos",
+    "justicia",
+    "libertad",
+    "sanción"
+  ],
+  "titulo": "Sentencia sobre desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-15_S1989_E23-0272.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331959-1989-151223-2023-23-0272.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.705580"
+}

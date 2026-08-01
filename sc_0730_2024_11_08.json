@@ -1,0 +1,25 @@
+{
+  "id": 27350,
+  "numero": "0730",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La ciudadana Alba Carolina Alonso Díaz interpuso una acción de amparo constitucional contra una sentencia del Tribunal Décimo de Primera Instancia que decretó una medida de protección de alejamiento en su contra. La Sala Constitucional, tras analizar la competencia, se declaró incompetente para conocer la acción y decidió declinarla a un Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La decisión se fundamenta en la normativa que establece que el amparo debe ser interpuesto ante el tribunal superior correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "niños",
+    "adolescentes",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0730_E23-1102.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338755-0730-81124-2024-23-1102.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.436637"
+}

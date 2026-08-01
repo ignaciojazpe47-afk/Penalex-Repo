@@ -1,0 +1,24 @@
+{
+  "id": 22926,
+  "numero": "1789",
+  "fecha": "2025-11-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por Alejandro Jesús Leira Rodríguez contra la decisión de la Sala N° 9 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La Sala argumenta que el recurrente no tenía la condición de parte en el proceso penal, ya que no se querelló ni apeló la decisión que sobreseyó la causa por apropiación indebida calificada. Por lo tanto, su intervención en la audiencia no constituyó una violación de sus derechos fundamentales.",
+  "palabras_clave": [
+    "apelación",
+    "proceso penal",
+    "derechos fundamentales",
+    "sobreseimiento",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre la improcedencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-12_S1789_E25-0189.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349780-1789-121125-2025-25-0189.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.067728"
+}

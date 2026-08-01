@@ -1,0 +1,26 @@
+{
+  "id": 35231,
+  "numero": "0247",
+  "fecha": "2022-06-29",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de avocamiento presentada por el abogado Simón José Arrieta Quintero en representación de los ciudadanos Jenny Carol Godoy Gil y Neuro José Montes Arias. La decisión se fundamenta en la falta de legitimidad del abogado para actuar como defensor privado, ya que no presentó la documentación necesaria que acredite su representación legal en el proceso penal en curso ante el Tribunal Único en Funciones de Control del Estado Trujillo.\n\nLa Sala también resalta que el abogado no agotó los recursos ordinarios disponibles antes de solicitar el avocamiento, lo que contraviene el principio de juez natural y la necesidad de respetar los procedimientos establecidos. La inadmisibilidad se basa en la falta de cumplimiento con los requisitos procesales exigidos por la Ley Orgánica del Tribunal Supremo de Justicia.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, reafirmando la autoridad del Tribunal en la administración de justicia en nombre de la República.",
+  "palabras_clave": [
+    "error de derecho",
+    "privación de libertad",
+    "maltrato infantil",
+    "trato cruel",
+    "principio de legalidad",
+    "tutela judicial efectiva",
+    "proceso debido"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-29_S0247_E22-0183.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317653-0247-29622-2022-22-0183.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.249184"
+}

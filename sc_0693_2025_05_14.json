@@ -1,0 +1,22 @@
+{
+  "id": 19803,
+  "numero": "0693",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por la abogada Estefanía Álvarez de Lira, en representación de la ciudadana Elita Del Valle Zacarías Díaz, contra la decisión de la Sala 4 de la Corte de Apelaciones. La Sala también anuló las actas de juramentación de varios abogados que habían sido designados como defensores de los querellados, argumentando que no existía una imputación formal en su contra, lo que vicia de nulidad las actuaciones subsiguientes. Se ordenó la reposición del proceso penal a otro tribunal para que se pronuncie sobre la fase subsiguiente a la admisión de la querella.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-14_S0693_E24-0925.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/343768-0693-14525-2025-24-0925.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:28.724588"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38865,
+  "numero": "0242",
+  "fecha": "2021-06-11",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "Calixto Ortega Ríos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional de la sentencia N° 01348, dictada por la Sala Político Administrativa, que declaró improcedente el recurso de regulación de jurisdicción. La Sala Constitucional determinó que no se evidenciaron infracciones a derechos constitucionales ni a la doctrina establecida, concluyendo que la decisión de la Sala Político Administrativa fue ajustada a derecho. Por lo tanto, se declaró que no había lugar a la revisión solicitada.",
+  "palabras_clave": [
+    "jurisdicción",
+    "regulación",
+    "transacción",
+    "homologación",
+    "procedimiento",
+    "trabajo",
+    "sentencia"
+  ],
+  "titulo": "Revisión de sentencia N° 01348 de la Sala Político Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-06-11_S0242_E17-0706.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/312363-0242-11621-2021-17-0706.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:14.176846"
+}

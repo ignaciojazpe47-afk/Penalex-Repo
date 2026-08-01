@@ -1,0 +1,24 @@
+{
+  "id": 11808,
+  "numero": null,
+  "fecha": "2012-04-25",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 25 de abril de 2012, declaró sin lugar la solicitud de revisión presentada por G.H.T. Construcciones, C.A. contra la sentencia del Juzgado Superior Segundo del Trabajo de Monagas, que había declarado sin lugar un recurso de apelación sobre el pago de prestaciones sociales. La Sala argumentó que no se evidenció un error en la valoración de las pruebas y que la decisión del tribunal inferior se enmarcó dentro de la libre convicción, sin contradecir la jurisprudencia establecida.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "prestaciones sociales",
+    "trabajo",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de sentencia laboral sobre prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionSocial_c0680677059f5a83dfb668807664a6d0_RosalesExpediente.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.532204"
+}

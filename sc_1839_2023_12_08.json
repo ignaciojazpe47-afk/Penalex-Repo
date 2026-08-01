@@ -1,0 +1,26 @@
+{
+  "id": 33505,
+  "numero": "1839",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por la abogada Hellen Matilde Torres en representación de Carlos Estiven Contreras y Edilio Antonio Rosales Contreras. La solicitud se fundamenta en la revisión de una sentencia anterior que declaró sin lugar un recurso extraordinario de casación. La Sala determina que la abogada no presentó los documentos necesarios para acreditar su representación legal ni la copia certificada de la sentencia cuestionada, lo que lleva a la inadmisión de la solicitud.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "constitucional",
+    "admisibilidad",
+    "derechos",
+    "tutela",
+    "debido_proceso"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1839_E23-0656.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331374-1839-81223-2023-23-0656.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.465543"
+}

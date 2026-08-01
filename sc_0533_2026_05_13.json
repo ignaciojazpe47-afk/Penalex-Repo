@@ -1,0 +1,22 @@
+{
+  "id": 16008,
+  "numero": "0533",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio la sentencia dictada el 31 de octubre de 2025, que revocó la designación de la abogada Celeste Josefina Rodríguez Pinto como Jueza Asociada. Se determinó que dicha decisión vulneró el debido proceso y el derecho a la defensa, ya que la revocación se realizó sin justificación legal. La Sala declaró con lugar la acción de amparo, anulando la sentencia impugnada y restableciendo la designación de Rodríguez Pinto como Jueza Asociada. Además, se ordenó la continuidad del juicio primigenio con un tribunal adecuado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "juez asociado"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0533_E26-0045-26-0063.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355526-0533-13526-2026-26-0045-26-0063.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.908279"
+}

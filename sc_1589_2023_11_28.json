@@ -1,0 +1,24 @@
+{
+  "id": 33019,
+  "numero": "1589",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional presentada por Carlos Díaz Hernández, quien impugnaba una sentencia del Juzgado Superior Agrario. La solicitud fue declarada inadmisible debido a la falta de consignación de la sentencia cuya revisión se solicitaba, lo que constituye una carga procesal del solicitante. La Sala reafirmó la obligatoriedad de presentar la copia certificada del fallo en cuestión para verificar la admisibilidad de la solicitud.",
+  "palabras_clave": [
+    "inadmisibilidad",
+    "revisión constitucional",
+    "simulación de venta",
+    "tribunal agrario",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1589_E23-0590.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330643-1589-281123-2023-23-0590.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.013190"
+}

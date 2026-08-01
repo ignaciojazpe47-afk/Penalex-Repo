@@ -1,0 +1,27 @@
+{
+  "id": 33216,
+  "numero": "1719",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas declaró inadmisible la acción de amparo constitucional interpuesta por Freddy Rafael Sarabia Cedeño en representación de Oswaldo Mariotte Meza, argumentando que la acción se encontraba incursa en causales de inadmisibilidad. La Sala Constitucional del Tribunal Supremo de Justicia, al revisar el caso, determinó que la apelación fue interpuesta de manera extemporánea, lo que llevó a declarar inadmisible el recurso de apelación y a confirmar el fallo de la Corte de Apelaciones. La decisión se fundamenta en la falta de cumplimiento de los plazos establecidos por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "inadmision",
+    "competencia",
+    "derechos",
+    "garantías",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1719_E23-0761.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330965-1719-11223-2023-23-0761.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.166235"
+}

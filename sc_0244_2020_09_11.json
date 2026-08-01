@@ -1,0 +1,23 @@
+{
+  "id": 41925,
+  "numero": "0244",
+  "fecha": "2020-09-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Penal",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en la sentencia N° 0138/2020, revisó la medida de privación de libertad impuesta al ciudadano Tomás Antonio Armas González, sustituyéndola por medidas cautelares menos gravosas. La decisión se fundamenta en la igualdad de condiciones procesales entre los coacusados, permitiendo así la revisión de la medida cautelar. Se destaca la importancia de garantizar el debido proceso y la tutela judicial efectiva, así como la necesidad de que las decisiones judiciales sean motivadas y congruentes.",
+  "palabras_clave": [
+    "avocamiento",
+    "medida cautelar",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre avocamiento y revisión de medida cautelar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0244_E19-0768.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311029-0244-141220-2020-19-0768.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.092577"
+}

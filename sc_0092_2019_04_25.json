@@ -1,0 +1,23 @@
+{
+  "id": 42612,
+  "numero": "0092",
+  "fecha": "2019-04-25",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por la abogada Yanari Chiquinquirá Alvillar Polanco, en representación de YENY CAROLINA UZCÁTEGUI QUINTERO, contra la decisión de la Sala Primera de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La apelante buscaba la restitución de un vehículo automotor que había sido entregado a Jaime Enrique Pérez Yuncosa, quien demostró ser el propietario legítimo del mismo.\n\nLa Sala concluyó que no se evidenció violación de los derechos constitucionales de la accionante, ya que la decisión del tribunal inferior estaba debidamente motivada y conforme a derecho. Se destacó que el análisis de los elementos probatorios presentados en el proceso penal había llevado a los jueces a acordar la entrega del vehículo al demandado, lo que fue considerado justo y equitativo.\n\nFinalmente, se determinó que las desavenencias sobre la propiedad del vehículo debían ser resueltas ante los tribunales competentes, y se declaró inoficioso pronunciarse sobre la medida cautelar solicitada por la parte accionante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "vehículo",
+    "propiedad",
+    "Zulia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-04-25_S0092_E18-0599.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/304641-0092-25419-2019-18-0599.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.595781"
+}

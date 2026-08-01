@@ -1,0 +1,27 @@
+{
+  "id": 23882,
+  "numero": "2102",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Se declara competente",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Jorge Enrique Benavides Lárez en representación del Condominio Centro Cristal. La acción se dirigió contra la omisión de pronunciamiento del Juzgado Superior Primero en lo Civil Mercantil de Carabobo, que no emitió decisión en un plazo de sesenta días. La Sala, tras analizar la competencia, declaró que le corresponde conocer de la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "procedimiento civil",
+    "juzgado",
+    "derechos",
+    "garantías",
+    "decisión",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2102_E25-1269.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351929-2102-121225-2025-25-1269.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.735639"
+}

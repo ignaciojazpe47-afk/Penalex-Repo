@@ -1,0 +1,27 @@
+{
+  "id": 31712,
+  "numero": "1044",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por María Josefina Prieto De Pérez contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil, Tránsito y Bancario del Estado Aragua, que declaró inadmisible la acción de amparo constitucional. La Sala determinó que la acción de amparo era inadmisible ya que la demandante contaba con vías ordinarias para hacer valer sus derechos, específicamente el recurso de apelación, el cual no fue ejercido. En consecuencia, se confirmó la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "derechos constitucionales",
+    "juzgado",
+    "inadmision",
+    "prueba",
+    "justicia",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1044_E22-0298.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327616-1044-1823-2023-22-0298.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.896723"
+}

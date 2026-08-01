@@ -1,0 +1,26 @@
+{
+  "id": 20618,
+  "numero": "1018",
+  "fecha": "2025-06-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por los abogados de Robert José Fernández, quien alegó violaciones al debido proceso y al derecho a la defensa en un juicio penal. La Corte de Apelaciones había declarado inadmisible la acción de amparo constitucional, argumentando que el accionante tenía recursos ordinarios disponibles para impugnar la decisión del juez. La Sala Constitucional, tras revisar el caso, determinó que la acción de amparo era improcedente y revocó la decisión de inadmisibilidad, declarando sin lugar el recurso de apelación.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "debido proceso",
+    "publicidad",
+    "inadmision",
+    "Corte de Apelaciones",
+    "defensa"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-30_S1018_E23-1044.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345287-1018-30625-2025-23-1044.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.295485"
+}

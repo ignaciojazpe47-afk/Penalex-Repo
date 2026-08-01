@@ -1,0 +1,27 @@
+{
+  "id": 28395,
+  "numero": "1337",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Pablo José Pinto Torrealba, asistido por su abogado, contra un auto interlocutorio del Juzgado Superior Primero en lo Civil, que confirmó una sentencia interlocutoria anterior. La Sala determinó que la acción de amparo cumplía con los requisitos establecidos, pero finalmente declaró improcedente la solicitud in limine litis, argumentando que no se evidenció un abuso de poder o usurpación de funciones por parte del juzgado inferior. Además, se consideró inoficioso pronunciarse sobre la medida cautelar solicitada como accesoria a la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "jurisprudencia",
+    "procedencia",
+    "inadmision",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1337_E23-1300.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340351-1337-101224-2024-23-1300.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.209800"
+}

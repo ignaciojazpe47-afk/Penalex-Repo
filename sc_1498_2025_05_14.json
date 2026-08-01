@@ -1,0 +1,26 @@
+{
+  "id": 21960,
+  "numero": "1498",
+  "fecha": "2025-05-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por Vicente Vásquez Dios, representado por sus abogados, debido a la falta de pronunciamiento del Juzgado Noveno de Primera Instancia. La decisión se fundamentó en que la acción de amparo no puede ser admitida cuando la violación de derechos ha cesado, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala confirmó la decisión de la Corte de Apelaciones que había declarado inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "constitucionales",
+    "plazos",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1498_E25-0117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348113-1498-30925-2025-25-0117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.879518"
+}

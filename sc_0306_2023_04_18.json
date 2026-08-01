@@ -1,0 +1,26 @@
+{
+  "id": 29773,
+  "numero": "0306",
+  "fecha": "2023-04-18",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ANULA la sentencia de fecha 14 de agosto de 2018, dictada por el Juzgado Superior Accidental en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Miranda",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó de oficio la sentencia dictada el 14 de agosto de 2018 por el Juzgado Superior Accidental en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Miranda. Se determinó que el Juzgado incurrió en errores de valoración de pruebas y en la falta de notificación a los demandados, lo que vulneró su derecho a la defensa. En consecuencia, se anuló la sentencia impugnada y se ordenó reponer la causa para que otro Juzgado Superior Accidental Civil se pronuncie sobre el recurso de apelación correspondiente.",
+  "palabras_clave": [
+    "contrato",
+    "oferta",
+    "compraventa",
+    "derechos",
+    "jueces",
+    "interpretacion",
+    "codigo civil"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-18_S0306_E22-0054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324393-0306-18423-2023-22-0054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.819601"
+}

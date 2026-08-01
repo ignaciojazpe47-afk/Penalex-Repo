@@ -1,0 +1,22 @@
+{
+  "id": 3549,
+  "numero": "941",
+  "fecha": "2008-11-11",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la desaplicación del artículo 444 de la Ley Orgánica para la Protección del Niño y del Adolescente, que prohíbe la adopción internacional sin un tratado entre los países involucrados. La sentencia original, dictada el 11 de febrero de 2008, había decretado la adopción internacional de tres niñas, desaplicando dicha norma por considerar que contravenía el interés superior de las menores. La Sala confirmó la adopción, argumentando que la norma desaplicada no colidía con la Constitución, y que la ratificación del convenio por parte de Estados Unidos, posterior a la decisión original, hacía innecesaria la reposición del caso al estado anterior.",
+  "palabras_clave": [
+    "adopción internacional",
+    "interés superior del niño",
+    "desaplicación de norma"
+  ],
+  "titulo": "Sentencia sobre adopción internacional plena y conjunta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-11-11_Constitucional_08.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.959088"
+}

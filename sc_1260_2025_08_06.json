@@ -1,0 +1,24 @@
+{
+  "id": 21390,
+  "numero": "1260",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La ciudadana Norma Salazar Cobos solicitó la revisión de una decisión del Juzgado Cuarto Superior del Trabajo que declaró con lugar un recurso de apelación interpuesto por el INASS, revocando una sentencia anterior que ordenaba su reenganche y pago de salarios caídos. La Sala Constitucional, al analizar el caso, determinó que la decisión del tribunal inferior fue correcta al considerar que la solicitante no gozaba de fuero sindical al haber sido declarada inelegible para el cargo de tesorera del sindicato, lo que llevó a la anulación del acto administrativo que ordenaba su reenganche.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "fuero sindical",
+    "INASS",
+    "Norma Salazar",
+    "sentencia laboral"
+  ],
+  "titulo": "Revisión constitucional de la decisión del Juzgado Cuarto Superior del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1260_E16-0045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346887-1260-6825-2025-16-0045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.773732"
+}

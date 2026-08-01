@@ -1,0 +1,22 @@
+{
+  "id": 31215,
+  "numero": "0919",
+  "fecha": "2023-07-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró sin lugar la apelación interpuesta por los abogados de Alicia Rafaela Fernández Clavo contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala fundamentó su decisión en que la parte accionante no había agotado las vías judiciales ordinarias disponibles antes de recurrir al amparo constitucional, lo que contraviene el artículo 6 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La sentencia reafirma la importancia de seguir los procedimientos establecidos para la protección de derechos fundamentales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos fundamentales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-12_S0919_E19-0296.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326827-0919-12723-2023-19-0296.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.219347"
+}

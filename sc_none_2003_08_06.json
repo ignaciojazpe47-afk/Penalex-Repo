@@ -1,0 +1,18 @@
+{
+  "id": 12002,
+  "numero": null,
+  "fecha": "2003-08-06",
+  "anio": 2003,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JESÚS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia confirma el fallo del 11 de enero de 2002, que declaró con lugar la acción de amparo constitucional interpuesta por Franklin Alberto Pineda Carvajal, en representación de Rómulo Hernández Chacón y Luis Wilhem Hernández. La acción se dirigió contra la decisión del Juzgado Primero de Primera Instancia en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Táchira, dictada el 4 de febrero de 2000, que había declarado inadmisible la apelación interpuesta por los accionantes.\n\nEl Tribunal constató que la decisión del Juzgado de Primera Instancia carecía de motivación, lo que vulneró el derecho a la tutela judicial efectiva de los accionantes. La Sala reitera la importancia de la motivación en las decisiones judiciales como un derecho constitucionalmente protegido, y considera que el error de juzgamiento en la decisión de inadmisibilidad afectó el ejercicio de los derechos de los accionantes.\n\nFinalmente, la Sala ordena al Tribunal de Primera Instancia que resulte competente dictar una nueva decisión sobre las apelaciones formuladas en contra de los autos del 31 de mayo y 2 de junio de 1999, asegurando así el respeto a los derechos y garantías constitucionales de los ciudadanos involucrados.",
+  "palabras_clave": [],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_1799a81a5c7a4fcdfa94657e964721d2_CabreraRomero.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:43.409071"
+}

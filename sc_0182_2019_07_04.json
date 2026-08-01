@@ -1,0 +1,27 @@
+{
+  "id": 43384,
+  "numero": "0182",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Walter Albarrán Finol en representación de los ciudadanos Israel Josué Hernández Zárraga y Moisés Alejandro Reyes Pérez. La decisión se basa en la inepta acumulación de pretensiones, ya que se denunciaron actuaciones de diferentes agraviantes, incluyendo al Ministerio Público y al Tribunal Quinto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del Estado Zulia, así como la Sala Tercera de la Corte de Apelaciones del mismo circuito judicial. La Sala concluye que las pretensiones no pueden ser acumuladas en un solo escrito debido a la diversidad de los agraviantes y la naturaleza de las violaciones denunciadas.",
+  "palabras_clave": [
+    "apelación",
+    "inmotivación",
+    "audiencia preliminar",
+    "derecho a la defensa",
+    "Código Orgánico Procesal Penal",
+    "jurisprudencia",
+    "sentencia",
+    "decisión"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0182_E18-0383.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305957-0182-4719-2019-18-0383.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.819755"
+}

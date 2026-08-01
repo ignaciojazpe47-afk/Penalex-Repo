@@ -1,0 +1,26 @@
+{
+  "id": 31639,
+  "numero": "0997",
+  "fecha": "2023-07-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 28 de julio de 2023, declaró sin lugar el recurso de apelación interpuesto por los abogados Albert Antonio Rojas y Aurimir Brigitte Salazar Adrián, defensores de los ciudadanos Kelvyn Alexander Sánchez Quijada, Rommel Beltrán Delgado y Douglas Miguel Morocoima Morocoima. La apelación se basaba en la inadmisibilidad de la acción de amparo dictada por la Corte de Apelaciones el 16 de enero de 2019, que había declarado inadmisible la acción de amparo por no haberse agotado los recursos ordinarios previos.\n\nLa Sala consideró que la acción de amparo era inadmisible, ya que los accionantes no habían utilizado los recursos judiciales ordinarios antes de recurrir a la vía del amparo, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Además, se determinó que, tras la absolución de los imputados en el proceso penal, cesaron las posibles violaciones a sus derechos constitucionales, lo que también justificó la inadmisibilidad de la acción.\n\nFinalmente, la Sala confirmó la decisión de la Corte de Apelaciones, reafirmando que la acción de amparo no puede ser utilizada como un recurso supletorio de los medios ordinarios, y que la inadmisibilidad se fundamenta en la falta de agotamiento de las vías judiciales previas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "vías ordinarias",
+    "jurisprudencia",
+    "derechos constitucionales",
+    "tutela judicial",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-28_S0997_E19-0100.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327528-0997-28723-2023-19-0100.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.912464"
+}

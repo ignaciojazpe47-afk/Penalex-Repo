@@ -1,0 +1,25 @@
+{
+  "id": 24105,
+  "numero": "0052",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional presentada por dos ciudadanas en su calidad de trabajadoras y asociadas de la Caja de Ahorro Sector Empleados Públicos (CASEP). La acción se dirigía contra la Comisión Electoral Nacional de CASEP, solicitando la nulidad de un acta de asamblea y de todos los actos electorales realizados entre 2022 y 2023, alegando violaciones a derechos constitucionales y a la Ley de Cajas de Ahorro.\nLa Sala, tras analizar la competencia, determinó que no era competente para conocer de la acción, ya que esta debía ser tramitada por la Sala Electoral del Tribunal Supremo de Justicia, conforme a lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. Por lo tanto, declinó la competencia y ordenó la remisión del expediente a la Sala Electoral.\nFinalmente, la decisión fue firmada por la Presidenta y otros magistrados, dejando claro que la acción de amparo no era procedente ante la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "proceso electoral",
+    "CASEP",
+    "Sala Electoral",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0052_E23-1286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332406-0052-5224-2024-23-1286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.827015"
+}

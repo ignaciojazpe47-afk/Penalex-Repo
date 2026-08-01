@@ -1,0 +1,27 @@
+{
+  "id": 31053,
+  "numero": "0836",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por los abogados Jesús Rafael Zurita y Elizabeth Sabariego Trujillo, quienes actuaban como defensores del ciudadano Luis Omar Carpio Medina. La apelación fue presentada contra la decisión de la Sala N.° 3 de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional por falta de legitimidad, al no presentar el poder que acreditara su representación. La Sala Constitucional confirmó la inadmisibilidad de la acción de amparo, argumentando que los abogados no cumplían con los requisitos de legitimidad para actuar en nombre del demandante.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "legitimidad",
+    "derechos",
+    "constitucionales",
+    "defensores",
+    "sentencia",
+    "inadmision"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0836_E19-0079.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326492-0836-26623-2023-19-0079.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.558606"
+}

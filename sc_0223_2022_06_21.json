@@ -1,0 +1,26 @@
+{
+  "id": 35155,
+  "numero": "0223",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo interpuesta por los abogados Albert Antonio Rojas y María Fernanda Rivas, en representación de los ciudadanos Aleurys María Marcano Marín y Carlos Alberto Marcano Marín, por no haber agotado los recursos ordinarios disponibles. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que los demandantes habían optado por recurrir a la vía de apelación, lo que cerraba el acceso a la acción de amparo constitucional. La Sala Constitucional confirmó esta decisión, señalando que la acción de amparo es un recurso extraordinario que no puede ser utilizado en lugar de los medios ordinarios de impugnación.",
+  "palabras_clave": [
+    "debido_proceso",
+    "competencia",
+    "jurisdicción",
+    "nulidad",
+    "derechos_humanos",
+    "proceso_penal",
+    "inconstitucionalidad"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0223_E21-0746.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317484-0223-21622-2022-21-0746.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.622762"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31064,
+  "numero": "0847",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Jorge Kilzi Cajuati, representado por el abogado Cruz Mario Duin, contra una sentencia del Juzgado Superior en lo Civil, Mercantil y Tránsito del Estado Portuguesa. La acción se fundamenta en la presunta violación de derechos constitucionales relacionados con la tutela judicial efectiva y el debido proceso, en el contexto de un proceso de apelación interlocutoria. La Sala declaró su competencia para conocer la solicitud y ordenó al demandante corregir su solicitud dentro de un plazo de siete días, advirtiendo que de no hacerlo, la acción sería declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "inadmision",
+    "justicia",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0847_E23-0349.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326503-0847-26623-2023-23-0349.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.540083"
+}

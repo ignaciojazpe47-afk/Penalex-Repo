@@ -1,0 +1,25 @@
+{
+  "id": 21669,
+  "numero": "1416",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por Salvador Ron Rojas en nombre de Génesis Sabrina Ron Solano, quien se encuentra detenida desde el 4 de noviembre de 2024. La Sala determina que la competencia corresponde a un Juzgado de Primera Instancia en Funciones de Control, dado que la acción se refiere a la libertad y seguridad personal. Se ordena la remisión del expediente al Circuito Judicial Penal del estado Bolivariano de Miranda para la distribución correspondiente.",
+  "palabras_clave": [
+    "habeas corpus",
+    "libertad personal",
+    "detención",
+    "derechos humanos",
+    "constitución",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1416_E24-1154.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347283-1416-7825-2025-24-1154.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.043651"
+}

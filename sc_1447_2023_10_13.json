@@ -1,0 +1,26 @@
+{
+  "id": 32293,
+  "numero": "1447",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Pablo Elías Rivera Canelón contra la decisión del Juzgado Superior que declaró inadmisible su acción de amparo. La Sala determinó que el apelante había agotado las vías ordinarias y que la acción de amparo no era procedente, confirmando así la decisión del tribunal inferior. La sentencia destaca la importancia de la tutela judicial efectiva y el debido proceso, pero concluye que el recurso de amparo no era el medio adecuado en este caso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo constitucional",
+    "derecho a la salud",
+    "vida",
+    "medidas cautelares",
+    "competencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1447_E21-0499.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329322-1447-131023-2023-21-0499.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.398921"
+}

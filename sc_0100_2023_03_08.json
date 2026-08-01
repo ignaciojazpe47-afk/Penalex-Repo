@@ -1,0 +1,25 @@
+{
+  "id": 29102,
+  "numero": "0100",
+  "fecha": "2023-03-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la sociedad CONSTRUCTORA AERA, C.A. contra una sentencia de la Sala de Casación Civil. La solicitud fue declarada inadmisible debido a la falta de presentación de la copia certificada de la decisión cuya revisión se solicitaba, lo que constituye una carga procesal necesaria para la admisibilidad de la demanda.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "carga procesal",
+    "sentencia firme",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-08_S0100_E17-0662.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323268-0100-8323-2023-17-0662.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.344165"
+}

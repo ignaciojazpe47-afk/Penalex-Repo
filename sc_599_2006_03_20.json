@@ -1,0 +1,22 @@
+{
+  "id": 3317,
+  "numero": "599",
+  "fecha": "2006-03-20",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Data",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un oficio relacionado con la acción de habeas data interpuesta por Pedro Reinaldo Carbone Martínez, quien buscaba la eliminación de datos personales en el Sistema de Información Policial. La Sala aceptó la competencia para conocer el caso y ordenó la remisión de información sobre los datos del accionante. Tras analizar la situación, la Sala concluyó que no existían registros policiales en la base de datos, por lo que declaró no ha lugar la acción de habeas data.",
+  "palabras_clave": [
+    "habeas data",
+    "derechos constitucionales",
+    "información policial"
+  ],
+  "titulo": "Sentencia sobre acción de habeas data de Pedro Reinaldo Carbone Martínez",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-06-26_Constitucional_05.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.503066"
+}

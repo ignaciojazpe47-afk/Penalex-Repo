@@ -1,0 +1,22 @@
+{
+  "id": 32947,
+  "numero": "1517",
+  "fecha": "2023-11-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Antonio Matos Perero en representación de Luis José Yánez Ramos, debido a la falta de agotamiento de las vías judiciales ordinarias. La decisión de la Sala 9 de la Corte de Apelaciones, que había declarado inadmisible la acción, se mantiene firme. Se argumenta que el recurso fue presentado de manera extemporánea, ya que no se cumplió con el plazo establecido para su interposición.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-23_S1517_E21-0770.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330570-1517-231123-2023-21-0770.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.435619"
+}

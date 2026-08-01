@@ -1,0 +1,23 @@
+{
+  "id": 67411,
+  "numero": "1423",
+  "fecha": "2015-09-24",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por el Magistrado Juan José Mendoza Jover, decidió sobre la solicitud de revisión constitucional presentada por los ciudadanos Pedro Antonio Guere Hernández y Edwar Alexander Suate, quienes impugnaron sentencias de instancias inferiores que declararon sin lugar su demanda por cobro de prestaciones sociales. La Sala determinó que las sentencias cuestionadas vulneraron derechos fundamentales al no considerar pruebas relevantes sobre la interrupción de la prescripción de la acción laboral. Finalmente, la Sala declaró sin lugar la solicitud de revisión, reafirmando la prescripción de la acción por el transcurso del tiempo sin que se interrumpiera adecuadamente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción",
+    "prestaciones sociales",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencias laborales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-11-13_S1423_E15-1067.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/182916-1423-131115-2015-15-1067.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.205457"
+}

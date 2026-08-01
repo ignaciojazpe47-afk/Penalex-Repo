@@ -1,0 +1,24 @@
+{
+  "id": 66927,
+  "numero": "1289",
+  "fecha": "2015-06-04",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la desaplicación del artículo 60 del Reglamento de Personal y Régimen Disciplinario del Instituto Autónomo de Policía del Estado Miranda, considerando que este artículo vulnera el derecho al debido proceso y a la defensa. La Corte determinó que el acceso al expediente solo se permite tras la notificación de la destitución, lo que impide al funcionario ejercer su derecho a defenderse adecuadamente durante el procedimiento administrativo. La decisión se fundamenta en el control difuso de la constitucionalidad, asegurando la supremacía del Texto Fundamental sobre normas que puedan ser inconstitucionales.",
+  "palabras_clave": [
+    "desaplicación",
+    "debido proceso",
+    "defensa",
+    "Reglamento de Personal",
+    "Instituto Autónomo de Policía"
+  ],
+  "titulo": "Desaplicación del artículo 60 del Reglamento de Personal y Régimen Disciplinario del Instituto Autónomo de Policía del Estado Miranda",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-27_S1289_E15-0807.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182226-1289-271015-2015-15-0807.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:27.331793"
+}

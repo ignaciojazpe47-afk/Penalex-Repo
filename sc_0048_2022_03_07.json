@@ -1,0 +1,24 @@
+{
+  "id": 34585,
+  "numero": "0048",
+  "fecha": "2022-03-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por el abogado Luis Guillermo Vásquez Blanco en nombre de Kerman Anderson Machado Mogollón. La solicitud se refiere a la sentencia número 2020-0015 dictada por el Juzgado Nacional Segundo Contencioso Administrativo el 11 de febrero de 2020, que había declarado inadmisible un recurso contencioso administrativo por caducidad de la acción.\n\nLa inadmisibilidad se fundamenta en la falta de presentación de copia certificada del fallo cuya revisión se solicitó, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La Sala enfatiza la importancia de contar con documentos fehacientes para garantizar la certeza del contenido del fallo a revisar.\n\nFinalmente, la decisión se firma en Caracas el 7 de marzo de 2022, con la magistrada Lourdes Benicia Suárez Anderson como ponente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "carga procesal",
+    "copia certificada",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-07_S0048_E20-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315884-0048-7322-2022-20-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.706618"
+}

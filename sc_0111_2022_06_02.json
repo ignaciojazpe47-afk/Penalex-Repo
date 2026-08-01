@@ -1,0 +1,22 @@
+{
+  "id": 34975,
+  "numero": "0111",
+  "fecha": "2022-06-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 2 de junio de 2022, declaró su competencia para conocer de la acción de amparo constitucional interpuesta por Sor Amelia Machado de Cedeño contra la decisión de la Corte de Apelaciones del Estado Guárico, que declaró sin lugar el recurso de apelación. La Sala determinó que hubo abandono del trámite por parte de la actora, lo que llevó a la terminación del procedimiento. Además, se impuso una multa a la parte actora por la falta de impulso en el proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "homicidio intencional",
+    "Corte de Apelaciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-02_S0111_E20-0443.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316868-0111-2622-2022-20-0443.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.424371"
+}

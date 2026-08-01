@@ -1,0 +1,23 @@
+{
+  "id": 10487,
+  "numero": null,
+  "fecha": "2000-07-20",
+  "anio": 2000,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Sin Lugar",
+  "ponente": "RAFAEL PEREZ PERDOMO",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, decidió negar la extradición de los ciudadanos Hector Palau Falcón y Antonio Luis Curbello, solicitada por el Gobierno de los Estados Unidos. La decisión se basa en la insuficiencia de las pruebas presentadas para acreditar la culpabilidad de los solicitados, quienes gozan de la presunción de inocencia hasta que se dicte una sentencia firme en su contra.\nLa Sala argumentó que la documentación de apoyo a la solicitud de extradición no cumplía con los requisitos legales necesarios para establecer indicios de culpabilidad suficientes. Se destacó que, en casos de extradición de procesados, se debe ser más exigente en cuanto a las pruebas que en solicitudes de entrega para la ejecución de una sentencia condenatoria.\nFinalmente, se ordenó notificar al Poder Ejecutivo Nacional sobre la decisión y se dispuso la remisión de copias certificadas al Ministro de Interiores y Justicia.",
+  "palabras_clave": [
+    "extradición",
+    "Hector Palau Falcón",
+    "Antonio Luis Curbello",
+    "Estados Unidos"
+  ],
+  "titulo": "Negativa a la solicitud de extradición de ciudadanos norteamericanos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_92c2ee21a937a14df4fb1a2113f77aca.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:11.352263"
+}

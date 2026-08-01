@@ -1,0 +1,25 @@
+{
+  "id": 18163,
+  "numero": "0017",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de febrero de 2025, se pronunció sobre el recurso de apelación interpuesto por Luis Ernesto Machado Hernández contra la decisión de amparo dictada el 15 de marzo de 2024. La Sala declaró con lugar el recurso, revocando el fallo apelado y declarando inadmisible la acción de amparo constitucional ejercida por José Joaquín Rodríguez, al considerar que la causa había cesado. Se ordenó iniciar una investigación penal respecto a las irregularidades mencionadas en el proceso.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "jurisprudencia",
+    "procedimiento"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0017_E24-0362.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341163-0017-4225-2025-24-0362.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.803045"
+}

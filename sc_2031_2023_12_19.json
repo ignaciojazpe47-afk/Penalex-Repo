@@ -1,0 +1,22 @@
+{
+  "id": 33884,
+  "numero": "2031",
+  "fecha": "2023-12-19",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de aclaratoria presentada por el abogado Alfredo José D’ascoli Centeno, en representación de los ciudadanos Ernesto Federico Branger Llorens y Giordanna Teresa Márquez de Branger. La solicitud se fundamentaba en la alegación de fraude procesal en relación a la sentencia n.° 1238 del 14 de agosto de 2023, pero la Sala considera que lo que se pretende es un nuevo juzgamiento sobre el fondo del asunto, lo cual no es procedente en este tipo de solicitudes.",
+  "palabras_clave": [
+    "aclaratoria",
+    "fraude procesal",
+    "inadmision"
+  ],
+  "titulo": "Inadmisión de solicitud de aclaratoria y acumulación de causas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-19_S2031_E23-0143.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332001-2031-191223-2023-23-0143.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.691949"
+}

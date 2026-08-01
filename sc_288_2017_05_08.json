@@ -1,0 +1,23 @@
+{
+  "id": 51496,
+  "numero": "288",
+  "fecha": "2017-05-08",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por Fadi Bassil Nicolas contra la sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Miranda, que había declarado improcedente su demanda de resolución de contrato de venta. La Sala revisa de oficio la sentencia impugnada y encuentra vicios de inmotivación, por lo que anula dicha decisión y confirma la sentencia del Juzgado Segundo de Primera Instancia que declaró resuelto el contrato de venta, ordenando la entrega inmediata del inmueble al demandante.",
+  "palabras_clave": [
+    "amparo",
+    "resolución de contrato",
+    "inmueble",
+    "Estado Miranda"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-05-08_S288_E15-1411.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/198362-288-8517-2017-15-1411.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:22.349950"
+}

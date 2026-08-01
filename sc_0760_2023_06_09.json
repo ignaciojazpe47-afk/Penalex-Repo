@@ -1,0 +1,26 @@
+{
+  "id": 30812,
+  "numero": "0760",
+  "fecha": "2023-06-09",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de junio de 2023, declaró no ha lugar la solicitud de revisión constitucional presentada por los abogados de Marlene Coromoto Gil García, en relación a la sentencia 0314 de la Sala de Casación Penal, que había declarado inadmisible la solicitud de avocamiento en un caso de sicariato. La Sala consideró que no se evidenciaron graves desórdenes procesales ni violaciones al ordenamiento jurídico que justificaran la revisión solicitada.",
+  "palabras_clave": [
+    "avocamiento",
+    "debido proceso",
+    "competencia",
+    "tribunal",
+    "justicia",
+    "derechos",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de la sentencia 0314",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-09_S0760_E22-0913.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326031-0760-9623-2023-22-0913.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:11.410758"
+}

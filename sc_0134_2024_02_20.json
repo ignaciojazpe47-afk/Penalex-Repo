@@ -1,0 +1,25 @@
+{
+  "id": 24262,
+  "numero": "0134",
+  "fecha": "2024-02-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la solicitud de revisión de la sentencia N° 397 de la Sala de Casación Social, que declaró con lugar un recurso de casación. El solicitante alega violaciones a sus derechos constitucionales en relación a prestaciones sociales. La Sala se declara competente para conocer la solicitud y ordena la remisión del expediente original del juicio por cobro de prestaciones sociales.",
+  "palabras_clave": [
+    "competencia",
+    "revisión constitucional",
+    "prestaciones sociales",
+    "tribunales",
+    "sentencias",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-20_S0134_E23-1166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332643-0134-20224-2024-23-1166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.555708"
+}

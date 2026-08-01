@@ -1,0 +1,26 @@
+{
+  "id": 33018,
+  "numero": "1588",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la acción de amparo interpuesta por Oswaldo Urdaneta Bermúdez en representación de Clara Collar Solozabal. Se determinó que la acción era inadmisible debido a la falta de representación legal adecuada, ya que el poder otorgado no cumplía con los requisitos establecidos por la ley.",
+  "palabras_clave": [
+    "amparo",
+    "abogados",
+    "representación",
+    "juicio",
+    "derechos",
+    "constitucional",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1588_E23-0303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330642-1588-281123-2023-23-0303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.012037"
+}

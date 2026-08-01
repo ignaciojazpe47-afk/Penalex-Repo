@@ -1,0 +1,26 @@
+{
+  "id": 33116,
+  "numero": "1625",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, decidió no ha lugar a la solicitud de revisión constitucional presentada por los abogados de Rubén Darío Sánchez Baloa, en contra de la sentencia del 23 de mayo de 2022 del Juzgado Superior Primero del Trabajo del Estado Aragua. La decisión impugnada había confirmado la nulidad de un acto administrativo relacionado con un despido por causas ajenas a la voluntad de las partes, en este caso, un incendio en las instalaciones de la empresa demandada, Plumrose Latinoamericana C.A.\n\nLa Sala argumentó que la revisión no contradecía la jurisprudencia establecida y que el Juzgado Superior fundamentó adecuadamente su decisión en la verificación del incendio y su impacto en la relación laboral. Se concluyó que no existía un error grotesco en la interpretación de la norma constitucional, por lo que se mantuvo firme el acto administrativo recurrido.\n\nFinalmente, se ordenó la publicación y archivo del expediente, reafirmando la validez de la decisión del Juzgado Superior en el contexto de la legislación laboral vigente.",
+  "palabras_clave": [
+    "apelación",
+    "nulidad",
+    "derecho laboral",
+    "debido proceso",
+    "tutela judicial",
+    "error judicial",
+    "unidad económica"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1625_E22-0971.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330792-1625-291123-2023-22-0971.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.002130"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38490,
+  "numero": "0115",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Eva Marianne Launhardt Potargowicz, asistida por su abogado, contra una sentencia del Juzgado Superior Tercero Civil. La solicitud fue considerada inadmisible debido a la falta de argumentación y documentación necesaria para su valoración. Se ordena archivar el expediente y remitir copia certificada de la decisión al juzgado remitente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "procedimiento",
+    "tutela judicial",
+    "inadmisibilidad",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "apelación",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0115_E19-0585.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311828-0115-16421-2021-19-0585.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.894333"
+}

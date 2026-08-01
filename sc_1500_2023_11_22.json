@@ -1,0 +1,26 @@
+{
+  "id": 32931,
+  "numero": "1500",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE POR EXTEMPORÁNEA",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por el abogado Luis Alfredo Hernández Valera en representación de Hugo David Tovar La Rosa, quien alegaba la omisión de pronunciamiento del Tribunal Segundo en Funciones de Ejecución del Circuito Judicial Penal de Miranda. La apelación fue presentada contra una decisión que declaró inadmisible la solicitud de tutela constitucional por causal sobrevenida.",
+  "palabras_clave": [
+    "apelación",
+    "inadmision",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1500_E23-0056.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330552-1500-221123-2023-23-0056.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.438439"
+}

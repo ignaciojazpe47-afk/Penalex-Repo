@@ -1,0 +1,22 @@
+{
+  "id": 61063,
+  "numero": "1048",
+  "fecha": "2016-12-09",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por Alesia María Vargas Díaz contra decisiones de un Juzgado Superior que declararon sin lugar recursos de apelación. La Sala encontró que las decisiones impugnadas vulneraron derechos fundamentales, ya que el Juez Superior no resolvió adecuadamente la controversia planteada, lo que llevó a la declaración de inadmisibilidad de la demanda de amparo. Finalmente, se ordenó la anulación de las decisiones cuestionadas y se instruyó al Juzgado Superior a dictar nuevas sentencias que resuelvan las apelaciones interpuestas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "decisiones judiciales",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre decisiones de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-09_S1048_E15-0944.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/193634-1048-91216-2016-15-0944.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:44.581782"
+}

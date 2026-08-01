@@ -1,0 +1,22 @@
+{
+  "id": 45001,
+  "numero": "0004",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Parcialmente Ha Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia identificada con el alfanumérico RC.000112, dictada el 11 de marzo de 2015, por la Sala de Casación Civil, que declaró sin lugar el recurso de casación interpuesto por Edgar Jesús Urbáez Reyes. La Sala encontró que la decisión de la Sala de Casación Civil incurrió en un vicio de falsa aplicación del artículo 281 del Código de Procedimiento Civil, al condenar en costas a la parte demandada a pesar de que no había apelado la sentencia original. La Sala anula parcialmente la sentencia recurrida, corrigiendo la indebida condenatoria en costas.",
+  "palabras_clave": [
+    "revisión",
+    "contrato",
+    "costas"
+  ],
+  "titulo": "Revisión de sentencia sobre cumplimiento de contrato de opción de compra",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0004_E15-0843.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206857-0004-17118-2018-15-0843.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.267062"
+}

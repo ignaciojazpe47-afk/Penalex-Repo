@@ -1,0 +1,27 @@
+{
+  "id": 21419,
+  "numero": "1279",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENCIA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la abogada de Patricia del Valle Brito Rodríguez, quien alegaba violaciones a sus derechos y a los de su hijo en un proceso de colocación familiar. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso, declinando el conocimiento a la Sala de Casación Social. La decisión se fundamenta en la falta de competencia de la Sala Constitucional para tratar asuntos de protección de niños, niñas y adolescentes en este contexto específico.",
+  "palabras_clave": [
+    "avocamiento",
+    "derechos fundamentales",
+    "justicia",
+    "proceso judicial",
+    "tutela judicial",
+    "niños",
+    "madre",
+    "custodia"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en caso de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1279_E25-0647.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346934-1279-6825-2025-25-0647.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.048119"
+}

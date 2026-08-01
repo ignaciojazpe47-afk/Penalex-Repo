@@ -1,0 +1,22 @@
+{
+  "id": 3783,
+  "numero": "67",
+  "fecha": "2000-03-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Carlos Eduardo Alvarez Rodríguez contra la decisión del Juzgado Superior Noveno que declaró inadmisible su acción de amparo constitucional. La Sala consideró que el amparo puede referirse a cualquier acto que lesione derechos constitucionales, no solo a sentencias judiciales. Se determinó que el actor había agotado las vías ordinarias sin respuesta, lo que justificó el uso del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionCivil_0129_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.683102"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42864,
+  "numero": "0120",
+  "fecha": "2018-12-17",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 916 el 17 de diciembre de 2018, declarando inadmisible la acción de amparo constitucional interpuesta por los abogados de los ciudadanos José Luis Díaz Valecillos y Anny Desireé Huerta Martínez. La decisión revisa de oficio la resolución anterior de la Corte de Apelaciones que había declarado inadmisible la acción de amparo. La Sala, además, ordena la cesación inmediata de las medidas de coerción personal y de incautación preventiva dictadas en contra de los ciudadanos mencionados.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "derechos",
+    "garantías",
+    "justicia",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-05-21_S0120_E18-0543.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/305038-0120-21519-2019-18-0543.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.131201"
+}

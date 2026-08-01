@@ -1,0 +1,26 @@
+{
+  "id": 17829,
+  "numero": "0486",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declaró incompetente para conocer de la acción de amparo interpuesta por Jorge Luis Barrios Manzo contra el Tribunal Décimo de Control de Violencia contra la Mujer. La acción fue presentada debido a la insistencia del tribunal en celebrar una audiencia durante la vacación judicial, ignorando un conflicto de competencia con otro tribunal. La Sala decidió que la Corte de Apelaciones con Competencia en Delitos de Violencia contra la Mujer es la instancia competente para conocer el caso y ordenó la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "tribunales",
+    "derechos",
+    "violencia",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0486_E25-0907.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354937-0486-14426-2026-25-0907.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.893158"
+}

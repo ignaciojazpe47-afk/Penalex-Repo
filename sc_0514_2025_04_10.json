@@ -1,0 +1,25 @@
+{
+  "id": 19369,
+  "numero": "0514",
+  "fecha": "2025-04-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara inadmisible el recurso de interpretación interpuesto por el abogado Alfredo Daniel Izquiel Casares, quien solicitó la correcta interpretación del artículo 49 de la Constitución de la República Bolivariana de Venezuela. La Sala fundamenta su decisión en la falta de cumplimiento de los requisitos de admisibilidad del recurso, señalando que el solicitante no demostró un interés jurídico actual ni presentó la documentación necesaria para verificar la ambigüedad de la norma en cuestión.\n\nLa Sala también reafirma su competencia para interpretar normas y principios constitucionales, pero concluye que el recurso no cumple con los criterios establecidos para su admisión. En consecuencia, se declara que el recurso es inadmisible y se ordena su archivo.\n\nFinalmente, se resalta la importancia de la interpretación adecuada de las normas constitucionales y la necesidad de que los abogados conozcan los fundamentos jurídicos que sustentan las decisiones del Alto Tribunal.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "derechos",
+    "justicia",
+    "jurisprudencia",
+    "amparo"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación del artículo 49 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-10_S0514_E24-0634.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343067-0514-10425-2025-24-0634.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.050958"
+}

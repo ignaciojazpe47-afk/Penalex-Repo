@@ -1,0 +1,23 @@
+{
+  "id": 30246,
+  "numero": "0465",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por los abogados de los ciudadanos Raniero Diandrés Herrera Briceño, Luis Ernesto Rivas Rincón y Víctor Daniel Casiques Rodríguez, contra la decisión de la Sala Segunda de la Corte de Apelaciones que declaró la nulidad de oficio de un auto de audiencia de imputación. La Sala consideró que la decisión de la Corte de Apelaciones fue ajustada a derecho, al advertir un desorden procesal y garantizar el derecho a la defensa de los imputados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad de oficio",
+    "derecho a la defensa",
+    "desorden procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0465_E22-0253.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325086-0465-15523-2023-22-0253.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.890462"
+}

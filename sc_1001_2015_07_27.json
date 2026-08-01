@@ -1,0 +1,23 @@
+{
+  "id": 65487,
+  "numero": "1001",
+  "fecha": "2015-07-27",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "No Ha Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión presentada por Dominga del Carmen Escobar de Olivera contra la sentencia del Juzgado Segundo de Primera Instancia de Juicio del Trabajo, que declaró desistido el recurso de nulidad interpuesto. La Sala determinó que la parte recurrente no cumplió con las cargas procesales necesarias para la continuación del recurso, específicamente la publicación del cartel de emplazamiento, lo que llevó a la declaración de desistimiento. La Sala concluyó que no se evidencian violaciones a derechos constitucionales y declaró no ha lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia laboral",
+    "desistimiento",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-07-27_S1001_E15-0662.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/180031-1001-27715-2015-15-0662.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:16.441121"
+}

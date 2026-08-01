@@ -1,0 +1,24 @@
+{
+  "id": 34602,
+  "numero": "0060",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR PARCIALMENTE",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La ciudadana Ana María Fariñas Morales solicitó la revisión constitucional de una sentencia de adopción plena y conjunta emitida en 2010, argumentando que la adopción se había visto afectada por una condena penal contra el padre adoptivo, Richard Oscar Ariza, por abuso sexual. La Sala Constitucional, al revisar el caso, determinó que existía una causa sobrevenida que afectaba el interés superior de la niña adoptada, lo que justificaba la revisión de la sentencia original. La Sala decidió anular parcialmente la sentencia de adopción, invalidando el acta de nacimiento de la niña y ordenando la suscripción de una nueva acta reconociendo la filiación con su madre adoptiva.",
+  "palabras_clave": [
+    "adopcion",
+    "violencia de genero",
+    "derechos del niño",
+    "proteccion integral",
+    "incompatibilidad normativa"
+  ],
+  "titulo": "Revisión de sentencia de adopción plena y conjunta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0060_E21-0598.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315910-0060-8322-2022-21-0598.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.437824"
+}

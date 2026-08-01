@@ -1,0 +1,25 @@
+{
+  "id": 31009,
+  "numero": "0792",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad del recurso de interpretación constitucional interpuesto por el abogado José Antonio Castillo Suárez. La Sala determinó que no existía un interés jurídico actual, legítimo y fundado en una situación jurídica concreta que justificara la solicitud de interpretación del artículo 285 de la Constitución de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "interpretacion",
+    "constitucion",
+    "derechos humanos",
+    "recursos",
+    "tribunales",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda de interpretación del artículo 285 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0792_E17-0685.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326448-0792-26623-2023-17-0685.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.548772"
+}

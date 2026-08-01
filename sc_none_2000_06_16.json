@@ -1,0 +1,27 @@
+{
+  "id": 2276,
+  "numero": null,
+  "fecha": "2000-06-16",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "CON LUGAR",
+  "ponente": "JESUS EDUARDO CABRERA ROMERO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en fecha 9 de febrero de 2001, dictó sentencia en el expediente 00-2000, donde se declaró con lugar la acción de amparo interpuesta por Armand Choucroun contra la sentencia del Juzgado Décimo de Primera Instancia en lo Civil, Mercantil y del Tránsito, que había confirmado la negativa de oír apelación en un juicio de resolución de contrato de arrendamiento. El tribunal consideró que se habían violado los derechos constitucionales a la defensa y al debido proceso del accionante, al no pronunciarse sobre el desistimiento de la apelación. La decisión revoca la sentencia anterior y ordena la reposición de la causa para que se dicte una nueva sentencia.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "debido proceso",
+    "defensa",
+    "sentencia",
+    "juzgado",
+    "resolución",
+    "homologación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-09_Constitucional_00_CabreraRomero.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.730256"
+}

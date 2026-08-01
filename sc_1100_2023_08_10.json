@@ -1,0 +1,27 @@
+{
+  "id": 33978,
+  "numero": "1100",
+  "fecha": "2023-08-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 10 de agosto de 2023, declaró con lugar la solicitud de revisión constitucional interpuesta por Lawrence Alejandro Travieso Montañez, en su carácter de Director de la sociedad mercantil GRUPO HERLED C.A., contra la decisión del Juzgado Superior Octavo que había declarado con lugar una demanda de cumplimiento de contrato de opción a compra venta. La Sala consideró que el fallo impugnado incurrió en violaciones al debido proceso y a la tutela judicial efectiva, al aplicar un criterio jurisprudencial que no estaba vigente al momento de la introducción de la demanda, lo que afectó la seguridad jurídica y la expectativa legítima de las partes involucradas.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jurisprudencia",
+    "derechos fundamentales",
+    "control de constitucionalidad",
+    "debido proceso",
+    "tutela judicial",
+    "Código Civil",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisión de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-10_S1100_E19-0729.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328241-1100-10823-2023-19-0729.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.881056"
+}

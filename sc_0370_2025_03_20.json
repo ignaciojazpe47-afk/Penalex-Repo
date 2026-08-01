@@ -1,0 +1,25 @@
+{
+  "id": 18927,
+  "numero": "0370",
+  "fecha": "2025-03-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por José Claudio Molina Giordanelli contra un auto del Juzgado Superior Agrario. La decisión se basa en que el demandante no agotó los medios judiciales ordinarios antes de recurrir al amparo, lo que contraviene la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala establece que la acción de amparo es un recurso extraordinario que no debe ser utilizado en sustitución de los medios procesales establecidos.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "apelación",
+    "derecho a la defensa",
+    "Ley de Tierras",
+    "jurisdicción agraria"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-20_S0370_E24-0632.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342464-0370-20325-2025-24-0632.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.723241"
+}

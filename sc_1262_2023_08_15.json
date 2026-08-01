@@ -1,0 +1,23 @@
+{
+  "id": 34154,
+  "numero": "1262",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado César Fernando Ángulo Velasco en representación del ciudadano Carlos Alberto Flores Jiménez, quien se encuentra detenido. La acción se fundamenta en la presunta omisión de pronunciamiento por parte de la Corte de Apelaciones del Circuito Judicial Penal del Estado Táchira respecto a la nulidad absoluta planteada por la defensa, alegando vicios y violaciones procesales que afectaron el derecho a la libertad y al debido proceso del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "nulidad absoluta",
+    "derecho a la libertad",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1262_E23-0236.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328466-1262-15823-2023-23-0236.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.232385"
+}

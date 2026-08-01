@@ -1,0 +1,23 @@
+{
+  "id": 40100,
+  "numero": "0594",
+  "fecha": "2021-11-05",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de amparo interpuesta por los ciudadanos Carlos Delfino Thormahlen y Ricardo Delfino Monzón, en contra de la sentencia del Juzgado Superior Sexto que había declarado con lugar una apelación interpuesta por Carlos Felipe Pérez. La Sala anula la decisión del 7 de agosto de 2019 y declara la nulidad de las decisiones tomadas en varios expedientes relacionados con irregularidades administrativas en la sociedad mercantil Manufacturas de Papel S.A.C.A. (MANPA). Además, se decreta error judicial inexcusable a varios jueces por desconocer las decisiones de la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "irregularidades administrativas",
+    "Manufacturas de Papel",
+    "error judicial"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre irregularidades administrativas en MANPA",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-05_S0594_E19-0444.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314177-0594-51121-2021-19-0444.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.107824"
+}

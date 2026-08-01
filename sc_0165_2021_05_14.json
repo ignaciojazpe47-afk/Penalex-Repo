@@ -1,0 +1,27 @@
+{
+  "id": 38675,
+  "numero": "0165",
+  "fecha": "2021-05-14",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró no ha lugar la solicitud de revisión interpuesta por Christopher Jesús García Bolívar contra la sentencia número 1081 de la Sala de Casación Social. El solicitante argumentó que la Sala de Casación Social excluyó de la indexación o corrección monetaria dos conceptos demandados: el beneficio de alimentación y los salarios caídos, lo que consideró una violación de principios constitucionales.",
+  "palabras_clave": [
+    "indexación",
+    "corrección monetaria",
+    "salarios caídos",
+    "beneficio de alimentación",
+    "tutela judicial",
+    "debido proceso",
+    "igualdad",
+    "discriminación"
+  ],
+  "titulo": "Revisión constitucional de la sentencia número 1081",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-05-14_S0165_E16-1219.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/312125-0165-14521-2021-16-1219.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.879718"
+}

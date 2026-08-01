@@ -1,0 +1,22 @@
+{
+  "id": 21200,
+  "numero": "1215",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 28 de julio de 2025, declaró con lugar el recurso de apelación interpuesto por Aurys Hernández Padilla, en representación de Serge Jean Paul Lepinoux Torrealba, contra la sentencia del 8 de octubre de 2024, que había declarado procedente la acción de amparo constitucional interpuesta por Michel Lepinoux Chupeau. La Sala consideró que la acción de amparo era inadmisible, ya que el demandante no agotó los medios ordinarios disponibles para impugnar la decisión que homologó un convenimiento en un juicio de cumplimiento de contrato de arrendamiento.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "due process"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1215_E24-1134.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346511-1215-28725-2025-24-1134.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.777299"
+}

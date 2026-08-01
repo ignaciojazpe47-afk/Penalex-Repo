@@ -1,0 +1,25 @@
+{
+  "id": 41023,
+  "numero": "0028",
+  "fecha": "2020-02-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre el recurso de apelación interpuesto por Rafael Santiago Díaz Ceballos contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La Sala consideró que la acción de amparo era inadmisible debido a que había cesado la violación de derechos alegada, ya que el Tribunal había dado entrada al recurso de revisión de sentencia interpuesto por el apelante. Además, se ordenó la anulación de un auto anterior que imponía un régimen de presentaciones cada noventa días, y se ordenó al tribunal de ejecución fijar un nuevo plazo para que el apelante cumpla con los requisitos legales necesarios para la suspensión condicional de la ejecución de la pena.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "ejecución penal",
+    "revisión constitucional",
+    "nulidad",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-11_S0028_E18-0120.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309538-0028-11220-2020-18-0120.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.144941"
+}

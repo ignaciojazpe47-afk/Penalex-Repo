@@ -1,0 +1,26 @@
+{
+  "id": 17801,
+  "numero": "0228",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por la sociedad mercantil MS GESTIÓN DE ACTIVOS, C.A. contra el Juzgado Tercero de Primera Instancia en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Área Metropolitana de Caracas. La decisión se basa en que el auto de mero trámite que ordenó abrir la articulación probatoria no causa un gravamen irreparable y que existían vías ordinarias para resolver la situación jurídica planteada.\n\nSe argumenta que la acción de amparo solo es procedente cuando no hay medios judiciales ordinarios idóneos para restablecer la situación jurídica infringida. En este caso, se concluye que el tribunal actuó dentro de su competencia y que la solicitud de revocatoria por contrario imperio no era suficiente para justificar la admisión del amparo.\n\nFinalmente, se confirma la decisión del Juzgado Superior Séptimo, declarando sin lugar el recurso de apelación interpuesto por el abogado Miguel Ángel Díaz Carreras.",
+  "palabras_clave": [
+    "amparo",
+    "debido proceso",
+    "apelación",
+    "jurisprudencia",
+    "constitucionalidad",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0228_E25-1203.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353533-0228-11326-2026-25-1203.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.585882"
+}

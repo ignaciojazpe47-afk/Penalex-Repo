@@ -1,0 +1,25 @@
+{
+  "id": 29456,
+  "numero": "0195",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo interpuesta por Leonel Arrechediera, representado por los abogados Nelson Barrios y Annabell Moncada, contra una decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala determina que ha habido abandono del trámite por parte del accionante, al no realizar actuaciones procesales válidas durante más de seis meses, lo que lleva a declarar terminado el procedimiento.",
+  "palabras_clave": [
+    "doble instancia",
+    "inmotivation",
+    "tutela judicial",
+    "debido proceso",
+    "apelación",
+    "retardo procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-24_S0195_E20-0206.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323856-0195-24323-2023-20-0206.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.064467"
+}

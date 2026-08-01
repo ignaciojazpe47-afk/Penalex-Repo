@@ -1,0 +1,26 @@
+{
+  "id": 44001,
+  "numero": "0305",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por las abogadas Diurkin Daniuska Bolívar Lugo e Indira Mercedes Amarista Aguilar, en representación del ciudadano Héctor Daniel Páez Salazar. La acción se dirigía contra la sentencia dictada el 20 de noviembre de 2018 por la Sala N° 3 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que declaró sin lugar el recurso de apelación interpuesto por la defensa del ciudadano. La Sala Constitucional, tras analizar los argumentos presentados, declaró improcedente la acción de amparo, confirmando la decisión de la Corte de Apelaciones y el auto de ejecución de sentencia dictado el 20 de octubre de 2017 por el Juzgado Décimo Cuarto de Primera Instancia en Funciones de Ejecución.",
+  "palabras_clave": [
+    "debido proceso",
+    "tutela judicial",
+    "ejecución de penas",
+    "nulidades",
+    "derechos constitucionales",
+    "justicia",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Héctor Daniel Páez Salazar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0305_E18-0863.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307170-0305-16819-2019-18-0863.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.379366"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 44012,
+  "numero": "0316",
+  "fecha": "2019-08-16",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del 2 de febrero de 2016, que declaró sin lugar el recurso de apelación de Rafael Arturo Ramírez Camejo, respecto a la entrega material de un inmueble. Se argumentó que el juzgado de instancia había suspendido el trámite de entrega por no haberse cumplido un procedimiento previo ante la Superintendencia Nacional de Arrendamiento de Vivienda (SUNAVI), lo cual fue considerado como una violación al derecho a la tutela judicial efectiva y al debido proceso del solicitante. La Sala concluyó que el juzgado debió trasladarse al inmueble para verificar su ocupación antes de suspender el procedimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "jurisdicción voluntaria",
+    "tutela judicial",
+    "Código de Procedimiento Civil",
+    "derecho a la propiedad",
+    "interpretación de normas"
+  ],
+  "titulo": "Revisión de sentencia sobre entrega material de inmueble",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-16_S0316_E17-0407.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307182-0316-16819-2019-17-0407.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.380234"
+}

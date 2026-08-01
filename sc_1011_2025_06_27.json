@@ -1,0 +1,26 @@
+{
+  "id": 20611,
+  "numero": "1011",
+  "fecha": "2025-06-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de la acción de amparo interpuesta por Pasqualino Fischietto Mariane contra el Juez Pedro Enrique Velasco Prieto, quien había declarado inadmisible un recurso de abstención. La Sala determinó que no tenía competencia para conocer el caso y declinó la misma a los Juzgados Nacionales Contencioso Administrativo de la Región Capital, ordenando la remisión del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "garantías",
+    "administración",
+    "constitucional",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre la competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1011_E21-0557.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345280-1011-27625-2025-21-0557.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.308099"
+}

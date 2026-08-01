@@ -1,0 +1,23 @@
+{
+  "id": 61254,
+  "numero": "1180",
+  "fecha": "2016-12-15",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por Ana Sofía Gregoriadis Guzmán contra la sentencia del 1° de agosto de 2014, que declaró con lugar la demanda de cumplimiento de contrato presentada por Baihui Chang Chan. La peticionaria alegó violaciones a sus derechos a la defensa y al debido proceso, argumentando negligencia por parte de su defensor ad litem y del juez que sustanció el expediente. La Sala consideró que efectivamente hubo vulneración de derechos fundamentales y decidió anular la sentencia impugnada, reponiendo la causa para que un nuevo juzgado se aboque a la misma.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "negligencia",
+    "sentencia anulada"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo de cumplimiento de contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-12-15_S1180_E16-1042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/194023-1180-151216-2016-16-1042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:35.272228"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 22630,
+  "numero": "1687",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en relación a una acción de amparo constitucional interpuesta por Donnys Gregory Ruz Mora, quien alegaba la omisión de pronunciamiento por parte de la Juez del Juzgado Décimo Octavo de Primera Instancia en Funciones de Control. La apelación fue presentada tras la declaración de inadmisibilidad de la acción de amparo por parte de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas, que consideró que no había violación de derechos fundamentales debido a la fijación de una audiencia preliminar para el 28 de enero de 2025.\n\nLa Sala Constitucional, al analizar el caso, determinó su competencia para conocer el recurso y ordenó a la Presidencia del Circuito Judicial Penal remitir el acta de la audiencia preliminar y un informe sobre el estatus actual de la causa penal. Se destacó la importancia de verificar si la audiencia se llevó a cabo, ya que esto influiría en la decisión sobre la admisibilidad de la acción de amparo.\n\nFinalmente, se ordenó la notificación electrónica de la decisión y se dejó constancia de la necesidad de cumplir con lo solicitado en un plazo de cinco días hábiles, advirtiendo sobre las sanciones en caso de incumplimiento.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "audiencia",
+    "juzgado",
+    "circuito",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1687_E25-0112.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349290-1687-291025-2025-25-0112.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.555136"
+}

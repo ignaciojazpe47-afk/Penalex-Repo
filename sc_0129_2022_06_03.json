@@ -1,0 +1,23 @@
+{
+  "id": 35002,
+  "numero": "0129",
+  "fecha": "2022-06-03",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Agrario",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la solicitud de avocamiento presentada por varios ciudadanos en representación de la Federación Campesina Bolivariana de Venezuela, decide aceptar la competencia declinada por la Sala de Casación Social. Se admite a trámite la solicitud y se avoca de oficio a la demanda de nulidad de asiento registral. La sentencia establece la creación de una Junta Directiva Ad Hoc para la Federación, con el objetivo de legitimar sus autoridades y garantizar su funcionamiento hasta la celebración de elecciones internas.",
+  "palabras_clave": [
+    "Avocamiento",
+    "Federación Campesina Bolivariana de Venezuela",
+    "Junta Directiva Ad Hoc",
+    "Nulidad de asiento registral"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento de la Federación Campesina Bolivariana de Venezuela",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-03_S0129_E21-0086.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/316897-0129-3622-2022-21-0086.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.409407"
+}

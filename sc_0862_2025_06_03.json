@@ -1,0 +1,27 @@
+{
+  "id": 20153,
+  "numero": "0862",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 3 de junio de 2025, declaró no ha lugar la solicitud de revisión constitucional presentada por Giuseppe Trimarchi Brancato, quien impugnaba la decisión de la Sala de Casación Civil del 3 de mayo de 2023. En su fallo, la Sala Constitucional argumentó que la revisión no debe ser entendida como un medio ordinario de impugnación, sino como un mecanismo excepcional y discrecional, y que la solicitud no cumplía con los supuestos establecidos para su procedencia.\n\nLa Sala también destacó que la decisión de la Sala de Casación Civil había analizado y resuelto los aspectos invocados por el solicitante, y que no se evidenciaban infracciones grotescas de interpretación de normas constitucionales. Se enfatizó que la revisión constitucional no debe ser utilizada para cuestionar decisiones adversas, sino para garantizar la unidad y coherencia en la interpretación de las normas constitucionales.\n\nFinalmente, la Sala reafirmó su competencia para conocer la solicitud, pero determinó que no había lugar para la revisión solicitada, manteniendo así la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "simulación",
+    "venta",
+    "prueba",
+    "testigos",
+    "motivación",
+    "constitucional",
+    "acción",
+    "caducidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0862_E25-0052.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344432-0862-3625-2025-25-0052.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.306832"
+}

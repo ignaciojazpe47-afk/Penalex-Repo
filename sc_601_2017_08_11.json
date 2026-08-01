@@ -1,0 +1,24 @@
+{
+  "id": 53528,
+  "numero": "601",
+  "fecha": "2017-08-11",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2014-1247 de la Corte Segunda de lo Contencioso Administrativo, que había declarado con lugar un recurso de apelación y anulado una sentencia anterior. El solicitante, JOB DE JESÚS PÉREZ CASTELLANOS, argumentó que la decisión le privó de su derecho a la jubilación tras más de 23 años de servicio. La Sala encontró que la Corte Segunda no consideró adecuadamente el derecho a la jubilación y que su decisión generó indefensión al solicitante. Por lo tanto, se declaró con lugar la solicitud de revisión, anulando el fallo impugnado y ordenando a la Corte Primera de lo Contencioso Administrativo que emitiera un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "jubilación",
+    "indefensión",
+    "derechos laborales",
+    "Cuerpo de Investigaciones Científicas"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 2014-1247",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-08-11_S601_E16-0417.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/202782-601-11817-2017-16-0417.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:09.667449"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 31985,
+  "numero": "1361",
+  "fecha": "2023-08-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la acción de amparo constitucional interpuesta por María Paola Hernández Vásquez contra una decisión de la Corte de Apelaciones que anuló una audiencia preliminar y ordenó la reposición del caso. La Sala consideró que la decisión de la Corte de Apelaciones vulneró los derechos de la accionante al debido proceso y a la tutela judicial efectiva, ya que la audiencia preliminar ya había sido realizada y el juicio había culminado con una condena al imputado por violencia psicológica.\n\nLa Sala declaró con lugar la acción de amparo, anulando la decisión de la Corte de Apelaciones y ordenando la reposición de la causa al estado de realizar una nueva audiencia preliminar, destacando la importancia de proteger los derechos de las víctimas de violencia de género y la necesidad de evitar la revictimización. Además, se impuso una multa a la parte actora por abandono del trámite en el proceso de amparo.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la acción de amparo y subrayó la importancia de garantizar el debido proceso en casos de violencia contra la mujer, en cumplimiento de las normativas nacionales e internacionales sobre derechos humanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "violencia de género",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en caso de violencia de género",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-22_S1361_E22-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328567-1361-22823-2023-22-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.214621"
+}

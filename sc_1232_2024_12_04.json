@@ -1,0 +1,24 @@
+{
+  "id": 28272,
+  "numero": "1232",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión de una sentencia dictada por el Tribunal Superior Primero del Trabajo de la Circunscripción Judicial del Estado Aragua, en relación a un amparo constitucional solicitado por un grupo de trabajadores contra la empresa Pepsi-Cola Venezuela, C.A. La solicitud de revisión fue presentada por el abogado Régulo García Rebolledo, quien actuó como apoderado judicial de los trabajadores. La Sala consideró que era competente para conocer la solicitud de revisión y ordenó la remisión de las causas judiciales requeridas para un mejor análisis del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "trabajadores",
+    "Pepsi-Cola",
+    "Estado Aragua"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia del Tribunal Superior Primero del Trabajo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1232_E21-0811.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340174-1232-41224-2024-21-0811.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.046699"
+}

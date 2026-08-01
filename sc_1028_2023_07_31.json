@@ -1,0 +1,22 @@
+{
+  "id": 31670,
+  "numero": "1028",
+  "fecha": "2023-07-31",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo constitucional interpuesta por el abogado Gabriel María De Jesús Kassen Machado en representación de Carlos Nayib El Chaar Colmenares. La Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa había declarado inadmisible la acción, argumentando que el demandante contaba con vías ordinarias para solicitar la revisión de la medida de privación de libertad, lo que fue confirmado por la Sala Constitucional.\n\nLa Sala Constitucional reiteró que la acción de amparo no debe ser utilizada como un medio sustitutivo de los recursos procesales ordinarios y que el demandante no había agotado las vías judiciales disponibles. En consecuencia, se declaró sin lugar el recurso de apelación y se confirmó la decisión de la Corte de Apelaciones, que había declarado inadmisible la acción de amparo.\n\nFinalmente, se ordenó remitir el expediente a la Corte de Apelaciones del Circuito Judicial Penal del Estado Portuguesa, cumpliendo con lo establecido en la ley.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-31_S1028_E20-0276.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327560-1028-31723-2023-20-0276.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.900464"
+}

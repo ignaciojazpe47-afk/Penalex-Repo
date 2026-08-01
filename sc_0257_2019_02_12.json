@@ -1,0 +1,24 @@
+{
+  "id": 43896,
+  "numero": "0257",
+  "fecha": "2019-02-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional dictó la sentencia número 7, donde se concede la revisión constitucional de la sentencia número 675/2018, dictada por la Sala de Casación Civil. Se anula la sentencia anterior y se mantiene vigente una medida cautelar de vigilancia sobre un inmueble, hasta que se dicte una decisión definitiva en la causa. Además, se ordena notificar a los juzgados correspondientes sobre esta decisión.",
+  "palabras_clave": [
+    "medida cautelar",
+    "revisión constitucional",
+    "Juzgado",
+    "sentencia",
+    "Tribunal Supremo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia número 675/2018",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-14_S0257_E19-0016.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/307018-0257-14819-2019-19-0016.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:00.120743"
+}

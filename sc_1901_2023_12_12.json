@@ -1,0 +1,26 @@
+{
+  "id": 33754,
+  "numero": "1901",
+  "fecha": "2023-12-12",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión planteada por los apoderados judiciales de la sociedad anónima 'AEROPUERTO CARACAS, C.A.' sobre la sentencia n.° 00307, dictada el 4 de noviembre de 2021, que declaró improcedente la solicitud de reposición de la causa. La Sala argumenta que la revisión no procede ya que la sentencia en cuestión no es un fallo de mérito definitivamente firme y no pone fin al juicio principal. Además, se destaca que la solicitud de reposición no cumple con los requisitos establecidos por la ley para su admisibilidad.",
+  "palabras_clave": [
+    "nulidad",
+    "reposicion",
+    "justicia",
+    "administrativa",
+    "procedimiento",
+    "derechos",
+    "constitucion"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de la sentencia n.° 00307",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-12_S1901_E22-0828.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331871-1901-121223-2023-22-0828.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.455090"
+}

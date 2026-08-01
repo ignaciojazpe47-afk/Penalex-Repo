@@ -1,0 +1,25 @@
+{
+  "id": 31155,
+  "numero": "0862",
+  "fecha": "2023-07-10",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por la abogada Meri Coromoto Colina Sánchez en defensa del ciudadano Carlos Miguel Guédez Colina, contra el Teniente Coronel José Gregorio Vidal Montilla, por presuntas violaciones al debido proceso en un procedimiento militar. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso, declinando la misma a un Juzgado Militar de Primera Instancia en Funciones de Control del Estado Aragua.",
+  "palabras_clave": [
+    "derechos humanos",
+    "debido proceso",
+    "acción de amparo",
+    "justicia militar",
+    "nulidad",
+    "detención ilegal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-10_S0862_E21-0267.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/326682-0862-10723-2023-21-0267.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.531858"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 37695,
+  "numero": "1050",
+  "fecha": "2022-11-25",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible la acción de amparo constitucional interpuesta por varios ciudadanos en contra de las actuaciones del Juzgado Segundo de Primera Instancia Agraria del Estado Guárico. La decisión se fundamenta en que los demandantes no agotaron las vías ordinarias disponibles para impugnar las decisiones del tribunal agraviante, lo que llevó a la inadmisibilidad de su solicitud de amparo. La Sala reafirma que el amparo no es el único medio para proteger derechos fundamentales y que deben ser utilizados los recursos ordinarios antes de recurrir a esta vía extraordinaria.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales",
+    "Estado Guárico"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-25_S1050_E22-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321244-1050-251122-2022-22-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.457076"
+}

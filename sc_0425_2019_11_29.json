@@ -1,0 +1,25 @@
+{
+  "id": 44628,
+  "numero": "0425",
+  "fecha": "2019-11-29",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No Ha Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Cloraldo Del Carmen Villegas Yépez, quien impugnó la decisión del Juzgado Superior Primero del Trabajo que declaró inadmisible su acción de amparo. La Sala determinó que el Juez Superior había actuado correctamente al considerar que existía un recurso de apelación como vía ordinaria para atacar la decisión, lo que llevó a la inadmisibilidad del amparo. Finalmente, la Sala declaró 'No Ha Lugar' la solicitud de revisión, reafirmando la necesidad de agotar las vías judiciales ordinarias antes de recurrir al amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "casación",
+    "derechos fundamentales",
+    "justificación",
+    "jurisdicción"
+  ],
+  "titulo": "Revisión de sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-29_S0425_E17-1225.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308362-0425-291119-2019-17-1225.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.825260"
+}

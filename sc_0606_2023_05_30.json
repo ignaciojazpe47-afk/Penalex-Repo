@@ -1,0 +1,25 @@
+{
+  "id": 30560,
+  "numero": "0606",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo constitucional interpuesta por el abogado Hugo Contreras Molina en representación de Wilder José Viana Acevedo. La acción se fundamentó en la alegación de violaciones a las garantías constitucionales en el proceso penal, específicamente en relación a la medida de privación de libertad impuesta al demandado por la presunta comisión de delitos de robo agravado. La Sala concluye que no se han vulnerado los derechos del encausado y que la decisión de mantener la medida de coerción fue ajustada a derecho, considerando las circunstancias del caso y el contexto de la pandemia de COVID-19.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "libertad personal",
+    "proceso penal",
+    "garantías constitucionales",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0606_E22-0527.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325694-0606-30523-2023-22-0527.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.917912"
+}

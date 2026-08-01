@@ -1,0 +1,26 @@
+{
+  "id": 22269,
+  "numero": "1609",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la declinatoria de competencia efectuada por el Juzgado Quinto Superior del Circuito Judicial del Trabajo, que había declarado su incompetencia para conocer la acción de amparo constitucional interpuesta por Víctor José Quiñones Valverde. La Sala aceptó la competencia declinada y decidió que correspondía a ella conocer del caso, dado que se alegaban violaciones de derechos fundamentales en el proceso judicial anterior.\n\nEl accionante argumentó que se habían vulnerado sus derechos al debido proceso y a la tutela judicial efectiva, debido a irregularidades en el juicio por cobro de diferencias de prestaciones sociales. La Sala, tras revisar los argumentos y la situación procesal, ordenó recabar el recorrido procesal de las actuaciones en el juicio principal y en las incidencias, para garantizar el debido proceso y la justicia expedita.\n\nFinalmente, se dictó un auto para mejor proveer, advirtiendo que el incumplimiento de lo solicitado conllevaría sanciones, y se ordenó la notificación correspondiente a la Presidencia del Circuito Laboral.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "audiencia",
+    "apelación",
+    "incidencia",
+    "vicios_procesales",
+    "justicia_expedita"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Víctor José Quiñones Valverde",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1609_E25-0887.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348726-1609-151025-2025-25-0887.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.755741"
+}

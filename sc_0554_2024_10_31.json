@@ -1,0 +1,25 @@
+{
+  "id": 27123,
+  "numero": "0554",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 31 de octubre de 2024, declaró inadmisible la acción de amparo interpuesta por NILYAN ESNEIRA CHACÍN GUTIÉRREZ, a través de su abogado JOSÉ GREGORIO OCANDO, contra la omisión de pronunciamiento del Tribunal Primero de Primera Instancia en Funciones de Control Municipal del Circuito Judicial Penal del Estado Lara. La Corte de Apelaciones había declarado inadmisible la acción el 4 de octubre de 2023, argumentando que la solicitud de prescripción de la acción penal ya había sido resuelta, lo que llevó a la Sala a confirmar dicha decisión. La Sala destacó que la acción de amparo no procede cuando la supuesta violación de derechos ha cesado.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "derechos constitucionales",
+    "inadmisibilidad",
+    "proceso penal",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0554_E23-1092.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338507-0554-311024-2024-23-1092.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.314121"
+}

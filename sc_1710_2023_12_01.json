@@ -1,0 +1,25 @@
+{
+  "id": 33207,
+  "numero": "1710",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 1 de diciembre de 2023, declaró su competencia para conocer la solicitud de revisión presentada por la sociedad mercantil Asados Venezolanos, C.A. contra la sentencia del Tribunal Superior Segundo del Trabajo de Carabobo, que había declarado sin lugar el recurso de apelación interpuesto por dicha sociedad. La Sala concluyó que no había lugar a la revisión, ya que no se evidenciaron violaciones a derechos constitucionales ni errores en la interpretación de normas.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "jurisdicción laboral",
+    "incongruencia negativa",
+    "amparo constitucional"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1710_E21-0767.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330956-1710-11223-2023-21-0767.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.170039"
+}

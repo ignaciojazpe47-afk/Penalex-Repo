@@ -1,0 +1,26 @@
+{
+  "id": 29934,
+  "numero": "0343",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado José De Jesús Barroeta Azcón en representación de Jesús Alberto Mujica Pérez, contra una sentencia de la Corte de Apelaciones del Estado Cojedes que declaró sin lugar un recurso de apelación. La Sala determinó su competencia para conocer la acción y ordenó la remisión de una copia certificada de la sentencia apelada, que se encontraba ilegible, para poder dictar una decisión ajustada a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "sentencia",
+    "Corte de Apelaciones",
+    "legibilidad",
+    "derechos",
+    "garantías",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0343_E21-0646.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324613-0343-28423-2023-21-0646.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:31.812786"
+}

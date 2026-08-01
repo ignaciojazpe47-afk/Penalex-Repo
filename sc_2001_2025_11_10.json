@@ -1,0 +1,23 @@
+{
+  "id": 23727,
+  "numero": "2001",
+  "fecha": "2025-11-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por los abogados de Efraín Algimiro Pinto Requena, contra la decisión de la Corte de Apelaciones que declaró inadmisible un recurso de apelación por extemporáneo. La Sala constató múltiples violaciones procesales y errores en el cómputo de los plazos, lo que afectó el derecho de acceso a la justicia del demandante. En consecuencia, se anuló la decisión impugnada y se ordenó a la Corte de Apelaciones dictar un nuevo pronunciamiento, resolviendo previamente el asunto de competencia planteado.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "Corte de Apelaciones",
+    "inadmision",
+    "derecho de acceso a la justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2001_E21-0801-22-0322.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351743-2001-101225-2025-21-0801-22-0322.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.519487"
+}

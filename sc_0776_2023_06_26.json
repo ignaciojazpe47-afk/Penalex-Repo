@@ -1,0 +1,22 @@
+{
+  "id": 30993,
+  "numero": "0776",
+  "fecha": "2023-06-26",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la empresa Microsules Argentina contra la Sala Político Administrativa. Se argumenta que la acción no puede ser admitida debido a la prohibición legal de cuestionar decisiones del Tribunal Supremo de Justicia. La decisión se basa en la interpretación de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales y la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-06-26_S0776_E19-0747.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/326432-0776-26623-2023-19-0747.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:05.542885"
+}

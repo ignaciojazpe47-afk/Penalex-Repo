@@ -1,0 +1,26 @@
+{
+  "id": 30533,
+  "numero": "0579",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La ciudadana Zully Coromoto López Villarroel interpuso una acción de amparo contra varios órganos e instituciones, alegando la falta de atención a sus denuncias y la violación de sus derechos. La Sala Constitucional, tras analizar las pretensiones, concluyó que se trataba de una inepta acumulación de pretensiones, ya que las demandas estaban dirigidas contra entidades de diferentes poderes públicos y no guardaban relación entre sí. Por lo tanto, se declaró inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "acumulación de pretensiones",
+    "Código de Procedimiento Civil",
+    "derechos fundamentales",
+    "instituciones públicas",
+    "tutela judicial",
+    "poderes públicos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0579_E19-0198.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325667-0579-30523-2023-19-0198.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.942828"
+}

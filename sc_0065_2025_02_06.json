@@ -1,0 +1,24 @@
+{
+  "id": 18215,
+  "numero": "0065",
+  "fecha": "2025-02-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La ciudadana Nohelí del Carmen Ramírez Montenegro interpuso una acción de amparo constitucional contra varias entidades por presuntas violaciones de derechos humanos. La Sala Constitucional del TSJ, tras analizar el caso, determinó que la acción era inadmisible por inepta acumulación de pretensiones, ya que debió interponerse de forma independiente y por separado según los sujetos presuntamente agraviantes. La decisión se fundamenta en el artículo 78 del Código de Procedimiento Civil, aplicable supletoriamente al proceso de amparo.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "amparo constitucional",
+    "competencia",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica de Amparo"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-06_S0065_E24-0624.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341232-0065-6225-2025-24-0624.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.562139"
+}

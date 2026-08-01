@@ -1,0 +1,24 @@
+{
+  "id": 30296,
+  "numero": "0514",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado Moisés Alexander Codnich Raciny, en representación de Patricia Eugin Ysaacs de Plaza, por falta de legitimidad. La decisión se basa en que el accionante no acreditó su condición de defensor privado mediante la presentación de la copia certificada de la juramentación ante el tribunal correspondiente.\nLa Sala considera que la legitimación para interponer la acción de amparo es personalísima y debe existir una conexión entre el accionante y el agraviado. En este caso, la falta de documentación que acredite dicha condición impide el conocimiento del recurso.\nFinalmente, se ordena al Tribunal Quinto de Primera Instancia en Funciones de Control del Circuito Judicial Penal del estado Carabobo que remita un informe detallado sobre el estado del proceso penal seguido contra la ciudadana Patricia Eugin Ysaacs de Plaza.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "salud",
+    "legitimación",
+    "acción judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0514_E21-0471.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325139-0514-16523-2023-21-0471.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.866890"
+}

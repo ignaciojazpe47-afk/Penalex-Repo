@@ -1,0 +1,25 @@
+{
+  "id": 43392,
+  "numero": "0190",
+  "fecha": "2019-07-04",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "El ciudadano Rodolfo Luis Quijada interpuso una acción de amparo constitucional contra la Inspectoría General de Tribunales por la omisión de tramitar denuncias contra jueces. La Sala Constitucional, tras evaluar el caso, determinó que la acción era inadmisible, argumentando que existían vías procesales ordinarias que debían ser agotadas antes de recurrir al amparo. Se destacó que no toda omisión administrativa genera una lesión constitucional y que el uso de la vía contencioso-administrativa era suficiente para restablecer los derechos alegados.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "administración",
+    "omisiones",
+    "proceso",
+    "constitucional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-07-04_S0190_E18-0527.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/305965-0190-4719-2019-18-0527.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:51.827881"
+}

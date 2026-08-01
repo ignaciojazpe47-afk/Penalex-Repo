@@ -1,0 +1,27 @@
+{
+  "id": 2264,
+  "numero": null,
+  "fecha": "2001-02-06",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos y Garantías Constitucionales",
+  "decision": "Se revoca la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas, mediante la cual declaró inadmisible la acción de amparo constitucional.",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 6 de febrero de 2001, abordó la acción de amparo constitucional interpuesta por el defensor de los imputados Robert Giuseppe Nieves Gutiérrez y Héctor Alexander Cortés Orozco, contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas, que había declarado inadmisible la solicitud de amparo. La Corte de Apelaciones había fundamentado su decisión en la supuesta falta de elementos suficientes para la privación preventiva de libertad de los imputados, quienes estaban siendo procesados por extorsión. La Sala Constitucional, tras analizar los antecedentes del caso y los alegatos de la parte demandante, concluyó que la acción de amparo era improcedente, ya que la privación de libertad se había realizado conforme a los requisitos legales establecidos en el Código Orgánico Procesal Penal. En consecuencia, se revocó la decisión de inadmisibilidad y se declaró improcedente la acción de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "privación de libertad",
+    "Corte de Apelaciones",
+    "Estado Barinas",
+    "debido proceso",
+    "extorsión",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Revocación de Inadmisibilidad de Amparo Constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-06_Constitucional_00.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.715641"
+}

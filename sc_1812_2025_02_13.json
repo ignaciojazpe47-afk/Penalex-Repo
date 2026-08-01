@@ -1,0 +1,22 @@
+{
+  "id": 23044,
+  "numero": "1812",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Tania D’Amelio Cardiet",
+  "resumen": "La sentencia N° 0122, dictada el 13 de febrero de 2025, ordena al Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Carabobo informar sobre el estado de la causa y el cuaderno de inhibiciones relacionado con la acción de daño moral presentada por la sociedad mercantil Almivari, C.A. contra Club Turístico La Cascada y otros. Se destaca la omisión de pronunciamiento por parte del juzgado sobre solicitudes previas de nulidad.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "daño moral",
+    "inhibiciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1812_E23-1031.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349936-1812-181125-2025-23-1031.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.767801"
+}

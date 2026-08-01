@@ -1,0 +1,26 @@
+{
+  "id": 28481,
+  "numero": "1386",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de revisión constitucional presentada por Elsa Mercedes López de Villarroel, quien impugnó la sentencia del Tribunal Cuarto Superior Laboral. La revisión fue solicitada debido a la supuesta omisión de valorar pruebas y el silencio en la decisión del tribunal de alzada. Sin embargo, la Sala concluye que no se cumplen los supuestos para la procedencia de la revisión constitucional, ya que no se evidencia un desconocimiento de criterios interpretativos de normas constitucionales ni una vulneración de derechos fundamentales.",
+  "palabras_clave": [
+    "silencio de pruebas",
+    "valoración de pruebas",
+    "Código de Procedimiento Civil",
+    "indemnización",
+    "enfermedad ocupacional",
+    "prejuicialidad",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de sentencia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1386_E18-0577.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340503-1386-121224-2024-18-0577.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.825044"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18435,
+  "numero": "0129",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Francisco Antonio Salcines contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible su acción de amparo. La Sala determinó su competencia para conocer el caso, dado que la apelación se refiere a una sentencia en materia de amparo constitucional. Se ordenó oficiar al Circuito Judicial de Protección de Niños, Niñas y Adolescentes para que remita un informe detallado sobre el procedimiento de filiación relacionado con el caso.",
+  "palabras_clave": [
+    "amparo",
+    "filiación",
+    "niños",
+    "adolescentes",
+    "derechos",
+    "justicia",
+    "tutela"
+  ],
+  "titulo": "Sentencia sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0129_E24-0681.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341534-0129-13225-2025-24-0681.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.768816"
+}

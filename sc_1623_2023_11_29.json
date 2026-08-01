@@ -1,0 +1,24 @@
+{
+  "id": 33114,
+  "numero": "1623",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 03 de agosto de 2017, que declaró con lugar la confesión ficta en un juicio de simulación de contrato de compraventa. La ciudadana Belkys Mirian Tami Portilla solicitó la revisión argumentando que su contestación a la demanda fue presentada en tiempo y que el tribunal inferior incurrió en error al considerarla confusa e incongruente. La Sala determinó que el juzgado había violado el derecho a la defensa y al debido proceso al no considerar válida la contestación presentada por la demandada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "confesión ficta",
+    "simulación",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la confesión ficta en juicio de simulación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1623_E20-0110.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330790-1623-291123-2023-20-0110.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.010086"
+}

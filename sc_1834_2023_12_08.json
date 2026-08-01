@@ -1,0 +1,25 @@
+{
+  "id": 33500,
+  "numero": "1834",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Eliezer Lobo, defensor privado de Armando Antonio Suárez Angarita, debido a la falta de representación adecuada. La decisión apelada, dictada por la Sala N° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Lara, había declarado improcedente la acción de amparo. La Sala Constitucional revisó el caso y determinó que el abogado no presentó la documentación necesaria que acreditara su representación, lo que llevó a la inadmisibilidad de la apelación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "improcedencia",
+    "derechos humanos",
+    "garantías constitucionales",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1834_E23-0247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331369-1834-81223-2023-23-0247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.466278"
+}

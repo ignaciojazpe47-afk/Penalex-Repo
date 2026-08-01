@@ -1,0 +1,25 @@
+{
+  "id": 44362,
+  "numero": "0330",
+  "fecha": "2019-11-08",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo constitucional interpuesto por IVÁN SOSA RIVERO contra el Juez Joel Darío Altuve Patiño. La acción fue presentada por sus defensoras, quienes argumentaron que la actuación del juez vulneraba el derecho a un juicio imparcial. La Sala declaró su competencia para conocer del caso y ordenó verificar el estado actual de la causa primigenia, dado que la parte demandante desistió de la acción debido a la inhibición del juez.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "juzgado",
+    "inhibición",
+    "causa",
+    "decisión",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por IVÁN SOSA RIVERO",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-11-08_S0330_E18-0433.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/308029-0330-81119-2019-18-0433.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:42.384892"
+}

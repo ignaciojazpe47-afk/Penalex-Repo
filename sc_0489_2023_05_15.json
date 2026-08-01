@@ -1,0 +1,25 @@
+{
+  "id": 30270,
+  "numero": "0489",
+  "fecha": "2023-05-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Perención de la instancia y la extinción del proceso",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la perención de la instancia y la extinción del proceso en la demanda por intereses difusos y colectivos interpuesta contra el Ministerio del Poder Popular para la Salud. La decisión se basa en la inactividad del procedimiento por más de un año, lo que configura la perención de la instancia según la Ley Orgánica del Tribunal Supremo de Justicia. Además, se revoca una medida cautelar anterior relacionada con el caso.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "inactividad",
+    "derechos humanos",
+    "patrimonio público",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre perención de instancia en demanda por intereses difusos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-15_S0489_E08-1521.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325110-0489-15523-2023-08-1521.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.038908"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21486,
+  "numero": "1346",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La abogada Olga Zolaida López solicitó revisión constitucional de una sentencia que declaró con lugar una apelación y revocó una decisión anterior sobre una querella interdictal de amparo por perturbación a la posesión. La Sala Constitucional, tras analizar los argumentos y pruebas presentadas, concluyó que no se evidenció violación de derechos constitucionales y que la parte solicitante no demostró la perturbación alegada. Por lo tanto, se declaró sin lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "perturbación a la posesión",
+    "querella interdictal"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Perturbación a la Posesión",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1346_E18-0238.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347008-1346-6825-2025-18-0238.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.760560"
+}

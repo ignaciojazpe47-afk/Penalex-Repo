@@ -1,0 +1,24 @@
+{
+  "id": 24073,
+  "numero": "0020",
+  "fecha": "2023-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un amparo constitucional interpuesto por el abogado Ralvin Key en representación de Ramses Jurado Martínez, alegando un error judicial en la valoración de pruebas por parte del Tribunal de Juicio de Primera Instancia y la Corte de Apelaciones. La Sala, tras revisar el expediente, ordenó notificar al abogado para que aclare y precise su pretensión en relación a los actos lesivos denunciados. Se advierte que, de no subsanar lo indicado, la acción de amparo podría ser declarada inadmisible.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "violencia contra la mujer",
+    "error judicial",
+    "corte de apelaciones"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0020_E23-0948.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332372-0020-5224-2024-23-0948.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.305909"
+}

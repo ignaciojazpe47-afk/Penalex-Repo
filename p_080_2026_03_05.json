@@ -1,0 +1,23 @@
+{
+  "id": 16996,
+  "numero": "080",
+  "fecha": "2026-03-05",
+  "anio": 2026,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Con Lugar",
+  "ponente": "MAIKEL JOSÉ MORENO PÉREZ",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia dictó la sentencia número 257, en la que se aborda el caso de extradición pasiva del ciudadano Carlos Cecilio Ariza Danieles, requerido por la República de Chile por delitos de asociación criminal, secuestro extorsivo y amenazas extorsivas. Se establece que la notificación roja fue emitida por INTERPOL y se ordena la detención preventiva del ciudadano hasta que se presente la solicitud formal de extradición por parte del país requirente.\n\nLa sentencia también menciona la imposibilidad de notificar a la República de Chile debido al cese de relaciones diplomáticas, lo que lleva a la Sala a colocar al ciudadano a la orden del Tribunal Noveno de Primera Instancia para decidir sobre su libertad. Se ordena archivar el expediente de la solicitud de detención preventiva, pero se deja abierta la posibilidad de acordar nuevamente una medida de coerción si se recibe la documentación pertinente.\n\nFinalmente, se ordena notificar a la República de Chile sobre el término perentorio para presentar la solicitud formal de extradición, advirtiendo que de no hacerlo, se cesará la medida de privación judicial preventiva de libertad impuesta a Ariza Danieles.",
+  "palabras_clave": [
+    "extradición",
+    "asociación criminal",
+    "secuestro extorsivo",
+    "amenazas extorsivas"
+  ],
+  "titulo": "Sentencia sobre extradición pasiva de Carlos Cecilio Ariza Danieles",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2026-03-05_S080_E25-288.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/marzo/353293-080-5326-2026-E25-288.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:22:21.375120"
+}

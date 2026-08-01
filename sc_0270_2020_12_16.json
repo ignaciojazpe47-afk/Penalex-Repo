@@ -1,0 +1,23 @@
+{
+  "id": 41969,
+  "numero": "0270",
+  "fecha": "2020-12-16",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente in limine litis",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara procedente la acción de amparo interpuesta por José Gregorio Alcalá Morales contra las actuaciones de la Fiscalía General de la República y el antejuicio de mérito solicitado. Se argumenta que se violaron derechos constitucionales como el debido proceso y la defensa, al no ser notificado adecuadamente durante la investigación penal en su contra. La Sala concluye que el procedimiento de antejuicio de mérito es inexistente debido a la falta de acreditación de la condición de alto funcionario del demandado.",
+  "palabras_clave": [
+    "amparo",
+    "derechos constitucionales",
+    "fiscalía",
+    "antejuicio de mérito"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-16_S0270_E18-0753.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311139-0270-161220-2020-18-0753.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.388720"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33952,
+  "numero": "2099",
+  "fecha": "2023-12-23",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Arnaldo Certain Gallardo contra la decisión que declaró inadmisible su acción de amparo constitucional. La apelación fue ejercida contra una resolución de la Contraloría General de la República que confirmó la responsabilidad administrativa del agraviado. La Sala, tras analizar el caso, determinó que el amparo era inadmisible debido a que el agraviado había optado por recurrir a vías ordinarias, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "garantías",
+    "jurisdicción",
+    "constitucional",
+    "tutela",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-21_S2099_E23-0809.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/332069-2099-211223-2023-23-0809.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.842174"
+}

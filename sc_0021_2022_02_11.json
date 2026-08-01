@@ -1,0 +1,22 @@
+{
+  "id": 34342,
+  "numero": "0021",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de adopción presentada por Manuel Salvador Herize Vásquez en favor de su nieta, la cual fue negada por el Juzgado Superior Tercero. La decisión se basó en la falta de consentimiento de la adolescente para cambiar sus apellidos, lo que fue considerado un derecho fundamental. La Sala concluyó que la adopción no podía ser concedida sin el consentimiento expreso de la menor, quien había manifestado su deseo de conservar sus apellidos maternos.",
+  "palabras_clave": [
+    "adopción",
+    "derechos del niño",
+    "identidad"
+  ],
+  "titulo": "Revisión de la sentencia de adopción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0021_E21-0286.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315533-0021-11222-2022-21-0286.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.723442"
+}

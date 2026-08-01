@@ -1,0 +1,22 @@
+{
+  "id": 21441,
+  "numero": "1301",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió declarar sin lugar el recurso de apelación interpuesto por Edalfo Ángel Lanfranchi contra la sentencia que admitió el amparo constitucional solicitado por José Ramón Vega, representante de Inversiones J.R. Vega, C.A. La decisión del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito de Lara fue confirmada, ya que se evidenció que no se dio curso a la apelación ejercida por Vega, lo que vulneró su derecho a la tutela judicial efectiva y al debido proceso. La Sala concluyó que existieron graves vicios que afectaron el orden público procesal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1301_E20-0333.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346963-1301-6825-2025-20-0333.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.749667"
+}

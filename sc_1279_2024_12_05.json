@@ -1,0 +1,27 @@
+{
+  "id": 28321,
+  "numero": "1279",
+  "fecha": "2024-12-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "No ha lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por Alirio Alberto García Aruca contra una sentencia del Juzgado Superior Accidental Civil, que declaró sin lugar una demanda de reivindicación. La Sala determinó que no existían infracciones a la Constitución ni contradicciones con sentencias previas, por lo que declaró no ha lugar la solicitud de revisión. La decisión se fundamenta en la falta de cumplimiento de los requisitos probatorios por parte del demandante.",
+  "palabras_clave": [
+    "revisión",
+    "constitucional",
+    "jurisprudencia",
+    "decisión",
+    "interpretación",
+    "normas",
+    "principios",
+    "justicia"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-05_S1279_E22-0466.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340238-1279-51224-2024-22-0466.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.229162"
+}

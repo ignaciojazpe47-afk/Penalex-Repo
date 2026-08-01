@@ -1,0 +1,24 @@
+{
+  "id": 15999,
+  "numero": "0586",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Importadora Donsen C.A. contra la sentencia del Juzgado Superior Quinto que declaró inadmisible la demanda de desalojo contra Arepa Creativa C.A. y E-Max Group. La decisión del Juzgado Superior fue considerada errónea al no reconocer la existencia de un litisconsorcio pasivo necesario, lo que vulneró el debido proceso y el derecho a la defensa de la parte actora. La Sala acordó la medida cautelar de suspensión de los efectos de la sentencia recurrida, ordenando el levantamiento de la medida cautelar decretada anteriormente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "litisconsorcio",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0586_E26-0334.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355579-0586-13526-2026-26-0334.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.877171"
+}

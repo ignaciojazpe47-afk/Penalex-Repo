@@ -1,0 +1,22 @@
+{
+  "id": 47745,
+  "numero": "0484",
+  "fecha": "2018-07-25",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 306 de la Sala de Casación Penal, que declaró procedente la solicitud de extradición pasiva del ciudadano George Ranjit Mohamed Jamaloodin, solicitado por el Reino de los Países Bajos. La defensa argumentó que la sentencia de extradición vulneró el derecho a la defensa y no consideró los argumentos presentados. Sin embargo, la Sala Constitucional determinó que no existían vicios que justificaran la revisión y que la decisión de la Sala de Casación Penal se ajustó a derecho.",
+  "palabras_clave": [
+    "extradición",
+    "revisión constitucional",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión de sentencia sobre extradición pasiva",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-07-25_S0484_E17-0881.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/300284-0484-25718-2018-17-0881.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:16.050688"
+}

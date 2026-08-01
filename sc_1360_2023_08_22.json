@@ -1,0 +1,25 @@
+{
+  "id": 31984,
+  "numero": "1360",
+  "fecha": "2023-08-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por los abogados de Salvatore Malaponte, debido a la falta de representación legal adecuada. Se argumenta que no se presentó el poder en copia certificada, lo que impide verificar la legitimidad de la representación. La decisión se basa en la normativa vigente que exige la correcta acreditación de la representación para la admisión de la acción de amparo.",
+  "palabras_clave": [
+    "tutela constitucional",
+    "representación",
+    "inadmisibilidad",
+    "poder",
+    "amparo",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-22_S1360_E23-0692.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328566-1360-22823-2023-23-0692.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.213344"
+}

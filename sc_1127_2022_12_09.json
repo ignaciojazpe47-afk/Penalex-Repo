@@ -1,0 +1,22 @@
+{
+  "id": 37842,
+  "numero": "1127",
+  "fecha": "2022-12-09",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por la sociedad mercantil Administradora e Inversiones FAESA 33, S.R.L. en relación a una sentencia dictada por la Sala de Casación Civil. La revisión se fundamenta en la alegación de violación de derechos fundamentales al debido proceso y a la defensa, debido a la incorrecta valoración de pruebas en el juicio de resolución de contrato de arrendamiento. La Sala declaró su competencia para conocer la solicitud y ordenó la remisión de las actas procesales del expediente correspondiente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "arrendamiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-09_S1127_E22-0878.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321710-1127-91222-2022-22-0878.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.423753"
+}

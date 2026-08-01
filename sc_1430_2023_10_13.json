@@ -1,0 +1,27 @@
+{
+  "id": 32274,
+  "numero": "1430",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara sin lugar el recurso de apelación interpuesto por el abogado Jorge Luis Mogollón en representación de Gustavo Chang Lai, contra la decisión del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del Estado Lara, que declaró inadmisible la acción de amparo. La Sala argumenta que la acción de amparo no tiene como propósito prevenir situaciones hipotéticas y que la amenaza de violación de derechos constitucionales no se materializó en este caso, ya que no se presentó evidencia de una actuación específica que amenazara los derechos del demandante.\n\nSe concluye que la acción de amparo es inadmisible porque no se demostró una amenaza inminente, posible y realizable por parte del juez querellado. La Sala reafirma que el amparo constitucional debe ser un medio para restablecer situaciones jurídicas lesionadas, y no para anticipar pronunciamientos sobre asuntos que ya están bajo el conocimiento de otros tribunales. Finalmente, se confirma el fallo apelado que declaró inadmisible la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "inadmision",
+    "derechos",
+    "garantias",
+    "jurisprudencia",
+    "proceso",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1430_E20-0259.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329303-1430-131023-2023-20-0259.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.397346"
+}

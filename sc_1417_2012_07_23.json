@@ -1,0 +1,24 @@
+{
+  "id": 12111,
+  "numero": "1417",
+  "fecha": "2012-07-23",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MARCOS TULIO DUGARTE PADRÓN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó sentencia a favor de Gilberto Rúa, quien interpuso una acción de amparo constitucional contra el Matadero Industrial de Ciudad Bolívar, alegando violaciones a sus derechos a un ambiente sano y a la salud. La Sala determinó que el matadero había generado contaminación y malos olores que afectaban a la comunidad, y ordenó a las autoridades competentes realizar inspecciones y tomar medidas para garantizar el cumplimiento de la normativa ambiental. Además, se instó al Ministerio Público a investigar posibles responsabilidades de las autoridades municipales por permitir asentamientos urbanos cercanos al matadero.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "contaminación",
+    "derechos colectivos",
+    "salud",
+    "medio ambiente"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional contra el Matadero Industrial de Ciudad Bolívar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2012_DugartePadron_2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.524790"
+}

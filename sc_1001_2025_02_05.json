@@ -1,0 +1,24 @@
+{
+  "id": 20601,
+  "numero": "1001",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en respuesta a la solicitud de revisión constitucional presentada por Luciano Fabrizio Di Batista Di Francescantonio, en relación a un fallo previo de la Sala de Casación Civil. En este fallo, se declaró con lugar la apelación de la parte demandada y se revocó la decisión del Juzgado Quinto de Municipio Ordinario, que había declarado inadmisible la demanda por retracto legal arrendaticio. La Sala Constitucional asumió la competencia para conocer de la solicitud de revisión, considerando que el caso presentaba vicios de nulidad y violaciones a derechos constitucionales del solicitante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "retracto legal",
+    "sentencia",
+    "apelación",
+    "nulidad"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de fallo en caso de retracto legal arrendaticio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-27_S1001_E25-0106.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/345270-1001-27625-2025-25-0106.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.565335"
+}

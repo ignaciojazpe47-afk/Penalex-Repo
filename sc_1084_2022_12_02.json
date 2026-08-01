@@ -1,0 +1,24 @@
+{
+  "id": 37730,
+  "numero": "1084",
+  "fecha": "2022-12-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de interpretación del artículo 307 de la Constitución, interpuesto por los ciudadanos Carlos Enrique Dávila Zambrano, Heberto José Martínez y José Rodríguez Carrero. La Sala declaró inadmisible el recurso, argumentando que los solicitantes no especificaron su legitimación ni fundamentaron adecuadamente las razones para la interpretación solicitada.",
+  "palabras_clave": [
+    "recurso de interpretación",
+    "constitución",
+    "inadmisibilidad",
+    "tribunal supremo",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre recurso de interpretación del artículo 307 de la Constitución",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-02_S1084_E22-0058.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321366-1084-21222-2022-22-0058.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.443611"
+}

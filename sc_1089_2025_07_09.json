@@ -1,0 +1,25 @@
+{
+  "id": 20830,
+  "numero": "1089",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del TSJ recibió un oficio de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar, relacionado con una acción de amparo constitucional interpuesta por el abogado Jesús Andrés Durán en favor de los ciudadanos Christian Rafael Moreno y José Ángel Marcano Guerra. La acción busca impugnar la falta de pronunciamiento del Tribunal Primero de Primera Instancia en Funciones de Control sobre solicitudes de sobreseimiento y decaimiento de medidas cautelares en un proceso penal por contrabando de extracción.\n\nLa Sala se declara competente para conocer la apelación, considerando que la decisión apelada fue dictada en materia de amparo constitucional. Se ordena notificar a la Presidencia del Circuito Judicial Penal del Estado Bolívar para que informe sobre el estado actual de la causa penal y se establecen plazos para la remisión de copias certificadas de las actuaciones procesales.\n\nFinalmente, se ordena la notificación electrónica o telefónica para el cumplimiento de lo dispuesto, dejando constancia en el expediente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "proceso penal",
+    "medidas cautelares",
+    "justicia",
+    "retardo procesal"
+  ],
+  "titulo": "Decisión sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1089_E24-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345851-1089-9725-2025-24-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.501682"
+}

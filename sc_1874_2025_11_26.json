@@ -1,0 +1,23 @@
+{
+  "id": 23221,
+  "numero": "1874",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 26 de noviembre de 2025, declaró competente para conocer la solicitud de revisión de la sentencia N° 287, dictada el 8 de agosto de 2024, por el Juzgado Nacional Contencioso Administrativo de la Región Centro Occidental. En esta sentencia, se confirmó la decisión del Juzgado Superior Estadal que había declarado sin lugar la querella funcionarial interpuesta por Jean Carlos Pereira Roca contra la Dirección Ejecutiva de la Magistratura, en la que se cuestionaba su remoción del cargo de Alguacil. La Sala concluyó que no se vulneraron derechos constitucionales y que la remoción se ajustó a derecho, manteniendo el estatus de libre nombramiento y remoción del cargo de Alguacil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "remoción",
+    "alguacil",
+    "contencioso administrativo"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia N° 287",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1874_E25-0671.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350471-1874-261125-2025-25-0671.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.800646"
+}

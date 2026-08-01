@@ -1,0 +1,24 @@
+{
+  "id": 27915,
+  "numero": "1028",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia del Juzgado Noveno Itinerante de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Estado Lara.",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la decisión del Juzgado Noveno Itinerante de Primera Instancia que decretó el sobreseimiento de la causa penal por prescripción de la acción. Se determinó que el tribunal no había establecido la existencia de los hechos punibles ni la responsabilidad de los acusados antes de declarar la prescripción, lo que vulneró los derechos de las víctimas al debido proceso. Por lo tanto, se anula la sentencia y se ordena que otro tribunal continúe el proceso penal.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "acción penal",
+    "prescripción",
+    "debido proceso"
+  ],
+  "titulo": "Revisión Constitucional sobre el sobreseimiento de causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1028_E19-0011.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339496-1028-271124-2024-19-0011.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.486727"
+}

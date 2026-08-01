@@ -1,0 +1,24 @@
+{
+  "id": 3282,
+  "numero": null,
+  "fecha": "2006-02-16",
+  "anio": 2006,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Luisa Estella Morales Lamuño, decidió sobre la solicitud de revisión de una sentencia que declaró la perención de la instancia en un juicio laboral. La revisión fue solicitada por los apoderados de la empresa SUELATEX, C.A., quienes argumentaron violaciones al debido proceso y al derecho a la defensa. Sin embargo, la Sala determinó que no hubo actos procesales suficientes que interrumpieran el lapso de perención, por lo que declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "perención",
+    "instancia",
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre perención de instancia en juicio laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2006-02-16_Constitucional_05.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.505845"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38106,
+  "numero": "1229",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer del amparo constitucional interpuesto por la abogada Miriam Yolanda Romero en representación de Carlos Eduardo Mazza. Se determina que la parte actora no ha realizado actuaciones procesales válidas desde enero de 2020, lo que se considera un abandono del trámite. Por lo tanto, se declara terminado el procedimiento por esta causa y se impone una multa a la parte accionante por entorpecer las labores del Tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "inacción",
+    "abandonotrámite",
+    "interésprocesal",
+    "tutela",
+    "justicia",
+    "extinción",
+    "procedimiento"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1229_E19-0756.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322121-1229-151222-2022-19-0756.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.311662"
+}

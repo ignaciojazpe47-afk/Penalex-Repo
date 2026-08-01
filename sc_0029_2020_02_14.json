@@ -1,0 +1,24 @@
+{
+  "id": 41024,
+  "numero": "0029",
+  "fecha": "2020-02-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la solicitud de avocamiento presentada por el abogado Francisco Humbria Vera en favor de los ciudadanos Juan Manuel Lara Villalobos y Gustavo Armando García Coiman, quienes enfrentaban cargos en un tribunal militar. La Sala determinó que la privación de libertad decretada por el tribunal militar no cumplía con los requisitos legales y que los imputados debían ser juzgados por su juez natural, es decir, en la jurisdicción ordinaria. En consecuencia, se revocó la medida de privación de libertad y se ordenó la libertad plena de los ciudadanos mencionados.",
+  "palabras_clave": [
+    "avocamiento",
+    "jurisdicción militar",
+    "derechos humanos",
+    "debido proceso",
+    "libertad personal"
+  ],
+  "titulo": "Sentencia sobre solicitud de avocamiento en causa penal militar",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-02-14_S0029_E20-0062.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/309539-0029-14220-2020-20-0062.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.142713"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18434,
+  "numero": "0128",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Gustavo Alexis López Herrera en representación de Fernando José Coba, contra el Tribunal Sexto de Primera Instancia por retardo procesal y denegación de justicia. La Sala, tras analizar la competencia, determinó que no era competente para conocer del caso y declinó la competencia a la Corte de Apelaciones con Competencia en Delitos de Violencia contra la Mujer del tribunal de primera instancia denunciado.",
+  "palabras_clave": [
+    "amparo",
+    "retardo procesal",
+    "justicia",
+    "competencia",
+    "violencia contra la mujer",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0128_E24-0641.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341533-0128-13225-2025-24-0641.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.766610"
+}

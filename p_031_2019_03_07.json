@@ -1,0 +1,25 @@
+{
+  "id": 42398,
+  "numero": "031",
+  "fecha": "2019-03-07",
+  "anio": 2019,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "JUAN LUIS IBARRA VERENZUELA",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara procedente la solicitud de extradición activa del ciudadano José Vicente Paz Guilarte, quien se encuentra en el Reino de España, por la presunta comisión del delito de uso de documento público falso. La decisión se fundamenta en la existencia de una orden de aprehensión vigente y en el cumplimiento de los requisitos establecidos en la legislación venezolana y en el tratado de extradición entre Venezuela y España.\n\nSe establece que el procedimiento de extradición activa se inicia debido a la detención del requerido en el extranjero y se resalta la importancia de garantizar los derechos del ciudadano solicitado, asegurando que será juzgado únicamente por el delito que motiva la extradición, con las debidas garantías procesales. La Sala también menciona la obligación del Ministerio Público de presentar su opinión fiscal en el proceso, aunque en este caso se prescinde de dicha opinión para no vulnerar los derechos del requerido.\n\nFinalmente, se ordena remitir copia de la decisión y las actuaciones al Poder Ejecutivo Nacional para su conocimiento y cumplimiento, reafirmando el compromiso del Estado venezolano de respetar los derechos humanos del ciudadano durante el proceso penal que se le seguirá en España.",
+  "palabras_clave": [
+    "extradición",
+    "derechos humanos",
+    "doble incriminación",
+    "documento público",
+    "Código Penal",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre solicitud de extradición activa del ciudadano José Vicente Paz Guilarte",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_2019-03-07_S031_E19-49.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scp/marzo/304122-031-7319-2019-E19-49.HTML",
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:09.410651"
+}

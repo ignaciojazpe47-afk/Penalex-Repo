@@ -1,0 +1,22 @@
+{
+  "id": 28402,
+  "numero": "1344",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una apelación en acción de amparo constitucional interpuesta por los ciudadanos Jesús Enrique Orozco Méndez y Ulises Alejandro Orozco Méndez, representados por el abogado Jean Carlos Martínez, contra una decisión del Juzgado Tercero de Primera Instancia Agraria del Estado Apure. La sentencia apelada había declarado con lugar la cuestión previa sobre la ilegitimidad del apoderado de los demandantes, lo que llevó a la extinción del proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "ilegitimidad",
+    "apoderado"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1344_E24-0117.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340358-1344-101224-2024-24-0117.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.224352"
+}

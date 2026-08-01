@@ -1,0 +1,22 @@
+{
+  "id": 20015,
+  "numero": "0815",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la solicitud de avocamiento presentada por Leysmerith Guimeth Gil Torres, quien alegó violaciones al debido proceso en un juicio de amparo constitucional. La Sala determinó que no existían desórdenes procesales graves ni violaciones al ordenamiento jurídico que justificaran la intervención del Tribunal Supremo. Además, se concluyó que la solicitante aún contaba con vías ordinarias para elevar su pretensión, como el recurso de apelación.",
+  "palabras_clave": [
+    "avocamiento",
+    "amparo constitucional",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0815_E23-1216.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344293-0815-28525-2025-23-1216.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.855613"
+}

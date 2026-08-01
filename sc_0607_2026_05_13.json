@@ -1,0 +1,25 @@
+{
+  "id": 17483,
+  "numero": "0607",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de aclaratoria presentada por el abogado Yhonny Keifran Meza en representación de Julio César Riobueno Azuaje. La solicitud fue declarada inadmisible por extemporánea, ya que fue presentada el 19 de marzo de 2026, fuera del plazo establecido tras la sentencia original dictada el 11 de marzo de 2026. A pesar de la inadmisibilidad, la Sala corrigió de oficio un error material en la mención del nombre del abogado solicitante, rectificando 'Yonny Keifran Meza' por 'YHONNY KEIFRAN MEZA'.",
+  "palabras_clave": [
+    "aclaratoria",
+    "sentencia",
+    "procedimiento",
+    "identidad",
+    "inadmision",
+    "error_material"
+  ],
+  "titulo": "Decisión sobre solicitud de aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0607_E25-0572.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355600-0607-13526-2026-25-0572.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.906246"
+}

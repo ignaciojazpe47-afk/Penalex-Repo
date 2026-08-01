@@ -1,0 +1,25 @@
+{
+  "id": 18634,
+  "numero": "0199",
+  "fecha": "2025-02-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Gerardo González Pérez contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de Miranda, que confirmó la resolución de un contrato de arrendamiento. Se argumenta que no se evidenció vulneración de derechos constitucionales y que el juez actuó dentro de su competencia. La decisión se basa en el cumplimiento de los requisitos legales para la acción de amparo y la falta de justificación de los alegatos de la parte demandante.",
+  "palabras_clave": [
+    "debido_proceso",
+    "acción_de_amparo",
+    "resolución_de_contrato",
+    "tutela_judicial",
+    "incompetencia",
+    "vicios_de_sentencia"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Resolución de Contrato",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-26_S0199_E24-0579.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/342011-0199-26225-2025-24-0579.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.885802"
+}

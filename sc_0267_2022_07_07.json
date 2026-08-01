@@ -1,0 +1,26 @@
+{
+  "id": 35292,
+  "numero": "0267",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA la sentencia dictada, el 16 de julio de 2021, por el Juzgado Superior Octavo en lo Civil, Mercantil, Tránsito y Bancario de la Circunscripción Judicial del Área Metropolitana de Caracas.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 7 de julio de 2022, declaró nula la sentencia dictada el 16 de julio de 2021 por el Juzgado Superior Octavo, que había admitido un recurso de apelación y revocado una decisión anterior. La Sala consideró que la acción de amparo era inadmisible, ya que existían vías ordinarias para cuestionar la sentencia impugnada. Se determinó que el fallo original había incurrido en violaciones al debido proceso y a la defensa, lo que justificó la nulidad de la decisión anterior.",
+  "palabras_clave": [
+    "amparo",
+    "debido_proceso",
+    "tutela_judicial",
+    "inadmision",
+    "derechos_constitucionales",
+    "juzgador",
+    "medidas_cautelares"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0267_E22-0004.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317719-0267-7722-2022-22-0004.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.245166"
+}

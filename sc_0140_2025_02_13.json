@@ -1,0 +1,25 @@
+{
+  "id": 18446,
+  "numero": "0140",
+  "fecha": "2025-02-13",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Manuel Assad Brito en nombre de Adoración Rodríguez Armero de Romero y Gabriel Romero Giménez, respecto a una sentencia dictada el 10 de agosto de 2016. La Sala concluye que los solicitantes carecen de legitimidad activa para solicitar la revisión, ya que no son partes en el juicio original de partición de comunidad. Además, se ordena el desglose y remisión del expediente al juzgado de origen.",
+  "palabras_clave": [
+    "partición",
+    "procedimiento civil",
+    "comunidad",
+    "título de propiedad",
+    "jurisprudencia",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-13_S0140_E20-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341545-0140-13225-2025-20-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.767594"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30574,
+  "numero": "0620",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Pérdida de interés procesal y el abandono del trámite",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de nulidad del artículo 78 de la Ley de Gestión Integral de Basura, interpuesta por varias sociedades mercantiles. Se argumentó que dicha disposición violaba competencias municipales establecidas en la Constitución. La Sala declaró su competencia para conocer la demanda, pero también constató la inactividad procesal de la parte actora por más de un año, lo que llevó a declarar la pérdida de interés procesal y el abandono del trámite.",
+  "palabras_clave": [
+    "nulidad",
+    "interés procesal",
+    "inactividad",
+    "acción",
+    "justicia",
+    "constitución",
+    "perención"
+  ],
+  "titulo": "Sentencia sobre nulidad del artículo 78 de la Ley de Gestión Integral de Basura",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0620_E19-0547.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325708-0620-30523-2023-19-0547.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.926561"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 39611,
+  "numero": "0458",
+  "fecha": "2021-09-17",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "ARCADIO DELGADO ROSALES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 17 de septiembre de 2021, revisó la sentencia dictada el 16 de julio de 2021 por el Juzgado Superior Cuarto en lo Civil, Mercantil y Tránsito, que había declarado inadmisible una acción de amparo constitucional. La Sala acordó la medida cautelar de suspensión de efectos de la sentencia impugnada mientras se decide sobre la revisión solicitada por los ciudadanos WILFREDO OSCAR MONTERO DELGADO y FRANCISCO TORRES PANTIN, representados por el abogado JOUBERTH JOHAN PÉREZ.\n\nLa decisión se fundamenta en la necesidad de garantizar la tutela judicial efectiva y la seguridad jurídica, considerando que la ejecución de la sentencia podría afectar los derechos constitucionales de los solicitantes. La Sala también ordenó la remisión del expediente relacionado con el recurso de apelación y la notificación al juzgado correspondiente para asegurar el cumplimiento de la decisión.\n\nFinalmente, se destaca que la Sala se declara competente para conocer de la solicitud de revisión, reafirmando su rol como máximo intérprete de la Constitución de la República Bolivariana de Venezuela.",
+  "palabras_clave": [
+    "amparo",
+    "seguridad juridica",
+    "confianza legitima",
+    "debido proceso",
+    "medida cautelar",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre revisión de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-09-17_S0458_E21-0488.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/313448-0458-17921-2021-21-0488.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.620305"
+}

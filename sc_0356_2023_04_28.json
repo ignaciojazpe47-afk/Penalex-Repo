@@ -1,0 +1,23 @@
+{
+  "id": 29947,
+  "numero": "0356",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 27 de septiembre de 2018 por el Juzgado Superior Cuarto Agrario, que había declarado con lugar la apelación interpuesta contra una sentencia anterior sobre la caducidad de una acción de cobro de diferencia de cabida. La Sala encontró que el Juzgado había violado el principio pro actione y el derecho a la tutela judicial efectiva al admitir la apelación de una cuestión previa que había sido declarada sin lugar. Como resultado, se anuló el fallo impugnado y se declaró inadmisible la apelación interpuesta, ordenando la continuación del proceso ante el Juzgado de Primera Instancia Agraria.",
+  "palabras_clave": [
+    "Revisión Constitucional",
+    "Caducidad",
+    "Cobro de Diferencia de Cabida",
+    "Tutela Judicial Efectiva"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia sobre Cobro de Diferencia de Cabida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0356_E18-0696.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324626-0356-28423-2023-18-0696.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.056942"
+}

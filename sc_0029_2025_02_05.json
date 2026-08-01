@@ -1,0 +1,22 @@
+{
+  "id": 18179,
+  "numero": "0029",
+  "fecha": "2025-02-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La ciudadana Nairelys Carolina Coello Pereira interpuso una acción de amparo constitucional contra el Fiscal Primero del Ministerio Público de la Circunscripción Judicial del Estado Bolivariano de Miranda, alegando violaciones a sus derechos y los de sus hijos. El Tribunal Primero de Primera Instancia se declaró incompetente y remitió el caso a la Sala Constitucional, que finalmente aceptó la declinatoria de competencia y ordenó la remisión del expediente a los tribunales correspondientes. La Sala Constitucional consideró que la acción de amparo debía ser conocida por los tribunales de protección de niños, niñas y adolescentes, dado que los derechos de los menores estaban involucrados en la situación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos de los niños",
+    "competencia judicial"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-05_S0029_E24-0103.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341195-0029-5225-2025-24-0103.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.568496"
+}

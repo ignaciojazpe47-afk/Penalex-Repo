@@ -1,0 +1,25 @@
+{
+  "id": 30569,
+  "numero": "0615",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminada el procedimiento, por abandono de trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por Javier Malavé Márquez y Yanitzia del Valle Gámez Brito contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Anzoátegui. La Corte de Apelaciones había anulado un acto de audiencia preliminar, lo que generó alegaciones de violación a derechos constitucionales como la tutela judicial efectiva y el debido proceso. La Sala Constitucional, tras revisar el caso, determinó que hubo abandono del trámite por parte de los accionantes, lo que llevó a la terminación del procedimiento y a la imposición de una multa.",
+  "palabras_clave": [
+    "apelación",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "Corte de Apelaciones",
+    "Código Orgánico Procesal Penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0615_E17-0196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325703-0615-30523-2023-17-0196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.927643"
+}

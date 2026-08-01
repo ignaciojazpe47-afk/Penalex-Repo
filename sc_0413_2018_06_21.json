@@ -1,0 +1,23 @@
+{
+  "id": 47317,
+  "numero": "0413",
+  "fecha": "2018-06-21",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 27 de junio de 2017, que había declarado con lugar la acción de amparo constitucional interpuesta por Sixto Oswaldo López González contra la Gran Logia de la República de Venezuela. La Sala determinó que el Juzgado Superior Segundo había incurrido en errores al no considerar la inadmisibilidad de la acción de amparo y al no analizar adecuadamente si existían vías ordinarias para la protección de los derechos del demandante. Como resultado, se anuló la sentencia impugnada y se declaró inadmisible la acción de amparo interpuesta por López González.",
+  "palabras_clave": [
+    "revisión",
+    "amparo constitucional",
+    "Gran Logia de la República de Venezuela",
+    "Sixto Oswaldo López González"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-06-21_S0413_E17-0892.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/212287-0413-21618-2018-17-0892.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.877388"
+}

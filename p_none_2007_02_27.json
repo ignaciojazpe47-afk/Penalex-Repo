@@ -1,0 +1,23 @@
+{
+  "id": 10300,
+  "numero": null,
+  "fecha": "2007-02-27",
+  "anio": 2007,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "Héctor Manuel Coronado Flores",
+  "resumen": "La Corte de Apelaciones del Circuito Judicial Penal del Estado Barinas declaró sin lugar el recurso de apelación interpuesto por la defensa de Javier Enrique Martínez Rojas y Julián Javier Martínez Bellorín, quienes fueron condenados por delitos de secuestro y agavillamiento. La defensa presentó un recurso de casación, el cual fue desestimado por la Sala de Casación Penal del TSJ, argumentando que los recurrentes no cumplían con los requisitos formales para la admisión del recurso. La Sala concluyó que las denuncias eran manifiestamente infundadas y ratificó la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "casación",
+    "penal",
+    "secuestro",
+    "agavillamiento"
+  ],
+  "titulo": "Decisión sobre recurso de casación interpuesto por la defensa de los acusados",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_8294350d8c0221ccbf08a6b6ce8a36aa_ManuelCoronado.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:00.505762"
+}

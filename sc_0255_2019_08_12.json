@@ -1,0 +1,24 @@
+{
+  "id": 43832,
+  "numero": "0255",
+  "fecha": "2019-08-12",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió un recurso de nulidad interpuesto por el Banco Provincial S.A. contra varios artículos de una ordenanza municipal en Maracaibo, alegando inconstitucionalidades y la imposibilidad de ejecución de la norma. La Sala se declaró competente para conocer del caso y admitió la medida cautelar solicitada, suspendiendo los efectos de la ordenanza impugnada hasta que se decida la causa principal. Se instó a la conformación de una mesa técnica entre la Alcaldía y los contribuyentes para analizar las disposiciones de la ordenanza.",
+  "palabras_clave": [
+    "nulidad",
+    "ordenanza municipal",
+    "Maracaibo",
+    "constitucionalidad",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre nulidad de ordenanza municipal en Maracaibo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-08-12_S0255_E19-0360.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/306952-0255-12819-2019-19-0360.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:48.398779"
+}

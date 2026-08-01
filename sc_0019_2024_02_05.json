@@ -1,0 +1,26 @@
+{
+  "id": 24072,
+  "numero": "0019",
+  "fecha": "2024-02-05",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "SIN LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 1494, declara sin lugar la apelación interpuesta por Luis Fernando Galindo contra la decisión del Tribunal Superior de Protección de Niños, Niñas y Adolescentes que declaró inadmisible la acción de amparo constitucional. La Sala concluye que el recurso de apelación fue presentado de manera tempestiva, pero la acción de amparo no cumplió con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, ya que existían vías ordinarias para cuestionar las decisiones del tribunal inferior. Se confirma la sentencia de inadmisibilidad in limine litis dictada el 30 de junio de 2023.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "constitucionales",
+    "niños",
+    "custodia",
+    "jurisdicción",
+    "protección"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-05_S0019_E23-0863.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332371-0019-5224-2024-23-0863.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.824111"
+}

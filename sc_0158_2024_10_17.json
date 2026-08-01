@@ -1,0 +1,22 @@
+{
+  "id": 17584,
+  "numero": "0158",
+  "fecha": "2024-10-17",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional se pronuncia sobre la revisión de una sentencia dictada en 2021, relacionada con un contrato de opción de compra venta y pago de daños. Se destaca la complejidad del caso, que involucra una sucesión y la presencia de niños, así como la dualidad de pretensiones en diversos procesos. La Sala ordena la remisión de un expediente para mejor proveer, considerando la necesidad de información adicional para dictar una decisión ajustada a derecho.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "contrato de opción de compra venta",
+    "daños y perjuicios"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de contrato de opción de compra venta",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0158_E23-0861.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353154-0158-2326-2026-23-0861.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.064174"
+}

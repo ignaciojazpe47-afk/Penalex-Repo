@@ -1,0 +1,23 @@
+{
+  "id": 35423,
+  "numero": "0309",
+  "fecha": "2022-07-13",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR la solicitud de revisión constitucional, y REVISA DE OFICIO Y ANULA la sentencia identificada con las siglas RC-000275.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC-000275, dictada por la Sala de Casación Civil, que anuló un fallo anterior sobre un contrato de cesión de derechos. La Sala Constitucional determinó que la casación oficiosa realizada por la Sala de Casación Civil invadió la autonomía de los jueces al considerar que hubo un vicio de silencio de pruebas, lo que afectó el derecho a la tutela judicial efectiva. En consecuencia, se declaró no ha lugar la solicitud de revisión y se anuló la sentencia de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cesión de derechos",
+    "tutela judicial efectiva",
+    "silencio de pruebas"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre cumplimiento de contrato de cesión de derechos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-13_S0309_E19-0766.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317889-0309-13722-2022-19-0766.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.228891"
+}

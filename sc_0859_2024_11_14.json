@@ -1,0 +1,25 @@
+{
+  "id": 20150,
+  "numero": "0859",
+  "fecha": "2024-11-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 0827, declaró improcedente la solicitud de aclaratoria presentada por la abogada Rita Lugo Salazar en representación de Cecilia Margarita Izquierdo Graells. La solicitud buscaba aclarar aspectos de la sentencia dictada el 14 de noviembre de 2024, que había declarado no ha lugar la revisión de un fallo anterior de la Sala de Casación Social. La Sala consideró que la petición excedía el propósito de la aclaratoria y no presentaba ambigüedad que justificara su revisión.",
+  "palabras_clave": [
+    "concubinato",
+    "unión estable",
+    "derechos constitucionales",
+    "tutela judicial",
+    "proceso civil",
+    "divorcio"
+  ],
+  "titulo": "Solicitud de aclaratoria de la sentencia N° 0827",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0859_E23-0584.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344429-0859-3625-2025-23-0584.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.025659"
+}

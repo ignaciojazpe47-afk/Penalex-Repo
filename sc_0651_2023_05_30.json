@@ -1,0 +1,23 @@
+{
+  "id": 30605,
+  "numero": "0651",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia N° 000794, dictada por la Sala de Casación Civil, debido a la falta de legitimidad del abogado que presentó la solicitud. El abogado no contaba con el poder necesario para actuar en nombre de los demandantes, lo que llevó a la inadmisibilidad de la solicitud. La decisión se fundamenta en la normativa que regula la representación legal en estos casos.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "inadmisible",
+    "representación legal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0651_E23-0191.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325739-0651-30523-2023-23-0191.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.939230"
+}

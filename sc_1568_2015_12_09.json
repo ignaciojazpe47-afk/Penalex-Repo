@@ -1,0 +1,24 @@
+{
+  "id": 67975,
+  "numero": "1568",
+  "fecha": "2015-12-09",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 9 de diciembre de 2015, declaró no ha lugar la solicitud de revisión constitucional interpuesta por el abogado Luis Ernesto Fidhel Gonzales, en representación de DÁMASO EDGAR PÉREZ VARGAS, contra la sentencia del Juzgado Primero Superior del Trabajo de Cojedes. La revisión se solicitó debido a la supuesta extralimitación de funciones del juzgado al establecer la fecha de terminación de la relación laboral y calcular los salarios caídos desde esa fecha, en lugar de desde el despido injustificado.\n\nLa Sala concluyó que las argumentaciones presentadas no demostraron violaciones a derechos o principios constitucionales, ni errores en la interpretación de normas. Se reafirmó que la revisión constitucional no es un mecanismo para corregir errores de juzgamiento, sino para asegurar la uniformidad en la interpretación de la Constitución. Por lo tanto, se ratificó la decisión del juzgado inferior, que actuó conforme a derecho al declarar parcialmente con lugar la demanda laboral.\n\nFinalmente, se destacó que la revisión no constituye una tercera instancia y que la Sala actuó dentro de su competencia, reafirmando la importancia de la estabilidad laboral y el cumplimiento de las decisiones administrativas previas en el contexto del caso.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho al trabajo",
+    "salarios caídos",
+    "despido injustificado",
+    "Kayson Company Venezuela S.A."
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional en materia laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-12-09_S1568_E15-0168.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/183628-1568-91215-2015-15-0168.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:40.624360"
+}

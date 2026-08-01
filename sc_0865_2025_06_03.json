@@ -1,0 +1,26 @@
+{
+  "id": 20156,
+  "numero": "0865",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo constitucional interpuesta por María Virginia Plaza Palma contra las actuaciones de los fiscales Winder Rafael Melgarejo Torrealba y Luzvely Ríos Olmedillo. La acción se originó en el contexto de una denuncia por invasión, lo que hace que los órganos de justicia de la jurisdicción penal sean los competentes para resolver el asunto. Se declina la competencia a los tribunales de primera instancia en funciones de juicio del Circuito Judicial Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "derecho penal",
+    "transparencia",
+    "invasión",
+    "terrorismo judicial",
+    "amparo constitucional",
+    "justicia",
+    "constitución"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0865_E25-0288.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344435-0865-3625-2025-25-0288.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.308384"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 21438,
+  "numero": "1298",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y se anula la sentencia dictada el 13 de enero de 2025.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Cuarto que había declarado con lugar la demanda de resolución de contrato de arrendamiento interpuesta por Operaciones Natura Viva C.A. contra Representaciones Rabirubia C.A. La Sala encontró que la sentencia recurrida incurrió en errores de valoración de pruebas y vulneró derechos constitucionales, como el derecho a la defensa y la tutela judicial efectiva. Por lo tanto, se declaró nula la sentencia del 13 de enero de 2025 y se ordenó remitir el expediente a un nuevo Juzgado Superior para un nuevo pronunciamiento.",
+  "palabras_clave": [
+    "arrendamiento",
+    "derecho a la defensa",
+    "tutela judicial",
+    "pruebas",
+    "constitución",
+    "orden público"
+  ],
+  "titulo": "Revisión Constitucional sobre Resolución de Contrato de Arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1298_E25-0574.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346960-1298-6825-2025-25-0574.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.047937"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16200,
+  "numero": "0107",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, se pronunció sobre la solicitud de revisión constitucional presentada por LILIANA MARÍA AUMAITRE MÉNDEZ, en relación a una sentencia de divorcio dictada por el Juzgado Vigésimo Cuarto. La Sala declaró competente para conocer la solicitud, pero finalmente decidió no ha lugar a la misma, considerando que la sentencia impugnada se ajustaba a derecho y que no se había vulnerado el debido proceso. Además, se dejó sin efecto la medida cautelar acordada anteriormente.",
+  "palabras_clave": [
+    "divorcio",
+    "voluntad",
+    "matrimonio",
+    "jurisdicción",
+    "constitucional",
+    "derechos",
+    "familia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0107_E24-1045.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353096-0107-2326-2026-24-1045.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.601064"
+}

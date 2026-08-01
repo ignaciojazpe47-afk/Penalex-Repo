@@ -1,0 +1,22 @@
+{
+  "id": 11348,
+  "numero": null,
+  "fecha": "2001-03-16",
+  "anio": 2001,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Sin Lugar",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia decidió declarar sin lugar el recurso de casación interpuesto por el defensor de ARTURO ABELARDO SOLÓRZANO, quien había sido condenado por homicidio culposo en accidente de tránsito. La sentencia de la Corte de Apelaciones fue confirmada, ya que se consideró que el juez de la instancia no infringió el Código Penal al evaluar la conducta del imputado bajo los efectos del alcohol.",
+  "palabras_clave": [
+    "homicidio culposo",
+    "casación penal",
+    "accidente de tránsito"
+  ],
+  "titulo": "Decisión sobre recurso de casación en caso de homicidio culposo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_e7ea8f76050f427cfaf0d3fe2c336ddc.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:11.342385"
+}

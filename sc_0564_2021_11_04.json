@@ -1,0 +1,25 @@
+{
+  "id": 40060,
+  "numero": "0564",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la magistrada Lourdes Benicia Suárez Anderson, decidió a favor de la solicitud de revisión constitucional presentada por Álvaro Rubén González Almeida, anulando la sentencia n.° 01395 de la Sala Político Administrativa que había declarado la falta de jurisdicción de los tribunales venezolanos para conocer de la demanda de cobro de prestaciones sociales. La Sala argumentó que la cláusula de jurisdicción en el contrato de trabajo no derogaba la jurisdicción venezolana, dado que las leyes laborales venezolanas son de orden público y aplicables a la relación laboral en cuestión, que se desarrolló en territorio nacional.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derecho internacional privado",
+    "contratos",
+    "trabajo",
+    "tribunales",
+    "leyes"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de jurisdicción laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0564_E18-0395.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314061-0564-41121-2021-18-0395.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.113401"
+}

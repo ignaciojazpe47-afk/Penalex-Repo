@@ -1,0 +1,26 @@
+{
+  "id": 28275,
+  "numero": "1234",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Janette Trinidad Córdova Castro, se pronunció sobre la solicitud de revisión constitucional presentada por el abogado José Alberto Navarro en representación de María del Pilar Conde González. La solicitud se refería a la sentencia N° 2021-180 dictada por el Juzgado Nacional Primero Contencioso Administrativo, que había declarado con lugar la apelación interpuesta por la parte querellada y revocado una sentencia anterior. La Sala consideró que el Juzgado actuó conforme a derecho y no incurrió en violaciones a la jurisprudencia establecida.",
+  "palabras_clave": [
+    "funcionarios",
+    "administración pública",
+    "revisión judicial",
+    "derechos laborales",
+    "tutela judicial",
+    "sentencias",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1234_E22-0176.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340177-1234-41224-2024-22-0176.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.039970"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28424,
+  "numero": "1366",
+  "fecha": "2024-12-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional interpuesta por el abogado Roberto José Ramírez Meléndez, quien actuaba como supuesto apoderado judicial de la firma mercantil Centro Empresarial de Servicios Los Pantanos. La inadmisibilidad se fundamenta en la falta de legitimación o representación adecuada, ya que el abogado no presentó el poder suficiente que acreditara su representación ante la Sala.",
+  "palabras_clave": [
+    "poder",
+    "revisión constitucional",
+    "apoderado",
+    "Código de Procedimiento Civil",
+    "jurisdicción",
+    "competencia"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1366_E22-0447.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340380-1366-101224-2024-22-0447.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:07.222517"
+}

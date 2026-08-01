@@ -1,0 +1,23 @@
+{
+  "id": 22609,
+  "numero": "1666",
+  "fecha": "2025-10-29",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, dictó la sentencia n°0588 el 29 de octubre de 2025, en la que se revisó la decisión de la Corte Segunda de lo Contencioso Administrativo que había declarado sin lugar un recurso de apelación interpuesto por el Consejo Nacional Electoral (CNE) contra una sentencia anterior que favorecía al ciudadano Ramón Orlando Moreno Ruíz. La Sala concluyó que la apelación no prosperaba, confirmando la decisión del Juzgado Superior Segundo de lo Contencioso Administrativo que había declarado la nulidad del acto administrativo de remoción del recurrente, ordenando su reincorporación y el pago de salarios caídos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "Consejo Nacional Electoral",
+    "due process",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional del Consejo Nacional Electoral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1666_E25-0877.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349269-1666-291025-2025-25-0877.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.741819"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 24249,
+  "numero": "0121",
+  "fecha": "2023-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional revisó la solicitud de revisión constitucional presentada por el abogado José Cristóbal Álvarez en representación de Arturo Celestino Soto Loreto, en relación a una sentencia del Juzgado Superior Agrario que declaró cosa juzgada. La Sala ordenó al juzgado remitente que informara sobre el estado de la causa y remitiera copias certificadas del expediente para dictar una decisión ajustada a derecho. Finalmente, se ratificó la decisión anterior y se ordenó el cumplimiento de la remisión de la documentación solicitada.",
+  "palabras_clave": [
+    "cosa juzgada",
+    "daños y perjuicios",
+    "vicios procesales",
+    "derecho civil",
+    "jurisdicción",
+    "sentencia",
+    "revisión constitucional"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia dictada el 11 de julio de 2022",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-19_S0121_E22-0576.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332630-0121-19224-2024-22-0576.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:47.299456"
+}

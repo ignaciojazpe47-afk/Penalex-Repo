@@ -1,0 +1,23 @@
+{
+  "id": 18362,
+  "numero": "0118",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 12 de febrero de 2025, se pronunció sobre la revisión constitucional solicitada por los ciudadanos Manuel Ernesto Maldonado Ramírez y Thaís María López Cantillo, quienes impugnaron la homologación de una transacción dictada por el Tribunal Primero de Municipio Ordinario. La Sala determinó su competencia para conocer del caso y, tras analizar los argumentos presentados, concluyó que no había lugar a la revisión solicitada, al no observarse violaciones de derechos constitucionales ni errores en la interpretación de la ley por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "homologación",
+    "transacción",
+    "desalojo"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de homologación de transacción",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0118_E23-0916.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341460-0118-12225-2025-23-0916.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.770213"
+}

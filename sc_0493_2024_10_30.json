@@ -1,0 +1,26 @@
+{
+  "id": 27007,
+  "numero": "0493",
+  "fecha": "2024-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Civil",
+  "decision": "No Ha Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 30 de octubre de 2024, declaró 'No Ha Lugar' la solicitud de revisión constitucional presentada por Rafael Celestino Padilla Gascón contra la sentencia del Juzgado Superior en lo Civil, Mercantil y del Tránsito del Estado Bolívar, que había declarado sin lugar la demanda de resolución de contrato de arrendamiento. La Sala consideró que no se evidenció un incumplimiento grave por parte del arrendatario y que la decisión del juez se ajustó a los principios de la sana crítica y a la interpretación contractual adecuada.\n\nLa sentencia revisada había confirmado la decisión de un juzgado inferior que también había desestimado la demanda, argumentando que el arrendatario había mantenido su solvencia y que la conducta del arrendador al cerrar la cuenta bancaria destinada a los pagos era desleal. La Sala Constitucional enfatizó que la revisión no debe ser utilizada como una tercera instancia y que la disconformidad del solicitante no constituía un fundamento suficiente para la revisión constitucional.\n\nFinalmente, la Sala reafirmó que la revisión constitucional tiene un carácter excepcional y no debe ser utilizada para cuestionar decisiones que ya han adquirido firmeza, salvo que se evidencie una violación de derechos fundamentales o principios constitucionales, lo cual no ocurrió en este caso.",
+  "palabras_clave": [
+    "desviación de poder",
+    "derecho de propiedad",
+    "seguridad jurídica",
+    "incumplimiento",
+    "contrato de arrendamiento",
+    "debido proceso",
+    "interpretación de contratos"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-30_S0493_E22-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338381-0493-301024-2024-22-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:44.477086"
+}

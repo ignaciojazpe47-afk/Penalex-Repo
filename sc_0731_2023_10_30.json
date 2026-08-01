@@ -1,0 +1,24 @@
+{
+  "id": 27351,
+  "numero": "0731",
+  "fecha": "2023-10-30",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia N.° 416, dictada por la Sala de Casación Penal. Los abogados solicitantes alegaron falta de legitimidad para actuar en nombre de los ciudadanos condenados, lo que llevó a la Sala a declarar inadmisible la solicitud. La decisión se fundamenta en la falta de presentación de documentos que acrediten la representación legal de los demandantes.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "carga procesal",
+    "defensores privados"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0731_E23-1263.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338756-0731-81124-2024-23-1263.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.383964"
+}

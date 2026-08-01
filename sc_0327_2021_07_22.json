@@ -1,0 +1,26 @@
+{
+  "id": 39125,
+  "numero": "0327",
+  "fecha": "2021-07-22",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el recurso de apelación interpuesto por Belén Maigualida Moreno contra la sentencia del Juzgado Superior que declaró inadmisible su acción de amparo constitucional. La Sala consideró que la acción de amparo era improcedente, ya que la decisión apelada era un acto de mero impulso procesal y no un acto que produjera gravamen irreparable. Además, se determinó que la transacción judicial homologada tenía carácter de cosa juzgada, lo que impedía la revisión de la decisión en amparo.",
+  "palabras_clave": [
+    "partición",
+    "due process",
+    "ejecución forzosa",
+    "acción de amparo",
+    "comunidad",
+    "propiedad",
+    "concubinato"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-07-22_S0327_E19-0197.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/312781-0327-22721-2021-19-0197.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:08.759240"
+}

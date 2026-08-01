@@ -1,0 +1,26 @@
+{
+  "id": 33011,
+  "numero": "1580",
+  "fecha": "2023-11-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por la ciudadana Cindy Carolina Ortuño Mendoza, a través de su abogado Juan José Tovar Arias, en relación a una causa que cursa ante el Tribunal Primero de Primera Instancia de Juicio de Protección de Niños, Niñas y Adolescentes del Estado Bolivariano de Guárico. La solicitante argumentó que se dictó una sentencia injusta que vulnera sus derechos y los de su hija, solicitando la intervención de la Sala Constitucional para avocar el caso.\n\nSin embargo, tras el análisis del expediente, la Sala determinó que no existían graves desórdenes procesales ni violaciones al ordenamiento jurídico que justificaran el avocamiento. Se concluyó que la solicitante aún contaba con vías ordinarias para elevar su pretensión, como la demanda por modificación o restitución de custodia, lo que llevó a declarar improcedente la solicitud de avocamiento.\n\nFinalmente, la Sala reafirmó su competencia para conocer del caso, pero decidió no admitir la solicitud de avocamiento, enfatizando la importancia de seguir los procedimientos establecidos y la necesidad de preservar el orden en el sistema judicial.",
+  "palabras_clave": [
+    "amparo",
+    "responsabilidad de crianza",
+    "debido proceso",
+    "fiscalía",
+    "niños",
+    "constitución",
+    "legalidad"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en caso de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1580_E23-1029.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330635-1580-281123-2023-23-1029.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.014734"
+}

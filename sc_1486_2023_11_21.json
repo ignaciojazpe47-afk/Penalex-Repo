@@ -1,0 +1,25 @@
+{
+  "id": 32917,
+  "numero": "1486",
+  "fecha": "2023-11-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un oficio del Juzgado Segundo de Primera Instancia de Juicio del Trabajo de Sucre, relacionado con un procedimiento por desacato de un mandamiento de amparo constitucional. La decisión del tribunal de primera instancia había declarado el desacato de una sentencia anterior, lo que llevó a la Sala a ordenar la remisión de todos los expedientes relacionados con el caso para su revisión. La Sala enfatiza la importancia de la legalidad y justicia en la aplicación de sanciones que afectan derechos fundamentales.",
+  "palabras_clave": [
+    "amparo",
+    "desacato",
+    "libertad personal",
+    "derechos humanos",
+    "justicia",
+    "trabajo"
+  ],
+  "titulo": "Decisión sobre desacato de mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-21_S1486_E23-0743.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330537-1486-211123-2023-23-0743.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.445587"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 57379,
+  "numero": "340",
+  "fecha": "2015-10-29",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC.000633 dictada el 29 de octubre de 2015, que había casado sin reenvío un fallo anterior sobre el cobro de bolívares. La decisión se fundamentó en la errónea aplicación de la tasa de cambio, considerando que el juez superior había modificado su propia sentencia de manera inapropiada. La Sala concluyó que la tasa de cambio aplicable debía ser la vigente al momento del pago, garantizando así la tutela judicial efectiva de la parte demandante.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "cobro de bolívares",
+    "tasa de cambio",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de casación en materia de cobro de bolívares",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-05-05_S340_E16-0066.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/187588-340-5516-2016-16-0066.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:50.551178"
+}

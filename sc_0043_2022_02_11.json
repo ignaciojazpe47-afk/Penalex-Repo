@@ -1,0 +1,25 @@
+{
+  "id": 34362,
+  "numero": "0043",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda de amparo constitucional interpuesta por Ramón José González Briceño, quien solicitó la revisión de medidas dictadas por organismos oficiales en contra de 27 familias. La Sala argumenta que el escrito no cumplía con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en cuanto a la identificación de los agraviantes y la descripción de los hechos.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos",
+    "justicia",
+    "procedimiento",
+    "formalidades"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0043_E21-0269.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315555-0043-11222-2022-21-0269.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.718148"
+}

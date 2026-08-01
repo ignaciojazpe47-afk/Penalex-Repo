@@ -1,0 +1,22 @@
+{
+  "id": 3241,
+  "numero": null,
+  "fecha": "2005-06-22",
+  "anio": 2005,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "PEDRO RAFAEL RONDÓN HAAZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de la acción de amparo interpuesta por Ana Mercedes Bermúdez contra la decisión del Juzgado Duodécimo de Control del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción fue declarada inadmisible debido a que los demandantes no cumplieron con los requisitos establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales, específicamente en relación con la presentación de documentos necesarios para sustentar su pretensión.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2005-06-22_Constitucional_03_RondonHaaz.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:38.519143"
+}

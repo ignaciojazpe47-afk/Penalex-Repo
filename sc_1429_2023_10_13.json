@@ -1,0 +1,27 @@
+{
+  "id": 32275,
+  "numero": "1429",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de amparo en apelación interpuesto por el abogado Víctor Andrés García Herrera en representación de Gian Luis Lippa Preziosi, contra una decisión del Juzgado Superior Agrario que declaró inadmisible la acción de amparo. La Sala, tras revisar el caso, determinó que la apelación era procedente y que el juzgado había incurrido en un error al no considerar la inepta acumulación de pretensiones. Finalmente, la Sala declaró inadmisible la acción de amparo por dicha acumulación.",
+  "palabras_clave": [
+    "amparo",
+    "cuarentena",
+    "madera",
+    "derechos",
+    "constitucionales",
+    "medida cautelar",
+    "Tectona Grandis",
+    "indefensión"
+  ],
+  "titulo": "Sentencia sobre recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1429_E20-0234.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329304-1429-131023-2023-20-0234.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.396541"
+}

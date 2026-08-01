@@ -1,0 +1,25 @@
+{
+  "id": 27629,
+  "numero": "0876",
+  "fecha": "2024-11-15",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por la sociedad mercantil Service Rigal Flower, C.A., representada por la abogada Marixa Gil Delgado. La decisión se fundamenta en la inepta acumulación de pretensiones, ya que las acciones interpuestas no corresponden al mismo procedimiento y son incompatibles entre sí. Se señala que el Juzgado Décimo Sexto incurrió en quebrantamiento del orden público y presuntos hechos antijurídicos, pero la acumulación de pretensiones no es procedente según la normativa aplicable.",
+  "palabras_clave": [
+    "inepta acumulación",
+    "amparo constitucional",
+    "procedimiento civil",
+    "tutela constitucional",
+    "inadmisibilidad",
+    "tribunal supremo"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-15_S0876_E24-0043.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339066-0876-151124-2024-24-0043.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.204151"
+}

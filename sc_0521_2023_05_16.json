@@ -1,0 +1,26 @@
+{
+  "id": 30303,
+  "numero": "0521",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE por extemporáneo",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por Aleyda J. Colina de Sánchez en representación de Luisa Mata, contra una sentencia que declaró inadmisible una acción de amparo constitucional. La Corte de Apelaciones había argumentado la falta de cualidad de la abogada para actuar en nombre de la ciudadana. La Sala Constitucional determinó que el recurso de apelación fue presentado de manera extemporánea, ya que transcurrieron más de tres días desde la notificación de la sentencia original.",
+  "palabras_clave": [
+    "apelacion",
+    "amparo",
+    "temporalidad",
+    "derechos",
+    "justicia",
+    "constitucion",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0521_E20-0382.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325147-0521-16523-2023-20-0382.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.869977"
+}

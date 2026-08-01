@@ -1,0 +1,22 @@
+{
+  "id": 45238,
+  "numero": "0074",
+  "fecha": "2018-01-31",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La ciudadana Luisa Antonia Chirino interpuso un amparo constitucional alegando fraude procesal en un juicio civil que culminó con la resolución de un contrato de arrendamiento en su contra. La Sala Constitucional del TSJ, presidida por la Magistrada Lourdes Benicia Suárez Anderson, declaró su incompetencia para conocer del amparo, indicando que el tribunal competente es un Tribunal de Primera Instancia en lo Civil de la Circunscripción Judicial del estado Zulia. La decisión se fundamenta en la falta de competencia del TSJ para conocer de la acción de amparo, dado que la sentencia impugnada fue emitida por un juzgado de primera instancia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fraude procesal",
+    "incompetencia"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional por fraude procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-31_S0074_E16-1149.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/207250-0074-31118-2018-16-1149.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:36.454024"
+}

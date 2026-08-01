@@ -1,0 +1,22 @@
+{
+  "id": 18150,
+  "numero": "0004",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional recibió un recurso de apelación contra una decisión del Juzgado Superior Séptimo que declaró inadmisible una acción de amparo constitucional. La apelación fue interpuesta por el abogado Ignacio Loyola Araujo Gutiérrez en representación de Thomas Ohse, quien busca la tutela de sus derechos en un juicio laboral. La Sala, tras analizar la competencia, decidió ordenar al Juzgado que remita un informe sobre el estado del juicio y las notificaciones pertinentes.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "apelación",
+    "derechos laborales"
+  ],
+  "titulo": "Decisión sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0004_E24-0099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341150-0004-4225-2025-24-0099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.805647"
+}

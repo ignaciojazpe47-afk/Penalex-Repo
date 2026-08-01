@@ -1,0 +1,22 @@
+{
+  "id": 35776,
+  "numero": "0423",
+  "fecha": "2022-08-02",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Habeas Corpus",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Efraín Jesús Moreno Negrín en representación de Luis Miguel Moreno Ramos y José Miguel Moreno Ramos, alegando violaciones a sus derechos a la libertad. La Corte de Apelaciones había declarado improcedente la acción, lo que motivó la apelación ante la Sala Constitucional. Esta última determinó que la acción era inadmisible, dado que existía una medida privativa de libertad en contra de los accionantes y se había presentado la acusación fiscal correspondiente.",
+  "palabras_clave": [
+    "Habeas Corpus",
+    "Derecho a la libertad",
+    "Acción de amparo"
+  ],
+  "titulo": "Decisión sobre la acción de amparo constitucional interpuesta por violación del derecho a la libertad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-08-02_S0423_E17-1193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/318360-0423-2822-2022-17-1193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:28.669582"
+}

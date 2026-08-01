@@ -1,0 +1,25 @@
+{
+  "id": 22603,
+  "numero": "1660",
+  "fecha": "2023-12-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por Huáscar Francois Fossey Guevara, quien alegó la omisión de pronunciamiento de la Sala N° 9 de la Corte de Apelaciones. La Sala Constitucional, tras evaluar la situación, determinó que el abogado no acreditó la legitimidad necesaria para actuar en el presente amparo, lo que llevó a declarar la acción como inadmisible. Además, se constató que la Corte de Apelaciones ya se había pronunciado sobre el asunto, lo que también contribuyó a la decisión de inadmisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "legitimación",
+    "tutela judicial",
+    "derechos constitucionales",
+    "infracción",
+    "jurisdicción"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-29_S1660_E23-1061.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/349263-1660-291025-2025-23-1061.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:12.688267"
+}

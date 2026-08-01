@@ -1,0 +1,26 @@
+{
+  "id": 27532,
+  "numero": "0796",
+  "fecha": "2024-11-14",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia RC.000417 de la Sala de Casación Civil, que había declarado sin lugar un recurso extraordinario de casación. El solicitante argumentó que la decisión carecía de motivación adecuada y violaba derechos constitucionales. La Sala Constitucional, tras analizar las denuncias, determinó que la Sala de Casación Civil no consideró adecuadamente los argumentos presentados, lo que llevó a la anulación de la sentencia impugnada y a la orden de emitir un nuevo pronunciamiento sobre el recurso de casación.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "infracción de ley",
+    "casación",
+    "propiedad horizontal",
+    "valoración de pruebas",
+    "jurisprudencia"
+  ],
+  "titulo": "Revisión constitucional de sentencia de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-14_S0796_E19-0099.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338969-0796-141124-2024-19-0099.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.024932"
+}

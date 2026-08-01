@@ -1,0 +1,27 @@
+{
+  "id": 20944,
+  "numero": "1145",
+  "fecha": "2025-07-14",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia se refiere a la revisión constitucional de una decisión del Juzgado Superior Octavo en lo Civil, que había declarado con lugar un recurso de apelación. La Sala Constitucional, tras analizar los argumentos presentados, considera que se han violado derechos constitucionales, especialmente el derecho a la doble instancia. Se ordena la remisión del expediente original del juicio de nulidad de acta de asamblea para un mejor análisis de la situación planteada.",
+  "palabras_clave": [
+    "derechos constitucionales",
+    "doble instancia",
+    "debido proceso",
+    "nulidad",
+    "apelación",
+    "sentencia",
+    "juzgado",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de acta de asamblea",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-14_S1145_E25-0389.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346052-1145-14725-2025-25-0389.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.389082"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 29461,
+  "numero": "0200",
+  "fecha": "2023-03-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por Samir Alberto Kassar Rincón, quien alegó violaciones a su derecho a la defensa y al debido proceso en una sentencia anterior. La Sala determinó que el solicitante no cumplió con el mandato de presentar la copia certificada del escrito de conclusiones, lo que llevó a la inadmisibilidad de su solicitud conforme al artículo 133 de la Ley Orgánica del Tribunal Supremo de Justicia. Finalmente, se estima inoficioso pronunciarse sobre la medida cautelar solicitada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "inadmisibilidad",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-24_S0200_E18-0432.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323861-0200-24323-2023-18-0432.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.066385"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32942,
+  "numero": "1511",
+  "fecha": "2023-11-22",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La sentencia declara la inadmisibilidad de la acción de amparo constitucional interpuesta por Omar José Sánchez Rodríguez contra la decisión de la Sala 7 de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. Se argumenta que el accionante no demostró circunstancias excepcionales que justificaran el uso del amparo en lugar de los recursos ordinarios disponibles. La Sala Constitucional reafirma su competencia para conocer de la acción de amparo, pero concluye que esta no es admisible según lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "jurisdicción",
+    "derechos",
+    "garantías",
+    "inconstitucionalidad",
+    "recursos",
+    "apelación"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-22_S1511_E23-0728.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330565-1511-221123-2023-23-0728.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.437144"
+}

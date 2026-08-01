@@ -1,0 +1,26 @@
+{
+  "id": 26671,
+  "numero": "0282",
+  "fecha": "2024-10-18",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, decidió no admitir la solicitud de revisión constitucional presentada por el abogado Omar Eliecer Ávila Salas, en representación de Jesús Manuel Martínez Mora, contra la sentencia dictada el 16 de diciembre de 2022 por la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Mérida. La solicitud se fundamentó en alegaciones de prescripción de los delitos por los cuales fue condenado el demandado, así como en la supuesta vulneración del derecho al debido proceso.\n\nLa Sala consideró que la Corte de Apelaciones actuó dentro de su competencia y que no se evidenció un error grotesco en la interpretación de la norma constitucional. Se destacó que la revisión no constituye una tercera instancia, sino una potestad extraordinaria que busca mantener la homogeneidad de los criterios constitucionales. Por lo tanto, se declaró que la solicitud de revisión no prosperaría, resultando en la decisión de NO HA LUGAR a la misma.",
+  "palabras_clave": [
+    "prescripción",
+    "delitos",
+    "debido proceso",
+    "acción penal",
+    "Código Penal",
+    "justicia",
+    "garantías"
+  ],
+  "titulo": "Revisión constitucional de sentencia condenatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-18_S0282_E23-1003.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/337865-0282-181024-2024-23-1003.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:54.062302"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18943,
+  "numero": "0385",
+  "fecha": "2025-03-20",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Jesús Alejandro Regio Ramos y Gineth Elena Ramos, en representación de la sociedad mercantil Inversiones Alimentos del Centro 2019, C.A. contra la decisión de la Sala 1 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua. La acción se fundamentó en la supuesta violación de derechos constitucionales en el proceso penal seguido contra Isnelda Josefina Arzola y otros.\nLa Sala argumenta que los demandantes contaban con vías judiciales ordinarias para impugnar la decisión, lo que hace improcedente la acción de amparo. Se destaca que la recusación era el mecanismo adecuado para cuestionar la imparcialidad del tribunal, y al no haber sido ejercida, se considera que no se agotaron los recursos disponibles.\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente.",
+  "palabras_clave": [
+    "medida cautelar",
+    "privación de libertad",
+    "audiencia preliminar",
+    "delitos",
+    "Código Orgánico Procesal Penal",
+    "tribunales",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-20_S0385_E24-1196.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342481-0385-20325-2025-24-1196.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:42.720140"
+}

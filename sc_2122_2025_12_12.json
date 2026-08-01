@@ -1,0 +1,25 @@
+{
+  "id": 23908,
+  "numero": "2122",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Rafael Pérez Anzola en representación de Ana María Sersante Cavero y Claudia María Teresa Sersante Cavero, contra una sentencia del Tribunal Superior Primero en lo Civil, Mercantil, Tránsito y Marítimo de Anzoátegui. La inadmisibilidad se fundamenta en la falta de acreditación de la representación del abogado, quien no presentó el poder correspondiente para actuar en nombre de las demandantes.\n\nLa Sala también reafirma su competencia para conocer de la acción de amparo, pero señala que la falta de legitimidad o representación es causal suficiente para declarar la inadmisibilidad. Se hace referencia a normativas y sentencias anteriores que establecen la necesidad de presentar el poder en original o copia certificada para la admisión de cualquier recurso ante la Sala Constitucional.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el archivo del expediente, dejando claro que la acción de amparo no puede ser admitida por no cumplir con los requisitos legales establecidos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "partición de bienes",
+    "sucesiones",
+    "irregularidades procesales",
+    "jurisprudencia",
+    "tribunales"
+  ],
+  "titulo": "Sentencia sobre inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2122_E25-0533.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351971-2122-121225-2025-25-0533.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.076811"
+}

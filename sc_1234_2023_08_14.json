@@ -1,0 +1,25 @@
+{
+  "id": 34127,
+  "numero": "1234",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia número 422 dictada por la Sala de Casación Civil, que declaró inadmisible el recurso extraordinario de casación interpuesto por LATIN SHIPPING INC, C.A. La Sala concluyó que no existía agravio para la parte recurrente, ya que la decisión de homologación de la transacción había sido acordada entre las partes y no se evidenció incapacidad del órgano que la suscribió. La Sala reafirmó que la revisión constitucional no debe ser entendida como una nueva instancia, sino como un mecanismo para preservar la uniformidad de la interpretación de normas constitucionales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "discrecionalidad",
+    "sentencias firmes",
+    "normas constitucionales",
+    "derechos subjetivos"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de decisión de inadmisibilidad de recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1234_E22-1000.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328438-1234-14823-2023-22-1000.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.875016"
+}

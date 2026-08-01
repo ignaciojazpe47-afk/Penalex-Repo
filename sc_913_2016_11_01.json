@@ -1,0 +1,23 @@
+{
+  "id": 60054,
+  "numero": "913",
+  "fecha": "2016-11-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00342 de la Sala Político-Administrativa, que había declarado sin lugar el recurso de apelación interpuesto por Venezolano de Crédito, S.A. Banco Universal. La parte recurrente alegó violaciones a principios constitucionales, incluyendo el in dubio pro administrado y el derecho a la defensa. La Sala Constitucional determinó que la sentencia recurrida no contravino la Constitución y que la Sala Político-Administrativa actuó conforme a la ley vigente al momento de la sanción impuesta al Banco. Finalmente, se negó la homologación de la solicitud de revisión y se declaró sin lugar la solicitud de medida cautelar.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "in dubio pro administrado",
+    "derecho a la defensa",
+    "sanción administrativa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 00342 dictada por la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-11-01_S913_E16-0440.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/191623-913-11116-2016-16-0440.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:49.956154"
+}

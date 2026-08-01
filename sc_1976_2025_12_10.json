@@ -1,0 +1,23 @@
+{
+  "id": 23681,
+  "numero": "1976",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 6 de diciembre de 2024 por la Sala 5 de la Corte de Apelaciones, que había declarado el sobreseimiento de la causa seguida contra varios ciudadanos por delitos de uso de documento público falso y agavillamiento. Los demandantes argumentaron que no se les notificó adecuadamente, lo que vulneró su derecho al debido proceso. La Sala Constitucional encontró que efectivamente hubo violaciones a los derechos de los solicitantes y decidió anular la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sobreseimiento",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de revisión constitucional sobre sobreseimiento de causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S1976_E25-0894.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351680-1976-101225-2025-25-0894.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.748704"
+}

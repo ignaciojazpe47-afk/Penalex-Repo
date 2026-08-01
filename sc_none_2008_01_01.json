@@ -1,0 +1,22 @@
+{
+  "id": 3479,
+  "numero": null,
+  "fecha": "2008-01-01",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional revisó la solicitud de Freddy Álvarez Bernee sobre la inadmisibilidad de su acción de amparo contra Electricidad de Caracas, C.A. La sentencia del Juzgado Superior había declarado sin lugar el recurso de apelación y la acción de amparo inadmisible, argumentando que no se había agotado la vía ordinaria. La Sala determinó que la acción de amparo era inadmisible, ya que el asunto debía ser tratado en el ámbito contencioso-administrativo, dado que se trataba de un servicio público. Finalmente, la Sala declaró con lugar la revisión y anuló la sentencia impugnada, ordenando la remisión del expediente a un Juzgado Superior competente en materia contencioso-administrativa.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "acción de amparo",
+    "Electricidad de Caracas"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre acción de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-03-28_PoliticoAdmin_07.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:33.103841"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 36346,
+  "numero": "0664",
+  "fecha": "2022-09-27",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "SUSPENDE cautelarmente",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 00455 dictada por la Sala Político-Administrativa, en la que se abordaron aspectos de orden legal y principios constitucionales. La decisión sub examine destaca la importancia de la notoriedad judicial y la interpretación de normas constitucionales, así como la potestad de la Sala Constitucional para revisar sentencias firmes de otros tribunales. En consecuencia, se ordena la apertura de un expediente para la revisión de la sentencia mencionada y se suspenden cautelarmente sus efectos.",
+  "palabras_clave": [
+    "notoriedad judicial",
+    "debido proceso",
+    "jurisprudencia",
+    "interpretación constitucional",
+    "poder judicial",
+    "sentencias",
+    "derechos constitucionales"
+  ],
+  "titulo": "Revisión de la sentencia N° 00455 dictada por la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-09-27_S0664_E22-0742.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/319391-0664-27922-2022-22-0742.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.200392"
+}

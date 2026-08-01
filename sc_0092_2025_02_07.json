@@ -1,0 +1,24 @@
+{
+  "id": 18297,
+  "numero": "0092",
+  "fecha": "2025-02-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto contra una decisión que declaró inadmisible una acción de amparo constitucional. La apelación fue presentada por la abogada María Craca, en representación de Wilma Lorena Hernández De Sánchez, quien alegaba la existencia de un fraude procesal en un juicio de partición de herencia. La Sala determinó que la acción de amparo no era la vía idónea para resolver el caso, ya que existían medios ordinarios para dirimir la controversia.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "debido proceso",
+    "derechos constitucionales",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-07_S0092_E22-0678.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341355-0092-7225-2025-22-0678.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.553566"
+}

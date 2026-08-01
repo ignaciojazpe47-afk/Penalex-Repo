@@ -1,0 +1,22 @@
+{
+  "id": 37487,
+  "numero": "1008",
+  "fecha": "2022-11-17",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de revisión constitucional relacionada con una sentencia firme de la Corte de Apelaciones del Estado Carabobo. La revisión se centra en la declaración de inadmisibilidad de una acción de amparo interpuesta por la ciudadana Mónica Del Socorro Marín Tobón, quien alega que el Ministerio Público no ha dado curso a su denuncia. La Sala se declara competente para conocer el caso y ordena la remisión de documentos necesarios para su resolución.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo",
+    "sentencia firme"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-17_S1008_E16-0564.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320914-1008-171122-2022-16-0564.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.347121"
+}

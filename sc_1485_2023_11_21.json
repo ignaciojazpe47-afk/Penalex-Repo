@@ -1,0 +1,26 @@
+{
+  "id": 32916,
+  "numero": "1485",
+  "fecha": "2023-11-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 21 de noviembre de 2023, declaró improcedente la solicitud de acumulación de causas presentada por el abogado Jaime Alberto Coronado Lora. Asimismo, homologó el desistimiento de la revisión constitucional interpuesta contra la sentencia dictada el 8 de junio de 2023 por el Juzgado Superior Segundo en lo Civil, Mercantil, del Tránsito y Bancario de la Circunscripción Judicial del Área Metropolitana de Caracas. La decisión se fundamenta en que el solicitante había obtenido una sentencia de amparo que anuló la resolución judicial impugnada, lo que llevó a la conclusión de que no había necesidad de continuar con la revisión solicitada.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "jurisprudencia",
+    "vías ordinarias",
+    "derechos",
+    "garantías",
+    "interpretación"
+  ],
+  "titulo": "Decisión sobre solicitud de revisión constitucional y acumulación de causas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-21_S1485_E23-0675.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330536-1485-211123-2023-23-0675.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.443009"
+}

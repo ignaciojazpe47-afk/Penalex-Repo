@@ -1,0 +1,24 @@
+{
+  "id": 13736,
+  "numero": "210",
+  "fecha": "2000-04-07",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Héctor Peña Torrelles",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de nulidad interpuesta por la sociedad mercantil The News Caffe & Bar, C.A. contra la Resolución N° 375-98, que impuso una multa y ordenó el cierre del establecimiento por operar sin la Licencia de Industria y Comercio. La Sala consideró que la normativa municipal que exigía dicha licencia atentaba contra el derecho a la libre actividad económica y la reserva legal del Poder Nacional en materia tributaria. Además, se declaró improcedente la solicitud de amparo, dado que los efectos de la resolución impugnada quedaron suspendidos automáticamente con la interposición del recurso de nulidad.",
+  "palabras_clave": [
+    "nulidad",
+    "amparo constitucional",
+    "resolución administrativa",
+    "licencia de industria y comercio",
+    "derecho a la actividad económica"
+  ],
+  "titulo": "Sentencia sobre nulidad de resolución administrativa y amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_PoliticoAdmin_0854_TorrellesEn.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.674589"
+}

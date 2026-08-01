@@ -1,0 +1,25 @@
+{
+  "id": 37122,
+  "numero": "0872",
+  "fecha": "2022-10-31",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 31 de octubre de 2022, declaró no ha lugar la revisión constitucional solicitada por el abogado Juan Andrés Mattey Lira en nombre de José de Almeida Pinto, respecto a la sentencia Nro. 450 de la Sala de Casación Penal, que desestimó el recurso de casación interpuesto por el solicitante. La Sala consideró que no se evidenció el desconocimiento de criterios interpretativos de normas constitucionales ni la vulneración de derechos fundamentales del solicitante.\n\nLa revisión fue solicitada debido a supuestas violaciones de derechos y garantías constitucionales en el proceso penal primigenio, específicamente en relación con el debido proceso y la tutela judicial efectiva. Sin embargo, la Sala Constitucional determinó que la Sala de Casación Penal actuó conforme a derecho y que la revisión no contribuiría a la uniformidad de la interpretación de normas constitucionales.\n\nFinalmente, se ordenó archivar el expediente y se reafirmó la competencia de la Sala Constitucional para conocer de la solicitud de revisión, aunque se desestimó la misma por no cumplir con los requisitos necesarios para su procedencia.",
+  "palabras_clave": [
+    "responsabilidad civil",
+    "prescripción",
+    "derecho a la defensa",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "igualdad ante la ley"
+  ],
+  "titulo": "Revisión Constitucional de Sentencia Nro. 450",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-10-31_S0872_E19-0565.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/320474-0872-311022-2022-19-0565.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.421473"
+}

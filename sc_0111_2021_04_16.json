@@ -1,0 +1,22 @@
+{
+  "id": 38486,
+  "numero": "0111",
+  "fecha": "2021-04-16",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en virtud de la acción de amparo constitucional interpuesta por Jhonny Rafael Parra Cadenas, revisó la decisión de la Corte de Apelaciones del Estado Aragua que declaró inadmisible un recurso de apelación por extemporáneo. La Sala constató que la Corte no consideró los días no laborables decretados por el Presidente de la República, lo que vulneró el derecho a la defensa y al debido proceso del accionante. Por lo tanto, se anuló la sentencia impugnada y se ordenó a la Corte de Apelaciones dictar una nueva decisión respetando los derechos constitucionales.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Derecho a la defensa",
+    "Debido proceso"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional a favor de Jhonny Rafael Parra Cadenas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-04-16_S0111_E17-0909.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/311824-0111-16421-2021-17-0909.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:19.892359"
+}

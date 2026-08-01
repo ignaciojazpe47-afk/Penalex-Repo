@@ -1,0 +1,25 @@
+{
+  "id": 27159,
+  "numero": "0584",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por el abogado Edgar A. Suárez A. en representación de Luis Alejandro Saldivia Bullones, respecto a la decisión N° 441 de la Sala de Casación Civil. La Sala declaró inadmisible la solicitud debido a la falta de presentación de copia certificada del poder que acreditara la representación del solicitante. Se enfatizó que la falta de legitimidad o representación es causal de inadmisibilidad según la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "recurso de casación",
+    "silencio de pruebas",
+    "valoración de pruebas",
+    "Código de Procedimiento Civil",
+    "infracción de ley",
+    "error de juzgamiento"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0584_E23-1183.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338544-0584-11124-2024-23-1183.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.304767"
+}

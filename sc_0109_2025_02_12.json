@@ -1,0 +1,27 @@
+{
+  "id": 18353,
+  "numero": "0109",
+  "fecha": "2025-02-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por los ciudadanos Raúl Carmelo Parra Serva y María Carlota Parra Serva contra la sentencia del Juzgado Superior Undécimo que había declarado con lugar una demanda de desalojo por razones de necesidad. Los accionantes alegaron violaciones al debido proceso y a la tutela judicial efectiva, argumentando que no se les notificó adecuadamente sobre el proceso de desalojo.",
+  "palabras_clave": [
+    "desalojo",
+    "arrendamiento",
+    "necesidad",
+    "propietario",
+    "relación arrendaticia",
+    "justificación",
+    "normativa",
+    "doctrina"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-12_S0109_E22-0370.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341447-0109-12225-2025-22-0370.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:52.770447"
+}

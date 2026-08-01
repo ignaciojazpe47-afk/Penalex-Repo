@@ -1,0 +1,26 @@
+{
+  "id": 33526,
+  "numero": "1860",
+  "fecha": "2023-12-08",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Franklin Urquijo Gordillo, en representación de Pedro Emilio Hernández Mendoza, contra la decisión del Tribunal Superior Cuarto Agrario que declaró improcedente in limine litis la acción de amparo constitucional. La Sala determinó su competencia y analizó la falta de notificación alegada por el quejoso, concluyendo que la acción de amparo era improcedente. Finalmente, se confirmó la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo",
+    "apelación",
+    "competencia",
+    "posesión",
+    "agrario",
+    "derechos",
+    "constitucionales"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-08_S1860_E23-0929.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331395-1860-81223-2023-23-0929.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.465787"
+}

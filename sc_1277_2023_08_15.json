@@ -1,0 +1,25 @@
+{
+  "id": 34169,
+  "numero": "1277",
+  "fecha": "2023-08-15",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo interpuesta por María del Rosario Hernández Torrealba contra el Instituto de Salud Pública del Estado Bolívar. La acción fue declarada procedente in limine litis en una sentencia anterior. En esta decisión, la Sala ratifica la orden de informar sobre las actuaciones llevadas a cabo por el Instituto de Salud Pública respecto a la sentencia anterior, instando a la Secretaría a priorizar la notificación electrónica.",
+  "palabras_clave": [
+    "amparo",
+    "salud",
+    "instituciones",
+    "competencia",
+    "justicia",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-15_S1277_E15-0637.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328481-1277-15823-2023-15-0637.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.233252"
+}

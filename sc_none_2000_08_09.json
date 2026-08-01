@@ -1,0 +1,27 @@
+{
+  "id": 1963,
+  "numero": null,
+  "fecha": "2000-08-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derechos Laborales",
+  "decision": "SIN LUGAR",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por la sociedad mercantil STEFAN MAR C.A. contra la decisión del Juzgado Superior en lo Civil, Mercantil, del Tránsito, del Trabajo y de Menores del Estado Falcón, que declaró sin lugar la acción de amparo constitucional. La apelación se fundamentó en la supuesta vulneración del derecho al debido proceso y la cosa juzgada. La Sala determinó que la acción de amparo no era el medio idóneo, ya que existían recursos ordinarios que debían ser agotados previamente. En consecuencia, se confirmó la decisión del tribunal inferior.",
+  "palabras_clave": [
+    "amparo",
+    "derechos laborales",
+    "due process",
+    "cosa juzgada",
+    "apelación",
+    "STEFAN MAR C.A.",
+    "José Orlando Calderón",
+    "Estado Falcón"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2000-08-09_CasacionCivil_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.725872"
+}

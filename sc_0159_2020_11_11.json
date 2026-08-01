@@ -1,0 +1,27 @@
+{
+  "id": 41603,
+  "numero": "0159",
+  "fecha": "2020-11-11",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por el abogado Joe Stalyn Marcano Ríos en representación de Rached Tohme Ledezma, quien alegó violaciones a sus derechos fundamentales durante su detención. La Sala determinó su incompetencia para conocer del caso, indicando que la Corte de Apelaciones del Circuito Judicial Penal de Anzoátegui es el tribunal competente para tramitar la acción de amparo.",
+  "palabras_clave": [
+    "derecho a la defensa",
+    "debido proceso",
+    "privación de libertad",
+    "extorsión",
+    "salud",
+    "trabajo",
+    "constitución",
+    "ministerio público"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-11-11_S0159_E20-0247.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/310618-0159-111120-2020-20-0247.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.418241"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27339,
+  "numero": "0719",
+  "fecha": "2022-08-03",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 293 dictada por la Sala de Casación Civil, que declaró inadmisible la demanda por cumplimiento de contrato, resolución y terminación del contrato interpuesto por Jonathan Alberto Caballero Nova. La Sala concluyó que la acumulación de pretensiones era inepta, ya que no se pueden solicitar simultáneamente el cumplimiento y la resolución del mismo contrato, lo que llevó a la inadmisibilidad de la demanda. La solicitud de revisión fue declarada sin lugar, reafirmando la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inepta acumulación",
+    "contrato de compra-venta"
+  ],
+  "titulo": "Revisión Constitucional de la Sentencia N° 293 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0719_E23-0827.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338744-0719-81124-2024-23-0827.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:22.579584"
+}

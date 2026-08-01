@@ -1,0 +1,27 @@
+{
+  "id": 24311,
+  "numero": "0176",
+  "fecha": "2024-02-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un amparo constitucional interpuesto por el abogado Hugo Dennys Indriago Rojas en representación de José Luis Amador Rodríguez, contra una decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua. La Sala declaró inadmisible el amparo debido a que el escrito presentado era ininteligible y no cumplía con los requisitos necesarios, además de ser presentado de forma extemporánea.",
+  "palabras_clave": [
+    "amparo",
+    "inadmision",
+    "derechos",
+    "garantias",
+    "justicia",
+    "tribunal",
+    "corte",
+    "penal"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de un amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0176_E23-0889.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332717-0176-21224-2024-23-0889.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.669364"
+}

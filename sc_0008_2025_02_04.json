@@ -1,0 +1,25 @@
+{
+  "id": 18155,
+  "numero": "0008",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Alirio José García Chirino en nombre de Fidel Al Matar Al Dib, debido a la falta de acreditación de la representación judicial. Se establece que es necesario presentar el poder correspondiente para la admisión de la solicitud de revisión. La decisión se fundamenta en el artículo 133, numeral 3 de la Ley Orgánica del Tribunal Supremo de Justicia, que establece la inadmisibilidad en casos de falta de legitimidad o representación.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "inadmisibilidad",
+    "seguridad jurídica",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "Código de Procedimiento Civil"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0008_E24-0460.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341155-0008-4225-2025-24-0460.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.805327"
+}

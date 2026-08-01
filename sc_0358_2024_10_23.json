@@ -1,0 +1,25 @@
+{
+  "id": 26757,
+  "numero": "0358",
+  "fecha": "2024-10-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por el abogado José Gregorio Silva Bocaney en nombre de Crisanto Antonio Bello Vetencourt. La solicitud fue inadmisible debido a la falta de legitimidad del abogado para actuar en el presente asunto, ya que no se presentó el poder correspondiente en copia certificada. La Sala reafirmó su competencia para conocer de la solicitud, pero determinó que la falta de documentación adecuada impedía su admisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "legitimidad",
+    "poder",
+    "inadmisibilidad",
+    "representación judicial",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-23_S0358_E22-0012.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338039-0358-231024-2024-22-0012.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:49.335015"
+}

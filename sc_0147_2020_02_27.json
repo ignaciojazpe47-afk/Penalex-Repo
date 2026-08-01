@@ -1,0 +1,22 @@
+{
+  "id": 41475,
+  "numero": "0147",
+  "fecha": "2020-02-27",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "HA LUGAR",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0050, donde se declara con lugar la solicitud de revisión interpuesta por Escotel Software INC contra la sentencia RC-000126 de la Sala de Casación Civil. Se anula parcialmente el fallo objeto de revisión y se confirma la decisión del Juzgado Superior Octavo en lo Civil, Mercantil y del Tránsito de Caracas. La Sala ordena recabar los recursos interpuestos por Infonet Redes de Información, C.A., en cumplimiento del principio de economía procesal y la tutela judicial efectiva.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "economía procesal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-10-20_S0147_E16-0908.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/310156-0147-201020-2020-16-0908.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:33.136366"
+}

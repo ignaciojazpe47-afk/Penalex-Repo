@@ -1,0 +1,25 @@
+{
+  "id": 23943,
+  "numero": "2146",
+  "fecha": "2025-12-12",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró inadmisible el recurso de apelación interpuesto por los abogados Gabriel Osorio Tamayo y José Gregorio Montilla González, quienes actuaban como defensores técnicos del ciudadano Richard José Cammarano Jaimes. La decisión se fundamenta en que la apelación fue presentada fuera del lapso legal establecido, ya que transcurrieron más de tres días hábiles desde la emisión de la sentencia de la Corte de Apelaciones que declaró inadmisible la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "legitimidad",
+    "defensores",
+    "debido proceso",
+    "juramento",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad del recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-12_S2146_E19-0340.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/352006-2146-121225-2025-19-0340.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:18.076400"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 21214,
+  "numero": "1228",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo interpuesta por el abogado Francisco Antonio Paz Yanastacio, en representación de Raffaele Di Martino Sciubba, contra la sentencia dictada el 25 de noviembre de 2024 por el Juzgado Superior Décimo en lo Civil, Mercantil, Tránsito y Bancario. La decisión se basa en la falta de agotamiento de los recursos ordinarios disponibles para contrarrestar la medida cautelar innominada dictada en el proceso de partición de comunidad. La Sala concluye que no se cumplen los requisitos para la admisibilidad de la acción de amparo, ya que existían medios idóneos para restablecer la situación jurídica infringida.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "tutela judicial",
+    "Ley Orgánica del Tribunal Supremo de Justicia",
+    "decisiones judiciales",
+    "inadmision",
+    "poder judicial"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1228_E25-0485.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346525-1228-28725-2025-25-0485.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.374927"
+}

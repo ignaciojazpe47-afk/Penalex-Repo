@@ -1,0 +1,27 @@
+{
+  "id": 28577,
+  "numero": "1408",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "El ciudadano Rafael Octavio Herrera Ferrer interpuso una acción de amparo constitucional contra la DGCIM por la retención arbitraria de su vehículo. La Sala Constitucional, tras analizar el caso, determinó que no era competente para conocer de la demanda, ya que los hechos denunciados corresponden a un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal del Área Metropolitana de Caracas. Se ordenó la remisión del expediente a dicho juzgado y se destacó la gravedad de las denuncias, remitiendo copia al Ministerio Público para posibles investigaciones.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "jurisdicción",
+    "penal",
+    "DGCIM",
+    "justicia",
+    "tribunales"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional interpuesta por Rafael Octavio Herrera Ferrer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-12_S1408_E24-0084.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340600-1408-121224-2024-24-0084.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.821345"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 24124,
+  "numero": "0071",
+  "fecha": "2024-02-07",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Jaime Francisco Blanco contra las sentencias del Juzgado Superior Séptimo que desestimaron la denuncia de fraude procesal y confirmaron la homologación de un convenimiento. Se argumenta que la acción de amparo no cumplió con los requisitos establecidos y que las decisiones impugnadas no vulneraron derechos constitucionales. La Sala concluye que el juicio se originó de un convenimiento que fue considerado válido y ajustado a derecho.",
+  "palabras_clave": [
+    "fraude procesal",
+    "medida cautelar",
+    "desalojo",
+    "vivienda",
+    "contrato",
+    "jurisprudencia",
+    "derechos",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-06_S0071_E22-0609.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332426-0071-6224-2024-22-0609.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:01.572187"
+}

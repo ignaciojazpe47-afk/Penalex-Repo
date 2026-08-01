@@ -1,0 +1,25 @@
+{
+  "id": 42004,
+  "numero": "0272",
+  "fecha": "2020-12-16",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de diciembre de 2020, aborda la solicitud de avocamiento presentada por la COMPAÑÍA NACIONAL ANÓNIMA DE SEGUROS LA PREVISORA, C.A. respecto a un caso que cursa ante el Juzgado Nacional Segundo Contencioso Administrativo. La solicitud se fundamenta en la presunta violación de derechos procesales y la existencia de un fraude procesal por parte de BOTTLENOSE INVESTMENTS LIMITED.",
+  "palabras_clave": [
+    "avocamiento",
+    "medida cautelar",
+    "asiento registral",
+    "jurisdicción",
+    "sanciones",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre avocamiento en causa contencioso-administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-16_S0272_E20-0495.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311196-0272-161220-2020-20-0495.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.389560"
+}

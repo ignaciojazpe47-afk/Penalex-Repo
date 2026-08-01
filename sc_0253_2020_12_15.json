@@ -1,0 +1,26 @@
+{
+  "id": 41940,
+  "numero": "0253",
+  "fecha": "2020-12-15",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Ha lugar la solicitud de revisión constitucional y, en consecuencia, nulo el fallo impugnado.",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 16 de noviembre de 2017, que confirmaba la resolución de un contrato de arrendamiento entre Getulio Alberto Olivares e Inversiones Gregal, C.A. La parte demandante alegó incumplimiento en los pagos de arrendamiento, mientras que la demandada argumentó que las consignaciones fueron realizadas a tiempo. La Sala concluyó que las consignaciones fueron extemporáneas y que el incumplimiento era suficiente para la resolución del contrato. Sin embargo, se determinó que el fallo impugnado vulneró derechos de defensa y debido proceso, por lo que se declaró nulo y se ordenó el reenvío del caso a un Juzgado Superior para nueva decisión.",
+  "palabras_clave": [
+    "arrendamiento",
+    "contrato",
+    "mora",
+    "autonomía de la voluntad",
+    "sanciones",
+    "consignaciones",
+    "incumplimiento"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre resolución de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-15_S0253_E18-0094.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311051-0253-151220-2020-18-0094.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.394969"
+}

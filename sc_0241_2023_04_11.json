@@ -1,0 +1,22 @@
+{
+  "id": 29709,
+  "numero": "0241",
+  "fecha": "2023-04-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisa la sentencia N° 274 dictada por la Sala de Casación Civil, que declaró perecido un recurso de casación. Los apoderados judiciales argumentan que la decisión vulneró derechos fundamentales como la tutela judicial efectiva y el derecho a la defensa. La Sala concluye que el cómputo del lapso para formalizar el recurso debe iniciarse desde la admisión del mismo, y no de manera extemporánea como se había interpretado anteriormente.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "derecho a la defensa"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 274 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0241_E21-0259.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324328-0241-11423-2023-21-0259.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.047053"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21962,
+  "numero": "1500",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre una acción de amparo interpuesta por Ermelinda del Carmen Núñez Pantano contra las decisiones de la Corte de Apelaciones en materia de delitos de violencia contra la mujer. La Sala determina su competencia y declara con lugar la solicitud de nulidad de las actuaciones de la Corte de Apelaciones, argumentando violaciones al debido proceso y a los derechos constitucionales de la demandante.",
+  "palabras_clave": [
+    "amparo",
+    "violencia contra la mujer",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo en materia de violencia contra la mujer",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1500_E25-0652.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348115-1500-30925-2025-25-0652.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.206388"
+}

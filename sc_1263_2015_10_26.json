@@ -1,0 +1,24 @@
+{
+  "id": 66861,
+  "numero": "1263",
+  "fecha": "2015-10-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión interpuesta por el abogado Carlos Brender Ackerman en representación de Juan Vicente Carrillo Suárez, quien impugnó una sentencia del Juzgado Superior Décimo que declaró inadmisible su acción de amparo contra Inversiones Visnú, C.A. La Sala determinó que la decisión del juzgado inferior fue correcta al considerar que existían vías ordinarias que el demandante podía haber utilizado antes de recurrir al amparo constitucional.\n\nLa Sala concluyó que la sentencia impugnada no incurrió en vicios de motivación ni en violaciones a los derechos de la tutela judicial efectiva y al debido proceso, ya que el juzgado a quo actuó conforme a la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. Por lo tanto, se declaró que no había lugar a la solicitud de revisión.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la revisión de sentencias firmes y destacó la importancia de la seguridad jurídica y la uniformidad en la interpretación de las normas constitucionales.",
+  "palabras_clave": [
+    "revisión",
+    "amparo constitucional",
+    "inadmisibilidad",
+    "tutela judicial efectiva",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-26_S1263_E15-0932.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182160-1263-261015-2015-15-0932.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.432791"
+}

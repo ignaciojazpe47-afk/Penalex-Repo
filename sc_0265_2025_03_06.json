@@ -1,0 +1,25 @@
+{
+  "id": 18721,
+  "numero": "0265",
+  "fecha": "2025-03-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Manuel Assad Brito, apoderado de los trabajadores petroleros, contra el retardo procesal de la Sala de Casación Social. Se argumenta que la ley prohíbe el amparo contra decisiones de este máximo tribunal, lo que lleva a la inadmisibilidad de la acción. Además, se niega la homologación del desistimiento presentado por el abogado, dado que la acción fue declarada inadmisible.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "desistimiento",
+    "trabajadores",
+    "justicia",
+    "proceso"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional inadmisible",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-03-06_S0265_E24-0699.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/342170-0265-6325-2025-24-0699.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:48.868309"
+}

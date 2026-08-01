@@ -1,0 +1,25 @@
+{
+  "id": 21235,
+  "numero": "1249",
+  "fecha": "2025-06-05",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Casacion",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de casación interpuesto por Juan Ramón Gaetano Espinoza en representación de Leonel David Noriega Sánchez, relacionado con la omisión de la Corte de Apelaciones. La Sala determinó que la solicitud carecía de claridad y coherencia, lo que impedía su tramitación adecuada. Se ordenó al demandante corregir su escrito dentro de un plazo de tres días, advirtiendo que de no hacerlo, la acción sería declarada inadmisible.",
+  "palabras_clave": [
+    "recurso de casación",
+    "debido proceso",
+    "negación de justicia",
+    "formalismos",
+    "despacho saneador",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad del recurso de casación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1249_E25-0522.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346546-1249-28725-2025-25-0522.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.303568"
+}

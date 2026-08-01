@@ -1,0 +1,23 @@
+{
+  "id": 27947,
+  "numero": "1060",
+  "fecha": "2024-11-27",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la colisión de leyes entre la Regla II/2 del Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar y el artículo 280, numeral 1 de la Ley de Marinas y Actividades Conexas. Se determinó que prevalece la norma internacional sobre la legislación nacional, declarando que la limitación geográfica establecida en esta última no tiene aplicación. La decisión es vinculante y debe ser publicada en la Gaceta Oficial.",
+  "palabras_clave": [
+    "colisión de leyes",
+    "Convenio STCW",
+    "Ley de Marinas",
+    "sentencia vinculante"
+  ],
+  "titulo": "Sentencia sobre colisión de leyes entre el Convenio STCW y la Ley de Marinas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-27_S1060_E21-0364.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339583-1060-271124-2024-21-0364.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.488304"
+}

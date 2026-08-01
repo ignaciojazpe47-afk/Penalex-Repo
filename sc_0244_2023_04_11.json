@@ -1,0 +1,24 @@
+{
+  "id": 29712,
+  "numero": "0244",
+  "fecha": "2023-04-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inoficioso",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una demanda de nulidad por inconstitucionalidad interpuesta por la Universidad de los Andes contra los Decretos números 2.830 y 2.831 del 1 de mayo de 2017. Los recurrentes argumentaron que dichos decretos quebrantan varios artículos de la Constitución, usurpando la competencia del pueblo para convocar una Asamblea Nacional Constituyente. La Sala declaró su competencia para conocer de la demanda, pero determinó que el objeto de la misma había decaído debido a la realización de elecciones para la Asamblea Nacional Constituyente en julio de 2017.",
+  "palabras_clave": [
+    "inconstitucionalidad",
+    "decretos",
+    "asamblea nacional constituyente",
+    "competencia",
+    "decaimiento del objeto"
+  ],
+  "titulo": "Decisión sobre demanda de nulidad por razones de inconstitucionalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-11_S0244_E17-0702.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324331-0244-11423-2023-17-0702.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:38.049710"
+}

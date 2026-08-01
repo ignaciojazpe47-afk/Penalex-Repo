@@ -1,0 +1,27 @@
+{
+  "id": 38229,
+  "numero": "0008",
+  "fecha": "2021-03-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Wilfredo Francisco Morales Vaamonde contra las sentencias del Tribunal Superior Primero de Protección de Niños, Niñas y Adolescentes. La acción se fundamenta en la supuesta violación de derechos constitucionales en el contexto de un reconocimiento de concubinato. La Sala concluye que el demandante ya había ejercido recursos ordinarios que fueron resueltos, lo que lleva a la inadmisibilidad de la presente acción de amparo.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "fraude_procesal",
+    "Lopnna",
+    "jurisdicción",
+    "sentencias",
+    "inhibición",
+    "concubinato"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-03-04_S0008_E17-0492.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/311402-0008-4321-2021-17-0492.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:24.766894"
+}

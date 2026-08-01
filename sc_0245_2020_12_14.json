@@ -1,0 +1,22 @@
+{
+  "id": 41926,
+  "numero": "0245",
+  "fecha": "2020-12-14",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CARMEN ZULETA DE MERCHÁN",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° RC000415 de la Sala de Casación Civil, que había declarado sin lugar la segunda fase del avocamiento solicitado por Winder Rafael Torrealba. La Sala Constitucional determinó que existían razones suficientes para la procedencia de la revisión, dado el prolongado tiempo sin decisión en el proceso de inquisición de paternidad, lo que constituía una denegación de justicia. En consecuencia, se anuló la sentencia impugnada y se ordenó la remisión del expediente al Juzgado Superior correspondiente para su prosecución.",
+  "palabras_clave": [
+    "avocamiento",
+    "denegación de justicia",
+    "inquisición de paternidad"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° RC000415",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-14_S0245_E18-0621.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/311030-0245-141220-2020-18-0621.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:29.396819"
+}

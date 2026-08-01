@@ -1,0 +1,22 @@
+{
+  "id": 11485,
+  "numero": null,
+  "fecha": "2000-11-21",
+  "anio": 2000,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Casacion Penal",
+  "decision": "Con Lugar",
+  "ponente": "ALEJANDRO ANGULO FONTIVEROS",
+  "resumen": "El Tribunal Supremo de Justicia, en Sala de Casación Penal, decidió a favor de Carlos Javier Marcano González, quien había sido condenado por homicidio intencional y porte ilícito de arma. La defensa alegó que el juez presidente del tribunal de juicio no permitió considerar la circunstancia de justificación de estado de necesidad, lo que causó un estado de indefensión al acusado. La Sala constató que efectivamente se incurrió en el vicio denunciado por la defensa.",
+  "palabras_clave": [
+    "homicidio",
+    "casación",
+    "estado de necesidad"
+  ],
+  "titulo": "Sentencia de Casación a favor de Carlos Javier Marcano González",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_f60d161e304ffdd021b5b8a5e44f7363_AnguloFontiveros.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:24:11.349006"
+}

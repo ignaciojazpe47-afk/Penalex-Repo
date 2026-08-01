@@ -1,0 +1,27 @@
+{
+  "id": 35369,
+  "numero": "0298",
+  "fecha": "2022-07-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer la solicitud de avocamiento presentada por los abogados de Luis Javier Pinto Belandria, pero inadmite la solicitud. Se argumenta que no se han presentado los documentos necesarios para valorar la admisibilidad de la petición y que el avocamiento no es posible en causas donde ya ha recaído sentencia definitivamente firme. La decisión se fundamenta en la falta de pruebas que justifiquen la intervención del Tribunal Supremo en el caso.",
+  "palabras_clave": [
+    "avocamiento",
+    "custodia",
+    "niños",
+    "derechos",
+    "justicia",
+    "proceso",
+    "tutela",
+    "jurisdicción"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-07-07_S0298_E22-0361.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/317797-0298-7722-2022-22-0361.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:38.237801"
+}

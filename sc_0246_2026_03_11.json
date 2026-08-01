@@ -1,0 +1,25 @@
+{
+  "id": 17403,
+  "numero": "0246",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional recibió un oficio de la Corte de Apelaciones del Estado Zulia, relacionado con una acción de amparo constitucional interpuesta por el abogado Nelson Enrique Ceballo González en representación de Jhon Jarvis Fernández Fernández. La acción se interpuso contra una decisión que declaró sin lugar un recurso de apelación y revocó la suspensión condicional del proceso penal en curso. La Sala, tras analizar la competencia, decidió admitir la acción de amparo y ordenó verificar el estado actual de la causa penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "procedimiento penal",
+    "Corte de Apelaciones",
+    "sanciones",
+    "notificación"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0246_E25-0295.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353551-0246-11326-2026-25-0295.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:09.576201"
+}

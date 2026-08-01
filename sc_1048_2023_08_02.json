@@ -1,0 +1,25 @@
+{
+  "id": 31723,
+  "numero": "1048",
+  "fecha": "2023-08-02",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró improcedente la acción de amparo constitucional interpuesta por el abogado José De Jesús Moreno Guevara, defensor privado de David Daniel Pérez Hurtado, contra la decisión de la Sala número Dos de la Corte de Apelaciones de Bolívar. Esta última había declarado sin lugar la apelación contra un auto de revisión y actualización de cómputo de pena, en el que se determinó que el condenado debía cumplir un remanente de pena de siete años, siete meses y veintidós días por el delito de abuso sexual a un menor.\n\nLa Sala Constitucional argumentó que la decisión de la Corte de Apelaciones fue ajustada a derecho y que el condenado no cumplía con los requisitos para optar a beneficios procesales, dado que su delito es considerado atroz y de lesa humanidad. Se reafirmó que los delitos sexuales contra niños no permiten la aplicación de fórmulas alternativas de cumplimiento de pena, en virtud de la gravedad de los mismos y su impacto social.\n\nFinalmente, se ordenó la publicación y registro de la sentencia, archivando el expediente correspondiente.",
+  "palabras_clave": [
+    "pena",
+    "redención",
+    "libertad",
+    "rehabilitación",
+    "derechos humanos",
+    "sistema penitenciario"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-02_S1048_E23-0060.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327714-1048-2823-2023-23-0060.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.890358"
+}

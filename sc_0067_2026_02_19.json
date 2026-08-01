@@ -1,0 +1,26 @@
+{
+  "id": 17563,
+  "numero": "0067",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, a través de la magistrada ponente Lourdes Benicia Suárez Anderson, se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Jimmy Joamer Querales Boyano en representación de Weitao Liang, contra una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del estado Yaracuy. La acción fue presentada debido a la desestimación de una denuncia por parte del Ministerio Público, que fue confirmada por la Corte de Apelaciones, alegando que los hechos no revestían carácter penal.\n\nLa Sala Constitucional declaró su competencia para conocer la acción, pero consideró que la misma era improcedente in limine litis, ya que el tribunal de apelación había actuado dentro de su competencia y sin abuso de poder. Se argumentó que no se configuraron las violaciones constitucionales alegadas por el demandante, y que la decisión de la Corte de Apelaciones estaba debidamente motivada y ajustada a derecho.\n\nFinalmente, la Sala Constitucional declaró improcedente la acción de amparo, reafirmando la legalidad de la decisión de la Corte de Apelaciones y garantizando el respeto a los derechos constitucionales en el proceso penal.",
+  "palabras_clave": [
+    "apelación",
+    "denuncia",
+    "desestimación",
+    "proceso penal",
+    "derechos constitucionales",
+    "tutela judicial",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0067_E25-0903.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352752-0067-19226-2026-25-0903.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.393711"
+}

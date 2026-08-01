@@ -1,0 +1,24 @@
+{
+  "id": 57223,
+  "numero": "277",
+  "fecha": "2016-04-26",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RÍOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó una sentencia en la que se ordena al Ministro del Poder Popular para la Salud que las prescripciones facultativas de medicamentos incluyan el nombre de la sustancia activa, la forma y dosis recomendada, así como el nombre genérico y de marca del producto. Esta decisión se fundamenta en la necesidad de garantizar el derecho a la salud y la información adecuada a los consumidores sobre los medicamentos que utilizan.\n\nLa Sala considera que la falta de información sobre el principio activo de los medicamentos puede perjudicar a los consumidores, quienes podrían optar por productos de marca sin conocer que son equivalentes a los genéricos. Además, se destaca que la inactividad de los demandantes no debe llevar a la perención de la instancia, dado que se trata de un asunto de interés público relacionado con la salud.\n\nFinalmente, se ordena la fijación de una audiencia pública y se acuerda una medida cautelar para asegurar que se implementen las recomendaciones sobre la información en las prescripciones, en cumplimiento de las normativas vigentes y en resguardo del derecho a la salud de la población.",
+  "palabras_clave": [
+    "prescripciones facultativas",
+    "medicamentos",
+    "derecho a la salud",
+    "intereses colectivos",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre la obligación de incluir información en las prescripciones facultativas de medicamentos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-04-26_S277_E08-1521.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/187402-277-26416-2016-08-1521.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:17.499139"
+}

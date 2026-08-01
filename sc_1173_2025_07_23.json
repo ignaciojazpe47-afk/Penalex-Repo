@@ -1,0 +1,22 @@
+{
+  "id": 21109,
+  "numero": "1173",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por Julio César Porras Figueroa, quien impugnaba una sentencia de nulidad de matrimonio dictada el 27 de febrero de 2023. La inadmisibilidad se fundamenta en la falta de presentación de la copia certificada de la sentencia cuya revisión se solicitaba, lo que contraviene los requisitos establecidos en la Ley Orgánica del Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "nulidad de matrimonio",
+    "inadmisibilidad"
+  ],
+  "titulo": "Inadmisibilidad de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1173_E24-0724.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346391-1173-23725-2025-24-0724.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.386257"
+}

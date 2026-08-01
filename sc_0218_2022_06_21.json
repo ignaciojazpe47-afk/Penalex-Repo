@@ -1,0 +1,24 @@
+{
+  "id": 35150,
+  "numero": "0218",
+  "fecha": "2022-06-21",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la solicitud de revisión constitucional interpuesta por el Ministerio Público, anulando las decisiones que declararon terminada la averiguación sumarial por la muerte de Sulpicio Gudiño. Se argumenta que la investigación realizada fue insuficiente y careció de imparcialidad, violando derechos fundamentales y principios de justicia. La Sala ordena la reanudación de la investigación penal para determinar la posible responsabilidad de los autores de los hechos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "derechos humanos",
+    "homicidio",
+    "Sulpicio Gudiño",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre la revisión constitucional de la averiguación sumarial por la muerte de Sulpicio Gudiño",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-21_S0218_E16-0868.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317479-0218-21622-2022-16-0868.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.631075"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 34204,
+  "numero": "1312",
+  "fecha": "2023-08-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 16 de agosto de 2023, declaró sin lugar el recurso de apelación interpuesto por Juan Carlos Gasperi Gómez contra la decisión del Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes de la Circunscripción Judicial del Estado Falcón, que había declarado inadmisible la acción de amparo constitucional. La Sala fundamentó su decisión en la falta de agotamiento de las vías ordinarias por parte del recurrente, quien no había interpuesto los recursos pertinentes en el proceso original.\n\nSe destacó que la acción de amparo es un mecanismo extraordinario que no puede ser utilizado como sustituto de los recursos ordinarios, y que el demandante no había demostrado la vulneración de sus derechos constitucionales de manera suficiente. La Sala reafirmó la importancia de seguir los procedimientos establecidos para garantizar el debido proceso y la tutela judicial efectiva.\n\nFinalmente, se confirmó la sentencia del tribunal inferior, manteniendo la inadmisibilidad de la acción de amparo y subrayando la necesidad de que los ciudadanos agoten las vías judiciales ordinarias antes de recurrir a la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "debido proceso"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-16_S1312_E23-0193.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328516-1312-16823-2023-23-0193.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:47.230567"
+}

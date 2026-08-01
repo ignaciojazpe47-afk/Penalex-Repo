@@ -1,0 +1,23 @@
+{
+  "id": 28032,
+  "numero": "1121",
+  "fecha": "2024-01-23",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Hiram Rafael Rivero Avellaneda contra la sentencia del Juzgado Superior Cuarto que confirmó la perención de la instancia en un juicio por tacha de documento público. La Sala determinó que la perención no era aplicable debido a la suspensión de los lapsos procesales durante la pandemia de COVID-19, lo que llevó a declarar la nulidad de la sentencia impugnada y a restablecer la situación jurídica del demandante.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Perención",
+    "COVID-19",
+    "Derechos Constitucionales"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre Perención de Instancia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1121_E23-1042.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339701-1121-281124-2024-23-1042.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.837271"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27431,
+  "numero": "0750",
+  "fecha": "2024-11-13",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NULA la sentencia identificada con el n.° 247. dictada el 16 de mayo de 2023 por la Sala de Casación Civil de este máximo tribunal.",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 13 de noviembre de 2024, declaró nula la sentencia N° 247 dictada el 16 de mayo de 2023 por la Sala de Casación Civil, que había resuelto sobre la demanda de resolución de contrato de arrendamiento y cobro de daños y perjuicios interpuesta por Guaicay Industrial 7, C.A. contra Proyectos Efys, C.A. y otros. La Sala Constitucional encontró que la decisión de la Sala de Casación Civil incurrió en el vicio de indeterminación objetiva, afectando el derecho a la tutela judicial efectiva de la parte demandante. Se ordenó a la Sala de Casación Civil que recabe el expediente y emita un nuevo pronunciamiento conforme a las motivaciones expuestas en esta sentencia.",
+  "palabras_clave": [
+    "pruebas",
+    "contrato",
+    "arrendamiento",
+    "incendio",
+    "responsabilidad",
+    "aseguradora",
+    "valor probatorio"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Civil sobre resolución de contrato de arrendamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-13_S0750_E23-1094.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338862-0750-131124-2024-23-1094.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:31.030702"
+}

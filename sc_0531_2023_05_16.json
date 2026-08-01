@@ -1,0 +1,26 @@
+{
+  "id": 30313,
+  "numero": "0531",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Eduardo José Castillo Ramírez en representación de Pedro Rafael González Marcano, debido a la omisión de pronunciamiento de la Corte de Apelaciones del Circuito Judicial Penal del estado Bolivariano de Mérida. La acción fue presentada el 28 de febrero de 2023, y el abogado solicitó dejar sin efecto la acción el 14 de abril de 2023, tras la decisión de la Corte de Apelaciones del 20 de marzo de 2023, que declaró parcialmente con lugar el recurso de apelación de auto interpuesto el 7 de diciembre de 2022.\n\nLa Sala declaró su competencia para conocer la acción, pero negó la homologación del desistimiento presentado por el abogado, argumentando que no contaba con la autorización expresa del justiciable. Finalmente, la Sala declaró inadmisible la acción de amparo, ya que la situación jurídica denunciada había cesado tras la decisión de la Corte de Apelaciones, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "desistimiento",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "justicia",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0531_E23-0220.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325159-0531-16523-2023-23-0220.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.861788"
+}

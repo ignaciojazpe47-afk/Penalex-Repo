@@ -1,0 +1,27 @@
+{
+  "id": 24326,
+  "numero": "0189",
+  "fecha": "2024-02-22",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de ampliación y aclaratoria de la sentencia N° 333, dictada el 22 de julio de 2021, presentada por la abogada Yamilet del Carmen Araujo Rojas en representación del ciudadano Francisco Miñarro Cirujeta. La Sala declaró improcedente la solicitud, argumentando que no existía ambigüedad en la sentencia original y que la petición excedía los límites de la aclaratoria y ampliación permitidas por la ley.",
+  "palabras_clave": [
+    "prescripción",
+    "acción penal",
+    "derechos humanos",
+    "justicia",
+    "amparo",
+    "Código Penal",
+    "tutela judicial",
+    "orden público"
+  ],
+  "titulo": "Decisión sobre solicitud de ampliación y aclaratoria de sentencia",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-22_S0189_E20-0417.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332732-0189-22224-2024-20-0417.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.665927"
+}

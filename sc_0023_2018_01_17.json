@@ -1,0 +1,22 @@
+{
+  "id": 45022,
+  "numero": "0023",
+  "fecha": "2018-01-17",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La ciudadana Zulay Margarita Páez Colombo solicitó la revisión de una sentencia dictada por la Corte Segunda de lo Contencioso Administrativo que declaró sin lugar su recurso contencioso administrativo funcionarial. La Sala Constitucional del TSJ, al estudiar el caso, encontró que la decisión impugnada había incurrido en vicios de incongruencia y omisión, afectando el derecho a la seguridad social de la solicitante. En consecuencia, se declaró con lugar la revisión solicitada y se ordenó a la Corte Segunda que remita el expediente para un nuevo pronunciamiento sobre el recurso de apelación.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión",
+    "seguridad social"
+  ],
+  "titulo": "Revisión de sentencia sobre ajuste de jubilación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-01-17_S0023_E16-0975.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/206878-0023-17118-2018-16-0975.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:42.265094"
+}

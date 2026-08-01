@@ -1,0 +1,26 @@
+{
+  "id": 28406,
+  "numero": "1348",
+  "fecha": "2024-12-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELASQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la apelación interpuesta por la sociedad mercantil Total Parts Service C.A. contra una sentencia que había declarado parcialmente con lugar una acción de amparo. La apelación fue considerada procedente y se revocó la decisión anterior, declarando inadmisible el amparo incoado por los ciudadanos Johann Manuel Otero Ruíz y José Luis Rodríguez Pérez. La Sala fundamentó su decisión en la inadmisibilidad sobrevenida de la acción de amparo, dado que la amenaza de violación a los derechos constitucionales había cesado.",
+  "palabras_clave": [
+    "apelación",
+    "debido proceso",
+    "preclusión",
+    "notoriedad judicial",
+    "amparo",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-10_S1348_E17-0964.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340362-1348-101224-2024-17-0964.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:01.822003"
+}

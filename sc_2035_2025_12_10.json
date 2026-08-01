@@ -1,0 +1,25 @@
+{
+  "id": 23815,
+  "numero": "2035",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se declara incompetente para conocer la acción de amparo constitucional interpuesta por Delfín Useche Álvarez contra el Instituto Nacional de Tierras (INTI) por la revocación de títulos agrarios. La Sala determina que la competencia corresponde a los tribunales agrarios, dado que la acción se refiere a derechos agrarios y la revocación de títulos de tierras. Se ordena la remisión del expediente al Juzgado Superior Agrario de la Circunscripción Judicial del estado Táchira.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos fundamentales",
+    "instituto nacional de tierras",
+    "jurisdicción agraria",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2035_E25-0994.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351848-2035-101225-2025-25-0994.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:23.745357"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 51101,
+  "numero": "168",
+  "fecha": "2017-04-07",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 2013-2386 de la Corte Segunda de lo Contencioso Administrativo, que había declarado sin lugar el recurso de apelación interpuesto por Sandra Elizabeth Mujica Torres contra su jubilación de oficio. La Sala concluyó que la jubilación fue otorgada indebidamente, ya que no se cumplió con el tiempo mínimo de servicio requerido y se contravinieron derechos laborales fundamentales. Se ordenó a la Corte Primera de lo Contencioso Administrativo dictar una nueva decisión, considerando la jurisprudencia aplicable sobre jubilaciones de oficio.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión constitucional",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre revisión de jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-04-07_S168_E15-0847.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/197647-168-7417-2017-15-0847.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:27.491523"
+}

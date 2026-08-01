@@ -1,0 +1,24 @@
+{
+  "id": 33992,
+  "numero": "1112",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una solicitud de amparo constitucional presentada por Hernán Jesús Guedez, quien denuncia violaciones a sus derechos por parte de organismos policiales y el Ministerio Público. La Sala, tras revisar el caso, observa la falta de claridad en la identificación de los agraviantes y en la relación de los hechos que fundamentan la solicitud. Por ello, se ordena al Defensor Público que aclare y subsane los puntos requeridos en un plazo de dos días.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "Ministerio Público",
+    "organismos policiales",
+    "inadmisibilidad"
+  ],
+  "titulo": "Decisión sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1112_E21-0146.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328255-1112-11823-2023-21-0146.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.329972"
+}

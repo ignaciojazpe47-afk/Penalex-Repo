@@ -1,0 +1,26 @@
+{
+  "id": 23428,
+  "numero": "1943",
+  "fecha": "2025-11-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La sentencia se refiere a una acción de amparo constitucional presentada por José Jesús Rivero Burgos en representación de Luis Alberto Ramos Sánchez, en contra de la Fiscalía Décima Tercera del Área Metropolitana de Caracas por falta de pronunciamiento en un caso penal. La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer la acción de amparo, argumentando que la Fiscalía no es considerada un alto funcionario según la ley. Se ordena la remisión del expediente a un Tribunal de Primera Instancia en Función de Juicio del Circuito Judicial Penal correspondiente.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "fiscalia",
+    "derechos",
+    "tribunales",
+    "constitucional",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-28_S1943_E25-1028.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350829-1943-281125-2025-25-1028.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.798953"
+}

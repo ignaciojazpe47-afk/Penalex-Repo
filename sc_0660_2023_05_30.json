@@ -1,0 +1,22 @@
+{
+  "id": 30614,
+  "numero": "0660",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia del Juzgado Superior Noveno que había declarado con lugar una acción de amparo constitucional interpuesta por David Gruszka de los Ríos y Germán José Carreño Rodríguez contra la Asociación Civil Valle Arriba Golf Club. La Sala determinó que la acción de amparo era inadmisible, ya que existían vías ordinarias para resolver la controversia sobre la admisión de los accionantes como socios del club, lo que contraviene la jurisprudencia establecida sobre la materia.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "amparo constitucional",
+    "admisión de socios"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0660_E17-0669.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325748-0660-30523-2023-17-0669.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.938701"
+}

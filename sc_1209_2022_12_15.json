@@ -1,0 +1,26 @@
+{
+  "id": 38086,
+  "numero": "1209",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Eliezer José Lobo Rodríguez en representación de Armando Antonio Suárez Angarita, por la presunta vulneración de derechos y garantías constitucionales. La acción fue presentada vía correo electrónico, pero no fue ratificada dentro del lapso de tres días establecido por la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "justicia",
+    "ratificación",
+    "correo electrónico"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1209_E22-0652.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322101-1209-151222-2022-22-0652.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.136092"
+}

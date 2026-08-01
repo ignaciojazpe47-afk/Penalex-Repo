@@ -1,0 +1,25 @@
+{
+  "id": 37883,
+  "numero": "1128",
+  "fecha": "2022-12-12",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara el decaimiento del objeto de la acción de amparo interpuesta por los ciudadanos contra la Sesión Ordinaria n.° 75-2013, en la que se aprobó el 'Plan Especial San Antonio'. La decisión se basa en la derogatoria de la Ordenanza de Zonificación del Plan Especial San Antonio, publicada en la Gaceta Municipal del Municipio El Hatillo, lo que hace inoficioso resolver sobre la medida cautelar solicitada por los accionantes.\nLa sentencia resalta que la derogatoria de la ordenanza es un hecho público y notorio, lo que implica que no es necesario un pronunciamiento sobre el fondo del asunto. La Sala considera que la acción de amparo ha perdido su objeto debido a la derogación de la normativa que motivó la solicitud de amparo, concluyendo que no hay lugar a la continuación del proceso.\nFinalmente, se ordena la publicación, registro y archivo del expediente, dando cumplimiento a lo ordenado por la Sala Constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "ordenanza",
+    "zonificación",
+    "derecho administrativo",
+    "municipio",
+    "decisión judicial"
+  ],
+  "titulo": "Decaimiento del objeto de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-12_S1128_E13-1166.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321794-1128-121222-2022-13-1166.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.419696"
+}

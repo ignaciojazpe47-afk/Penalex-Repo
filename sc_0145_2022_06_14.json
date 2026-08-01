@@ -1,0 +1,25 @@
+{
+  "id": 35034,
+  "numero": "0145",
+  "fecha": "2022-06-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declaró NO HA LUGAR la solicitud de revisión constitucional presentada por COMPASS BANK & TRUST contra la sentencia n.° 368 de la Sala Político-Administrativa, que había declarado la falta de jurisdicción del Poder Judicial venezolano para conocer de la demanda por cumplimiento de contrato y cobro de obligación en moneda extranjera. La Sala argumentó que la revisión no contribuye a la uniformidad de la interpretación de normas y principios constitucionales, y que la mera desatención de criterios previos no constituye un error inexcusable.",
+  "palabras_clave": [
+    "jurisdicción",
+    "derecho internacional privado",
+    "contratos",
+    "cláusula de elección de foro",
+    "conflicto de leyes",
+    "tribunales"
+  ],
+  "titulo": "Revisión constitucional de la sentencia n.° 368 de la Sala Político-Administrativa",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-06-14_S0145_E22-0095.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/317333-0145-14622-2022-22-0095.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:41.635223"
+}

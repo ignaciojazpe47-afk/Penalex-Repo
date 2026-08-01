@@ -1,0 +1,26 @@
+{
+  "id": 17200,
+  "numero": "0072",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara no ha lugar la solicitud de revisión interpuesta por Jorge Luis Barrios Manzo contra la sentencia N° 0148 de la Sala de Casación Social. La revisión se fundamentó en la supuesta violación del principio de confianza legítima y del debido proceso, alegando que la Sala de Casación Social excedió sus facultades al dictar medidas provisionales. Sin embargo, la Sala Constitucional concluyó que no se evidencian irregularidades procesales que justifiquen la intervención de esta Sala.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "divorcio",
+    "confianza legítima",
+    "debido proceso",
+    "medidas cautelares",
+    "jurisprudencia",
+    "interés público"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 0148 de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0072_E25-0322.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352757-0072-19226-2026-25-0322.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.389795"
+}

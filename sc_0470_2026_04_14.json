@@ -1,0 +1,24 @@
+{
+  "id": 17514,
+  "numero": "0470",
+  "fecha": "2026-04-14",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional presentada por Fernando de Melo Matos, quien impugnó una sentencia de la Corte de Apelaciones del Circuito Judicial Penal del Estado Miranda. La sentencia original había declarado con lugar un recurso de apelación interpuesto por Ramón Enrique Díaz Bello, lo que resultó en la nulidad de una decisión anterior que había decretado el sobreseimiento de la causa por prescripción de la acción penal en su contra por el delito de estafa.\n\nLa Sala declaró su competencia para conocer del caso, fundamentándose en el artículo 336.10 de la Constitución, y ordenó la remisión de las actas originales del expediente para su revisión. Se destacó que la Corte de Apelaciones había violado derechos constitucionales al no considerar que los hechos en cuestión eran de naturaleza civil y no penal, lo que llevó a la decisión de declarar con lugar la solicitud de revisión.\n\nFinalmente, se ordenó a la Secretaría de la Sala notificar a la Presidencia del Circuito Judicial Penal del Estado Miranda sobre la remisión de las actas, advirtiendo sobre posibles sanciones en caso de incumplimiento.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia firme",
+    "Corte de Apelaciones",
+    "sobreseimiento",
+    "estafa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de sentencia firme",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-14_S0470_E26-0361.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354921-0470-14426-2026-26-0361.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.015589"
+}

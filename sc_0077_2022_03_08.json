@@ -1,0 +1,26 @@
+{
+  "id": 34619,
+  "numero": "0077",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "René Alberto Degraves Almarza",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la acción de amparo constitucional interpuesta por el abogado Luis Benjamín Reyes Robles, en representación de Antonio José Ampueda Carrillo, contra la conducta de un juez del Juzgado Segundo de Primera Instancia en lo Civil, Mercantil y Agrario del Estado Bolívar. La Sala determina que el tribunal competente para conocer el caso es el Juzgado Superior Civil, Mercantil, Agrario y del Tránsito de la misma circunscripción judicial.\n\nAdemás, se declara terminado el procedimiento por abandono de trámite, dado que no hubo impulso procesal durante más de seis meses. Se impone una multa a la parte accionante y se ordena la notificación de la decisión al Juzgado correspondiente, así como a la parte accionante y su apoderado judicial.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "debido proceso",
+    "abandonotrámite",
+    "derechos",
+    "justicia",
+    "tribunal"
+  ],
+  "titulo": "Sentencia sobre incompetencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0077_E19-0655.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315927-0077-8322-2022-19-0655.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.440792"
+}

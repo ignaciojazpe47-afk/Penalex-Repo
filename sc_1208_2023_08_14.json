@@ -1,0 +1,25 @@
+{
+  "id": 34097,
+  "numero": "1208",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional de la sentencia N° 469, dictada el 3 de julio de 2015 por la Sala de Casación Penal. La parte solicitante argumentó que la decisión de la Sala de Casación Penal había violado derechos fundamentales, pero la Sala Constitucional determinó que no existían infracciones grotescas de interpretación de normas constitucionales ni violaciones a derechos fundamentales. Por lo tanto, se declaró que la solicitud de revisión no era procedente.",
+  "palabras_clave": [
+    "debido_proceso",
+    "incidencias",
+    "tercero_excluyente",
+    "Código_Orgánico_Procesal_Penal",
+    "medidas_asegurativas",
+    "apelación"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 469 de la Sala de Casación Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1208_E15-1159.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328408-1208-14823-2023-15-1159.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.859161"
+}

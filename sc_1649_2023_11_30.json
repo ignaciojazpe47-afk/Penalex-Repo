@@ -1,0 +1,25 @@
+{
+  "id": 33140,
+  "numero": "1649",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su incompetencia para conocer de la solicitud de interpretación del artículo 460 del Código Orgánico Procesal Penal, declinando la competencia a la Sala de Casación Penal. Se argumenta que la interpretación de normas adjetivas del proceso penal corresponde a la Sala de Casación Penal, no a la Sala Constitucional. La decisión se fundamenta en la necesidad de mantener la separación de competencias establecida por la ley.",
+  "palabras_clave": [
+    "interpretacion",
+    "proceso penal",
+    "absolucion",
+    "recursos",
+    "constitucion",
+    "derechos humanos"
+  ],
+  "titulo": "Declara Incompetente para conocer de la solicitud de interpretación del artículo 460 del Código Orgánico Procesal Penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1649_E16-1255.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330816-1649-301123-2023-16-1255.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.962458"
+}

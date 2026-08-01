@@ -1,0 +1,25 @@
+{
+  "id": 37703,
+  "numero": "1058",
+  "fecha": "2022-11-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional en modalidad de habeas corpus interpuesta por el abogado Jesús Andrés Durán Romero en nombre de Oswaldo De Jesús González Portillo, quien alegó estar privado de libertad de manera ilegítima. La Sala constató que el Tribunal Noveno de Primera Instancia había emitido una orden de excarcelación que no fue ejecutada por el Ministerio del Poder Popular para el Servicio Penitenciario. Sin embargo, se determinó que la situación jurídica denunciada cesó el 16 de noviembre de 2021, cuando se ejecutó la libertad del ciudadano, lo que llevó a la Sala a declarar inadmisible la acción de amparo.",
+  "palabras_clave": [
+    "habeas corpus",
+    "inadmisibilidad",
+    "amparo constitucional",
+    "libertad",
+    "derechos humanos",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-28_S1058_E21-0632.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321252-1058-281122-2022-21-0632.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.456149"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34349,
+  "numero": "0029",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Apelacion",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de un recurso de apelación interpuesto por el abogado Alberto Herrera Coronel en representación de Yván Alfredo García Lozada. La apelación se refiere a una decisión de inadmisibilidad dictada por el Juzgado Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Lara. La Sala declaró su competencia para conocer del recurso y ordenó oficiar al Juez correspondiente para que remita un informe pormenorizado de la causa.",
+  "palabras_clave": [
+    "amparo",
+    "niños",
+    "derechos",
+    "justicia",
+    "proceso",
+    "tutela"
+  ],
+  "titulo": "Sentencia sobre apelación en materia de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0029_E21-0037.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315541-0029-11222-2022-21-0037.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.720013"
+}

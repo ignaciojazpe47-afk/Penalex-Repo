@@ -1,0 +1,22 @@
+{
+  "id": 22251,
+  "numero": "1591",
+  "fecha": "2025-03-27",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0223, declarando con lugar la acción de amparo constitucional interpuesta por Iris Marú Rojas Rabol, en representación de las víctimas Judith Gabriela Verburg Martínez, Elizabeth Mary Verburg Martínez y José Manuel Peñuela Mujica. La acción se fundamentó en la alegación de violación de derechos constitucionales por parte de la Sala 5 de la Corte de Apelaciones, que había dictado una sentencia que favorecía a los imputados en un caso de homicidio intencional calificado con alevosía.\n\nLa Sala consideró que la decisión de la Corte de Apelaciones vulneraba las garantías procesales y los derechos humanos de las víctimas, permitiendo la posibilidad de impunidad. En consecuencia, se ordenó la libertad sin restricciones de los ciudadanos mencionados, así como la ejecución inmediata de la decisión dictada en la misma fecha.\n\nFinalmente, se instó a las autoridades correspondientes a informar sobre el estado procesal de la causa penal relacionada, enfatizando la importancia de garantizar la tutela de los derechos constitucionales de las partes involucradas.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "homicidio intencional"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1591_E19-0469.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348708-1591-151025-2025-19-0469.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:37.614398"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21684,
+  "numero": "1431",
+  "fecha": "2025-08-07",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional revisa la sentencia del Juzgado Superior Sexto que declaró con lugar recursos de apelación y revocó una sentencia anterior de desalojo. El solicitante argumenta que la sentencia de desalojo vulnera derechos fundamentales y que la apelación fue tramitada incorrectamente, ya que la sentencia original era firme. Se solicita la suspensión de los efectos de la sentencia impugnada hasta que se resuelva la revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "desalojo",
+    "derecho a la defensa",
+    "cosa juzgada"
+  ],
+  "titulo": "Revisión Constitucional sobre sentencia de desalojo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1431_E25-0326.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347302-1431-7825-2025-25-0326.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:54.035531"
+}

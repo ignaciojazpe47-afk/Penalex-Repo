@@ -1,0 +1,25 @@
+{
+  "id": 17490,
+  "numero": "0615",
+  "fecha": "2026-05-13",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "ANABEL DEL CARMEN HERNÁNDEZ ROBLES",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la inadmisibilidad de una acción de amparo constitucional interpuesta por el abogado Jorge Armando Rojas Ríos, en representación de los ciudadanos Kenry José González Lobatón y Pablo Aníbal González Rojas. La acción fue declarada inadmisible por la Corte de Apelaciones del Circuito Judicial Penal del Estado Yaracuy, debido a que los demandantes no agotaron los recursos ordinarios disponibles para impugnar la medida de privación de libertad dictada en su contra.\nLa Sala Constitucional confirmó la decisión de la Corte de Apelaciones, argumentando que la revisión de medidas cautelares no es materia de amparo constitucional, y que los demandantes debieron recurrir a los medios judiciales ordinarios para solicitar la revisión de la medida privativa de libertad. En consecuencia, se declaró sin lugar el recurso de apelación interpuesto por la defensa.\nFinalmente, la Sala reafirmó su competencia para conocer del recurso y reiteró que la acción de amparo no procede cuando existen vías judiciales ordinarias que pueden ser utilizadas por los agraviados.",
+  "palabras_clave": [
+    "amparo",
+    "derechos fundamentales",
+    "proceso penal",
+    "medidas cautelares",
+    "tutela judicial",
+    "debido proceso"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-13_S0615_E25-1054.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355608-0615-13526-2026-25-1054.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:53.888604"
+}

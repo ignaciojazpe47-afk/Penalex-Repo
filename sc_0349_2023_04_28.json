@@ -1,0 +1,26 @@
+{
+  "id": 29940,
+  "numero": "0349",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por el abogado José Alexis D’Yongh Sosa en representación de Gilberto Gómez Villamizar. La decisión se basa en la falta de legitimidad del apoderado judicial, quien no presentó el poder suficiente que acreditara su capacidad para actuar en nombre del demandante. La Sala enfatiza la importancia de cumplir con los requisitos procesales para la admisión de acciones de amparo.",
+  "palabras_clave": [
+    "amparo",
+    "poder",
+    "jurisdicción",
+    "derechos",
+    "justicia",
+    "procedimiento",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0349_E22-0853.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324619-0349-28423-2023-22-0853.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.063584"
+}

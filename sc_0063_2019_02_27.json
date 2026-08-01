@@ -1,0 +1,22 @@
+{
+  "id": 42356,
+  "numero": "0063",
+  "fecha": "2019-02-27",
+  "anio": 2019,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 27 de febrero de 2019, declaró sin lugar el recurso de apelación interpuesto por el abogado Henry Alexis Serrano Sivira, quien actuaba en defensa de Jerys Miguel Díaz López. La apelación se dirigía contra la decisión de la Sala Segunda de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolivariano de Miranda, que había declarado inadmisible la acción de amparo constitucional por falta de legitimación del abogado para actuar en nombre del imputado.\n\nLa Sala Constitucional determinó que el abogado no presentó el poder que acreditara su representación, lo que constituye una carga procesal esencial. A pesar de que el recurso fue interpuesto dentro del plazo legal, la falta de legitimación activa del abogado llevó a la confirmación de la decisión de inadmisibilidad de la acción de amparo, reafirmando la importancia de cumplir con los requisitos formales establecidos en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nFinalmente, se ordenó la publicación y remisión del expediente a la Corte de Apelaciones correspondiente, reafirmando la competencia de la Sala Constitucional para conocer del caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación activa",
+    "decisión inadmisible"
+  ],
+  "titulo": "Decisión sobre recurso de apelación en amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2019-02-27_S0063_E17-1002.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/304007-0063-27219-2019-17-1002.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:55.608783"
+}

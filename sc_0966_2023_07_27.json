@@ -1,0 +1,24 @@
+{
+  "id": 31582,
+  "numero": "0966",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La abogada María Mercedes Barroeta Cordero interpuso una acción de amparo constitucional en favor de Daniel Baroody, denunciando violaciones a sus derechos humanos mientras se encontraba detenido en la sede de INTERPOL. La Sala Constitucional del TSJ, tras evaluar la competencia, determinó que no tenía jurisdicción para conocer el caso, ya que la acción se enmarca dentro de la Jurisdicción Contencioso Administrativa. Se ordenó remitir el expediente al Juzgado Nacional Contencioso Administrativo para su pronunciamiento sobre la admisibilidad del amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción contencioso administrativa",
+    "derechos humanos",
+    "competencia",
+    "funcionarios públicos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por Daniel Baroody",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0966_E17-0948.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327457-0966-27723-2023-17-0948.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.197838"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 11641,
+  "numero": null,
+  "fecha": "2012-05-23",
+  "anio": 2012,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "HA LUGAR",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 14 de julio de 2009 por la Sala de Casación Social, que declaró prescrita la acción de cobro de prestaciones sociales interpuesta por Irwin Oscar Fernández Arrieche contra Productos EFE, S.A. La Sala Constitucional determinó que la interpretación de la Sala de Casación Social violó el principio protector del trabajador, al no considerar el preaviso omitido en el cómputo del lapso de prescripción. Se anula la sentencia impugnada y se ordena que un tribunal de primera instancia dicte sentencia al fondo conforme al criterio establecido en este fallo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prescripción",
+    "preaviso",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Social",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionSocial_2012_2.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.529656"
+}

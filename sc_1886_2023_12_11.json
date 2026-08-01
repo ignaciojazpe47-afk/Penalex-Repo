@@ -1,0 +1,24 @@
+{
+  "id": 33739,
+  "numero": "1886",
+  "fecha": "2023-12-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Luis Armando García San Juan, actuando en nombre de las ciudadanas Yndira María Silvera Borges, Dayana Mercedes Silvera Borges y Mirian Antonia Borges de Silvera. La decisión se basa en la falta de legitimidad del abogado como representante judicial, ya que no se presentó el poder correspondiente que acreditara su condición de apoderado judicial.",
+  "palabras_clave": [
+    "legitimidad",
+    "representación",
+    "revisión constitucional",
+    "poder judicial",
+    "inadmisibilidad"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-11_S1886_E18-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331856-1886-111223-2023-18-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.457461"
+}

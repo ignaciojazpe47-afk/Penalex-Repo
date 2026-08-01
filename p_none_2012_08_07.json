@@ -1,0 +1,22 @@
+{
+  "id": 10400,
+  "numero": null,
+  "fecha": "2012-08-07",
+  "anio": 2012,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Procedente",
+  "ponente": "NINOSKA BEATRIZ QUEIPO BRICEÑO",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara procedente la solicitud de extradición activa del ciudadano RAÚL ENRIQUE MORENO LEONI, requerido por la presunta comisión de homicidios calificados. La decisión se fundamenta en la existencia de una medida cautelar de privación de libertad y en el cumplimiento de los requisitos establecidos en la legislación venezolana y los tratados internacionales. Se asume el compromiso de que el ciudadano será procesado conforme a las garantías constitucionales y procesales.",
+  "palabras_clave": [
+    "extradición",
+    "homicidio",
+    "justicia"
+  ],
+  "titulo": "Solicitud de Extradición Activa del ciudadano RAÚL ENRIQUE MORENO LEONI",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_8a72ceeb0eef3269edeecf5a0d876f92.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:45.363424"
+}

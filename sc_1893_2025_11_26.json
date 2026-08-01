@@ -1,0 +1,25 @@
+{
+  "id": 23239,
+  "numero": "1893",
+  "fecha": "2025-11-26",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Yosmar Trinidad Cedeño Díaz y Trina Del Valle Díaz de Cedeño, en relación a un proceso penal por el delito de invasión. La Sala declaró su incompetencia para conocer del caso, argumentando que corresponde a la Sala de Casación Penal, dado que la solicitud se basa en una denuncia falsa que ha generado desórdenes procesales. La decisión fue adoptada en virtud de la falta de elementos que configuren el delito de invasión y la existencia de un título supletorio que ampara a las solicitantes.",
+  "palabras_clave": [
+    "avocamiento",
+    "invasión",
+    "Código Penal",
+    "irregularidades",
+    "Poder Judicial",
+    "denuncia falsa"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-26_S1893_E25-0982.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/350489-1893-261125-2025-25-0982.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.799753"
+}

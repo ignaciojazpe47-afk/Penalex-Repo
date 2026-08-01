@@ -1,0 +1,25 @@
+{
+  "id": 37224,
+  "numero": "0922",
+  "fecha": "2022-11-07",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de revisión constitucional interpuesto por el abogado Carlos Antonio Cunemo Jaspe en representación de Karla Grisel Quintero Pacheco. La solicitud se fundamenta en alegaciones de fraude procesal y violaciones a derechos fundamentales durante el proceso judicial en su contra. La Sala observó que el escrito presentado era confuso y no cumplía con los requisitos establecidos para su admisibilidad, lo que llevó a ordenar al abogado que aclarara la naturaleza de la acción presentada.",
+  "palabras_clave": [
+    "amparo",
+    "revisión",
+    "derechos",
+    "garantías",
+    "procedimiento",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre Revisión Constitucional por Fraude Procesal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-07_S0922_E22-0347.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320610-0922-71122-2022-22-0347.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.403909"
+}

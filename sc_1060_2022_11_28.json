@@ -1,0 +1,26 @@
+{
+  "id": 37705,
+  "numero": "1060",
+  "fecha": "2022-11-28",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió a favor de la ciudadana Daniela Maribel Madero Rodríguez, quien interpuso una acción de amparo constitucional contra una sentencia del Tribunal Tercero de Primera Instancia que había declarado desistido el procedimiento de acción mero declarativa de concubinato. La Sala consideró que la falta de notificación adecuada sobre el cambio de fecha de la audiencia vulneró los derechos de la demandante a la defensa y al debido proceso. En consecuencia, se declaró con lugar la acción de amparo y se ordenó la reposición de la causa al estado que se fije nuevamente la oportunidad para celebrar la audiencia oral y pública de juicio.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "notificación",
+    "audiencia",
+    "derecho a la defensa",
+    "indefensión",
+    "proceso judicial",
+    "protección de niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-28_S1060_E20-0301.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/321254-1060-281122-2022-20-0301.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:57.455696"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 32287,
+  "numero": "1441",
+  "fecha": "2023-10-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 31 de marzo de 2022, que había declarado sin lugar un recurso de apelación en un caso de amparo constitucional. Los ciudadanos Marcello Alfredo Martínez Battistini y Alfredo José Martínez Martínez solicitaron la revisión argumentando que la decisión del juzgado superior incurrió en incompetencia sobrevenida al tratar un asunto laboral sin la debida justificación. La Sala concluyó que la acción de amparo era inadmisible, ya que no se demostró la condición de administradora de la accionante, Naivy Espinoza Carmona, y que la sentencia original se apartó de la jurisprudencia establecida por el Tribunal Supremo de Justicia.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos humanos",
+    "jurisprudencia",
+    "tutela judicial",
+    "defensa",
+    "constitución"
+  ],
+  "titulo": "Revisión de sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-13_S1441_E22-0644.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329316-1441-131023-2023-22-0644.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.398163"
+}

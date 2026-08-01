@@ -1,0 +1,27 @@
+{
+  "id": 17605,
+  "numero": "0115",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Consulta",
+  "materia": "Constitucional",
+  "decision": "NO ACEPTA",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D’Amelio Cardiet, revisó una decisión del Juzgado Superior en lo Civil, Mercantil, Tránsito y Bancario del Estado Apure, que declaró el decaimiento del objeto de una denuncia de desacato al mandamiento de amparo constitucional. La Sala determinó que la decisión no sancionaba a la Jueza Auris Torres Larez y, por lo tanto, no tenía materia sobre la cual pronunciarse. En consecuencia, no aceptó la remisión en consulta per saltum de dicha decisión y ordenó devolver el expediente al tribunal de origen.",
+  "palabras_clave": [
+    "desacato",
+    "amparo",
+    "jurisdicción",
+    "constitucional",
+    "derechos",
+    "garantías",
+    "sentencia",
+    "juzgado"
+  ],
+  "titulo": "Decisión sobre consulta per saltum de desacato al mandamiento de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0115_E25-1443.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353105-0115-2326-2026-25-1443.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.367261"
+}

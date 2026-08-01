@@ -1,0 +1,26 @@
+{
+  "id": 39739,
+  "numero": "0476",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "JUAN JOSÉ MENDOZA JOVER",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los ciudadanos Felipe Elías Mujica Hernández y Segundo Natividad Meléndez Castillo contra el Consejo Nacional Electoral. La decisión se basa en que los accionantes no agotaron previamente los recursos ordinarios disponibles para restablecer la situación jurídica que alegan como lesionada, lo que contraviene lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.",
+  "palabras_clave": [
+    "amparo",
+    "participacion politica",
+    "representacion proporcional",
+    "derechos humanos",
+    "consejo nacional electoral",
+    "recursos judiciales",
+    "constitucion"
+  ],
+  "titulo": "Sentencia de inadmisibilidad de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0476_E20-0503.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313586-0476-11021-2021-20-0503.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.619431"
+}

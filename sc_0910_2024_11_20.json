@@ -1,0 +1,26 @@
+{
+  "id": 27704,
+  "numero": "0910",
+  "fecha": "2024-11-20",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 20 de diciembre de 2023 por el Juzgado Superior Noveno, que declaró sin lugar un recurso de apelación. Los solicitantes argumentaron la falta de notificación del Ministerio Público y otros vicios procesales. Sin embargo, la Sala concluyó que no hubo violación del debido proceso y que la decisión del juzgado inferior fue correcta al confirmar la tacha de falsedad de un documento público. Finalmente, se declaró no ha lugar la solicitud de revisión.",
+  "palabras_clave": [
+    "tacha de falsedad",
+    "documento público",
+    "Código Civil",
+    "Código de Procedimiento Civil",
+    "inspección judicial",
+    "motivación",
+    "decisión judicial"
+  ],
+  "titulo": "Revisión de sentencia en materia de extinción de dominio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-20_S0910_E24-0323.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339187-0910-201124-2024-24-0323.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:27.184856"
+}

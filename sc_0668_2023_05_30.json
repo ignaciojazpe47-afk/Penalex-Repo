@@ -1,0 +1,24 @@
+{
+  "id": 30622,
+  "numero": "0668",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Eddy Rubén Verenzuela, quien alegó violaciones a sus derechos durante un juicio penal. La sentencia impugnada, dictada por la Sala Accidental número 206 de la Corte de Apelaciones, fue anulada por no responder adecuadamente a las denuncias de fraude procesal y por permitir que el demandante compareciera sin abogado, lo que lo dejó en estado de indefensión. La Sala ordenó la reposición de la causa para que otro tribunal celebre una nueva audiencia, anulando todas las actuaciones desde la audiencia del 23 de abril de 2018.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fraude procesal",
+    "derecho a la defensa",
+    "debido proceso",
+    "indefensión"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre irregularidades en juicio penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0668_E20-0251.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325756-0668-30523-2023-20-0251.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.928716"
+}

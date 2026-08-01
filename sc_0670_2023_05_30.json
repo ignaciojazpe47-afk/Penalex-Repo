@@ -1,0 +1,23 @@
+{
+  "id": 30624,
+  "numero": "0670",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto de competencia entre el Tribunal Octavo de Primera Instancia en Función de Control y el Tribunal Cuarto de Primera Instancia en Función de Juicio, ambos del Circuito Judicial Penal del Estado Carabobo, en relación a una acción de amparo constitucional interpuesta por Rafael Santiago Díaz Ceballos contra la directora de la Inspectoría para el Control de la Actuación Policial (ICAP). La Sala declaró su competencia para conocer del asunto y aceptó la competencia que le fue declinada por los tribunales inferiores.",
+  "palabras_clave": [
+    "conflicto de competencia",
+    "acción de amparo",
+    "ICAP",
+    "Carabobo"
+  ],
+  "titulo": "Sentencia sobre conflicto de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0670_E22-0053.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325758-0670-30523-2023-22-0053.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.928450"
+}

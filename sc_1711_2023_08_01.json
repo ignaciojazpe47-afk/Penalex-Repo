@@ -1,0 +1,25 @@
+{
+  "id": 33208,
+  "numero": "1711",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ recibió una acción de amparo constitucional interpuesta por los abogados Orlando Isaac Hidalgo Barroeta y Eudes Camacho Alvarado en favor de Yelenis Ariana Romero Medina y Glorianny María Marín Medina, quienes alegaban estar privadas de libertad de manera ilegítima. La Sala, tras analizar el caso, determinó que las demandantes ya habían cumplido la pena impuesta y que la Corte de Apelaciones no había realizado pronunciamiento al respecto. Sin embargo, la Sala declaró inadmisible la acción de amparo, argumentando que la situación que motivó la interposición del recurso había cesado, ya que las ciudadanas se encontraban en libertad tras la extinción de su responsabilidad criminal.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "inadmisibilidad",
+    "derechos",
+    "garantías",
+    "constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1711_E22-0017.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330957-1711-11223-2023-22-0017.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.898582"
+}

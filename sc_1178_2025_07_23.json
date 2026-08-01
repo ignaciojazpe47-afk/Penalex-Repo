@@ -1,0 +1,26 @@
+{
+  "id": 21114,
+  "numero": "1178",
+  "fecha": "2025-07-23",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por Ivonne Josefina Martínez Aular, quien solicitó el avocamiento de una causa penal en su contra. La Sala, tras analizar las irregularidades alegadas, determinó que no tenía competencia para conocer del caso, declinando el conocimiento a la Sala de Casación Penal. La decisión se fundamenta en la falta de conexión con asuntos de justicia constitucional y en la naturaleza penal del proceso en cuestión.",
+  "palabras_clave": [
+    "avocamiento",
+    "invasión",
+    "arrendamiento",
+    "derecho a la defensa",
+    "denegación de justicia",
+    "terrorismo judicial",
+    "vivienda digna"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-23_S1178_E25-0375.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346396-1178-23725-2025-25-375.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:02.381560"
+}

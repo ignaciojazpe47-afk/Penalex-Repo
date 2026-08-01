@@ -1,0 +1,22 @@
+{
+  "id": 21475,
+  "numero": "1335",
+  "fecha": "2025-08-06",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la revisión de una sentencia que declaró inadmisible una demanda de intimación de cobro presentada por JOSÉ EUDORO VILLARROEL contra Inversiones Gamero 4X4, C.A. La decisión del tribunal inferior fue cuestionada por presuntas violaciones al derecho a la defensa y al debido proceso. La Sala, tras analizar los argumentos, determinó que el juez de primera instancia había infringido el debido proceso al declarar inadmisible la demanda sin considerar adecuadamente los requisitos legales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "inadmisibilidad",
+    "intimación de cobro"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de demanda de intimación de cobro",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1335_E25-0269.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346997-1335-6825-2025-25-0269.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.762049"
+}

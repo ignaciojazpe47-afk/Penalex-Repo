@@ -1,0 +1,24 @@
+{
+  "id": 49760,
+  "numero": "0801",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Francisco Miguel Romero Sierralta, quien alegó violaciones a sus derechos al debido proceso y a la propiedad. La Corte de Apelaciones había confirmado el levantamiento de medidas cautelares de prohibición de enajenar y gravar sobre bienes de diversas sociedades mercantiles, lo que fue considerado por la Sala como una grave omisión del debido proceso al no permitir la evacuación de pruebas. La Sala decidió anular la decisión impugnada y reponer la causa para que una nueva Corte se pronuncie ajustándose a derecho.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "prohibición de enajenar",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0801_E26-0269.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356499-0801-10626-2026-26-0269.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.939189"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28045,
+  "numero": "1134",
+  "fecha": "2024-11-28",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente In Limine Litis",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por Octavio José Mujica Días contra una decisión del Juzgado Superior Civil que declaró sin lugar su apelación. La Sala determinó que la acción de amparo cumplía con los requisitos establecidos, pero finalmente la declaró improcedente in limine litis, argumentando que no se evidenció una grave usurpación de funciones ni abuso de poder por parte del juez inferior. Se concluyó que el amparo no debe ser utilizado como un medio ordinario de impugnación.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "debido proceso",
+    "derechos humanos",
+    "jurisprudencia",
+    "tutela judicial",
+    "competencia",
+    "usurpación de funciones"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-28_S1134_E23-0713.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339731-1134-281124-2024-23-0713.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:16.474620"
+}

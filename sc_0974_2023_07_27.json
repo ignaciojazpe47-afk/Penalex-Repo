@@ -1,0 +1,24 @@
+{
+  "id": 31590,
+  "numero": "0974",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por INVERSIONES VENROL S.A. contra la sentencia del Juzgado Superior Primero en lo Civil, Mercantil y del Tránsito de la Circunscripción Judicial del estado Lara, que había declarado con lugar la pretensión de desalojo contra José Ignacio Bello Gutiérrez. La Sala consideró que la decisión impugnada violó derechos constitucionales, como el debido proceso y la tutela judicial efectiva, al no valorar adecuadamente las actuaciones de la parte demandada en el proceso principal.\n\nSe determinó que el Juzgado Superior incurrió en un error de juzgamiento al considerar que las actuaciones de la parte demandada en un juicio distinto no podían ser tomadas en cuenta para declarar la confesión ficta. La Sala ordenó la anulación de la sentencia impugnada y la reposición del proceso al estado de que se pronuncie sobre la apelación ejercida por la parte demandada, garantizando así el derecho a la defensa y la seguridad jurídica.\n\nFinalmente, se destacó la competencia de la Sala para conocer de la acción de amparo y se resolvió que el asunto era de mero derecho, permitiendo una decisión inmediata sin necesidad de audiencia oral, en virtud de la naturaleza del caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "desalojo",
+    "confesión ficta",
+    "derecho a la defensa",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre desalojo de local comercial",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0974_E23-0343.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327465-0974-27723-2023-23-0343.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:02.195627"
+}

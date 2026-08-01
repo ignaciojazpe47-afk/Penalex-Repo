@@ -1,0 +1,24 @@
+{
+  "id": 53430,
+  "numero": "557",
+  "fecha": "2017-08-10",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Juan José Mendoza Jover",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara con lugar la acción de amparo constitucional interpuesta por el abogado Franklin Gutiérrez, en representación de Carlos Eduardo Gaviria Arana, contra la sentencia n.° 444-15 de la Sala N° 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia. La Sala encontró que la decisión impugnada vulneró derechos constitucionales al debido proceso y a la tutela judicial efectiva, debido a un error en la interpretación de la ley sobre la prescripción de la acción penal.\n\nSe anula la sentencia recurrida y se ordena que otra Sala de la Corte de Apelaciones del Circuito Judicial Penal del Estado Zulia conozca de la apelación ejercida por la parte accionante. La Sala Constitucional enfatiza que el cálculo de la prescripción debe hacerse tomando en cuenta el término medio de la pena del delito tipo, sin considerar agravantes o atenuantes, lo que fue erróneamente aplicado por la Corte de Apelaciones.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el cumplimiento de lo ordenado, reafirmando la importancia de la correcta aplicación de las normas en el ámbito penal para garantizar los derechos de los ciudadanos.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "prescripción",
+    "derechos constitucionales",
+    "debido proceso",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre prescripción de acción penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-08-10_S557_E15-1386.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/202502-557-10817-2017-15-1386.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:09.683100"
+}

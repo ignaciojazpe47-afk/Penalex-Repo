@@ -1,0 +1,24 @@
+{
+  "id": 20146,
+  "numero": "0855",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la acción de amparo constitucional interpuesta por Nicola Di Rosa Puyol contra el Centro Italiano Venezolano, alegando violaciones a los derechos al trabajo y a la libre actividad comercial. La Sala declaró incompetente al Tribunal Primero de Primera Instancia de Juicio del Circuito Judicial del Trabajo, quien había declinado la competencia a los Juzgados de Primera Instancia en Materia Civil. La Sala decidió remitir el expediente a la jurisdicción civil correspondiente para su conocimiento y trámite.\n\nLa decisión se fundamenta en la naturaleza del contrato que originó la controversia, el cual se considera un contrato de arrendamiento, y no de trabajo, lo que justifica la declinatoria de competencia. La Sala también instó a los jueces a evitar desaciertos que atenten contra los derechos de brevedad y celeridad en los procesos de amparo constitucional.\n\nFinalmente, se ordenó remitir el expediente a los Juzgados de Primera Instancia en Materia Civil de la Circunscripción Judicial del Área Metropolitana de Caracas para que continúen con el trámite correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derecho al trabajo",
+    "libre actividad comercial",
+    "incompetencia",
+    "Centro Italiano Venezolano"
+  ],
+  "titulo": "Sentencia sobre la acción de amparo constitucional interpuesta por Nicola Di Rosa Puyol",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0855_E25-0218.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344425-0855-3625-2025-25-0218.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.306420"
+}

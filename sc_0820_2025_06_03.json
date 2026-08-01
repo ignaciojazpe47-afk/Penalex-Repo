@@ -1,0 +1,22 @@
+{
+  "id": 20100,
+  "numero": "0820",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación interpuesto por varias sociedades mercantiles contra una sentencia que declaró con lugar una acción de amparo constitucional. La decisión apelada había sido emitida por el Juzgado Sexto Superior del Circuito Judicial del Trabajo, que había anulado autos previos y ordenado la reposición de la causa. La Sala declaró con lugar el recurso de apelación, revocando la decisión recurrida y declarando inadmisible sobrevenidamente la acción de amparo ejercida por los ciudadanos demandantes, debido a que cesó la presunta violación de sus derechos constitucionales.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "recurso de apelación",
+    "derechos laborales"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0820_E21-0832.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344379-0820-3625-2025-21-0832.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.309895"
+}

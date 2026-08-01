@@ -1,0 +1,24 @@
+{
+  "id": 22796,
+  "numero": "1745",
+  "fecha": "2025-11-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por José Luis Lugo Ríos contra la decisión de la Corte de Apelaciones que declaró inadmisible su acción de amparo. La apelación fue presentada el 20 de marzo de 2025, y la Corte de Apelaciones había declarado inadmisible la acción el 18 de marzo de 2025, argumentando que el agraviado no había agotado los recursos ordinarios disponibles. La Sala Constitucional confirmó la decisión de inadmisibilidad, señalando que el recurso de apelación era el medio adecuado para impugnar la decisión del Tribunal de Primera Instancia.",
+  "palabras_clave": [
+    "medida cautelar",
+    "audiencia preliminar",
+    "debido proceso",
+    "defensa",
+    "apelación"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-03_S1745_E25-0472.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349485-1745-31125-2025-25-0472.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:37.524140"
+}

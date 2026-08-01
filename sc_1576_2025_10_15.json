@@ -1,0 +1,22 @@
+{
+  "id": 22236,
+  "numero": "1576",
+  "fecha": "2025-10-15",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre el amparo constitucional interpuesto por Ronald Rafael López Cárdenas contra la asociación civil Unión San Joaquín, debido a su expulsión sin un debido proceso. La Sala determinó que el conflicto de competencia surgido entre dos tribunales debía ser resuelto por ella, dado que no existía un tribunal superior común. Se concluyó que el Juzgado Tercero de Primera Instancia en lo Civil y Mercantil de la Circunscripción Judicial del Estado Aragua es el competente para conocer del caso, ordenando la remisión del expediente a dicho juzgado para su tramitación correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "expulsión",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional interpuesto por Ronald Rafael López Cárdenas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-10-15_S1576_E24-1023.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/348693-1576-151025-2025-24-1023.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:41.757110"
+}

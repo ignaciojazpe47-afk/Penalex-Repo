@@ -1,0 +1,24 @@
+{
+  "id": 10887,
+  "numero": null,
+  "fecha": "2010-12-14",
+  "anio": 2010,
+  "sala": "SCP",
+  "materia": "Penal",
+  "tipo_recurso": "Extradicion",
+  "decision": "Con Lugar",
+  "ponente": "Doctor ELADIO RAMÓN APONTE APONTE",
+  "resumen": "La Sala de Casación Penal del Tribunal Supremo de Justicia declara procedente la solicitud de extradición activa del ciudadano Andrés José Delgado Almoguera, quien está acusado de delitos de Apropiación o Distracción de Recursos Financieros, Legitimación de Capitales y Asociación para Delinquir. La decisión se fundamenta en la existencia de una medida de privación judicial preventiva de libertad y la urgencia de su aprehensión, dado que el solicitado se encuentra en Estados Unidos de América.\n\nEl tribunal considera que los delitos imputados no son de carácter político y que la extradición está respaldada por el Tratado de Extradición entre Venezuela y Estados Unidos. Se destaca la necesidad de que el ciudadano se someta a la jurisdicción de los tribunales venezolanos, garantizando su derecho a ser juzgado en presencia de sus jueces naturales.\n\nFinalmente, se ordena remitir una copia certificada de la decisión al Poder Ejecutivo Nacional para su ejecución, reafirmando la importancia de la cooperación internacional en la lucha contra la delincuencia organizada.",
+  "palabras_clave": [
+    "extradición",
+    "delitos económicos",
+    "Apropiación de Recursos",
+    "Legitimación de Capitales",
+    "Asociación para Delinquir"
+  ],
+  "titulo": "Solicitud de extradición activa del ciudadano Andrés José Delgado Almoguera",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionPenal_b692e607514ae4290d021ad0bfffab39_RamonAponte.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss",
+  "procesado": "2026-07-31T21:23:49.555928"
+}

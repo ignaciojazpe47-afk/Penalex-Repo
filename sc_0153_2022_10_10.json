@@ -1,0 +1,26 @@
+{
+  "id": 24288,
+  "numero": "0153",
+  "fecha": "2022-10-10",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D’ AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia N° 431 de la Sala de Casación Civil, que declaró sin lugar el recurso extraordinario de casación interpuesto por Samantha Kristina Alfonzo Turuani. La solicitante argumentó que se vulneraron sus derechos constitucionales al no admitirse su demanda de tercería, alegando que el documento notariado que presentó no fue considerado válido por no estar registrado. La Sala Constitucional determinó que la inadmisibilidad de la demanda se basó en la falta de registro del documento, lo que impide su oponibilidad frente a terceros, y concluyó que no hubo violación de derechos constitucionales en la decisión de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión",
+    "legitimación",
+    "documento notariado",
+    "acceso a la justicia",
+    "Código Civil",
+    "debido proceso",
+    "tutela judicial"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-21_S0153_E23-0376.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332694-0153-21224-2024-23-0376.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:18.199076"
+}

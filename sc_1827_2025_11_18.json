@@ -1,0 +1,25 @@
+{
+  "id": 23059,
+  "numero": "1827",
+  "fecha": "2025-11-18",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Johnny Alberto Henríquez Flores en representación de Freddy José Moreno Jiménez, contra el Tribunal Tercero de Primera Instancia Estadal en Funciones de Control del estado Carabobo. La acción se fundamentó en la presunta violación de derechos y garantías constitucionales debido a la falta de pronunciamiento del tribunal sobre la situación del demandante, quien se encontraba privado de libertad por un delito de homicidio intencional y lesiones personales en un accidente de tránsito.\n\nLa Sala, tras analizar la competencia, determinó que no era competente para conocer del caso y declinó la solicitud a una Corte de Apelaciones del Circuito Judicial Penal del estado Carabobo, ordenando el remitir el expediente correspondiente. La decisión fue firmada el 18 de noviembre de 2025 por la magistrada ponente Lourdes Benicia Suárez Anderson y otros magistrados de la Sala.\n\nFinalmente, la Sala se declaró incompetente para conocer de la acción de amparo y ordenó remitir el expediente a la Corte de Apelaciones correspondiente, enfatizando la importancia de la tutela judicial efectiva y el debido proceso en el marco de la acción de amparo constitucional.",
+  "palabras_clave": [
+    "amparo",
+    "competencia",
+    "derechos",
+    "tribunales",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-11-18_S1827_E25-1158.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/349951-1827-181125-2025-25-1158.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:33.067104"
+}

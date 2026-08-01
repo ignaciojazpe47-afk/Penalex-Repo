@@ -1,0 +1,27 @@
+{
+  "id": 40008,
+  "numero": "0561",
+  "fecha": "2021-10-28",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un recurso de apelación de amparo constitucional interpuesto por Gilda M. Sanz M., en representación de adolescentes, contra el retardo procesal del Tribunal Único de Primera Instancia en Funciones de Ejecución. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que existían vías ordinarias para hacer valer los derechos de los adolescentes. La Sala Constitucional confirmó esta decisión, señalando que no se evidenció una violación a los derechos a la tutela judicial efectiva y debido proceso.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "debido proceso",
+    "adolescentes",
+    "inadmision",
+    "derechos constitucionales",
+    "jurisdicción",
+    "recursos ordinarios"
+  ],
+  "titulo": "Decisión sobre recurso de apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-28_S0561_E21-0294.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313926-0561-281021-2021-21-0294.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.121060"
+}

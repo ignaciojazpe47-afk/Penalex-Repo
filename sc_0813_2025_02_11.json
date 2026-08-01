@@ -1,0 +1,25 @@
+{
+  "id": 20013,
+  "numero": "0813",
+  "fecha": "2025-02-11",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente in limine litis",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo constitucional ejercida por Jesús Alberto García Sánchez en representación de María Félix Amaro Rojas. Se admite la acción de amparo y se declara procedente in limine litis, anulando la decisión del Juzgado Superior que declaró inadmisible la recusación presentada por la parte accionante. La Sala ordena la reposición de la causa a un Juez Superior distinto para que conozca la incidencia de recusación y proceda a celebrar la audiencia de apelación.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "recusación",
+    "niños y adolescentes",
+    "Código de Procedimiento Civil",
+    "irregularidades procesales"
+  ],
+  "titulo": "Sentencia sobre amparo constitucional en contra de decisiones judiciales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0813_E22-0218.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344291-0813-28525-2025-22-0218.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.545002"
+}

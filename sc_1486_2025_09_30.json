@@ -1,0 +1,24 @@
+{
+  "id": 21948,
+  "numero": "1486",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 11 de marzo de 2022, que había declarado con lugar la acción de estimación e intimación de honorarios profesionales. Se argumentó que la condena a pagar en dólares violaba la normativa vigente, ya que la obligación debía ser exigible en bolívares, conforme a la ley. Además, se destacó que la sentencia no respetó el límite del 30% del valor de lo litigado para los honorarios profesionales, lo que llevó a la nulidad de la decisión original y a la orden de emitir un nuevo fallo que respete lo decidido en esta revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "honorarios profesionales",
+    "costas procesales",
+    "moneda extranjera",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia sobre intimación de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1486_E23-0911.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348101-1486-30925-2025-23-0911.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.202620"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 17666,
+  "numero": "0353",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un amparo constitucional interpuesto por Nello Rino Zuzolo Clemente contra un auto de abocamiento dictado por el Juzgado Superior Segundo en lo Civil. El demandante alegó violaciones a sus derechos constitucionales debido a la notificación del abocamiento antes de resolver una apelación pendiente. La Sala, tras analizar la competencia, decidió que era competente para conocer del caso, pero declaró inadmisible la acción de amparo por no presentar copia certificada de la decisión impugnada, requisito indispensable para la admisibilidad.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "copia certificada",
+    "documentos indispensables"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0353_E25-0586.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354347-0353-25326-2026-25-0586.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.034250"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17636,
+  "numero": "0382",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional interpuesta por el abogado Moisés Elías Gutiérrez Fernández en representación de Merys Perfecta Torres Sequea, quien denuncia vulneraciones a su derecho a la seguridad personal debido a un régimen de incomunicación y aislamiento en el Centro Penitenciario de Mujeres INOF. La Sala, tras revisar el caso, se declara incompetente para conocer de la acción y decide declinar la competencia al Juzgado de Primera Instancia en lo Penal en Funciones de Control del estado Miranda.",
+  "palabras_clave": [
+    "competencia",
+    "amparo",
+    "derechos humanos",
+    "habeas corpus",
+    "tribunales",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0382_E26-0183.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354398-0382-25326-2026-26-0183.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:59.035911"
+}

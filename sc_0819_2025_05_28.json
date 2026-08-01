@@ -1,0 +1,23 @@
+{
+  "id": 20019,
+  "numero": "0819",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "JANETTE TRINIDAD CÓRDOVA CASTRO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de octubre de 2024, por la Sala Político Administrativa, que había declarado parcialmente con lugar la apelación del Fisco Nacional. La Sala Constitucional determinó que no había lugar para la revisión, ya que la Sala Político Administrativa actuó conforme a derecho y no se evidenció vulneración de derechos. Se destacó que la revisión no debe ser entendida como un medio ordinario de impugnación, sino como un mecanismo excepcional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "sentencia",
+    "Fisco Nacional",
+    "MI NEGOCIO SUPERMERCADOS, C.A."
+  ],
+  "titulo": "Revisión de sentencia sobre apelación tributaria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0819_E25-0280.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344297-0819-28525-2025-25-0280.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.854386"
+}

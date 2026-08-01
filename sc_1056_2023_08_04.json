@@ -1,0 +1,25 @@
+{
+  "id": 31813,
+  "numero": "1056",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de agosto de 2023, declaró sin lugar el recurso de apelación interpuesto por el abogado Asdrúbal Placeres, defensor privado de José Orlando Coppa Abarullo, contra la sentencia dictada el 10 de enero de 2023 por la Sala Nro. 2 de la Corte de Apelaciones del Circuito Judicial Penal del Estado Bolívar. La apelación se basó en la supuesta vulneración del principio non bis in idem, alegando que su representado fue juzgado dos veces por los mismos hechos.\n\nLa Sala Constitucional determinó que no existió vulneración del principio mencionado, ya que las causas acumuladas contra el ciudadano Coppa Abarullo estaban debidamente fundamentadas y no se configuró un juicio doble por los mismos hechos. Se concluyó que el Tribunal Tercero actuó conforme a derecho al acumular las causas y dictar las decisiones pertinentes.\n\nFinalmente, se confirmó la decisión de la Corte de Apelaciones, reafirmando que la acción de amparo constitucional no era temeraria y que se había respetado el debido proceso en todas las instancias.",
+  "palabras_clave": [
+    "amparo",
+    "derechos",
+    "justicia",
+    "proceso penal",
+    "libertad",
+    "no bis in idem"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1056_E23-0456.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327889-1056-4823-2023-23-0456.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.889462"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34615,
+  "numero": "0073",
+  "fecha": "2022-03-08",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "El ciudadano Carlos Alberto Inestroza Reyes solicitó revisión constitucional de una sentencia dictada el 6 de noviembre de 2017, que declaró sin lugar la apelación contra una decisión anterior que había declarado improcedente una incidencia de tacha. La Sala Constitucional, tras analizar los argumentos y pruebas presentadas, concluyó que no existían fundamentos suficientes para admitir la revisión, ya que la sentencia impugnada no quebrantó principios jurídicos fundamentales y se ajustó a derecho. Por lo tanto, se declaró NO HA LUGAR la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "incongruencia",
+    "debido proceso",
+    "tutela judicial",
+    "legitimación",
+    "pruebas",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-03-08_S0073_E18-0747.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/315923-0073-8322-2022-18-0747.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:46.443086"
+}

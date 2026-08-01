@@ -1,0 +1,24 @@
+{
+  "id": 38116,
+  "numero": "1239",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió confirmar la sentencia del 25 de abril de 2019, dictada por la Sala Accidental de la Corte de Apelaciones del Circuito Judicial Penal del Estado Falcón, que declaró inadmisible la acción de amparo constitucional interpuesta por las ciudadanas Magleni Gutiérrez y Luz María Guerrero. La acción de amparo fue considerada inadmisible debido a la inactividad de las demandantes durante más de seis meses, lo que fue interpretado como una pérdida de interés en la causa.\nLa Sala Constitucional argumentó que, aunque las demandantes alegaron no haber sido notificadas para participar en la audiencia preliminar, la decisión de la Corte de Apelaciones se basó en la falta de actuación de las partes y en la naturaleza de la acción de amparo, que debe ser tramitada con celeridad. Se concluyó que la omisión de notificación no afectó el interés público en el proceso penal, dado que el acusado había admitido los hechos y fue condenado.\nFinalmente, la Sala reafirmó que la justicia no puede ser sacrificada por formalismos y que la inadmisibilidad de la acción de amparo se justifica en este caso, confirmando así la decisión de la Corte de Apelaciones.",
+  "palabras_clave": [
+    "Amparo Constitucional",
+    "Inadmisibilidad",
+    "Derechos Constitucionales",
+    "Notificación",
+    "Audiencia Preliminar"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1239_E19-0290.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322131-1239-151222-2022-19-0290.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.144099"
+}

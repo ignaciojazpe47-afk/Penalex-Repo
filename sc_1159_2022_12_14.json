@@ -1,0 +1,25 @@
+{
+  "id": 38018,
+  "numero": "1159",
+  "fecha": "2022-12-14",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUAREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional interpuesta por la abogada María Loriana Lara en representación del ciudadano Bogdan Iordachi Stefanescu. La solicitud se refería a la sentencia número 78 dictada por la Sala de Casación Penal, que declaró procedente la extradición del mencionado ciudadano a Rumania por la presunta comisión de varios delitos.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "representación judicial",
+    "copia certificada",
+    "inadmision",
+    "seguridad jurídica",
+    "legitimación"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional de extradición",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-14_S1159_E21-0583.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/321993-1159-141222-2022-21-0583.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.152099"
+}

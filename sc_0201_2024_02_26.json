@@ -1,0 +1,25 @@
+{
+  "id": 24365,
+  "numero": "0201",
+  "fecha": "2024-02-26",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Improcedente in limine litis",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Carlos J. Villarroel en defensa de varios ciudadanos contra una decisión de la Corte de Apelaciones que declaró la nulidad de una audiencia preliminar. La Sala establece que la Corte de Apelaciones actuó dentro de su competencia y no vulneró derechos constitucionales. Se resalta la importancia del debido proceso y la tutela judicial efectiva en el contexto penal.",
+  "palabras_clave": [
+    "tutela judicial",
+    "debido proceso",
+    "justicia",
+    "Código Orgánico Procesal Penal",
+    "derechos humanos",
+    "garantías procesales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-02-26_S0201_E23-0518.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/332771-0201-26224-2024-23-0518.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:57.655898"
+}

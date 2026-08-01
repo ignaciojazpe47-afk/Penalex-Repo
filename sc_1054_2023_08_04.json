@@ -1,0 +1,25 @@
+{
+  "id": 31811,
+  "numero": "1054",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 4 de agosto de 2023, declaró sin lugar la revisión constitucional solicitada por la abogada Magaly Socorro Parra de Depablos, en representación de Edgar Edecio González Sánchez, respecto a la sentencia del 3 de febrero de 2023. Esta última había declarado inadmisible la apelación interpuesta contra un auto del 20 de junio de 2022, que se refería a la solicitud de indexación judicial de daños materiales por un accidente de tránsito.\nLa Sala argumentó que la revisión no contribuiría a la uniformidad en la interpretación de normas y principios constitucionales, y que el fallo objeto de revisión se ajustó a derecho. Se enfatizó que la revisión no es un medio ordinario y que la parte solicitante no había impugnado adecuadamente la experticia complementaria realizada, lo que limitó su capacidad para cuestionar la decisión del tribunal inferior.\nFinalmente, se resolvió que la apelación era inadmisible y se revocó el auto que había acordado oírla en un solo efecto, sin condena en costas debido a la naturaleza del fallo.",
+  "palabras_clave": [
+    "apelación",
+    "experticia",
+    "indemnización",
+    "daños",
+    "jurisprudencia",
+    "procedimiento civil"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre cobro de bolívares por accidente de tránsito",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1054_E23-0378.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327887-1054-4823-2023-23-0378.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.886835"
+}

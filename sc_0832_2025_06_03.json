@@ -1,0 +1,24 @@
+{
+  "id": 20123,
+  "numero": "0832",
+  "fecha": "2025-06-03",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminando el procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Manuel Assad Brito en representación de Enrique Antonio Guaramato Hernández, debido a un retraso procesal injustificado por parte del Juzgado Nacional Primero Contencioso Administrativo. La Sala determinó su competencia para conocer el caso y observó que el accionante no había realizado actuaciones procesales válidas durante más de seis meses, lo que configuró un abandono del trámite. En consecuencia, se declaró terminado el procedimiento y se impuso una multa a la parte actora.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonar trámite",
+    "multa",
+    "derechos",
+    "competencia"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-03_S0832_E24-0594.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344402-0832-3625-2025-24-0594.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:17.307030"
+}

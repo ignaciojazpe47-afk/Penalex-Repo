@@ -1,0 +1,22 @@
+{
+  "id": 27059,
+  "numero": "0526",
+  "fecha": "2024-10-31",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del TSJ se pronunció sobre una acción de amparo constitucional interpuesta por Luz María Romero Dell’onto y Renato Impero Dell’onto Romero, debido a la omisión de pronunciamiento del Juzgado Segundo de Primera Instancia en lo Agrario. Los accionantes alegaron que la jueza accidental no había celebrado la audiencia preliminar ni se había pronunciado sobre la apelación interpuesta, lo que generó un retardo injustificado en el proceso. La Sala, al analizar el caso, determinó su competencia para conocer la apelación y ordenó al juzgado de instancia informar sobre la decisión respecto al recurso de apelación ejercido.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "omisión de pronunciamiento",
+    "retardo procesal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por omisión de pronunciamiento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-10-31_S0526_E19-0353.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/338441-0526-311024-2024-19-0353.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.312954"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 17355,
+  "numero": "0678",
+  "fecha": "2026-05-27",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la revisión constitucional solicitada por Alimentos Polar Comercial, C.A. contra la sentencia N° 476 dictada por la Sala de Casación Social. La revisión se fundamenta en la alegación de violaciones a derechos constitucionales, específicamente al debido proceso y a la defensa, en el contexto de un contrato de compraventa de maíz. La Sala acordó la medida cautelar de suspensión de los efectos de la sentencia impugnada hasta que se dicte un pronunciamiento definitivo sobre el fondo del asunto.",
+  "palabras_clave": [
+    "tutela judicial efectiva",
+    "debido proceso",
+    "capacidad de representación",
+    "contratos",
+    "incongruencia omisiva",
+    "derechos constitucionales",
+    "sentencia",
+    "Código Civil"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de la sentencia N° 476",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-05-27_S0678_E26-0382.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/355948-0678-27526-2026-26-0382.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:48.902148"
+}

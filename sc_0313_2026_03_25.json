@@ -1,0 +1,26 @@
+{
+  "id": 16373,
+  "numero": "0313",
+  "fecha": "2026-03-25",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La abogada Yudeima María González Guzmán solicitó la revisión constitucional de dos sentencias emitidas por tribunales de Monagas, que declararon improcedente y luego inadmisible una demanda de resolución de contrato. La Sala Constitucional, tras analizar los argumentos, determinó que la representación de la demandante no cumplía con los requisitos legales, ya que la apoderada no era abogada. Por lo tanto, se declaró que la demanda era inadmisible y se negó la revisión solicitada.",
+  "palabras_clave": [
+    "legitimacion",
+    "acceso_a_la_justicia",
+    "tutela_judicial",
+    "derechos_constitucionales",
+    "procedimiento_civil",
+    "interes_procesal",
+    "sentencia_inhibitoria"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-25_S0313_E25-0776.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/354293-0313-25326-2026-25-0776.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.563601"
+}

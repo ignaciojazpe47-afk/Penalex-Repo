@@ -1,0 +1,26 @@
+{
+  "id": 21202,
+  "numero": "1216",
+  "fecha": "2025-07-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "DRA. TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión, declara no ha lugar la solicitud de revisión constitucional presentada por los ciudadanos Luisa Elena Farías Morales y otros, respecto a la sentencia N° 362 dictada por la Sala de Casación Civil. La Sala concluye que no se incurrió en errores grotescos en la interpretación de la Constitución y que los alegatos presentados por los solicitantes han sido debatidos en todas las instancias del proceso. Además, se revoca una medida cautelar previamente decretada y se declara firme la decisión del Tribunal de Primera Instancia en lo Civil, Mercantil y Tránsito de la Circunscripción Judicial del Estado Monagas.",
+  "palabras_clave": [
+    "acceso a la justicia",
+    "daño moral",
+    "indemnización",
+    "Código Civil",
+    "carga de la prueba",
+    "responsabilidad civil",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-28_S1216_E25-0061.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/346513-1216-28725-2025-25-0061.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.781542"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31595,
+  "numero": "0979",
+  "fecha": "2023-07-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió una acción de amparo constitucional en la modalidad de habeas corpus presentada por el abogado Vitelio Herrera en representación de José Jesús Villegas. La parte actora alegó que Villegas estaba privado de libertad sin que se demostrara su culpabilidad, solicitando su libertad plena debido a irregularidades en su aprehensión y condiciones de salud. La Sala, tras analizar la competencia, se declaró incompetente para conocer la acción y decidió declinar la competencia al Juzgado de Primera Instancia en lo Penal del Área Metropolitana de Caracas.",
+  "palabras_clave": [
+    "habeas corpus",
+    "libertad personal",
+    "competencia",
+    "derechos humanos",
+    "justicia penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-07-27_S0979_E20-0231.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/327470-0979-27723-2023-20-0231.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.918596"
+}

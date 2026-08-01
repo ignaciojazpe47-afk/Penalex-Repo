@@ -1,0 +1,25 @@
+{
+  "id": 21929,
+  "numero": "1467",
+  "fecha": "2025-09-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "TANIA D´AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, presidida por la Magistrada Tania D'Amelio Cardiet, declaró competente para conocer la revisión solicitada por Francisco Ignacio Martínez Rubio, quien impugnó una sentencia del Tribunal Segundo de Primera Instancia relacionada con su divorcio y la obligación de manutención. La Sala determinó que la solicitud de revisión no prosperaba, ya que no se evidenció una vulneración de derechos constitucionales ni un error en la aplicación de la ley por parte del tribunal inferior.",
+  "palabras_clave": [
+    "revisión",
+    "divorcio",
+    "derechos",
+    "niñez",
+    "constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-09-30_S1467_E24-0309.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/septiembre/348082-1467-30925-2025-24-0309.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:48.205812"
+}

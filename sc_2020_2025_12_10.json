@@ -1,0 +1,26 @@
+{
+  "id": 23768,
+  "numero": "2020",
+  "fecha": "2025-12-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión constitucional presentada por la abogada Marcys Aracelis Mendoza González en nombre de Anderson Daniel Vargas Mogollón, quien fue condenado a doce años de prisión por homicidio calificado. La inadmisibilidad se fundamenta en la falta de acreditación de la representación legal de la solicitante, conforme a lo estipulado en la Ley Orgánica del Tribunal Supremo de Justicia. La Sala también se declara competente para conocer de la solicitud, pero resalta la necesidad de presentar la documentación adecuada para su admisión.",
+  "palabras_clave": [
+    "admisión de hechos",
+    "procedimiento penal",
+    "reconocimiento de culpabilidad",
+    "debido proceso",
+    "Código Orgánico Procesal Penal",
+    "celeridad judicial",
+    "derechos de las víctimas"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-12-10_S2020_E25-0734.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/351790-2020-101225-2025-25-0734.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:28.787032"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19954,
+  "numero": "0780",
+  "fecha": "2025-05-28",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "IMPROCEDENTE IN LIMINE LITIS",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara improcedente la acción de amparo interpuesta por Guillermo Moreno Contreras, defensor privado de Miguel Enrique Chiquillo Barón, contra la sentencia dictada el 13 de enero de 2025 por la Sala Uno de la Corte de Apelaciones del Circuito Judicial Penal del Área Metropolitana de Caracas. La acción se fundamentó en la supuesta violación de derechos constitucionales relacionados con el debido proceso y el derecho a la defensa, en el contexto de una medida privativa de libertad impuesta a Chiquillo Barón por su presunta complicidad en homicidio intencional calificado en grado de frustración.\n\nLa Sala Constitucional concluyó que la decisión impugnada no adolece de vicios de inconstitucionalidad y que la medida de coerción adoptada por el tribunal inferior se ajustó a derecho, considerando los elementos de convicción presentados. Se reafirmó que el derecho a la defensa fue respetado durante el proceso, y que la acción de amparo no cumplió con los requisitos de procedencia establecidos en la ley.\n\nFinalmente, se ordenó la publicación y archivo del expediente, reafirmando la autoridad del tribunal en la administración de justicia.",
+  "palabras_clave": [
+    "prisión preventiva",
+    "derecho a la defensa",
+    "homicidio",
+    "medidas cautelares",
+    "justicia",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-05-28_S0780_E25-0162.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/344222-0780-28525-2025-25-0162.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:22.858654"
+}

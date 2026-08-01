@@ -1,0 +1,27 @@
+{
+  "id": 2281,
+  "numero": null,
+  "fecha": "2001-02-14",
+  "anio": 2001,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Derecho Administrativo",
+  "decision": "IMPROCEDENTE in limine",
+  "ponente": "Iván Rincón Urdaneta",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 14 de febrero de 2001, se pronunció sobre la acción de amparo constitucional interpuesta por Alberto José Díaz Castro contra la sentencia de la Corte Primera de lo Contencioso Administrativo, que había declarado sin lugar su apelación contra la decisión del Tribunal de la Carrera Administrativa. El accionante alegó falta de motivación en los actos de remoción y retiro de su cargo como Director de Auditoría e Inspección de la Comisión Nacional de Valores. La Sala, tras analizar los argumentos, concluyó que la Corte Primera no había incurrido en error al no pronunciarse sobre la inmotivación, ya que el apelante no había presentado alegaciones al respecto. Por lo tanto, se declaró improcedente la acción de amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "remoción",
+    "retirada",
+    "motivación",
+    "Corte Primera",
+    "Derecho Administrativo",
+    "comunidad de la prueba",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2001-02-14_PoliticoAdmin_00_UrdanetaMediante.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:46.713996"
+}

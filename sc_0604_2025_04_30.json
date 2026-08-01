@@ -1,0 +1,26 @@
+{
+  "id": 19586,
+  "numero": "0604",
+  "fecha": "2025-04-30",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un recurso de apelación en contra de una sentencia que declaró inadmisible una acción de amparo. La apelación fue interpuesta por Eduardo Herrera en representación de Daniel Otayek, quien cuestionó la decisión del Tribunal Superior Primero del Circuito Judicial de Protección de Niños, Niñas y Adolescentes. La Sala determinó su competencia y decidió sobre la apelación, considerando que el recurso fue interpuesto dentro del lapso legal establecido.",
+  "palabras_clave": [
+    "debido_proceso",
+    "tutela_judicial",
+    "juez_natural",
+    "incompetencia_territorial",
+    "recusación",
+    "derechos",
+    "niños_y_adolescentes"
+  ],
+  "titulo": "Sentencia sobre apelación en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-04-30_S0604_E24-0172.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/343463-0604-30425-2025-24-0172.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:33.026517"
+}

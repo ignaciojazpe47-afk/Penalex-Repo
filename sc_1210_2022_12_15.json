@@ -1,0 +1,25 @@
+{
+  "id": 38087,
+  "numero": "1210",
+  "fecha": "2022-12-15",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "NO HA LUGAR",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión constitucional presentada por las abogadas de la sociedad mercantil CALOX INTERNATIONAL, C.A. contra la sentencia del Juzgado Quinto Superior del Trabajo, que había declarado con lugar un recurso de apelación interpuesto por Guillermo Banquez Berrío. La Sala determinó que la notificación del acto administrativo fue defectuosa, lo que impide el cómputo del lapso de caducidad para la interposición del recurso de nulidad. En consecuencia, se declaró inadmisible la solicitud de revisión.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "tutela judicial efectiva",
+    "debido proceso",
+    "caducidad",
+    "notificación",
+    "jurisdicción contencioso administrativa"
+  ],
+  "titulo": "Revisión constitucional de sentencia sobre nulidad de acto administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-12-15_S1210_E17-0912.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/322102-1210-151222-2022-17-0912.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:51.135786"
+}

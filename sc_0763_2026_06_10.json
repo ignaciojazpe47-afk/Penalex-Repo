@@ -1,0 +1,24 @@
+{
+  "id": 49723,
+  "numero": "0763",
+  "fecha": "2026-06-10",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Control de Legalidad",
+  "materia": "Constitucional",
+  "decision": "INADMISIBLE",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión de la sentencia dictada el 3 de octubre de 2019, en la que se desaplicó el artículo 173 del Código Civil. La decisión se basa en que la sentencia no se encontraba definitivamente firme, ya que estaba bajo el conocimiento de la Sala de Casación Social debido a un recurso de control de legalidad interpuesto por el abogado de la demandada. La Sala enfatiza la importancia de verificar la firmeza de las decisiones antes de someterlas a revisión para evitar entorpecer la administración de justicia.",
+  "palabras_clave": [
+    "control difuso",
+    "desaplicación",
+    "Código Civil",
+    "partición",
+    "liquidación de comunidad conyugal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de desaplicación de norma por control difuso",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-06-10_S0763_E19-0606.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/356461-0763-10626-2026-19-0606.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:27:43.929586"
+}

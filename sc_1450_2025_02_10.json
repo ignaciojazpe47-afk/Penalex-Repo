@@ -1,0 +1,25 @@
+{
+  "id": 21703,
+  "numero": "1450",
+  "fecha": "2025-02-10",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "Janette Trinidad Córdova Castro",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la solicitud de revisión constitucional presentada contra la sentencia n° 163 del 7 de agosto de 2019, dictada por la Sala de Casación Penal. La solicitud fue desestimada, argumentando que no se evidenció la existencia de vicios que justificaran la revisión, y que la Sala Penal actuó conforme a derecho al declarar con lugar el recurso de casación interpuesto por el Ministerio Público. La decisión reafirma la importancia de la motivación en las sentencias judiciales y la función de la Sala Constitucional como garante de la interpretación uniforme de la Constitución.",
+  "palabras_clave": [
+    "motivación",
+    "decisiones judiciales",
+    "corte de apelaciones",
+    "suprema corte",
+    "derechos constitucionales",
+    "proceso penal"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-07_S1450_E19-0546.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/347321-1450-7825-2025-19-0546.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.547003"
+}

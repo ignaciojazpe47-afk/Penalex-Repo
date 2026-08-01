@@ -1,0 +1,22 @@
+{
+  "id": 52319,
+  "numero": "456",
+  "fecha": "2017-06-12",
+  "anio": 2017,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "CALIXTO ORTEGA RIOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo constitucional interpuesta por María Eloísa Vivas Ramírez, actuando en nombre de sus nietos, contra una sentencia del Tribunal Superior Tercero del Circuito de Protección de Niños, Niñas y Adolescentes. La decisión cuestionada había declarado con lugar un recurso de apelación que revocó un amparo previo. La Sala consideró que existían elementos suficientes para acordar la medida cautelar solicitada, suspendiendo los efectos de la sentencia impugnada y la proyección de la película 'El Inca'. La Sala argumentó que la proyección podría lesionar los derechos al honor y la intimidad de los menores involucrados.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "derechos de los niños",
+    "proyección cinematográfica"
+  ],
+  "titulo": "Sentencia sobre solicitud de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2017-06-12_S456_E17-0614.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/199976-456-12617-2017-17-0614.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:14.688313"
+}

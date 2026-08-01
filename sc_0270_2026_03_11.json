@@ -1,0 +1,26 @@
+{
+  "id": 17413,
+  "numero": "0270",
+  "fecha": "2026-03-11",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La abogada Edith Eloina Chirino interpuso una acción de amparo constitucional en nombre de Carlos Manuel Fernández contra una sentencia de la Corte de Apelaciones del Estado Zulia que declaró inadmisible un recurso de apelación. La Sala Constitucional del TSJ, tras revisar el caso, determinó que la abogada no presentó la copia certificada de la sentencia impugnada, lo que constituye una carga procesal necesaria para la admisibilidad de la acción de amparo. Por lo tanto, la Sala declaró inadmisible la acción interpuesta.",
+  "palabras_clave": [
+    "amparo",
+    "inadmisibilidad",
+    "derechos constitucionales",
+    "carga procesal",
+    "sentencia",
+    "tribunal",
+    "justicia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-11_S0270_E25-1305.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353575-0270-11326-2026-25-1305.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:03.572294"
+}

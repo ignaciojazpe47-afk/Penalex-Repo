@@ -1,0 +1,26 @@
+{
+  "id": 17570,
+  "numero": "0118",
+  "fecha": "2026-03-02",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Ricardo Alberto González Arias contra una decisión del Juzgado Superior Primero Agrario. La acción se fundamenta en la omisión de pronunciamiento del juzgado respecto a varias solicitudes del accionante relacionadas con un acto administrativo del Instituto Nacional de Tierras. La Sala declaró su competencia para conocer el caso y ordenó al juzgado remitente la entrega del expediente correspondiente.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "juzgados superiores",
+    "nulidad agraria",
+    "INTI",
+    "competencia",
+    "sanciones",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-03-02_S0118_E25-1479.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/353108-0118-2326-2026-25-1479.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.382359"
+}

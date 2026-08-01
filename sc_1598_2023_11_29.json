@@ -1,0 +1,24 @@
+{
+  "id": 33089,
+  "numero": "1598",
+  "fecha": "2023-11-29",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la demanda por intereses difusos y colectivos presentada por varios trabajadores de la Alcaldía del Distrito Metropolitano de Caracas. La decisión se basa en la falta de claridad y precisión en la demanda, que no especifica adecuadamente los hechos u omisiones que se alegan como lesivos de los derechos constitucionales de los demandantes. A pesar de las instrucciones previas para corregir la demanda, esta no fue subsanada adecuadamente, lo que llevó a la Sala a considerar que no se podía admitir la acción.",
+  "palabras_clave": [
+    "demanda",
+    "legitimación",
+    "tribunal",
+    "derechos laborales",
+    "resolución administrativa"
+  ],
+  "titulo": "Sentencia sobre demanda por intereses difusos y colectivos",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1598_E15-0314.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330765-1598-291123-2023-15-0314.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:34.006790"
+}

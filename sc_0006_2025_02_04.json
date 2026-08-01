@@ -1,0 +1,25 @@
+{
+  "id": 18152,
+  "numero": "0006",
+  "fecha": "2025-02-04",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Avocamiento",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de avocamiento presentada por el abogado Jackson Wladimir Arenas Rangel en representación de Mario Humberto Flórez Velasco, en relación a un proceso penal que se sigue en su contra. La Sala, tras analizar las irregularidades alegadas, determinó que no tenía competencia para conocer del caso y declinó el conocimiento a la Sala de Casación Penal. La decisión se fundamenta en la falta de conexión con asuntos de justicia constitucional y la naturaleza penal del proceso.",
+  "palabras_clave": [
+    "avocamiento",
+    "justicia constitucional",
+    "derechos",
+    "garantías",
+    "jurisprudencia",
+    "Poder Público"
+  ],
+  "titulo": "Decisión sobre solicitud de avocamiento en causa penal",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-02-04_S0006_E24-0416.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/341152-0006-4225-2025-24-0416.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:57.572300"
+}

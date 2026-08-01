@@ -1,0 +1,26 @@
+{
+  "id": 32271,
+  "numero": "1425",
+  "fecha": "2023-10-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la solicitud de revisión presentada por el abogado Eduardo Oviedo Menesses en representación de la sociedad mercantil El Surtidor de la Belleza C.A. La solicitud se refiere a las actuaciones del Juzgado Segundo de Primera Instancia de Sustanciación, Mediación y Ejecución del Nuevo Régimen Procesal del Trabajo del Estado Monagas, argumentando vulneraciones a normas de orden público. Sin embargo, la Sala determina que la decisión impugnada no tiene el carácter de sentencia definitivamente firme, lo que impide su revisión.",
+  "palabras_clave": [
+    "revisión",
+    "sentencias",
+    "constitucionalidad",
+    "inadmision",
+    "jurisprudencia",
+    "tribunales",
+    "firmeza"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-10-11_S1425_E23-0190.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/329300-1425-111023-2023-23-0190.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:43.404456"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 66211,
+  "numero": "1101",
+  "fecha": "2015-08-14",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número 0184 dictada el 16 de marzo de 2012 por la Sala de Casación Social, que declaró desistido un recurso de casación. La solicitante argumentó que no se notificó adecuadamente sobre la audiencia prevista, lo que vulneró su derecho al debido proceso. La Sala Constitucional determinó que la Sala de Casación Social había incurrido en un error al no considerar la paralización del proceso y la necesidad de notificar a las partes, lo que llevó a la anulación de la sentencia impugnada.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "casación",
+    "niños",
+    "debido proceso"
+  ],
+  "titulo": "Revisión de sentencia de casación en materia de protección de niños",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-08-14_S1101_E12-0959.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/181117-1101-14815-2015-12-0959.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:02.222544"
+}

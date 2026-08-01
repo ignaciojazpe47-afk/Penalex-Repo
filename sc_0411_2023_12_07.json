@@ -1,0 +1,25 @@
+{
+  "id": 16518,
+  "numero": "0411",
+  "fecha": "2023-12-07",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 1758, donde se declaró competente para conocer la revisión constitucional solicitada por Luis Alfredo Gutiérrez Anzola. Se ordenó al Juzgado de Primera Instancia en lo Civil, Mercantil y del Tránsito del Estado Zulia que informara sobre el retiro de fondos relacionados con una indemnización por daño moral.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "indemnización",
+    "daño moral",
+    "cosa juzgada",
+    "competencia",
+    "orden público"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de indemnización por daño moral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-04-09_S0411_E23-0749.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/354863-0411-9426-2026-23- 0749.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:24.480983"
+}

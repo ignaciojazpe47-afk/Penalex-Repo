@@ -1,0 +1,23 @@
+{
+  "id": 34137,
+  "numero": "1242",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 14 de agosto de 2023, declaró sin lugar la solicitud de revisión presentada por Henry Vladimir Fermi Landi contra la sentencia de la Sala de Casación Civil, que había declarado sin lugar el recurso de casación sobre honorarios profesionales. La Sala consideró que no existían vicios en la sentencia recurrida y que se había realizado un análisis exhaustivo del contrato en cuestión, cumpliendo con los principios de motivación y congruencia. La decisión reafirma la importancia de la interpretación correcta de la Constitución y la jurisprudencia establecida.",
+  "palabras_clave": [
+    "revisión",
+    "honorarios profesionales",
+    "sentencia",
+    "constitucional"
+  ],
+  "titulo": "Revisión de sentencia de casación sobre honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1242_E23-0222.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328449-1242-14823-2023-23-0222.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.877299"
+}

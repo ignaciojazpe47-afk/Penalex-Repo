@@ -1,0 +1,22 @@
+{
+  "id": 27330,
+  "numero": "0710",
+  "fecha": "2024-11-08",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia n.° 0113, declaró sin lugar la apelación interpuesta por Nelly Moreno Gómez, apoderada de José Alberto Martínez González, contra la decisión del Tribunal Superior que declaró inadmisible la acción de amparo constitucional. La apelación se fundamentó en la supuesta violación de derechos constitucionales debido a la falta de notificación al padre sobre la autorización de viaje del niño. La Sala confirmó la inadmisibilidad, argumentando que no se agotaron las vías ordinarias antes de recurrir al amparo.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "viaje del niño",
+    "notificación"
+  ],
+  "titulo": "Sentencia sobre apelación de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-08_S0710_E23-1088.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338735-0710-81124-2024-23-1088.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:34.427829"
+}

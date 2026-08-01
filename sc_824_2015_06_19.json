@@ -1,0 +1,23 @@
+{
+  "id": 64707,
+  "numero": "824",
+  "fecha": "2015-06-19",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia del 19 de junio de 2015, revisó la decisión de la Corte Primera de lo Contencioso Administrativo que había declarado sin lugar un recurso de apelación sobre la jubilación de oficio del ciudadano Pedro Ysrrael Magallanes. La Sala encontró que la jubilación fue acordada sin cumplir con los requisitos establecidos en el Reglamento de Jubilaciones y Pensiones, lo que vulneró derechos constitucionales del solicitante, como el derecho a la defensa y a la tutela judicial efectiva.\n\nLa Sala declaró que la decisión de la Corte Primera incurrió en vicios de incongruencia y de legalidad, al no considerar adecuadamente los argumentos presentados por el demandante y al aplicar incorrectamente la normativa sobre jubilaciones. En consecuencia, se anuló la sentencia impugnada y se ordenó a la Corte Segunda de lo Contencioso Administrativo dictar un nuevo fallo, atendiendo a los criterios jurisprudenciales establecidos por la Sala Constitucional.\n\nFinalmente, la Sala reafirmó su competencia para conocer de la revisión y destacó la importancia de garantizar el derecho a la jubilación de los funcionarios, en concordancia con los principios de protección al trabajador establecidos en la Constitución.",
+  "palabras_clave": [
+    "jubilación",
+    "revisión constitucional",
+    "derechos laborales",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Revisión de sentencia sobre jubilación de oficio",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-06-19_S824_E15-0284.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/178808-824-19615-2015-15-0284.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:38:22.248053"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 11856,
+  "numero": "86",
+  "fecha": "2000-03-09",
+  "anio": 2000,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "JOSÉ M. DELGADO OCANDO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admite la acción de amparo constitucional interpuesta por Carlos Raúl Corrales Fuentes contra la sentencia del Juzgado Superior en lo Civil, que había declarado parcialmente con lugar una acción reinvindicatoria en su contra. El demandante argumenta que la decisión del tribunal inferior violó sus derechos al debido proceso y a la defensa, al condenarlo en costas sin haber sido totalmente vencido en la litis.",
+  "palabras_clave": [
+    "amparo",
+    "constitucional",
+    "debido proceso",
+    "defensa"
+  ],
+  "titulo": "Admisión de acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_0007.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.682732"
+}

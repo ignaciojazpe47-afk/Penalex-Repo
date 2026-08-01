@@ -1,0 +1,23 @@
+{
+  "id": 34336,
+  "numero": "0015",
+  "fecha": "2022-02-11",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del TSJ recibió un oficio de la Corte de Apelaciones del Estado Yaracuy sobre una acción de amparo interpuesta por Antonia Vicenta Hernández Riera, madre de Juan Francisco Yustiz Hernández, quien se encuentra privado de libertad. La acción se fundamenta en la omisión de respuesta a una apelación presentada por el Fiscal Décimo Segundo, lo que cercena el derecho de petición del accionante. La Sala declara su competencia y ordena a la Corte de Apelaciones informar sobre el estado del expediente y la situación del ciudadano privado de libertad.",
+  "palabras_clave": [
+    "amparo",
+    "omisión",
+    "Corte de Apelaciones",
+    "privación de libertad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo por omisión de la Corte de Apelaciones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-02-11_S0015_E21-0299.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/315527-0015-11222-2022-21-0299.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.716178"
+}

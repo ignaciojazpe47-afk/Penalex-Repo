@@ -1,0 +1,26 @@
+{
+  "id": 32994,
+  "numero": "1563",
+  "fecha": "2023-11-27",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Colision de Leyes",
+  "materia": "Constitucional",
+  "decision": "LA PÉRDIDA DEL INTERÉS",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara la pérdida del interés procesal y el abandono del trámite en el recurso de colisión interpuesto por Carlos Brender. Se argumenta que la parte recurrente no mostró interés en continuar el proceso durante un lapso superior a un año, lo que llevó a la extinción de la acción. La decisión se fundamenta en la falta de actividad procesal y el derecho al acceso a la justicia.",
+  "palabras_clave": [
+    "interes procesal",
+    "colision de normas",
+    "accion",
+    "justicia",
+    "derechos",
+    "constitucion",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre pérdida del interés procesal en recurso de colisión de normas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-27_S1563_E15-1366.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330618-1563-271123-2023-15-1366.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.424436"
+}

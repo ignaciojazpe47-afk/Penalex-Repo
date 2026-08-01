@@ -1,0 +1,25 @@
+{
+  "id": 32983,
+  "numero": "1552",
+  "fecha": "2023-11-24",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Zaileth Eneida Díaz Lucero contra la Fiscalía Cuadragésima Sexta del Ministerio Público del Área Metropolitana de Caracas. La demandante alegó que la fiscalía había criminalizado un hecho de carácter civil, relacionado con una disputa de propiedad, y que había sido víctima de acoso y hostigamiento por parte de las autoridades. La Sala, tras analizar la competencia, determinó que no era competente para conocer la acción de amparo, declinando la competencia a un Juzgado de Primera Instancia en Funciones de Juicio del Circuito Judicial Penal de la misma circunscripción.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "fiscalía",
+    "ministerio público",
+    "derechos fundamentales",
+    "jurisdicción",
+    "acción penal"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-24_S1552_E23-0374.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330607-1552-241123-2023-23-0374.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.427116"
+}

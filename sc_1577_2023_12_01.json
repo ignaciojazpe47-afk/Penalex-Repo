@@ -1,0 +1,24 @@
+{
+  "id": 33008,
+  "numero": "1577",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "ORDENA",
+  "ponente": "Gladys María Gutiérrez Alvarado",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronuncia sobre la competencia para conocer de un recurso de apelación interpuesto por Vicente Emilio Muñoz Gil, defensor privado de César Oswaldo Quintero Mello y Carlos Augusto Ramírez Ramírez, contra una decisión que declaró inadmisible la acción de amparo constitucional. La Sala determina que es competente para conocer del caso, dado que el recurso se ejerció contra una decisión dictada en un juicio de amparo constitucional por una Corte de Apelaciones con competencia en materia penal.\n\nSe ordena al Presidente del Circuito Judicial Penal del Área Metropolitana de Caracas remitir información sobre el estado procesal de los ciudadanos mencionados y las actuaciones relacionadas con los expedientes pertinentes. La Sala advierte que el incumplimiento de esta orden conllevará sanciones, incluyendo multas a los funcionarios que no acaten la decisión.\n\nFinalmente, se establece que la notificación de esta decisión debe realizarse priorizando los sistemas de comunicación electrónicos, y se ordena su publicación y registro.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "legitimación",
+    "aprehensión",
+    "derechos humanos",
+    "justicia penal"
+  ],
+  "titulo": "Decisión sobre la competencia en recurso de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-28_S1577_E22-0978.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330632-1577-281123-2023-22-0978.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.171441"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28247,
+  "numero": "1207",
+  "fecha": "2024-12-04",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por las ciudadanas Yoselin Esther Pulido de Carrero y Magly Mayela Romero de Carrero, en representación de sus hijos, contra dos sentencias de inhibición dictadas por el Tribunal Superior del Circuito Judicial de Protección de Niños, Niñas y Adolescentes del Estado Bolivariano de Mérida. La Sala consideró que el traslado de la competencia a otra jurisdicción violó los derechos de los menores a la tutela judicial efectiva y al debido proceso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inhibición",
+    "tutela judicial efectiva",
+    "derechos de los niños"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-12-04_S1207_E22-0401.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/340143-1207-41224-2024-22-0401.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:12.038756"
+}

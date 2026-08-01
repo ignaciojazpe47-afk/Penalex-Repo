@@ -1,0 +1,23 @@
+{
+  "id": 3496,
+  "numero": null,
+  "fecha": "2008-06-13",
+  "anio": 2008,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUISA ESTELLA MORALES LAMUÑO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la constitucionalidad del carácter orgánico del Decreto con Rango, Valor y Fuerza de Ley Orgánica de Ordenación de las Empresas Productoras de Cemento, dictado por el Presidente de la República. Se argumentó que el decreto se fundamenta en el artículo 302 de la Constitución, que permite al Estado reservar actividades estratégicas para el desarrollo nacional, en este caso, la industria del cemento.\n\nLa decisión se basa en la necesidad de asegurar que la actividad cementera, de interés público, sea gestionada por el Estado, garantizando así el acceso a materiales de calidad para la construcción de infraestructuras y viviendas. La Sala concluyó que el decreto cumple con los requisitos para ser considerado orgánico, dado su impacto en la economía y la sociedad venezolana.\n\nFinalmente, se declaró la constitucionalidad del carácter orgánico del decreto, reafirmando la competencia de la Sala para pronunciarse sobre este tipo de normativas, en virtud de la habilitación legislativa otorgada al Presidente de la República.",
+  "palabras_clave": [
+    "constitucionalidad",
+    "decreto ley",
+    "industria cementera",
+    "interés público"
+  ],
+  "titulo": "Declaración de constitucionalidad del carácter orgánico del Decreto Ley de Ordenación de las Empresas Productoras de Cemento",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_2008-06-13_Constitucional_08.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:27.974370"
+}

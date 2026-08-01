@@ -1,0 +1,24 @@
+{
+  "id": 59687,
+  "numero": "834",
+  "fecha": "2016-10-18",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la competencia para conocer de una acción de amparo constitucional interpuesta por Esther Ubenza Gutiérrez Yánez, representada por sus abogados. La acción se dirigía contra la Autoridad Central de la República Bolivariana de Venezuela, en el contexto de una solicitud de restitución internacional de menores. La Sala determinó que el Poder Judicial venezolano tiene jurisdicción para conocer la acción de amparo, revocando la sentencia anterior que había declarado la falta de jurisdicción del Poder Judicial venezolano frente a un juez extranjero.\n\nEn su decisión, la Sala Constitucional destacó que la acción de amparo debía ser resuelta por los jueces con competencia en la materia de protección de niños, niñas y adolescentes, y se declaró incompetente para conocer del amparo ejercido. Se ordenó la remisión del expediente al Tribunal de Protección de Niños, Niñas y Adolescentes del Área Metropolitana de Caracas, enfatizando la importancia de garantizar los derechos de los menores involucrados en el proceso.\n\nFinalmente, la Sala exhortó a los recurrentes a actuar con coherencia en la interposición de acciones judiciales, evitando el desarrollo injustificado de la actividad jurisdiccional que podría afectar el orden procesal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "jurisdicción",
+    "niños",
+    "menores",
+    "restitución internacional"
+  ],
+  "titulo": "Sentencia sobre la competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-10-18_S834_E16-0571.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/190996-834-181016-2016-16-0571.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:36:55.760769"
+}

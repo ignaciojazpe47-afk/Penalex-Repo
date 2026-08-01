@@ -1,0 +1,25 @@
+{
+  "id": 33213,
+  "numero": "1716",
+  "fecha": "2023-12-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "MICHEL ADRIANA VELÁSQUEZ GRILLET",
+  "resumen": "La Corte de Apelaciones en materia de Delitos de Violencia Contra la Mujer declaró inadmisible el amparo interpuesto por Luis Eduardo Villegas Herrera, defensor de Luis Rafael González Villegas, por considerar que no existía una amenaza inmediata a los derechos del accionante. La decisión se fundamenta en la falta de cumplimiento de los plazos establecidos para la presentación del acto conclusivo por parte del Ministerio Público, lo que llevó a la conclusión de que no había lugar a la acción de amparo. La Sala Constitucional del TSJ ratificó la inadmisibilidad del recurso de apelación por extemporáneo.",
+  "palabras_clave": [
+    "archivo fiscal",
+    "acusación particular",
+    "victima",
+    "ministerio público",
+    "proceso penal",
+    "violencia de género"
+  ],
+  "titulo": "Sentencia sobre recurso de apelación en materia de amparo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-01_S1716_E23-0515.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/330962-1716-11223-2023-23-0515.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:28.169255"
+}

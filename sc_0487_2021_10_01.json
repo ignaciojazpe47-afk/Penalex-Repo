@@ -1,0 +1,24 @@
+{
+  "id": 39755,
+  "numero": "0487",
+  "fecha": "2021-10-01",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "RENÉ ALBERTO DEGRAVES ALMARZA",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó varias sentencias relacionadas con la recusación de jueces en un juicio por daños y perjuicios entre las empresas Promotora Leipzig, C.A. y Leipziger Service, C.A. contra Nestlé de Venezuela, S.A. Se determinó que la decisión de la Sala de Casación Civil que declaró perecido el recurso de casación era errónea y se ordenó la acumulación de las solicitudes de revisión. Además, se impuso una sanción a la jueza del Juzgado Séptimo de Primera Instancia por desacato a las órdenes de la Sala Constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "recusación",
+    "daños y perjuicios",
+    "Nestlé de Venezuela",
+    "sanción"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de decisiones judiciales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-10-01_S0487_E16-0708.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/313602-0487-11021-2021-16-0708.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:03.608429"
+}

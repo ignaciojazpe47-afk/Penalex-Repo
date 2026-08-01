@@ -1,0 +1,27 @@
+{
+  "id": 34005,
+  "numero": "1121",
+  "fecha": "2023-08-11",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Leonardo Rafael Hernández en representación de Milder Jafet Delgado Jiménez y Behiker Alejandro Merida Sosa, quienes alegaban violaciones a su derecho a la libertad personal. La Sala declaró su competencia para conocer el recurso de apelación contra la decisión de inadmisibilidad dictada por la Corte de Apelaciones del Circuito Judicial Penal de Miranda.",
+  "palabras_clave": [
+    "amparo",
+    "libertad",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "delitos",
+    "procedimiento",
+    "corte"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-11_S1121_E18-0271.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328268-1121-11823-2023-18-0271.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:54.330515"
+}

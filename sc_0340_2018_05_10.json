@@ -1,0 +1,27 @@
+{
+  "id": 46714,
+  "numero": "0340",
+  "fecha": "2018-05-10",
+  "anio": 2018,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la demanda de protección de derechos e intereses colectivos y difusos interpuesta por Luis Alberto Rodríguez contra el partido político Voluntad Popular. La demanda fue declarada inadmisible debido a la falta de legitimidad del demandante para solicitar la disolución del partido, ya que solo el Poder Ejecutivo tiene esa facultad según la Ley de Partidos Políticos. La Sala también destacó que la demanda no cumplía con los requisitos establecidos para la protección de intereses difusos.",
+  "palabras_clave": [
+    "legitimidad",
+    "partidos políticos",
+    "derechos colectivos",
+    "disolución",
+    "justicia",
+    "constitucional",
+    "demanda",
+    "intereses difusos"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la demanda contra el partido Voluntad Popular",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2018-05-10_S0340_E15-0074.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/211096-0340-10518-2018-15-0074.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:35:19.901772"
+}

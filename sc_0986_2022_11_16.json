@@ -1,0 +1,25 @@
+{
+  "id": 37430,
+  "numero": "0986",
+  "fecha": "2022-11-16",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por el abogado Rafael Medina Villalonga, quien actuaba como apoderado judicial de las ciudadanas Rosa Teresa Vargas Escalona y Caroline Del Carmen Castillo Vargas. La apelación fue contra la decisión de la Corte de Apelaciones del Circuito Judicial Penal del Estado Aragua, que declaró inadmisible la acción de amparo constitucional por falta de legitimidad, ya que el abogado no presentó el poder que lo acreditara como representante de las agraviadas.",
+  "palabras_clave": [
+    "apelación",
+    "amparo",
+    "legitimidad",
+    "abogados",
+    "decisión",
+    "inadmision"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-16_S0986_E19-0189.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320835-0986-161122-2022-19-0189.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:01.348358"
+}

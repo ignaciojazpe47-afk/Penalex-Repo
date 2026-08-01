@@ -1,0 +1,25 @@
+{
+  "id": 27791,
+  "numero": "0969",
+  "fecha": "2024-11-21",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Procedente",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia dictó la sentencia N° 0198 el 26 de febrero de 2024, declarando inadmisible la acción de amparo constitucional interpuesta por los abogados de Filippo Agoglitta. Posteriormente, se solicitó aclaratoria de dicha sentencia, argumentando un error en la cuantía estimada en la demanda. La Sala, al revisar la solicitud, determinó que efectivamente existía un error material y decidió revocar la sentencia anterior, declarando procedente la acción de amparo y ordenando que otro juzgado superior emita un nuevo pronunciamiento sobre el recurso de apelación. La decisión se fundamenta en la vulneración del derecho a la tutela judicial efectiva y al debido proceso.",
+  "palabras_clave": [
+    "aclaratoria",
+    "amparo",
+    "casación",
+    "cuantía",
+    "error material",
+    "justicia constitucional"
+  ],
+  "titulo": "Aclaratoria de la sentencia N° 0198",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-21_S0969_E23-1293.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/339282-0969-211124-2024-23-1293.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:22.135746"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33127,
+  "numero": "1636",
+  "fecha": null,
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional presentada por Jorge Luis Meneses Motabán contra la sentencia del 30 de julio de 2021, que declaró parcialmente con lugar su pretensión merodeclarativa de concubinato. La inadmisibilidad se fundamenta en que el agraviado optó por recurrir a la vía ordinaria de apelación, lo que excluye la posibilidad de amparo según el artículo 6, numeral 5 de la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales. La Sala confirma el fallo apelado y establece su competencia para conocer del recurso de apelación.",
+  "palabras_clave": [
+    "competencia",
+    "apelación",
+    "amparo",
+    "derechos",
+    "justicia",
+    "constitucional",
+    "sentencia"
+  ],
+  "titulo": "Decisión sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-29_S1636_E22-0006.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330803-1636-291123-2023-22-0006.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:52.691544"
+}

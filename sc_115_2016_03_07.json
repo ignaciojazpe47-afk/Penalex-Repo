@@ -1,0 +1,24 @@
+{
+  "id": 56312,
+  "numero": "115",
+  "fecha": "2016-03-07",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia número RC-00198 dictada por la Sala de Casación Civil, que había declarado sin lugar un recurso de casación. El solicitante argumentó que se vulneraron sus derechos a la tutela judicial efectiva y a la defensa, señalando incongruencias en la decisión de la Sala de Casación Civil. La Sala Constitucional encontró que efectivamente hubo vicios en la sentencia impugnada, especialmente en la falta de aplicación de normas del Código Civil y en la deficiente actuación del defensor ad litem del demandado. Por lo tanto, se declaró con lugar la solicitud de revisión y se anuló la sentencia de la Sala de Casación Civil.",
+  "palabras_clave": [
+    "revisión",
+    "sentencia",
+    "tutela judicial efectiva",
+    "defensa",
+    "Código Civil"
+  ],
+  "titulo": "Revisión de sentencia de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-07_S115_E15-0663.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185942-115-7316-2016-15-0663.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:27.597273"
+}

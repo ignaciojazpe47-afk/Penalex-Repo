@@ -1,0 +1,23 @@
+{
+  "id": 34061,
+  "numero": "1168",
+  "fecha": "2023-08-14",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "NO HA LUGAR",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la solicitud de revisión de la sentencia dictada el 17 de julio de 2017, que declaró sin lugar el recurso de apelación interpuesto por Joao Campolargo Rosa contra la decisión del Juzgado Tercero de Primera Instancia en lo Civil, Mercantil y Tránsito. La Sala concluyó que no se evidenció la identidad del inmueble objeto de la reivindicación, ya que la parte actora no promovió la prueba de experticia necesaria para demostrar que el bien en posesión del demandado era el mismo que se reclamaba. Por lo tanto, se declaró no ha lugar la solicitud de revisión, reafirmando la decisión del juzgado inferior.",
+  "palabras_clave": [
+    "revisión",
+    "acción reivindicatoria",
+    "due process",
+    "identidad del inmueble"
+  ],
+  "titulo": "Revisión de sentencia de acción reivindicatoria",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-14_S1168_E17-1115.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/328372-1168-14823-2023-17-1115.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:50.863176"
+}

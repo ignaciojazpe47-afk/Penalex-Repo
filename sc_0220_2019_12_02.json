@@ -1,0 +1,26 @@
+{
+  "id": 41791,
+  "numero": "0220",
+  "fecha": "2019-12-02",
+  "anio": 2020,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión constitucional de la sentencia número 294, dictada el 18 de julio de 2019. Se determinó que el abogado Gonzalo Cedeño Navarrete no contaba con el poder suficiente para representar a los ciudadanos solicitantes, ya que el poder otorgado era únicamente para el juicio en el que se había conferido. Por lo tanto, se declaró inadmisible la solicitud de revisión constitucional.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "poder apud acta",
+    "legitimidad",
+    "representación",
+    "inadmision",
+    "Código de Procedimiento Civil",
+    "Ley Orgánica del Tribunal Supremo de Justicia"
+  ],
+  "titulo": "Inadmisión de solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2020-12-02_S0220_E19-0742.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/310846-0220-21220-2020-19-0742.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:34:37.820158"
+}

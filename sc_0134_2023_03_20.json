@@ -1,0 +1,26 @@
+{
+  "id": 29395,
+  "numero": "0134",
+  "fecha": "2023-03-20",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la solicitud de revisión presentada por Carlos Julio López Millán, quien impugnó una decisión de la Sala de Casación Civil. La Sala declaró la inadmisibilidad de la solicitud debido a la falta de consignación de la copia certificada de la sentencia cuya revisión se solicitaba, lo que contraviene lo establecido en la Ley Orgánica del Tribunal Supremo de Justicia. La decisión se fundamenta en la necesidad de verificar la admisibilidad de la pretensión de revisión constitucional.",
+  "palabras_clave": [
+    "nulidad",
+    "derecho a la defensa",
+    "debido proceso",
+    "inadmision",
+    "revisión constitucional",
+    "carga procesal",
+    "sentencia"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-03-20_S0134_E23-0020.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/323795-0134-20323-2023-23-0020.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:42.332571"
+}

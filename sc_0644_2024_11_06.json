@@ -1,0 +1,25 @@
+{
+  "id": 27228,
+  "numero": "0644",
+  "fecha": "2024-11-06",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Incompetente",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por Yoserbys Rojas, esposa del penado José Ramón Portuguéz Contreras, quien alegaba una privación ilegítima de libertad debido a un presunto retardo procesal. La Sala, tras analizar la solicitud, determinó que no era competente para conocer del caso, declinando la competencia a la Corte de Apelaciones con materia en delitos de violencia contra la mujer del Circuito Judicial Penal del Área Metropolitana de Caracas.\n\nLa decisión se fundamenta en la normativa que establece la competencia de los tribunales para conocer de acciones de amparo, indicando que corresponde a la Corte de Apelaciones conocer de las impugnaciones contra decisiones de los tribunales de primera instancia. La Sala ordenó la remisión del expediente a la presidencia del circuito judicial penal para su distribución.\n\nFinalmente, la Sala declaró su incompetencia para conocer la acción de amparo, ordenando la notificación de la decisión a las partes involucradas y la remisión del expediente a la Corte de Apelaciones correspondiente.",
+  "palabras_clave": [
+    "amparo",
+    "habeas corpus",
+    "competencia",
+    "tribunales",
+    "justicia",
+    "derechos humanos"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional en modalidad de habeas corpus",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-06_S0644_E23-1248.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338627-0644-61124-2024-23-1248.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.298268"
+}

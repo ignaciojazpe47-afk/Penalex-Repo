@@ -1,0 +1,24 @@
+{
+  "id": 29936,
+  "numero": "0345",
+  "fecha": "2023-04-28",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono de trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara su competencia para conocer de la acción de amparo constitucional interpuesta por los abogados de Miriam Beatriz de León Veloz, en contra de una sentencia de la Corte de Apelaciones. Se establece que ha transcurrido un lapso de seis meses sin el impulso procesal necesario, lo que se califica como abandono del trámite. En consecuencia, se declara terminado el procedimiento y se impone una multa a la parte demandante.",
+  "palabras_clave": [
+    "amparo",
+    "tutela judicial",
+    "interés procesal",
+    "abandonos de trámite",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional por abandono de trámite",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-04-28_S0345_E22-0500.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/abril/324615-0345-28423-2023-22-0500.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:27.054798"
+}

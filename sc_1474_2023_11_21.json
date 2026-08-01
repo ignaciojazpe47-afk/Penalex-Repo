@@ -1,0 +1,25 @@
+{
+  "id": 32905,
+  "numero": "1474",
+  "fecha": "2023-11-21",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "COMPETENTE",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre un conflicto negativo de competencia entre el Juzgado Cuarto de Primera Instancia en lo Civil y el Tribunal Tercero de Primera Instancia del Circuito Judicial del Trabajo, relacionado con una acción de amparo constitucional interpuesta por la ciudadana Alejandra José Rosalía Gómez Carrasquero contra la Asociación Civil Universidad de Falcón. La acción se fundamenta en la supuesta violación de su derecho a la educación debido a la suspensión de su beca de estudios.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "competencia",
+    "derechos laborales",
+    "becas",
+    "universidad",
+    "relación laboral"
+  ],
+  "titulo": "Decisión sobre conflicto negativo de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-21_S1474_E22-0731.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330525-1474-211123-2023-22-0731.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:38.445199"
+}

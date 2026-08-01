@@ -1,0 +1,25 @@
+{
+  "id": 24034,
+  "numero": "0001",
+  "fecha": "2024-01-12",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Nulidad",
+  "materia": "Constitucional",
+  "decision": "Dejar Sin Efecto",
+  "ponente": "Lourdes Benicia Suárez Anderson",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, mediante la sentencia n.° 2037, admitió un recurso de nulidad interpuesto por la abogada Aura Brunilde Seijas Guzmán contra una ordenanza municipal. En la decisión, se declaró competente para conocer del recurso y se ordenó la citación de las partes involucradas, así como la suspensión de los efectos de la ordenanza hasta que se dicte sentencia de fondo. Posteriormente, se dejó sin efecto la medida cautelar acordada, considerando la promulgación de una nueva ley que regula las potestades tributarias de los estados y municipios.",
+  "palabras_clave": [
+    "medida cautelar",
+    "nulidad",
+    "inconstitucionalidad",
+    "ordenanza",
+    "potestades tributarias",
+    "intereses públicos"
+  ],
+  "titulo": "Sentencia sobre recurso de nulidad por inconstitucionalidad e ilegalidad",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-01-12_S0001_E23-1035.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/enero/332182-0001-12124-2024-23-1035.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:06.841394"
+}

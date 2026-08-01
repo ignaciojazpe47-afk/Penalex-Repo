@@ -1,0 +1,26 @@
+{
+  "id": 33133,
+  "numero": "1642",
+  "fecha": "2023-11-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia, declara sin lugar el recurso de apelación interpuesto por la abogada Anayensi Mora Páez, defensora de los ciudadanos Williams Albrey Mora y Omar José Mora, contra la decisión de la Corte de Apelaciones que declaró inadmisible la acción de amparo. La Sala fundamenta su decisión en que el agraviado no agotó las vías ordinarias antes de recurrir al amparo constitucional, conforme a lo establecido en la Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales.\n\nSe destaca que la acción de amparo es un recurso extraordinario y no debe ser utilizado como sustituto de los recursos ordinarios. La Sala reitera que la inadmisibilidad se justifica cuando el agraviado ha optado por recurrir a las vías judiciales ordinarias, lo que se evidencia en el caso presentado. La decisión de la Corte de Apelaciones es confirmada, manteniendo la inadmisibilidad de la acción de amparo.\n\nFinalmente, se ordena la publicación y registro de la decisión, así como el envío del expediente al tribunal de origen, reafirmando la importancia de seguir los procedimientos establecidos en la ley para la protección de los derechos fundamentales.",
+  "palabras_clave": [
+    "derechos humanos",
+    "debido proceso",
+    "libertad personal",
+    "constitución",
+    "amparo constitucional",
+    "justicia",
+    "inocencia"
+  ],
+  "titulo": "Sentencia sobre la inadmisibilidad de la acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-11-30_S1642_E21-0562.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/330809-1642-301123-2023-21-0562.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:33.970818"
+}

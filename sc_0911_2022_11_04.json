@@ -1,0 +1,25 @@
+{
+  "id": 37213,
+  "numero": "0911",
+  "fecha": "2022-11-04",
+  "anio": 2022,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia n.° RC.000402 dictada por la Sala de Casación Civil, que declaró perecido el recurso de casación interpuesto por Germán Antonio Romero Araujo. La Sala encontró que la decisión de la Sala de Casación Civil había incurrido en errores en el cómputo de los plazos para la formalización del recurso, afectando el derecho al debido proceso y a la defensa del solicitante. En consecuencia, se declaró con lugar la solicitud de revisión, anulando la sentencia impugnada y ordenando el trámite del recurso de casación.",
+  "palabras_clave": [
+    "revisión de sentencias",
+    "derecho al debido proceso",
+    "defensa",
+    "constitucionalidad",
+    "jurisdicción",
+    "tribunales"
+  ],
+  "titulo": "Revisión de sentencia de casación declarada perecida",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2022-11-04_S0911_E15-1278.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/320599-0911-41122-2022-15-1278.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:07.407982"
+}

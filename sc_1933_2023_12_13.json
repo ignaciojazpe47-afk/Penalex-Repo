@@ -1,0 +1,24 @@
+{
+  "id": 33785,
+  "numero": "1933",
+  "fecha": "2023-12-13",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Sin Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declaró no ha lugar la revisión constitucional solicitada por la empresa Inter Global Trading, C.A. contra la sentencia N° 0467 de la Sala de Casación Civil, que había declarado sin lugar el recurso de casación interpuesto por dicha empresa. La Sala consideró que no se vulneraron los derechos al debido proceso y a la defensa, ya que la negativa a la prórroga para la evacuación de pruebas fue ajustada a derecho y no se demostró la urgencia de las pruebas solicitadas. Además, se concluyó que la prueba de testigos promovida no alteraría el resultado del fallo, dado que el incumplimiento de la obligación de pago era el punto central del litigio.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "debido proceso",
+    "tutela judicial efectiva",
+    "prueba de testigos",
+    "inspección ocular"
+  ],
+  "titulo": "Revisión constitucional de la sentencia N° 0467 de la Sala de Casación Civil",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-12-13_S1933_E22-0425.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/331902-1933-131223-2023-22-0425.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:18.443098"
+}

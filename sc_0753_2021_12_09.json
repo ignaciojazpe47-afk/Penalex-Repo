@@ -1,0 +1,25 @@
+{
+  "id": 40808,
+  "numero": "0753",
+  "fecha": "2021-12-09",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo interpuesta por José Luis Herrera Virgüez contra una sentencia del Juzgado Superior Tercero en lo Civil, Mercantil y del Tránsito del Estado Lara. La acción fue desestimada por abandono del trámite, ya que el demandante no realizó actuaciones en el expediente durante más de seis meses, lo que se considera como falta de interés procesal. La Sala también impuso una multa a la parte actora por el entorpecimiento de las labores del tribunal.",
+  "palabras_clave": [
+    "amparo",
+    "abandonotrámite",
+    "interésprocesal",
+    "derechosfundamentales",
+    "tutela",
+    "inactividad"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-12-09_S0753_E19-0765.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/diciembre/315205-0753-91221-2021-19-0765.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:50.730942"
+}

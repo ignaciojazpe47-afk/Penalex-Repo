@@ -1,0 +1,22 @@
+{
+  "id": 16101,
+  "numero": "0070",
+  "fecha": "2026-02-19",
+  "anio": 2026,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La ciudadana Sonia Mercedes Arasme Palomo solicitó la revisión de una sentencia dictada el 11 de julio de 2023 por el Juzgado Superior Agrario, que ordenó el pago de honorarios profesionales. La Sala Constitucional, tras analizar la solicitud, determinó que el tribunal retasador había actuado conforme a derecho y que la revisión no era procedente, ya que no se evidenció violación a derechos fundamentales ni errores en la interpretación de la ley. Finalmente, se declaró con lugar la revisión solicitada.",
+  "palabras_clave": [
+    "revisión",
+    "honorarios",
+    "constitucional"
+  ],
+  "titulo": "Revisión de sentencia sobre cobro de honorarios profesionales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2026-02-19_S0070_E25-1303.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/febrero/352755-0070-19226-2026-25-1303.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:14.392333"
+}

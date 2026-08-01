@@ -1,0 +1,22 @@
+{
+  "id": 20388,
+  "numero": "0939",
+  "fecha": "2025-06-17",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Luis Fernando Damiani Bustillos",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por Fabio Aru contra una sentencia de la Corte de Apelaciones que confirmó un fallo de desestimación de acusación por injuria agravada. Se argumenta que el accionante no presentó copia certificada del fallo impugnado, lo que constituye un requisito indispensable para la admisión de la acción. La Sala reafirma su competencia para conocer de la acción, pero resalta el incumplimiento de las cargas procesales por parte del demandante.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional de Fabio Aru",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-06-17_S0939_E24-0198.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/junio/344900-0939-17625-2025-24-0198.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:11.312881"
+}

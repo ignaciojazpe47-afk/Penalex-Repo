@@ -1,0 +1,27 @@
+{
+  "id": 20835,
+  "numero": "1094",
+  "fecha": "2025-07-09",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Cúmplase lo ordenado",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia recibió un expediente relacionado con una acción de amparo constitucional presentada por Fernando José Bianco Colmenares, en su calidad de Presidente del Colegio de Médicos del Distrito Metropolitano de Caracas. La acción se interpuso contra el baremo del concurso de ingreso a los postgrados clínicos de la Universidad Central de Venezuela, alegando violaciones a los derechos a la educación y a la igualdad de los médicos comunitarios. La Sala determinó su competencia para conocer el caso, dado que la controversia tiene trascendencia nacional.",
+  "palabras_clave": [
+    "amparo",
+    "educación",
+    "igualdad",
+    "derechos",
+    "medicina",
+    "universidad",
+    "constitucional",
+    "jurisprudencia"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-07-09_S1094_E23-0915.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/julio/345856-1094-9725-2025-23-0915.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:29:07.508051"
+}

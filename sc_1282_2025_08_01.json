@@ -1,0 +1,24 @@
+{
+  "id": 21422,
+  "numero": "1282",
+  "fecha": "2025-08-01",
+  "anio": 2025,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Terminación del procedimiento por abandono del trámite",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara competente para conocer de la acción de amparo constitucional interpuesta por Jhonny Eduardo Lisboa Hernández, quien fue asistido por la abogada Angélica Tovar. La acción se relaciona con una sentencia del Juzgado Superior que declaró inadmisible la solicitud de amparo sobrevenido. La Sala determina que ha transcurrido un lapso de seis meses sin impulso procesal por parte del accionante, lo que se califica como abandono del trámite.",
+  "palabras_clave": [
+    "amparo",
+    "abandonodeprocedimiento",
+    "tutela judicial efectiva",
+    "interés procesal",
+    "derechos fundamentales"
+  ],
+  "titulo": "Sentencia sobre abandono de trámite en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2025-08-06_S1282_E22-0301.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/346938-1282-6825-2025-22-0301.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:28:58.776139"
+}

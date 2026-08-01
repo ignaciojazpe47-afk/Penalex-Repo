@@ -1,0 +1,23 @@
+{
+  "id": 62415,
+  "numero": "184",
+  "fecha": "2015-02-12",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Amparo",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "FRANCISCO ANTONIO CARRASQUERO LÓPEZ",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una demanda interpuesta por ciudadanos del Municipio Acosta del Estado Monagas, quienes alegaban la obstrucción del acceso al único vertedero de la entidad. La Sala declaró competente para conocer la demanda y admitió la misma, ordenando las notificaciones pertinentes y la medida cautelar solicitada para garantizar el acceso al vertedero a los vehículos que transportan residuos.\n\nEn la sentencia, se establece que la Alcaldía del Municipio Acosta debe informar sobre el cumplimiento de la medida cautelar en un plazo determinado, advirtiendo que la falta de respuesta podría acarrear sanciones. La decisión se fundamenta en la aplicación supletoria del Código de Procedimiento Civil, que permite al tribunal dictar autos para mejor proveer cuando lo considere necesario.\n\nLa Sala estuvo integrada por varios magistrados, con el Dr. Francisco Antonio Carrasquero López como ponente. La decisión busca proteger los intereses colectivos y difusos de los ciudadanos afectados por la obstrucción del acceso al vertedero.",
+  "palabras_clave": [
+    "acceso",
+    "vertedero",
+    "intereses colectivos",
+    "medida cautelar"
+  ],
+  "titulo": "Sentencia sobre acceso al vertedero municipal en el Municipio Acosta del Estado Monagas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-03-11_S184_E08-1256.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/175189-184-11315-2015-08-1256.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:05.553891"
+}

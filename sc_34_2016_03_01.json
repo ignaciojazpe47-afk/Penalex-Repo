@@ -1,0 +1,23 @@
+{
+  "id": 56146,
+  "numero": "34",
+  "fecha": "2016-03-01",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Sin Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su sentencia N° 1.446, declaró sin lugar la solicitud de revisión presentada por la sociedad mercantil GEOSERVICES, S.A. contra la decisión de la Sala de Casación Social que había confirmado un fallo que declaró parcialmente con lugar una demanda por cobro de prestaciones sociales. La parte solicitante argumentó violaciones a derechos constitucionales y la inaplicación de su doctrina sobre la calificación de trabajador de confianza, pero la Sala consideró que no había lugar para la revisión, reafirmando la autonomía de los jueces en la valoración de pruebas y la interpretación del derecho aplicable.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "trabajador de confianza",
+    "derechos constitucionales"
+  ],
+  "titulo": "Sentencia sobre solicitud de revisión de sentencia de casación laboral",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-03-01_S34_E15-0881.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/marzo/185677-34-1316-2016-15-0881.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.953073"
+}

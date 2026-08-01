@@ -1,0 +1,24 @@
+{
+  "id": 31699,
+  "numero": "1037",
+  "fecha": "2023-08-01",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "TERMINADO",
+  "ponente": "LOURDES BENICIA SUÁREZ ANDERSON",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre una acción de amparo constitucional interpuesta por el abogado Leudys Germán Utrera Olivero en representación de Alexis Isidro Aguilar Aponte, contra la Corte de Apelaciones del Circuito Judicial Penal del Estado Guárico. La acción fue motivada por la supuesta violación de derechos constitucionales y denegación de justicia. La Sala determinó su competencia para conocer el caso y, tras revisar el expediente, constató que no hubo impulso procesal durante más de seis meses, lo que configuró el abandono del trámite.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "abandonos de trámite",
+    "derechos constitucionales",
+    "tutela judicial",
+    "proceso penal"
+  ],
+  "titulo": "Decisión sobre acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-01_S1037_E22-0910.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327603-1037-1823-2023-22-0910.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.894624"
+}

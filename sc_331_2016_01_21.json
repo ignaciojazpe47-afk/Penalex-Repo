@@ -1,0 +1,24 @@
+{
+  "id": 57321,
+  "numero": "331",
+  "fecha": "2016-01-21",
+  "anio": 2016,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia decidió sobre la acción de amparo constitucional interpuesta por el Ministerio Público contra la decisión de un Tribunal de Control que otorgó libertad condicional a un imputado por delitos graves. La Corte de Apelaciones había declarado inadmisible la acción de amparo, argumentando que existían vías ordinarias para impugnar la decisión. Sin embargo, la Sala Constitucional concluyó que la acción de amparo era procedente, ya que la falta de aplicación del efecto suspensivo en la libertad del imputado vulneraba el debido proceso y la tutela judicial efectiva. En consecuencia, se declaró con lugar la apelación y se anuló la decisión de inadmisibilidad, ordenando la aprehensión inmediata del imputado.",
+  "palabras_clave": [
+    "Amparo",
+    "Debido Proceso",
+    "Tutela Judicial Efectiva",
+    "Libertad Condicional",
+    "Violencia Contra la Mujer"
+  ],
+  "titulo": "Sentencia sobre acción de amparo constitucional interpuesta por el Ministerio Público",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2016-05-02_S331_E16-0069.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/187502-331-2516-2016-16-0069.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:30.960438"
+}

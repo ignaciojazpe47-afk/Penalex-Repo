@@ -1,0 +1,26 @@
+{
+  "id": 30322,
+  "numero": "0540",
+  "fecha": "2023-05-16",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "LUIS FERNANDO DAMIANI BUSTILLOS",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia, en su decisión del 16 de mayo de 2023, declaró con lugar la solicitud de revisión constitucional presentada por William Antonio Peinado Tovar, quien impugnó la sentencia del Juzgado Duodécimo de Primera Instancia del Trabajo que había declarado inadmisible su recurso contencioso administrativo de nulidad. La Sala consideró que el Juzgado había vulnerado principios constitucionales al no reconocer la competencia adecuada para conocer del caso, dado que el acto administrativo de remoción del demandante era objeto de control por la jurisdicción contencioso-administrativa.\n\nLa Sala anuló tanto el fallo del Juzgado Duodécimo como el del Juzgado Superior Tercero en lo Civil y Contencioso Administrativo, ordenando que el expediente fuera remitido al Juzgado Superior de lo Contencioso Administrativo para su conocimiento. Además, se apercibió a los órganos jurisdiccionales para que ajusten sus decisiones a los criterios establecidos por la Sala en casos similares, garantizando así el respeto a los derechos del solicitante y la correcta aplicación de la ley.\n\nEsta decisión reafirma la importancia de la correcta interpretación y aplicación de las normas que rigen la jurisdicción contencioso-administrativa, así como la protección de los derechos de los trabajadores en el ámbito administrativo.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "competencia",
+    "procedimientos administrativos",
+    "nulidad",
+    "remoción",
+    "INCES",
+    "jurisdicción contencioso administrativa"
+  ],
+  "titulo": "Sentencia sobre revisión constitucional de inadmisibilidad de recurso contencioso administrativo",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-16_S0540_E20-0076.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325169-0540-16523-2023-20-0076.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:21.873002"
+}

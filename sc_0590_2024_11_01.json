@@ -1,0 +1,26 @@
+{
+  "id": 27165,
+  "numero": "0590",
+  "fecha": "2024-11-01",
+  "anio": 2024,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Contencioso-Administrativo",
+  "decision": "Inadmisible",
+  "ponente": "Michel Adriana Velásquez Grillet",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la apelación interpuesta por Natacha Díaz contra la decisión del Juzgado Nacional Primero Contencioso Administrativo que declaró inadmisible su acción de amparo. La apelación fue considerada extemporánea, ya que la demandante se notificó de la sentencia de primera instancia el 9 de noviembre de 2023 y presentó su apelación el 15 de noviembre, fuera del lapso establecido. Por lo tanto, la Sala declaró inadmisible la apelación y firme la sentencia apelada.",
+  "palabras_clave": [
+    "apelación",
+    "inadmisibilidad",
+    "amparo",
+    "temporalidad",
+    "justicia",
+    "derechos",
+    "garantías"
+  ],
+  "titulo": "Sentencia sobre apelación de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2024-11-01_S0590_E23-1273.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/338550-0590-11124-2024-23-1273.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:30:39.304063"
+}

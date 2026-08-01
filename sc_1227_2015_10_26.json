@@ -1,0 +1,22 @@
+{
+  "id": 66825,
+  "numero": "1227",
+  "fecha": "2015-10-26",
+  "anio": 2015,
+  "sala": "SC",
+  "tipo_recurso": "Revision Constitucional",
+  "materia": "Laboral",
+  "decision": "Con Lugar",
+  "ponente": "Arcadio Delgado Rosales",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia revisó la sentencia dictada el 17 de noviembre de 2011 por el Tribunal Superior Quinto del Circuito Judicial del Trabajo, que había declarado parcialmente con lugar la demanda por cobro de prestaciones sociales del ciudadano Edgardo Enrique Ahumada. La revisión se fundamentó en la alegación de que el cálculo de las prestaciones se realizó sobre una relación laboral de 4 años, cuando en realidad el demandante había trabajado durante 32 años. La Sala constató que el error en la fecha de inicio de la relación laboral, señalado por el Procurador del Trabajo, afectó el cálculo de las prestaciones sociales.",
+  "palabras_clave": [
+    "revisión constitucional",
+    "prestaciones sociales",
+    "relación laboral"
+  ],
+  "titulo": "Sentencia sobre revisión de prestaciones sociales",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2015-10-26_S1227_E15-0089.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/octubre/182123-1227-261015-2015-15-0089.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:37:56.450728"
+}

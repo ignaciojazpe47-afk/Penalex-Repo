@@ -1,0 +1,22 @@
+{
+  "id": 11635,
+  "numero": null,
+  "fecha": "2010-07-16",
+  "anio": 2010,
+  "sala": "SC",
+  "tipo_recurso": "Interpretacion Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "Marcos Tulio Dugarte Padrón",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la interpretación de varios artículos de la Constitución y leyes relacionadas con el régimen del Distrito Metropolitano de Caracas. Los accionantes, en representación de trabajadores de la Alcaldía, alegaron que se les negaba el reconocimiento de sus derechos laborales tras la supuesta transferencia de la Secretaría de Infraestructura al Distrito Capital. La Sala declaró que el personal de la Secretaría de Infraestructura permanece bajo la Alcaldía Metropolitana, garantizando su estabilidad laboral.",
+  "palabras_clave": [
+    "Interpretación Constitucional",
+    "Derechos Laborales",
+    "Distrito Metropolitano de Caracas"
+  ],
+  "titulo": "Interpretación de normas sobre el régimen del Distrito Metropolitano de Caracas",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_CasacionSocial_2010_DugartePadron.pdf",
+  "url_tsj": null,
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:39:21.556385"
+}

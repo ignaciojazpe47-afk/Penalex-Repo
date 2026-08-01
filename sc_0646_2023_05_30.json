@@ -1,0 +1,22 @@
+{
+  "id": 30600,
+  "numero": "0646",
+  "fecha": "2023-05-30",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Con Lugar",
+  "ponente": "TANIA D’AMELIO CARDIET",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia admitió la acción de amparo interpuesta por Jorge Enrique Núñez, defensor privado de Eumelia Castillo de Modugno y Ramón Ignacio Modugno Martínez, contra la decisión de la Sala N°. 6 de la Corte de Apelaciones que declaró inadmisible un recurso de apelación. La Sala consideró que la decisión impugnada vulneró el derecho a la tutela judicial efectiva y el derecho a la defensa, ya que la inadmisibilidad se basó en una errónea interpretación de la normativa procesal penal.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inadmisibilidad",
+    "tutela judicial efectiva"
+  ],
+  "titulo": "Sentencia de Amparo Constitucional sobre inadmisibilidad de recurso de apelación",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-05-30_S0646_E22-0533.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/mayo/325734-0646-30523-2023-22-0533.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:32:16.930159"
+}

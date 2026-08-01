@@ -1,0 +1,23 @@
+{
+  "id": 40075,
+  "numero": "0577",
+  "fecha": "2021-11-04",
+  "anio": 2021,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "Inadmisible",
+  "ponente": "Carmen Zuleta de Merchán",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia declara inadmisible la acción de amparo constitucional interpuesta por los abogados Juan Francisco Vásquez y Carlos Gregorio Carvajal en representación de Jonás Hanani Mercado López. La decisión se basa en la inepta acumulación de pretensiones, ya que se dirigió contra dos órganos jurisdiccionales distintos, el Tribunal de Primera Instancia y la Corte de Apelaciones, lo que resulta incompatible en un mismo libelo. La Sala argumenta que la acumulación de pretensiones debe tener conexión por el objeto de la demanda o por el título o hecho que dependa, lo cual no se cumple en este caso.",
+  "palabras_clave": [
+    "amparo constitucional",
+    "inepta acumulación",
+    "debido proceso",
+    "derecho a la defensa"
+  ],
+  "titulo": "Sentencia de inadmisibilidad por inepta acumulación de pretensiones",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2021-11-04_S0577_E21-0350.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/noviembre/314076-0577-41121-2021-21-0350.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:33:59.108838"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 31810,
+  "numero": "1053",
+  "fecha": "2023-08-04",
+  "anio": 2023,
+  "sala": "SC",
+  "tipo_recurso": "Amparo Constitucional",
+  "materia": "Constitucional",
+  "decision": "INCOMPETENTE",
+  "ponente": "GLADYS MARÍA GUTIÉRREZ ALVARADO",
+  "resumen": "La Sala Constitucional del Tribunal Supremo de Justicia se pronunció sobre la declinatoria de competencia realizada por el Juzgado Superior Estadal Octavo Contencioso Administrativo en relación a una acción de amparo constitucional interpuesta por Assaad Douaihy. La Sala declaró que el Juzgado era incompetente para conocer de la acción, la cual debía ser tramitada por el mismo Juzgado remitente. La decisión se fundamentó en la relación entre la materia de la acción y los derechos constitucionales alegados como vulnerados.",
+  "palabras_clave": [
+    "silencio administrativo",
+    "inconstitucionalidad",
+    "libertad económica",
+    "pequeñas y medianas empresas",
+    "ordenanza municipal",
+    "derechos constitucionales",
+    "intervención estatal"
+  ],
+  "titulo": "Sentencia sobre declinatoria de competencia en acción de amparo constitucional",
+  "url_pdf": "https://iajuriss.com/docs/sentencias/TSJ_Constitucional_2023-08-04_S1053_E23-0187.pdf",
+  "url_tsj": "https://historico.tsj.gob.ve/decisiones/scon/agosto/327886-1053-4823-2023-23-0187.HTML",
+  "fuente": "IaJuriss (Supabase)",
+  "procesado": "2026-07-31T20:31:57.887314"
+}
