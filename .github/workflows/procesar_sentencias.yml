@@ -1,18 +1,38 @@
-name: Procesar Sentencias
-on:
-  push:
-    paths:
-      - 'prueba.json'
-  workflow_dispatch:
+import os
+import re
+import subprocess
+import json
 
-jobs:
-  convertir:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Instalar herramientas
-        run: sudo apt-get update && sudo apt-get install -y poppler-utils
-        
-      - name: Ejecutar script
-        run: python3 script_conversor.py
+def limpiar_html(html_content):
+    patron = r"IAJuriss\.com\s\|\sBase\ de\ Datos\ Jurídica\ de\ Venezuela\ \|\ Página\ \d+\ de\ \d+"
+    return re.sub(patron, "", html_content, flags=re.IGNORECASE)
+
+def procesar_archivo(json_file):
+    with open(json_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Extrae la URL directamente de tu estructura actual
+    url = data.get("url_pdf")
+    if not url:
+        return
+
+    # Descarga y convierte
+    pdf_filename = "temp.pdf"
+    subprocess.run(["wget", "-O", pdf_filename, url])
+    subprocess.run(["pdftohtml", "-s", "-i", pdf_filename, "salida.html"])
+
+    with open("salida.html", 'r', encoding='utf-8') as f:
+        contenido = f.read()
+
+    data["contenido_html"] = limpiar_html(contenido)
+    
+    # Sobrescribe el archivo JSON con la nueva info
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+
+if __name__ == "__main__":
+    # Esto buscará cualquier archivo .json que no sea el script mismo
+    for file in os.listdir('.'):
+        if file.endswith(".json") and file != "prueba.json":
+            print(f"Procesando: {file}")
+            procesar_archivo(file)
